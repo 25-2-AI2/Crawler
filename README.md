@@ -11,6 +11,7 @@
   - [빠른 시작](#빠른-시작)
   - [팀원별 작업 분할](#팀원별-작업-분할)
   - [개별 스크립트 실행](#개별-스크립트-실행)
+- [유틸리티](#유틸리티)
 - [파일 형식](#파일-형식)
 - [주의사항](#주의사항)
 
@@ -18,6 +19,7 @@
 
 ### 그리드 기반 자동화 파이프라인 (main.py)
 - **gridInfo.txt 기반 자동 수집**: 뉴욕시 59개 커뮤니티 그리드별 자동 처리
+- **Tier 기반 자동 조정**: grid_tier.csv를 사용하여 지역 중요도(HOT/MID/RES)에 따라 수집할 식당 개수 자동 조정
 - **그리드별 완전 수집**: 각 그리드마다 레스토랑 정보 수집 → 즉시 리뷰 수집
 - **팀원별 작업 분할**: `--start_from`, `--limit` 옵션으로 작업을 나눠서 병렬 실행 가능
 - **중간 저장**: 레스토랑 수집 완료, 식당별 리뷰 수집 완료 시마다 즉시 저장 (오류 발생 시에도 데이터 보존)
@@ -29,6 +31,7 @@
 - 이름, 주소, place_id, 평점, 리뷰 수, 전화번호 수집
 - 검색 쿼리 기반 식당 검색
 - 그리드별 자동 쿼리 생성 및 저장
+- **Grid 모드**: girdInfo.txt와 grid_tier.csv를 읽어 59개 그리드 자동 처리
 
 ### 리뷰 수집 (getReviews.py)
 - Selenium을 이용한 동적 크롤링
@@ -46,10 +49,12 @@ Crawler/
 ├── main.py                           # 그리드 기반 전체 파이프라인 (메인 스크립트)
 ├── getRestaurantsInfo.py             # 식당 정보 수집 유틸리티
 ├── getReviews.py                     # 리뷰 수집 유틸리티
-├── config.py                         # API 키 설정
+├── config.py                         # API 키 및 Tier별 수집 개수 설정
 ├── requirements.txt                  # 필수 패키지 목록
 ├── .env                              # 환경 변수 (API 키 저장)
 ├── girdInfo.txt                      # 뉴욕시 59개 그리드 정보 (입력)
+├── grid_tier.csv                     # 그리드별 Tier 정보 (HOT/MID/RES) (입력)
+├── check_tier_mapping.py             # Tier 매칭 확인 스크립트 (유틸리티)
 │
 ├── restaurants/                      # 그리드별 레스토랑 정보 (출력)
 │   ├── restaurants_MN1.json          # 맨해튼 1지구 레스토랑 정보
@@ -86,6 +91,21 @@ pip install -r requirements.txt
 GOOGLE_MAPS_API_KEY=your_api_key_here
 ```
 
+### 2-1. Tier별 식당 수집 개수 설정 (선택 사항)
+
+`config.py`에서 각 Tier별로 수집할 식당 개수를 조정할 수 있습니다:
+
+```python
+# config.py
+TIER_RESTAURANT_COUNT = {
+    "HOT": 80,   # 핫플레이스 지역 (기본값: 80개)
+    "MID": 50,   # 중간 지역 (기본값: 50개)
+    "RES": 25    # 주거 지역 (기본값: 25개)
+}
+```
+
+이 설정은 `--use_tier_based_restaurants` 플래그를 사용할 때만 적용됩니다.
+
 ### 3. Chrome WebDriver 설치
 
 Selenium은 Chrome 브라우저를 제어하기 위해 ChromeDriver가 필요합니다.
@@ -115,7 +135,19 @@ python main.py --grid_file girdInfo.txt --limit 1 --max_restaurants 10 --max_rev
 - 레스토랑당 최대 20개 리뷰 수집
 - 결과는 `restaurants/`와 `reviews/` 디렉토리에 저장
 
-#### 전체 그리드 실행 (59개 그리드)
+#### 전체 그리드 실행 - Tier 기반 자동 조정 (권장)
+
+```bash
+python main.py --grid_file girdInfo.txt --use_tier_based_restaurants --max_reviews 50 --headless
+```
+
+이 명령은:
+- 뉴욕시 59개 그리드 전체 처리
+- **Tier에 따라 자동으로 식당 개수 조정**: HOT 지역 80개, MID 지역 50개, RES 지역 25개
+- 레스토랑당 최대 50개 리뷰 수집
+- 백그라운드 모드로 실행 (브라우저 창 숨김)
+
+#### 전체 그리드 실행 - 고정 개수 방식
 
 ```bash
 python main.py --grid_file girdInfo.txt --max_restaurants 30 --max_reviews 50 --headless
@@ -123,7 +155,7 @@ python main.py --grid_file girdInfo.txt --max_restaurants 30 --max_reviews 50 --
 
 이 명령은:
 - 뉴욕시 59개 그리드 전체 처리
-- 그리드당 최대 30개 레스토랑 수집
+- 모든 그리드에서 동일하게 30개 레스토랑 수집
 - 레스토랑당 최대 50개 리뷰 수집
 - 백그라운드 모드로 실행 (브라우저 창 숨김)
 
@@ -131,20 +163,36 @@ python main.py --grid_file girdInfo.txt --max_restaurants 30 --max_reviews 50 --
 
 59개 그리드를 3명의 팀원이 나눠서 동시에 처리하는 예시:
 
-#### 팀원 1: 그리드 0~19 (20개)
+#### Tier 기반 모드 (권장)
 
+**팀원 1: 그리드 0~19 (20개)**
+```bash
+python main.py --grid_file girdInfo.txt --start_from 0 --limit 20 --use_tier_based_restaurants --max_reviews 50 --headless
+```
+
+**팀원 2: 그리드 20~39 (20개)**
+```bash
+python main.py --grid_file girdInfo.txt --start_from 20 --limit 20 --use_tier_based_restaurants --max_reviews 50 --headless
+```
+
+**팀원 3: 그리드 40~58 (19개)**
+```bash
+python main.py --grid_file girdInfo.txt --start_from 40 --limit 19 --use_tier_based_restaurants --max_reviews 50 --headless
+```
+
+#### 고정 개수 모드
+
+**팀원 1: 그리드 0~19 (20개)**
 ```bash
 python main.py --grid_file girdInfo.txt --start_from 0 --limit 20 --max_restaurants 30 --max_reviews 50 --headless
 ```
 
-#### 팀원 2: 그리드 20~39 (20개)
-
+**팀원 2: 그리드 20~39 (20개)**
 ```bash
 python main.py --grid_file girdInfo.txt --start_from 20 --limit 20 --max_restaurants 30 --max_reviews 50 --headless
 ```
 
-#### 팀원 3: 그리드 40~58 (19개)
-
+**팀원 3: 그리드 40~58 (19개)**
 ```bash
 python main.py --grid_file girdInfo.txt --start_from 40 --limit 19 --max_restaurants 30 --max_reviews 50 --headless
 ```
@@ -156,7 +204,9 @@ python main.py --grid_file girdInfo.txt --start_from 40 --limit 19 --max_restaur
 | `--grid_file` | Grid 정보 파일 경로 | girdInfo.txt | `--grid_file my_grid.txt` |
 | `--start_from` | 시작 그리드 인덱스 | 0 | `--start_from 20` |
 | `--limit` | 처리할 그리드 수 | 전체 | `--limit 20` |
-| `--max_restaurants` | 그리드당 최대 레스토랑 수 | 30 | `--max_restaurants 50` |
+| `--max_restaurants` | 그리드당 최대 레스토랑 수 (tier 모드가 아닐 때) | 30 | `--max_restaurants 50` |
+| `--use_tier_based_restaurants` | Tier 기반 자동 식당 개수 조정 활성화 | False | `--use_tier_based_restaurants` |
+| `--tier_file` | Tier 정보 CSV 파일 경로 | grid_tier.csv | `--tier_file my_tier.csv` |
 | `--max_reviews` | 레스토랑당 최대 리뷰 수 | 제한 없음 | `--max_reviews 100` |
 | `--headless` | 백그라운드 실행 | False | `--headless` |
 | `--restaurants_dir` | 레스토랑 정보 출력 디렉토리 | restaurants | `--restaurants_dir ./data/rest` |
@@ -169,6 +219,7 @@ python main.py --grid_file girdInfo.txt --start_from 40 --limit 19 --max_restaur
 
 #### 2-1. 식당 정보 수집 (getRestaurantsInfo.py)
 
+**단일 쿼리 모드:**
 ```bash
 # 기본 사용
 python getRestaurantsInfo.py --query "restaurants in Seoul"
@@ -180,10 +231,17 @@ python getRestaurantsInfo.py --query "sushi in Gangnam" --max_results 50
 python getRestaurantsInfo.py --query "korean food" --output my_restaurants.json
 ```
 
+**Grid 모드 (59개 그리드 자동 처리):**
+```bash
+# Tier 기반으로 59개 그리드의 식당 정보 수집
+python getRestaurantsInfo.py --grid_mode
+```
+
 **파라미터:**
-- `--query`: 검색 쿼리 (필수)
-- `--max_results`: 최대 식당 수 (기본값: 30)
-- `--output`: 출력 파일 경로 (기본값: restaurants.json)
+- `--query`: 검색 쿼리 (단일 쿼리 모드에서 필수)
+- `--max_results`: 최대 식당 수 (기본값: 30, 단일 쿼리 모드)
+- `--output`: 출력 파일 경로 (기본값: restaurants.json, 단일 쿼리 모드)
+- `--grid_mode`: Grid 모드 활성화 (girdInfo.txt와 grid_tier.csv 기반 자동 처리)
 
 #### 2-2. 리뷰 수집 (getReviews.py)
 
@@ -203,9 +261,48 @@ python getReviews.py --input restaurants/restaurants_BX1.json --output_dir revie
 
 **참고**: getReviews.py는 각 레스토랑의 리뷰를 `{그리드코드}_{레스토랑명}_reviews.json` 형식의 개별 파일로 저장합니다.
 
+## 유틸리티
+
+### Tier 매칭 확인 (check_tier_mapping.py)
+
+grid_tier.csv와 girdInfo.txt의 매칭 상태를 확인하는 유틸리티:
+
+```bash
+python check_tier_mapping.py
+```
+
+이 스크립트는:
+- 59개 그리드 각각의 Tier 정보 표시
+- Tier별 통계 (HOT/MID/RES 개수)
+- 예상 총 식당 수집 개수 계산
+- 누락된 Tier 정보 경고
+- 매칭 오류 검사
+
+**출력 예시:**
+```
+================================================================================
+코드       Tier   식당 개수      지역명
+================================================================================
+MN1      HOT    80         트라이베카, 금융 지구 (Tribeca, Financial District)
+MN2      HOT    80         그리니치 빌리지, 소호, 차이나타운 (Greenwich Village...)
+BX2      RES    25         롱우드, 헌츠 포인트 (Longwood, Hunts Point)
+...
+
+================================================================================
+[통계 요약]
+================================================================================
+전체 그리드 수: 59개
+
+✓  HOT: 18개 (30.5%) - 그리드당 80개 식당 = 총 1440개
+✓  MID: 31개 (52.5%) - 그리드당 50개 식당 = 총 1550개
+✓  RES: 10개 (16.9%) - 그리드당 25개 식당 = 총 250개
+
+예상 총 식당 수집 개수: 3240개
+```
+
 ## 파일 형식
 
-### 입력 파일: girdInfo.txt
+### 입력 파일 1: girdInfo.txt
 
 뉴욕시 59개 커뮤니티 그리드 정보:
 
@@ -217,6 +314,26 @@ BX 1,"모트 헤이븐, 멜로즈 (Mott Haven, Melrose)"
 ```
 
 형식: `지구코드,"한국어 지역명 (영문 지역명)"`
+
+### 입력 파일 2: grid_tier.csv
+
+각 그리드의 Tier 정보 (HOT/MID/RES):
+
+```csv
+code,tier
+MN1,HOT
+MN2,HOT
+MN3,HOT
+MN6,MID
+BX2,RES
+...
+```
+
+- **HOT**: 핫플레이스 지역 (기본값: 80개 식당 수집)
+- **MID**: 중간 지역 (기본값: 50개 식당 수집)
+- **RES**: 주거 지역 (기본값: 25개 식당 수집)
+
+Tier별 수집 개수는 `config.py`의 `TIER_RESTAURANT_COUNT`에서 조정 가능합니다.
 
 ### 출력 파일 1: restaurants/{CODE}.json
 
@@ -295,13 +412,17 @@ BX 1,"모트 헤이븐, 멜로즈 (Mott Haven, Melrose)"
 
 ### 그리드 기반 파이프라인 (main.py)
 
-1. **gridInfo 파싱**
+1. **초기화 및 설정**
    - `girdInfo.txt` 파일을 읽어 59개 그리드 정보 파싱
+   - `--use_tier_based_restaurants` 옵션이 있으면 `grid_tier.csv`에서 Tier 정보 로드
    - `--start_from`, `--limit` 옵션에 따라 처리할 그리드 범위 결정
 
 2. **각 그리드별 처리 (순차적)**
    - **Step 1: 레스토랑 정보 수집**
      - Google Places API로 그리드별 검색 쿼리 생성 (예: "restaurants in Tribeca New York")
+     - Tier 기반 모드인 경우:
+       - 그리드 코드로 Tier 조회 (HOT/MID/RES)
+       - Tier에 따라 수집할 식당 개수 자동 결정 (config.py의 TIER_RESTAURANT_COUNT 참조)
      - 그리드별 레스토랑 정보를 `restaurants/restaurants_{CODE}.json`에 **즉시 저장**
 
    - **Step 2: 리뷰 수집**
@@ -318,6 +439,19 @@ BX 1,"모트 헤이븐, 멜로즈 (Mott Haven, Melrose)"
    - 처리된 그리드 수, 성공/실패 통계
    - 총 레스토랑 수, 총 리뷰 수
    - 실행 로그를 `restaurants/pipeline_log.json`에 저장
+
+### Tier 기반 자동 조정
+
+Tier 시스템을 통해 지역 중요도에 따라 효율적으로 데이터를 수집합니다:
+
+- **HOT (핫플레이스)**: 맨해튼 주요 지역, 인기 관광지 등 → 80개 식당 수집
+- **MID (중간 지역)**: 일반적인 주거/상업 혼합 지역 → 50개 식당 수집
+- **RES (주거 지역)**: 외곽 주거 지역 → 25개 식당 수집
+
+이를 통해:
+- API 비용 절감 (덜 중요한 지역은 적게 수집)
+- 데이터 품질 향상 (중요한 지역은 더 많이 수집)
+- 작업 시간 단축
 
 ## 주의사항
 
