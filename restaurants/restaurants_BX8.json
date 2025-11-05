@@ -1,0 +1,402 @@
+[
+    {
+        "name": "BOKAGUÁ",
+        "address": "3541 Riverdale Ave, Bronx, NY 10463, USA",
+        "place_id": "ChIJSZqrpoLzwokRF2ejcHPZcPY",
+        "rating": 4.6,
+        "user_ratings_total": 1165,
+        "phone_number": "(718) 766-0050"
+    },
+    {
+        "name": "Kingsbridge Social Club",
+        "address": "3625 Kingsbridge Ave, Bronx, NY 10463, USA",
+        "place_id": "ChIJL0e13bzzwokRulAKSvMY5rw",
+        "rating": 4.7,
+        "user_ratings_total": 903,
+        "phone_number": "(347) 346-5180"
+    },
+    {
+        "name": "El Tina Riverdale Restaurant",
+        "address": "308 W 231st St, Bronx, NY 10463, USA",
+        "place_id": "ChIJFSJMpZXzwokRYhszYGGRysM",
+        "rating": 4.6,
+        "user_ratings_total": 490,
+        "phone_number": "(718) 684-6228"
+    },
+    {
+        "name": "Tin Marín Tapas",
+        "address": "3708 Riverdale Ave, Bronx, NY 10463, USA",
+        "place_id": "ChIJnRjrrr7zwokRc6Uo6E8DI7s",
+        "rating": 4.5,
+        "user_ratings_total": 1204,
+        "phone_number": "(718) 884-4800"
+    },
+    {
+        "name": "Tobala",
+        "address": "3732 Riverdale Ave, Bronx, NY 10463, USA",
+        "place_id": "ChIJPbOOFvPzwokRttFt-acm5qo",
+        "rating": 4.5,
+        "user_ratings_total": 352,
+        "phone_number": "(347) 427-6889"
+    },
+    {
+        "name": "Cocina Chente",
+        "address": "3535 Riverdale Ave, Bronx, NY 10463, USA",
+        "place_id": "ChIJpzqwor7zwokRhRW4vxE4MVs",
+        "rating": 4.4,
+        "user_ratings_total": 713,
+        "phone_number": "(347) 843-8081"
+    },
+    {
+        "name": "Blackstone Bar & Grill",
+        "address": "3713 Riverdale Ave, Bronx, NY 10463, USA",
+        "place_id": "ChIJT4ODrb7zwokRqSIp6IIoyQ0",
+        "rating": 4.4,
+        "user_ratings_total": 422,
+        "phone_number": "(347) 346-6004"
+    },
+    {
+        "name": "Tibbett Diner",
+        "address": "3033 Tibbett Ave, Bronx, NY 10463, USA",
+        "place_id": "ChIJM3k1rJXzwokRQj1A0KOxjtc",
+        "rating": 4.6,
+        "user_ratings_total": 1030,
+        "phone_number": "(718) 549-8893"
+    },
+    {
+        "name": "An Beal Bocht Cafe",
+        "address": "445 W 238th St, Bronx, NY 10463, USA",
+        "place_id": "ChIJxTOdjLvzwokR5HWDbnyl2jw",
+        "rating": 4.6,
+        "user_ratings_total": 659,
+        "phone_number": "(718) 884-7127"
+    },
+    {
+        "name": "The Johnson Diner & Bar",
+        "address": "3533 Johnson Ave, Bronx, NY 10463, USA",
+        "place_id": "ChIJ40AyFgDzwokR5CAjuSBKlcU",
+        "rating": 4.2,
+        "user_ratings_total": 119,
+        "phone_number": "(315) 677-7665"
+    },
+    {
+        "name": "Salvatores of Soho",
+        "address": "3738 Riverdale Ave, Bronx, NY 10463, USA",
+        "place_id": "ChIJ82dpUrnzwokRI2qNB26-RBU",
+        "rating": 4.4,
+        "user_ratings_total": 810,
+        "phone_number": "(718) 548-7499"
+    },
+    {
+        "name": "Bronx Alehouse",
+        "address": "216 W 238th St, Bronx, NY 10463, USA",
+        "place_id": "ChIJ55NROaPzwokRN3XI3TLJty4",
+        "rating": 4.5,
+        "user_ratings_total": 2510,
+        "phone_number": "(718) 601-0204"
+    },
+    {
+        "name": "Dale Diner",
+        "address": "189 W 231st St, Bronx, NY 10463, USA",
+        "place_id": "ChIJNR-s5ZbzwokRJCvuqY6hbEk",
+        "rating": 4.2,
+        "user_ratings_total": 808,
+        "phone_number": "(718) 549-4445"
+    },
+    {
+        "name": "Yukka",
+        "address": "5684 Riverdale Ave, Bronx, NY 10471, USA",
+        "place_id": "ChIJm-_qK0zywokRRRqGnol2dtY",
+        "rating": 4.4,
+        "user_ratings_total": 787,
+        "phone_number": "(347) 346-9338"
+    },
+    {
+        "name": "Riverdale Indian Grill",
+        "address": "5225 Broadway, Bronx, NY 10463, USA",
+        "place_id": "ChIJax-Ryy7zwokR2TVWAWJatv0",
+        "rating": 4.3,
+        "user_ratings_total": 103,
+        "phone_number": "(718) 825-3030"
+    },
+    {
+        "name": "Caridad Kingsbridge",
+        "address": "135 W Kingsbridge Rd, Bronx, NY 10468, USA",
+        "place_id": "ChIJwZypB4_zwokRS6mys2UuuKI",
+        "rating": 4.2,
+        "user_ratings_total": 1724,
+        "phone_number": "(718) 601-7660"
+    },
+    {
+        "name": "Leche y Miel Restaurant",
+        "address": "5761 Broadway, Bronx, NY 10463, USA",
+        "place_id": "ChIJj7bELc4PZkARoBhXXd6A0Tc",
+        "rating": 4.5,
+        "user_ratings_total": 552,
+        "phone_number": "(718) 708-5787"
+    },
+    {
+        "name": "Palace of Japan",
+        "address": "3505 Johnson Ave, Bronx, NY 10463, USA",
+        "place_id": "ChIJgUQiB9_zwokR7QfKkUuEzzU",
+        "rating": 4.6,
+        "user_ratings_total": 237,
+        "phone_number": "(718) 543-8833"
+    },
+    {
+        "name": "The Bronx Public",
+        "address": "170 W 231st St, Bronx, NY 10463, USA",
+        "place_id": "ChIJq1XtH5fzwokRyUjVe6nRJp0",
+        "rating": 4.3,
+        "user_ratings_total": 1139,
+        "phone_number": "(646) 939-3080"
+    },
+    {
+        "name": "Chef Rose Restaurant",
+        "address": "205 W 231st St, Bronx, NY 10463, USA",
+        "place_id": "ChIJj2e1tAvzwokRJz1xmAUhKZQ",
+        "rating": 4.4,
+        "user_ratings_total": 140,
+        "phone_number": "(929) 589-8851"
+    },
+    {
+        "name": "Riverdale Thai & Indian Cuisine",
+        "address": "318 W 231st St, Bronx, NY 10463, USA",
+        "place_id": "ChIJl9hlmkXzwokRe-OOWhAgzWo",
+        "rating": 4,
+        "user_ratings_total": 196,
+        "phone_number": "(646) 582-5620"
+    },
+    {
+        "name": "Flame Bronx",
+        "address": "5740 Broadway Unit # 5, Bronx, NY 10463, USA",
+        "place_id": "ChIJPXS0R73zwokRWl5P4-BsJ7w",
+        "rating": 4.4,
+        "user_ratings_total": 597,
+        "phone_number": "(718) 884-2828"
+    },
+    {
+        "name": "Aroma Restaurant Bar",
+        "address": "5523 Broadway, Bronx, NY 10463, USA",
+        "place_id": "ChIJiTcRSufzwokRPeIkGKyEyQM",
+        "rating": 4.4,
+        "user_ratings_total": 223,
+        "phone_number": "(718) 601-0020"
+    },
+    {
+        "name": "La Villa",
+        "address": "240 W 231st St, Bronx, NY 10463, USA",
+        "place_id": "ChIJ56YS_yjzwokRAPQyD9tjFmY",
+        "rating": 4.5,
+        "user_ratings_total": 123,
+        "phone_number": "(718) 758-4790"
+    },
+    {
+        "name": "Metate",
+        "address": "3515 Johnson Ave, Bronx, NY 10463, USA",
+        "place_id": "ChIJY4egG7_zwokRzfCjNkCrQAI",
+        "rating": 4.2,
+        "user_ratings_total": 397,
+        "phone_number": "(718) 543-4444"
+    },
+    {
+        "name": "My Kitchen Flavor",
+        "address": "269 W 231st St, Bronx, NY 10463, USA",
+        "place_id": "ChIJgcC-WtrzwokRGIJugJl4XQA",
+        "rating": 4.9,
+        "user_ratings_total": 15,
+        "phone_number": "(347) 821-8089"
+    },
+    {
+        "name": "Arnaud Steak & Seafood",
+        "address": "5686 Riverdale Ave, Bronx, NY 10471, USA",
+        "place_id": "ChIJq3zJouLzwokRXNa1oSCB4zw",
+        "rating": 4.7,
+        "user_ratings_total": 61,
+        "phone_number": "(718) 884-8448"
+    },
+    {
+        "name": "Home BX Steak",
+        "address": "224 W 238th St, Bronx, NY 10463, USA",
+        "place_id": "ChIJ4V1lvjHzwokRind0ISFkC-w",
+        "rating": 4.3,
+        "user_ratings_total": 280,
+        "phone_number": "(929) 243-3527"
+    },
+    {
+        "name": "Smashburger",
+        "address": "193 W 237th St, Bronx, NY 10463, USA",
+        "place_id": "ChIJF7FFL6PzwokRM-wOIfWNUYA",
+        "rating": 4.4,
+        "user_ratings_total": 1573,
+        "phone_number": "(718) 618-4229"
+    },
+    {
+        "name": "Greek Express",
+        "address": "3733 Riverdale Ave, Bronx, NY 10463, USA",
+        "place_id": "ChIJKa27TLnzwokR9XDDYsZT0ys",
+        "rating": 4.4,
+        "user_ratings_total": 381,
+        "phone_number": "(718) 601-4976"
+    },
+    {
+        "name": "Neem Indian Cuisine",
+        "address": "3549 Johnson Ave, Bronx, NY 10463, USA",
+        "place_id": "ChIJUzIQ9RLzwokRa7YYxgZosyE",
+        "rating": 4,
+        "user_ratings_total": 295,
+        "phone_number": "(347) 427-3953"
+    },
+    {
+        "name": "Malecon",
+        "address": "5592 Broadway, Bronx, NY 10463, USA",
+        "place_id": "ChIJ_1Ip-pbzwokRVj2IwC65d-Q",
+        "rating": 4,
+        "user_ratings_total": 1595,
+        "phone_number": "(718) 432-5155"
+    },
+    {
+        "name": "Kai Fan",
+        "address": "3717 Riverdale Ave, Bronx, NY 10463, USA",
+        "place_id": "ChIJ0a2Usr7zwokR9AKXrQxfF1c",
+        "rating": 4.1,
+        "user_ratings_total": 170,
+        "phone_number": "(347) 275-8056"
+    },
+    {
+        "name": "Yo-Burger",
+        "address": "3726 Riverdale Ave, Bronx, NY 10463, USA",
+        "place_id": "ChIJkS0prb7zwokR-T6gq-lXc-4",
+        "rating": 4.5,
+        "user_ratings_total": 1016,
+        "phone_number": "(718) 708-6828"
+    },
+    {
+        "name": "IHOP",
+        "address": "5645 Broadway, Bronx, NY 10463, USA",
+        "place_id": "ChIJyXw9tZfzwokRc6nf8NxstrE",
+        "rating": 4.1,
+        "user_ratings_total": 2931,
+        "phone_number": "(718) 549-4565"
+    },
+    {
+        "name": "Tililá",
+        "address": "3648 Bailey Ave, Bronx, NY 10463, USA",
+        "place_id": "ChIJ3TKkAaPzwokRhjV6iZ7U0HI",
+        "rating": 4.5,
+        "user_ratings_total": 702,
+        "phone_number": "(929) 222-4968"
+    },
+    {
+        "name": "New Riverdale Gourmet Deli",
+        "address": "452 W 238th St, Bronx, NY 10463, USA",
+        "place_id": "ChIJIdDN9LvzwokRkp0eiG8Sfv4",
+        "rating": 4.1,
+        "user_ratings_total": 176,
+        "phone_number": "(516) 440-3355"
+    },
+    {
+        "name": "Moon Star Grill Restaurant",
+        "address": "3519-25 Johnson Ave, Bronx, NY 10463, USA",
+        "place_id": "ChIJozTLWqDzwokRiBdsO5GQmIU",
+        "rating": 4.2,
+        "user_ratings_total": 145,
+        "phone_number": "(718) 432-2570"
+    },
+    {
+        "name": "Moss Café",
+        "address": "3260 Johnson Ave, Bronx, NY 10463, USA",
+        "place_id": "ChIJj-Dtqb_zwokRYlU6uDe6ya4",
+        "rating": 4.4,
+        "user_ratings_total": 638,
+        "phone_number": "(347) 275-5000"
+    },
+    {
+        "name": "Mirador Restaurant",
+        "address": "44 W Kingsbridge Rd, Bronx, NY 10468, USA",
+        "place_id": "ChIJAf1xlYXzwokRitfSl8v5LKg",
+        "rating": 4,
+        "user_ratings_total": 578,
+        "phone_number": "(718) 450-3844"
+    },
+    {
+        "name": "Jake’s Steakhouse",
+        "address": "6031 Broadway, Bronx, NY 10471, USA",
+        "place_id": "ChIJMdt9na_zwokR8EhXPxHLA1g",
+        "rating": 4.5,
+        "user_ratings_total": 1116,
+        "phone_number": "(718) 581-0182"
+    },
+    {
+        "name": "Baby Crab",
+        "address": "5740 Broadway Unit C, Bronx, NY 10463, USA",
+        "place_id": "ChIJZ6FjbQjzwokRdXebzRrAPbc",
+        "rating": 4.7,
+        "user_ratings_total": 145,
+        "phone_number": "(631) 602-7775"
+    },
+    {
+        "name": "Liebman’s Deli",
+        "address": "552 W 235th St, Bronx, NY 10463, USA",
+        "place_id": "ChIJS32_Ab_zwokRxdWuWqDWl4k",
+        "rating": 4.5,
+        "user_ratings_total": 1108,
+        "phone_number": "(718) 548-4534"
+    },
+    {
+        "name": "Corner Cafe & Bakery",
+        "address": "3718 Riverdale Ave, Bronx, NY 10463, USA",
+        "place_id": "ChIJETopIL_zwokRtrOoWqb-sLI",
+        "rating": 4.4,
+        "user_ratings_total": 205,
+        "phone_number": "(718) 601-2861"
+    },
+    {
+        "name": "Montezuma Restaurant",
+        "address": "119 W Kingsbridge Rd, Bronx, NY 10468, USA",
+        "place_id": "ChIJCw8XbY_zwokRdoPMNOoJM4Y",
+        "rating": 4.3,
+        "user_ratings_total": 1203,
+        "phone_number": "(718) 601-6400"
+    },
+    {
+        "name": "Teriyaki One Japanese Grill (Teriyaki & Sushi)",
+        "address": "E2B, 193 W 237th St, Bronx, NY 10463, USA",
+        "place_id": "ChIJ9a2dNzXzwokR8-W2xGYBYrU",
+        "rating": 4.8,
+        "user_ratings_total": 169,
+        "phone_number": "(929) 703-0357"
+    },
+    {
+        "name": "El Economico Restaurant",
+        "address": "5589 Broadway, Bronx, NY 10463, USA",
+        "place_id": "ChIJ2yqw9pbzwokRIRRNfHVb3tw",
+        "rating": 4.1,
+        "user_ratings_total": 445,
+        "phone_number": "(718) 796-4851"
+    },
+    {
+        "name": "Connaughton’s Riverdale Steak House",
+        "address": "5700 Riverdale Ave, Bronx, NY 10471, USA",
+        "place_id": "ChIJsxPtgU7ywokRKcfPsNXQYBE",
+        "rating": 4.4,
+        "user_ratings_total": 382,
+        "phone_number": "(718) 549-9946"
+    },
+    {
+        "name": "Floridita Restaurant",
+        "address": "161 W 231st St, Bronx, NY 10463, USA",
+        "place_id": "ChIJLdg4gl7zwokR0GqRgNIeAxw",
+        "rating": 4.4,
+        "user_ratings_total": 46,
+        "phone_number": "(347) 843-8800"
+    },
+    {
+        "name": "Healthy In Dyckman Juice Bar & Cafe",
+        "address": "265 W 231st St, Bronx, NY 10463, USA",
+        "place_id": "ChIJ5W_5KfXzwokRNMhKoEpmWvo",
+        "rating": 4.8,
+        "user_ratings_total": 408,
+        "phone_number": "(718) 450-3567"
+    }
+]

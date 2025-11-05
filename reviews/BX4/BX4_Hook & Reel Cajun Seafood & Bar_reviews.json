@@ -1,0 +1,628 @@
+{
+    "name": "Hook & Reel Cajun Seafood & Bar",
+    "place_id": "ChIJL87LwBX1wokR9-UsJd4Px68",
+    "grid": "BX4",
+    "address": "236 E 161st St, Bronx, NY 10451, USA",
+    "rating": 4.5,
+    "user_ratings_total": 815,
+    "phone_number": "(718) 293-0388",
+    "reviews": [
+        {
+            "date": "4시간 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WVlprWmFRV2xLU21oelRtSk9OSEpuU0VoWGRYYxAB",
+            "text": "Food was good , sadly I found out that waitress split gratuities among each other\nEvelyn was ultimately so nice so I tipped her in the side extra for discretion\nThe other staff that was there during the visit display a bullying attitude towards her after we paid .\nWill not be back because I know her last day is this Thursday"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25abVNVSlNjM0ZTZEhoSU1UQTVMVkJvVjIxZmJGRRAB",
+            "text": "Didn't know what to expect but I knew the moment we walked in, we hit the jackpot, Cajun spices wafted trough the air. The service was a bit slow at first, I think the waitress was double / triple seated but we didn't wait too long. we got the garlic and cajun steam pots, they were delicious, one of the most satisfying meals I've ever had. Our server was friendly, chatty and efficient. Definitely go back."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ScldVVlRTa3BXWlVNNVgyNTFVazFhZW5jdFZXYxAB",
+            "text": "Everything is amazing."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWb1VIcDFWVkJVYjFWUlYxWlVjbkpuVldwWmNIYxAB",
+            "text": "Lilian was amazing! She was super attentive and made sure we had everything we needed the entire time. She checked on us often without being overbearing, and her friendly attitude made the experience even better. The food was great, but her service really stood out."
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Nek9XMXZaaTF5VjFkNlZGSnFTVGgwY2sxTVRWRRAB",
+            "text": "They was busy and I deeply feel under staffed but they forgot my lobster tail which I’m def coming back to get or a refund smh"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWVVprUmxNbVJUWm05b2JpMU5lWFV4ZFhaQ1lXYxAB",
+            "text": "Average experience all around.  Definitely glad I ordered the lunch special because paying any more than I did would have been really disappointing."
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VPUDh0WUt0dzhUZnJBRRAB",
+            "text": "Nice service\nMadison is amazing  !\nShe was so nice that my guy wanted to take he out for hook n reel !"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWek1rOUJORmxPYjBWdk5sVndOM0V6V0ZSdlJuYxAB",
+            "text": "Aria she does good service with my bf and me love it"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOdWFWSm5kVk5JTkdoMVRFcGxXazFCUlhVMlRtYxAB",
+            "text": "Great service , Aria is a great person"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKaGJqUkljeTF2U0hGQ1RTMTNlSE5uWVMxcFFYYxAB",
+            "text": "Tao was the best"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZMlNXSlBlRnAwV2xGM1VUTkpRMTgyUkZOQ09IYxAB",
+            "text": "Food was amazing and our waiter Tao L was exceptional!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paS1VVUk9ja2RIT1ROQmNYZEVNRm81Um1GblRYYxAB",
+            "text": "The clusters was over cook and they only have big folk cant take the the crab meat out"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210M1pFdGZjVmxpUlZCM05uRXpVVWhQUkRkSVRtYxAB",
+            "text": "Awesome"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201bGVucDJkbTVKTTNkUGVuWllTazlNYnpGeFQzYxAB",
+            "text": "Service was excellent with hostess Justin."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25keFFVbFFTV2RQZERsbk1rWnlRM05qTTNWa1ZIYxAB",
+            "text": "Great service from Jiayi C."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WVFFVdHlZMmxDVTFGaVZYWnVORWRXWkZWNWVHYxAB",
+            "text": "They’re food is good"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Nd1ZtUldVVkJmWlZOdll6Sk1VMWwyWTFReGNIYxAB",
+            "text": "I want here for my birthday a couple months Ago and was exited to try king crab for the first time. The first time it came out it wasn't even edible. The shell was so hard to open and the meat wasn't edible I couldn't even chew it. I asked for it to be remade and the second time was the same thing. My step father tried to show the owner how na crab is supposed to look and taste but the own still made us pay $40 even though I didn't get to eat any of the crab. The waitress was amazing and tried her best to handled the situation so kudos to her. I always come back for the food tho just never get the king crab from here"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CRk9YQlZWRmxKY1VKUFNuVXRVM1o1WldKMVoyYxAB",
+            "text": "My girlfriend loves it here :) Dope atmosphere, and delicious food!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kd1FsWkJiVll4YjFSTWQyWlROSGhhZFhKV05YYxAB",
+            "text": "Food is always amazing, we come here anytime we are craving sea food. The service is fast and food is always hot and fresh tasting!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xc1RrWlZRa0pRVGtRNFJHVllMV2hJVDFrd1IyYxAB",
+            "text": "Very calming environment, delicious food and friendly staff. Tao was great, nice and efficient."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KUFUzSmpVRGxuZWtzeWRrVlRaVFZzVVhWWk0wRRAB",
+            "text": "So nice and drinks were so strong Tao is ssooo nice"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wWFYxZExOREZhVlZvdGF6Wk9Oa1JrV1VRMFUwRRAB",
+            "text": "Aria was great"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5SldIZGZOMUp0UXkwNVZUTmpUbDk0VmtoNGIzYxAB",
+            "text": "Aria was great"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GSGJESm5aakIwTkVsTlVsRnBXRmRoUmxCUVRYYxAB",
+            "text": "Aria was a great server"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xnellYUlFNRk5JTmpaa09IQmpRMGQ0T0dOTGIwRRAB",
+            "text": "Aria was amazing. A great and attentive service. Came for work lunch and had a great time."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKV09YSm5YM05MVW5aR2FGVjNRWEEyVkdGMlFVRRAB",
+            "text": "I was here for my first time and Jiayi gave exceptional service!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wcGVHeHNOMUE0YTFaaE1rcEJPVFJZYW1kRU1GRRAB",
+            "text": "The drinks are top tier. Madison is very attentive to the customers and made a great Passion fruit mojito. The seafood is great especially the lobster bisque and the broil bags are 👌🏻 If you’re also looking for sports on the big screen, this is your place!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKQlozcHJXUzFKVVc5T1QxUktMV0ZXYnpoeFRVRRAB",
+            "text": "Waiter did not mention any specials and kept forgetting items we asked for. Food was great tho and drinks were strong. Just need better customer service."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSQmQyaERSM0pOVTJwWmJtNHhNalpYVkVsYWJXYxAB",
+            "text": "Great food!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OUFNrUmFRVVpXVG1wR1VFZHphMWhsZVVSUWFIYxAB",
+            "text": "Hooking real is the amazing awesome place to have a dinner or a group of friends enjoying a night out like I said they treat you as family. They give her the respect they make you feel.\nAmazing Great hospitality and much, much more"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21STFRVbFZkekJEUXkxQ2RYQXlVRTl0Tkc1WWVYYxAB",
+            "text": "The food was amazing! Great location and wonderful atmosphere. Drinks strong and good! Will come again!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21obldYWnZRV2RuUlZwVWNEWkZkamhsVEdwbGNFRRAB",
+            "text": "Tao was great!"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZMldIbzVWbDh5UmxKeE1ubDNWblZUVUZoT1UxRRAB",
+            "text": "Muy buen lugar,  y los tragos excelentes."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4dVdFbDFiMHhCTUcxUlZUVlNRMnRvYW5SelUxRRAB",
+            "text": "really nice!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFelVEVTFUVk5PWW1nMGJFVkpiVXhqV25VemRrRRAB",
+            "text": "best food ever n super strong drinks!"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2NjRtcGpnRRAB",
+            "text": "Great place to eat"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkVFR6Wm9ZbEZCWm1wNFUxWmhhR3RFTlUxRmEzYxAB",
+            "text": "Perfectly cooked! A whole vibe!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWYVJXOWZiMTlXVDBOcFJUbEhjQzF2VmtwTWRtYxAB",
+            "text": "My experience was absolutely amazing,I'm going back.."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SZmRtdHJNR2R3U0ZsNmQyTnNhVGR4WVdoUU1GRRAB",
+            "text": "Jiayi was wonderful and she was very knowledgeable about what orders worked best for us."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NM2JrOVFPWFZEVkdSQlEzRmFRbGs1Y0U1elRtYxAB",
+            "text": "Jiayi is warm, welcoming, and quick to offer recommendations if you’re not sure what to try. The overall vibe is calm and comfortable, which makes it an easy choice whether you’re coming in solo, on a date, or with friends. It’s the kind of place you leave already planning your next visit. Highly recommend."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGemFIRnpibkpUUzFrM1R6bEZlV2RqY2sxR2RVRRAB",
+            "text": "Food was amazing! Came here before yankee game. Saw it and wanted to try it. Buried in a strip mall. Service was quick. The building was old and dated but clean. A little more lighting would be nice too. Overall it was great and will be back"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SSVluUlZaVVZQVlZaSU5XdFFkRVJvVDI1eVdtYxAB",
+            "text": "The food and drinks was really good great service from Evelyn"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGeVZsUjFiVEl4ZURka1FqbFViSGRxT0U1V2VuYxAB",
+            "text": "Food was great and service from start to finish ! Food came out nice and hot and drinks are pretty strong . Evelyn gave great service!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxSFpYUTNhbVpOWkVwMldHZGlXR280T1dFemNYYxAB",
+            "text": "The food here is super delicious and the service here is really super good. I really like my server Evelyn"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taZk1uWktTbEJ1ZDJ0VWRrWm5WSGRKYWpCVmRGRRAB",
+            "text": "Jiayi was amazing . So knowledgeable and friendly. Would recommend ! Great seafood!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201S05rRlRZMWN6TTJ0VGFVbDJkMlZJZGtzMExWRRAB",
+            "text": "My experience was really great . The service from Evelyn was good and the food didn’t take too long to come out."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WQ1dIRjNXVmhmV0hKTWNrZE5VVzVqT0ZwUFoxRRAB",
+            "text": "great service , friendly customer service from Evelyn,  clean environment and good was very tasty definitely recommend for seafood lovers."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5bVVuSXRaa2xEWlRGWVVuY3dTRmxET0hwRlIyYxAB",
+            "text": "Evelyn was great, such a sweetheart and great service"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214R05HTlZXRmRJV0c5dGFWaG5kUzFUU1VRMU5YYxAB",
+            "text": "I had an amazing meal. Thank you for jiayi."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ZNFVqaEtaMFUwYVU5aE16ZFFWRzlZTkZaMmEyYxAB",
+            "text": "The food was amazing. Jiayi was super kind. I loved her fast and swift service while we dined"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twNWJrNDROamsyY0VwclJUQnVYelJaZVhWMFYzYxAB",
+            "text": "I love this place so much! The seafood boils within Manhattan simply cannot compare in terms of BOTH quality and price - which is insane! I came in for lunch on Tuesday and got shrimp head-on, black mussels and crawfish. Every single thing was delicious and the sauce was just so savory and flavorful (I got the house special, fire spice sauce). The server was also wonderful and helpful - he helped me pick the right order and was really attentive. I will definitely be back again!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SVmNsZHNOR3MyZEhJMlRUTkdPRmQxVFdwTFJuYxAB",
+            "text": "I ordered delivery from this location and the potatoes were rotten. My man bit into his potato and it was black. I called the store to inform them that the food was not edible. The man on the phone who claimed to be the manager was like “he doesn’t see my order” he was very rude and inconsiderate. He basically was like oh well contact support on the website and there isn’t even a support number online. I asked if there was a way to accommodate me and he hung up on me. I attached pictures and a video. I wasn’t mad until the manager was so rude and insensitive to serving my family rotten food. A waste of money! I’ll stay away from this location."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VNcXh1YU94NXR1aFRREAE",
+            "text": "I ordered late tonight through uber eats. And to my surprise after eating 2 pieces of chicken from a 6 piece fried wings basket. It’s was still piping hot, and very very undercooked,  pure pink in the middle… I then immediately contacted uber support, to report the food safety issue. I take Immuno suppressant because of a health condition and cannot eat anything raw. My stomach felt queasy and then I begin to vomit. Next, I decided to call the restaurant. The manager thought I wanted to place an order, so before asking me, She passed the phone. This staff member She did look up my order and tells me that I have to call Uber. They’ll give me the money back.  It’s not about money. I could’ve been hospitalized for weeks or worst.  I just wanted reassurance that the cook would know about his mistake and either get extra training or get help during crowded time. So he can check and double check to make sure all the food is probably prepared before sending her off to your customers, She did apologize several times and said that it will be handled. I’m going to post this here and on every social media outlet that I have and I will be sending it to my entire family that’s been living in this area for over 50 years. Unfortunately, hooking reel has lost a customer"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJcXZHem9nRRAB",
+            "text": "I opened one of the Crawfish, and the taste was off. After checking the rest, I found that many of them had eggs and a lot of the crawfish were a  brownish color instead of the expected red. I will absolutely never order from them again!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWTlJrVXdXRTVLWlY4emFVMXVaQzE0Y2tSSFYyYxAB",
+            "text": "The food and overall dining experience here is one of the best I’ve ever had, especially in New York. But what made it an exceptional experience was my waiter, Amir. He delivered the best service to us and he spoke Spanish, which was helpful since my mom barely speaks English. He made sure our table was consistently taken care of and he has one of the best personalities of anyone I’ve ever known ❤️ I love this restaurant and I loved our waiter even more. I will be back again when I come back to New York! Thank you so much!!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VNYVJxX1MybGJ2eDB3RRAB",
+            "text": "I've visited this restaurant at 236 East 161 street in the Bronx because my sons really enjoy the food. We were turned away the first night because we arrived a little after 9pm and was told the kitchen was closed but the restaurant doesn't close until 10pm. So, we returned the next day to dine-in. All was well with the WHITE server until he learned that I was not going to leave a tip. The manager, a young Asian looking boy began questioning me and stating that the next time the server will refuse to serve me and that I shouldn't come back. I recorded him and informed him that I would sue for discrimination if I was treated that way. I then explained that tiping is my personal choice for exceptional service, at which I did not receive. After, the server and the manager became very rude and disrespectful ( I guess at this point, it was no need to mask their racism) The server refused to process my payment and asked another server to assist me. The server expressed he could not because he had his own customers he was seating at the time. The server proceeded to shove his probable payment processing device in my hand for me to process on my own. When I asked for a receipt, I was told to wait because he was busy. I then sought the help of the manger who also said I needed to wait. He then began cursing at me in front of my children. Im glad this happened because it shows their not interested in providing a service, their only tip chasing. Their true feelings about serving a Black woman came. Im never returning. If you don't RESPECT me then don't EXPECT my money. I wouldn't advise any of my people to go here. Their located in the mall on 161. There are many other seafood restaurants like Cap't Loui that value and treat their customers with respect. To the owner, save the apology because you know exactly how your establishment is being run. You're enabling it. Im sure I'm not the first person to be treated like that."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3akpIbUpBEAE",
+            "text": "This place is an absolute no go for me. Tried it out this week’s because I was curious. We know what they say about that cat. Needless to say the service was horrible, the food needed more time in the microwave. The drinks were terrible. As for the place itself, the tables were sticky and the floors were filthy."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqLXBtbUFREAE",
+            "text": "My friends wanted a new fix for the weekend, so I explored 161st Street during the day. I happened to notice a Cajun restaurant located near the shopping center. This was no ordinary restaurant. I went in and was greeted by the hostess, who showed me options to dine for the day. I ordered a delicious 1/2 pound of Lemon Pepper Shrimp, loaded with Potatoes and Corn. It was savory to my palette. And the restaurant itself was decorated with wall designs with a chill oak wood interior. The waiters had asked how I was doing while I enjoyed my time. Thank you Hook & Reel!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5dVgwVkpkM1ZCYTNGRFkwczNMVEozTlRVd1FrRRAB",
+            "text": "repeated customer and i am repeatedly satisfied! i wish you guys had a rewards program. Peter at the front desk was very nice and patient when taking my order. 10/10, food is good, the atmosphere is clean, and the food doesn’t take long to cook at all!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkNk1HaEN3EAE",
+            "text": "The food is on point, the seafood boil, catfish n chips, and even the shrimp n chips.  The bartender Nikki is making the 🍸 with liquor and love. My daughter and I have a great time when we go.  Our days is Mondays 3-6."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREeGNPTkt3EAE",
+            "text": "Amazing drinks, great food, quick service. Ordering on uber eats is fast and in person; service is fast and efficient. Sometimes it can get a bit loud but other than that the food is great."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1dDlxSUJnEAE",
+            "text": "Large space and helpful waitresses. The food was good but the drinks are better. The steamed food came in a large bag full of hot goodness. I didn’t know how to open it. But I didn’t let my ignorance stop me from eating my steamed shrimp with broccoli and noodles drowned in garlic butter. And when I say drowned, I mean drowned. Not bad overall. Happy hour must be good if all the drinks are as good as the blue margarita."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXNFBmTmRBEAE",
+            "text": "Food at Hook & Reel is fresh and tasty.  I thoroughly enjoyed the hush puppies, crab bites and calamari.  Frozen mango margarita and rum punch was very good.  Had the catfish basket for an entree.  It was fine.  However, I think I would prefer the fried shrimp basket.  The restaurant decor is modern."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURobXFmWmV3EAE",
+            "text": "It's a very quiet but enjoyable atmosphere and the Food and Drinks were Fabulously Delicious. I truly Appreciated💕 and Enjoyed Myself with my family and they even Sung Happy Birthday to Me 😊 and  gave me a slice Of cheese Cake 🎉🥳"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURweXBxeWlnRRAB",
+            "text": "It was my first time here. Menu options are kind of limited but fine for quick gatherings and casual eats. Drinks were strong! DJ played straight bops from the 90’s to now, wasn’t overly loud to prevent conversions like some places."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSOGZQOWd3RRAB",
+            "text": "I really loved this place but as of today I DO NOT RECOMMEND YOU GO HERE UNLESS ITS TAKEOUT ! They are under new management, going through bartenders like water & alot of things are changing and making the place no longer a fun place to go.. But as Far As The FOOD Goes, ALWAYS AMAZING.. just order take out from now on.. this will no longer be my weekly spot"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSODdTWnZ3RRAB",
+            "text": "I went here on Sunday with my daughter for the first time since they've opened up. I wasn't expecting a good outcome being that it's located in the Bronx, just being honest. I was surprised by the excellent customer service given from the moment we stepped into the door to the very moment we left. First of all, the waitress at the front greeted us with a genuine smile. (Not typical behavior from businesses in the Bronx,) She gave us a booth within a few minutes, wasn't a long wait. Not too long after, our assigned waiter came to our table and introduced himself. My daughter is very shy and quiet, so she's not good with talking to strangers. I'm sure he picked up on that and was very friendly, making her and myself feel comfortable. The whole time in between, he came to our table to check in on us. He was very patient, sweet, knowledgable on the menu and his vibes were definitely genuine. At the end, I gave him a tip but that wasn't good enough. I had to give this young man a good review online. The name on his tag is Kyle.\n\nAs for the food and drinks, it was good. The chicken was a bit salty, but it was also crispy so that made up for it. I didn't try their seafood so I can't rate that, (wasnt in the mood for it this day) Pricing was a bit high, but the positive environment the employees set for this place makes it worth it. In total, I will go to this place again, for sure. Good job to the owner of this restaurant for hiring a team of great people. THAT is what keeps customers like me coming back in the future, giving good tips AND bringing more customers for you by giving positive recommendations about your business. I'll definitely come back next time and try the seafood!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYbk5tTEN3EAE",
+            "text": "I when here with my husband for the first time 2 months ago at the beginning the lady at the door took our order without asking for here or to go obviously we seated and while we were waiting time to time we had to ask for our order unfortunately she place it to go so our food was on the delivery side for all the time when I told the waitress she when pick up the order took it to the kitchen and came back in a min lol after hour he just place the food back in plates and bring it back to me the drinks too, frozen drinks served like martinis 🤣 the place is a joke at customer service but I really liked the food and my husband also. We made a positive video about your restaurant even tho we didn’t have a perfect experience."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OSmJVVndkV1pNTlMxSVRtZ3RWMloyUzNaTVdIYxAB",
+            "text": "the food is good but the prices are getting out of hand. dont bring your franchise to the hood, then start charging downtown prices. I've been coming here for a while but the prices officially have made me just go other places for the same/if not better quality."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSdmVYa3lTVFZsU0ZOb2IwazBlblZ0WldGd05VRRAB",
+            "text": "The food was good till I found an old potato in my food the drink was sour I got a piña colada and idk if they use a piña colada mix or something but it tasted off I had to send it back I use to bartend so I know how it supposed to taste. when they first opened  they food and drink was amazing they have a change of staff now idk if that’s the problem but it was not good  my waitress had no energy or  hospitality didn’t ask if i even wanted a appetizer or nothing didn’t say sorry about the drinks and it was my birthday  and I do food tasting every two weeks in different restaurants and post it on my social media the over all experience I rate a 3.5"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaLVluWGNnEAE",
+            "text": "Food was really good. The crab legs and fries were my favorites. The fries are amazing. So very crunchy. Just delicious."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkeDdDeV93RRAB",
+            "text": "This place is the new Monday hang out spot, the catfish n fries were banging, the drinks were definitely on point, and my daughter, husband loves the sea boil!!!. Two weeks in a row... going 👍"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNYjNtY3llMnFiYTdRRRAB",
+            "text": "Stopped by for lunch, awesome meal and great music. Jeff is a great asset to the Hook & Reel team. Honestly the best service I have ever received was today and I’ve been coming here since 2022!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtX19hM1dnEAE",
+            "text": "1/14/22, Just opened Monday, I tried the catfish basket $13, comes with fries of 3 flavors. 3 pieces of batered catfish, nice crunch ,not panco.  no flavor. No cole slaw. I had take out, but the music was nice and they had a nice size bar and $ 7 & $ 12 signature 🍸  hugh place.…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtNWNXZkV3EAE",
+            "text": "Wow I absolutely love this place. Omg. The food is so delicious and the customer service rocks! This was my second time here today. First time I had spice as my server . Today we had “time “ as our server. Both such sweet hearts. This is my new spot. Can’t wait to return.i have recommended this spot to all my family and friends :)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqeGF5VG9nRRAB",
+            "text": "It's a really nice spot.  The food was good. The drinks were ok.  The prices are reasonable."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1NWJiS3NRRRAB",
+            "text": "It was nice and clean. The workers were kind and respectful. The drinks were bomb. Different drinks to choose from. The oysters 🦪 were delicious and so was the Cajun shrimp 🦐 definitely coming back!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205eVVIZGhWMU13VmxGM2RsaEVNVnBWTlRoUldrRRAB",
+            "text": "The food was very good and the service was fast!!!! 10/10"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXNDgyMHB3RRAB",
+            "text": "Had a little dinner date with my daughter. . . This is what we ordered. My boil was trash. I didn’t like any of it. I got noodles in my food that I didn’t ask for that sucked up all the sauce to my boil. It didn’t have any flavor to me nor…"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNMU5rVjZUekJZUlRWQmVFVnBSRFZJZDJvMlYzYxAB",
+            "text": "The food was amazing and so was the server Evelyn she was attentive caring she constantly checked in on us and brought our food in quick"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaeXZLY2xBRRAB",
+            "text": "Worst feeling when you feel taken advantage  of with a smile,  and the folks appear genuine.  It is just mind bottling.\n\nI went here since at jury duty,  and was the only one in the restaurant.  They had a lunch special for $10.99 with fries and can’t remember if it included a drink. It felt like it was included but I got charged separately for it,  see picture in bill.\n\nThe Cajun fries were only half Cajun,  the other half tasted like Chemicals.\n\nI got the first bill and it was $27.  I tell the waitress I had the special,  and she apologizes and takes about 5 minutes to correct after speaking to manager.\n\nI get final bill in the picture,  and I just wanted to get out at this time.  As I’m putting the cash down, I get this feeling the waitress wants more tips.  I gave her $22 on the bill of $17.33.  She felt not too happy.\n\nAs I start walking out of the restaurant, I take a closer look at the bill,  and they had charged a 15% gratuity for sitting inside….\n\nFelt deceived and the food was mediocre at best,  and can easily say this is the first and last time I’m going to this chain."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyN0x6Q09nEAE",
+            "text": "Aniya was so pleasant and welcoming upon walking up to our table. She displayed good knowledge of the menu and gave great recommendations. The food arrived to our table hot and soooo tastey. Thank you for an amazing experience"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5M3QzdmdRRRAB",
+            "text": "I always order this food on Uber eats, but today was my first time dining in at this restaurant and my first time experience was amazing. I appreciate the great service. My food came fast and the waiter suggested this drink. I’m not sure what’s it called but they really have a good suggestions on drinks. The food was really good again season really well and I really recommend trying the lobster tails. Surely to come again  thanks for everything hook and reel"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURiLThhZFFnEAE",
+            "text": "Food was amazing and really great service. Must try everything on the menu. I am willing to come back here for more."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtOTUtSlB3EAE",
+            "text": "Nicely decorated, feels like a restaurant.\nThe food is delicious.  Had the Cajun Boil with spicy butter garlic sauce. 😋 Jameise was our server, very attentive.\n\nUPDATE 01/20/24.... Be prepared...they add the tip then tax it in your total bill."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQxNC1yclZREAE",
+            "text": "My New Spot for 2024👏🏾👏🏾 It's in the strip mall by the Courts/Movie Theater... Prices are GREAT!! Happy Hour 4-7p Mon-Fri... Drinks $6-7/ $3Shots/$1 Wings... MUST HAVES: Hook Punch-SOOOO GOOD😋 (see pic) n the Slammer Shot.. oh n the Lemon Pepper Wings👏🏾... The main dining area is spacious... Music always playing.. TVs to watch the game.. Seafood is Fresh! Try the Crack n Peel for $30... With the combo sauce... Thank me Later 🦀 🦐💪🏾 Oh n they validate parking up to 2 Hours!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5dF9DZHB3RRAB",
+            "text": "I had the whole lobster and new Zealand mussels. Only thing was the inside of the lobster was green filled.  Couldn't eat my lobster but everything else was delicious. Drinks were good and service was great. Good music vibes."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoNHUtY1VnEAE",
+            "text": "So I did read the reviews b4 I chose to eat here. I was hoping that Annie didn't display any of the negative comments that I read. But it was good overall. I walked in & I think Annie was having dinner at the checkout counter..The younglady who was tending to my side of the room was moving g as fast as she could. not crowded but as I sat during lunch it started to build with customers. I played it safe & ordered the $10.99 lunch special of jumbo shrimps which lived up to its name. They were tender & large with sweet potatoes fries. Enjoyed my visit hopefully will return soon & try something else."
+        }
+    ],
+    "reviews_count": 88
+}

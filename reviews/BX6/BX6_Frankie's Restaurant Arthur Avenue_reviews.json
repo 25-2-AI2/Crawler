@@ -1,0 +1,600 @@
+{
+    "name": "Frankie's Restaurant Arthur Avenue",
+    "place_id": "ChIJz1p0aiz1wokRJpQXMS3d3IE",
+    "grid": "BX6",
+    "address": "2376 Arthur Ave, Bronx, NY 10458, USA",
+    "rating": 4.7,
+    "user_ratings_total": 321,
+    "phone_number": "(347) 270-1452",
+    "reviews": [
+        {
+            "date": "수정일: 12시간 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5b1dWaHdWMHRYVFRkVVZUUm1SRGczVEZwQmRFRRAB",
+            "text": "They took a long time for each drink, food, and coming back to us to talk and all that. They diffently ignore us every time we try to get there attention. THERE WAS A POINT  where poeple just  came on in. They were attend way better than us. They got there foodn drinks faster, and waitress showed up to their table and others way more. I don't know why theydid that. But when they came to use they sound nice. There was a point where I asked what drinks do they have because every drink we asked, they did have. The waitress told me what they did haven and didn't. Just to leave and come back to say they did have it. They had no free bread or butter. The food was really good though.\nThis goes without saying but we were nice and respectful. My mom was treated the best, even though we all wait along time for ever and they did ignor her too."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGaU1YWm5jMHQ1ZWt0d1FuTkZjM3B1VGxRM1EzYxAB",
+            "text": "Delicious food that made me feel like I was in Italy! I will visit again"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KQmFETklVemt0VFdsdlgzTkhOVlp4WkZCUVIyYxAB",
+            "text": "Came all the way from Brooklyn to go to the Bronx Zoo and found this amazing restaurant to go to afterwards. The ambiance is chic, rustic and cozy. The food is absolutely delicious. The fried calamari was perfectly fried, the lobster ravioli was soooo yummy, and I enjoyed the pepperoni hot honey pizza as well. Everyone in my party enjoyed their food. My passion fruit margarita was really good too, as were the espresso martini, cheesecake and pistachio ice cream. I highly recommend this hidden gem and will definitely return next time I’m in the area."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twRlQweDJZa1ZNWTJablQyMHdPRFZrZWpkelFVRRAB",
+            "text": "I love Frankie’s! Their service is warm and welcoming and quick! My favorite truffle pasta in NYC is here"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOdlRHbFRObEZPTjFoQk5uQk5lRlJ3VlRkeE0yYxAB",
+            "text": "This is our first time at Frankie’s but not our last! I loved the spicy vodka pasta (adding spicy Italian sausage, wow), but the highlight of the night was the service. They were very attentive. I loved it!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOUWVIVlNVMFJOYjJoUE1HMTNjMjEyWDJGQ1ZHYxAB",
+            "text": "Very good"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xnNWVVRkNhVGxQV0VWM04yMWtWeTA1TjFaWlRsRRAB",
+            "text": "Overpriced tourist trap.\nWe ordered the chicken scarp and got pounded chicken breast so thin it was tough to cut, we have better at pizza placed that serve cut up chicken pieces (like the recipe calls for) the dish was swimming in sauce.\nI own a wine shop and the price of the wines by the bottle were ridiculously expensive 3 to 4 times retail. Stay away"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkTWVVcEdUbFphUlU1SlMwMVVNRkZsVlVneFpXYxAB",
+            "text": "Great food, but not set up for groups. Seems like a really nice date spot, but they get overwhelmed with groups. Keep it simple with a group of 2, maybe 3 and you'll have a great time!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVdFZsSkpjM0ptZDNOcVpVaEVVSFZXYkhwT05uYxAB",
+            "text": "This the greatest food in the bronx,\n\nElite food!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvMGFXRTNaVTVEVHpaSVlrb3lVbGsyVTBaMmEzYxAB",
+            "text": "Food is delicious, our server Sylvie was fantastic- it really feels like family!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSclRGVXhWVFJYY2xCR05sWlFOa3BsV1dsMFJWRRAB",
+            "text": "I brought my parents here when they were visiting from out of town and we had a marvelous time. Our server, Silvi, was the sweetest and very helpful with suggesting the best pairings for our dinner. The calamari modo nostro was to die for! Will definitely be returning with my family."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toYWRGSnlRVXhmT0dKcVgzbFVlSGN4YUV0eFdWRRAB",
+            "text": "The service was great, food came out very quickly, everything was perfect and the waitress was super nice. This was our first but not our last time coming here."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NdGMxVldRMGgzWkd0Qk9XSmpRV3BNYTNodk5GRRAB",
+            "text": "Everything we ordered were fantastic. Great Italian restaurant if you are in the Bronx."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25reWFETnFUamhyUjJ0cVIwdEpRVWh2Ums4NU9VRRAB",
+            "text": "Slivia & desa great professional servers. They both greeted me with a beautiful smile. Food was on time & delicious. Be back soon!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OQ1lrSkRiVlJ6V1hScldVUlJUWFF5VDFaUWRtYxAB",
+            "text": "Pasta was cooked perfectly al dente, sauces were awesome, a great place to come enjoy some of the best italian food on this side of the atlantic! Excellent service too!!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4NWVGTnZSMDF6VDNocFZITjNkalpwZURoV1NHYxAB",
+            "text": "Spectacular hot honey pepperoni pizza and smooth bottle of Montepulciano wine"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oWWIwNDFNbEowYjFrd2REaHpPSGhCWmpaSFQxRRAB",
+            "text": "Food is absolutely amazing. Best Branzino I've had yet."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201NGEzRkZWRFZCV0ZCR1FtRlZOV1Z1UVhCNGNIYxAB",
+            "text": "Very happy we have such a cute restaurant in our community. Food was delicious, got seated in no time on a Saturday early evening. I enjoyed 2 Red-Sangrias and I was ready to dance :) The Chicken Parm- Allá Vodka, chef’s kiss. Drinks were great food delish. Definitely coming back !"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5WFZEZE9lRFl6U3pWYVowSm1UVkIwVlVGSlZWRRAB",
+            "text": "Reservation was cancelled before we arrived and they stuck us right by the door where there's a loud beeping every time someone comes in. AND THEY ARE CASH ONLY!!!!!!!!!!!!\nThis needs to be much more obvious!!!!!!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xabk4wdGphbmxtT0MxU01VbHJaR1pzUW5WcUxWRRAB",
+            "text": "Amazing experience"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oc2MxVmhUVGN6VTJNMk1rWmZaME54YzNOcE4xRRAB",
+            "text": "Amazing pasta"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sNFVXZFdZeTFMYUVSV2VYaEVTMkUyZUdoTWVsRRAB",
+            "text": "Beautiful place. Good food. Accommodating staff."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWUU0wZEJVbGhLTjBWcGRrMU1WVXg2V25CTk4yYxAB",
+            "text": "The fried Buratta was amazing!! The ambience was really pleasant!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSNGFWbzBMVFZvUlRSVFRFRnJWRFZVV0dsdlZuYxAB",
+            "text": "The food was magnificent. The pesto pasta and burrata was delicious. The service was also amazing. We are visiting New York, and our waiter, Nick, was very welcoming and even gave us great itinerary ideas. The atmosphere of the restaurant is also very lovely. Great jazz music and calm vibes."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWbmFHSXdjV2t4VW1WVmJ6SldZMEoxUVU1YWVYYxAB",
+            "text": "Nick gave us a great NYC dining experience. He was very sweet and the service was awesome.  He also recommended some awesome places around. Food was fantastic, will return :)"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZMGEyZDVSbloyTjNGdFRUQTNXakJOYzFBeVgxRRAB",
+            "text": "Delicious pizza that is authentic and also not greasy. We really enjoyed it"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sYU0weE1aMFJ1TkY5SGVFc3RWRVZ3YUY4elNWRRAB",
+            "text": "I was here on Saturday after making reservations for my wedding anniversary dinner. My husband has been dying to come here for a while and it didn’t disappoint. It was very busy on Saturday and i was so glad i made reservations. After checking in, we were seated right away. The owner Nick came and introduced himself and brought us a bottle to celebrate. We were given garlic knots as well and they were sooo good and fresh. We ordered Caesar salads, i had cacio e Pepe with shrimp and my husband had bolognese with meat sauce. Everything was made to perfection and fresh! We also ordered one of each dessert which were both phenomenal. There was a group of people that came in singing making the night more fun and romantic.\n\nThey are a cash only restaurant which is important to keep in mind. We didn’t know this and my husband had to take money out of their on-site atm but this is something to know ahead of time for sure. The restaurant is clean, the bathrooms were super clean! This is a small intimate location but well worth it! I already can’t wait to come back and i thank the staff and owner for a great 10th anniversary dinner to remember !"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5S1VYUk5UMHRwYWtneVNWODRWbUZVWkZSTU1XYxAB",
+            "text": "The atmosphere was small but absolutely do not be intimidated by that because the service and food is 11/10.  They go above and beyond for you and truly put their heart and soul into the food/service. A piece of Italy is only found at Frankie’s. We will be back !!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21od1FVUnRNbFpITkhSd01ETjVkM1ZwZVVWWmFIYxAB",
+            "text": "Loved the good and atmosphere!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kWFNIRlNVelo1VDNKZk4xbEtNa3BaWjFkWU9XYxAB",
+            "text": "Great atmosphere and try the white wine sangria ! So good"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Bd1YxZGxjWEYxZFZCUFNtMXJkMlkxZFVOM1VGRRAB",
+            "text": "A little warm. the lobster ravioli was amazing, the sauce was delicious. Spicy rigatoni vodka the noodles were kinda hard but the sauce was fantastic"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aNVZEWmtRM0pCTWtWRlpGZzNhMnBMVkZWWk5uYxAB",
+            "text": "victor was good, service overall okay and food was alright, pricey for what we got"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GRFNYWmpTMmN3ZFhsa01ETnRjMTlzTW1aS1ZVRRAB",
+            "text": "Awesome service and food!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4UldISXdOMnBvYkVsME1FSmZXVlJWZURnM1ZHYxAB",
+            "text": "The food was mediocre at best. Most of our dishes were tasteless and the pizza came out stone cold and had to be sent back. Overpriced and underwhelming."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKcFRtTjFNVmxLYVZwVlFtMTZUV3R3VXkxMVVsRRAB",
+            "text": "It was ok, but it is a downer that only cash is acceptable. The food and service were excellent!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xka05UTXhRVEp1TjNCUlRtOXNZVVJ4VUZGMmNFRRAB",
+            "text": "The food was excellent"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oWGVFeGZUV3czYWxGRGVtMUVZVFZrYmxKYVRGRRAB",
+            "text": "Very good food"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwaVRYaDJPVkl0Y1dGWWIxOUdOMkpLVm5oUmFFRRAB",
+            "text": "Some of the best tiramisu I’ve had! Eggplant parm was delicious, pizza was well made, and spicy rigatoni matched its name."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kVUxXZExORE51Y2tzdGRXbEpkbTVyUWw4NWRuYxAB",
+            "text": "We drive from Jersey City every 3 months to eat here."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pjdFNWRkljVkYyTUU5TU4wUmZlRUZFT1RaME9GRRAB",
+            "text": "Had a fabulous meal tonight! Three of us had appetizers and dinner! The service is exceptional, with staff like Dessa going above and beyond to ensure a memorable experience. Whether you’re celebrating a special occasion or just craving top-notch Italian cuisine, Frankie’s delivers every time.\n\nThanks Nik!!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4RFVGZEVObGxMVWxaWGFGRnBiRFJJU20xUVVsRRAB",
+            "text": "Nick K is an upselling expert. He is quick and qualified. He did a great job!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xacFJURmpRMGt4V2paNGNGQnZSR1kxT0hKM1dVRRAB",
+            "text": "Got the trio pizza and it was so good! Perfect for 2 people to share.  I also recommend getting a side of the vodka sauce for the complimentary garlic knots they give.  Adds the perfect touch to an already good meal."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSc1ptcHdVM3BKVjFwNllrdENVak16WTJkRFEzYxAB",
+            "text": "The penne vodka was amazing. Highly recommended"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21adGVWQkRSRUZyYjJjMmNrWlRUbGw0WldOdFMwRRAB",
+            "text": "Frankie's restaurant has great food and services  step in and experience it"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkcWFUY3pkREZ5UjB4WVpWRm9jVmhNYWpKcVIzYxAB",
+            "text": "Best dinner experience in NYC!!  The food was excellent as was the service. Nick was the perfect host and made us feel so welcome.  This family is warm and inviting. You can’t go wrong if you choose to have dinner here.  It’s worth the drive to Little Italy in the Bronx!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taSlJWTnFTbUYxTURSSVFsSk1lRlZ2V2taZlNWRRAB",
+            "text": "Really annoyed at this place. Ordered from them online at Uber Eats, and they didn't deliver 3 out of the 4 items I ordered! I called the restaurant but no one picked up the phone. The food is great, but service for delivery orders is horrible. Never ordering from here again."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaTk0zRlBkakZWZERCNVpXWXlOVFZyUjFaVFVuYxAB",
+            "text": "Fantastic food and experience!  Staff was very welcoming, and the pizza in particular was top notch."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xNGFpMU1iM2gwWTB4RVkxSk5kVFJxZWtOSWJHYxAB",
+            "text": "I loved everything about the place, the food was amazing and so was the place. Definitely going back."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VdE4xOWxkVU5EVUdwYVZFTXRjblYyTWpSWFltYxAB",
+            "text": "Fresh tasting amazing food! Highly recommend going"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oeE5WVjFjRVpOTWpnMWNsaEtOMHM0V0dkbk9FRRAB",
+            "text": "CASH ONLY!! Food and atmosphere was good. But please be advised. CASH ONLY."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CdGVXMTFWa2xNYldveGFYVk5ORVJNU1cxa05WRRAB",
+            "text": "Just had a wonderful lunch at Frankie’s. Nick was an awesome host…. Very personable, friendly and attentive. The food was amazing…fresh, hot and tasty. Best Italian cuisine around.  Highly recommend trying them out if you’re in the area."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvMk9pdHJ3RRAB",
+            "text": "This place was a hidden gem! I don’t give out 5 stars easily, but this spot absolutely deserves it. Conveniently located not far from the highway exit, with plenty of easy parking—even on a Monday evening.\n\nWe arrived around 6:30 PM and were seated immediately. They started us off with complimentary garlic knots, and wow—so good! We ordered the pear salad, spaghetti and meatballs, and chicken alla vodka. Every dish was excellent—flavorful, fresh, and perfectly cooked.\n\nThe service was just as impressive. The staff was friendly, attentive, and our food came out quickly. I’d definitely come back again—highly recommend!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBM2VITjJaMHhuVTJ4T1ZIaE9XUzFGZVdnMWNYYxAB",
+            "text": "Absolute top notch Bronx Pizza and staple Italian food at its best. Literally the best spaghetti and meatballs I think I've ever had, and the chicken alla vodka pie will blow you away. We got uber eats delivery so the pictures are merely a reflection of the food being on a bicycle for 40 minutes, but I assure you the flavor and quality did not disappoint!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNveTRHcFdnEAE",
+            "text": "Frankie’s is your quintessential New York neighborhood Italian restaurant. Wine bottles on the walls, “brick” line walls, and those wonderful, heavy wooden tables.\n\nThe service is great and we never had to wait more than a few minutes before someone from their attentive staff checked on us.\n\nThe warm house bread is delicious, but not served with the usual plate of olive oil and cracked pepper, so we asked for them and were given olive oil and parmesan which turned out to be a nice pairing for the bread.\n\nFor a starter we shared the pear salad, which was delicious. I avoided the feta, but didn’t mind the slight sharp flavor the smaller crumbles provided. The candied walnuts were flavorful and the pear slices were delicious. I also enjoyed the vinaigrette. This was a great starter.\n\nMy dining companions ordered the shrimp pasta (mildly spicy) and lasagna. Both had a great flavor. Frankie’s sauce game is on point. I ordered the broccoli rabe and added mushrooms (highly recommended if you’re a fungi fan). The sausage was flavorful and the dish was well oiled. Hopefully the leftovers will retain the flavor.\n\nI suggest making reservations, especially if the weather is nice."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvbUlYMTN3RRAB",
+            "text": "We loved it here. Service, food and drinks 10/10. I really loved the baked clams, chicken francese and pizza. Made reservations here with my girlfriends and we were very happy to have chosen this restaurant. Will be coming back."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aRlQycEZWRTFoWTJOSFRrVnJiRE5RWmxsSFgwRRAB",
+            "text": "Frankie's is such a cozy and intimate restaurant. The servers are pleasant and nice and the food is DELICIOUS. Our server was Desa and she was excellent! I recommend Frankie's. The dessert is delicious and the music is great. I would've taken a pic of my main dish but it was too good."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNV3JqT0NYaDZPMVJ3EAE",
+            "text": "Very friendly and helpful staff. We got the fried burrata and tri color pizza to split between 3 people for a light snack, and it was the perfect amount. Great family friendly atmosphere right on Arthur Ave."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvaFlqRXl3RRAB",
+            "text": "I can’t even begin to explain how amazing this place was, we stopped in just to have a drink and the salted caramel espressotini was by far the best version of an espresso martini I’ve ever had. We also shared the burrata which was fresh and delicious. The service was impeccable and everyone was so friendly, I would recommend this place to anyone and I’m looking forward to coming back."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBenBXUHN3RRAB",
+            "text": "Frankie’s has to be hands-down my favorite restaurant on Arthur Ave. It has a lovely and intimate ambiance with low, warm lighting and beautiful decor. The food and drink are wonderful too — I’ve never had a dish or cocktail that I didn’t like and it is always such a struggle to choose what I want to get because everything is really just that good. The servers and hosts are always so kind and attentive as well which really adds to an overall delightful experience."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGTE5uUkhRbkUwWWxBNE1EZGFURUpaYjFKSU5VRRAB",
+            "text": "Cash only. The prices on here don't reflect reality, see photos for correct prices. Pizze are pretty good."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvcGRQaEtREAE",
+            "text": "Had a nice night at Frankies, I enjoyed my food recommended by my waitress Ana when I wasn't sure what I wanted to try she suggested a very delicious trio pizza it was so good, afterwards was the delicious chicken parm. Thanks to sweetheart Ana and the establishment for an enjoyable and tasty experience at Frankies!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREaXFXZWNBEAE",
+            "text": "We came on a Sunday around 4 pm.  We were probably the only ones in the restaurant.\n\nMiguel…our server was very attentive. Came back after every serving inquired how we were doing.\n\nThe bread: two types.  Olive and plain but warmed up.  Always a good start.  Olive oil also good quality, didn’t have after taste.\n\nApps:\ngrilled octopus was very good. Not over or under   Just perfect with some arugula and tomatoes.  Very refreshing.\nBurrata: very soft and moist.  Also served with salad and balsamic dressing.\nFried calamari: crispy and not over fried.  The batter had some spices to it but the marinara sauce was a bit flat.  Could have a bit of kick to it.\n\nMain:\nPenne Alla vodka m:   Great sauce and pasta cooked to a perfect chew\n\nEggplant parmigiana: not doughy and cheese had appetizing melt with penne past with marinara.  The breading didn’t over power the eggplant, fluffy and light.\n\nMussels with spicy marinara:  finally the sauce had some kick to it.  The plating presentation of mussels was ornate.\n\nI would definitely come back again.  Next time will be steak on the table."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEeFBXLVR3EAE",
+            "text": "The staff could not have been more pleasant. We had a lovely time there. Started with a generous portion of Calamari, so fresh, and a fab Burrata salad. Yummy. However 3 out of 4 main dishes were over seasoned. The Shrimp scampi was cooked beautifully, and tasted fab. The manager was super nice and took the chicken off our bill. I’ll definitely be back. It was great except for the seasoning."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZM1lqTXdWRGhsVVVOTllUUmxUVXQwUVZCQ1FWRRAB",
+            "text": "The pizza here is amazing\nFrom the regular margarita pizza to the chili and honey pizza was amazing\nAlso a special danke to the amazing Dasa for taking care of us"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OR1NrUklUa1YwVHprd1YwcFdYemd0ZWxKRVlVRRAB",
+            "text": "After recently moving to the area, my partner and I have been trying the local restaurants. Today we discovered Frankie’s and were blown away, particularly by the spicy vodka rigatoni, shrimp scampi, and tiramisu! The portions were well worth the price, especially compared to the other Italian restaurants we have tried. The vodka sauce is the best we have had in New York! And the service was excellent. We will definitely be going back soon!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2OWVURzhBRRAB",
+            "text": "OBSESSED with this place! If you’re looking for some of the best Italian food you’ll ever have, Frankie’s in the South Bronx Little Italy 🇮🇹 is the spot. My fiancé and I haven’t been able to stop dreaming about these dishes since we left."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQM3AyRHlBRRAB",
+            "text": "A couple of months ago I reconnected with a friend who happened to be in the Bronx for the day and wanted to go to Little Italy.\n\nAs a BX native I spent a lot of time in the area with my grandmother when I was younger. It seems that Little Italy has shrunk, but the staples are still thriving.\n\nWe decided to grab Lunch at Frankie’s, it was 2:15pm on Saturday. Only a couple tables including ours were occupied. Service was good but the food just was ok.\n\nWe started with the Pear Salad w/o the feta. The salad was fresh, crisps and had a nice balance.\n\nI ordered Shrimp Scampi and a glass of white wine. As foodie I rarely mention or complain about price in my reviews. I feel that you pay for great food and good experiences. (We also all know that everything has increased) Needless to say my entrée of pasta and shrimp wasn’t not as flavorful as I would have hoped, and my shrimps were overcooked. Disappointing at almost $40 bucks. (Full disclaimer it was $36). My friend order spaghetti and meatballs and also wasn’t blown away.\n\nBoth dishes are basics which I expected to be perfected and executed with ease at an Italian restaurant.\n\nOverall it was enjoyable to catch up with an old friend and take in a bit of nostalgia while walking down Arthur Ave.\n\nJust A Note:\n\nWe enjoyed the pear salad and appreciated the service."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBMWRMQjNnRRAB",
+            "text": "Amazing dining experience for lunch!!! Everything was freshly made and the service was spectacular!  Our waiter didn’t miss a beat in making sure we were attended to. We will definitely come back again and again!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kcGVGVkNYMEZLY2t4Tk4xQmhkR2x0WVdoWWIwRRAB",
+            "text": "Amazing food and drinks !!!\nStaff are very friendly and helpful. Will definitely come back again !"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0d05FdGhNazFLYTNsTVdsVnlUMFpJYVZWRWNIYxAB",
+            "text": "Calm, Quaint, and Romantic. Went for my girlfriend’s birthday and the service was speedy and great, the food was delicious, and they even brought out a cake for her!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYaGZ6YWp3RRAB",
+            "text": "What a fantastic experience!  We spent the day at the Bronx Zoo and then walked over to Arthur Avenue to seek out Frankie’s. They were mobbed and getting busier. That’s when we met a fantastic server from Albania (sorry we didn’t get her name). She took magnificent care of us. And then things only got better when the food arrived. Out party ranged in age from 8 to 74 and every age in between. We were all thrilled!  The food was expertly prepared. We shouldn’t have eaten it all because the portions are generous. but it was so good we couldn’t help ourselves. When you want terrific Italian food you will do no better than Frankie’s!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1dGNFdEliMkZ5TTJkbldXZENOVmwxVVRaTlpWRRAB",
+            "text": "Stop looking on Google and just go here already. The best pizza we’ve ever had… and we’ve had a lot. From the moment we got steaming fresh bread, we knew this place was special. The burrata was superb. Flavor explosion. The wine and espresso martini were stellar. The trio pizza was AMAZING. Not messy at all and the sauce was so unbelievably fresh. The bolognese tasted homemade. Service was great and the owner is a lovely person.  We’ll be back with the whole family."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0RFJHZDBjV05rT1d0eWJIRjRTR3RUZEdwYWJtYxAB",
+            "text": "Had a very delicious dinner at this Italian gem on father's day. We started with the burrata which was fresh and perfect for 3. Entrees of chicken a la vodka, eggplant parm and chicken Milanese all of which were delicious and fresh as well. We were seated immediately at 6pm, the service was great. We look forward to returning to try more dishes. All in all, a great,  romantic restaurant."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwd0pyYUd3EAE",
+            "text": "As an Italian food connoisseur, I was not disappointed by Frankie's. They're a fairly new restaurant, but wow, did they nail it. The service was OUTSTANDING, our waiter was Jairo and we saw him doing everything from taking orders, bringing food out and cleaning tables. A hardworking, attentive, and pleasant man.\nFood: do yourself a favor and order the meatballs.\nThe bolognese was out of this world. Everything from apps to dessert, was perfectly executed."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvcFl1cWF3EAE",
+            "text": "A lovely experience our server Anna was so delightful so attentive so sweet. Food was 10 out of 10!! Highly recommend"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aVVNERjNTVlJDTWt0blQwUkdibGR4U3pWSlVVRRAB",
+            "text": "Frankie’s is such a wonderful restaurant. Everyone is welcoming and the food is phenomenal. The atmosphere is very relaxed and comfortable. They’re also very good about substitutions for any vegetarians. Desa is super friendly and down to earth! Thank you Desa, for your kindness. You are the best!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNS2UzZG5tbU9yMGdBRRAB",
+            "text": "What a lovely experience! Please give this restaurant a try the spaghetti bolognese is a most."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLbWJqT1RMaUpTUC1BRRAB",
+            "text": "Best lobster Ravioli iv had in years .  Great server Dezza"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNubmFXUmNnEAE",
+            "text": "Excellent spaghetti and meatballs.  Awesome chicken milanese.  Great staff.\nTry the lemoncello Spritz!\n\nDefinitely a must visit place when on Arthur Avenue."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwaEtXVktnEAE",
+            "text": "We wasn’t planning to stay in the area for dinner until we came across Frankie’s. Food hit the spot and was sooooo delicious w/ tasty drinks. Location is definitely on my fav list now and plan to return later this week 😃"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvamRuSWlRRRAB",
+            "text": "The best baked clams I've had in years......My wifes rib eye was to die for.....Nick the owner is a great host"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VLNkNxTTdVN3Z6OEtREAE",
+            "text": "I ordered the mushroom pasta and chicken pasta from Frankie’s on Arthur Ave, and I’m beyond disappointed. I’ve ordered from here before, months ago, and the food was completely different—this time, it was a disaster. The pasta looked and tasted like the cheapest commercial kind you can find in a supermarket. Absolutely no care or quality in the preparation.\n\nI spent $80 through Uber Eats, and it feels like money thrown in the trash. I didn’t lose my money , you lost a customer. Never ordering from here again. What happened to the standard you used to have?"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvcGF1VHlRRRAB",
+            "text": "Ana was an amazing server! She was so attentive, sweet, and extremely polite. The food was 10/10! Highly recommend visiting!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvcFl2QTVBRRAB",
+            "text": "Our sever Anna A. was the best, food and service were a 10/10. Highly recommend!"
+        }
+    ],
+    "reviews_count": 84
+}

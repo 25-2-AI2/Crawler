@@ -1,0 +1,656 @@
+{
+    "name": "Island Grill Bronx Modern Caribbean Kitchen",
+    "place_id": "ChIJwZ65-tbzwokR05-nJsAi5tU",
+    "grid": "BX12",
+    "address": "4216 White Plains Rd, Bronx, NY 10466, USA",
+    "rating": 4.9,
+    "user_ratings_total": 771,
+    "phone_number": "(347) 341-5931",
+    "reviews": [
+        {
+            "date": "5시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsUmFrUmxibXhNTlU4dFNtMUhjRFI0U1ZKTGFGRRAB",
+            "text": "Lad made my first time here a great experience"
+        },
+        {
+            "date": "7시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOU1VsUk5ZMDFFTlVWbVRVVktVa0ZvV0U1QlgwRRAB",
+            "text": "The cook Tasha was fabulous and friendly! Will be returning soon !"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjME9IcE5jMWQ2TkZSeE4xWlRhWHBpZW5SRVJsRRAB",
+            "text": "Shoutout to Malik for great service tonight and good food— wish this establishment was closer to CT.\nHowever, a must stop next time I’m in BX with friends or family.\nClean restaurant as well. Oxtail Rasta Pasta was 🔥🔥"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSd1UyTlhZWHBHWlRSVGFFMUtkVkF0WVVacFZIYxAB",
+            "text": "I had an exceptional experience with Lav. I’m sure all employees are great but I don’t want anyone else but Lav to serve me going forward. Didn’t know what I wanted because there were so many options, but he stayed patient, explained every option, without making me feel rushed. Professional, accommodating, and genuinely helpful—the kind of service that earns loyalty."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkaFlXNUJTRGx3U0RKRmVrSlhTSFEzTm1aRlRHYxAB",
+            "text": "Malik was exceptional"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OTVdrTjVUMk5FTm5wR1gyVmZMV1JvTkV0dmFtYxAB",
+            "text": "As soon as we walked in we were greeted. Malik provided great customer service.."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSMGVqQXdSbk5yWTBnNVJUUkdZWFZ0TkVSME1FRRAB",
+            "text": "Great food, great service, shoutout to Malik who asked us if it was our first time there and gave us some food suggestions and samples to try before ordering. Highly recommend!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWc1lucG1WakJ0TlY5cmFtOTFWRFJrWTNOdWNuYxAB",
+            "text": "Malik made my experience amazing. He pointed me to the right food. You should most definitely stop by and try there food"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SaVZHdFRTblZZYWpCVFYxaGFSMmxuZVUxeVJIYxAB",
+            "text": "Passing thru from CT. Couldn’t have made a better choice. Food, service and people are incredible. Thank you!!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KUk5sQlZVVTFsVDBwME9VeFlhVmh2VTJJdFlYYxAB",
+            "text": "Yes, yes, YES!!! Everything about this place is amazing! We found this place from reviews and drove 20 min for it not to disappoint! The Rasta past, plantains, salmon, stewed chicken were all FIRE! Great atmosphere, service was top notch, super friendly, informative, knowledgeable. We will travel back."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25od1YzQlBWVkZCTUVwcWVFaEtaR0Y1TmpKbk1rRRAB",
+            "text": "Simone is the best! Great food, great vibes and affordable"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4eFlXSkZaV3RpV21wUGRsZDRNbHBMV1VGdWExRRAB",
+            "text": "Looove this place"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toQ1p6bGxYMFl3WlhNMlVtaFhiMFJ4YTFnMk1YYxAB",
+            "text": "Best food in diss world"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sRmRYZDJRUzA1T0dSVFkzVTBWV0V4VjJoaFZsRRAB",
+            "text": "Malik was so nice and the customer service was great!!!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21saE5uQkVYMUZMZUcxV2FXaGxUVVl6Y2psZlozYxAB",
+            "text": "Malik was very helpful"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSSU5WOXdVRVp5ZW1wTGFXbG5XRnB6ZVZaNk1tYxAB",
+            "text": "Amazing customer service from my server malik! He made sure i was very well taken care of! Thank you malik and thank you island grill for amazing food!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4dU1YVlZWR1ZHZEZOUVdFUkRWRFpXVmxwaWFtYxAB",
+            "text": "I went with my family to this restaurant today and Malik was really cool. I loved the food and the service."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxZlUwVkVZV1JFUmpoSFZuVnhhamRoYzJwVlUwRRAB",
+            "text": "Amazing service from Malik. Wish him all the best!!!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200d1Z6bE9YMnAyVlZJM1dtYzBXa0Y0V25nd1dHYxAB",
+            "text": "Malik was very good 10/10 i will be back"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21vdGVHVnhTbVZzUTFsbVEyVnNMVTFxWkdGbVRGRRAB",
+            "text": "The Food is delicious been going since it open. The chef is amazing. She definitely cooks her food with love and gives great customer service and warm service 🤍"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGTFNHVTJOVzlNVEhWYVZGbHJhMTlIYTJSaGFIYxAB",
+            "text": "Malik was awesome, attentive and patient thank you !!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOTmNFcGZNM2R1T0hkSlZWaE5URGRTV25wRVFuYxAB",
+            "text": "Malik was very nice respectful and helpful and the service was top tier. I’m really glad I went in there today made my day honestly!👍🏽"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SdVUxUnJMVU0zYUdkdFRscFBkR2xGUkZkTk1uYxAB",
+            "text": "Excellent customer service. There was a guy there, I believe his name is Malik, he was so kind and welcomed me very well. Congratulations!!!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25rdFJHVXpVVWRIZVZCS1ZXVk9VMFZEYTNWVFowRRAB",
+            "text": "Good customer service 10/10 Malik very good employee"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCaVVIZHRWMHRYUnpKV1JsTnFhM2hETnpKU00xRRAB",
+            "text": "I had an amazing experience at Island Grill thanks to Malik’s outstanding service. From the moment I walked in, he was welcoming, attentive, and made sure everything was perfect throughout my visit. Malik had great energy, friendly but professional , and his recommendations were spot on."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkS1ZrZE5aWEJIYm1GcE9XcHNZa2hJU0RSVGJIYxAB",
+            "text": "Malik was our server..great customer service ..would definitely recommend eating here..chefs kiss😘\nDefinitely eating here again.."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tRNWRWcEVjV0poUzBScVJVWnNSVzEwV1VVMmFWRRAB",
+            "text": "Malik , lad and victor amazing service and amazing food"
+        },
+        {
+            "date": "수정일: 5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBamJhMkdREAE",
+            "text": "Guys when I tell you don’t walk run to this Restaurant .. RUNNNN !!! Not only are the servers maliek, Lad, Victor & Ronaldo amazing, the energy is great. The food is amazing the place itself is spotless & No They Dont Over Price !! If you’re ever in the Bronx area I recommend that you come here and get something to eat for sure 10/10 ‼️ I was suppose to add pictures But I ate too quick the food is too good !"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOaVFtZG9UMGN0VFVwRGVGRlliR3B5VjBkWk0xRRAB",
+            "text": "Hands down the best dining experiences I’ve had in the 5 days I've been traveling NY.\nFrom the moment we walked in, the energy and welcome was flawless.\n\nIt's a Jamaican restaurant of course I had the oxtail, but it wasn't my first choice, the chef was kind enough to lead me without pushing, phenomenal. It was tender, meat fell off the bone and flavorful.\n\nNow to complete this review was what I witnessed before I left the establishment,  the chef was offering a gentleman who seemed to be down on his luck, a hot meal. This was what made me know I will always come here when I'm in the area.\n\nWhat a blessing to be a blessing to others."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aRlJFODRXVFV5ZHpGbk5VUnJWR1YxYTNCSmJIYxAB",
+            "text": "Island grill restaurant is the place to be. The food was really good and the service was great as well, If you need some good jamaican food please visit here."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsRlIweDZVVWd3VGpKdE4yZGxaekZrVWxoS09YYxAB",
+            "text": "The food is very excellent, I finished it so fast, island grill is so good I highly recommend the curry goat and fried chicken. The staff is very friendly and have good customer service skills."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWeGMyOUxWeTFHTFhkU1R6SlJSRzV1Y0U5aldFRRAB",
+            "text": "The food is really good , I highly recommend"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWU1RYQlBjRVozZDE5bWNXNXpkMmRMUm5kaVpFRRAB",
+            "text": "Amazing and friendly. Great Caribbean energy!"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4b1dFbzNTblIyYzFaWU9XcFhjRUl5VDJSME9XYxAB",
+            "text": "Amazing food also customer service on point"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xJM2JUTkJhR2RQVUhGM1ZrZ3pZall3YmxCbmQxRRAB",
+            "text": "Overall I had a good experience! I had Jerk chicken with white rice. Food was fresh and the staff is very friendly!"
+        },
+        {
+            "date": "수정일: 6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKX3E4dHVRbVlHcGd3RRAB",
+            "text": "My new go to spot! Staff is lovely and polite, the food is always good!"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GNWEwSmlUV2MwYTNKNVUzQXRZVlJtU20xUFgzYxAB",
+            "text": "Malik was our server very attentive and nice! We we very please"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1MmJVWktkbG93TkhCMGNGWmxSVUZRUlhZM1VrRRAB",
+            "text": "Best Jamaican food I had in my entire life 😍"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GZllpMU1lbWRHWDFOZlowVlFSVFJNUjFWTmRuYxAB",
+            "text": "Great service and the food taste amazing"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xaVZrcEVZbUpsYzBVeWFHcG1OMlZOVDIxSGEzYxAB",
+            "text": "Top Tier Jamaican food and service !!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wMmVsaHhhbEJ0Y0Uxd09YVm9NM2x1YVVST2FrRRAB",
+            "text": "Maleek great customer service!!!!!!!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KVWQwSktWM0ZwUkRZMlRFRXdPRzlYVGtObmRIYxAB",
+            "text": "Malik gave me outstanding customer service appreciate him giving me a little taste of the food to help me make up my mind because , it was so hard. I got the curry chicken foot w/ white rice and oxtails with rice and peas 10/10 both meals .. will definitely be coming back here !!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kc09GRkpZM0Z6TWxSc2NIazVVRzQzUzFOSVdWRRAB",
+            "text": "Good vibes, good food, a lil pricey but worth its joint smacks crazy, take ya shawdy it’s automatic 💯"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ST1IxSkdRM2hSVTBkUFMyRlZZak0wUzBodlZWRRAB",
+            "text": "The food was so delicious. Very authentic Jamaican food. Chef Tash was absolutely lovely. First Jamaican spot with good food and good service"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psTmJ6Y3pibVZoTjFOMU5FeHlabW81U1ZWNlpIYxAB",
+            "text": "During my recent visit to Island Grill, I was deeply impressed by Simone, the front desk personnel whose professionalism and attention to hygiene truly set the gold standard for the restaurant industry. As someone living with a disability and an autoimmune disease, I am always conscious of food safety protocols, particularly in environments where employees handle both cash and food. Simone demonstrates exemplary discipline; she changes her gloves promptly after each transaction, ensuring a sanitary barrier with every customer interaction. Her diligence reflects not only personal integrity but a standard that every employee in the food service industry should uphold.\n\nBeyond excellent service, Island Grill continues to distinguish itself through its authentic Jamaican flavors. I particularly enjoy the Jamaican Red Peas Soup﻿ with chicken, dumplings, green bananas, dasheen, and corn, as well as the chicken soup. Each dish embodies the warmth and rich culture of Jamaica in every spoonful.\n\nI also wish to commend the owner, Marvin, whose continued commitment to health and safety ensures that his staff consistently wear gloves when serving patrons. His leadership reinforces a culture of accountability and care that customers like me deeply appreciate.\n\nIsland Grill is not only a place to enjoy nourishing Jamaican cuisine; it is an establishment that exemplifies integrity, hospitality, and respect for all guests."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KWFpWUkdZa05sT0hkbFExSTRUWHBUTlVGTGNsRRAB",
+            "text": "the place looks clean very friendly food was good only thing is that the rice need more cooking it was eatable i would go again .. especially since she was friendly i got this place off from tiktok i got oxtail my man got stew chicken"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pac1NYazJaMjAxTVRKU1pUWm1jako1UVRVdFJrRRAB",
+            "text": "The Food Is Good The & Service is Always Good! Definitely Would Recommend"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwUVpFbFRWR1UyYkdrd2NHaEJjM0JoVDJwMlVIYxAB",
+            "text": "Chef Tash and her team was amazing. Hands down. Will definitely visit again"
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfNDQtYU1REAE",
+            "text": "Why i just went to this restaurant and the server both the woman and the guy serving food with out no hair net. What sup with that."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21vMlYyRTBaWGxOWWtzNWNHeEhSRUZsTFRCaWMzYxAB",
+            "text": "The food was delicious and the cashier was great"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OcloyaEtOWGRHWTI1YVVFZGtNVXBVYlc5YVowRRAB",
+            "text": "I stopped by for food, and OMG, this was a lot better than I expected. They have a lot of options to choose from. I got the pea rice, jerk chicken and ox tail- that was a medium order for $18. It also came with vegetables. I also ordered the coconut water. The food was very very tasty. Even the verge tables were delicious. The establishment itself is really clean, there are 3 tables to sit at. The lady behind the counter is really nice and patient, she did not rush me when I couldn’t decide what to get. I definitely recommend this place and will come again."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOaU0wMWhjRlZOZVVzeWVGVk9lRmxETmtadlVuYxAB",
+            "text": "There is a lot of delicious Jamaican dishes to choose from but the food I got was too salty for me. As a Jamaican who knows how to make all these dishes the food does taste okay spice level perfect but it’s just too salty!\nThe staff were very nice, a rare feature in a Jamaican restaurant."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aMlJVUnphbFJFWWxaM05YaGZPVnBIVkhFMWFYYxAB",
+            "text": "Island Grill – A Hidden Gem Worth the Trip\n\nWe were in town for a wedding from Virginia and my daughter was craving Jamaican food. We found Island Grill and it was truly an unbelievable treat.\n\nI had the jerk chicken with mashed potatoes and topped it with gravy from the oxtail. Every bite was full of rich flavor and the chicken was perfectly cooked. I also had a Jamaican cream soda by DG which hit the spot. My daughter had the jerk chicken with rice and their in house pasta, which was absolutely incredible. The pasta is a flavor explosion and one of the best things we have ever tasted.\n\nThe two ladies behind the counter were so nice and helpful. They even let us sample a few things to make sure we got exactly what we wanted. That kind of service made the whole experience even better."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJeTlqeVpBEAE",
+            "text": "At first I thought these reviews were paid for or maybe just family n friends but decided to try anyway. It has now become my go to place. The food is delicious and fresh and you definitely get your moneys worth and more. Portions are generous and prices are great! I usually order on uber eats and get their BOGO. One of my kids like white rice and one like rice n peas. I just request them to accommodate my preferences on the note section of the app and call to confirm. Omg again! Their customer service is impeccable!!! I've lived around this area for a ling time and tried most of the restaurants around here but never have I experienced such consistent, wonderful,  friendly,  accommodating service! I am going to make my way into the store one of these days just so I can thank these employees in person. I'm currently awaiting my order of curry goat and stew chicken both which I'm trying for the first time but I've attached pics of my previous order to this review which was curry chicken and jerk chicken. Both were on point! And at BOGO, u can't go wrong!  I honestly wish the very very best to this business because they deserve it. I will choose this spot again and again and I hope they stay consistent with their delicious food and one of a kind, refreshing customer service.  Thank you so much island grill. You guys are doing an amazing job and I hope you continue to flourish and prosper.\n\nUPDATE 8/21/2025 : Unfortunately this place is slipping. The BOGO on Uber eats are not BOGO but instead just one medium meal. Called restaurant to inquire and the young man who answered was extremely rude and unhelpfull and hung up on me. When I called back he refused to answer my calls. Bought a BOGO Stew chicken like I been doing several times a week since I first discovered this place and received only 1. I called back week after to clarify because I wanted to order again and the nice woman told me the owner has made some changes but it doesn't reflect on the Uber eats menu so that is confusing as a patron. The food was good but unfortunately I haven't ordered nor will I be ordering again in the future and I've stopped recommending and sending my people here. So sad this place is changing..I really thought this would be my go to but they fumbled. On to the next. Changed my rating from 5 to 2 stars due to the way I was treated and the false advertisement."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204elJsWkpPV1JRZGpKU1JsUlhaVlZUYzNkcE1FRRAB",
+            "text": "Hair in my food!!!!! Visited here 2 weeks ago because it went viral on tiktok. Rasta pasta was gross & not flavorful but the curry goat was okay. However, there was a hair in my food. I spent a lot of money on my plate as well as the 2 other people who went with me. Tried calling multiple times about this issue but no one answered so I had to post this review. We’ll never be returning."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sV2RtcEVOM1UzTFZkS05qRXlZblJuVkVZMGJXYxAB",
+            "text": "🎶 “Lord have mercy!” — This food was bomb! 💣 I only managed to snap a photo of the aftermath because I demolished that plate. I’m super picky when it comes to chicken, and let me tell you — I clean the bones. That jerk chicken? Seasoned to perfection. I paired it with homemade mashed potatoes, topped with rich stew gravy and jerk sauce that brought everything together beautifully.\n\nTo top it off, I had it with an ice-cold Jamaican Cream soda. Listennn… Delicious! 🤤\n\nThe service was excellent — big shout out to Shauna, who was quick and on point with preparing my meal. Thank you, Sis!\n\nThe ambiance was clean and well-kept — and trust me, I’m meticulous when it comes to cleanliness. This spot definitely won me over. They’ve got a new loyal customer. I’ll definitely be coming back.\n\nRating: A+++ 🌟"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJa1piWFpBEAE",
+            "text": "This place can take all my money!\n\nAs soon as I walked in and smelled the aroma of the food, I knew it was going to be good and i was right!\n\nDefinitely the Best Jamaican food I had! It’s where the vibrant spirit of Jamaica is represented in our food. The menu features authentic Jamaican dishes that’s truly made with so much love, you can taste it in every bite!\n\nEach delicious dish was an experience that\ntransported my taste buds straight to the Caribbean with the most epic flavor adventure! 😋\n\nThe cardi B combo is a must! Comes with jerk chicken, oxtail over lo mein. The fried chicken, bbq chicken with rice and peas and Mac pie was another fav! The seafood combo is always so good! Literally loved everting!! Can’t wait to come back for more!"
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZMUkzNExREAE",
+            "text": "OMG!!!!! When I tell you guys they are the best. I love how nice they are. My husband and I came to visit New York and I find them on TikTok. The food was amazing, we went back again in the same day. That jerk chicken rice is everything. Please check them out you want be disappointed."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmOGNtVnV3RRAB",
+            "text": "Island Grill never disappoints! The food is always fresh, flavorful, and cooked to perfection. I had the jerk chicken, and it was some of the best I’ve ever tasted—perfectly spiced and so juicy. The sides, especially the rice and peas and plantains, were amazing too! The atmosphere is warm and inviting, and the staff made me feel right at home. This has definitely become one of my favorite spots. If you’re craving authentic island flavors, Island Grill is a must-try!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3NDQzV25BRRAB",
+            "text": "Wow! So delicious and a great vibe. We got the oxtail and salmon. Flavorful, rich, and great music and staff. Christina on staff knew the exact dishes to make us want to come back, and we will! 🔥🔥"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xRU9WcGFaRkpHWVV3NWFscEVNbVJOWnpaNFVHYxAB",
+            "text": "Food is delicious, the service was amazing. The staff is friendly and welcoming. Atmosphere is a vibe! Will recommend!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBOFpQNUJREAE",
+            "text": "This was my first time here and it’s such a welcoming place! The food is amazing, customer service is great, they give you a pretty good portion of food for the price it’s so worth it! I will defiantly be coming back again I had the oxtails and never had such delicious oxtails and the bbq chicken everything is so flavorful and falls right off the bone. Marvin gave me such wonderful customer service and let me sample the oxtails because I wasn’t sure. I will 100% return. Thank you Marvin & the staff"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBOFl2UlpnEAE",
+            "text": "The food was so delicious, it was my first time coming here. I stopped by because he had great reviews. I now understand why it was so good. The oxtails are amazing and falling off the bone, the bbq chicken is spicy but if you like spice you LOVE IT because it also falls right off the bone. The portion they give you of the oxtails is good and fulfilling not just 4 pieces like some places. Marvin the owner let me and my cousin sample the oxtails and dumplings we loved both. Marvin has great customer service and make sure everyone feels welcomed. I will be coming back and bringing more people with me 5 STARS ALL THE WAY !!!!! Thank you Marvin for the hospitality and thank you to the women who made my late I appreciate it !!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Sc1VXaDNZVE54ZEVwc1pGQTRWVWwxVm1kUlRWRRAB",
+            "text": "Food Amazing. The Service and Hospitality is Even Better… 10 out of 10!!!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKRVpFeGZhSGhvWlc5T2NXMU9ibUZ6VEhWSGJWRRAB",
+            "text": "I spent half an hour looking for this place!! This place is Amazing!!! Food is delicious!!! Wonderful experience here!!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMN3otTl9KeGJpcG9RRRAB",
+            "text": "I lovee the food here is this the best Jamaican food spot in the Bronx . I literally eat here everyday and the food is always consistent! Great customer service always from ayanna! She’s always friendly but also quick with the lines"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGcFZITk5SVVoxUTBGbWFXZGtUMnRNUzE5cGFXYxAB",
+            "text": "Listen/read we all know the truth New York City and Jamaican/Caribbean food go together real bad and this spot right here don’t miss they keep that relationship going hard"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYNDQzcmdnRRAB",
+            "text": "(1st visit) The lady who is the server is warm with a great personality... the white rice was mixed tough and the curry giat has too much MSG... I thought restaurants stop using MSG... 🤔.  The service is good the food layout is good.\n\nAugut 2025 (2nd visit)\nThe place had done much renovation and open up and brighten the store. I tried the curry goat again and it was tasting much better... thank you. The macaroni and cheese is awesome also. Keep up the real Jamai and spicy food style."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvdC1MeXlRRRAB",
+            "text": "This was my first time here, I saw a video on TT and knew I had to stop by and try something.\nThe atmosphere was so calm and peaceful.\nThe service was exceptional. So helpful, kind and informative.\nI got the Med Oxtails with a side of Lo-mein. The oxtail were juicy and not overly spice some other places and the lo-mein and was same, juicy, moist and flavorful.\nI also grabbed a BBQ chicken w/ rice n peas for my mom and some Brown Stew Chicken w/ rice n peas for my sister. The first out my sisters mouth was \"this is really good\".\nThis place gets a thumbs up from all 3 of us. We will definitely be back to try more stuff out."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBenZfdExBEAE",
+            "text": "2 “medium” orders = $28.92\n\nDish #1 = $14.50\nSweet chili chicken wings with baked mac & cheese and cabbage.\nCabbage was great. Mac & cheese was dry and more cheese than flavor But good. Gave us Six wings which were over cooked but waste food so I tore this up.\n\nDish #2 = $11.75\nBarbecue chicken and baked mac & cheese.\nSame review for the baked mac & cheese. The portion they gave was smaller, even though it was a medium. They only gave us four wings."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBbl82bGtBRRAB",
+            "text": "I wanted salmon, but it wasn’t ready yet. Tash, Marvin, and Bruce were so kind and let me know it would take about 15 minutes. I decided to wait, and I’m so glad I did! The service was excellent, and the entire staff was super friendly. Their professionalism and kindness made the wait enjoyable, and the food was absolutely worth it. I’ll definitely be coming back!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3cmRXR3dBRRAB",
+            "text": "Birdie served me with a smile and good paste. She seem to love working here and what she does. Chef mumzel great tasting food. Greta ambiance."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KdldFaG5UblJmT1RRNU5HeG1PVFJMV2pWSVJtYxAB",
+            "text": "Extremely pleasant atmosphere. I love simone.  Shes a blessed soul.  Everyone was welcoming too.   Will definitely be going to come back there every time im in the Bronx."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnbWR5ay1RRRAB",
+            "text": "I had the pleasure of dining at Island Grill Bronx Modern Caribbean Kitchen last weekend, and I must say, it was an unforgettable experience! The food was exceptional, with each dish expertly prepared and presented. The atmosphere was warm and inviting.\n\nBut what truly made my experience stand out was the outstanding customer service, from Christina she was attentive, knowledgeable, and friendly, taking the time to answer our questions and make recommendations.\nThe combination of delicious food, cozy atmosphere, and exceptional customer service makes Island Grill Bronx Modern Caribbean Kitchen a must-visit destination. We can't wait to return and experience it all again!\n\n- Food Quality: 5/5\n- Customer Service: 5/5\n- Atmosphere: 5/5\n- Value: 5/5\n- Overall Satisfaction: 5/5"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3eVpHRlh3EAE",
+            "text": "Wow this is my 4th time here and the lunch special gets me every time. Big up Christiana for taking her time her explaining to me the specials and different choice selections they have to offer. I’m getting the oxtail next !!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pnMmJreExVMTlpU1VGTFZISkhMVzlVV2poVVNIYxAB",
+            "text": "People are good here great customer service,  great food I wouldn’t go any where else. They put the foot in the food. Made with so much love as well my coworker and I will be returning here."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WMWNtcDJSVmRuVmtsWVkwVmhTM2x0V25CNVdVRRAB",
+            "text": "I seen this place on TikTok. It didn't disappoint. I had the sesame chili shrimps with lomein. It was delicious. When you walk in, the servers and cooks greet you. It has an open kitchen, you feel as if you are in someone home. Only have three tables for sitting. I recommend."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfeDVPY0xREAE",
+            "text": "The food is amazing I got the sweet chilly shrimp and the ackee and salt fish roll it was so good and everyone is so friendly"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWaVUyOUJjbXBsZGxOU2JFVjVXalE1Vm1OcVRFRRAB",
+            "text": "I wouldn’t advise anyone to order from these ppl. My last 3 consecutive orders were cancelled due to their unprofessionalism. I ordered online drove there in the morning to pick up breakfast. The door was locked they were inside. They were late to open and couldn’t even be decent enough to come to the door and say that. They just looked at me so I when you GOLDSTAR instead. Which I’ve always had a good experience with. It’s not too far just go there instead.\n\n2nd time they did not confirm my order so it was cancelled so I had to pay twice since refunds aren’t instant.\n\nToday SEP 1st I order and they cancelled my order, that I was charged for. I called and some nonchalant careless man told me we’re closed. If they are closed why are they taking orders from Grubhub. Ppl are charged for that and they don’t get instant refunds. I told him if that was my last money I wouldn’t have nothing to eat and that’s wrong to do to customers. His response was as I said we are closed and I’m trying to clean.\n\nThis is the attitude of an entitled rude establishment as if they are the only Caribbean restaurant in the area. One thing I won’t do is lie,  I’ve had better but the food good. HOWEVER it’s NOT good enough for the disrespectful, dismissive, nonchalant, rude customer service. Hence why I only support good black business. This isn’t one of them they don’t have the customer service skills to prosper.They operate from entitlement not appreciation for their customers. I’ll take my consistent coin somewhere else. What a shame,"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SQlMyTnhhbTlSY0V0YU1qRlhkVXh5T0V0d01HYxAB",
+            "text": "Island Grill on White Plains Road is an absolute gem! From the moment you walk in, the food is beautifully displayed—everything looks amazing, and the taste is even better. The ambience is cozy and clean, with a few tables if you’d like to dine in, but I decided to take my meal to go.\n\nI ordered the hot, fresh ackee and saltfish with a side of callaloo and fried dumplings, and let me tell you—it made my soul smile! Every bite was flavorful, authentic, and cooked to perfection. I literally had a pep in my step after finishing my breakfast.\n\nThe best part, though, is the outstanding customer service from the beautiful women who run the front. That kind of warmth and hospitality is rare to find when ordering Jamaican food in New York, and it truly sets Island Grill apart.\n\nThis spot has been around for about a year now, and I sincerely hope it stays for many more. I’ll definitely be recommending Island Grill to all my family and friends—Bronx, you’ve got a real treasure here!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMNnotZlM5d2F6S1ZnEAE",
+            "text": "Shauna was the best with preparing my food and service was phenomenal. From I walked in I was greeted and welcomed with warmth and the engagement was energetic and on point. Will definitely be back you got yourself a regular🤞🏾🤞🏾🤞🏾"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMejM2ZDJabk1HbVR3EAE",
+            "text": "My fourth time coming here & I think I’ll always come back. Food is always good & fresh and the staff is friendly. Lady Shawna was very helpful & informative on allergy questions I had as well. 10/10 would recommend!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VMYmgxYktvdk5ublhBEAE",
+            "text": "Aesthetically Pleasing 😍 & The Food Is Good ! I had the curry chicken ❤️"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJYWlrWWpLcmFMSV9nRRAB",
+            "text": "Great customer service (shout out to Shauna!), great food and place is immaculate."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JM1MyeE1NV0UyWWpBNWQwWklWa0V0WldVeFZuYxAB",
+            "text": "Guys please stop at island grill to get your authentic Jamaican food fused with a Asian twist, I had a bad bad experience with my order and I went back the next day and Meaka and Marvin made  sure to make it up to me buy replacing my meal complementary on the house with a a drink in the house. Plus the price is super affordable guys."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURReF9PNU93EAE",
+            "text": "The food in this restaurant is phenomenal i send my husband every week and and am never disappointed. Everyone in there is so nice and pleasant."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VKLVF3b2p4Nk5peUZREAE",
+            "text": "Ordered from this place through Door Dash and I gotta give them their props.. By far the tastiest oxtail dinners of had in a very long time.. They were very tender, seasoned to perfection, the gravy was amazing, rice and peas were very well prepared.. However, the portion wasn't good at all.. I know everything is going up but oxtails aren't that expensive anymore for them to charge almost $20 for a portion size suitable for a small child.   Other than that the food was great.. I'm gonna assume they do better in person as opposed to Door Dash because despite how good they are that portion was a little ridiculous....."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvdHVmb1VnEAE",
+            "text": "I stumbled across this restaurant on Google, and the five-star reviews instantly caught my attention. The curry goat is amazing, and the jerk chicken is absolutely immaculate. What really sealed the deal was the outstanding customer service—not just from one person, but from the entire staff. Everyone greeted me warmly and made me feel like my satisfaction truly mattered. Even though I haven’t tried everything yet, the presentation and cleanliness are top-tier. This is definitely my new go-to lunch spot!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvMm9HQkZ3EAE",
+            "text": "I ordered a large oxtail and large curry goat both with rice and peas and cabbage. In addition to a side of jerk chicken and sweet chili wings. The flavor is unmatched from any authentic Jamaican restaurant in Manhattan. While the oxtail has a more modern flair to it, its flavor and tender texture is incomparable. My favorite was the Jerk chicken, not only does it taste fresh from the grill but the sauce on top was the perfect touch to make my nose run. I didn’t get to ask my lovely server’s name but her customer service is a rarity that New York hasn’t seen in a long time. Her “I’ll see you soon” was not only confident but reassuring as she stands behind her product and that’s not something you see often. I will definitely be back soon."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21vMlJGVkxabDl5UjNwak9XaEVXVFZXTnpKMVZXYxAB",
+            "text": "I was in awe when I step into this restaurant. The restaurant is beautiful and very clean. The food looks excellent and is excellent. I was serve by a beautiful young lady by the name of Ashley. She is beautiful with a beautiful smile. She served me with excellence. This is the spot to go to in the Bronx. I will not go to any other Caribbean restaurant, only Island Grill. Keep up the excellent work Island Grill.  I went to this restaurant on June 12th of this year."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKQ1R5cjJoeE9ta2dnRRAB",
+            "text": "The service at Island Grill Bronx is unmatched special thanks to owner Marvin for ALWAYS making sure the service is IMPECCABLE  & Chef Tash & Chef Bruce ! amazing staff they are always super attentive. I had the pleasure of meeting Chef Tash who was so generous & went above and beyond accommodating every request with a smile. Ensuring everything was literally perfect without being overbearing. I catered their infamous and delicious Rasta Pasta. Their attention to detail made me feel like a VIP! Let’s just say CHEFS KISS ! LIKE NO OTHER!! RUN DON’T WALK. Some of the best food I’ve had. Their freshness of ingredients and the unique flavors unforgettable. Worth every $$ highly recommend they won’t disappoint."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SNmFHTnBNMWRpWWpoWU5HWkhSbXN4U214TllYYxAB",
+            "text": "First time there, Great customer service. The nice man filled my plate up! Ordered oxtail rice & peas and I rlly enjoyed it really good! I’ll be back"
+        }
+    ],
+    "reviews_count": 92
+}

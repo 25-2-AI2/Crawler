@@ -1,0 +1,677 @@
+{
+    "name": "ATIK Restaurant",
+    "place_id": "ChIJMxmDinyMwokRFJg-Ufanajk",
+    "grid": "BX10",
+    "address": "555 City Island Ave, Bronx, NY 10464, USA",
+    "rating": 4.7,
+    "user_ratings_total": 1055,
+    "phone_number": "(646) 375-3133",
+    "reviews": [
+        {
+            "date": "4시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCbVZGQkVZVlpzWDBWVVJIZHhZa3hIWVZkVmMxRRAB",
+            "text": "Raul R. was our server and he was very attentive and knowledgeable of menu item. He took care in explaining any questions that we had. Our meal was exceptional!!! I had the Wild Dover Sole and the roasted potatoes. It was seasoned well and the favors made my mouth water! Kudos to the chef for meals well prepared. I highly recommend this restaurant!"
+        },
+        {
+            "date": "4시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2trM1lVcHZibkpDUTI5dU4wZExla04zTW1aM1JHYxAB",
+            "text": "The Chilean sea bass and short ribs were truly delicious. Also the cocktails. Norberto was an excellent server."
+        },
+        {
+            "date": "4시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3MFMzSmlUVEppUzFGUlVIaEtORXB2WjBaU1FrRRAB",
+            "text": "Norberto was amazing , good service , good food!"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKRUxYUnNiMUV6T1ZoUlN6ZG9RM3BwYjFSRkxXYxAB",
+            "text": "The atmosphere is very nice and my server Lida was very sweet, GREAT customer service."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210TGFpMUhhMUpzVkc5c1J6Um5aelJsU2pCcE0xRRAB",
+            "text": "Came here for my birthday dinner with my husband, the food, drinks and service was amazing. Raul was our waiter and he was kind, explained the menu and made my birthday super special. Definitely recommend! Not to mention this restaurant is so aesthetically pleasing."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21RelZsSkdhak5sWDFsaU9HUnZkV2hyYzJWblNuYxAB",
+            "text": "I celebrated my birthday at Atik and i loved everything about this place! Beautiful ambiance, amazing food and drinks, and phenomenal service from Lida. Can’t wait to come back!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21STlNqQnVWRkZGTkd4d1pIWnFWSE5NUlhwTE5YYxAB",
+            "text": "This is an amazing restaurant. The vibes, the aesthetic, the environment. Very Boujie very nice. I love it here. Our server was Norberto and he was really kind, attentive, and catered to our needs. Very great service. Would definitely recommend."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwUVgyZEtZV3RrZVhJMmVtaFpTRFpqZFdoMGNtYxAB",
+            "text": "Norberto was super nice and attentive i enjoyed my birthday!!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVMFVUQkphRjlhVTJWaFVGaEpVblJQWTJGT1ZWRRAB",
+            "text": "Our server Daniel was great! Very attentive"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jelZrVm5hR0Y1VTNwVlZqSTJSREJ6TVZsc1dFRRAB",
+            "text": "Daniel was a great server! Food was amazing and services were top of the notch. Went with husband to celebrate our 12th year anniversary. Such a great experience! Recommend highly 100%!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zeFpXNVpjSFZUYWtJNFlUbG1TVzVXT0RSSVNVRRAB",
+            "text": "Ask for Daniel. He’s the best!!!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWSmRGQmZWM0ZPUmxWcFkwdDJjbXBrVGxCSWRXYxAB",
+            "text": "Food was on par with Applebee's nice place great service but the food is seriously lacking I've had tv dinners taste better than this stuff."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSS1VsQktjbTFPTlZrMk4wVktOWEpZVmt0UVNtYxAB",
+            "text": "Great experience at Atik. Our server Gary was fantastic and we enjoyed our time. We celebrated our friends birthday and will definitely be back in the future."
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxcFltSk5ObnB0TXprM1JsZFVjM05IUTNkSlFtYxAB",
+            "text": "Food was amazing. Very flavorful and very beautiful on the inside"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5aVdUZG9ka2xqYlVkWlJVdG1iMm8wUm5vMlEzYxAB",
+            "text": "Amazing service"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tscmFHbGFVamR0YlZnMGNYRkNVbGRpT0V0MFRYYxAB",
+            "text": "the place is very beautiful\ndefinitely will come back\nfood was delicious"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wSWRtWjZWRk13VTJSQ2FrZzRNVFJ3ZVdwdmNWRRAB",
+            "text": "We had a wonderful experience at this restaurant. The environment was warm and inviting, and the food was absolutely amazing (every dish was full of flavor and beautifully presented). A special shoutout to our waitress, Sylvia, who was incredibly attentive and made sure we had everything we needed throughout the meal. Highly recommend!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WMGVWcDBhSFEzWlV0ZmJWVkNlRUpLYUhrNFdFRRAB",
+            "text": "This place was Amazing!! Dinner was decadent and the show was stellar!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KcFoxRmZjR040TVMxd05EQlpUMmw1TjNCSU9IYxAB",
+            "text": "Daniel"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGb01FNVpSbGh4U1MxSWVuTjNjalpZVG14M1NrRRAB",
+            "text": "Our waiter, Daniel, was very attentive and friendly to us. The steaks are amazing and they constantly have live dancers/entertainment for guests. They even accommodate for special occasions and make exceptions! I definitely recommend coming here!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25saVQyTTJXVXBoWVdONk9WSkpkWFowUkZkUlIwRRAB",
+            "text": "I loved it"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKV1JESXdPRzAwY2xWV2NFVkJRWE5WUjB0WU9HYxAB",
+            "text": "This review is for Jasmine:\n\nMy partner and I had an unforgettable dining experience thanks to our incredible waitress. From the moment we were seated, she made us feel completely welcomed and taken care of. Her professionalism and warmth were evident in every interaction.\nWhat truly stood out was her effortless ability to communicate in both English and Spanish, switching seamlessly between the two to make us feel comfortable and understood. It’s rare to encounter someone so genuinely attentive and skilled at connecting with guests on a personal level.\nShe anticipated our needs before we even had to ask, offered thoughtful recommendations, and made sure every detail of our evening was perfect. Her friendly, graceful demeanor elevated the entire experience and made an already elegant restaurant feel even more special.\nEven though our bill was on the higher side, her exceptional service made every dollar feel absolutely worth it. We left feeling not only satisfied but truly appreciated as guests.\nI can’t recommend her enough — she turned a beautiful dinner into a memorable night. We’ll definitely be returning and asking for her again!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toNldraERVWGMwVVVoSU9YcG9VMHBmYVVoNmRuYxAB",
+            "text": "Lena was a very great host! She treated me and my family very well for my birthday celebration ! Hospitality was a 10/10!!  We will be coming back to ATIK just for her!! 🩷"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kweVEyWXdPV0kzUkVReWRrdzJkRFZoV1UxWk1FRRAB",
+            "text": "Gorgeous views! Food is fresh and delicious. Lida was so attentive with our service. Loved the entertainment."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sR1p6WmlZMFJtZFRWc2VUbEpOelZYYkVaTGVtYxAB",
+            "text": "lida was an amazing sever and the food was amazing the drinks too. 10/10 Would recommend"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2todU0zVTBVRmQ2ZW5relpIZGxia2xFTW5sMmVtYxAB",
+            "text": "Our server Daniel was excellent and very nice. Had a very good time."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aa1FYVjBVRUYxZGs1a09XeFVUVUV4UjJoVWNuYxAB",
+            "text": "Had a great time in my birthday everything was fabulous,Norberto was my server and make everything so pleasant and unique.."
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oMFpWaFZRa1JqT1dkQ1dXOUplbGRHZW1SVVVWRRAB",
+            "text": "Muy buenas atenciones de parcero Daniel nos atendió súper bn"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkZk5qWlVTSGgzY1hOMGFtMW5SWGxVV1VzeVRYYxAB",
+            "text": "Norberto was an excellent server! Highly recommended 10/10"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkUGNqSm1UV000TUZwM1preDNUMmhHZFV4cWJrRRAB",
+            "text": "Service was amazing. Norberto was our server and he was very attentive with our big table. Drinks and food all came on time. Definitely returning. The dessert can better. Food presentation was good. Food overall was cool."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214bWRVeEpiM2xvWjBaaGFETlVkRlJ0V1ZKV1IzYxAB",
+            "text": "The food was amazing, atmosphere was more than I expected and the service was fantastic. Norberto was very polite and attentive. I would definitely come back!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aSGJtVnNOVEY2Y1RkQ1pVSkNNRzQ1ZVRSbWVuYxAB",
+            "text": "Norberto is great! Very attentive and informative"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwNFFrNW1ibmxpVTBjNGEwRlhaWFkxTldod2MyYxAB",
+            "text": "Norberto was very nice and attentive! He made the reservation 100 times more pleasant!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsSU5FTkhNREZpT0U5UFVIVjJYMmh3VDFaVlJHYxAB",
+            "text": "Daniel was a great sever"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGVVdVbDNXa05YZGtOVmJGaGllVlpwUVRGTFlYYxAB",
+            "text": "I've been there three times. The food was amazing. I unfortunately lost my wallet and called the next day to inquire about it. The manager on duty declined to speak to me which was offsetting. As a pretty an expensive experience I still went three times. But, if I call and request the manager they should make themselves available. I'm all about service and valued so I won't be going back."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214QlprMTBObTh0U1hjeFpVbHdRWFpzT0hWeWEzYxAB",
+            "text": "I recently had dinner here.....\n\nLet me start off by saying why I gave a 3 star for the food. It wasn't because the food wasn't great but the selection/options weren't alot. Drinks were small but good.\n\nNow for the good stuff!!!!!\n\nThe moment I walked in it felt like I was on vacation in Greece!!! Just Beautiful. The Service was very sincere and attentive!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKaGQydFplRk5FYldGUGRuRlNaVFJ1TFhOQ1dGRRAB",
+            "text": "Jasmine was an amazing server!!! My friend and I had a great experience!!!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xnemNGbGFUVlZ4U0dsdFVFWkxMVEV3ZFdKS1kxRRAB",
+            "text": "What an amazing experience! The food was absolutely delicious — every dish full of flavor and beautifully presented. The service was super friendly and attentive, making us feel truly welcome. The atmosphere is warm and inviting, perfect for a nice dinner or a night out. Highly recommend Atik Restaurant for great food, great service, and a wonderful overall experience!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214QmN6RmxkWE4wUlVGS1NtMTFPVGRNVmtGSVIwRRAB",
+            "text": "We came in the last minutes because it was my birthday got there at 10 pm on a Tuesday. The hostess said to seat them. I was so happy that the food was good and I got the lamb chops. Our waiter Norberto ( I hope I spelled it correctly) was efficient and fast. He was tentative without being overbearing. They also sing happy birthday habbi to the birthday person. Unfortunately, I was too shy for this. We were in plain clothes but feel free to dress up the atmosphere is really nice at 98% of people were dressed nicely."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210NU1YbGtUV05TUVRKRGMzbHFVakZXTFVSRE0yYxAB",
+            "text": "this place is absolutely amazing! Definitely a hidden gem in City Island the Bronx. Food, ambience and view is everything."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4VlkwMXJha2xWUTBGQ01IWnlkREp5UjFkR2FHYxAB",
+            "text": "This restaurant is not your standard City Island restaurant. Its not Johnny's Reef or Tony's definitely not Sammy's Fishbox"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Zek56Qm5kMXBoZVZWdGJ6UndiazR5YWpWbkxYYxAB",
+            "text": "First time dining at this new establishment in City Island. Love the ambiance totally a picturesque moment upon entry. I came early on a Saturday to enjoy the food and an experience the vibe when it’s not busy. It was a beautiful day sunny day definitely hot for October weekend. Hostess sat us down immediately we chose an outside seating due to the weather. Staff was so hospitable my server was a gem and gave great selections off the menu. My passion fruit spicy margaritas was delicious I had two. I’m an oyster girl so definitely ordered a few dozen. My other favorite apps were the Tuna and the shrimp ceviche. The Tuna had levels of flavor and the pita chips yum yum. Will most definitely be back at night for a dinner but was definitely a great new spot on City Island. In the end it will Hit your wallet but you’re paying for high class service and amazing food."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4c09HVnpNVGhJZVdwd2IybHZhVkZMYUV4VFRFRRAB",
+            "text": "We enjoyed dining at ATIK! They seamlessly accommodated a party of 17 for a birthday dinner. Service was impeccable, and the food was delicious! Due to our large party, we were asked to order both appetizers and main course simultaneously. This felt a bit rushed, but was driven by the situation, which we understood. I had a perfectly crafted Fig Sour, but unfortunately the second batch was no match and I declined it. I had the fish and tiger prawns.  Others had perfectly seared steaks and delicious pastas. Order the eggplant croquettes— they are to die for!"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKTGIyMDBWalpJU3pZMVpXaE5NVmhmWHpWS1RuYxAB",
+            "text": "Muy buen lugar para comer y con el mesero Mariano siempre con disposición para atendernos."
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxNlNrVnNjVEZDY2pWWFYxUkxVV3RtU0RKQk1sRRAB",
+            "text": "Excelente servicio nos dio el server mariano el mejor de todos ❤️"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkS1FWZENkV3B2VUZJMlFrZHNiVEZMZVhsUVlsRRAB",
+            "text": "La cena fue espectacular el ambiente ni hablar Mariano muy atento servicial."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OdGREbFBZM1IxVDFjME9TMVVlbEF5TmpVME4wRRAB",
+            "text": "Amazing experience! The bartender was so friendly and accommodating. But what sent our experience over the top was our server Lina! She made our experience amazing."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aM2NrWTJhRzlQVjBoTFJtY3pSek5JTWkxTVJGRRAB",
+            "text": "Leda is the best! Attentive, great energy and knows the menu! Love her!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psVGJtc3lUREpDUWxGcFNUSTNhV3M1WDNwNk1sRRAB",
+            "text": "Less and bartender was amazing"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ob2VteGxibkF5TnpoRWJHMDNMVU5XYnpBMmNFRRAB",
+            "text": "Ezcellent Services!!!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oVFV6Qm1TMDR3ZDBoRWNFSk5RVTEyVDE5R2JXYxAB",
+            "text": "✨ Dreamy night at ATIK, City Island ✨\nThis spot feels like a mini getaway right in the Bronx — beach house meets country club vibes. 🌴 The venue is absolutely stunning, and the food? Unreal.\n\nWe kicked off with cocktails — the Clam Digger and a Fig Sour 🍸 — both delicious and perfectly balanced. For starters, we had American Wagyu Carpaccio, Fried Calamari, and my favorite of the night, the Spanish Octopus 🐙 — so tender and flavorful.\n\nThe Lobster Ravioli was loaded with real chunks of lobster, and the Tomahawk Steak? A showstopper — tender, juicy, and beautifully presented. But the one that completely stole my heart was the Truffle Corn Polenta — buttery, creamy, and unlike anything I’ve ever tasted. The Orzo Mac & Cheese was the perfect cozy side to close out dinner.\n\nFor dessert, we had the Tiramisu White Chocolate Teacup and the El Limón Yuzu Guava — tangy, refreshing, and the sweetest ending to a dreamy evening. 🍋💛\n\nBronx, you’ve outdone yourself with this one"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taWFdUTkVNMGR6YW1GbFoyUkdUMTloVTFCU2JVRRAB",
+            "text": "This was such a great experience! The atmosphere was upbeat, and I was really feeling the vibe. The food was amazing, juicy, flavorful, and absolutely delicious! But let’s talk about the service: RAUL was phenomenal. He made us feel genuinely welcome, listened attentively, and provided fast, friendly service. We’ll definitely be coming back!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWT1JWbGxUbFJYYUhSTk5WSnVabW90TXpOM09GRRAB",
+            "text": "Alexander it’s the greatest waitress I have ever seen. The professionalism and his dedication to his job is incredible. The food was amazing I’m a chef and this is what I’m looking for when I go out to eat! Congratulations to the chef and all the team it’s an amazing experience."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5R1FVWm1YMVJOTkVSYVVtMW1aMFl0YlRKa1MxRRAB",
+            "text": "I came here to celebrate my birthday, and it was such a wonderful experience from start to finish. The atmosphere was perfect for a special night out, and the food was absolutely delicious—but what really made the evening stand out was the service.\n\nRaul was our server, and he was exceptional. He was attentive, kind, and thoughtful throughout the entire meal. He made sure everything was just right and went above and beyond to make the night feel special. Thank you!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21rNE1FTndVVnB0WDB0eVJrRjFhaTFWVEY5T2NFRRAB",
+            "text": "Loved the atmosphere breaking plates was such a fun touch! 🥳 The food was okay, but the service was definitely a plus. Came here to celebrate my birthday and really enjoyed the vibe. Drinks and food were a bit pricey, but overall a great experience!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Kb1pEQk1VV1F5ZFRsTFR6ZDRZMDVhTVVGVk1HYxAB",
+            "text": "The experience and service were amazing!! Our server Geri was extremely attentive and knowledgable. He was incredibly friendly. The drinks were spectacular and the viewing was exceptional. The place is beautiful and welcoming. Definitely coming back."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPV3B5YVhJZzdXVU9REAE",
+            "text": "⭐️⭐️⭐️⭐️⭐️\nI had an absolutely wonderful experience at this new Mediterranean gem in the neighborhood! From the moment we walked in, the ambiance was warm and inviting, with live entertainment that made the evening feel extra special — the perfect mix of upbeat and relaxing.\n\nOur waiter, Norberto, was fantastic! He was friendly, attentive, and made excellent recommendations. His service truly made the night feel personalized and seamless.\n\nThe food was nothing short of amazing. Every dish was fresh, flavorful, and beautifully presented. The skirt steak was cooked perfectly and the risotto was seasoned nicely. You can tell a lot of care goes into both the ingredients and preparation. To end the experience we ordered the tiramisu in a cup! To die for.\n\nThis place is definitely a new favorite — great food, great vibes, and top-notch service. Can’t wait to come back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCSWNUaE9MVzlmTjFaRlMzUkxUSGxSU21GM09IYxAB",
+            "text": "Came here for my birthday. Delicious food and absolutely great service.  Daniel out server was very attentive and provided clear information with regards to the menu and drinks. He timed our meal perfectly and continuously ensured we were pleased with everything. Thank you Daniel until next time."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xacU0zSm9VSGxyVkdwc1pHc3pjREZpWWtGaE5VRRAB",
+            "text": "20/10 GO!!!! The food was excellent! What can I say everything was just great! Service 20/10 food 20/10 atmosphere, you see it, gorgeous! Outside dining fabulous!! I had a wonderful experience. I was also impressed by such lovely attention to detail. Decor is quite beautiful 😍 I love everything about this restaurant"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21STU0xcDVkWFZOVGtkU1VHVm1URTUyY1RsUE1FRRAB",
+            "text": "Me and my husband decided to celebrate our wedding anniversary here yesterday evening and we loved every minute of it. The ambiance, the atmosphere, the people, the food and the VIEW omg! It was just perfect. Our waiter Valentina was just pure AMAZING!!!! We are definitely planning on coming back."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWdk1tSjBRWGQ2YW05MGVqQmpWRVZZT0ZkNWRrRRAB",
+            "text": "I had an excellent experience thanks to our server, Raul. From the moment we were seated, he was attentive, friendly, and professional. He took the time to explain the menu, offered great recommendations, and made sure our drinks and meals were always on point. Raul struck the perfect balance of being attentive without being intrusive, and he checked in often to ensure we had everything we needed.\n\nHis positive attitude and genuine care for our dining experience made the night so much more enjoyable. It’s rare to find a server who combines efficiency with such warmth and hospitality. Raul truly went above and beyond, and I’d definitely request his section next time I come back.\n\nHighly recommend Raul—he’s a standout!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5RVNrZGxRbTl5WldjemVUQndjVjlIY21SUllWRRAB",
+            "text": "A very beautiful restaurant but the drinks are very light and full of sugar, however the menu is creative and everything was fresh and they have many vegan options. We spent close to $300 between two people we each had three signature cocktails. for food we ordered two apetizers, a salad, truffle fries and the salmon.\n\nHere is were you guys lost my good review. We asked several times to be moved to the outdoor area, we were at the restaurant for about 3 maybe 4 hours. We were flat out denied ( we were even forced to make a reservation earlier than we wanted because they told us it was “fully booked”) the restaurant was at about 30% capacity basically the entire time we were there and we were forced to come in earlier than we wanted; the restaurant never got more than 50% full and im being extremely generous with that estimate. so I felt as though what we were told regarding it being booked to capacity was clearly a lie. We were told no three different times to sitting on the on the right side of the deck which was literally empty the entire time we were there, not one person.\n\nOur waiter was great (we tipped him well it wasn’t his fault) and if it wasn’t for being continuously denied to sit on the deck while keeping the entire area empty the entire afternoon I would of rated it higher, I couldn’t shake the feeling that this was race related because I watched them seat other people in a couple outdoor tables and they all had something in common that we didn’t have, blonde hair and white skin.\n\nLastly, I asked for a manager before leaving to give my feedback and we waited for about 15 minutes before leaving because a manager never took the time to speak with me about my experience that’s when I decided to leave an online review. I let my frustration simmer before sharing my experience so I could be honest about our experience, we were there about 3 weeks ago.\n\ni would say the spot next door also has a gorgeous vibe and are much more accommodating. We will sadly not be returning to ATIK.\n\nAll the beautiful decor in the world doesnt outshine being treated the way we were that day. we paid close to $100 per hour to basically be snubbed by the seating hostess. This wasn’t a “special occasion” we enjoy fine dining on a regular basis and go back to our favorite stops often , and I love to tip well, point being, dropping $300-$500 on dinner is a regular occasion for us and it’s mostly on drinks and appetizers since we mostly just look for a good vibe and a pretty place to catch up. Not that it should make a difference how much $$ we spent, you should treat everyone equally, but you guys really messed up with us.\n\nplease speak to your staff about this, and remind them that having your body done doesn’t entitle you to be a snob while you are working. your restaurant has alot of potential but service is key when fine dining and your staff failed horribly at that.  i don’t enjoy leaving negative reviews but that experience deserved a review."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoeU1VNU9kelZPTnpSNlVuRnJVazVmWWxGeVJIYxAB",
+            "text": "We had an incredible dining experience, made even more special thanks to our outstanding server, LIDA. She truly elevated our evening, celebrating a meaningful occasion with us in the most thoughtful way. LIDA checked in often and made us feel genuinely cared for throughout the night. Her recommendations were absolutely delicious and made our meal unforgettable."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMV3BqWU9EeXFIZTlBRRAB",
+            "text": "The food and services were outstanding. Our server was Ricardo and he did a wonderful job for our party of 10 people.\n\nThe only recommendation is they should serve bread for the guests once seated. The outdoor area is beautiful as well. Will definitely go again."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGclNYVnhjRGRzYzFWVlVsRjJhVmRJV1VZNFYxRRAB",
+            "text": "My time here was excellent, Gary and Tina were such a delight. As a former city islander I am extremely impressed with such ambiance and customer service. I come from the restaurant industry and I am so delighted to see a brand new restaurant for the area. Your team works very well together. The suggestions in regards to drinks made it easier to choose something delicious. I had the tiramisu martini...so pleasing. Me and my bf had lamb chops which was perfect. The strip steak was delicious. Being here made us feel as though we were away in Greece. Many people in this area need a place just like this to feel like they are away from home! Thank you for developing such a great concept for this community!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4d01rbEVlUzEyTW1SQ1JreDJVMnc0Y210Tk0xRRAB",
+            "text": "The ambience and vibe was amazing. The NY strip steak was excellent! The Mac and cheese side was not up to par, it’s not your typical baked Mac and cheese or truffle. I would rate that a 0. But the truffle fries were delicious!  20% service fee automatically added on the bill, party of 4. The drinks were nice.  Total bill was about $435, not bad at all. Gary was AMAZING as a waiter, very attentive"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSclFtMXBXVzFQVEdkSVl6Qm1WVUZXTWt0Q01WRRAB",
+            "text": "Food was absolutely amazing. Atmosphere was even better. The staff was very attentive and accommodating. Tina was excellent, very friendly, and took care of us. This is definitely going to be our new spot. Waterfront view with great music - it feels like you are in the city."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkMlkwd3hSbGwzZDJWeU16STJhVmhOZDI1eGJWRRAB",
+            "text": "ATIK is all looks and no substance. The aesthetic might be cute, but that’s the ONLY thing this place has going for it. The food is mid, the service is downright horrible, and the staff clearly don’t care. We waited an hour and a half for our food, just to get steaks that weren’t cooked how we asked. { NO COMPLIMENTARY} shots or nothing for the wait . It was 7 of us TWO returned their plates and didn’t wanna eat anymore cause it was so bad and cold when received. Meanwhile, people who came in after us were eating before us. The delay was so ridiculous that we didn’t even get to cut the birthday cake because it was closing time. On top of that, they tried to deny my friend (the birthday girl) entry over BODYSUIT (black long sleeve ) with legs out - OTHERS/ some Hispanics were coming in HALF NAKED ( dressed like beach attire ) . We literally had to get the manager involved just to sit down( said she had to wrap my jacket around her waist ). Absolute waste of money and time. If you want decent food and respect, go anywhere else.  HAVE A SNACK BEFORE COMING cause you’re gonna wait a while .  ( SALMON / BRANZINO ) is your best here . MASH ( SMALL ) no taste . Meatballs good / calamari good."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4QmRGTkdhVUpyWW01T1dUaEhiV1Z0VUdWa2MxRRAB",
+            "text": "Norberto was absolutely amazing! Friendly, attentive, and made us feel so welcome from the moment we sat down. He anticipated what we needed before we even asked, checked in at the perfect times, and made the whole experience so enjoyable. You can tell he truly cares about his guests. One of the best service experiences I’ve had in a long time — thank you for making our dining extra special!"
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VMRHFxNHZUOHI3NWtBRRAB",
+            "text": "Brand new restaurant on City Island in the Bronx, has a very upscale vibe to it, the staff was good, very attentive. Service was a little slow, but probably due to being a new restaurant. The first thing that was impressive was the menu is on a iPad, gives you nice pictures of each item on the menu. They will offer you bottled water, Still or Sparkling, we had the Still Water and it’s $9.36 a bottle. We had the Crab Cake as an appetizer it was okay but not worth $25. One entree was Berkshire Pork Chop, the menu on the iPad shows it with vegetables and potatoes, but was only served with roasted fingerling potatoes, which was excellent and so was the Pork Chop, other entree was Broiled Lobster, which was not on the menu, but I saw it with other fish when you walk into the restaurant area. It was to be served with Squid Ink Linguine, but I asked for a side of Sautéed Spinach instead. Weird thing, when the whole lobster was served, the Sautéed Spinach was on top of the lobster, when I took the spinach off of the lobster, there was very little lobster meat on the tail, the claws had MUCH more meat then the tail. The Lobster dinner was $75 for what I assumed was a 1.5oz lobster. Wife offered a Dirty Martini and it wasn’t that great, it was missing the olive brine $18. I had 3 Peroni Beers, $9.36 each. Glasses of wine that were had were $16.64 and $18.72 respectively. We also had a piece of Mango Passion Fruit Cheesecake which was great. Be aware of he service charge automatically added to the bill as well as the 8.875% sales tax.\n$310 for a dinner for two with a few cocktails."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25acWRrVm5kMnhZTUZaT1FtSmFibmxXWmtaTlJFRRAB",
+            "text": "Lidia was very nice. She was knowledgeable about the menu. She was also very attentive. She made it worth the trip. The ambiance was amazing. I felt like I was on an island away from home. The entire experience was special for my birthday. This is now my favorite restaurant in the Island."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twMVlqZHROMmRFTFhwWVlrOWlaMHhtZGxJdFVXYxAB",
+            "text": "It was my first time at this restaurant. My overall experience was great. The food was good,  seasoned, hot and prepared very well. The service was absolutely wonderful. Our server Lida was so kind and friendly. She answered all our questions and gave excellent customer service. Additionally, the servers' uniforms were clean, simple and well put together.\nMy group and I went on a Saturday night and they had some entertainment there like dancers, music and breaking of plates for those that wanted to participate. But my favorite part was the decor, layout and setup; is simplistic, modern, sleek and classy.\nThe one challenge we had was the music was a bit too loud; it was challenging to listen and hear those at my table.\nI would recommend this for a nice date night,  birthday or anniversary celebration, not ideal for a family/ children dine out.  However, it was an amazing experience!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kQ1RHOHdZVVY0U2xkaGJsOHpaMnBUUzNGTFRIYxAB",
+            "text": "Experience at ATIK\n\nPrivate Room\nFrom start to finish, our experience in the private room was exceptional. Chef Castillo’s creations were absolutely delicious, beautifully presented, and full of flavor. Every course felt like a work of art. The staff provided impeccable service attentive, professional, and warm making us feel truly special throughout the evening. The combination of Chef Castillo’s exquisite food, elegant ambiance, and the team’s top notch hospitality made this a truly memorable dining experience.\nHighly recommended"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQaXhfOXlMdGRmbnhnRRAB",
+            "text": "We had such an amazing experience at ATIK! From the moment we walked in, the ambiance, music, and decor set the tone for a great night out. The food was absolutely delicious — every dish was fresh, flavorful, and beautifully presented.\n\nBut the highlight of our visit was our server, Gabriella. She was so kind, attentive, and knowledgeable about the menu. Her energy and professionalism truly elevated the whole experience. You can tell she genuinely cares about her guests having a great time.\n\nWe’re already looking forward to coming back. Bronx needed a spot like this — chic, welcoming, and just overall 10/10. Highly recommend!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OT1JuSkpZbTR3WlV4blNrVnBNSFZrYlUxdmNWRRAB",
+            "text": "I cane when dinner was starting. It was well worth it. I sat by the windows across from the bar. The service was great just want I needed After a long day of work. Ask for Danielle as he was my waiter. He was a wonderful way to begin my evening after a long hard day of work."
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNWDE5dW1KbTlqUXpnRRAB",
+            "text": "Atik is a true gem! From the moment you walk in, you’re greeted with great vibes and stunning décor that instantly transports you to the Mediterranean. The atmosphere strikes a perfect balance between elegance and warmth, making it ideal for a date night or a relaxed dinner with friends.\n\nThe attention to detail in the interior design is impressive—earthy textures, soft lighting, and beautiful accents that reflect the region’s charm. It’s clear that a lot of thought went into creating a space that feels both upscale and inviting.\n\nHighly recommended for anyone looking to savor the Mediterranean in style."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wS2FYSlBSREZSVnpKa1ZHUnBhVmRKT0VjeVdFRRAB",
+            "text": "I’m coming live from the restaurant rn. The place and ambiance is beautiful 10/10. The food tho is a 5/10 struggling 5. For apps i had the red hummus (which was good), Greek salad was amazing, octopus was not good. For mains I had the steak and risotto and it just tasted like I was eating straight cow. Lamb chops the same. Finger potato’s were really good but the mash had waaayy too much truffle which made it gross and I like truffle. Overall,the place is beautiful but they need to work on their menu."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sSGJIcE1VM1EwYm5KMlZIcHBRM0UxUkVacE0zYxAB",
+            "text": "Loved it! Our server Norberto was AMAZING! The whole staff was great but he really made sure we were happy with our meals! The food was delicious!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKbGNGcGFSa0ZTU1dkNFNWSTJaelJwWmtKZlptYxAB",
+            "text": "The place is something special. You don’t feel as if you are on City Island. The view of the city is a perfect backdrop for date night. Lida our server was AMAZING. Friendly, informative and attentive without being overbearing. The food was great as well. Only suggestion is to cut back on the salt. Definitely will be coming back!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KVWNrdDVaSEpWUldadk5EVm1TakV6ZEdOVlUwRRAB",
+            "text": "The place is absolutely stunning! Makes you feel like you are anywhere else other than NY.\n\nThe ambiance and the music are definitely a vibe! The drinks were amazing! The food was okay in my opinion, it says Mediterranean cuisine but it's definitely an infusion rather than a full on Mediterranean menu. The Greek salad was ok could of been better.\n\nAs for the service, when entering the restaurant the hostess was a bit rude and didn't properly greet me and my guest right away. We had a reservation and got there 10 mins early, the hostess was not prepared for us at all, and seemed distracted. Other than that our waiter was very good and attentive to us."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKb05VNVVPR0pvZGxkbWJtVnVkMmxOYnpRMWNVRRAB",
+            "text": "Small Mediterranean escape right in City Island’s backyard. Nice vibe for celebrations, date night or catching up with a group.\n\nFOOD: Tasty but not outstanding, overall. Portions are also on the smaller side. I ordered the Scallops dish, came on a bed of risotto. Scallops were decent, had a nice salted sear on the top, risotto was okay. My boyfriend got the filet mignon - had a nice char on the top, and tender and buttery. We also had the meatball as an appetizer which was alright.\n\nDRINKS: I ordered the Clam Digger (refreshing, not really super strong) and my boyfriend ordered the One Night in Mykonos (Henny forward, will do the job).\n\nAMBIANCE: Gives an upscale edge. People come dressed up for a night out kind of vibe.  As someone who’s been to Greece, this spot definitely picked up the Mediterranean vibe with the white and blue walls and nautical decor. The patio our back is also overlooking the water so you don’t really feel like you’re in city island. The really paid attention to the aesthetic here.\n\nSERVICE: It does get really busy here, highly recommended making a reservation and calling ahead if you want to try to sit at the bar. They seem to go above and beyond for guests and want  you to have an experience. They even offer a bag/hat rack to put by your table and hold your things.\n\nOverall, I’d come back. Try to get a seat at the bar overlooking the patio and water. Or a table closest to it. They also have live performances with dancers so it’s a nice touch."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Ka2VDMVVja3QzYVVwRk1IaE9PVlJDVEhoT1ZYYxAB",
+            "text": "I had such a wonderful experience at this restaurant! The service was outstanding—attentive, friendly, and made me feel so welcome from start to finish. The view was absolutely beautiful and added to the whole atmosphere, making it the perfect spot to enjoy a meal. On top of that, the customer service went above and beyond. Everything came together to create an amazing dining experience that I would highly recommend to anyone!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psMVdYcEZlV3N3TVhGb09HdERXV2hpVkVoQ2VHYxAB",
+            "text": "My wife surprised me with a pre-birthday dinner at Atik, and I can honestly say the entire experience was incredible. From the moment you walk in, it feels like stepping into vacation — the atmosphere, music, and vibe immediately transport you, and you forget you’re still in the city.\n\nThe food? Out of this world. Every dish was packed with flavor, perfectly cooked, and beautifully presented. You can tell they put real thought and care into every detail.\n\nBig shoutout to Christopher, who was our waiter — phenomenal service, super knowledgeable, and made us feel right at home. Carla was great as well, and what really stood out was how attentive the entire staff was. Everyone checked in on us, made sure we were taken care of, and even asked for feedback. You can feel how much they care about the experience.\n\nHighly recommend Atik — perfect for date night, celebrations, or anytime you want to escape and enjoy amazing food and service. We’ll definitely be back!"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKT2MwWXlVMDR5TkdSU1NEQTBSMHB0Y1c5amFFRRAB",
+            "text": "We came on a Sunday evening. The restaurant had experienced a two hour black out but they were able to accommodate us. Friendly staff, Lovely atmosphere. Beautiful for a date or a party with friends. I'm sure you'll have a great future 🎉"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSSVR6WlpkRkEzUmxRMlEyWnFNekZCTkVvNVRsRRAB",
+            "text": "From the moment we walk in we love the atmosphere. Our server Angel was extremely friendly and knowledgeable. We follow his suggestions and our margarita and moulin rouge was excellent, the carpaccio and tuna tartare were yummy. Our main course were the lamb chops and the steak with risotto very yummy!! Well definitely be back, highly recommended, almost forgot the view, overlooking the water with the boats in the marina, just beautiful!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pnelVFVlpWRFpMZEZKT1YwczBZVkJoT0hsQ2FXYxAB",
+            "text": "The ambiance, music and staff were amazing! The food and drinks were a 4...the ratatouille was our favorite appetizer... the braised short rib was juicy...skirt steak was delicious. Would go back for the vibe and drinks."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Cb1RHSnpXRGRVYWpSWVZYQm1URUZpY21kUGQxRRAB",
+            "text": "Beautiful restaurant but im not sure whats going on in the kitchen on Mondays.\n\nWe came here right as it opened on Monday at 4pm. Our drinks and some appetizers were good but our entrees were absolutely atrocious. All 3 entrees served were extremely salty and tasted as if it were made the day before. We had the pork and it was so dry my aunt couldn’t finish it. She asked for a sauce to pour over the pork and they gave her a cold refrigerated sauce. My short rib was saturated in salt and my friends steak was too. Prior to this we ordered mussels as apart of our appetizers and because it tasted off (old) we sent it back. When we got our entrees and they all were bad we decided at that point it wasn’t going get any better and just asked for the bill and leave (with no intention of disputing anything but the mussels because our waiter was showing signs of annoyance when we would express our grievances) Extremely disappointed in our experience. The manager came over and attempted to “crisis” manage but it felt defensive. He had no intention to help and it was clear."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQzhqTGpEcWJTSnV3RRAB",
+            "text": "We took a ride to City Island and dinned at this beautiful new restaurant. Often the food on the Island can be so so, but this restaurant excelled! The atmosphere and view are absolutely gorgeous. The service by our waiter Norberto was exceptional!! The food was delicious!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSTE1qaDNjREprZURWSWQxRXdRMGxhTm01d1NYYxAB",
+            "text": "Loved this place! It’s absolutely beautiful from inside and out. Food was amazing! Service was the best! Thank you Valentina! Will come back again, definitely recommend!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLclZoczJodE9Ta21BRRAB",
+            "text": "Awesome restaurant with an amazingly upscale vibe! The staff goes above and beyond to accommodate you and treat you with the best service. The food is great with all dishes being just the right amount of diverse. Definitely exactly what city island needed! If you haven’t been, 1000% worth checking out for a nice lunch with a view, a major milestone to celebrate or a casual upscale outing with friends or family."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GWFJVRjFUVlE1TlhoRlZVNHhhRGRwUlVKU1YwRRAB",
+            "text": "I came here last night for my birthday and it was an amazing experience. Our server Raul was sweet attentive and patient throughout the whole night. He took time to answer our questions about the menu and offered great recommendations. He made my day even better. Overall everyone was sweet and even sang me happy birthday. We will definitely be back soon."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kRVZUbEdSRk56WWpSaVJVdHVjMlZVVjBWcmVWRRAB",
+            "text": "This new option is extremely recommended....Food,Ambience, Service.....all completely designed to fulfill all your expectations.\nI'm hoping they  keep everything in the same place and stays faithful to  their standards....don't letting any Costumers lower the elegance of this place with behavior and dress codes inappropriate for  the rest of the clientele."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25BdFptbFpiQzFxUWs1dmJrTnpVRE5vYlRGaFJuYxAB",
+            "text": "I had an absolutely wonderful experience at AtiK! From the moment I walked in, the atmosphere was inviting and the service was top-notch. Ramon and Norberto were incredibly attentive, friendly, and made sure we were well taken care of the entire time.\n\nThe food? Phenomenal. Every dish was flavorful, beautifully presented, and exceeded my expectations. You can really tell the care that goes into every plate.\n\nI left full, happy, and already thinking about my next visit. If you’re looking for a spot with amazing food and equally amazing service, this is it!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMUFFwTWFXa3VMLWhnRRAB",
+            "text": "I had my date night here and it was absolutely amazing! Not only is the place beautiful and pictures worthy- the food was just as tasteful. The drinks were made to perfection. The free parking was a plus! I can’t wait to visit again with my girlfriends."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5TFdIQktjMU4zYjBZMWJHeFNNazlTU0VJMmMzYxAB",
+            "text": "Food atmosphere and service were all 10/10. I highly recommend checking this place out. Isabela was an amazing server was well versed on the menu. Ricardo also made sure our service was top notch."
+        }
+    ],
+    "reviews_count": 95
+}

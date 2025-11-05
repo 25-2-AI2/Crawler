@@ -1,0 +1,509 @@
+{
+    "name": "Webster Cafe & Diner",
+    "place_id": "ChIJ80PDmnnzwokRvxpeGoTaQ74",
+    "grid": "BX5",
+    "address": "2873 Webster Ave, Bronx, NY 10458, USA",
+    "rating": 4.2,
+    "user_ratings_total": 686,
+    "phone_number": "(718) 733-9634",
+    "reviews": [
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paNFQzb3piVVF4ZVZBNFlYWTFXVk5pVFdKelozYxAB",
+            "text": "The best Spanish cafe in the bronx!"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGaWJ6UkdTRjlMY1RNMGNXMHdUMnA2WVV4SFdIYxAB",
+            "text": "Great diner food, generous portions and lots of options. Reasonably priced as well. The Spanish coffee is excellent as are the omelets. They also have a selection of authentic Spanish food."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214UU5tdE9NR3BOZFZrNE5UZDJhVzVyU0U5MVEyYxAB",
+            "text": "I ordered steak with peppers and onions, yellow rice and beans.  The food was delicious.  The only thing there was very little rice for an $18.00 plate.  They need to give more rice."
+        },
+        {
+            "date": "1주 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kbWFFeEpjRjlEV25KQ2NYTkZTemhMV2sxSVltYxAB",
+            "text": "Super hausgemachter Flan\nSehr gute Hamburger\nFreundliche authentische Leute"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1VVpqWlVkSGhsY2w5cmVucHlSbVpQUTFCUFVVRRAB",
+            "text": "Had the chicken Caesar wrap and the tacos with everything. Didn't like the tacos but I may try a different one. The chicken Caesar was tasty but seems more chicken than salad and maybe a cooked salad (seemed more soft than crunchy). The service was mediocre - I was at the counter waiting and though servers were passing by, no one stopped to address me until a manager or supervisor or owner asked if I'd been helped yet. The server didn't seem interested in serving me (or maybe having a day). Anyways, there's so much still on the menu to try, so I may still return and give it another try."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5WGRrSmxVMHROU2kxTVVEQlpkMjFYZEZBelJtYxAB",
+            "text": "It took them so long to get us our food and the waiter had a additude not very good service"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aTlgxaDNiMnh2UVRsNmJqUnVielV4V0RCV2NXYxAB",
+            "text": "Deffinetly best place to go for Taco Tuesday in the area"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNM3hrLXZuMlBQd25BRRAB",
+            "text": "Delicious food, we had a family breakfast with a variety of options in the menu. I always go for the classic breakfast eggs and home fries with toast. My fam got the filet fish sandwhich so nice and crispy and you can’t go wrong with a lamb  wrap with crispy fries, we got onion rings. Lots of tablets and now has a buffet style lunch station with even more fresh options. Def a must have if you’re around the area or ordering to pick up."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPZXYtdDJYN1l2ZmxBRRAB",
+            "text": "Delicious food"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VMeWItZmpucjhhR2dBRRAB",
+            "text": "It feels like a family setting in this diner. Nice place. Food tastes great. Oh"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZcW8zSkRBEAE",
+            "text": "Great waitress and great food. My wife got the Mexican omelette with jalapeños and taters,  I got Cornedbeef hash and teo eggs overeasy with taters and toast. It was delicious and coffee tastes great too just 2 mins away from N.Y. Bronx Botanical Gardens."
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPMjRIeFZBEAE",
+            "text": "Comodidad"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNva2U2R0pREAE",
+            "text": "Wow"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvcVBiSUpREAE",
+            "text": "Food was ok. Decor was outdated. Prices were the only good part. Bathrooms had human waste all over the floors, careful where you step."
+        },
+        {
+            "date": "7달 전",
+            "language": "it",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3bF8tOHBnRRAB",
+            "text": "raggiungibile in metro scendendo alla fermata Fordham Rd delle linee B e D, diner classico americano in cui poter consumare la colazione a qualsiasi ora ed altri pasti. le uova strapazzate tendenzialmente insapore, bacon e salsicce buone, sformato si patate con cipolle e peperoni insignificante, toast con burro e marmellata sufficienti e frittelle con sciroppo d’acero buone. prezzo coerente. personale cortese"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRaFlMbHBBRRAB",
+            "text": "Is very delicious and clean organic food  for me is delicious and great service"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRb2J2eWRREAE",
+            "text": "Chilaquiles so good!!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnanQzYTBnRRAB",
+            "text": "i had a chicken bacon ranch wrap here in 2021 that was so good i have been dreaming about it ever since. if i ever come back to nyc i WILL be stopping here"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnanRhbThBRRAB",
+            "text": "Food is great and fresh and prices are reasonable. Delivery are always super fast.\nOmar is always very friendly and efficient. 😊"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNncjhLT3J3RRAB",
+            "text": "I've been ordering from here for over a decade and can say it's my favorite local spot. I love their wraps, sandwiches, and Mexican options like the tacos, enchiladas verdes, and tamales. The mangu breakfast and hot food bar were great additions too! The staff is wonderful which solidifies my loyalty to this place!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnbGNmRThnRRAB",
+            "text": "Had a breakfast emergency and my regular diner was closed??? I chose Webster randomly but knew where it was located since I've driven by several times. Don't know if I was lucky today but of all things the cheese in the omelet was awesome. Just tasted different and better. Unexpected touch with cinnamon in the Spanish coffee. Thought I was the only one who did that. Was so good ordered the next too. Only problem is the sides of meat are $5, even the bacon"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnMFlUSmhBRRAB",
+            "text": "A scary place to eat but the tacos aren't bad.  The carne asada is delicious.  The sopes are a problem.  The sopes are not fried.  I think the dough is grilled instead of fried and therefore they are floppy!  Like a slice of wet pizza.  The salsas are not one bit spicy. Order the tacos sencillos.  All the verduras and cremas make it more of a salad"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNncHBPbmZBEAE",
+            "text": "I can’t believe at a large orange juice is 9$ lord I know times are bad but this is insane"
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURjcU1iVGN3EAE",
+            "text": "Updates: too expensive now. Pancake deluxe was $11.75...now it's $18+. I eat other places now.\n\nIt's a good reason why, when you call in the morning to order food....you can't get your order in bc both lines are busy.😍\n\nBEST BREAKFAST IN THE NEIGHBORHOOD!  ALSO Super important:\nTHE COOKS PREPARE FOODS WITH MINIMAL OIL.(without having to request it)♥️♥️♥️♥️♥️. I ordered from here almost every week. The Pancakes/French toast Deluxe is my FAV on the menu. It's enough to feed two people. The Signature omelets are REALLY good too! My favorite is the Farmer's Omelette. Made with love and care...never burnt or oily. Staff is super friendly and aims to please. Lunch service is also really really good too. I ordered a milkshake one time and it was not good, it was via delivery, that's the only reason why I didn't deduct a star. Everything else here is very very good...and I haven't even tried the Mexican or dinner selections, but cant wait! Someone's m\nMami or Abula DEF needs to be smacked in that kitchen.... with a kiss!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfdEpYMWpBRRAB",
+            "text": "Good diner! We ordered some classics. The portions were big and the food tasted great, nothing fancy."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfeTRETzBBRRAB",
+            "text": "Honestly this one was a real surprise, a diner with some TRULY legit Mexican food\n\nA real ace up the sleeve here, you won’t be disappointed"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmbmNMbExnEAE",
+            "text": "Great Cuban sandwich. Pork was on point."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmcE9DRDVBRRAB",
+            "text": "Great local diner with generous portions. The interior is casual and a little older, but the breakfast eggs, packages, juices were delicious!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQc0t1S0dREAE",
+            "text": "Food is great and the service warm and friendly.   Has a variety that everyone in a group will find something to eat and be happy."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQaHAtckxREAE",
+            "text": "Best tripe soup ever!!. My kids and husband all loved the tripe soup. My husband is getting more today."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzcGN5aG9nRRAB",
+            "text": "Perfect stop after a trip to the botanical garden"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMbXFmQVVnEAE",
+            "text": "muy buena comida Mexicana y buen trato de sus empleados"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYdzRxemVBEAE",
+            "text": "This place was delicious 😋"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURuelBUbl9nRRAB",
+            "text": "The food was delicious! The host Kevin was amazing. He made me feel like I was home! I had breakfast and the pancakes were banging! The tamales were delicious. I would definitely come again!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuOXNxanZRRRAB",
+            "text": "Great coffee , I had the Cuban which was ok but to my taste it had too much pork rind and too greasy . I will try something else next time ."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIdWJ2MnR3RRAB",
+            "text": "Best tamales EVER!!!!!! The price????: laughable!!! Incredible food and taste as…. home made tamales. We ordered 2 for each (mole and chicken) and was hard to finishing it. HIGHLY RECOMMEND!!!! (By the way:$3 each tamal 🤩🤩🤩"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3cnNPMm5RRRAB",
+            "text": "Ordered Uber eats. They were missing the sliced bananas with the pancakes and whip cream and missing the second fruit smoothie. I spent 55 bucks I expect them to try to get the order right. At least now I know not to order from them again through Uber eats.\nAlso the smoothie strawberry and banana smoothie tasted bland. Not sweet at all."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiNG9LYnpBRRAB",
+            "text": "Spanish style food fair . Hot table ready from early on. Coffe is great good prices\nStands out from the neighborhood in general"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLa3RUclJ3EAE",
+            "text": "Siempre nos atiende la misma chica que es un amor y es extremadamente servicial. Muchas gracias. La comida muy rica."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMcDVXRVB3EAE",
+            "text": "Wanted to experience a diner in the Bronx area great choice and the beef patty melt was the best I have ever had."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUczREYUx3EAE",
+            "text": "Friendly staff"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUbk1pYmRREAE",
+            "text": "Classic diner experience, with a Mexican twist. I love this idea of having American breakfast foods and Mexican food come together, my two favorites!\n\nThey have a vast menu with plenty of options to fit your cravings. I got a chocolate shake which was pretty good.\n\nI would recommend if you're looking for a casual diner experience. The service was great as well, very attentive and respectful:)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqcUplNzdnRRAB",
+            "text": "What a great little spot! The cafe at NYBG had lines forever on a gorgeous day, so we googled this place. It's comfy, great service, amazing food! And one-quarter the price of the Pine Cafe @ NYBG."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREcmItdmVnEAE",
+            "text": "I absolutely love this place. I’ve had one meal I wasn’t super excited about, I thought the 1/2 chicken lacked a little bit of flavor but it was still very very good. Maybe it was just the day I got it. Tacos, cake, breakfast sandwiches are all top tier. And the actual servers are so kind. They are also a big reason I always come back. I’m super picky about things and I am a creature of habit so when I moved to this area, I was so happy I found a place so close to home that I can trust will also have good food and service."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREaU5pczVBRRAB",
+            "text": "Waited too long to be seated &  menu items selected were not available."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5OVBETHd3RRAB",
+            "text": "The Food is delicious, the service is great, and the atmosphere is friendly, friendly, friendly!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5NWYzVTFBRRAB",
+            "text": "It is a good place to eat, but I don't like most of the waitress. they tried to overcharge they're not charging the prices they have down on the menu and I do not think it's fair."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkM3VUOVJREAE",
+            "text": "Cozy place with great service and delicious food. Prices are also very good"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkdXZ6dG5nRRAB",
+            "text": "The Patience the staff have for my children and I is amazing. I try to come once a week with my three small kids and I'm always so grateful for the staffs patience with us."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkd3VyWi13RRAB",
+            "text": "This charming little mom & pop diner was exactly what my partner and I needed before we visited the Bronx Zoo. We felt very well taken care of by our waitress, and the food was beyond comforting. I came for the pancakes, and I was not disappointed one bit."
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRclBmZzJBRRAB",
+            "text": "최고의 펜케익! 꼭 가보세요"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwcXVueEtBEAE",
+            "text": "This place has really good tacos. I got 3 al pastor taco, and they are delicious. The pork is spicy and juicy, which goes well with the pineapple and sour cream. The service is kind of slow though. Also they charge extra for using credit card."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQyaFp1Wm53RRAB",
+            "text": "Food was good nice and hot and fresh the restaurant needs a little touch up because it looks kind of dirty hasn’t been upgraded for years it looks like"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4MzRYNGFREAE",
+            "text": "This diner has been open for a long time in the neighborhood. I only get take out , because inside looks like a mess. I can’t vouch for all dishes but the Greek salad is soo good I could literally eat it all day. They have a hot food prepared as well as diner staples made to order."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3ei11MC1BRRAB",
+            "text": "Wandered here after leaving the Botanical Gardens. The staff is warm and friendly, the food is delicious. Had the chilaquiles and was not disappointed. The pea soup and the flan are worth going back for."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlbGN6TklnEAE",
+            "text": "The food was very delicious, my whole party had a really good experience here. Our waitress rushed to clean a table off for us and made sure we had everything we needed. Very good service and food, very courteous staff, fast, and very affordable. Would love to come back here!"
+        },
+        {
+            "date": "수정일: 6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBdDdqd0NnEAE",
+            "text": "I've been here a few times. The food is very good and tasty. I haven't been through the entire menu but, w I at I have ordered hit the spot. Regardless, get the OJ. It's fresh squeezed and delicious! It's a small place so it can get crowded quickly. Decent prices too.The customer service is great. If you're ever around try them."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRMktlWjBRRRAB",
+            "text": "We.had a.nice time ! Food was great and portions were huge !!! Staff were very sweet and attentive !!! Definitely going back !!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNabzgzXzFnRRAB",
+            "text": "I get food here pretty frequently for the convenience of it. It’s your typical diner, but I love the residual Mr. Pancho’s Mexican menu and hot food bar as well. However the most disgusting thing happened recently. I got tostadas (a regular go-to for me) and as I’m chewing I feel a really strange texture.\n\nThere was PLASTIC WRAP all mixed in my meat!!!!!! No telling if this was cooked into the meat, or whether it was te packaging directly from raw meat that got put into my tostada. And it was really gross and nauseating. I didn’t see initially as it was mixed into the meat and covered by the toppings. I understand small mistakes happening but this was REALLY disgusting."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSbk9EcF93RRAB",
+            "text": "Comon… ordered a bacon egg and cheese and it’s like they used half an egg. I know times are tough and rent is high but don’t charge me 5 dollars for half an egg. A dozen eggs are like 6 dollars. Won’t be coming back."
+        },
+        {
+            "date": "5년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM4cXBxYWN3EAE",
+            "text": "Lugar agradable para deleitarse con platos variados.\nLos precios son muy poco altos para mi concepto pero también hay otras alternativas en la carta.\nEl ambiente es muy acojedor.\nLa atención al cliente es muy buena.\nTienen servicio de baño."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKb3AtNjNBRRAB",
+            "text": "Came and ate with my niece...friendly but small staffed....you seat yourself and have to flag down your server if you need anything ..meatloaf sandwich was decent..niece had pancakes which was good"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJOTRPZGZREAE",
+            "text": "Great service, fresh food, and the best Mexican food in the area."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBbHZ2YV9nRRAB",
+            "text": "Great dinning experiance friendly staff and owner works just as hard as anyone else, I love this place"
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCalB1U0J3EAE",
+            "text": "Es  bueno  asta ahora lo que eh probado no tengo quejas\nLas quesadillas de chorizo las recomiendo 👍👍👍👍…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLdE8zbVJ3EAE",
+            "text": "Nice mexican options in addition to standard diner fare"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSd2VtS2V3EAE",
+            "text": "Live in the area for about 4 years now. This place is decent at best, never really bothered to eat in here, always ordered. Ordering from here is a real hassle, they usually come excessively late. Last time I ordered from here, it never showed up. When I called to ask about my order after a hour of waiting, the lady on the phone was extremely rude and unprofessional and I was informed it was just leaving the door. When I voiced my frustrations with her, I was hung up on. I had to call back and curse this woman out. When my wife heard me, she called them back from her number to ask to speak to a manager and the person grilled my wife with a barrage of questions until a manager was put on. The manager ended up apologizing about the employee who picks up the phone. They offered meals for free but I refused, seeing as I was pressed for time. Hence why I even bothered ordering from them in the first place that day. So I wouldn't recommend this place at all, the food honestly isn't all that good to go through the hassle or disrespect."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1enVHOTJnRRAB",
+            "text": "So we came here on our trip to the Bronx zoo. I have to say we were beyond impressed with what we got. Food was outstanding . Service was extremely friendly and so so personal he wouldn’t allow us to take a smaller table because I think he…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQta2FUa29nRRAB",
+            "text": "I've eaten in this restaurant for  many years and it has always been to me and my family a welcoming and comfortable place to eat,enjoy,and relax. The waiters & waitresses are friendly. The restaurant is always clean and the food is very good. This restaurant serves breakfast,lunch,and dinner all day. The only shortcoming is the restrooms are very small and are not wheelchair accessible . There is also wheelchair limited access for eating in. Overall in all the years I have been at this particular restaurant my experience has been pleasant."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURROV9qbHlnRRAB",
+            "text": "Amazing food, friendly workers. I love it ! I want more of their cheesecake lol"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMya05ydHRRRRAB",
+            "text": "The setting was amazing, it has changed since 2018, 2021 and now 2022.\n\nMy Experience changed; back in 2018 I went with my sister to get a coffee, they gave us cafe de olla and that was the best thing i tried there and was very satisfied with how it came. We order a big meal and it was great.\n\nDuring 2021, it wasn’t the best; since the pancakes I order were very dry and not good. Me and my friend had to digest it slowly and went on with our day. I was about to call it done at this point.\n\nNow 2022 of April, I was very satisfied with the tacos my mom order and was happy to enjoy my meal. It felt back like it did in 2018. The waiter was super polite and made it a friendly and great experience for us both. Would come back to try something else, as I see they changed it up a bit the dinner. I also wanted to know the waiters name cause he is a great employee to have at this place."
+        }
+    ],
+    "reviews_count": 71
+}

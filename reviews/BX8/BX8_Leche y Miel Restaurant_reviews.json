@@ -1,0 +1,565 @@
+{
+    "name": "Leche y Miel Restaurant",
+    "place_id": "ChIJj7bELc4PZkARoBhXXd6A0Tc",
+    "grid": "BX8",
+    "address": "5761 Broadway, Bronx, NY 10463, USA",
+    "rating": 4.5,
+    "user_ratings_total": 552,
+    "phone_number": "(718) 708-5787",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201S1REZENjblJsZEZCMWRTMXdSMlZhVlhKU09GRRAB",
+            "text": "very friendly workers and fresh and tasty food"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pnM1lrZGtkR0ZTVG1ObVVsZHhlazVNZDBoNlIwRRAB",
+            "text": "I stopped by to have lunch while my car was being serviced across the street. This place is spacious and very clean. The staff is very helpful and friendly. They have a very good Dominican menu with a lot of tasty options on the menu. I ordered a small lunch and the portion was huge, I ate and have half left over to take home. I ordered the chicharrón de pollo sin hueso, arroz blanco y guandules, plátano maduro, y aguacate con un jugo de chinola (boneless chicken chunks, white rice, pigeon peas beans, sweet plantains, avocado, passion fruit juice) and it came out to $16! Definitely a bargain for the price. Absolutely recommend coming here."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wRmFYWjBjVzlqVVVOUGVVZEZhRnBNYUZOSmJtYxAB",
+            "text": "Muy limpio, muy profecional el mesero, muy buena atención, y muy rica las chuletas ahumadas. Se los recomiendo!! 5 estrellas!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214cVV5MW9SWEpEV0V0WGRuVjNiM2x5WkZkbk9HYxAB",
+            "text": "That shrimp with taro grit and quinoa salad are solid, but the lunch plate chicharron de pollo sin hueso is really meh.."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Ka1ZIUlZOamN5TURkeFdVbEZla3BpYlhCTlFXYxAB",
+            "text": "I had the mangu with the tres golpes and it was very delicious! If you like a simple mangu you will definitely like this one, not salty not overly flavored but it was perfect with the salami it added the perfect amount of flavor to the dish! My boyfriend had the honey wings with the sweet potato fries, the chicken was perfectly cooked, very crispy well coated in honey and unique in flavor. They serve a good amount of food too! The fries were crispy simply great. The bread pudding was delicious highly recommend! The owner was very friendly, we will definitely be back☺️  hidden gem for sure"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sR2JucEVTVU15WDFOTWQwVkVWVVJRVFVSbE0yYxAB",
+            "text": "Excellent food for those that are hungry and looking for a great meal. I had the oxtail and let me tell you it was delicious!! Recommend"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVd2NXRjRXVWxWT1hSbVIxb3RTVGhQTlhWR00yYxAB",
+            "text": "Lèche y miel is like an oasis in a desert. Louis’ customer service was top tier and although we were tired from a long road trip, this delicious food replenished our bodies and our spirits. When we are back in New York we will definitely be stopping here again."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psU2NIZFhRV2RRVWxSSFFXeEdhQzFSYzA0MmJsRRAB",
+            "text": "Fantasticly delicious food!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wRVpGaGxhbm95VHpkYVRXZFBURmMyVFVaNFNYYxAB",
+            "text": "I want to thank you for fantastic service. My family and I truly appreciate it!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGTWFYcHdiMEZqVUhSc2VrTkpYMTl1Wm1aRmRHYxAB",
+            "text": "My order came with rice and beans, and the beans container was tiny for a 30$ plus order. And guess what was inside the beans container? Just sauce and no beans. Maybe like 9 flakes of beans. Food is bit pricey and not worth it."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJS3Nodi1YdnRycm5RRRAB",
+            "text": "I ordered Mofongo. They didn't have it. I asked about the Pernil. They used to make it and nobody buys it. I ordered costilla and pollo al horno. They told me hey we got chuleta if you prefer. I said yeah I'll take chuleta. It was a couple slices of ham."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNcWgwc09wbThDN2F3EAE",
+            "text": "Amazing food and staff is very nice ! Best food/service in Riverdale"
+        },
+        {
+            "date": "8달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnanN5WDZBRRAB",
+            "text": "Todo perfect ❤️"
+        },
+        {
+            "date": "8달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBOTU2Q3hBRRAB",
+            "text": "Muy amable y desente el personal"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2aUo3MUhBEAE",
+            "text": "Canceled order after waiting about an hour. Terrible and irresponsible."
+        },
+        {
+            "date": "10달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2N0s3Z2tRRRAB",
+            "text": "La pechuga de pollo  fue  pre cosida y le pusieron mucho vinagre  horrible no le recomiendo."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2eUxIeU1BEAE",
+            "text": "I went to this place for a date and I was served in plastic wear… the plates, the cutlery… it was odd and not the norm for restaurants in the area. Also they have their own personal friends that they let come in and run around the restaurant at the customer’s expense.. it’s very weird in here and it was not like this before. Not sure if this restaurant has new management but I would say go to Malecon or Chef Rose, other restaurants in the area that can offer you a good meal and proper service. I was very disappointed and will not be going back here."
+        },
+        {
+            "date": "10달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQbl9yQWFREAE",
+            "text": "Acogedor familiar... comida tan sabrosa como en casa de mamá!! Cantidad para comer y llevar ... recomiendo el \"chivo picante con Yuca frita \"..."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzeGFYbWdnRRAB",
+            "text": "The food was amazing, the service was even better."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4b3RMSmVnEAE",
+            "text": "State of the art service, ambience and great atmosphere. Great food and excellent prices.\n\nThe seasoning is out of this world. Altagracia & Rideiby are the best!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3bFoyWjNBRRAB",
+            "text": "Best food spot in the neighborhood after 3 years of consistency i can really recommend it as a great lunch and spanish food spot"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURieHZlTmFnEAE",
+            "text": "Food is delicious, it’s just like mom taste. Also coffee is the best in the town 🤩"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyM19MNUNREAE",
+            "text": "Awesome food and service 🤌🏻"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyZ0lhb0p3EAE",
+            "text": "Delicious🔥😋 food and homemade juices"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMOC1qbXhBRRAB",
+            "text": "La peor comida, lo siento pero tengo que decirlo . Pedi pollo al horno, y trajeron pollo frio más duro que un palo , pedi pechuga de pollo a la plancha y me trajeron un salmon sin sabor.es todo ,porque si digo diciendo no acabo . Nunca he visto un restauran que ponen la comida en la mesa en cosas de aluminio de lonche de llevar. No ponen platos ni tenedor, los ponen plasticos."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMdFA3YmRBEAE",
+            "text": "Well the chicken smell nasty and taste nasty  the beans had no  taste. I will never step a foot in that restaurant again waste of my money."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMMVA2NFl3EAE",
+            "text": "Leche Y Miel experience was phenomenal. For those ready to indulge in Dominican cuisine this place is it. They have a 10-4pm lunch special + a 10am-2am brunch special which allows for a affordable meal. Luis customer service is beyond excellent. The moment you walk in he welcomes you with a warm welcoming. My girlfriend and I will definitely visit this place again!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqeS0zVWZnEAE",
+            "text": "Leche y Miel Restaurant is a hidden gem in Riverdale! Their eggplant is expertly seasoned and one of the best I've had. Every time I've ordered, the food arrives piping hot, which is impressive. The staff is incredibly attentive, and the cozy atmosphere is always clean and inviting. If you're in the area, don't miss out on this culinary experience!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREeExEVTB3RRAB",
+            "text": "One of my favorite places to eat a meal that tastes as close to a home cooked meal as you can get. Always fresh, not heavily salted but good homemade Caribbean flavors ."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEeUtYWE5nEAE",
+            "text": "I've never wanted to give a business 5 stars more than Leche y Miel.  They generously hooked me up with a meal several times while I drove for Amazon in the area.  I love the food the staff and the spirit of the team here.  They have been the best part of my job.   Alda said the food was on the house and I replied \"you just made my...Life!\"  I strongly recommend checking them out if youre in the riverdale area."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5NGRuQzNRRRAB",
+            "text": "Great taste, good portion sizes, fair prices, very popular spot.  Highly recommend!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5NGE3aERBEAE",
+            "text": "Warm friendly service food was really tasty and clean. Coffee was really good 👍🏽"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5bDRMZG1RRRAB",
+            "text": "Owners are such beautiful people - very accommodating + excellent food. Can’t ask for much more!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5bGNXUzF3RRAB",
+            "text": "Great amazing food\n\nNever disapponts"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkLS1QVWtBRRAB",
+            "text": "I come here 3-4 times a week for lunch . The food is great & Super nice workers & owners."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUROOUxqTVJnEAE",
+            "text": "From the moment I walked in, Luis greeted me and gave me excellent service. The food was delicious. They deserve more than five stars. I’ll be coming back. I highly recommend this Dominican restaurant."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNOaS1la1hBEAE",
+            "text": "Kind owner will come back soon"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxenJPc2F3EAE",
+            "text": "The bread pudding was delicious like always. The only complaint is that they need to put more fruit and add the blueberries. They have been stinging with the fruit."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNWN2RXQ1lREAE",
+            "text": "Wonderful delightful meal. Although I passed wind and people could feel it on the other side of the Hudson. Try the oxtail, you'll wish you had a tail of your own."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNWMGFfNUR3EAE",
+            "text": "Comida como hecha en casa !\nHomemade quality food. Tasty, organic oriented , simple but not simpler . Extremely satisfying for the soul. I highly recommend it."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoeUlLd0VREAE",
+            "text": "Un buen lugar para comer y difrutar en familia"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURsNVA2QU93EAE",
+            "text": "Delicious food."
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1LWJ1SHpBRRAB",
+            "text": "Muy buena comida y buen servicio, lo recomiendo al 💯 igiene ,atención, buen personal."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaejZQTlJREAE",
+            "text": "Good food and service but the mangu was a bit cold.  Otherwise,  I really enjoyed this place and the food."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURacWNpbm5BRRAB",
+            "text": "Great and taste food. It's taste like homemade."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaaklMV1d3EAE",
+            "text": "Excellent Dominican breakfast and perfect cafe con leche. Casual service - our food came in take out containers - but delicious."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNabzVMNHhRRRAB",
+            "text": "Amazing food 10/10 I highly recommend this restaurant been there 3 times already & l love it !🙌🏻"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaX2RyUXdnRRAB",
+            "text": "You are not coming here for atmosphere, as there is none, however,  staff is very nice. But, if you wanna have a delicious plate of Dominican food, chicharrones. moro, pernil, rice & and some delish well seasoned beans, than this is your place. Everything here is awesome & served w/beautiful smiles, cause that's important too.  Very friendly, sweet staff.  Salud!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKM3ZxcW93RRAB",
+            "text": "Brilliant family restaurant.  Can't describe it.  Get over there."
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4cjd2TnZRRRAB",
+            "text": "Me gusto la atención aqui, platos exquisitos!"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRdWRyc0VnEAE",
+            "text": "Good food at great prices. The service left a little to be desired. I did enjoy the chicken wings and fries but I did feel as if the wait was long. I'll consider it an off-day, but will definitely be a factor on deciding whether to return."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3M2RueGt3RRAB",
+            "text": "The food (we had) was nothing special. We went in for brunch and had the Mangu and waffles with strawberries. They didn't have the French toast which is what we really wanted so we had to settle for the waffles. They tasted old and as kind…"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRNDVTa1Z3EAE",
+            "text": "There's many fast food options around, but why not get great home cooked with a flair instead...btw its fast here too! Came here a few days ago and truly enjoyed the food! How they manage to pull of the flavor of latino cuisine without the…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPaHBmQWJ3EAE",
+            "text": "Amazing food and gigantic servings! Had one of the best Mac and cheese I’ve had with pulled pork.…"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3cktQX1NREAE",
+            "text": "Terrific food. Place has a lot of potential still to be exposed. Stands next to a Carvel which draws your attention more so than the black & white signage of the restaurant...Friend and I were the only ones there on a Saturday afternoon until a crowd of three came in about 20 minutes into our visit.\n\nService was obviously quick and food was tasty... but they don't yet serve alcohol 👎 - 1 star for that....they do have a BYOB policy in place though - but you better bring it ahead of time because there are no bodega/liq stores within a comfortable walking distance...they also have some parking"
+        },
+        {
+            "date": "수정일: 6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3alB2RUpREAE",
+            "text": "Bless the day I stumbled open this restaurant with my partner. Their food tastes so good and everyone is very friendly and with great memory. There's also lunch specials avaliable if you go within the early afternoon."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnamNmOFZnEAE",
+            "text": "The food was delicious and beautiful. The portions were generous and the prices were good. They clearly take pride in what they do here and it sets them apart."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnaTZDNGJnEAE",
+            "text": "Nice and  family own cafe. My son and I were looking for a new place to enjoy Brunch. Food was good. We had the Chicken n Waffle.. our new Sunday spot"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvbWZubUV3EAE",
+            "text": "Loved this place!  The atmosphere was simple, the food was delicious and authentic! Definitely coming back!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM0bk1DVVVBEAE",
+            "text": "Exactly what I wanted! Flavor is on point, portion is great! Can’t say anything bad about this place! The employees are phenomenal as well."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURzeE95SEFREAE",
+            "text": "Delicious food! Excelent service and good prices."
+        },
+        {
+            "date": "7년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURROU5qZjlnRRAB",
+            "text": "El mejor restaurante que hemos probado en la zona! La comida es riquísima. El plato de “shrimp with creamy parmesan grits” es espectacular! Todo delicioso! Los postres también merecen la pena.…"
+        },
+        {
+            "date": "9년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRc2VmZ0tBEAE",
+            "text": "Excellent family restaurant serving great food at great prices."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURndnRfVjJ3RRAB",
+            "text": "Very good food and good service. Even though I order some goat meat to take home for my son, and they gave me oxtail by mistake. Still was good!😋😋…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoMnBYeDNRRRAB",
+            "text": "Oh my goodness! I haven’t reviewed in forever but the bread pudding with mixed fruit was sensational.…"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR3NE42X2dBRRAB",
+            "text": "Upscale Dominican food. Good service and parking"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSX01UMDFnRRAB",
+            "text": "An absolute gem! They have never disappointed and I'm confident they never will. The staff is always friendly and the owners are so genuine and kind. Everything here is amazing but the Churrasco is top notch. And whatever you do, don't pass on the Bread Pudding! Trust me!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXeU9YLWNBEAE",
+            "text": "High quality food at a decent price. They are takeout/delivery only now (no eat in). Glad to see they're open again. Nice to have good quality restaurants available.\n\nWe had Spicy Goat, Shrimp and Grits and Honey Glazed Fried Chicken. Everyone really liked their food. Ample portions (couldn't finish)."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVbDQyQWlBRRAB",
+            "text": "If you can get past the fact there's not too much decor, this place has the most amazing food I've tasted. I'm Dominican myself growing up on some really good food and this is on par or better. Staff was friendly and prompt. I love the open kitchen. It makes me feel like the place is clean enough to let you see what's up back there."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNZd3NMQkVBEAE",
+            "text": "First time here, ordered steak mofonguitos and my mother ordered ribs with mashed potatoes... a little wait but when I tell you it was worth it, OMG 😍😍…"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBaVpQTF9BRRAB",
+            "text": "I enjoyed every bit of my service. The food was exquisite and the service was great. The chef came up to my table various times and was very attentive as to what was ordered as well as how the food was cooked. A very humble personnel. I recommend coming here. You won’t regret it . I will definitely be back soon!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4dk1xWjhRRRAB",
+            "text": "As fellow Latino , I was extremely disappointed. Order food at 7 waited 2 hours and played phone tag with Grubhub trying to get Eta. Till cancelled, they still dropped off my food. The bag soaked  from bean sauce and steak sauce. Till then at least try their food , to my dismay . The fried chicken bland, the skirt steak was coated with seasonings (extremely salty ) beans was watery. Waited 2 hours for a meal, that wasn’t good. Got the bread pudding as well. Which is just bread with sugar coating. Lacked the consistency of pudding texture. Was hyped up for this place, there’s better out there"
+        },
+        {
+            "date": "10년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBa0p1SmxBRRAB",
+            "text": "Amazing food! They take regular, basic dishes and turn them into so much more. Really great prices personally if this was my business I would charge more for what they offer. The experience went extremely well every time I've been there,…"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNX0tPQ3JRRRAB",
+            "text": "I love these guys! Family run restaurant, the chef/dad was informally trained by some of the best chefs in the city. Everything but the hand-ground hamburgers is great here. I've NEVER had better cooked chicken anywhere! Their tres leches is off the hook!"
+        },
+        {
+            "date": "9년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBbTQ2NU1BEAE",
+            "text": "Service was impeccable.\nHoney chicken wings were good. Not too sweet or overpowering.\nTry the Waldorf salad and the butternut squash salad. My husbands skirt steak was fabulous.\n\nThey fry bread pudding for dessert (Yum!). Be careful... because it isn't too sweet you can get carried away eating it.\n\nCan't wait to go back"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvMlp5Sld3EAE",
+            "text": "small quaint location  minimalist great service very attentive.  on site parking. i had waffles and chicken scrumptiously delicious! dessert bread pudding with caramel sauce, just so yummy. brought an order for my husband. really good…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCM1phUFR3EAE",
+            "text": "Great food and huge portions. Had one of the best Mac and cheese with pulled pork I've ever had. The flavors blended together perfectly, making it an unforgettable experience."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBc3VfaE13EAE",
+            "text": "I love this place, my boyfriend and I come here often. The owner is sweet always friendly and offers a warm smile. The menu is amazing, great options and reasonable prices. One of the only places “uptown” you can eat and chat. Nice ambiance, no loud overwhelming music. I will give it 10 stars, but google only does 5 lol"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlcWJyX1R3EAE",
+            "text": "Your food continues to be DELICIOUS!\nI had the sprimp salad and salmon meal. Super tasty and good large portion.\nKeep getting creative; juices are perfect in taste amd sweetness. Thank you for offering delivery."
+        }
+    ],
+    "reviews_count": 79
+}

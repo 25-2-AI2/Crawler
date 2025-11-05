@@ -1,0 +1,572 @@
+{
+    "name": "Hungry Bird",
+    "place_id": "ChIJNXjkPzT0wokR4hPBL15oONE",
+    "grid": "BX4",
+    "address": "980 Morris Ave, Bronx, NY 10456, USA",
+    "rating": 4.3,
+    "user_ratings_total": 477,
+    "phone_number": "(917) 801-4900",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WMlkyeFpNWFoxY0ZwR0xVTXdPVVZsVGt4VGVWRRAB",
+            "text": "please go to this restaurant. The food is the best I’ve ever tasted in the Bronx. I love hungry bird restaurant please visit I’ve been going here for 10 years plus, I know the owner very well and he is so kind."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5d2VuUmZNMGhJTkhGVVFrSlFhbmQzWmtKTFdXYxAB",
+            "text": "I love hungry bird!! I ordered a few months ago and they forgot to include my mango lassi. BUT today I ordered and reminded them and they sent me the mango lassi. Amazing service, made the food that much better 🫶"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GWFRFd3pPSEZ6YURGSlZFbzJUV3hEYjJoaVVrRRAB",
+            "text": "The food is really good and I have never tried Indian food. I mostly liked the samosas with the green and black sauce. And the chicken tikka missala is so good"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvdE1XOHhUR1k0VVUxWVlVaEtXWGxSTjB0QmFIYxAB",
+            "text": "The food is so good. The somosa was my favorite.!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kckxXdElZa3N0V2paTVNERnhSM1JIYkU1Q1VsRRAB",
+            "text": "The food is hands down delicious! I have tried every masala plate on the menu. My favorite is shrimp tikka."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twalluVktSbnAxZEZOR2RVNHlOelpKUVhoZmFFRRAB",
+            "text": "Fast service and knowledgeable!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5Nk9WaGlVMGhMUlhkTFNXMWlhWFpIT0RkM2EwRRAB",
+            "text": "Excellent environment, friendly service, great menu choices and really amazing, fresh, homemade food and at affordable prices. Will be back for sure!!! The mango laasi smoothie was AMAZING…and a generous gift from the owner. Thank you,  thank you, thank you!!! Best food in NYC!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GRWVWSm5TR1JVWlRoQmJsb3pXSEpwZG1wZlZWRRAB",
+            "text": "We had chicken tikka masala, aloo saag (potato & spinach) and daal with yellow lentils. All of it was amazing. The tables are nice. The atmosphere could be more cleaned up. It was  a cozy space with good vibes."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5TVVIZDNOMnR5U3pGbWFtVmxaakV6ZVc4emJIYxAB",
+            "text": "The food is amazing"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1SU9IWlRhRTVDUmpGTVQzWjJYMUptWDJwTFpFRRAB",
+            "text": "This was one of my go to until I found a roach in my food absolutely disgusting."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQyNnBIUFh3EAE",
+            "text": "Excellent naan and chicken tikka masala. Good chicken saag.   Good service.  Would go there again for sure."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aTFowaFpkR2d0UTB4WlFVZHVkMWhYVTA4M2FVRRAB",
+            "text": "Good food fast service"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkTloxQjBZVzVmVm1wUlJuTlVNVnBvYUZOdmIzYxAB",
+            "text": "It’s really amejing"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twdFIweGFRVnBVYlc5TllYTk5aVmhGUW14R1NuYxAB",
+            "text": "great costumer service, really good food and just overall a good place to dine in"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGTmJYSmlha1phUnpNd1ZIRjBVa1ZMY1ZVMk9WRRAB",
+            "text": "Nice place and great authentic Indian cuisine."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Wb1REa3dkblkwWlZOdE9GQTBaWGRYV25KelVuYxAB",
+            "text": "The person was so helpful. Good food for reasonable price. Excellent service."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jMllrZE1ibHBGV1dscU0xRnFkbUZJTlhoU2EwRRAB",
+            "text": "Great place for Indian food in the Bronx"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzdE1UZFNkSE5OVjIxdVZWTkJPR3RHVEZrd1ptYxAB",
+            "text": "Very good food and excellent customer service!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25velUwMUNNbU5EU0RKMlVFdG9kR3h5Y1V4eFZHYxAB",
+            "text": "The food is great and so are the staff! 10/10"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCb2RUZDVWa2d0ZW5KeVZpMTJVR1paYld4dWRVRRAB",
+            "text": "Great customer service and fresh food every time. Highly recommend ;)"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xRWNVWlFVSFZKVDBOa2JVczVNVmxrV2poMldsRRAB",
+            "text": "Food is delectable. Every time I come I get the butter chicken and garlic nann. 10/10 !!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwU1dVaFlRbkJwTkdwdE1WQlVaVzVhVlRGbmIxRRAB",
+            "text": "10/10! Good size portions for the price you pay, hits the spot everytime!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjMFVHUkdNVkZSTm5CUFVqVjVVV2xqVTJKQ2FHYxAB",
+            "text": "5 stars all across the board. I love this place. My obsessive order is Salmon curry, Basmati rice, Chana Saagwala (spinach chickpeas) & Garlic Nann 🤤\n\nEither I pick up or order. I know it is a guarantee my food will be freshly cooked, good for the body & brain as well they truly care about the quality of their food and service. When you have quality food then you move with such, thank you. I love eating here."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oYU0yVkJSVVZTY0U0Mk5WWnJlRU13WlhaWWNIYxAB",
+            "text": "Great service !"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OelFVRk1UbVoxTjFKd1NHNVhSM2hDWjJOUVowRRAB",
+            "text": "Fresh home made food better options than fast food"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GcmJteG5UVUZUTVdoT01tTk5RamxsY0ZWR2VGRRAB",
+            "text": "great service food was even better!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OSlF6STBObEJsTms5VFRIQmxZV1E0UkRKNFRrRRAB",
+            "text": "Great place! Small diverse cuisine. Love their chicken tikka a, Garlic Naan and mango Lassi."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toQlRVSXlUa28xYlZwR1QydGFRMVZCZGtKSE1FRRAB",
+            "text": "Chicken biryani  was delicious! I'm new in town as was looking for local Indian cuisine. This place is totally underrated!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwV01rTjBYMDlyUTE5VlZEaG1RVUoxU1ZWRlNXYxAB",
+            "text": "Best Indian food in the Bronx"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGc29md1FREAE",
+            "text": "I go here for the Kashmiri Pulao. It's a coconut rice with spices and fruit and it is delicious. I always order ahead and they are always friendly and nice.\nUpdate****\nI stopped by to grab a couple orders of Kashmiri Pulai. Got home and got all the way to the bottom when I noticed a huge cockroach in the rice. I wanted to puke, I was so disgusted. Yall should be ashamed!!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMN2hpSV9kOXVqT2VREAE",
+            "text": "I eat from here all the time and I love the food! Great customer service also"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLSEQyTjdFcS0tSDB3RRAB",
+            "text": "Consistently delicious!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJcWRzTmJhc2EtWTJ3RRAB",
+            "text": "Food is amazing"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMYlBpdEszaXVuSmt3RRAB",
+            "text": "I order online all the time. It was nice to come inside and see where the food is made. We love the chicken tikka masala"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKbW8zN3lsN05QdWtnRRAB",
+            "text": "Nice food"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQzFyNVdfMFBxOXJRRRAB",
+            "text": "So good! Am def gonna come again!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMWHBvNFNlOWZQYVl3EAE",
+            "text": "Easily one of my favorite restaurants in the Bronx. The atmosphere is extremely welcoming and cozy. The food is top quality and I'd highly recommend it to anyone looking to try something new in the area."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNYksxOF8zdFkzalpnEAE",
+            "text": "I ate with some friends and the food was delicious."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJRFk0ZUxiM05tcll3EAE",
+            "text": "Excellent service"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMcVB3ZnVWaUxEMzBRRRAB",
+            "text": "Best restaurant in bronx for indian food .\nService is really good ."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMU0h0T25WejlpQWt3RRAB",
+            "text": "Great lunch special and food is always so tasty!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKU1BpYXVlMFpPNE1nEAE",
+            "text": "Food was great"
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VOZnBzN2JnN2JtaWRnEAE",
+            "text": "The mango lassi was chunky, and they got my order wrong (meat instead of vegetarian). Also they have a B health rating"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOQ0JsYV9FX3RlVlpREAE",
+            "text": "the best mango lassi in the bronx!!!!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKVFZ5ZjdfZ182VFJREAE",
+            "text": "Delicious food!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKWDkwNGI0dDVuazNRRRAB",
+            "text": "Most amazing food ever. Highly recommend."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKLW50SjNneGFYcWZBEAE",
+            "text": "Food is very fresh and flavorful! I came once before and sat inside to eat; the second i took home. Large portions in both situations! Truly a bang for your buck! Please come in and support local shop owners!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNT2puTUdYak9ERmRBEAE",
+            "text": "Awesome food"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKbjVwSmlNbUxYdnd3RRAB",
+            "text": "Very good food! Great service and halal!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMdXRqZUtFeXBpTlRnEAE",
+            "text": "Excellent quality and good services"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3MW92STlBRRAB",
+            "text": "One of the best Indian spots in the Bronx. I loved everything about it. The staff were amazing and the food was absolutely delicious. I got the Lamb Vindaloo and it was amazing! I would highly recommend"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPMHJyaWpBRRAB",
+            "text": "This is the best Indian food I have had in New York City! The Restaurant has a large menu to choose from. I have had dishes such as the very popular Chicken Tikka Masala, Chicken Vindaloo, Chicken Achaari, Garlic Naan, Spinach and Cheese…"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRbXU2bVl3EAE",
+            "text": "This is my good to spot in the Bronx whenever I’ve craving Indian food! Lots of options and affordable prices. Staff is always helpful with selection and friendly. Definitely check this hidden gem out"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwdlpIMHRRRRAB",
+            "text": "This is a regular lunch spot for me! To start, they have a great lunch special for take out and dining in, as well as a dinner special (an entree and appetizer for $20). The Chicken Tikka Masala is the best. I highly recommend trying their biriyani, chicken samosas, and paneer sagwala (as a vegetarian option). I go at least a couple times a month and have never been disappointed."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3LWNiU3Z3RRAB",
+            "text": "So today i found this place for me when i'm missing indian food. And i ordered goat biriyani. And its really good.  It has the flavour of spices & hervs. I liked it.  But the only thing i want to say that the stuff must have to wear gloves when they are making food. They are touching the food with open hand which i found unhygienic."
+        },
+        {
+            "date": "6달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJbU1pSlZBEAE",
+            "text": "Io e la mia amica Margherita abbiamo passato uno dei migliori pranzi in città in questo piccolo ristorante caratteristico. Consigliatissimo il vegetable samosas, ne mangerei altri mille!!\nPersonale super gentile ed accogliente!!\nCi torneremo il prima possibile🥳🤩"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPajlrdC03NU5YQXBRRRAB",
+            "text": "Hungry Bird is our go-to Indian spot in the area. My girlfriend and I always order the Chicken Makhani (Butter Chicken), Chicken Tikka Masala, and Garlic Naan — and every time, the flavors are incredibly rich, comforting, and full of depth. It’s the kind of meal we genuinely look forward to. The staff is friendly and straightforward, which makes takeout smooth and easy. While we haven’t dined in yet, we’re definitely open to it. Can’t recommend this place enough if you’re craving great Indian food nearby."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqdTVPU3BnRRAB",
+            "text": "I have had many indian dishes from all over the country and this is pretty bad.\n\nThe butter chicken was not butter chicken, It was congealed, nasty red color and swimming in oil.\n\nThe sauces had a rancid smell to them ,\nthe Naan had a nasty after taste as if they didnt clean the equiptment they use to make it , the samosa was covered in salt and only the filling was edible, barely.\n\nThis is a joke to indian cuisine.\nIf you associate this place with authentic indian food you are making a mistake.\nThis is bottom of the barell indian food.\nI don't know if it was a bad day, if they had issues in the kitchen or what but the food I ordered I had to throw it away.\n\nAttached is a picture of the \"Butter chicken\" I received.\n\nEdit:After about 30 mins I found myself throwing up in the bathroom.\nDo not recommend."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNidkpMTVRBEAE",
+            "text": "I think it’s worst Indian restaurant I visited ever. I saw some other reviews same like that food is bad and service is not good. I came and ask the menu the guy on counter said sit down and I water 10 minutes and no one came to take order…"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvc2N2cWNBEAE",
+            "text": "The food is authentic and delicious! The prices are great too"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnbjd1UU1nEAE",
+            "text": "Would always see this restaurant and decided to try the first time. I was surprised by the kind and hardworking staff and their hospitality to their customers. I ordered the butter chicken which in my opinion was pretty good since it was my first time trying Indian food. Also came by for the mango lassi which was great!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3c29yQWVREAE",
+            "text": "The food here in incredible. This is the best Indian food I've ever had in my life. The staff is very nice and the atmosphere is very comforting and cozy. If you're in the area, you HAVE to check this place out."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtdzRMeTN3RRAB",
+            "text": "Fish tikamasala with rice was very great..\nWill definitely eat from there again ...\nDecent portions too\nDidn't like the lentils soup too much.."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJMzlPdnZ3RRAB",
+            "text": "I've been ordering from here for 3 years and I can't count the amount of friends who say they don't like Indian food whose minds were changed by the Chicken Tikka Masla here. That dish in the Hungry Bird combo is the best deal. We get it with the vegetable samosas and Garlic naan. The little tamarind sauce they include is the best and I have yet to be disappointed by a single dish I've tried. They're also very quick for delivery."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNWelk3XzZBRRAB",
+            "text": "I wasn't acknowledged when I first entered, once noticed staff appeared hospitable. I'm vegan and ordered lentil soup, first time trying Indian version which was a bit thin, not my usual but good, spice, curry and flavors were obvious, which I like,  reasonably priced and appreciate as the area doesn't appear to have many options for my diet."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnblpYVUpREAE",
+            "text": "The food was delicious and clearly fresh. I didn’t know such great Indian cuisine existed in the Bronx. Short wait time. Come swing by.  Be sure to finish off with the Mango Lassii."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3bzZubk1REAE",
+            "text": "Hungry Bird is one of my favorite cravings in the neighborhood! The food is amazing quality, large portions and the service makes you feel like family. I am definitely a loyal customer."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3NHR5aUxREAE",
+            "text": "I live a few blocks away and I order from Hungry Bird at least once a month. Sometimes 2 or 3 times. I have one friend who prefers to hang out with me at my place so he can get Hungry Bird. Their Veggie Samosas and Garlic Naan are always a must have but everything else I’ve ever tried (saagwala, vindaloo, achari, tikka masala) is delicious. Also their delivery is always very quick."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3MFB5X0tBEAE",
+            "text": "I want to start out by saying I’ve been ordering delivery from hungry bird for about a year and a half. I’m a HUGE fan of the lamb biryani and I’ve eaten more of your samosas than I care to admit.\n\nThat said, the last two times I’ve ordered it feels like there’s been a change in the quality — especially noticeable in the naan. Both times the naan has had several raw spots that are still dough.  My husband also mentioned his last order had way less flavor than normal.\n\nThis is a great place and I appreciate it a lot, but I just wanted to share my past two experiences."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3a0tEbjJBRRAB",
+            "text": "Hungry bird has great delivery specials. The chicken tikka really warms the heart and soul of a missionary in the Bronx needing some human comfort. And the samosas are ginormous and crispy."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJa1l2QXdRRRAB",
+            "text": "The best Indian cuisine I’ve had. The portions are filling, the staff are friendly and helpful. Overall 10/10. Highly recommend."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRbWY2Z1lREAE",
+            "text": "I came in a hungry bird and I left a full human. If you're doing jury duty and you are hungry for justice you won't find it here but you will find yummy Indian food and good vegetarian options that will take your mind off the darkness of humanity and bring you to the sunny heights of delicious delight. I didn't write this just to get a free Mango Lasse."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBNjhqOWFBEAE",
+            "text": "Food was amazing! Place was clean, they offered suggestions (I always order the same at other places) that were great! I will definitely come back!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJMGZEb0R3EAE",
+            "text": "First time eating at Hungry Bird. The food and service is excellent. Perfect spicy, mango juice perfect..very pleased over all.\nThank you,\nDiana"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnMzVLU093EAE",
+            "text": "I had an amazing Mango Lassi. The staff was so kind and the service was quick. The mango was smooth and sweet but not too sweet and the perfect consistency. LOVEE the mango lassi, definitely order it."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLWE05ZWEyMnVIanJRRRAB",
+            "text": "Awesome mango lassi's and warm friendly service!! Thanks for the delicious food 😁 I'm so happy to find this spot in the neighborhood 😀"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3a09paXlnRRAB",
+            "text": "I love the friendly service and flavorful food here. It’s a nice quiet spot to have dinner with good friends! I leave feeling happy and satisfied."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3bzRXNW93RRAB",
+            "text": "Love this place, been ordering from here for over 7 years and now I live just blocks away!! food is delicious and authentic. must try!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURycXJqUHRnRRAB",
+            "text": "I absolutely love this spot! Their food is always fresh and good! I've been here at least 5 times for take out and we love to get the Tiki Masala Goat and Salmon curry! Their sauces arent too heavy which I prefer and always flavorful."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3a09Da0tnEAE",
+            "text": "Samosas are delicious! The food is authentic and all has really good flavor. Also, the tap water is actually cold!"
+        }
+    ],
+    "reviews_count": 80
+}

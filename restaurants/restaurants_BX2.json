@@ -1,0 +1,202 @@
+[
+    {
+        "name": "Jay's Spanish Restaurant",
+        "address": "898 Hunts Point Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJCX96OgD1wokRr1Kw5utCbQw",
+        "rating": 4.6,
+        "user_ratings_total": 14,
+        "phone_number": "(718) 219-5019"
+    },
+    {
+        "name": "Sugar Restaurant",
+        "address": "1010 Southern Blvd, Bronx, NY 10459, USA",
+        "place_id": "ChIJEQ7GGTj1wokRPTSSOZSVons",
+        "rating": 4.7,
+        "user_ratings_total": 1459,
+        "phone_number": "(718) 600-7330"
+    },
+    {
+        "name": "Cafe Italia",
+        "address": "500 Tiffany St, Bronx, NY 10474, USA",
+        "place_id": "ChIJMTT3YyL1wokRpV0g1n_AH9g",
+        "rating": 4.9,
+        "user_ratings_total": 36,
+        "phone_number": "(718) 930-0053"
+    },
+    {
+        "name": "Milly's Corner",
+        "address": "1129 Longwood Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJPfGVE6n1wokRsC69eNfH0Ac",
+        "rating": 4.2,
+        "user_ratings_total": 140,
+        "phone_number": "(718) 893-4900"
+    },
+    {
+        "name": "Boogie Down Grind",
+        "address": "868 Hunts Point Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJ_Y25fgD1wokRWMtstKibsA0",
+        "rating": 4.7,
+        "user_ratings_total": 452,
+        "phone_number": "(347) 270-0141"
+    },
+    {
+        "name": "Market Place Restaurant Cocktail",
+        "address": "355 Food Center Dr, Bronx, NY 10474, USA",
+        "place_id": "ChIJQfOPpxD1wokRwYCHk1YIbaY",
+        "rating": 4.3,
+        "user_ratings_total": 31,
+        "phone_number": "(718) 542-2900"
+    },
+    {
+        "name": "Randall Restaurant",
+        "address": "1328 Randall Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJMeQ3Zwb1wokRAXVVeEED8KM",
+        "rating": 4.3,
+        "user_ratings_total": 627,
+        "phone_number": "(718) 328-0343"
+    },
+    {
+        "name": "JOHNNY'S CAFE",
+        "address": "1232 Randall Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJw7dG4tv1wokRpJ4jxfc0kOM",
+        "rating": 4.7,
+        "user_ratings_total": 61,
+        "phone_number": "(718) 860-2330"
+    },
+    {
+        "name": "RUTA 55 RESTAURANT",
+        "address": "1316 Lafayette Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJM8yeSKL1wokR6rqqXlx4FIs",
+        "rating": 4.5,
+        "user_ratings_total": 148,
+        "phone_number": "(718) 709-3935"
+    },
+    {
+        "name": "Morenita Restaurant Corp",
+        "address": "962 Longwood Ave, Bronx, NY 10459, USA",
+        "place_id": "ChIJRXN8wj71wokRh274mKxOlhY",
+        "rating": 4.8,
+        "user_ratings_total": 5,
+        "phone_number": "(347) 270-0850"
+    },
+    {
+        "name": "Natural Squeeze",
+        "address": "1023 Longwood Ave Apt 1, Bronx, NY 10459, USA",
+        "place_id": "ChIJ3cSsaYf1wokRh2tt2mmtHTk",
+        "rating": 4.8,
+        "user_ratings_total": 153,
+        "phone_number": "(718) 290-2655"
+    },
+    {
+        "name": "Xin Rong",
+        "address": "741 Hunts Point Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJMavNNAf1wokRBcBB1YKdDL0",
+        "rating": 4.2,
+        "user_ratings_total": 91,
+        "phone_number": "(718) 991-2890"
+    },
+    {
+        "name": "Deluncheon Kingdom Kitchen",
+        "address": "601 Hunts Point Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJESJS6nf1wokRJWTCXWIXgvk",
+        "rating": null,
+        "user_ratings_total": null,
+        "phone_number": null
+    },
+    {
+        "name": "The Point CAFE & GRILL",
+        "address": "402 Hunts Point Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJa-aUfA_1wokRMXZGiz3bU-E",
+        "rating": 2.8,
+        "user_ratings_total": 6,
+        "phone_number": "(718) 589-7777"
+    },
+    {
+        "name": "Fratilli's Pizza",
+        "address": "404 Hunts Point Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJ7xJUhgX1wokRzz0vicS9T_o",
+        "rating": 4.3,
+        "user_ratings_total": 742,
+        "phone_number": "(718) 542-7340"
+    },
+    {
+        "name": "Papi’s Cheese steaks And More",
+        "address": "983 Leggett Ave, Bronx, NY 10455, USA",
+        "place_id": "ChIJT33eIwD1wokRzaJksUq3in0",
+        "rating": 4.7,
+        "user_ratings_total": 165,
+        "phone_number": "(929) 462-3519"
+    },
+    {
+        "name": "Hunts Point Chinese Restaurant",
+        "address": "901 Southern Blvd, Bronx, NY 10459, USA",
+        "place_id": "ChIJFX52Eqv1wokRe7o7gpQgwiY",
+        "rating": 4.2,
+        "user_ratings_total": 209,
+        "phone_number": "(718) 378-2055"
+    },
+    {
+        "name": "Florinda Restaurant",
+        "address": "656 Prospect Ave, Bronx, NY 10455, USA",
+        "place_id": "ChIJe-lfSgz1wokRw0DfAH_9dqs",
+        "rating": 4.8,
+        "user_ratings_total": 13,
+        "phone_number": "(347) 833-2150"
+    },
+    {
+        "name": "LA POSADA MEXICANA",
+        "address": "1176 Garrison Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJxToA4v_0wokR7euFDRR2n2k",
+        "rating": 5,
+        "user_ratings_total": 1,
+        "phone_number": null
+    },
+    {
+        "name": "Seis Vecinos",
+        "address": "640 Prospect Ave, Bronx, NY 10455, USA",
+        "place_id": "ChIJb4LjG7r1wokRyAd4TrnrVeQ",
+        "rating": 4.1,
+        "user_ratings_total": 2270,
+        "phone_number": "(718) 684-8604"
+    },
+    {
+        "name": "Hunts Point Deli Corp.",
+        "address": "1331 Seneca Ave, Bronx, NY 10474, USA",
+        "place_id": "ChIJIW1zNgD1wokRjvkf_-iHm3E",
+        "rating": 5,
+        "user_ratings_total": 3,
+        "phone_number": null
+    },
+    {
+        "name": "Mottley Kitchen",
+        "address": "402 E 140th St, Bronx, NY 10454, USA",
+        "place_id": "ChIJqWuyfsP1wokRVGQNznSLGU8",
+        "rating": 4.7,
+        "user_ratings_total": 663,
+        "phone_number": "(929) 308-2099"
+    },
+    {
+        "name": "La Cueva Fonda",
+        "address": "961 Leggett Ave, Bronx, NY 10455, USA",
+        "place_id": "ChIJ0zK5_bD1wokRWzE8uQrJUZU",
+        "rating": 4.5,
+        "user_ratings_total": 332,
+        "phone_number": "(347) 406-5584"
+    },
+    {
+        "name": "Oasis Coffee Shop",
+        "address": "390 Tiffany St, Bronx, NY 10474, USA",
+        "place_id": "ChIJ2b9se6f1wokRUN8kWpFfzN0",
+        "rating": 4.7,
+        "user_ratings_total": 114,
+        "phone_number": "(718) 328-4400"
+    },
+    {
+        "name": "Georgina",
+        "address": "1003 E 163rd St, Bronx, NY 10459, USA",
+        "place_id": "ChIJS9olNKv1wokRi1KO9XvGiJY",
+        "rating": 4.3,
+        "user_ratings_total": 219,
+        "phone_number": "(718) 328-6257"
+    }
+]

@@ -1,0 +1,607 @@
+{
+    "name": "Shangeri-La Restaurant",
+    "place_id": "ChIJr9HJ1FCLwokRCOt5nWYe-PY",
+    "grid": "BX10",
+    "address": "2893 Buhre Ave, Bronx, NY 10461, USA",
+    "rating": 4.3,
+    "user_ratings_total": 1081,
+    "phone_number": "(718) 828-6080",
+    "reviews": [
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCTlIxSXpaVUZRYXpoSGVrWk5jWFp6UVhKRllWRRAB",
+            "text": "excellent"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GRWJtMVhNRkZxUmtoTGEyOW5hbDlvWnpCV2FHYxAB",
+            "text": "Loved it. Amazing sushi!!! Amazing staff. Amazing atmosphere. Reasonable too. Order sushi and kung -pao  chicken and a dessert."
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGM1pHaFNkVXAyVGtSTGJIcFFTVGRzUlRGSlNtYxAB",
+            "text": "No bueno la comida muy mala\nY la atención pésima  feo feo"
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlN3AtbGxBRRAB",
+            "text": "I've been here multiple times; the food and service is consistently excellent. The decor is a nice touch.\n\nThey updated and expanded the restaurant. It looks even better now. There's more dining room space and they have cute decor."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wMGVuSm9VVE5uU1d4a1R6WXdTMVZxTW10RE9XYxAB",
+            "text": "The noodles are springy, the fried rice is aromatic, and the red curry is a delicious, hearty dish. Every item was perfectly prepared and looked amazing. A truly fantastic experience. Highly recommend!\n#GreatFood"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSc1JISnFUVmR0VFRoMlNGYzBZa2xWY0hNek0xRRAB",
+            "text": "Food is delicious, decorations are beautiful. I really like the dragon faces. Staff is very attentive."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GbFUzTkpkR0pYYjBsek1uQmtPV1pMVGtKeVRIYxAB",
+            "text": "Fresh sushi  and the customer service is 10/10 recommend anyone to eat at this location"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVNWRGTm5RVGhyZDFaV1prVmhkM2cwVWxsUVYzYxAB",
+            "text": "Living in the area most of my life & this was my first time!  I took out simple chicken & broccoli. It was definitely delicious!  I was pleasantly surprised to see how nice the restaurant is! The staff is very friendly and sweet. I looked at the fresh sushi bar and was very pleased! Next time, I will dine in and try the sushi and other dishes! A quiet gem in Pelham Bay!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKSVpXRkhaWFZOYkVobWMwbERaWGRTV0hsb1QyYxAB",
+            "text": "The best of the best. The food is always fresh and absolutely delicious. Portion sizes are really big if you’re eating in the restaurant. I love their specialty sushi rolls. If I’m not in the mood for sushi, I always order their chicken and broccoli in garlic sauce. Their brown sugar boba is to die for."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOQmFHVm5WbVJ0ZFhsdVpGWlVSR0ZNY0RGVlFYYxAB",
+            "text": "GREEN CURRY\nALCOHOL!!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNeWJtUkVaVnBUUkhFM1JqSTJSVTlvWW10YVNFRRAB",
+            "text": "Es un lujo de restaurante!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsYVp6SjNhM05WUmt0eVdFcElVbE5ETTJ4Q01HYxAB",
+            "text": "Premium quality food"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGNVNUSk5UWGxwVTBoME9ERndTRFZtYlVvdFRWRRAB",
+            "text": "Been coming here for years. Food is always great and so is the service. They recently remodeled and it’s beautiful!\n.\n.\nI got the shrimp tempura roll, spicy tuna roll, wonton soup and cucumber salad"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pscVJXZzJPRWhLVVhvelNHSldXSEJGY0U1eGIwRRAB",
+            "text": "Came across this restaurant today and I loved it! The restaurants decor is really nice and the food was tasty. The servers were attentive and friendly."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25samRFUlpPSFpKVlVJd1JuVnRUMGN6YURGSVptYxAB",
+            "text": "Food was extremely good. At first it was me and my sister who came but then we went to bring our other sister to come here in the same day. Service was great, very friendly. Very calm setting with calm nice music in the background.  Really recommend 👌"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CemFXTldlbTA1YTJSdmVERjFRbE5FUVVGdFUzYxAB",
+            "text": "decent sushi"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvd2VVcHNNRmh6UTBkNVNGTnNXRTgwWnkxRVlrRRAB",
+            "text": "horrible service, inattentive, rude..food not fresh"
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnLVBqS2VnEAE",
+            "text": "Great local sushi!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oU1RVeEpWV0o0VjE5eWVXNTZSR05NVEdGRWRVRRAB",
+            "text": "Dont bother calling for pick up. They said my food will be ready in 15 mins. 20 mins after calling I stop by. That's the only time they start making my food. Note that the whole restaurant was empty. NowI remember why I dont go here lmao"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSNlFteElPVTV3UkVaelkzRXRUekZxWDA1UFJXYxAB",
+            "text": "We often order delivery from here and the general tso chicken and angel rolls are great. Today when I ordered pickup I realized part of my order was missing when I got home. I was impressed that the restaurant immediately apologized and sent over the missing portion plus some extra sushi after I called. Truly amazing customer service. We will continue being a customer for sure."
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3Ny15RmV3EAE",
+            "text": "Shangerila is my favoroite chinese spot.  Very clean and the food is very tasty.  Orange chicken is my favorite dish."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxcUxYSXdORkJTVFRSSVgyZEZkekkzTms5RGFWRRAB",
+            "text": "great food yummy sushi u won’t be disappointed."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VLSGx0dlhkaThUYU1REAE",
+            "text": "live in the area and was really impressed the first time I visited—the customer service was excellent, truly top-notch. Unfortunately, my second experience didn’t live up to that. I placed a takeout order, and the person who took my order, Jin, was extremely rude.\n\nAt one point, I noticed a table had a sushi dish that looked great, and I simply asked what it was so I could order the same thing. I didn’t know the name of the item, which is why I asked. Jin responded by saying they were too busy to look at the menu. I understand restaurants can get busy, but telling a customer you’re too busy to help—especially when I’m standing right in front of him trying to place an order—is unacceptable.\n\nWhat made it worse is that I was with my 10-year-old daughter and spoke to him with complete respect. I don’t know how he’s used to speaking to the women in his life, but that kind of tone and attitude is completely inappropriate. This was extremely disappointing, and I’m saying this in the most respectful way possible because this type of behavior can truly harm an otherwise great"
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJdC1QMlh3EAE",
+            "text": "Never had a problem there and the staff tries so hard.\nIt's my squads go to place whenever we wanna celebrate something. Or if were just that hungry.\n\nEDIT: new rules means new rating but they seemed to increase price and make the whole eating there portion not feel worth it. Super pricey now"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvamJtbmlnRRAB",
+            "text": "Excellent freshly prepared delicious food served in generous portions.\nBeautiful restaurant, just wish staff was a little more attentive"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJaTZTR1pREAE",
+            "text": "The food and service were great."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJOXVxOGFBEAE",
+            "text": "Honestly “THE BEST” Sushi Location In The Bronx!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJMEpTZEJBEAE",
+            "text": "Love this spot. Can’t wait to visit again."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURROWF1c2xnRRAB",
+            "text": "👍"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRak56aEZBEAE",
+            "text": "Delicious food, service was amazing. Disappointed the bathroom sink had no hot water. I actually rate this 4.5 stars rather than 4. Music was relaxing, overall a great experience\nWould Recommend!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnc3NEYTJRRRAB",
+            "text": "The sushi here is great. I decided to try the drunken noodles and pad se ew and it was unfortunately very disappointing. The noodles aren’t the typical flat thick noodles, these don’t even have enough sauce. The noodles feel dry. But they have a good amount of protein. I expected more but the sushi is still good and the bento box are still good. But I wouldn’t recommend these flat noodles."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfNC1iUjJBRRAB",
+            "text": "My stomach hurts every time I eat Chinese especially this place. I just had two bites of chicken and my stomach is in shambles."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfNUpfaEFREAE",
+            "text": "Possibly the only nice Chinese restaurant in the Bronx. Also has a good selection of sushi. I used to love in the past when they had the all-you-can-eat menu, unfortunately, this stopped during the pandemic."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfajhmTlhREAE",
+            "text": "I been going there for past 10 year the place was amazing went there yesterday the service was horrible I don’t know what happened to the place the severs were like cheat cheating in the corner the place wasn’t even busy at the time I called them twice to get me and my kids some water it took them 20 min to give us some water, we ordered lots of food but the the dirty dishes were next to us the whole time. The food was ok I don’t think we will going there any time soon"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2aGN6Zk9REAE",
+            "text": "Amazing chicken & broccoli"
+        },
+        {
+            "date": "11달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQdnJycUh3EAE",
+            "text": "Maravillosa comida"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQdnRMT2VREAE",
+            "text": "Found a piece of metal sponge in my rice …… y’all need to check that"
+        },
+        {
+            "date": "수정일: 11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzd05HRlFBEAE",
+            "text": "I've been coming here for quite some time. Staff is incredibly friendly and welcoming, food is always excellent. They have great beer bucket deals and a good sake selection...absolutely love this place"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM4ODkyMzVnRRAB",
+            "text": "Love this place!!! Def try the Ninja roll!! And they have free delivery outside of Ubereats or door dash so you save on money there too. The general tso shrimp is good too!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYcU9DWTlnRRAB",
+            "text": "FAV SPOT FOR SUSHI !"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURud1ppVVNnEAE",
+            "text": "Good food\nGood prices\nFresh Sushi\nI love the house special fried rice"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNucmF2RFZREAE",
+            "text": "I was craving Ramen and this was the only one that looked promising. It was good! Legit. Not bad at all. The noodles could have been better quality but it’s okay. I ordered Tonkotsu Ramen: Spicy (but it wasn’t spicy at all) extra Boiled Eggs, extra Pork Belly & extra Noodles. So it brought 4 pieces of each and an extra container of the noodles shown. The pork belly was very good ! I’ll definitely buy again another time."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIaE5uSXlBRRAB",
+            "text": "This is my favorite in the Bronx. Everything is fresh and delicious! The staff is incredibly hospitable. Service is quick and pleasant."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIemJIMFZREAE",
+            "text": "Sushi is always fresh and rolls are beautifully crafted. It's my go-to everytime."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3ai0yYXZ3RRAB",
+            "text": "My family and I Googled a place to dine after the theaters. We found an Asian cuisine to our liking. The restaurant called Shangeri-La is a comfortable heaven with excellent customer service. The way the sushi was prepared was top quality. The ramen was especially delicious. We were also able to customize the ingredients to our orders. In addition, the place has the right feel of a comfortable Asian restaurant, which is organized, neat and friendly. Near the end of our stay, the waiter asked if we wanted dessert. It was tempting, but the food was so delicious that the ramen made us full and satisfied. Thank you Shangeri-La!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3aTdMWUZ3EAE",
+            "text": "I ordered a nice meal I was excited for yesterday. While eating my sushi, I noticed that it was a little too chewy but I ignored and kept eating since I was starving. I ignored the fact that maybe the food was old and sitting out. For the rest of the day the only food I had was shumai that came with my meal and soda crackers at night when I was hungry. The morning after (right now and still ongoing) I was woken up with a huge stomach ache and nauseating symptoms. Knowing the feeling of food poisoning this is most definitely it. I feel very sick as if I need to throw up and these sharp pains that come and go with no breaks. I couldn’t even go back to sleep. I don’t know what exactly in that food caused this but be more sanitary. For a 4.3 star restaurant it’s really shameful for such unsanitary conditions to handle food. NEVER. Again."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3OHVxYlBREAE",
+            "text": "Just really admire the place. The food is always fresh and scrumptious."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3dk9tcEdnEAE",
+            "text": "Best food spot to go to around the area. Also had an amazing time 👍🏻 & excellent service. 😃"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURybk9lTF9RRRAB",
+            "text": "Some of the food was ok, however, one of the guys should at the door when he should be behind the desk. I had the impression he didn’t want patrons to eat and walk out . I think a partition would help them. His actions\nmade the guest feel uncomfortable .\nClearly he was looking at someone that he thought was gonna run out the door, but it ruined the whole atmosphere. Then I paid with a 100 dollar bill\nHe used a tester which was ok but he almost tore the bill Stroking it so hard when all he had to do was stroke it once. Overall, I didn’t like it. I do not think I will return."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyN0lEeldnEAE",
+            "text": "Been coming here for years, great food and service. Also bring your own bottle!! Lol"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURadGNfTjl3RRAB",
+            "text": "First time coming. My son saw this place and requested to eat here. Ordered shrimp tempura rolls, salmon roll and tuna and avocado rolls to go. The food came quickly. The staff is friendly and polite. The food was very good. The sushi was…"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtcXJUcE93EAE",
+            "text": "One of my favorite sushi places for more than one reason. The food tastes great and it is fresh! Hot food is served fresh out of the pan/grill. Service is good. They sit you down quickly and service you readily as well. My criticism on customer service is that sometimes you have to call them to refill your water or for something additional. To have higher quality service they should check in often to see if anything is needed. Another critique I have is for the bubble tea and Thai ice tea . I don't like how it's already pre-made with loads of sugar. They should put the sugar in as per requested. Some people still want to enjoy outside food without compromising their health if they don't have to - ME.\n\nSushi is nice and soft. The sushi isn't super cold. The rice is luke warm and tender (not soggy or overcooked). It is soft and freshly cooked unlike some sushi spots that have hard cold rice - I don't like that.  The meat in the sushi is plenty and very tasty. Great quality sushi 🍣. There are plenty vegan options as well. Steamed veggies, noodle soups, vegan sushi choices etc.\n\nUpdate: desserts are also very delicious. I had the chocolate mousse cake - it is very soft - has a velvet texture, decadent in flavor - not too sugary, but sweet enough, very creamy and chocolatey.  I also had the green tea cheesecake. It has a dense firm texture. The cheesecake taste like green tea, it is a light flavor but sweet to taste, not too overwhelming sweet, just right. It comes top with a green tea flavored syrup that is a neatly swirled on top , makes for a nice decor with a sweet touch. They also have Asian desserts that I did not try yet.\n\nBathrooms and tables are clean.\n\nI highly recommend restaurant.  👍🏾"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpMnJiejh3RRAB",
+            "text": "I really enjoyed the food here. It was outdoor seating because of the Pandemic. Didn't enjoy the busy roads though. Another thing i didn't enjoy was that there were other customers talking in vulgar language unaware my kids were present.…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1NGF5RFlBEAE",
+            "text": "Great spot for lunch. So much better than your traditional Chinese food place. The menu is extensive but easy to navigate. They have lunch specials and larger dinner combos as well as sushi and Thai food.\n\nAll the dishes I've had so far, I could recommend. The Mongolian beef is loaded with flavorful tender beef as well as crispy veggies. The mango basil chicken is sweet and herby, and the chicken is extra tender. The fried flounder is crispy but juicy and has a great fish flavor. The pork fried rice is true fried rice and not too strong. The wonton soup is my favorite. Fresh wonton in a flavor broth. The wonton remind me of dim sum style.\n\nI'll make photo updates to my review the more I eat here!"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURrejkzYlRBEAE",
+            "text": "If you love sushi 🍣 this is a good restaurant especially their all you can eat deal. I will return again.\n\nUPDATE: The food is delicious as always, I've returned a few times, I'm always left satisfied and full. Their Plum wine is amazing and has just the right kick to it. I will say that their hours of operation should be adjusted since it says they're open until 10:00P, yet a few guests were turned away around/after 9:00P. Maybe there should be a sign that says dining ends at 9:00P but take out is available until closing (or until 9:45P). Overall, it's a decent restaurant."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPdFBQUy13RRAB",
+            "text": "My respects to the fusion of excellent flavors. As I looked at the menu I could already tell this place is special. From cocktails, appetizers main dishes, ambience and quality The Bronx adds another hidden gem to an already amazing Asian Fusion and Sushi greatness of the Borough. Great job to the owners and staff. Spicy Crispy Chicken and Saketinis can't go wrong. Recommend 💯%."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBaHEzN0RBEAE",
+            "text": "The all you can eat was worth it. The food here was delicious and the staff was attentive enough (just ring the bell when you want them). When I arrived, it was not crowded and parking is easy enough to find.…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhMDRpWUdBEAE",
+            "text": "My go-to spot for good sushi! So many different options and great portions at good prices! I'm always bringing family and friends here because the staff are very polite and attentive and you get your money's worth. See for yourself!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURzMUktVWNBEAE",
+            "text": "Lets start with saying that my Wife and I have found our new sushi place!!! Best sushi I've had in NYC (with over 20yrs eating sushi here js). Waiters are super attentive and ours today was one of the friendliest and most genuinely kind waiters Ive ever have. Super clean, super quick food to your table after you order, music in the background was new and went with the modern venue. The meal was literally $60 for 2 people (we couldnt eat anymore at the end!! Lol) and I couldnt be happier with the entire experience altogether. Will always come here for my sushi (and more)!! Thank you guys!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNOajlTTElREAE",
+            "text": "always a great experience here!! both dine in and takeout the food is always piping hot and delicious. there are so many vegetarian options, the green thai curry with tofu is my absolute favorite thing on the menu, and the serving is extremely generous. my boyfriend loves the tonkatsu ramen as well! we also got the scallion pancakes which were yummy and crispy, and the sweet potato tempura roll which were a bit too soft, but still really good overall! will definitely return here again:)"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURabmFLTlpREAE",
+            "text": "Awesome All the way around! Have eaten here 6 times now and had take out twice. Quality ALWAYS in point and the Stagf"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSUNzeHZOZxAB",
+            "text": "This is a good place to come and enjoy some really good food. Had pork buns (2) and a honeydew iced green tea. The pork buns were really good, but expected a little for the tea. The color looked as if it was an energy drink."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNvdWJiZzhnRRAB",
+            "text": "This place is great! However, they can be somewhat rude. Food is great and just make sure you save yourself enough time for all you can eat. It's worth the price. Would be 5 stars if the bathroom was a little bigger..."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXbDlqQ2ZnEAE",
+            "text": "First and foremost, I’ve been coming here for about 10 years now! I love this place, but during this visit I was somewhat disappointed! I usually get the tonkatsu ramen but opted to try the seafood ramen. It was a huge disappointment! It came with shrimp, imitation crab, bamboo shoots, and nori! The ramen was bland and the noodles tasted as if they were pre-cooked! I also ordered ikura, which was quite good! My significant other ordered chicken fried rice which also lacked flavor! I’m happy to have Asian cuisine in the Bronx, but this was a disappointment! The customer service was great, our server insured to take care of us! The food needs a little more love! I hope to see some improvements, as this won’t be my last time visiting!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4c283eVdnEAE",
+            "text": "This place is awesome and when I say awesome I am talking about the taste, the quality, and the service. Your food is brought to you in not more than 15 mins and same goes for the take out. Before COVID they had a good buffet system I wish that came back. Seems underated, but the general TSO chicken with fried rice, sesame shrimp with white rice, wonton egg drop soup, Singapore noodles are some of the killers in this restaurant apart from their sushi menu. Parking is an issue, but if you wait for a while you'll find some street parking. Please do try and enjoy the food and service."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURWXzd2Uk5nEAE",
+            "text": "The food was delicious 😋. I enjoyed eating the crab salad and sushi 🍣.the total was 100$ including the tip."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDeDVfWWF3EAE",
+            "text": "The food was delicious and the ambiance was fitting. I enjoyed a meal with my family during the first stages of indoor dining due to covid 19. The  all you can eat was not available at the time. I highly recommend you trying this place."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3MHNMYTNRRRAB",
+            "text": "Must try the Chicken Pad Thai, delish! This place is amazing! By far the largest selection of Asian food in one place in the Bronx. On the menu: traditional Chinese dishes, Pad Thai, kimchi, sushi, ramen, the list goes on! Very affordable…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5OXN5UXJBRRAB",
+            "text": "Had a great time here. Service was great and food came quickly considering my party of four ordered alot. Great portion sizes for really good prices and alot of options for variety with sushi rolls. Would definitely recommend their 5 rolls…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCalpPT013EAE",
+            "text": "We have dined here for lunch twice this month.  Both times the food was excellent.  We ordered from the lunch menu which is a very good deal.  We had kung  pao chicken, sashimi, sushi combo, and eggplant with garlic sauce.   Lunch specials are accompanied by miso soup and/or salad.  The bento boxes offer both.  An excellent pot of fragrant jasmine tea paired well with the food.  We also tried the scallion pancake - yummy. The salad dressing is authentically delicious.  Service is efficient and well paced.  We will be back.  I only took a pic of the sushi lunch."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtczRyS2JBEAE",
+            "text": "Went for dinner, Thursday around 6:00. There were people but we found a booth. Had the General Tso's chicken and an order of California rolls. Generous portions."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwcy1yZUJBEAE",
+            "text": "Finding an insect in your food has got to be one of the worst things for a customer to experience! I am sharing this because it is absolutely disgusting and there is no excuse for it when you’re serving food. Ew ew ew NEVER AGAIN!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM0eWVYQzZBRRAB",
+            "text": "Overall, we had a great experience. The sushi, sushi rolls, and sashimi were surprisingly good. The bubble tea was basically syrup, I would not recommend trying their bubble tea. The Tuna Tartare and Salmon Tartare was terrible, did not tasted like tuna or salmon. The all you can eat is a great option for the price."
+        },
+        {
+            "date": "수정일: 7년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnMnBPejV3RRAB",
+            "text": "Place is really nice.  The food is really good.  I can only give this place 3 out of 5 stars because\nI went with a party of 4.  2 of us wanted all you can eat.  2 wanted to eat from the menu.   The 2 that wanted to eat from the menu do not eat sushi. We were originally seated in a booth.   After they learned of our eating choices, our choices were to all eat from the regular menu or all eat from the all you can eat menu.  That was not satisfactory to me.  I wanted to speak to the manager but she would not speak to me directly and would only speak to me via the server.  The conclusion to this is that we sat at 2 separate tables that were next to each other.\nThe server was very nice and apologetic. If the manger had taken the time to speak to me directly I would have given this place 4 stars."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnNmFPUlZREAE",
+            "text": "Before the pandemic I used to come here for their unlimited sushi. This option is still available but not at a bargain price.\n\nToday I came for lunch and was pleasantly surprised over their large portions for entrees like Orange chicken, Chicken teriyaki, and Pad Thai. The food was delicious and the service was great."
+        },
+        {
+            "date": "수정일: 6년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnemJQOVl3EAE",
+            "text": "Two years ago I gave this restaurant 5 stars for their $21 dollars all you can eat per person which included sushi which was the high light but the hot food was always belowe average. My recent visits was very disappointing with food…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxaV9UWnNBRRAB",
+            "text": "It's a very beautiful and very clean restaurant with beautiful asian music: very pleasant atmosphere, the employees are very respectful, very patient and with a good attitude with adults and children; they are very attentive. There is a plate or food that have the Naturo name like the anime and also street name like Pelham Bay. They will serve you, the delicious food that you ordered it, in a beautiful giant plate with a giant portion of food enough for two adults. My complement to the chef(s).  We were two adults and four children and I thought that my bill was going to be like $200 dollar or more and for my surprised my bill was almost $100.00. Great atmosphere, very clean restaurant, near shopping stores, supermarkets, buses, train, parks,;delicious food, great prices... What more can you ask for it?   Oh almost forgot it used to be a buffer in the past. Can wait to go back there with my family again. 🥰😍💖♥️❤️💖♥️❤️💖 I Love the creative looks or art and taste of the salad that i ordered!!!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURxNzdQbldnEAE",
+            "text": "Excellent service! This place gives first-rate service and delicious food. One of my favourite restaurant in the Bronx. The meals came out rapidly and the rates are affordable. Highly recommended."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5Nzg2REFREAE",
+            "text": "Excellent service as always. Magnificent fresh food. The $25 all you can eat is no longer available but they still have a very inexpensive menu."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtM29yaVZBEAE",
+            "text": "Unclean food. Spent hundreds of dollars here as I’ve frequented this restaurant with my partner. Thousands of people die from food related illness every year, this is a 18$ meal, fyi. The quality of this establishment has dipped down…"
+        },
+        {
+            "date": "수정일: 5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNcGUzV1RREAE",
+            "text": "I adore this place!!The all you can eat is amazing! They bring all the sushi out on a big huge Boat. Its super presentable!  so appetizing! The kids prices vary depending on their height, it is so funny they measure them lol They have really good service! I love this place and my kid loves it. My family has come and we just keep going back because it is unlimited all you can eat food for a set price that ranges from 25 dollars to 30. The price is so amazing for that amount of food per person. WARNING: if you are not a big eater do not bother. You need to have a bottomless stomach! HAHA. the bathroom is clean and the ambient is nice, oh heck who cares after you see your food arrive on the huge boat! they bring out the boat, when it's like three or four people. I loved it, I want to go back. I wish I had a picture to upload but I will update with a picture next time I go."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURvcDhHVkN3EAE",
+            "text": "Whenever you go to a restaurant, you have high expectations for great customer service. However, after visiting Shangerila, the attending staff pay little to NO mind to customers and their needs. We literally had to ask for utensils.\n\nUnderstand that I've been coming here for the last three years and if this place is under new management, it sucks.\n\nBEAR IN MIND that you are no longer allowed to share a table with someone who would prefer to do the All-you-can-eat Menu rather than the regular menu. That means if someone at your table wants to do an all you can eat, everyone else also has to do an all you can eat. This is entirely NEW.\n\nWhen I asked the manager to bring another regular menu since no one did the sushi buffet, he rudely walked away and did not bother to return.\n\nLastly, if you decide to sit at a booth, both you and your neighbor behind you will have a rocky and uncomfortable. Trust me, you'll know what I mean when and if you go. Other than that, food is a 3/5."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM2dklDSU1BEAE",
+            "text": "Love their food, been a loyal customer since the last three years. Happy that such a good sushi place exists in the Bx. Sometimes the Tso chicken is sweeter than usual, I hope for a consistent flavor."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHN0xYYzNnRRAB",
+            "text": "A bit pricey but was totally worth it! The california roll that’s included in the bento box is so good! Korean beef js tasty as well! Good portions especially the curry!"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRN3J2Tm5RRRAB",
+            "text": "Best place In the Bronx for all you can eat sushi. Good food friendly staff, cozy restaurant."
+        }
+    ],
+    "reviews_count": 85
+}

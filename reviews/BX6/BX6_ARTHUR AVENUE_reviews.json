@@ -1,0 +1,33 @@
+{
+    "name": "ARTHUR AVENUE",
+    "place_id": "ChIJPTJ-zIb0wokRCT3sIrwKaEY",
+    "grid": "BX6",
+    "address": "E 187th St, Bronx, NY 14058, USA",
+    "rating": 4.7,
+    "user_ratings_total": 11,
+    "phone_number": "(844) 693-6844",
+    "reviews": [
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNicTdYWjh3RRAB",
+            "text": "Best chill out spot for me everyone is family here and great handball games all around"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4cWIzaXJRRRAB",
+            "text": "Arthur Ave has everything.\nI called Bronx Uptown/downtown on the weekends"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNjNWNESVlnEAE",
+            "text": "My daughter and I took a walk  down to Hughes and Author Aves to reminisce and shop for fresh baked breads and eat. But was a rainy day."
+        }
+    ],
+    "reviews_count": 3
+}

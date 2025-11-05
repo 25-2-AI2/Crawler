@@ -1,0 +1,19 @@
+{
+    "name": "Hunts Point Deli Corp.",
+    "place_id": "ChIJIW1zNgD1wokRjvkf_-iHm3E",
+    "grid": "BX2",
+    "address": "1331 Seneca Ave, Bronx, NY 10474, USA",
+    "rating": 5,
+    "user_ratings_total": 3,
+    "phone_number": null,
+    "reviews": [
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnMzdLZkdREAE",
+            "text": "Dang good bacon egg and cheese. Good price too! Friendly people."
+        }
+    ],
+    "reviews_count": 1
+}

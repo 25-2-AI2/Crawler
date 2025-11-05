@@ -1,0 +1,402 @@
+[
+    {
+        "name": "City Island Lobster House",
+        "address": "691 Bridge St, Bronx, NY 10464, USA",
+        "place_id": "ChIJZ1ACO2OMwokRCBSCJTf9140",
+        "rating": 4.5,
+        "user_ratings_total": 5506,
+        "phone_number": "(718) 885-1459"
+    },
+    {
+        "name": "Sea Shore Restaurant",
+        "address": "591 City Island Ave, Bronx, NY 10464, USA",
+        "place_id": "ChIJEYbUenyMwokRwlydycwoZJw",
+        "rating": 4.3,
+        "user_ratings_total": 3702,
+        "phone_number": "(718) 885-0300"
+    },
+    {
+        "name": "The Original Crab Shanty",
+        "address": "361 City Island Ave, Bronx, NY 10464, USA",
+        "place_id": "ChIJg-5OF3mMwokRLWcz9lsaWNo",
+        "rating": 4.3,
+        "user_ratings_total": 4682,
+        "phone_number": "(718) 885-1810"
+    },
+    {
+        "name": "Vistamar Restaurant & Lounge",
+        "address": "565 City Island Ave, Bronx, NY 10464, USA",
+        "place_id": "ChIJW7aDKX2MwokR12TIBtjJsos",
+        "rating": 4.8,
+        "user_ratings_total": 9085,
+        "phone_number": "(718) 709-0888"
+    },
+    {
+        "name": "Tony's Pier",
+        "address": "1 City Island Ave, Bronx, NY 10464, USA",
+        "place_id": "ChIJBdUigIWLwokRJvFIxrTgr8s",
+        "rating": 4.3,
+        "user_ratings_total": 5959,
+        "phone_number": "(718) 885-1424"
+    },
+    {
+        "name": "Sammy's Fish Box",
+        "address": "41 City Island Ave, Bronx, NY 10464, USA",
+        "place_id": "ChIJoa_X8oWLwokR93LqwUaPSNA",
+        "rating": 4.3,
+        "user_ratings_total": 10561,
+        "phone_number": "(718) 885-0920"
+    },
+    {
+        "name": "ATIK Restaurant",
+        "address": "555 City Island Ave, Bronx, NY 10464, USA",
+        "place_id": "ChIJMxmDinyMwokRFJg-Ufanajk",
+        "rating": 4.7,
+        "user_ratings_total": 1055,
+        "phone_number": "(646) 375-3133"
+    },
+    {
+        "name": "The Black Whale",
+        "address": "279 City Island Ave, Bronx, NY 10464, USA",
+        "place_id": "ChIJHWzmi3iMwokRirDTbEIhX-8",
+        "rating": 4.6,
+        "user_ratings_total": 500,
+        "phone_number": "(718) 885-3657"
+    },
+    {
+        "name": "Johnny's Reef",
+        "address": "2 City Island Ave, Bronx, NY 10464, USA",
+        "place_id": "ChIJh4kgf4-LwokRNpMUb_r4n70",
+        "rating": 4.4,
+        "user_ratings_total": 9317,
+        "phone_number": "(718) 885-2086"
+    },
+    {
+        "name": "Seafood City",
+        "address": "459 City Island Ave, Bronx, NY 10464, USA",
+        "place_id": "ChIJl0Bg93uMwokRaYD9gXNnzGs",
+        "rating": 4.2,
+        "user_ratings_total": 7700,
+        "phone_number": "(718) 885-3600"
+    },
+    {
+        "name": "Scavello's On The Island",
+        "address": "101 City Island Ave, Bronx, NY 10464, USA",
+        "place_id": "ChIJKfjwEoaLwokRNUNkhoXlvZ4",
+        "rating": 4.5,
+        "user_ratings_total": 506,
+        "phone_number": "(718) 885-2570"
+    },
+    {
+        "name": "Little Greece",
+        "address": "327 City Island Ave, Bronx, NY 10464, USA",
+        "place_id": "ChIJe5fbIDeNwokRrgnxCsfM0Nw",
+        "rating": 4.9,
+        "user_ratings_total": 115,
+        "phone_number": "(718) 310-6030"
+    },
+    {
+        "name": "Archie's Tap & Table",
+        "address": "536 City Island Ave, Bronx, NY 10464, USA",
+        "place_id": "ChIJJfxUfHyMwokRToPYbGARuXY",
+        "rating": 4.6,
+        "user_ratings_total": 214,
+        "phone_number": "(718) 885-9229"
+    },
+    {
+        "name": "Little Frida's Eatery",
+        "address": "415 City Island Ave, Bronx, NY 10464, USA",
+        "place_id": "ChIJB8WUiPGNwokRbJvT1h4t2Kc",
+        "rating": 4.9,
+        "user_ratings_total": 78,
+        "phone_number": "(718) 885-9656"
+    },
+    {
+        "name": "City Island Pizza Company",
+        "address": "273 City Island Ave, Bronx, NY 10464, USA",
+        "place_id": "ChIJg6fo4giNwokRpzVy1dSgTn8",
+        "rating": 4.8,
+        "user_ratings_total": 73,
+        "phone_number": "(718) 210-1970"
+    },
+    {
+        "name": "JP's",
+        "address": "703 Minnieford Ave, Bronx, NY 10464, USA",
+        "place_id": "ChIJ6WkcE2OMwokRQWEfgUGaGc8",
+        "rating": 4.3,
+        "user_ratings_total": 1479,
+        "phone_number": "(718) 885-3364"
+    },
+    {
+        "name": "The Snug",
+        "address": "302 City Island Ave, Bronx, NY 10464, USA",
+        "place_id": "ChIJJ4SZ93iMwokRViE-z3Sf3qM",
+        "rating": 4.6,
+        "user_ratings_total": 111,
+        "phone_number": "(718) 885-9559"
+    },
+    {
+        "name": "Sammy's Shrimp Box",
+        "address": "64 City Island Ave, Bronx, NY 10464, USA",
+        "place_id": "ChIJp7Ea-IWLwokRgd6s0WeMg9I",
+        "rating": 4.2,
+        "user_ratings_total": 3326,
+        "phone_number": "(718) 885-3200"
+    },
+    {
+        "name": "Fella's Bar & Grill",
+        "address": "522 City Island Ave, Bronx, NY 10464, USA",
+        "place_id": "ChIJlwHRoSCNwokRZ_8nihFoKBI",
+        "rating": 4.6,
+        "user_ratings_total": 55,
+        "phone_number": "(718) 885-9898"
+    },
+    {
+        "name": "Seafood Kingz 2 Inc",
+        "address": "634 City Island Ave, Bronx, NY 10464, USA",
+        "place_id": "ChIJB3i5ONeNwokR4Y9os9_gEo4",
+        "rating": 4,
+        "user_ratings_total": 344,
+        "phone_number": "(718) 975-7447"
+    },
+    {
+        "name": "City Island Diner",
+        "address": "304 City Island Ave, Bronx, NY 10464, USA",
+        "place_id": "ChIJW72Xf4eLwokRT5TCvFeOsK4",
+        "rating": 4.4,
+        "user_ratings_total": 474,
+        "phone_number": "(718) 885-0362"
+    },
+    {
+        "name": "Clipper Coffee",
+        "address": "274 City Island Ave, Bronx, NY 10464, USA",
+        "place_id": "ChIJKxuOUaSNwokR5tnXxQnrJ74",
+        "rating": 4.9,
+        "user_ratings_total": 185,
+        "phone_number": "(718) 744-0057"
+    },
+    {
+        "name": "Made in Puerto Rico Latin Cuisine Bronx NY",
+        "address": "3363 E Tremont Ave, Bronx, NY 10461, USA",
+        "place_id": "ChIJHaVzNEaLwokRQB_-jwrkW2E",
+        "rating": 4.3,
+        "user_ratings_total": 3141,
+        "phone_number": "(718) 684-1309"
+    },
+    {
+        "name": "City Island Chinese Restaurant",
+        "address": "84-86 City Island Ave, Bronx, NY 10464, USA",
+        "place_id": "ChIJpZB_B4aLwokRPv7vDm55Dqg",
+        "rating": 4.1,
+        "user_ratings_total": 116,
+        "phone_number": "(718) 885-3775"
+    },
+    {
+        "name": "Havana Café",
+        "address": "3151 E Tremont Ave, Bronx, NY 10461, USA",
+        "place_id": "ChIJYdXIy06LwokRIPXgdWwsd-8",
+        "rating": 4.4,
+        "user_ratings_total": 3538,
+        "phone_number": "(718) 518-1800"
+    },
+    {
+        "name": "Ohana Japanese Hibachi Seafood & Steakhouse",
+        "address": "500 City Island Ave, Bronx, NY 10464, USA",
+        "place_id": "ChIJ54uOdXyMwokR948-416QT80",
+        "rating": 4.2,
+        "user_ratings_total": 1547,
+        "phone_number": "(718) 885-0700"
+    },
+    {
+        "name": "Tipsy Bar & Lounge",
+        "address": "414 City Island Ave, Bronx, NY 10464, USA",
+        "place_id": "ChIJsbW_Ga-NwokRAT4Pr8uaQyk",
+        "rating": 4.8,
+        "user_ratings_total": 49,
+        "phone_number": "(347) 202-4605"
+    },
+    {
+        "name": "Cap't Loui Whitestone Bronx",
+        "address": "815 Hutchinson Riv Pkwy, Bronx, NY 10465, USA",
+        "place_id": "ChIJ1TGoLb6LwokRbu9C63RQ6yU",
+        "rating": 4.7,
+        "user_ratings_total": 549,
+        "phone_number": "(347) 293-6871"
+    },
+    {
+        "name": "2 PaiZan’s Pizzeria Cucina",
+        "address": "250 City Island Ave, Bronx, NY 10464, USA",
+        "place_id": "ChIJVT2KbgCNwokRr_YnlOlbyV8",
+        "rating": 4.8,
+        "user_ratings_total": 33,
+        "phone_number": "(718) 885-0919"
+    },
+    {
+        "name": "Ray's Café & Restaurant",
+        "address": "205 City Island Ave, Bronx, NY 10464, USA",
+        "place_id": "ChIJrwc7ooeLwokRy6RcbxtXA6M",
+        "rating": 4.4,
+        "user_ratings_total": 88,
+        "phone_number": "(347) 346-9119"
+    },
+    {
+        "name": "Kafja E Madhe",
+        "address": "3221 Westchester Ave, Bronx, NY 10461, USA",
+        "place_id": "ChIJ8RwQPYWNwokRasqx5xITuvs",
+        "rating": 4.8,
+        "user_ratings_total": 31,
+        "phone_number": null
+    },
+    {
+        "name": "Orrico's Italian Restaurant",
+        "address": "3019 Westchester Ave, Bronx, NY 10461, USA",
+        "place_id": "ChIJsX6yEXiLwokRKUW404YWmw4",
+        "rating": 4.6,
+        "user_ratings_total": 273,
+        "phone_number": "(718) 892-8282"
+    },
+    {
+        "name": "Pelham Bay Park",
+        "address": "Middletown Road & Stadium, Avenue, Bronx, NY 10465, USA",
+        "place_id": "ChIJ0yDZfqCMwokR4_gc794XRHA",
+        "rating": 4.5,
+        "user_ratings_total": 10055,
+        "phone_number": "(718) 430-1891"
+    },
+    {
+        "name": "Da Franco & Tony Ristorante",
+        "address": "2815 Middletown Rd, Bronx, NY 10461, USA",
+        "place_id": "ChIJ7WHfHVKLwokRGB9Q__vhY18",
+        "rating": 4.7,
+        "user_ratings_total": 403,
+        "phone_number": "(718) 684-2815"
+    },
+    {
+        "name": "The Sea Fire Grill Westchester",
+        "address": "71 Water Grant St, Yonkers, NY 10701, USA",
+        "place_id": "ChIJnRABzvvzwokRVtiLIzqEDrc",
+        "rating": 5,
+        "user_ratings_total": 40,
+        "phone_number": "(914) 614-4369"
+    },
+    {
+        "name": "Sangria Cafe",
+        "address": "2085 Bartow Ave, Bronx, NY 10475, USA",
+        "place_id": "ChIJyQ2iW7iMwokRnvvOyuCywv8",
+        "rating": 4.1,
+        "user_ratings_total": 1662,
+        "phone_number": "(347) 843-6486"
+    },
+    {
+        "name": "Agua É Coco Bar & Grill",
+        "address": "3132 E Tremont Ave, Bronx, NY 10461, USA",
+        "place_id": "ChIJ36DwDzmLwokRVvhMy4t0N4I",
+        "rating": 4.4,
+        "user_ratings_total": 411,
+        "phone_number": "(347) 293-4604"
+    },
+    {
+        "name": "City Island Yacht Club",
+        "address": "63 Pilot St, Bronx, NY 10464, USA",
+        "place_id": "ChIJ26GDg4aLwokRnu8VKLOVM4w",
+        "rating": 4.6,
+        "user_ratings_total": 113,
+        "phone_number": "(718) 885-2487"
+    },
+    {
+        "name": "Hudson Garden Grill",
+        "address": "2900 Southern Blvd, Bronx, NY 10458, USA",
+        "place_id": "ChIJPWq5XnzzwokRAO4-vaQKngg",
+        "rating": 4.2,
+        "user_ratings_total": 675,
+        "phone_number": "(347) 919-5241"
+    },
+    {
+        "name": "Caridad & Louie's Restaurant",
+        "address": "1660 E Gun Hill Rd, Bronx, NY 10469, USA",
+        "place_id": "ChIJYcaIt7OMwokRQk57RsOw5ys",
+        "rating": 4.2,
+        "user_ratings_total": 2930,
+        "phone_number": "(718) 862-3939"
+    },
+    {
+        "name": "Shangeri-La Restaurant",
+        "address": "2893 Buhre Ave, Bronx, NY 10461, USA",
+        "place_id": "ChIJr9HJ1FCLwokRCOt5nWYe-PY",
+        "rating": 4.3,
+        "user_ratings_total": 1081,
+        "phone_number": "(718) 828-6080"
+    },
+    {
+        "name": "Crab Du Jour Cajun Seafood & Bar",
+        "address": "810 Pelham Pkwy, Pelham, NY 10803, USA",
+        "place_id": "ChIJVQjAbaGNwokRrBkhRhB3goM",
+        "rating": 4.2,
+        "user_ratings_total": 565,
+        "phone_number": "(914) 488-6448"
+    },
+    {
+        "name": "Sea Breeze Deli Corp",
+        "address": "325 City Island Ave, Bronx, NY 10464, USA",
+        "place_id": "ChIJOza-aM6NwokRf-hgSa1G7sY",
+        "rating": 4.6,
+        "user_ratings_total": 51,
+        "phone_number": "(718) 885-1263"
+    },
+    {
+        "name": "Leno's Clam Bar",
+        "address": "755 Pelham Rd, New Rochelle, NY 10805, USA",
+        "place_id": "ChIJ_QeOmquNwokR7AeUIEISYKY",
+        "rating": 4.4,
+        "user_ratings_total": 416,
+        "phone_number": null
+    },
+    {
+        "name": "Augie's City Island Deli",
+        "address": "520 City Island Ave, Bronx, NY 10464, USA",
+        "place_id": "ChIJm0SBd3yMwokR70Na7Maq3BE",
+        "rating": 4.3,
+        "user_ratings_total": 190,
+        "phone_number": "(718) 885-1083"
+    },
+    {
+        "name": "The Alley Pizza Lounge",
+        "address": "3209 Westchester Ave, Bronx, NY 10461, USA",
+        "place_id": "ChIJ-ShwTIKNwokRkbDJUOFtUEI",
+        "rating": 4.9,
+        "user_ratings_total": 81,
+        "phone_number": "(718) 239-2000"
+    },
+    {
+        "name": "Zero Otto Nove",
+        "address": "2357 Arthur Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJ4aiyUYf0wokRl3irR6IrNfM",
+        "rating": 4.5,
+        "user_ratings_total": 1496,
+        "phone_number": "(718) 220-1027"
+    },
+    {
+        "name": "Mamajuana Cafe The Bronx",
+        "address": "3233 E Tremont Ave, Bronx, NY 10461, USA",
+        "place_id": "ChIJj2SE5kiLwokRT-HE6Gqn1TI",
+        "rating": 3.9,
+        "user_ratings_total": 1655,
+        "phone_number": "(718) 824-8400"
+    },
+    {
+        "name": "Corazon Latino",
+        "address": "1841 Hobart Ave, Bronx, NY 10461, USA",
+        "place_id": "ChIJ8ZAxFVeLwokRYsCp2_G0hk4",
+        "rating": 4.2,
+        "user_ratings_total": 433,
+        "phone_number": "(718) 684-1860"
+    },
+    {
+        "name": "Red Lobster",
+        "address": "2090 Bartow Ave BAY PLAZA SHOPPING CENTER, Bronx, NY 10475, USA",
+        "place_id": "ChIJsX0Z-7iMwokRMHlruP2Ileo",
+        "rating": 3.9,
+        "user_ratings_total": 3515,
+        "phone_number": "(718) 671-4223"
+    }
+]

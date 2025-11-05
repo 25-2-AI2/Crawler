@@ -1,0 +1,68 @@
+{
+    "name": "YUMMY Cafe & Grill",
+    "place_id": "ChIJc3DQPbf1wokRu06QbB6dGfk",
+    "grid": "BX4",
+    "address": "1130 Grand Concourse, Bronx, NY 10456, USA",
+    "rating": 4.8,
+    "user_ratings_total": 11,
+    "phone_number": "(914) 343-9253",
+    "reviews": [
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WSFZUbFZWVkZIVEVvMmNGWm5hSGxKVkdWVlEzYxAB",
+            "text": "Very delicious food always get the quesadillas, grilled cheese, philly cheese steaks and still trying different \"yummy\" foods"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GWVdXdGZUR3gyWVU4eFUyRkxRUzFKZWpaQ1gwRRAB",
+            "text": "I normally get breakfast. The wait is not long. Food is fresh and there's plenty of options."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3NFlYR0JBEAE",
+            "text": "I come here every morning before work and sometimes for lunch. Very friendly people's and their food is always on point."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aeWVuRndSbFUwVldoV2RDMTJiRVZYZURsQ1VVRRAB",
+            "text": "Great food truck, reliable and cheap."
+        },
+        {
+            "date": "7달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURROElPaUhnEAE",
+            "text": "La atención muy buena, la comida siempre fresca y de calidad 🍔🍩🌮"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnNzhfTXpRRRAB",
+            "text": "The food is so fresh compared to local boedega"
+        },
+        {
+            "date": "7달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJME9QRzN3RRAB",
+            "text": "Muy buena comida y fresca"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRbWNfdF9nRRAB",
+            "text": "Good food and quick"
+        }
+    ],
+    "reviews_count": 8
+}

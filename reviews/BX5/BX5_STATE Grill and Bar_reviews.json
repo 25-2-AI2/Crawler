@@ -1,0 +1,572 @@
+{
+    "name": "STATE Grill and Bar",
+    "place_id": "ChIJnamuralZwokRgonYXbtLjdA",
+    "grid": "BX5",
+    "address": "21 W 33rd St, New York, NY 10118, USA",
+    "rating": 4.5,
+    "user_ratings_total": 556,
+    "phone_number": "(212) 216-9693",
+    "reviews": [
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poT1VGQkpSbEpsVjNjd05UbHNjR1pFWWpONGFYYxAB",
+            "text": "We made advanced reservations for a group of 48 people from Michigan while touring NYC. This restaurant was a nice find. The food was delicious and was very well presented. I had spare ribs, and a vanilla dessert with a special cookie they made. They put us in a downstairs room which allowed for a quieter, intimate setting and everyone had a good time visiting."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkVU56SjZkMDlwY0hWdGVrNWZOa1ozYTJoSlUzYxAB",
+            "text": "one of my favourite places"
+        },
+        {
+            "date": "1달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kbVgxWkhTRXd0ZUhnd2NGcEthRFEyV0dkb2NsRRAB",
+            "text": "Ich kan es auf jeden fall weiter empfehlen sher sehr gut 👍"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsWVNIWjRkVmQzZVdaNmVYQlJOVzlTY0hkS1NYYxAB",
+            "text": "Everything about this place deserves five stars. The food was absolutely delicious, and the ambiance struck the perfect balance, warm and polished without ever feeling pretentious. But what truly set this experience apart was the customer service. Every staff member upheld such a high standard of care, and our waiter in particular stood out as an expert. He guided us through the menu and drinks with thoughtful insight, knew exactly when to step back and when to step in, and carried it all with a refined sense of humor that elevated the entire evening."
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCR2RrWnJWRTE2U0RNNFR6Y3pkelIzVVZWSU5FRRAB",
+            "text": "Geltilissimi, cordiali e cibo buonissimo"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOc2ExOU9VamxUZWkxWlJXdzVTVVZ1YUdWR1gyYxAB",
+            "text": "Best food ever"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsUlZtcHNNR2RtYUZCS1RVWlpaVmN0TVZkaGVVRRAB",
+            "text": "The atmosphere was great. The food was delicious, and the wait staff was amazing. I would definitely recommend.  Went on the a date and the wait staff was so attentive. The food had great flavor and came out in a timely fashion."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKSmJqQnNlVzFKTnpKeFR6bEVOR1ppZWxkTk5uYxAB",
+            "text": "Fine dining in the heart of NYC. Not to mention the thrill of dining inside the Empire State Building. Every dish is executed to perfection and exquisite. A unique and unforgettable experience."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkTFEybFdiM0pDU21oS1J6Um9WRWRIYURsbVQwRRAB",
+            "text": "Food was amazing and service impeccable I will return again"
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWVVZsQkZjVmhSWldGc1lrVmhVVVJ1WVVacWNIYxAB",
+            "text": "Excelente lugar, la atencion y/o servicio es maravillosa, la comida es muy americana por lo tanto muy buena, sus espacios son muy amplios y agradables."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wSU5IUlFRMEppVGw5cFZUZHdNMmRWUzBWb1duYxAB",
+            "text": "I really loved this place. I spent my birthday there and it was amazing. The service was wow! Ernesto was our waiter, he was amazing! I recommended!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wWmJEQTFhVTlEYmtoNmJtVjJUVTF4TW14R1VWRRAB",
+            "text": "Food is really good very fresh, place is nice,  clean, service is great"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wSVoxQjFUbGt3YVdzdFdURjBkSE5EUTFKTE4xRRAB",
+            "text": "Had a great time, dinner was delicious and staff was friendly and prompt. Menu was small but everything listed was decent."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oaVNGbE9lblJ5TVhSdmRpMUdhbXBLWVRkb1RYYxAB",
+            "text": "Perfectly fine steak frites and a local IPA for lunch. Friendly and efficient service from the staff. Not particularly busy when I went so the ambience was relaxing and therefore a good place to escape from the heat and hustle outside. Reasonably priced too."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CWVYzaDFXRUptY1ZZeE5tNU9aVWxFY1dObGIwRRAB",
+            "text": "A great dining experience 😊.A great place to dine before or after a Empire State building experience."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psMlRqTjFVVmR3YWpkU01EQmhja0ZWUVVVM1ExRRAB",
+            "text": "It was lovely coming to this Resturant i enjoyed it with my friend Ernesto was such a great Server he was so friendly and the food was amazing me and my friend would come back if Ernesto is my Server because Ernesto was Hospitality at it finest and the State Grill and Bar is a nice Resturant if you come here you will enjoy it for sure."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJM0J4WjdMOHFPeWhnRRAB",
+            "text": "I had\nCalamari\nNew York Strip\nCheesecake\nAll were exceptional and the staff were great."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKT0ZyLTZKbmQzQ2VBEAE",
+            "text": "Yes expensive, but paired very well with with empire visit! Buy the package and have an amazing meal after Empi!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0p4cDZPdDdTZ0RnEAE",
+            "text": "Food was excellent. We were served by a male waiter who wasn't very pleasant. We were made to feel uncomfortable by his attitude. It was a special meal for my husband's birthday and it wasn't very enjoyable. We had eaten there in 2017 when we last visited NY and that was very special hence why we returned. When we finished our meal the waiter asked me if i would like a  dessert and I refused but didn't ask my husband. 2 minutes later the bill arrived which we hadn't asked for. We still had half a bottle of wine to drink.  We had to ask for a liqueur coffee but he said they don't have cream, a restaurant that doesn't have cream!!!! His whole attitude was shocking which made us feel like we didn't belong. We will never return."
+        },
+        {
+            "date": "5달 전",
+            "language": "iw",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKdWZtYzdNZ2I2UUVnEAE",
+            "text": "מקום נחמד מאוד, יש אוכל טעים, הסלמון ממש טעים, המחירים לזוג 100 דולר פלוס. כולל שתייה וקינוח."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvM2JUZ1RREAE",
+            "text": "Terrible, patronizing host. Good waiter. Food was terrible. Ordered salmon: first time everything was burned, second salmon was undercooked. Someone with me ordered fries that tasted microwaved. Awful at any price but the time limited, prepaid element made it a poor value on top of the overall poor service makes it a must avoid stop when visiting the Empire State building or surrounding area."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvcFlxeE9REAE",
+            "text": "My daughter and I truly enjoyed our last dinner visiting New York. The food was amazing, the service   was excellent with a very relaxing atmosphere. We will certainly visit again our next trip to the city"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJLV9yY3VBRRAB",
+            "text": "Would not recommend this place, the steak tasted like trash\nBrusselsprout was very salty\nSalmon was good but not good enough for me to recommend anyone to try it from this place"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJb2ZHUmp3RRAB",
+            "text": "I am an Event Manager for a Life Sciences company based in NJ.  I wanted to share a very positive experience I had holding our Clinical Forum business event at the State Bar & Grill restaurant. First, what an iconic location tucked next door to the Empire State Building; a 7 minute walk from Penn Station to boot! Because we were recording the discussion of the meeting the restaurant has the perfect room in the lower level where the walls are electronically powered to open and close and there is a large monitor behind large doors on the wall. This room is like a “transformer” adjusting to our meeting needs on the fly. The privacy factor was perfection. The manager Ricki Stephens was amazing to work with and lighting fast responsive in the planning process.  I must mention that Ricki came through in a clutch with an AV recommendation of Kevin Consolo (Consolosound Audio & Video) who was familiar with the room and knew what we technically needed before I asked. Darrin and his entire wait staff team were top level service. The food quality… amazing! I see this meeting space being perfect for a business or a private social gathering. Elegant and accessible for everyone. We will be back to the State Bar and Grill again."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3OGRIeHVBRRAB",
+            "text": "We loved our meal at the State Grill. The staff is friendly and the service good. They have a decent range of wines by the glass, suitable for small parties."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3a2NiSmRBEAE",
+            "text": "Good hamburger and service. The minus comes that there were groups at the bar and they were so loud that one couldn't eat in peace."
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXejZQY2pnRRAB",
+            "text": "Manhattan's 'Video Memory’ Experience: Co-Hosted by Bonnie Manter, Alessandro Griccioli from MonteChiaro, Siena, Italy, Chef Morgan Jarrett from Patina's State Grill & Bar, Empire State Building.\n- Showcasing a Gourmet Menu with MonteChiaro Wines for “The Bonnie Community”.\n— We learned about the MonteChiaro Wine Club: Virtual Wine Tastings, Eight Holiday Villas with Swimming Pools, Tennis, Air Conditioning, TV. Wine Tastings, Chef-Hosted Cooking Classes, Lunches, Dinners, Truffle Hunting, Horseback Riding through vineyards, Biking, Hiking, Hot Air Ballooning through Tuscany.\n- 'Turnkey' Wedding, Conference, Family Reunion Experiences. Group Challenge: Continue the Bonnie Community-MonteChiaro Connection.\n#ManhattanExperience #videomemory #Gourmet #Menu #MonteChiaro #Wines #Bonnie\nA #winning combination. Bravo!"
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxaFk3MzlnRRAB",
+            "text": "We enjoyed our dinner even though we had an issue with our Empire State Building observatory and dinner package which we paid for online. The issue (couldn't be used on New Year's Eve!) was taken care of by customer service which we really appreciated. The food and service were great!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRcHVXbURBEAE",
+            "text": "After a visit to the Empire State Building, it was time to stop for lunch and came across this gem. Highly recommend the State Grill and Bar. Staff and food were fantastic."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfbHR1ZkxBEAE",
+            "text": "Food was great for the price. Our server, a young lady whose name I forgot to ask, was extremely kind and patient with us."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfaThlTEVREAE",
+            "text": "State grill had been recommended to me by a friend who had been a few months before. They serve a cocktail in an Empire State building glass . We thought we would have a bite to eat there as we were told the food was superb.\nI have to say the Caesar salad was really good and the burger was okay, but I've had better.\nIn my opinion it was a little costly for what we had.\nIt was worth going for the cocktail and the glass."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmeHJpa1RnEAE",
+            "text": "We ordered a burger,  shrimp cocktail,  side of mushrooms and braised short ribs with blue corn polenta. All delicious 😋"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmbVotMG93RRAB",
+            "text": "We had high hopes for a nice dinner at one of the most iconic places in NYC, unfortunately our experience left a lot to be desired. The service was poor, our waiter made us feel rushed and didn't place our food order correctly. I wouldn't recommend."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmZ2JPSHNnRRAB",
+            "text": "Very good service, food and atmosphere.  We were a party of 7 with reservations and they were able to accommodate us and wait for two of our guests who arrived nearly 30 minutes after us due to delays exited the Empire State Building."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2Z2RpdE93EAE",
+            "text": "Beautiful and amazing!! The food was absolutely fantastic and the service was even better!!"
+        },
+        {
+            "date": "수정일: 10달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2bmJINEZBEAE",
+            "text": "Beware, they charge $25 per person if you cancel - even if it's before noon the same day. A $50 fee for me. I shouldn't have done the right thing and told them. The table was filled, because I did give them time AND it's popular. Seems I gave a $50 donation. Lots of other options nearby that don't use this type of margin grab."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2NE11RlFnEAE",
+            "text": "We absolutely loved our experience at State Grill and Bar in New York! The steak was perfectly cooked, flavorful, and simply outstanding. Every dish we tried was delicious, showcasing great attention to detail and quality ingredients. The service was attentive and welcoming, adding to the overall excellent dining experience. Highly recommend this spot for anyone seeking a fantastic meal in the city!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQNzhUVm9BRRAB",
+            "text": "Decent quality food in a classy but not stuffy setting at not crazy prices. I popped in here for a treat on my own during a business trip. Ordered the shrimp cocktail (my first american style shrimp cocktail) and a new york strip with the broccoli side. The shrimp cocktail was delicious. Huge shrimp, really tasty sauce, and a fun ESB-shaped bowl. I asked for the steak medium rare and it was distinctly medium so it wasn't the softest or generally best steak I've ever had but was nice enough. The broccoli was a touch under done while distinctly charred. I'd have maybe preferred it a bit more evenly cooked. Both the broccoli and steak were slightly under seasoned with no salt and pepper on the table, so had to ask for S&P. Not major slip ups that were at all enough to significantly dent the overall experience but notable nontheless. Nice dimly lit setting with cosy but not cramped feel. Quality table lamps a nice touch ($180 a piece). Attentive but not fussy staff. Meal price was $112 ($42 for the steak) with a beer as well. Not too bad for the location and quality of food."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQZ1pqRFRBEAE",
+            "text": "Had a good dinner there. Went in for starters and a main. Service was fine. Menu on the internet was not updated."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQNXRPczF3RRAB",
+            "text": "The vibe of this is everything I thought a New York steakhouse should be first time in NYC and when I come back to NYC I will visit again waiters funny and nice!!! I recommend I love it here!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQX09DSEJREAE",
+            "text": "Went here because we saw an advertisement from the Empire State building that said prefix for $60. When we got there we had to ask for a pre fix menu. There was NoNe so host had to explain what's included and what's not along with all the extra pricing. When we asked her price she said $69. Then when we said we thought it was $60 she asked her manager and confirmed it was $69.\nAnyway we ordered the Penne pasta for my child along with chicken fingers and fries. When her food came out they set it down thinking she will eat it. I then looked at her kids menu and said i thought we ordered Penne this is not Penne it's elbow pasta. Server said they didn't have it so they give her that. I'm sure this would have been okay with other kids but for my child she is very picky and particular with the texture of food. Also when we asked for BBQ sauce or honey mustard for chicken tenders there was NoNE in existence. It was completely foreign. It was like they never heard of condiments. Also when my husbands filet arrived it was cold and burnt! How can they serve burnt steak cold... are we talking about the empire state building serving cold burnt steak. Anyways they took it away. Waited another 20 to 25 minutes for steak to come out. A lady brought it out and apologized for long wait. This time steak had way too much BLACK Pepper that overpowered the steak. My husband just ate it because NO ONE including the server or manger came out to check on us to see if it was better. Then after we were done. The lady brings desert. I reached out to her and asked if she was the manager. Come to find out yes she is. I told her the issues and she apologize and said she's is happy to know of these issues. She also comps the Penne pasta kids meal which is Not suppose to be elbow pasta.\nI asked her about the promo upstairs she said she did not know and was a bit confused but after I told her we were going to empire state building and I will take a picture and come show her she said she will charge honor the price.\nWhen the bill came out I was in the restroom and the bill came out for some other amount it wasn't suppose to so she asked her if she could bull A LA Carte for the Ceasar & cheesecake.\nAll in all it wasn't an A plus fine dining experience especially being at a place like the Empire State Building and a STEAKHOUSE.\nThere should have been a manager at a table the first instance something goes wrong. One should not ask are you the manager. Honestly one of the worst experiences I have had a a fine dining establishment. It was a let down for a steak house."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNib0pyZWFnEAE",
+            "text": "The food was delicious, although on the expensive side.\nMy favorite dish was their twice-baked potato. It was creamy (mashed potato consistency) in the middle and crisp on the outside.\nOur servers were great- professional, friendly, and efficient!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYMTRMZlBnEAE",
+            "text": "Delicious New York strip steak, excellent service!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYbGZHZ2N3EAE",
+            "text": "Classic throwback, highly recommend. Oldies + innovations with food, extensive French leaning wine list, all in a “great-room” experience. Visit the bar before dinner."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYOTVqWHVBRRAB",
+            "text": "The food and beer was amazing. The beer was Keller Beer from Hell Gate Brewery."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYdWMyUTNBRRAB",
+            "text": "Service was great, food and wine were excellent, and the atmosphere was perfect for a group of 7! Cheers!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuc0phNURREAE",
+            "text": "I loved it here - I'm in NY for a week for work and found this was a perfect Saturday night treat myself option. I was looking at the menu outside and a previous customer told me to go in and that it was amazing, he was correct! Really fantastic service from beginning to end, also super efficient and quick. The steak was divine and definitely recommending to others. Thanks for having me team, I'll definitely be back!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNua1k3b1JnEAE",
+            "text": "Lunch after touring the Empire State Building. Good proportions, and a well prepared and presented meal. Service was great."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuNGUzMkZREAE",
+            "text": "Great Experience I sat at the Bar but the server Who greeted me and took my order and I took her suggestion she is amazing and the food was 🔥🔥 I come from a food and beverage background she rocks the bartender was awesome"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuanBpOG93RRAB",
+            "text": "Really fantastic service, great burger - thank you!"
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURneGJHTDRBRRAB",
+            "text": "기분좋은 서비스를 받을수 있으며\n음식맛도 아주 좋은곳이다!"
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzNmEyeDhnRRAB",
+            "text": "조명이 좀 어두운 것 빼고는 맛도 있고, 친절함"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwZ2VfamlBRRAB",
+            "text": "Dined on a Friday night with my friends that I have not seen in years. Jay was AMAZING!!! Super chill, patient and kind. We were there 5½ hours and spent over $400. It was worth it!!! Food was really good! We would come back again. Thanks Jay for making it an awesome reunion for us! You're so fantastic!!!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwN2RIZUh3EAE",
+            "text": "We went to the State Grill and Bar as part of our Empire State Building ticket, and what a delicious choice we made. The menu we were able to choose from was deliciously prepared and excellently executed. The steak was perfectly cooked, the oysters were sumptuous, the brussels were perfectly cooked and dessert was divine.  The atmosphere was so lovely and the service was expert level.  Not to be missed."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNadGJTSzlnRRAB",
+            "text": "We went here off reviews and were very disappointed having been looking for a good steakhouse.\n\nWe ordered our meal. Bubbles came out warm (not chilled).\n\nWhen our steaks arrived (one medium rare one medium well) we got stuck in. We noticed our side hadn’t arrived. The medium well steak was both over cooked (more well done) and the outside was very charred. It didn’t make for a great eating experience.\n\nI asked for it to be returned and a new one which they did fairly pronto and was grateful it came out quick. Second time was much better. I’d probably order one rareness lower than I wanted.\n\nWhen we got the bill, the waiter realised we’d still not had our side. Turns out they’d sold out but no one had communicated anything. A shame!\n\nService was very average. Other tables seemed to get waited on more attentively that us.\n\nHaving eaten in many a restaurant in big cities before I was very disappointed in the experience for our second to last nite in NYC."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQxM05IaURREAE",
+            "text": "Wow - one of the best dinners we had in NYC! We didn't go up to the top of the ESB but the STATE Grill and Bar is not to be passed by!\n\nOur server Jantony made our experience all that much more fun and was really great to us throughout the evening. We enjoyed the food, the ambiance, the drinks, and just the overall time we got to spend in such a beautiful spot.\n\n10/10 would recommend and will definitely be back next time I'm in the big Apple!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoeTZfTFNBEAE",
+            "text": "Quiet. Beautiful setting. Wonderfully enthusiastic and warm server. The water glasses are gorgeous. The food was excellent. We had the truffle chicken sandwich (done on a brioche bun - the only way to go), pink lentil soup finished with coconut yogurt and mushroom shwarma. We finished with the Brooklyn Blackout Cake which was easily the *best* rendition of a layered chocolate cake we have ever had. Bravo. We are definitely coming back the next time we visit NYC!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIb2RTdmVnEAE",
+            "text": "Conveniently located inside the ESB, this spot is perfect for a team lunch. You don’t need reservations, and there’s usually no wait during lunchtime. The steak frites were good, and the salmon wasn’t bad either. I’m looking forward to trying the lobster rolls next time. The service was excellent."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqODlYQmhBRRAB",
+            "text": "Enjoyed a delicious meal after a great broadway show at State bar and grill. Ernesto our waiter was wonderful! The wagyu beef pigs in a blanket simply delicious! My NY strip steak was cooked to perfection and the Brussel sprouts  were outstanding combination of sweet and spicy in their homemade sauce. I will definitely be returning in the future.. drinks were on point! We sipped on two delicious cocktails and what better way to end a meal then with espresso martinis!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNVazZ5emRBEAE",
+            "text": "Food is delicious, but the octopus salad was filled with a lot of lettuce and only 2 to 3.very tiny pieces of burned octopus.\nThe waiters are re friendly.\nBut the promo to get you to lunch or dine is misleading: it gives the impression that the restaurant is all the way at the top of the Empire State Building.\nAll by all, we had a good lunch."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNcWV1a3JBRRAB",
+            "text": "Pretty darn good. I had the Lobster pot pie, was very Lobster filled, but the peas in it were on the dry side. That dish 4*s. For desserts the cookie platter I felt was lacking, the Kong is awesome, the chocolate cake was also amazing.\n\nMy brother had the NY strip steak and it was awesome with a lobster tail, again awesome. Service was very good, my water glass was never left alone.\n\nCool bathrooms below the restaurant."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNjczYzcFJBEAE",
+            "text": "The food was great, the atmosphere and location were even better. Loved the Brussels sprout dish and the burger! The service was okay, please note that they only open for dinner at 5pm. We did not need a reservation. The bathrooms were very clean and nice also. Salad was over priced for what we got."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ1cXRMYjlnRRAB",
+            "text": "I went here for a work event and I have to say the food and service were fabulous.  Upon arrival the hostess accompanied me to my area downstairs where I checked in and the server (after being seated) asked what I wanted to drink.  The food was delicious.. Salad was fresh the pasta was super good but the desert omg tasty to say the least.  The server always had my glass of wine full and offered to put my cake in a to go bin for me.. service was a 10.  I would recommend this place.  Wish they gave access to the top of the Empire State Building since we dined here lol"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKMS1HTTdBRRAB",
+            "text": "Lovely dining on the ground floor of the ESB. The staff are attentive and accommodating and the food is carefully prepared and delicious. We've enjoyed our dining experiences here and highly recommend the calamari appetizer. A window seat is recommended if you want to see better as the lighting is rather dim."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPcC1PeWRnEAE",
+            "text": "I had the pre paid add to your visit lunch. Nothing about it felt like an offer. The service was impeccable, advice when I asked for it, offer to up grade but no pressure to add to my order.\nIts was very tranquil after all the excitement and bussle of exploring the empire state  building its self and gave me the opportunity to see parts that are not in the main tour.\nThe food was lovely and their is a great cocktail selection if you fancy a cheeky tipple plus all the normal wines, spirts ect.\nSo glad I chose to finish my trip off here."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtMHFqVUx3EAE",
+            "text": "Treated ourselves to a nice dinner for New Year's Eve in Manhattan after heading to the top of the Empire State Building at sunset. Enjoyed the holiday price fixe menu that included bread, appetizer, main course, dessert, and prosecco toast. Food was excellent, service was outstanding.  Look forward to going again if ever in NYC!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXNE5teXhnRRAB",
+            "text": "We were able to be seated earlier than our reservations were for. It's a limited menu, but each selection available doesn't disappoint. Our server was phenomenal and attentive, drinks were brought out quickly and were delicious. Were more than accommodating with someone in the party who has severe nut allergy, not only did the server verify restrictions and abilities of the kitchen staff but the manager also came to the table to explain the process that was completed to ensure safety. The steak frites was divine. We'll be back!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNid295eDh3RRAB",
+            "text": "Celebrated a birthday! Server was nice and food came out at a great pace. The drinks were delicious and so were the apps and entrees.\nPostcard was given at the end which is such a cute touch. I would love to go back 💖"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRbWZ1bFJnEAE",
+            "text": "We same here because of the Empire State building package where it includes tickets to the 86th and 102th floors with a 3 course meal here at State Grill and Bar. We were thoroughly impressed with everything. The decor, service, food, and…"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKdVBhTVRBEAE",
+            "text": "Wasn't expecting much from a place in the Empire State Building (how could it not be a tourist trap?) but was pleasantly surprised. I had a great pitted fruit salad with salmon and a Mermaid pilsner. I even got some work done! The coffee was nothing great. Excellent service, seamless and friendly."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1bFlQc2FREAE",
+            "text": "Wow... mind blowing dinner. The atmosphere in the restaurant is classic sophisticated. I could imagine Sinatra eating there back in his day. Lighting was dim, but absolutely wonderful. There was wven little lamps on each table that gave off light that had the same brightness as a candlelight dinner.\nWe ordered the calamari and the texture of it was perfect (not extra chewy like I am used to). The coating on it is even better. Seriously, I would order just a bowl of that and be happy. The peppers were also cooked in the same coating and they gave just a tad bit of heat. So, be careful, you might expect to bite into a peice of calamari, but actually bite a pepper. For dinner I ordered swordfish with the risotto. The risotto was al dente, maybe even a little less than that. I still enjoyed it. The swordfish was incredible, and definitely fresh. The aroma was fresh off the grill. My dinner companion ordered the salmon which was also clearly fresh. Like... \"eating next to a river in Alaska\" fresh.\nFor desert, we shared the limoncello and blueberry tart. The tart portion was creamier than any tart I ever had and the blueberry sauce was fermented for a week (I know, sounds like it would be rough... it was not). The blueberries themselves tasted fresh from the farm. For drinks, we ordered Manhattans because... we were in Manhattan. I know, \"touristy\". You'd be correct. Whatever.  It was amazing. Then we had old fashioneds. Super. Nuff said.\nThe service was extraordinary. When something we ordered was brought to te table, we were given a rundown of what went into each dish. The staff gave a sense of genuine pride in the restaurant and it thriving as a business.  Hard not to be extremely impressed by State Grill& Bar"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqcG9mMFlREAE",
+            "text": "EXTREMELY POOR SERVICE. No one introduced themselves as our server or explained any specials. The table we were sat at was extremely wobbly and it was cold in the corner.\n\nI ordered the red corn fritters as an appetizer. It was astonishing how poorly made they were. I barely took one bite. The outside was burned brown but the inside was raw batter. There was no seasoning and the sauce on the less than appetizing.\nThe server had the excuse of there being polenta on the inside, but it was raw batter.\n\nI returned the plate and requested the burrata and fig crostini as a replacement. It took an extra-ordinate amount of time to come out. My dinner mate had finished their starter. The crostini was okay.\n\nWhen I received the jerk chicken entree It was well seasoned but the portion size was extremely small for the price.\nThe dressing for the side salad was in a questionably cleaned dropper and not enough for the salad.\n\nDidn’t  bother ordering a dessert.\n\nWould not recommend this place. There’s much better restaurants in the city."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsdTk3Unl3RRAB",
+            "text": "What a lovely place to dine after visiting one of the most famous landmarks in NY.  The service was exceptional, food delicious & the atmosphere was perfect. Highly recommend!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2bXNYcHRnRRAB",
+            "text": "Great food. Service was excellent and very prompt. We walked in without a reservation but we were able to get a table on a Friday night. Overall excellent and highly recommend!"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRNklqc05REAE",
+            "text": "Most delicious meal. Jay, our waiter, was fantastic! He was so courteous and attentive. Couldn't ask for better food or better staff! I have a severe nut allergy and the care and attention put into making sure my food was \"safe\" was so appreciated. Highly recommend checking this place out!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCazdXenBnRRAB",
+            "text": "I took my family on New Years Eve for a fixed menu.  The food was amazing, the best steak my boys have ever eaten.  As a vegetarian the past was fresh and tasty too.  We ended the meal with espresso martinis.  They were perfect and the cocktail glass was amazing,  I wanted to bring one home."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2bXNPLXp3RRAB",
+            "text": "I wish I remembered the name of the host. She was phenomenal! Upon arrival, her service and professionalism was the best I’ve seen. Personable as well. I would recommend this place to everyone I know. The food is to die for. Try the calamari!!!!!!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoMFlQcDdnRRAB",
+            "text": "Food is exceptional. Service was good. Wine list isn't as up to date as it probably should be. The place has a bit of an upmarket diner feel to it rather than fine dining. Empire State building martini glasses are worth the visit alone!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNajh2RmtRRRAB",
+            "text": "The State Grill and Bar!\n\nI was expecting a typical bar and grill to match any big tourist attraction.....\n\nWhat we got was a 4 star food service with a 5 star experience!!\n\nWe both left fuller than we have been in the last few days, and the calamari was freeking amazing!!!!!!\n\nThank you for a great experience :-)"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNncV91MU9nEAE",
+            "text": "I was very VERY impressed with this restaurant!\n\nThe service was excellent, quick, polite, considerate, friendly.\n\nThe food was so delicious!! The beef ribs were very tender and soft, almost melting in my mouth!\n\nThe atmosphere was also excellent, similar Art Deco feel from the Empire State Building; classy!\n\nWould definitely come back and strongly recommend this place!!"
+        }
+    ],
+    "reviews_count": 80
+}

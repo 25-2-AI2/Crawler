@@ -1,0 +1,530 @@
+{
+    "name": "Casa del Mar Seafood Restaurant",
+    "place_id": "ChIJ4ZRMX2j0wokRH0R2KBd-Kbo",
+    "grid": "BX6",
+    "address": "1779 Webster Ave, Bronx, NY 10457, USA",
+    "rating": 4.1,
+    "user_ratings_total": 1124,
+    "phone_number": "(917) 473-6670",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOSFVubzNOMlpQTVZOd05VcExhRlJOZGxJNGIyYxAB",
+            "text": "Me gusto la comida un poco cara pero valió la pena me gusto la bachata que pusieron cuando fui"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toeWQzRkhVVk5tVEVGeFEyMDRhV1J0V0ZCUGEyYxAB",
+            "text": "I love"
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200NVgwaDZWMWROU0RSb1UwMVFWMVpRUWtaR1FuYxAB",
+            "text": "Super excelentemente bien"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwWWJHUm9RV1JNWW1SSk4yMDBha3B0TlVsRVUwRRAB",
+            "text": "One of my favorites spot to come to eat seafood and have great drinks ! Great happy hour too! Shoutout to Bacilon and Wendy’s for their service and hospitality always"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Od2RtUkxkbGRsZDBaaVpERjNhV0ZFWjJneGRXYxAB",
+            "text": "I recently went to have dinner with my mother. The food was amazing! Everything arrived just like we ordered it! The service was also great; our server Jonathan was professional and attending. I didn't give it a 5 star because my mother ordered a frozen margarita and they told her that they had forgotten to turn on the machine. This has nothing to do with our server Jonathan; this is more of a management issue. Being unable to serve a drink that is on the menu just because they \"forgot\" to turn on the machine for frozen drinks demonstrates a lack of readiness and professionalism. Otherwise, I would recommend this place!😊"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0RFp5MDJkWEIxTmpNeU0zSktjMHRWWlVOUFIwRRAB",
+            "text": "The food is always good. The pictures of the menu don't do justice to the dishes because the portions are bigger than what it shows. 10/10"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2treVZHSXlWbEp1YVVsMFNqTTNTRmxoTW0xamVHYxAB",
+            "text": "Exelente música ambiente familiar"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSaFptSjZUVmRVYlRscE0yeHJSMDltYUZCeFgxRRAB",
+            "text": "Let me start by saying the place is nice and food is great but something I didn’t like was that they say happy hour from mon-Friday and it’s a lie when I got there to my surprise the sign is everywhere saying happy hour mon-fri which is false advertisement and I asked the waitress she responded and said no it’s Tuesday-Fri only now and so I just didn’t have the drink instead had water and my husband had a parcha mojito which was good so I ordered a cordon blue with tostones and my husband had pasta which was amazing but when check came they tried to over charge if I wasn’t to notice we would’ve gotten overcharged but moving forward everything was good but pricey but always look at your check b4 paying!!🙃🙃"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xveFNHcFZNVVo0WkhkNmVYVkNYMFJrWW1OSGNrRRAB",
+            "text": "Good 👍"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GcFVsOUplVlE1UkVwNWRGaHlRbXhvTjB4U01HYxAB",
+            "text": "Ordene por Uber Eats un Mofongo de camarones y escribi que por favor cook well done but they still show that they don’t know what they doing..for a good Mofongo I recommend La Casa del Mofongo restaurants🤷🏻‍♂️"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poeVVsTXdTMHB6V2tkZmQwcHZlakpLZGxscWRtYxAB",
+            "text": "The food and drinks were excellent and the price for everything was moderate I brought my parents here and they loved it!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4b2RXZFBiMWhhTTNaT1F6RktNa3huYW1oWk5rRRAB",
+            "text": "We loved it the food was delicious our waiter was amazing and we had a great time. We will definitely be returning to try more of the menu"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WdmIyTlJjMVJNWm5GaU16QjNkVmh4Y0RGMlJtYxAB",
+            "text": "I always order their two ordered of their red snapper, fried, with a side on uber eats and it arrives hot and fresh. The food is amazing!!!"
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VNVDZ3cjNyNmFtLWp3RRAB",
+            "text": "Realmente desde los servicios de atención hasta la comida 0/10  y el sabor de los tragos nada recomendable"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tob2RWTkxUMGhWYmtaMWRWODJZbFo1UjI1VVgyYxAB",
+            "text": "I order from uber eats my utensils are always missing and don’t order a drink because you’re charged an arm and a leg and the soda never arrives ."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOaTUycmpFN2NITDhnRRAB",
+            "text": "Nice place"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VOYlA4THVLaVpHM0pBEAE",
+            "text": "I was really happy about my stay with my family at this restaurant. We made a reservation.  It was honored and there was no wait. The staff was attentive and helpful. The food was incredible . We had a variety of different meals and everyone was satisfied. The drinks were good too. The place was beautiful. Parking was a bit limited but it was the weekend so we gave grace, we also fortunately still found parking quickly and close by. The only issue we found is the music is way too loud. I'm not sure why this is even an issue , I can't imagine anyone is comfortable with music being so loud u can barely talk or communicate with your waiter. That was the most frustrating thing .  Aside from that, the place is wonderful and I do hope they change that so it could be more enjoyable"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VQbUY0cVM4cHRXN0VnEAE",
+            "text": "I had a disappointing visit here a few months ago and left a negative review. However, I recently gave it another try, and I'm really glad I did. The service was much improved—friendly and attentive—and the food was hot, flavorful, and fresh. It’s clear they’ve taken feedback seriously. Happy to update my review and recommend giving them another shot!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSdmJ6ZFdiRjltYkd0bE5UbFpVbUZ4VnpaaVUxRRAB",
+            "text": "Terrible food m, terrible drinks, atleast the waitress was helpful but not going back way to expensive. Don't order a paella either ricr smells spoiled seafood taste like saltwater"
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VLMmp1YTJMdE1XUzRBRRAB",
+            "text": "Tuve una mala experiencia en Casa del Mal. Pedí mi comida y me trajeron algo completamente diferente. Cuando traté de solucionar el problema, no mostraron interés en ayudarme y me atendieron de manera poco amable. No recomendaría este lugar debido a su mal servicio al cliente."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VKYTAwUEgzdWJQWklBEAE",
+            "text": "Dot not order from this place unless you want to get disrespectful from the waitress and manager called EDWIN !!! We order a $100. Dollar plus paella and they delivered to the wrong person they respond was ;I can’t do nothing about it deal with uber after they give me my food to the wrong person  manager of the year"
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNNk95TEdBEAE",
+            "text": "I ordered a paella for 4 and they sent me the wrong order and the manager Edwin didn't know how to solve the problem\n\nOrdene una paella para 4 y me enviaron la orden mal y el manager Edwin no supo resolver el problema"
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMZWc1ZUQtX1o3NjF3RRAB",
+            "text": "Es un ambiente familiar, donde su staff tiene las mejores atenciones al cliente , y sobre todo una exquisita comida , lo recomiendo"
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPZjJzWUxackkteEtBEAE",
+            "text": "Lugar ideal para compartir con la familia"
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQdmh0OExzOU1QQ1R3EAE",
+            "text": "El mejor lugar para disfrutar de comida Deliciosa y muy  buen servicio. Muy bonito y limpio  el restaurante. Mi esposa mi hijo y yo. La pasamos super  bien👍   Thank you"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZc29ta2dBRRAB",
+            "text": "I would not recommend this restaurant to anyone. It looks nice from the outside but don't let it fool you. The music was so loud I caught a migraine. Waited way to long for my food and the place was empty. The food and drinks are over priced. You better off going to city island for seafood. Sorry not sorry"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvcFlHWWRREAE",
+            "text": "Horrible service ordered food thru uber receipt clearly says 2litter soda they put a can in the bag and stapled it shut also no forks and utensils to eat with and this is like the 5th time this has happened"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvMmRYVGd3RRAB",
+            "text": "The food was delicious. The upstairs space was large and bright."
+        },
+        {
+            "date": "7달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJb0lUdHpRRRAB",
+            "text": "On Monday march 24th a friend and my self went there for lunch. The service was okay and so was the atmosphere, but my food was extremely salty 🧂I ordered the seafood parrillada and veggies and tostones and even the vegetables were 🧂 salty.  My friend ordered a steak and he said that it tasted like rubber. Neither one of us eat the food. Our waitress did offered to make the food for us again or give us something else but we just did not have the time to wait again.\nEl lunes 24 de marzo fui con un amigo a almolzar a este sugar. El servicio y el ambiente estaban okay, pero mi comida estaba super super salada. Yo ordene la parrillada de mariscos con vegetales y tostones y hasta los vegetales estaban salados. Mi amigo pidio un steak y El me dijo que el steak parecia una goma. Ninguno de los 2 pudimos comer. La chica del servicio si ofrecio volver a hacernos la comida o si queriamos algo mas pero nosotros no podiamos esperar otra vez ya que debiamos regresar al trabajo"
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3dHFLLWNnEAE",
+            "text": "Excelent food and service, pleny of space between tables; beutiful decorations.I really like it."
+        },
+        {
+            "date": "7달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3dkxHcV9BRRAB",
+            "text": "Uno de lo mejore slugares para compartir y comer  , fui y me comí un seviche de pescado el mejor de todos lo lugares que es comido seviche"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3ajdXWm9nRRAB",
+            "text": "The grilled Whole Red Snapper is so flavorful. Grilled so perfectly 👌 so moist it was delicious 😋 not to mention the size of the fish it's worth it. I also got some pork chops as they didn't disappoint either, very tender and flavorful as welI definitely recommend this place."
+        },
+        {
+            "date": "7달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3dTgzZW9BRRAB",
+            "text": "Comida exceleste"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRM0k2N0NREAE",
+            "text": "Music is too loud to the point one cannot talk. Food takes a lot of time to get to your table. Price is the same as other places as well as the food. Nothing especial."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRbnRtWS1BRRAB",
+            "text": "The entire experience here was fantastic. . Service was very friendly.  We had a tuna ceviche, monk fish and mussels and all were fresh and delicious. The atmosphere was lively and fun. I highly recommend! Fresh seafood prepared to order with creative culinary expertise. Absolutely amazing experience."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRbk5Ua2lRRRAB",
+            "text": "Came to celebrate a family’s birthday and we had a wonderful time the server was so sweet and attentive the food was so good and the drinks was was okay could of been better but will definitely be back"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNncy1XUWh3RRAB",
+            "text": "Music was blaring too loudly couldn't hear anything ears started popping . Had to yell scream at the top of my lungs just a conversation with the company I had"
+        },
+        {
+            "date": "8달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnc0pHVWJnEAE",
+            "text": "Excelente  servicio  muy buen trato y amables"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBNlluQmF3EAE",
+            "text": "5 stars great vibe great service excellent food, a little pricey  but it's NYC. There are on street and valet parking options. The only downside is the congested area it's located in but it's got easy acess to the interstate."
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqd2NIdXhnRRAB",
+            "text": "Scarlett is really nice Bartender"
+        },
+        {
+            "date": "9달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfd1lxdWtBRRAB",
+            "text": "Este lugar sin duda lo debes visitar. Un ambiente de primera, un servicio excepcional y buena calidad en la comida. Los mariscos siempre frescos. Chelo no acepta menos de ahí."
+        },
+        {
+            "date": "10달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmbjRDWmZREAE",
+            "text": "Muy lindo el lugar"
+        },
+        {
+            "date": "10달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2cmE2WFp3EAE",
+            "text": "Un Team extraordinario"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2N1BpSnJBRRAB",
+            "text": "I recently tried this restaurant for the first time, and it left me feeling quite underwhelmed. While the flavors of the dishes were promising, everything arrived at the table lukewarm, almost as if it had been sitting out too long. We started with the Clam Casino, which I hoped would set the tone for the meal, but it lacked the warmth that would have really brought out its flavors.\n\nAs for the Seafood Paella, it had potential, but the temperature just didn’t do it justice. Even the drinks fell flat—my girlfriend ordered a Grilled Pineapple Margarita, but to our surprise, there wasn’t a single piece of pineapple in sight, nor was there any hint of its tropical flavor. I opted for what I thought would be a classic old-fashioned with Makers Mark, but instead, they served me a Woodfield version that was disappointing. With the ice melting quickly, the drink ended up being overly diluted. Overall, I was hoping for a memorable dining experience, but it just didn’t hit the mark."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQza1piYWRREAE",
+            "text": "The food was amazing. Service was excellent 100% loves it."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3bnB6R0NnEAE",
+            "text": "I have not been in this location since it was called \"Jimmy's Cafe\" years ago. It looks totally different. Love the decorations of the place. Service staff were extremely friendly and accommodating. They also have outdoor seating, but we choose to eat inside. It is close to the expressway and there are a lot of cars pollution in that area. The food was delicious. However, they needed some work on dessert."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNGcGN1aTN3RRAB",
+            "text": "Great food, awesome service and most of all friendly and polite hospitality. We had a great time here."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQxX1lxall3EAE",
+            "text": "Deliciousness!! My fiancé went there for our 2 yr anniversary and it was outstanding. The drinks were in point. Yummy & strong! The food was scrumptious! Even though we got there when the kitchen was closing we they took our order. There was soooo much variety to choose from we kept it simple for that night… complements to the chef bc it was amazing…We will be back again!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5bXN2OHB3RRAB",
+            "text": "Right off the jump, the service is great! We stopped in late at night for take out to head back home and between the hostess and the bartender, fantastic! Very helpful, kind and hospitable. The food was very good also! Definitely recommended this spot!"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR0ME11amV3EAE",
+            "text": "Lugar muy elegante, una mezcla de casual y formal. Excelentes atenciones. La comida, deliciosa. Gran variedad de bebidas. Las cervezas que me gustan son las IPA, lamentablemente no las tienen, pero no me puedo quejar de las atenciones. Es un lugar excelente para compartir con amigos o familiares."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzMUxpUHVnRRAB",
+            "text": "Theee best when I say thee best I mean the best presentation excellent music excellent drink excellent staff excellent try out this place peeps these people let u feel like your home the food was a bumb total of a 10🫶10/10 keep up the good work guys I’ll definitely visit again..birthday night for my mom was well spent thank you again 💕🫶"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUN0t6dWNBEAE",
+            "text": "El platano madure de la canoa estaba cruda. El puré de yuca tenia mucho corazón de la yuca no se puedo comer Por esa razon.\n\nUna advertencia, el fotógrafo tiene que avisarle al cliente, si se quiere tirar fotos en la mesa y el precio. No traer la foto a la mesa ya imprimida sin permiso al cliente\n\nLa señorita Raquel hizo un excelente trabajo."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNVdFpUclVnEAE",
+            "text": "Been here a few times. So many delicious items to choose from I can never really decide on just one plate every time I go. I'm only a quarter through the menu because I get the same things a lot. Also, rented their hall for a party, VERY AFFORDABLE rates!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNud0txcm93RRAB",
+            "text": "Beautiful Restaurant with very nice Ambience. Great food & service. Loved the Guacamole with chicharrón & chips. They have a nice big bar with a variety of cocktails. My favorite was the Aperol tajin pink margarita with casa amigos tequila."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwLXFuWGlnRRAB",
+            "text": "Myself, my family and friends visited here from Philly and Houston Texas. We were NOT disappointed! Everything was a 10/10. From the food, to the service, to the ambiance. My grilled octopus was some of the best I ever had, and they aren’t stingy with the portions, I’ll definitely be back."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMwczR1WURBEAE",
+            "text": "Love the place! I liked the inside although I had an issue because the music was a bit too loud for my family. We also had a small miscommunication of what they wanted but at the end everything went well."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoay1IUlB3EAE",
+            "text": "Very good service. I'm a regular here. a recent visit was on my anniversary 6/29. The salmon was delicious, and the mofongo with shrimp and garlic sauce a delight.  Free parking and outdoor dining and hall for party"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSa19HLW1nRRAB",
+            "text": "the service was good but the quality of the food wasnt the best. the clams casino had nothing but bacon and cheese. it didnt even taste like seafood. it was horrific and overwhelming. everything was super expensive n not worth it for the price."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhN0pUU1NnEAE",
+            "text": "Both me and my boyfriend had a wonderful time at this place. The food was excellent but some of the food that was on the menu did not have all of the ingredients that it said on the menu. But all in all it was a very good place. Our server gliesmel did a wonderful job on her second day of work there and she rocked it. I would highly recommend going there."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxcHJ5WE1REAE",
+            "text": "For me this was Casa del Mal. I got a pink mojito and it was sour and not to my liking. I ordered the Cordon Bleu and requested the sauce on the side. The chicken wasn't cooked thoroughly and they drenched the chicken with the sauce. It looked unappealing and unappetizing.\nMy friend ordered a stuffed seafood mofongo she got a mofongo with seafood all over. The seafood smelled very fishy and the shrimp tasted off.\nManagement was very understanding and did not charge me for the meal and changed the drink. They also tried to offer me another meal but i had lost my appetite. The best part of this place was the empanadas, parking and the helpfulness of management for that they get 1 star."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6b015RHdBRRAB",
+            "text": "Muy deliciosa toda la comida y muy buen ambiente y muy buena atención 👌 quede encanta bello lugar"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtb19ES3NBRRAB",
+            "text": "The food was good but a little skimpy. I ordered a seafood soup and it was no where near the brim. The drinks were ok. The prices have gone up but that's everywhere. I was a little surprised when they added a 3% surcharge for using a credit card along with a built in gratuity of 18%."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzaDdDUExREAE",
+            "text": "The Presentation of the food was great but the food overall was ok...service terrible. Our server was not attentive and we had to cue him a few times before he finally came."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLOWZUZFp3EAE",
+            "text": "Very budget friendly, food was highly seasoned. I wish they had happy hour but the bartender said that they don't. The atmosphere is very nice, they have indoor and outdoor seating and free parking. The staffs there are very friendly and…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLNUtPMVRREAE",
+            "text": "Came here for happy hour with my friends but was disappointed to find that the information online was out dated and the happy hour ended at 6pm instead of 8pm.\n\nI had 3 frozen mango margarita which were exceptionally good. My friend had the strawberry margarita but didn't really enjoy it. I ordered the calamari from the appetizer menu which was really underwhelming. The batter they fry it in is bland and didn't taste like much. My friend had the chicken empanadas and they were also very underwhelming we had better empanadas from juice bars.\n\nThe paella my friend ordered was really good and I honestly recommend it as a person who does not enjoy much seafood.\n\nI was really disappointed to find out that they were not serving drinks to go. I had just spent money on food and we are still under covid restrictions that allow drinks to go with a purchase of food but that was not the deal here.\n\nThe venue is much nicer than it seems on the outside. I was impressed by the decor,  the statue in the middle of the floor is a really nice touch however I was surprised to see how banged up some of the seating was, you could see that the brown scratches on several of the white seating.\n\nAnother thing I'd like to mention is that they separate they're floors by music. The second floor of this establishment serves hookah and play hip hop music which is  understandable as not everyone enjoys the smell of hookah. However if you're only playing a specific type of music on each floor I think it would be great to inform patrons of the difference on each.\n\nThe servers could also step up their service if you're going to add a 18% gratuity\n\nOverall the experience was OK some of the food was great and make sure you don't come for happy hour as it's nearly non existent here."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlc0pfX1hREAE",
+            "text": "Me and my date came here and was disappointed and disrespected in a way. We ordered the chofan  $55 for rice cheap frozen vegetables and shrimp with dry over cooked chicken in a load of soy sauce. We complained are dislike for are meal and we observed an taking phone calls and going to table to table he came to me and my date table he put his mask on. He ended up being the manager he didn’t want to discount ate meal he tried to take off $8.50 off a $92 meal that we didn’t eat instead gave a paella upgrade. It’s smelled fishy I left it in a parking garage I wouldn’t give that food to the homeless. The restaurant it self played good music that’s the 2 stars for"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNOGVIdGxBRRAB",
+            "text": "Amazing experience food and drinks where great. Very nice atmosphere and the service three 👍👍👍. Would definitely return and advise everyone to come too this restaurant.…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNZcWQyWm53RRAB",
+            "text": "This place has amazing food, a nice comfortable bar, awesome staff. Bathrooms are neat. Overall my first time in there was amazing. I was able to jam to the music while eating and having a wonderful night."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSOElDbDV3RRAB",
+            "text": "Who knew this little hidden place existed? Everything and I mean everything was fantastic! They do have a small parking area, once it's full parking is a little hard but hey maybe you will get lucky lol"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSeTdmSFpBEAE",
+            "text": "Large restaurant with excellent wine lost and delicious seafood... very nice bar and ambient all around ...parking 👌"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDdGM3bGVREAE",
+            "text": "The penne alla vodka was really good; not traditional - a little more orange, but very tasty. My friend said her linguine with shrimp, oil, & garlic was a little too garlicky, but it smelled amazing & the Puerto Rican in me would've probably loved it. They didn't have all the food & drinks I've seen people post in the past, (probably bc of Covid), but the drink selection was super-basic & wack. We got a Long Island Iced Tea & Mojitos, the taste was okay (not great), but I was definitely bombed when I left. 😊 I don't do hookah but they do offer it. I'll definitely go back for the friendly, accommodating atmosphere & to try more dishes."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNpd3FLRmZ3EAE",
+            "text": "Food is great and reasonably priced for the quality and presentation. The place is also very lively with music. Would've been 5 stars it it were not for the service. Went with a party of 7 and we were rushed despite the place being…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUblpQN1ZnEAE",
+            "text": "Title: A Hidden Gem for Family Fun and Delicious Food\n\nWe recently discovered this restaurant and it has quickly become our favorite spot for family outings. From the moment we walked in, we were greeted with a warm and lively atmosphere that made us feel right at home.\nFood: The menu offers a fantastic variety of dishes that cater to all tastes. Whether you’re in the mood for a hearty meal or light bites, [Every dish we’ve tried has been cooked to perfection, and the portions are generous.\n\nMusic: One of the highlights of dining here is the music. There’s always a great selection of tunes that add to the vibrant energy of the place. On weekends, they even have live performances, which are a treat for both the ears and the soul.\n\nOverall Experience:the wonderful energy it radiates. It’s more than just a place to eat; it’s a place to create memories with loved ones. We always leave with full stomachs and big smiles.\n\nIf you’re looking for a restaurant with delicious food, great music, and a welcoming atmosphere, look no further than [Restaurant Name]. It’s a hidden gem that’s perfect for families and friends alike."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM2ay1fbVBBEAE",
+            "text": "The food was not good at all! I ordered the lobster it was over cooked, no flavor at all. Had to ask for butter, salt, lemon and pepper to give it some flavor. The service leaves a lot to be desired. Would not go back."
+        }
+    ],
+    "reviews_count": 74
+}

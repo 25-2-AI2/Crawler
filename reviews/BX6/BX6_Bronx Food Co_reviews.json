@@ -1,0 +1,635 @@
+{
+    "name": "Bronx Food Co",
+    "place_id": "ChIJXaBsc8r1wokRLswbj6YAB_0",
+    "grid": "BX6",
+    "address": "2368 Hoffman St, Bronx, NY 10458, USA",
+    "rating": 4.6,
+    "user_ratings_total": 359,
+    "phone_number": null,
+    "reviews": [
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4WWFtYzVOakJhUjBOemMxTklTWFJtWm1jMmJYYxAB",
+            "text": "ghost kitchen operating under multiple fake names on the delivery apps. I tipped on the app and I asked the delivery guy if he received it, and he said no, so very suspicious, since there was also zero tracking provided."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25rMVpYQkVSRXgwVFhobGJucFdUVzVyYVY5Q2FIYxAB",
+            "text": "I loooveee the burgers and truffle fries. Unfortunately, I live far, and the prices on the Uber eats app are double than in the store. A burger is 16 dollars on the app. Why is that?"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSUlVrUklkV1JzYmtWS2VWSjZaVkkwTVU5ME5tYxAB",
+            "text": "Top burger spot in NYC\n\nFast delivery and fresh taste\n\nMust-try signature burgers\n\nLoaded fries with flavor\n\nValue for money\n\nSatisfying burger experience\n\nConsistently great food\n\nCrowd favorite smash burgers"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VLalpxWnpGbllYallREAE",
+            "text": "Be careful they will let you order food knowing damn well there's no one in the kitchen to make your order. Just wasted my time and money. We'll see if there's a refund but highly doubt it."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZLUpyeHh3RRAB",
+            "text": "My two favorite restaurants are Luxe Bites  Best Burgers and Wings,, and Cari Blue Seafood for the Fish and Mashed Potatoes,, definitely try their Crispy Shrimp and Fries Calamari"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvcS1YQ3VRRRAB",
+            "text": "This place is so filthy, the side walk leading to the establishment was covered with dog feces and the inside was full of roaches. I bought food and quickly regret it when I saw how spoil it was. I don't recommend."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNveTVlQ0JBEAE",
+            "text": "Food was terrible threw it in garbage"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvbDVHLUl3EAE",
+            "text": "#tamarind island  .. I bought the guyanese style chicken fried from this location and within a few hours the food spoil..  waste of money"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvcTlQVVh3EAE",
+            "text": "It's about the third time ordering from tamarin island frist of all i am order 2 food ask for an extra paper sauce they would ever give .okkkkk I brought the foods around 4 30 by 5 30 fired rice 🍚 was spoiled"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3NUk3V3R3RRAB",
+            "text": "Great variety and quality food!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3a0xEN3dBRRAB",
+            "text": "one of the best burger places i have ever tasted"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3OU1MS3FnRRAB",
+            "text": "Excellent"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRbC0zR2NBEAE",
+            "text": "Food is always good and the presentation is always neat."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRbzZHV093EAE",
+            "text": "Food is amazing."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURROVpUSHBRRRAB",
+            "text": "Best burger and chicken spot fr"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRbVBlbWJBEAE",
+            "text": "Got the job done by feeding customers😂😂."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRemN2QmRREAE",
+            "text": "Very good good !"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRMllQQnVBRRAB",
+            "text": "The food was amazing."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRb2JqaW1RRRAB",
+            "text": "Delicious excellent"
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2X1BtSHZRRRAB",
+            "text": "Good food excellent service 👌"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRLU1PQ05nEAE",
+            "text": "didn’t receive parts of order, but it was quickly rectified the next day. food was alright. ordered from Gotham eats."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnaDVUdXh3RRAB",
+            "text": "Food was absolutely delicious"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnMl9xUm1nRRAB",
+            "text": "Burgers were amazing"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnbmNYaHJBRRAB",
+            "text": "Great food."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnbVlfSnJnRRAB",
+            "text": "Great place for a bite"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnM3NTYnp3RRAB",
+            "text": "Latest technology to support how we get our food. Food comes to you magically as all you see is someone handing you out your food."
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNObDVLYnpRRRAB",
+            "text": "Amazing"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnb0p2UVJnEAE",
+            "text": "I’ve ordered DoorDash from here."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnbTh6WXNBRRAB",
+            "text": "Ordered from Tamarind Island, Service was great, food came fast and the meal was delicious. I will return, as the food was expected because I’m a customer of the one in Queens."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNneTQzVlR3EAE",
+            "text": "Food was amazing"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnemZXYk1nEAE",
+            "text": "Love the food. Great portions."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnMmN6eGZREAE",
+            "text": "Super good!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnbWRDWS1nRRAB",
+            "text": "So glad there’s a korean place in the bronx now, the food is delicious!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNncVp1TG1RRRAB",
+            "text": "Great place lots of options"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnb2Fxb1pBEAE",
+            "text": "Delicious food"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnb2ZTNUNREAE",
+            "text": "Nice"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNncHFMNEdBEAE",
+            "text": "Excellent experience 👏"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmdWVmRi1nRRAB",
+            "text": "Employees are rude, but food is good"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmcXZtRS1RRRAB",
+            "text": "Really great burgers and fries!"
+        },
+        {
+            "date": "10달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmeXQ2X3dRRRAB",
+            "text": "Excelente"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmdk42RWtRRRAB",
+            "text": "Food was greatt"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmdklhQWFnEAE",
+            "text": "Banger"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2X19uQ21nRRAB",
+            "text": "Very good"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2aFliZVJBEAE",
+            "text": "All Basha is my favorite here!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2aGFUamNnEAE",
+            "text": "Great burgers"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2NmFXRFJ3EAE",
+            "text": "The food was great"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2NllIVnR3RRAB",
+            "text": "I got the truffle fries and the maple burger delicious. Love it."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2N3NPejl3RRAB",
+            "text": "The best burgers in the Bronx"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2dXN2ekpBEAE",
+            "text": "I can only say the cheddar cheese burger with pickles grilled onions with special sauce omg in a soft bun it’s delicious with buy one get one free except the grilled fries is extra money if u want it and fries is extra money and their original fries was crispy with their special sauce on the side delicious"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2MnYza0hnEAE",
+            "text": "Good food and jerk sauce is amazing and the smoked jerk chicken you can really taste it"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUdUt2TEx3EAE",
+            "text": "There was no Atmosphere.  Just a kiosk to order and a Bronx foyer to wait for your food.  Very very different from Taste of Seafood of the past on 125th.  The food and service was over and above par.  A beautiful sister took care of a brother.  For those who like to see and smell the food cooking and see who, and how orders are handled just go to Harlem.  I would order again and again, but I would just opt for delivery from now on from this location."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURScXBhZXR3RRAB",
+            "text": "It’s a cool concept. The food was good and the service fast. The only problem was locating the Jersey Mikes which unknown to us was part of the Bronx Food Co. There was advertising for other places, but nothing showing Jersey Mike’s was inside. Otherwise besides a few confusing issues, all was good."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQc29pWXFRRRAB",
+            "text": "Tried this place for the first time and the food is so good! I had the grilled chicken sandwich, truffle parm fries and churro bites but I’m planning on trying every item now."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMdjV2Y093EAE",
+            "text": "the place is clean inside and out. Everyone communicates very well. Food made fresh to order. When I came in the owner (Jason) was very understanding that something was missing from my order and did everything in the power to fix it & make it to my liking plus extra. Nice to see now a days"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4XzV5dDRnRRAB",
+            "text": "First of all I love the use of the technology from placing the order to the way the food is  distributed to the customer. The food was very tasty & flavorful. I had the mushroom patty with hand cut fries, so did my son. As I write the…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyOE5DM3dRRRAB",
+            "text": "Loving the makeover in the lobby. Very presentable and not to mention delicious food always! Kinda cool how they have multiple restaurants under one roof! Also noticed the drivers are using the side window now which makes a better environment in the lobby for personal orders. Great turnaround 🔥"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQNlBpamtnRRAB",
+            "text": "Great food! The best is the mix mashawi!\nAnd I love the garlic aioli with kebbah"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoM2M2Ukh3EAE",
+            "text": "The trip from New Jersey was worth it! Will have this any chance I get. The was very fresh and the taste definitely made my mouth water for more! The best 🙌🏻🙌🏻🙌🏻…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6dEo3ak5BEAE",
+            "text": "Need to work a little bit on customer service, Once I got the text about my food being ready went to the window and had to wait a little ..  but food was great 👍 and fast. TY"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkbF83TVpBEAE",
+            "text": "The food was great ‼️ I ordered the oxtail Mac , and my son had the sweet chili wings , I also ordered some honey jerk shrimp 🍤‼️ sauce was on point ‼️atmosphere received 1 star since they do not really have a dine in option, and service also received a 1 star since it was a multiple restaurant food corp where you have to deal with rude Uber eats delivery drivers picking up multiple orders , I got smacked with one of their delivery holder bags smfh with no apology , but other wise than that , I can’t wait till they open an actual location with dine in option‼️"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3bWVick1BEAE",
+            "text": "The food and the customer service were good. They are open until 3am. They have a take out window. Not sure what time is the last order. You could order at the window but payments are electronic.\nHowever, my fries were cold & I am owed a chicken strip. Food should be hot (made when ordered) and portions should be accurate. Especially when its $16 minimum for an order."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyNFBxb1F3EAE",
+            "text": "The food here is great. My main issue is picking up my personal orders. There is always a long wait for someone to attend the window. Secondly there are so many uber eat and grub hub people here doing pickups they don’t even get people a chance to come to the window. There should be a separate window for personal orders and orders through a third party. Until this changes I would not be recommending this place!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6Z3RfUG9RRRAB",
+            "text": "The food is always bomb! However just to let the people know it’s one of those ghost kitchens so you ain’t gonna be talking to know one. Food came out quick in 13 minutes. My fourth time order From them and the food is always great!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkdUs2bTBnRRAB",
+            "text": "The service was excellent. Placing my order was  easy. The wait time for my order was short. The employee at the window was pleasant and helpful, when I asked about my order. I had ordered a chicken sandwich which was delicious. The chicken was moist , tender and tasty 😋 I definitely will let others know about Bronx Food Co."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYbzVqMXJBRRAB",
+            "text": "The Food is just amazing! I ordered from HUNNY their Korean Food is on point with high standards although it’s delivery. I felt that I was eating at a restaurant table with how well cooked and fresh the food arrived."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2cW9PQXl3RRAB",
+            "text": "I love the jerk chicken. I am a big fan of the pepper too."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYN3ZPaW1BRRAB",
+            "text": "This review is for Hunny. I recently moved to Bronx and always complain about the lack of Asian cuisine. I’m so glad I came across this because it was delicious! Will def be ordering when craving Korean"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYbzRyR0RBEAE",
+            "text": "Hidden gym , you order at a kiosk, wait time is about 10minutes on average, you have a variety of different cuisines you can choose from and they are all delicious, great concept and they nailed it, on top of that the food is delicious ! Will definitely return"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiN1BTVzdRRRAB",
+            "text": "I came across a restaurant called ‘Hunny’ with a 4.8 rating on Uber Eats. I ordered the chicken bowl and it was 🔥🔥🔥🔥🔥. A week\nlater, I went in person to order and it was a little difficult to find as I was looking for a sign with ‘Hunny’ and I didn’t see one. The building # is clearly marked so this helped. This meal of veggies, meat, rice, fries and a wicked sauce is my new favorite. Very creative! Definitely try it!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwdWZLN013EAE",
+            "text": "Taste of seafood is great. Awesome management. Their system was down 1 day and they totally made up for that by offering me extra sides for free. This is a brotha so I will always support. Food is awesome serving size is large, very filling and tasty!!!!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQOE9iOEtnEAE",
+            "text": "It’s a ghost kitchen. The food is always great however they could improve on their service. Some of the front counter people seem to ignore you at times when you are trying to pick up the food."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMLWFXUDdnRRAB",
+            "text": "I was tired of eating the same things and came across Basha at the Bronx Food Co. How did I not know they existed and so close to home?!?!?Basha serves Middle Eastern cuisine.  I ordered a build your own bowl with chicken kebab, arugula,  yellow basmati, baba-ghanoush, tobouleh, corn salad,  cucumber, sumac onions and feta cheese.  All of that for $15.99!!! (Great Deal)  I added an order of Basha Fries bc I needed a min. of $20 for delivery.\nOMG... Everything was so fresh and flavorful. The bowl was very filling. The only thing is I feel they could've given a bit more chicken.\nThe fries were well seasoned and the portion was shareable which is great for the price of $8.39.  I will definitely be ordering from here again and trying other dishes."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUROcmVMVW9BRRAB",
+            "text": "Tried the Turkey tail from the African restaurant there. They were faithful with the timing of the order. Just a small room to order and a bunch of delivery guys waiting for their own. Would recommend ordering online first and then pick it up."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqeThmM0d3EAE",
+            "text": "I bought a plate of oxtail Rasta pasta from sauce boss wings. The TASTE was there! DELICIOUS! Too bad they serve you a child sized portion for $18. If the portion was bigger, they would get a 5 Star rating."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5LXVIVlhnEAE",
+            "text": "I ordered a platter with Salmon, Jerk Pasta and Broccoli. The food was fresh, hot and moist!\nThere’s no interaction with the staff. Your food is prepared and put in a locker that you will receive a text to unlock. It’s efficient enough just not the typical customer facing expectation."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1M0tTMXRRRRAB",
+            "text": "Excellent service, quick grabs for food, food was good and fresh. I’ll be back again.  I ordered from two different places. Both the food and the desserts where good.  I only didn’t like the peach cobbler that much but the other two  cakes…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSUREbU1SVxAB",
+            "text": "I asked for my sandwich to not have any pickles but that was ignored. They did put sauce on my chicken. The Mac and cheese was mid.  Overall it was a 3.5 especially given the price."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ1eHVmaVBnEAE",
+            "text": "Love the food and the gentleman who so me waiting was very helpful and tended to me in seconds. The place itself was unexpected was a bit difficult to tell I was in the correct place at first. No dining on site and mostly Uber/ other food services on site. Neighborhood as well leaves to be desired but the food is right on the spot delicious and worth it"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREcG9QUjFRRRAB",
+            "text": "I had a chicken gyro and my husband had the falafel. The sauces went perfect with both. Fresh well seasoned. The best chicken gyro in the Bronx. I cant wait to go back for something else."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEZzdlZ193RRAB",
+            "text": "orders can take longer than 1 hour to prepare, be very careful when ordering if you need a speedy meal. No dining area and overcrowded with delivery people. No cash payments are accepted here either, it seems to be extremely disorganized as I've seen 20-30 or more delivery people arrive, pick up their order and leave.....like why is my order continuously pushed back. If you need a kitchen manager, reach out. There needs to be organization and structure so incidents like this are prevented in the future. my order number is #y89ba placed at 5:57pm and it's now 7:02....not to mention my order was marked ready almost immediately after I placed it, maybe to keep order times low but not cool, and by the way the ONLY available option is pick up, so I dont understand the reply from owner, kinda sounds automated like they dont really care. Really felt bad for the counter person as the delivery people are extremely impatient and make the entire expo process excruciating. WHAT IMPROVEMENTS WILL BE MADE?"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNENnAzR0J3EAE",
+            "text": "My first time ordering and I will definitely be ordering again at Al basha . The mint lemonade is refreshing and delightful ! the mashawi and the basha fries were my kids and husbands favorite ❤️ everything was hot and flavorful and definitely worth it"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6eDhlbmNnEAE",
+            "text": "Take out was easy. Food packaged well and sealed in the bag. Had a little wait at the outside window to pick up the food but no issues. Food is always great from Basha!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUROaTVDU29nRRAB",
+            "text": "I ordered Al Basha and the food was pretty good minus the kabob sandwich that was 5 out of 10 stars. That sandwich was not good at all. It wasn’t very appealing and the taste was so so I could’ve made a better sandwich at home."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQZ2ZxMVBREAE",
+            "text": "Love it was so good will order again."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQcmRQc1VBEAE",
+            "text": "Mac and cheese was cold but ox tails was good… rice n plantain are mid but willing to to try other menu options"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkbF83aV9RRRAB",
+            "text": "First time ordering here. I like the system here how it works and the food was very good. I got 3 burger , frenhfries and truffle fries. It was 10/10! I would definitely order again"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzOEppN0t3EAE",
+            "text": "The food is great, and the service too will definitely keep ordering from my 2 favorite restaurants."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUNEktMDlnRRAB",
+            "text": "I actually used the kiosk in Bronx Food Co. My food was not hot. But the burger was still delicious.\nI’ll definitely visit the actual smash burger restaurant next time."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqak5MM2t3RRAB",
+            "text": "The area where the food is picked up is ALWAYS poorly managed. If I place an order and come 35-40 minutes later to pick it up, why do I have to wait another 15-30 Minutes for somebody just to come to the front to review my order to pick it up? Sometimes the guys in the front will look at my order, tell me it’s not ready, check everybody else’s order and then have me standing there for more than a justifiable time as if they forgot that I’m here to pick up. On 2 separate occasions that has happened and my food was sitting on the shelf the entire time!! You can’t make this up. And then when you get to the store there is no line. Everybody just cuts in front of you as if they don’t see you there so you have no choice but to say something because people lack manners now a days, why can’t they regulate the store and make everyone go in a single file line and wait their turn. Food is 9/10 but service is way below what it should be fix your customer service!"
+        }
+    ],
+    "reviews_count": 89
+}

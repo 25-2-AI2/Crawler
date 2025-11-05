@@ -1,0 +1,523 @@
+{
+    "name": "Montezuma Restaurant",
+    "place_id": "ChIJCw8XbY_zwokRdoPMNOoJM4Y",
+    "grid": "BX8",
+    "address": "119 W Kingsbridge Rd, Bronx, NY 10468, USA",
+    "rating": 4.3,
+    "user_ratings_total": 1203,
+    "phone_number": "(718) 601-6400",
+    "reviews": [
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Rd1ExWlBOV05HVDBoWGVXdDVkQzF0UmpnM00yYxAB",
+            "text": "The food is very good, the service is excellent, and the staff are friendly and attentive."
+        },
+        {
+            "date": "5일 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkTVZGQjBSR2hQTWw5dWFFSllSMk5ETTBwcFdrRRAB",
+            "text": "Ay una empleada que es muy creída y le habla muy mal a los clientes"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkMVdGUk9SMDgwTW1KVE1ESXpVVXBtYlRSbmRYYxAB",
+            "text": "Muy buen ambiente."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVNFV5MXFaRXBNVG1sdVdVaDZUV1p0VHpBMk9FRRAB",
+            "text": "Definitivamente no volvería la comida no me gustó aparte muy cara fui a pasar mi cumpleaños 🎂 y no me gustó además pedí un whisky k estoy acostumbrada a tomar y al siguiente día ni me acorde de lo que hice y me dolía la cabeza aparte que el menú es en inglés y si le preguntas lo que te dicen lo que tu no entiendas yo te lo explico barbaridad de lugar ..."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SdFVsWnpMVEZDT1dWaVptMWlZVFJ1VFhaMU5WRRAB",
+            "text": "My only gripe is giving me a Margarita in a Martini glass!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GV2MydHJTM3BUUlZNM1MxSnpSRlpKVUhoeVZYYxAB",
+            "text": "The food was really good,the atmosphere it was good but the service is rock bottom. I told the waiter 3 times I want a glass of water with nice,and never,ever brought me a glass of water,which forced me to buy 2 bottles of water,for no reason."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWbGRUUm9jVFJwV0d0T04xOVRaRUpWVVd0d1oyYxAB",
+            "text": "Amazing frozen margaritas\nVery tasty food"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKV0s3WXFwc3REeGF3EAE",
+            "text": "It's a nice spot with amazing food and good drinks"
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMRGIyNU8tdU1pTV9RRRAB",
+            "text": "Cada vez que visito a New York voy al Montezuma restaurante porque me encanta el ambiente mexicano, los fines de semana tienen música en vivo y la cocina es deliciosa"
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VKZkN4YlBfeHN5c29nRRAB",
+            "text": "Paella....no sirve...yo con mariscos enlatados la hago mejor......!! No se los recomiendo...han cambiado mucho...que pena....!"
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1bFpETXdRRRAB",
+            "text": "Excellent family ambient"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQQ1NyZDNkc3YzVXhBRRAB",
+            "text": "Momtezuma makes a tasty quesadilla and we'll drinks during happy hour, it's a great place to meet a friend and enjoy great music, food, and drinks."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvbzdXWXlBRRAB",
+            "text": "Excellent"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvaEllVnh3RRAB",
+            "text": "Excellent place to go eat or just go for drinks."
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZbzgzN2tBRRAB",
+            "text": "Great food and drinks"
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZLXZ2TWp3RRAB",
+            "text": "Delicious food. Good portions, waiters are friendly"
+        },
+        {
+            "date": "8달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURneDRhZFhBEAE",
+            "text": "Delicioso comida, el servicio 💝💯 y ambiente incredible 🔥 Mojitos 💯🔥"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnbk9TSmx3RRAB",
+            "text": "I recognize that businesses aim to profit from loyal customers, but charging $71 for just four drinks on February 14th is excessive and feels exploitative. Unfortunately, this experience has led me to decide not to return. It’s important for local establishments to prioritize their community, and this pricing shows a disregard for that valued relationship."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmMGZ6Qkh3EAE",
+            "text": "I haven’t visited this place in over 15 years . The food ,service and drinks wear excellent. Our server was Sergio loved the attention. My passion margarita was so yummy.  Had the eggplant casserole with chicken.  they have happy hour on Sunday evening .  I had to get a cappuccino to call it a night after my third margarita. Good food. Very nice. Definitely coming back. Thank you."
+        },
+        {
+            "date": "수정일: 10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQweHVYVTlBRRAB",
+            "text": "Good food. Be coming for thirty years. Food standard has gone down some but still good"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYcm9paEVREAE",
+            "text": "It was my first time here, I had Red Snapper with salad, and it was a good first impression.  The food was excellent,  as well as the service.  But expect some delays.  Also be prepared for hidden costs. Besides the regular tax, they're going to bill you another 18% service charge,  and still expect you to give tips."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYX091ZjdRRRAB",
+            "text": "Muy caro no hay estacionamiento te estacionan en la calle y te cobran 20 dolares"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYdTk2WElBEAE",
+            "text": "I went here with my family in the evening. The restaurants food is amazing, the service was great, and the music was always loud with salsa, dembow, merengue,etc. The atmosphere was enjoyable."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYMjY3QUp3EAE",
+            "text": "Me gusto el ambiente y la.comida"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURuMGJMRTBRRRAB",
+            "text": "Great Place!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURydUktQ013EAE",
+            "text": "\"I visited Montezuma and ordered a mojito coconut drink, but my experience was marred by a roach crawling up the cup. It was quite disgusting and ruined my appetite.\nI hope the restaurant addresses this issue to ensure a cleaner dining environment for its patrons.\""
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMc055UExREAE",
+            "text": "place became unbearable once dominicans took over…so loud you have to yell at the person sitting next to you so they can hear and they just cant live without hookah..food is salty af..women dressed like they’re at a night club..never seen so many BBLs in one setting in my life..just a circus now"
+        },
+        {
+            "date": "1년 전",
+            "language": "fil",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6bGRuczdRRRAB",
+            "text": "Extra spice kung Pao but ......"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUdTVEVnF3RRAB",
+            "text": "Food & drink was great."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUMDlPN3Z3RRAB",
+            "text": "20 mins no service also rude"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNROTluNEpREAE",
+            "text": "Excellent spot to eat delicious food and excellent drinks. It can get very loud here so if you want to have a conversation without having your lips next to the person's ear then this place is not for you. Also they are a bit on the expensive side and they add an 18% tip to the total so the check can climb very quickly. I love this restaurant. I've been coming here for years and they stand on top of the heap as far as local restaurants are concerned. You can also enjoy live performances, hookahs (if you're into that) and a variety of Spanish contemporary music plus oldie throwbacks. Eugenio is superb behind the bar. Highly recommended!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqcUtLN2FnEAE",
+            "text": "Love love this place great food good music drinks off the hook"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREanB1UXd3RRAB",
+            "text": "Excelente comida, las fajitas son el final"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREak5TeUVREAE",
+            "text": "Dishonest server who added service charge for 2 pax."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5Z2V2TFFREAE",
+            "text": "Their service was great and the food was excellent."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5bThPQVJBEAE",
+            "text": "Muy buen lugar para venir en familia,grupos o pareja !"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5bFA2NlBBEAE",
+            "text": "Love this place Been going here for over 25 years service  staff n food  have always been good. Drinks were on point as usual"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkbmJfVjBRRRAB",
+            "text": "Great ambient.... excellent service"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkc2YtYndRRRAB",
+            "text": "Service was pretty quick. Frozen margaritas tasted amazing. Tip is automatically included in the bill. They played lots and lots of Spanish music and a few hip hop songs on a Thursday night. Follow my TikTok @foodiegirlnyc for more spots."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKbEpDS3dBRRAB",
+            "text": "I went there on a Wednesday with my family, the Atmosphere is amazing, music is great and it was kinda empty when we was there. They had a Happy Hour that had food and drink, they said only drinks are on the happy hour and not the food, BUT it's advertised all over the place. I had the food and it was great but it was false advertisement about Happy Hour and why we went in the first place to save a few dollars and we spent a lot of money there. I would go back but no time soon."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwbWEtdGdnRRAB",
+            "text": "The food and drinks consistency is on point! Food is great and plenty. The drinks are well-balanced and effective 🍹😜. Two 👍👍 for the bartenders. Very welcoming environment even though the place is more on the cozy side. The restaurant in…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNocE8zSVd3EAE",
+            "text": "Didn't like food waz just regular nothing to brag abt.drinks suckef. The salad was my favorite I would not recommend this place..kudos to those who love this place."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRcE5iT1dREAE",
+            "text": "Continuing to find totally underrated spots in the Bronx. A quick eat for me and my lady today. They have all the easy go to Mexican cuisine as well as other dishes. The food was of good quality and the presentation was about seven shades prettier than anticipated. A delightful surprise from the kingsbridge community"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaclAzZkNREAE",
+            "text": "Second time here and the food is delicious!! Servers are friendly. The food took a bit long but overall I had a good time with friends and family. Great options for virgin drinks."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPeXNpbjJ3RRAB",
+            "text": "My partner and I came here on a Thursday night and it was quiet. The service was pretty good, food came out quick, and the restaurant has many options to choose from. The burrito I ordered was actually delicious, however, the rice was…"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRdjlhdVpBEAE",
+            "text": "Food was Ok.  Food tasted  bland.  I got beef chilaquiles.  Normally this dish should be spicy.    It was very disappointing dish.  Very bland.  The people that I was with ordered posole. Another disappointment.  No seasoned well.  I wouldnt recommend this place."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM4dU9mdEhBEAE",
+            "text": "It’s a really great place. The music and the food is the best!. It’s perfect for a casual night or whatever u have in mind. They have the best service and very good margaritas and piñas coladas!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtOF9uQUFREAE",
+            "text": "Have been coming here for over 30 years. Food and drinks exactly the same and delicious. Passion fruit Margarita's are a must! Salsa, chips, and Enchiladas suizas. My absolute favorite."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSdmRhYTZnRRAB",
+            "text": "I ordered four chicken tamales and a chicken taco.  Both had no taste or flavor.    The tamales had hardly no seasoning and had too much hot sauce, which I didn't ask for.   I will not be ordering here again."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNndHVtaF9RRRAB",
+            "text": "The food was incredibly flavorful.  However the lighting is terrible.  The dim lights make it difficult for people who wear glasses, to see."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhcWVLa2hRRRAB",
+            "text": "Great food. Cheap yummy drinks. Good service. Their seafood paella is delicious"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXcnFIYjhRRRAB",
+            "text": "Went there on a Thursday night, music was loud - but nice songs, place was dark, the service was bad - waited too long after asking for salt, and A1.\nMy red snapper was burnt.\nI've been here once before because the paella was recommended.... and the paella was delicious."
+        },
+        {
+            "date": "6년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwdl8zTzZRRRAB",
+            "text": "Muy buen servicio, un menú bien amplio y su comida es muy deliciosa!"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnM00tZXJnRRAB",
+            "text": "Great place. Yummy margaritas for $5 all night on Tuesdays! Elianna is the best server in the entire restaurant! Food was amazing."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMwak5TQkxREAE",
+            "text": "Always enjoy Montezuma it’s always a Ladies night when we Ladies get together Happy hour 🔥and the food is fresh and amazing. Come on by after work /school/ play…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXdktIWUFREAE",
+            "text": "All good - just the price .... came on a Sunday - consistent customers in and out ...\nFood was okay - they do say tex-mex - may return. Parking is hard to find."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhbXFQQy1RRRAB",
+            "text": "Just loved the food and place!!! Drinks on point.lol"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURja3FmTC1RRRAB",
+            "text": "This is my favorite dish from Montezuma, the  paella valenciana.  I've never had a bad experience with them.  Food is always on point. The place is very clean even though it's in kingsbridge.  And the owner is very friendly."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBNHVTY3BRRRAB",
+            "text": "First, the food is very good and close to the flavor of the Tex-Mex food my beutiful state of Texas has. The waiters, the kitchen people and the bar tenders are great people. They make you feel welcome and give you a very good service. I personally like that when my friends and I got there on April 20th to have a small celebration of their wedding, the restaurant was closed but they opened it ahead of their schedule and started given us a great service. I would have given them a 5 star but I'm not sure if the manager or owner was not happy that we were having a good time without bothering the other clientele. I think they need to be more down to earth in order in order to get the 5 star that other owners have gitten when I have visited their restaurants. My best wishes to the people that works there, they are the ones that make this place a great place to have a good time."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLMHBEN0pnEAE",
+            "text": "Service was a bit slow due to high capacity for 5 de Mayo  but overall crowd was good in their space (tables were pretty close) but food and drinks were great and strong 💪🏽…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtajRMci1nRRAB",
+            "text": "Everything was so great. The food was excellent. The happy hour menu has a variety for you to choose from."
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURVcU9XUEp3EAE",
+            "text": "Had an amazing time for my bday. Met a few lovely ladies and we hit it off\nFood n drinks delicious"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM2a1BhYWxBRRAB",
+            "text": "come. Had a nice time!! Drinks were nice( strong 😊) and the waiters were very attentive. The DJ was keeping everyone dancing 💃"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ1b3FHMmF3EAE",
+            "text": "I've had some really good times here. Never had a problem with the staff. Food is good and drinks are strong. Comes with chips and salsa, good piña colada, large portions. Long wait but the food is very good and steak is seasoned well. Very…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN0Ny1YVXVnRRAB",
+            "text": "Great treatment, had happy hour drinks. Nice and strong."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwMlB2RXNBRRAB",
+            "text": "Live music was a little loud for me but you can sit outside. Good was good small portions though. Drink are okay not to pricey cool little after work spot to catch a drink and a bite to eat. Once again music is loud might want to eat outside if you just trying to chill out. But if you don’t want to talk to your friends stay inside and enjoy the music."
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoNGNlYXNnRRAB",
+            "text": "Muy bueno el lugar y el ambiente, pero la comida una cosa por otra🤦🏽‍♀️🤦🏽‍♀️"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHcm9IOTdRRRAB",
+            "text": "Clams are good seafood platter in a red sauce was ok.  Guac was old."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURzanFLYkVREAE",
+            "text": "Great food & drinks. Dim lighting gives it a dark feel. My favorite Spot"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSUMxMjl0YhAB",
+            "text": "My family and I would like to thank the owners and staff of Montezuma Restaurant for their warm welcome and hospitality offered to me and my family. The service was friendly and quick, making you feel right at home. The main thing that sets this restaurant apart from the others is the live music from the great singer Eddie Carr. His voice brought the place to life and that made it a even more enjoyable night for my family and I."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1bTdUaWdRRRAB",
+            "text": "My wife and i, spent average $120 every time we go there.  Las time $215 we order 2 extra drinks and 2 more dishes , we were hungry :-) .  No parking,  nice live music,  nice people, very busy,  I hate the hookah from some customer.  I saw kid but is perfect for kids.  The Best Coronas i ever drink so perfectly cold and taste my friends but also the price it has to. Every thing else very very nice."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHdjlqWTZBRRAB",
+            "text": "Nice place. The service was very good. The waitress was very friendly and helpful. Great happy hour special. They have margaritas, mojitos, long Island and sangria for very cheap and the drinks are strong. No water downed drinks here.…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLaC1HSWFREAE",
+            "text": "First time here. It was so so. Just got appetizers & a mango margarita"
+        }
+    ],
+    "reviews_count": 73
+}

@@ -1,0 +1,523 @@
+{
+    "name": "La Morada",
+    "place_id": "ChIJFYWVgcT1wokRXb3glY_bbYM",
+    "grid": "BX3",
+    "address": "308 Willis Ave, Bronx, NY 10454, USA",
+    "rating": 4.5,
+    "user_ratings_total": 537,
+    "phone_number": "(718) 292-0235",
+    "reviews": [
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSS1JEWXlhbkI0VkRSMVIwdEdaVXhLWlcxNVZVRRAB",
+            "text": "Great Oaxacan food."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWcVMzWjZNM2t4YkMxTmVFeExZbGhDVEhoQlMxRRAB",
+            "text": "Excellent food—fantastic mole!—nearly everything is gluten free, and the agua frescas were delicious as well. Even simple items like the rice and beans were very nicely done. Great service. Not a fancy interior, but very clean and the food is sooooooooooo good."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21saU1XdGpZbUZUVEc1Wk0yOXBUMmRCZFdoR2VYYxAB",
+            "text": "Great place to eat real and traditional Mexican food. The owner and her staff are great people. The make you feel welcome from the time you step in. Keep up the great work and thank you"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oelZuTktaSFY0VlVwbFRuWklSa3BJTVdoM1VuYxAB",
+            "text": "Best Mexican I’ve ever had !!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poZldYUmpTWGRSTUhaUmFGZDJjek5hZGtKRFQxRRAB",
+            "text": "Can I go against the grain here and say it’s kind of overpriced?\nThe prices aren’t what the menu says and the vegan food is very stingy.\nAlso, heads up, in spite of the credit card signs it’s cash only.\nYes, the food is good.\nYes. The lady is wonderful.\nBut still, overpriced for you’re getting."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkRVFVaE9YMHRRTUhGclkyWkxWSFZvWlc1cU9WRRAB",
+            "text": "Food was delicious, took me back to my childhood."
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURzNW9yTzBBRRAB",
+            "text": "I just called, and apparently they are open for dine-in again! The website says \"takeout and delivery only\" but right now they are dine-in, Tue-Sat 10-4:30"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaaVREZGhUR05hWm14RGR6bFViVlExWVhKUVVrRRAB",
+            "text": "La Morada was closed on the day I finally made my way to their site, no sign on the gates, nothing! Totally disappointed"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoM1MwVkNOekpZTkdrMmNVZFlSM2N0YzE4MGExRRAB",
+            "text": "Delicious mole poblano and mole verde. The chicken was so tender and the Chile relleno was flavorful. Staff was really nice. Will be back for sure!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJUGs0S3FOdVlhcmxRRRAB",
+            "text": "Fantastic chicken mole!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VQcWQ3X0NocE9YaXlBRRAB",
+            "text": "I heard so much about this place and I was overly exited to check it out for my self but it was so disappointing maybe I had really high expectations for this place, but my chilaquiles were sooooo bland no flavor at all. Horchata very good and the lady there was very nice ambience a little different since they are just packing bread. It’s very nice what they do for the community tho"
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZdE5IS2dRRRAB",
+            "text": "Las enchiladas de mole Oaxaca no estan buenas y cuestan $25"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvdWFUZXJBRRAB",
+            "text": "Amazing food, warm and quick service. Highly recommend"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvNnBDRHNBRRAB",
+            "text": "Great meal and really friendly, welcoming service. Love what the restaurant stands for as well."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJMi1HNEl3EAE",
+            "text": "Great food so authentic, prices are very high."
+        },
+        {
+            "date": "7달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3dDdTMEl3EAE",
+            "text": "Comida muy rico!!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3X1l6NWl3RRAB",
+            "text": "Quintessential Mott Haven fixture not to be passed by. Some of the best mole I've ever had\nRich dark and earthy."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRMi1PRkNnEAE",
+            "text": "The food is one of a kind and everything on their menu is really delicious. They have a wonderful selection and their prices is very affordable."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnMTlIWnhnRRAB",
+            "text": "In the city, I discovered a hidden gem that serves some of the finest Mexican food. The cuisine is a delightful experience, particularly the chiles rellenos, which are packed with flavor. The staff are wonderfully kind, and their dedication to community efforts enhances the overall dining experience, making it truly inspiring."
+        },
+        {
+            "date": "8달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBbi0tTVhnEAE",
+            "text": "Muy buena acción"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBcDhhOGNREAE",
+            "text": "Most incredible place- the food and the people. Best in the city. Please go."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfb3QzMHJnRRAB",
+            "text": "Looked up best Mole in NYC. They have it and totally worth it. The service was amazing, they didn’t have Chimichangas but they accommodated my request with ease. Atmosphere is small mom and pops and Tia y abuela. Loved it!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfbGVMTHlRRRAB",
+            "text": "the best, they treated us great, even gave my baby boy a free rice and beans, they even gave us a gift of toy cars for him this was so generous of them along with the amazing food. mole and tamales are all on point and extremely authentic, this place continues to provide for the community as well. love la morada recommend 1000%"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2aDZhYkZ3EAE",
+            "text": "Wonderful mole served by genuine human beings."
+        },
+        {
+            "date": "10달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2dkthR2hBRRAB",
+            "text": "Excelente publicidad ❤️"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2c3YtSVhREAE",
+            "text": "Its my first time coming here and it won't be my last. Love the food. I got the chiles rellenos and I was hooked. Really welcoming place!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQX3RpSS1RRRAB",
+            "text": "Excellent service & very tasty and welcoming restaurant"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzdU4ybEFREAE",
+            "text": "The low rating is due to the business hours being open until 5pm, a long subway ride followed by a good hike only to be met with \"we're closing in twenty minutes but you can get an order to go.\" It was about 2:40.\n\nWe were looking forward to the Oaxacan mole, but this change in hours ruined that and probably means we will never make it back. If you try going call ahead to see if they are open, I guess."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzZ0kzZzhnRRAB",
+            "text": "Such a special place! It offers traditional moles and other Mexican classics. The focus on Oaxacan cuisine is wonderful. Everyone here is so sweet, and their community work is incredible. A must visit!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYMTlqdmVBEAE",
+            "text": "Arrived at 3 PM and was told they were closing. Traveled an hour and a half with presumably two hours to eat given their hours show open until 5 PM. Had to scramble to find another place to eat and the time spent ruined my afternoon.\nBeyond disappointed.\nHope this place doesn't need new customers because I will not go back and won't recommend."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURialBPY1NREAE",
+            "text": "Best Restaurant in the city"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMZ09lZXZnRRAB",
+            "text": "La Morada is dangerous. After each meal there, you will find yourself craving nothing else for the rest of the week. It's sincerely one of my favorite restaurants in the whole city, and my only regret is that I do not live closer. Thank you for making such beautiful food, with love."
+        },
+        {
+            "date": "1년 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUb1BqcjB3RRAB",
+            "text": "Génial ! Cuisine excellente et accueil soigné. Nous recommandons totalement"
+        },
+        {
+            "date": "1년 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqM2JPdkt3EAE",
+            "text": "La petite robe de guerlain"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqd2Zhc0ZBEAE",
+            "text": "Delicious food, had al pastor tacos, white mole, and vegetable enchiladas.  Really flavorful bites of food.  As a Korean the white mole was a bit difficult for me to wrap my head around, since we make a dish similar to this but with totally different flavor.\nThe horchata was fresh made (I don’t know how that is possible, but it was good), and limonata great as well.\nI came after watching Taco Chronicles on Netflix. The famed vegan squash flower tacos were not yet available as it is seasonal and they will appear roughly end of June through September.  Can’t wait to come back and try those.\n\nNot the most modern dining area, very local feel which was appropriate of course, but I do wish a bit more attention was paid to interior, but like I said, great food and great service.\n\nWell worth checking out!"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqeXBybmZBEAE",
+            "text": "El mejor y más bello recuerdo que llevaré a Chile es La Morada, donde el maravilloso sazón y el amor por la humanidad se amalgaman a la perfección. Gracias a Natalia y su maravillosa familia"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREN01URmtnRRAB",
+            "text": "The food here is outstanding. The Mole is maybe the best thing I have ever eaten. Along with the community connection this restaurant is a local hidden gem that any visit to the South Bronx should include."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREcExTRFpnEAE",
+            "text": "The food was powerful. The service sincere."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREaUotRGZnEAE",
+            "text": "Immaculate vibes. A true space for the community. Hopefully they receive enough support to expand the hours."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNENmV6Wld3EAE",
+            "text": "Best food I had in a long time. Still thinking of it after 7 hours!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkbkpTQkRREAE",
+            "text": "The food here is Delicious. Guacamole was Delicious. The Gentleman serving us was wonderful. He saw that my Mom, who has Dementia, was a little confused about how to eat her food, Tacos, and she didn't really like her drink.  For her it was too sweet, without asking he gave her water and served her something easier for her to eat. Very, very kind and attentive. Will Definitely return."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN0cjVQTmRnEAE",
+            "text": "Outstanding, authentic Mexican cuisine served by a generous, kind, and attentive staff in a simple space."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUROeF9INzZRRRAB",
+            "text": "The best mole I've had outside of Mexico. (Sorry mom)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxeG83LXRnRRAB",
+            "text": "I went here once maybe 7 yrs ago and I’m still thinking about their mole. Highly recommend!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxeHNUNk9REAE",
+            "text": "Amazing spot! The guy up front was extremely kind and helpful. Great homecooking"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxMU5TOTBnRRAB",
+            "text": "This Oaxacan spot has been on my list for a while and I was finally able to get up here. Not easy as they’re only open on weekdays and close at 5pm. It was well worth it though. Super friendly service and awesome food. They offer not just one but a variety of different moles. I got the less common Oaxaqueno mole and chicken which was a warming blend of seven chiles with a nice kick, perfect for a winter day. Served with rice, beans, and corn tortillas - all well prepared - it was a delicious and filling lunch."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxeUxybjhRRRAB",
+            "text": "Best Mexican food I have had in a very long time. Servers super attentive and welcoming."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGMExUV1BREAE",
+            "text": "La Morada catered an event that my work was hosting and it was a wonderful experience. The entire La Morada team when above and beyond- when I originally reached out to them about catering I didn't realize that they were closed on Saturdays (which was the day of our event). They came in to cook on a Saturday morning to help us out. Everything was packaged perfectly and transported very well. We had multiple food allergies and they labeled everything/accommodated all of the allergies (lactose, raw carrots, nuts, etc.). Everybody that attended our event loved the food. Thank you so much Marco and team."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNGeG9Pa0tREAE",
+            "text": "A very humble spot with good service and very good food.\nWe did not wait long for our food and it tasted authentic and flavourful.\n\nThey are helping refugees by giving free food to whoever is in need. This is amazing these days and you don't see that often enough.\n\nPlease go, eat, and support those in need.\n\nThank you for your hospitality and support of the community."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ1M3NHV0NREAE",
+            "text": "Recommend that place"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR3dkx6NkNBEAE",
+            "text": "This place is awesome. It’s a small hidden gem in the Bronx. It’s a family owned restaurant and it’s delicious authentic Mexican cuisine. They deserve their Michelin recommendation. They make their own mole sauce which is very hard to find.…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHbmJPdWZnEAE",
+            "text": "A friend of mine was so excited ordering from them as an original Authentic Mexican food and we went to pick the food up. The lady was so generous kept adding more food for free while we were insisting on paying for the extras but she was super generous. We left the restaurant with a great vibe and a wonderful experience. Their original Mexican dishes are unmatched and we kept eating without stop until we finished the load of the food we bought.\n\nThey are very good in their community and they donate lots of food. Super sweet people serving a great tasty food. I am totally hocked to that place from now on."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNNdDVuM2xnRRAB",
+            "text": "Because of the owners' involvement and activism surrounding immigration/politics - plus some of the articles that I had read about La Morada's authentic Oaxacan cuisine - this restaurant had been bookmarked in my queue for quite some time.  In searching for the perfect location for my Mexican Meetup group's December outing, this was the first venue that came to mind.\nConveniently located about a five minute walk from the 6 train, La Morada offers its customers a full service meal served in a clean, relatively spacious, and bright environment.  And, while I didn't find the service to be overly friendly or hospitable, it was cordial enough and very well paced.\nAs a (somewhat pricey) addition to the delightful squeeze bottle trio filled with salsa rojo, salsa verde, and crema, I ordered a $10 cup of the unique vegan white mole to sample (using crispy tortilla chips as my vessel).  Undeniably voluptuous and creamy, I preferred the thick, warm sauce blended with the other salsas versus enjoying it on its own.\nWhile the albondigas (meatballs) lunch special rendered drier beef than I had hoped, the balls were served within a shallow pool of delicious salsa that I sopped up using the accompanying homemade corn tortillas.\nFor me, the unequivocal star of the show was the chile relleno platter, which was accompanied by homemade corn tortillas (for burrito-making purposes!).  Do not miss this stick-to-your-ribs vegetarian entree (cheese-stuffed green chile that is breaded and fried and smothered with a chunky red salsa) that is plated with creamy black beans and saffron rice."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSNFltSU9nEAE",
+            "text": "La Morada is as satisfying as one can get for a community-oriented restaurant. I will acknowledge my bias since I've been coming here most of my life. I love the warm greetings from everyone in the family (who I consider family of my own). Not only do they take great care to address any dietary restrictions, but they remember your favorite orders and voice if you call/visit enough times.\n\nMy go-to is the mole poblano or chile relleno, which blends a lot of the best characteristics of Mesoamerican food together. They also have amazing carnita tacos and nonalcoholic drinks. Don't forget to ask about some of the local social causes they are supporting, as they ran a full mutual aid pantry through the COVID-19 pandemic. All in all, this is a mainstay for our Mott Haven community."
+        },
+        {
+            "date": "수정일: 5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNncF8tUTd3RRAB",
+            "text": "Best mexican food in the Bronx. Family owned place with friendly staff. You can customize any dish. Food is very fresh and has the home (mom cooked) taste. You can definitely have any dish customized to your taste & the ingredients you…"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzOTgyVWZBEAE",
+            "text": "Always been sad that so few good authentic Mexican places exist in NYC and was excited to find this amazing spot with delicious Oaxacan food made with love. Worth the trip to the Bronx and we'll visit again soon."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQwd3V2a0VnEAE",
+            "text": "Food was good. We had\nTlayuda carnitas,\nAdobo chicken\nSopes skirt steak,\nMole Oaxaqueño\nTlayudas is definitely a must. Carnitas was fresh and tasty.\nAdobo sauce was very good chicken was overcooked cause seems it's precooked and not served to order same for the pork ribs, they were just dry and order kind of small for a main entree (3 small ribs per order)\nSopes were good but not recommended if you are very hungry cause they are tiny sopes.\n\nOver all I think it's worth the trip but kind of expensive for a Bronx joint.\n\nService was good."
+        },
+        {
+            "date": "수정일: 5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNNcmVfdWpBRRAB",
+            "text": "Excellent food and great/friendly service ! Decided to take the wife and some friends out and we all agreed that this place was indeed a \"win\" ! The Bistec Ranchero was fantastic and everything (steak, cactus, cheese, etc) was grilled properly. Do not hesitate to stop at this \"real\" neighborhood spot."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCaHViQ1dnEAE",
+            "text": "Authentic Mexican food finally.  A great variety of flavors in so many dishes. I highly recommended. We live in the lower east side and it’s 100% worth the trip."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQwdktHUU5REAE",
+            "text": "They’re sooooooooooooo good. Everything in this restaurant is made fresh and you can tell. All of the people who work here are lovely and obviously care a lot about the community. I’ve had the chilaquiles, the vegan mole verde, and the enchiladas. Absolutely try the chocolate, which is rich and spiced beautifully. Never disappoints."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJdnBtaXRBRRAB",
+            "text": "We had suggested black meat mole and cactus salad. Food was not so good as expected, but eatable. The atmosphere was interesting but not really beautifully decorated. It seems as if they would appreciate folk art, but the big screen tv was…"
+        },
+        {
+            "date": "수정일: 5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNnOHFEWDBRRRAB",
+            "text": "Best Vegan Options in a Mexican restaurant near my neighborhood. They now have vegan cheese to add to your burritos, quesadillas or any dish of your choice. The staff is friendly and knowledgeable about there food."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnbF9MZFNBEAE",
+            "text": "Great food, good little library, I could hang for hours and my kid did some coloring in a coloring book they had, best time I've ever had wating for take out.  The staff was really friendly and everything was delicious! What more can one say, go here, they seem to have good politics too."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnX3FEX2l3RRAB",
+            "text": "Hands down the best Mexican food I've ever eaten. This place is nestled in the South Bronx away from all the noise of trendy restaurants popping up around the area. When you first walk in you notice the large, packed bookshelf and purple walls (both my faves). The paper menu is small and has offerings for the meat lovers and vegan alike.\n\nI ordered the chilaquiles with salsa verde an steak...YUM! The sauces was frwah, bold, and flavorful. It added a nice contrast to the rich steak and eggs. My friend ordered a corncake stuffed with black beans topped with a cactus salad. She loved the vinegary bite of the nopal salad. I also had the orchata which was creamy and perfectly sweet.\n\nThe service was great...our waiter checked on us and gave us more water even after we paid our bill which is rare. I will definitely be coming back and will tell everyone I know to try La Morada."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURrX3FhMEZREAE",
+            "text": "A small place with few tables. Gives you a homely experience. The food they served was excellent. We ordered shrimp with rice, pork tacos and beef burritos. It was amazing. I would definitely want to visit this place again."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJN1llSkF3EAE",
+            "text": "First time at La Morada! The service was excellent!💖💛La Morada has by far the best mole I’ve tasted in NYC. I ordered a pork mole poblano with rice, beans and tortillas. I also got a chinola juice which was so delicious! Very very few…"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzenFlcnNnRRAB",
+            "text": "Great black beans, delicious camarones a la diabla and wicked good mole. We will go back. And the serving was splendid."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKM05EdlNBEAE",
+            "text": "DELICIOUS chocolate mole and fresh tortillas. Practice your Spanish! They'll love it!"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRcy1hbTZnRRAB",
+            "text": "One of the best restaurants in the city, not the Bronx, the whole city. If you like mole, this is your spot. A piece of Oaxaca is in the Bronx"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURzMlBTeWd3RRAB",
+            "text": "Taco salad bowl with sauteed mushrooms and guacamole with chips, excellent! Both dishes fresh and seasoned well."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSaUxQVXZ3RRAB",
+            "text": "The mole sauce was INCREDIBLE. Had so much flavor and depth. Already can’t wait to come back"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnb05uRU5BEAE",
+            "text": "Love it! Authentic Mexican food and low prices. Sep 2017"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZMHBuOUh3EAE",
+            "text": "Nice mole dishes, though the vegetarian options are a bit limited."
+        }
+    ],
+    "reviews_count": 73
+}

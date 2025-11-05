@@ -1,0 +1,516 @@
+{
+    "name": "Corky’s Diner",
+    "place_id": "ChIJszkw2obzwokR1vHpM5NdZLM",
+    "grid": "BX5",
+    "address": "2537 Grand Concourse, Bronx, NY 10468, USA",
+    "rating": 4.4,
+    "user_ratings_total": 733,
+    "phone_number": "(718) 933-2484",
+    "reviews": [
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWbVgwaFlNM0o2YmtGellWSkZXa0o0U1hwdmNFRRAB",
+            "text": "Muy bien lugar"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKUVZHeENiVTFNTlZNNVJtdHljRXA0VldsUFUzYxAB",
+            "text": "Clean nice place to get a meal, breakfast, tea, coffee, bagel. My friend tried tacos...I tried a chicken gyro and it was pretty good. I love their Greek omelettes. They have a nice menu."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pscWIycFhSUzFhT1U1cVIwWmhNa0ppZERsRlFVRRAB",
+            "text": "Recomendable buen servicio  👍"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twa01tbGhYM1ZNYTJoUGNVTlRPVzQxYTI1VE5tYxAB",
+            "text": "I ordered the 2 over easy eggs with turkey bacon breakfast  and the portions were generous! It includes buttered toast and home fries. Everything tasted fresh! The eggs were cooked just how I like them, and the turkey bacon was nice and crispy! The staff were friendly and moved quickly. It is a small diner and you instantly feel like family when you dine there. Please make sure to visit them. You won’t regret it."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPNE43QnpnRRAB",
+            "text": "The service from the waitresses is excellent, and Steve, the owner, and Juan, the manager, make a good team at the counter. They treat customers well."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSVU1WZFpZbU52Vm5JelQyWlliVzVLUW1adU9YYxAB",
+            "text": "Decent eats great vibes"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKbllEVEl3EAE",
+            "text": "Breakfast was delicious!! Good atmosphere , excellent service"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FMWRVOUJZbVI2V2s1bFJraEtNMUJxYjFoWWNFRRAB",
+            "text": "Great diner in the heart of The Bronx! It's near Fordham so it's close for students too. It's cheap and has a big size plates with a wide range of food in the menu. The vibe is great and you should also share a chat with the owner! Great place to share memories (and food)."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205RU5sUXpZMUZGWmpSVFRWSmpaMUpuTFRWck1uYxAB",
+            "text": "Good service,  good diner food!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGRWR6a3dVVU5zZUhsS2RHVlFiR3RrVXpRNE4wRRAB",
+            "text": "One of the best places to get something quick to eat.."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCTlMyeHJPR3AwU0daM1RFTllka3h3VFhWemVrRRAB",
+            "text": "Food was fresh! Service was quick and server was friendly and attentive! Very affordably priced! I definitely recommend giving this diner a visit!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poVGIwUlNWa1ZKTFhaaFZuVmxPRFo0Ym10eU1WRRAB",
+            "text": "Food is super good and the staff is very sweet."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSSVVWTnpla2hoUlZka2JVTnhWR1YxYzJWRWRrRRAB",
+            "text": "Love this place!! French Toast (Challa Bread) with Bacon and Home Fries are my Fave!!!!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOVFdrUTFSbkpCV1c1TVVVVnFRVGwwYVdGRldIYxAB",
+            "text": "Lovely staff and good food. It is your standard diner with a nice local vibe."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvNkpxMkl3EAE",
+            "text": "$15.95 for their ny wrap. It said $14.95 in front but they charge you tax at checkout even when you pay cash. Fries were really good but the wrap was just ok. Would I come back here? Probably not, unless it was for the fries. The chef cooked the food very fast, only waited 5-10 minutes.\n\nBathroom wasn’t very clean, I spotted two flys.\n\nParking is difficult in this area as well."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvZ2J2UXh3RRAB",
+            "text": "Love coming here with my mom but she in the hospital haven’t came here in so long so I came here 2 times & brings me so much good memories & the waitress she is so nice very kind to me & others too I didn’t ask her name but she is so wonderful glad I came here it’s been to long"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3bHNuYjFnRRAB",
+            "text": "I love corky’s diner for breakfast, i come here sometimes by myself & sometimes with friends. The service is always top tier, the food never dissapoints me. My only complaint is when they are busy & there is a wait time for a table, but that usually only happens on saturday & Sunday mornings. Highly recommend Corky’s Diner"
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURxanVQdkF3EAE",
+            "text": "The best"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmdGFmX1pnEAE",
+            "text": "Went in today and a) it’s a real diner, like the dineryest diner in NYC maybe b) I had the best fried egg sandwich on a roll ever c) Greek and Mexican flags by the entrance. Wish I had taken a photo of the egg sandwich but I wolfed it down."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmLXNfc05REAE",
+            "text": "This is a horrible place to wait for your food.45 minutes wait for food"
+        },
+        {
+            "date": "수정일: 10달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM0bW92Zm1BRRAB",
+            "text": "Excelente servicio y calidad"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2eDdPbDVBRRAB",
+            "text": "Good"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzdUpqX3B3RRAB",
+            "text": "Called to say they made a mistake on my order. They proceeded to argue with me, claimed they never took my order, and gave an increasing attitude. Waste of time."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYMkxtam13RRAB",
+            "text": "The food is OK and the place is small.  Small enough to be noticed when you walk in but no one really greats you. It's very expensive and they close super early."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYMGIzOEZnEAE",
+            "text": "Great eatery 👌🏿"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRbVBtb1JnEAE",
+            "text": "Very friendly and comfortable ... The food is good, and the prices are resonable"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIOGZhRWFnEAE",
+            "text": "The owner Steve, his dad, and staff are the BEST! In addition the food is soo good! Their  Belgium waffles are the BEST I've tasted! Great food for breakfast, lunch or dinner; good atmosphere, nice sized portions and great staff! NEVER a disappointment going here, eating in, or take out, as I have often done both."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiM3BYbmF3EAE",
+            "text": "Buen servicio"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURycUs2UGpnRRAB",
+            "text": "Love this place. Came here after visit to Poe Cottage and the food was amazing. There aren’t any photos because the food didn’t last very long. The service was exceptional. I live in Brooklyn but I would definitely come here again."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyaWNuUTJRRRAB",
+            "text": "Great place to eat food was amazing"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMdk5TV3NnRRAB",
+            "text": "Ordered here for Father's Day to check the food out , normally I would order from Fordham Plaza Family's Cafe but why not give them a try , everything was $92.00 and Every item was soo bad,no flavor,little portions and horrible taste in food.Do not order from here! Save your money"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6Z3NqNS1BRRAB",
+            "text": "I'm going to be healthy ☺️ and happy for this dinner thank you 🙏 for all the time all the workers are putting in everything they are doing. Keep it up 👍"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUOGZfandBRRAB",
+            "text": "Was looking for a walkable diner and came across Corky’s. Second time visiting this place and food was delicious, service both times was pleasant."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUOGJQb05REAE",
+            "text": "Good neighborhood place. Great prices. Gets a little busy because of the area, so expect a small wait to be seated.\n\nHave gone back multiple times, only complaint is that the lemondade tends to be a little sour however you can tell its homemade lemonade which is a little harder to pull off."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqM1p5cEFnEAE",
+            "text": "Great food"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqbGZEczZBRRAB",
+            "text": "Food was great, but when the staff are super nice and friendly, it makes you want to come back even more! Always appreciate nice people."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURELTUyTVRREAE",
+            "text": "Great diner food and atmosphere"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREOWVhdjlBRRAB",
+            "text": "Muy bueno el lugar la comida buena a mis hijos les encanta"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREN3NiY0dnEAE",
+            "text": "Ordered chicken dinner and paid 16 the chicken was so small I don't even know what kind of chicken it's supposed to be. The drumstick is the size of a wingette and the wing is like it's from a Cornish hen. Very disappointed"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURpOExtYTJBRRAB",
+            "text": "Muy mal servicio la comida tiene muy mal presentación y tardan demasiado"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREelAzZ2ZBEAE",
+            "text": "Bad service , bad food worst place I ever ate from"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5NzhDR0NREAE",
+            "text": "Best chicken tacos 🌮 in nyc! ✔️ only problem was cashier was rude and obnoxious almost felt like because of us being black and colored was being  treated a little on the disrespectful side of things!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5bklta0hREAE",
+            "text": "First of all this is the portion they give for platters to go I’m assuming ? And I’ve never had any diner ever make such small portions. Sadly I’ve came here many times before and dined in and had more of a pleasant dining experience against being at the booths. let me start off with the older  man with grey hair behind the register is so rude and nasty you’ll sit at the booth and he’ll attempt to throw food towards you seemingly to be in hopes to hit you with the food. The other workers seems like they walk on eggshells due to the old man breathing down their necks ever so often. I wouldn’t recommend you eat here. Food portions are small and that old man is very nasty  The remainder of the staff works really hard to serve you."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR0M2ZQRnBnRRAB",
+            "text": "Great experience good food great service."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUROczdMNTRRRRAB",
+            "text": "It's my choice for a good sit down breakfast with your family or the wife, plus great customer service."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURONmJfRlp3EAE",
+            "text": "Excelente lugar"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxc3VTd1ZREAE",
+            "text": "Hola las meseras  son pésimo servicio sus actitud  como que uno va a pedir regalado  la comida  ni te atienden bien en mi opinión no les recomendaría  en mi opinión.."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtdWVDdHF3RRAB",
+            "text": "De-e-elicious fresh food and great staff. The Dessert cakes were incredible. Will definitely visit again.\n~~~~~~~~~~~~~~~\nDid Uber eats today: Superb service and food. Had meals at our door within 40 minutes."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXdnIzZzN3RRAB",
+            "text": "Corky's Diner is LITERALLY one of the best little diners in the world!!!!!! Delicious food and AMAZING wait staff!!!! Between 9am and 12pm they get REALLY busy!!!!! They have outdoor dining if necessary!!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMycmFMZWJnEAE",
+            "text": "I've been visiting Corky's since it was on the other side of grand concourse. Everyone at the restaurant are amazingly polite and helpful. The wait time is to be expected since many many people go to buy all types of foods. I visited a week or two ago with my girlfriend. Service was excellent and they even came out and organized the seats for us to sit. This is a 5 star definitely."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURjMl8yNEFREAE",
+            "text": "Love going  to Corky's. The service is great. I have  been eating there for years. The food is great, the staff very attentive.  Love it."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlNUxiOW1RRRAB",
+            "text": "I always go get my cheeseburger deluxe. The employee always friendly. It's always pack with people there. This is how you know they have good food. 5 Stars all day"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDNTV1czlnRRAB",
+            "text": "Got introduced via ubereats. Amazing amazing food and presentation. The pancakes are so buttery, fluffy and delicious. Also got a philly cheese steak panini and it was really good. Im not sure how but the fries were not soggy at all. Definitely a must try and i’ll be a repeat customer."
+        },
+        {
+            "date": "수정일: 7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3ZzgyUGNREAE",
+            "text": "Great Food and Quality Service! Steve and his team goes  above and beyond for everyone. Generous portion sizes and some of the best desserts around (try the carrot cake)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGdV9fcm1BRRAB",
+            "text": "Been coming to Corkys for around 4 years now greatest dinner I’ve ever been too the kindest most hospitable staff the tastiest food I’ve enjoyed and a unforgettable experience"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXcnUtWHJ3RRAB",
+            "text": "Been coming here for years, always on point, and recommend if you need a spot to grab breakfast or lunch"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXbkpieUpBEAE",
+            "text": "Great Food. Great service!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ1dHZQZXZRRRAB",
+            "text": "Love love love this place. I loved on Kingsbridge when I was 12 and I'm now 39 and I STILL love this place! They used to be across the street. Its always as welcoming as a relative's home. ❤️  I've gotten breakfast, lunch, and dinner. They even accommodated me on how I wanted my salmon made (even though it wasn't typically made that way)."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtNVBDV0JREAE",
+            "text": "Corky's is a very good place to grab breakfast and lunch. It can get a bit crowded for inside dining but delivery is a wonderful option too. They were very accommodating and attentive to my group of 10. We were seated together and treated…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1aTcyV21BRRAB",
+            "text": "Looks can be deceiving. A small spot but the food was surprisingly good! The pancakes are a perfect size with great almond flavor, my only issue was they only offer Artificial maple syrup. Had to bring my own real syrup but it was worth it! Now i don't have to go all the way to New Rochelle Diner for a good breakfast!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURLbk9yMXp3RRAB",
+            "text": "Pleasantly surprised today by this fine establishment! It's so hard to find good service, and good food in the Bronx, but today i got lucky! So I must give credit when is due. The place was very clean. It was busy yet i still received my…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURvMEt6c2p3RRAB",
+            "text": "Went here randomly with my husband and I must say the service was great. However, I do not recommend the chicken tenders. It was hard and seem microwaved. I really hope you guys take this in consideration and cook your tenders more properly. Other then that,  I will definitely go back."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2MGNiYXBnRRAB",
+            "text": "Great atmosphere definitely recommend it if you’re on this side of town"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRNG9LV2l3RRAB",
+            "text": "My granddaughter and I went to have lunch there. The food was very good. The service needs some improvement, but the waitress was very nice. It's a very  quaint diner; not large enough for large groups. The diner has counter seating for lone diners (those eating by themselves). Free refills on coffee. The lemonade made from scratch is awesome! There is a restroom and a mounted t.v. on which the last time I was there, either they were showing the news or sports (I really wasn't paying any attention to it). I would say that the majority of the employees there are very pleasant.  Yes, I would recommend this place to all!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSamJEOXlBRRAB",
+            "text": "Terrible experience. To begin the waiter Jess, seems to have a preference in serving her family members (Management allows this). The waiter skipped TWO WHOLE TABLES.  Second they get the order wrong and it takes FOREVER to get ready. And the food is cold. With service like this it makes it really unpleasant. We choose to keep our business local but this experience just makes us want to go to places like IHOP."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURsMlBQSVJREAE",
+            "text": "I love going to Corkys. I go almost every day for lunch. It's a great diner to grab some food if you're near Fordham. It is one of the best places to get food in the area that is not fast food."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMyaDV1cnpnRRAB",
+            "text": "Had dine in service in the afternoon. It was at 90% capacity and we were seated right away. Waiter was friendly. The place itself seemed a little outdated, this place has been here a while. Overall good experience and the food was as it should be, well made and delicious!"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURvc01hanNRRRAB",
+            "text": "My wife and I visit Corky's several times in a month and we mostly order for breakfast & lunch and the food is great everytime. You can count on friendly customer service. overall the staff are very nice and the food is always delicious. It's a beautiful and clean restaurant. I highly recommend this restaurant for its excellent food and pleasant experience."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnck0zTHNBRRAB",
+            "text": "The place is a good place to eat and has a lot of good aspects. There waiters are are nice and they treat you like home. Although they do have some not good aspects they don't really tell you where to pay or what to do so if it's your first…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2NzdtTHRBRRAB",
+            "text": "Wonderful dining at Corkys Diner...the customer service is lovely. Lovely waitress and charming manager. My eggs just right..french toast and sausage delicious...both manager and waitress checked on me offered more coffee and making sure I was satisfied. A neighborhood gem."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwLTZtZjFBRRAB",
+            "text": "I've visit this establishment twice with colleagues. While the food is decent in taste, it could benefit from improved presentation. Unfortunately, the outside seating area appears to be poorly maintained, which affects the overall ambiance of the place."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPc0xIS2lnRRAB",
+            "text": "I usally come to this dinner with my husband and kids. Today I walked in on my own and sat by myself. Immediately one of the owner tells the waitress to ask me to stand up from the booth because I was by myself. Then another waitress approaches me and says that if I was only ordering coffee and toast I could not stay at their establishment. I told them that I was starting with coffee and toast because I’m a slow eater but that I was going to order my meal as soon as I was ready. The owner kept sending back his employees to remind me that I must but a meal order in order for me to continue sitting at their establishment. This is not only ridiculous but beyond unbelievable. For one I could have gone to another establishment, instead I like to support my local neighborhood business. I’m embarrassed and ashamed that people like these own a business in my community."
+        }
+    ],
+    "reviews_count": 72
+}

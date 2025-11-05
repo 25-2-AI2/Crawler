@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Maisonetta",
+        "address": "141 Lincoln Ave, Bronx, NY 10454, USA",
+        "place_id": "ChIJ6ZxdNlX1wokRtDoCPt_Iy4I",
+        "rating": 4.5,
+        "user_ratings_total": 302,
+        "phone_number": "(347) 297-4607"
+    },
+    {
+        "name": "Mottley Kitchen",
+        "address": "402 E 140th St, Bronx, NY 10454, USA",
+        "place_id": "ChIJqWuyfsP1wokRVGQNznSLGU8",
+        "rating": 4.7,
+        "user_ratings_total": 663,
+        "phone_number": "(929) 308-2099"
+    },
+    {
+        "name": "Beatstro",
+        "address": "135 Alexander Ave, Bronx, NY 10454, USA",
+        "place_id": "ChIJbwExnN31wokRZZ9XeXdpYXg",
+        "rating": 4.3,
+        "user_ratings_total": 1349,
+        "phone_number": "(718) 489-9397"
+    },
+    {
+        "name": "La Morada",
+        "address": "308 Willis Ave, Bronx, NY 10454, USA",
+        "place_id": "ChIJFYWVgcT1wokRXb3glY_bbYM",
+        "rating": 4.5,
+        "user_ratings_total": 537,
+        "phone_number": "(718) 292-0235"
+    },
+    {
+        "name": "Xochimilco Family Restaurant",
+        "address": "653 Melrose Ave, Bronx, NY 10455, USA",
+        "place_id": "ChIJu8iHasn1wokRumLZtGnNVr4",
+        "rating": 4.4,
+        "user_ratings_total": 841,
+        "phone_number": "(718) 402-5400"
+    },
+    {
+        "name": "Sobro Garden",
+        "address": "26 Bruckner Blvd, Bronx, NY 10454, USA",
+        "place_id": "ChIJRRenBdj1wokRDi8_4gjD-bs",
+        "rating": 4.3,
+        "user_ratings_total": 166,
+        "phone_number": "(917) 398-3400"
+    },
+    {
+        "name": "Rosa's At Park",
+        "address": "2568 Park Ave 1st Floor, Bronx, NY 10451, USA",
+        "place_id": "ChIJgfSTonj1wokRA3vK2Lzo04Q",
+        "rating": 4.4,
+        "user_ratings_total": 530,
+        "phone_number": "(929) 502-3700"
+    },
+    {
+        "name": "Sol Y Sazón Restaurant",
+        "address": "440 E 138th St, Bronx, NY 10454, USA",
+        "place_id": "ChIJWWoJCFb1wokRiFrGYWB9V7Y",
+        "rating": 4.8,
+        "user_ratings_total": 21,
+        "phone_number": "(718) 618-0955"
+    },
+    {
+        "name": "Charlies Bar & Kitchen",
+        "address": "112 Lincoln Ave, Bronx, NY 10454, USA",
+        "place_id": "ChIJrSNA6N31wokR8rOP6iXD4RA",
+        "rating": 4.3,
+        "user_ratings_total": 1088,
+        "phone_number": "(718) 684-2338"
+    },
+    {
+        "name": "La Isla Cuchifrito (149th Street, BX)",
+        "address": "276 E 149th St, Bronx, NY 10451, USA",
+        "place_id": "ChIJB56guc_1wokR1Wq_wcjuPiE",
+        "rating": 4.1,
+        "user_ratings_total": 500,
+        "phone_number": "(929) 246-1591"
+    },
+    {
+        "name": "The Original Venice Restaurant",
+        "address": "772 E 149th St, Bronx, NY 10455, USA",
+        "place_id": "ChIJD9Cu-rn1wokRJQkgJLt3Gos",
+        "rating": 4,
+        "user_ratings_total": 500,
+        "phone_number": "(718) 585-5595"
+    },
+    {
+        "name": "Blue Bay Kitchen & Market",
+        "address": "2769 Third Ave, Bronx, NY 10451, USA",
+        "place_id": "ChIJ_Y-fkPH1wokRcs20y5wflAU",
+        "rating": 4.8,
+        "user_ratings_total": 69,
+        "phone_number": "(929) 227-3301"
+    },
+    {
+        "name": "Xolo Mexican Grill",
+        "address": "129 Alexander Ave #1, Bronx, NY 10454, USA",
+        "place_id": "ChIJeVSSxYr1wokR20AH3I2U34M",
+        "rating": 4.8,
+        "user_ratings_total": 49,
+        "phone_number": "(718) 676-1949"
+    },
+    {
+        "name": "Nourish",
+        "address": "141 Alexander Ave, Bronx, NY 10454, USA",
+        "place_id": "ChIJD3rfIen1wokRIjYbx4B_ZIs",
+        "rating": 4.6,
+        "user_ratings_total": 71,
+        "phone_number": "(212) 871-6155"
+    },
+    {
+        "name": "Hacienda Agave",
+        "address": "496 E 138th St, Bronx, NY 10454, USA",
+        "place_id": "ChIJI8z61xb1wokRdCyYtXD1Ghk",
+        "rating": 4.7,
+        "user_ratings_total": 134,
+        "phone_number": "(347) 270-2144"
+    },
+    {
+        "name": "Pio Pio 4",
+        "address": "264 Cypress Ave, Bronx, NY 10454, USA",
+        "place_id": "ChIJYRGEQcD1wokRw2dpEZ6sc24",
+        "rating": 4.2,
+        "user_ratings_total": 1943,
+        "phone_number": "(718) 401-3300"
+    },
+    {
+        "name": "Halal Sauced Up",
+        "address": "337 E 138th St, Bronx, NY 10454, USA",
+        "place_id": "ChIJKV9iZi71wokRNc5wgal2Mvo",
+        "rating": 4.5,
+        "user_ratings_total": 58,
+        "phone_number": "(347) 269-5968"
+    },
+    {
+        "name": "iNine Bistro",
+        "address": "53 Bruckner Blvd, Bronx, NY 10454, USA",
+        "place_id": "ChIJwSbhU1j1wokR15Mc9bFPbuI",
+        "rating": 4.3,
+        "user_ratings_total": 361,
+        "phone_number": "(929) 265-9682"
+    },
+    {
+        "name": "Twisted Wings",
+        "address": "544 E 149th St, Bronx, NY 10455, USA",
+        "place_id": "ChIJlUJxuHH1wokRhDN-UmDBllA",
+        "rating": 4.7,
+        "user_ratings_total": 83,
+        "phone_number": "(718) 589-7622"
+    },
+    {
+        "name": "Mexicocina Mezcaleria",
+        "address": "503 Jackson Ave, Bronx, NY 10455, USA",
+        "place_id": "ChIJySFE9rn1wokRPae7M19QEVY",
+        "rating": 4.2,
+        "user_ratings_total": 804,
+        "phone_number": "(347) 498-1055"
+    },
+    {
+        "name": "La Patrona RestoBar",
+        "address": "504 E 138th St, Bronx, NY 10454, USA",
+        "place_id": "ChIJVVJax3T1wokRlkBAf4lMA74",
+        "rating": 4.9,
+        "user_ratings_total": 7,
+        "phone_number": "(347) 270-2035"
+    },
+    {
+        "name": "Tenares Restaurant",
+        "address": "571 E 141st St, Bronx, NY 10454, USA",
+        "place_id": "ChIJM9_vI8H1wokRL5pQZ0_gFwg",
+        "rating": 5,
+        "user_ratings_total": 1,
+        "phone_number": null
+    },
+    {
+        "name": "La Jefa Mexican Restaurant",
+        "address": "237 Willis Ave, Bronx, NY 10454, USA",
+        "place_id": "ChIJmc4CMVb1wokRpTPz_KCE6u8",
+        "rating": 4.4,
+        "user_ratings_total": 89,
+        "phone_number": "(347) 270-2185"
+    },
+    {
+        "name": "Mummy's Caribbean Kitchen & Bakery",
+        "address": "557 E 137th St, Bronx, NY 10454, USA",
+        "place_id": "ChIJhdF8yO31wokRX7TONBCSH3M",
+        "rating": 5,
+        "user_ratings_total": 17,
+        "phone_number": "(347) 591-0103"
+    },
+    {
+        "name": "Taco Express Mexican Grill",
+        "address": "232 Willis Ave, Bronx, NY 10454, USA",
+        "place_id": "ChIJMQ31OAD1wokR7J9JJd7hdTU",
+        "rating": 4.9,
+        "user_ratings_total": 111,
+        "phone_number": "(347) 431-3645"
+    },
+    {
+        "name": "Hudson Smokehouse",
+        "address": "37 Bruckner Blvd, Bronx, NY 10454, USA",
+        "place_id": "ChIJyUPhf0b1wokR44CxoVEzKPA",
+        "rating": 4.2,
+        "user_ratings_total": 678,
+        "phone_number": "(718) 872-7742"
+    },
+    {
+        "name": "Parrilla Latina",
+        "address": "614 Melrose Ave, Bronx, NY 10455, USA",
+        "place_id": "ChIJp9joIcn1wokR3hMddJXKCVo",
+        "rating": 4,
+        "user_ratings_total": 755,
+        "phone_number": "(718) 993-5894"
+    },
+    {
+        "name": "Porto Salvo",
+        "address": "424 E 161st St, Bronx, NY 10451, USA",
+        "place_id": "ChIJx-zorsr1wokR5a-0j2bBtPI",
+        "rating": 4.6,
+        "user_ratings_total": 859,
+        "phone_number": "(929) 376-7866"
+    },
+    {
+        "name": "Madison Cafe",
+        "address": "463 Willis Ave, Bronx, NY 10455, USA",
+        "place_id": "ChIJzz6968X1wokRXJAJ2cQqXec",
+        "rating": 4,
+        "user_ratings_total": 524,
+        "phone_number": "(718) 993-3555"
+    },
+    {
+        "name": "Los mangos bar & grill",
+        "address": "231 Brook Ave, Bronx, NY 10454, USA",
+        "place_id": "ChIJ-ba3yNf1wokR7yviizD1UU4",
+        "rating": 4.9,
+        "user_ratings_total": 9,
+        "phone_number": null
+    },
+    {
+        "name": "Cocina Maravilla",
+        "address": "531 E 138th St, Bronx, NY 10454, USA",
+        "place_id": "ChIJhYgfLn71wokRrLHkbKPgFwc",
+        "rating": 4.1,
+        "user_ratings_total": 37,
+        "phone_number": "(718) 975-2146"
+    },
+    {
+        "name": "Kori's Eats",
+        "address": "2515 Third Ave, Bronx, NY 10451, USA",
+        "place_id": "ChIJAdxZadz1wokRQfbnMXsynFw",
+        "rating": 3.8,
+        "user_ratings_total": 243,
+        "phone_number": "(718) 401-2462"
+    },
+    {
+        "name": "Ruinas de Copán & Bar",
+        "address": "483 Brook Ave, Bronx, NY 10455, USA",
+        "place_id": "ChIJxU_sN8b1wokRxf2XpZt9vrg",
+        "rating": 3.9,
+        "user_ratings_total": 371,
+        "phone_number": "(718) 585-6473"
+    },
+    {
+        "name": "Wingstop",
+        "address": "356 E 149th St, Bronx, NY 10455, USA",
+        "place_id": "ChIJSe2GR8_1wokRww1wtO9qnZU",
+        "rating": 3,
+        "user_ratings_total": 232,
+        "phone_number": "(718) 949-9464"
+    },
+    {
+        "name": "Villano Pizza",
+        "address": "226 Willis Ave, Bronx, NY 10454, USA",
+        "place_id": "ChIJ47vz7mb1wokRVocImEd45qA",
+        "rating": 4.5,
+        "user_ratings_total": 67,
+        "phone_number": "(917) 473-7928"
+    },
+    {
+        "name": "EL TAMALITO",
+        "address": "531 E 138th St, Bronx, NY 10454, USA",
+        "place_id": "ChIJcSME03_1wokRCgatY-x4aHw",
+        "rating": 4.4,
+        "user_ratings_total": 24,
+        "phone_number": "(718) 975-2147"
+    },
+    {
+        "name": "Angie's Cafe & Pizza",
+        "address": "2559 Third Ave, Bronx, NY 10451, USA",
+        "place_id": "ChIJa4QXf9v1wokRBkH_7sHrnZ8",
+        "rating": 4.6,
+        "user_ratings_total": 404,
+        "phone_number": "(718) 292-3606"
+    },
+    {
+        "name": "Mr.N seafood market",
+        "address": "351 E 138th St, Bronx, NY 10454, USA",
+        "place_id": "ChIJsZSdMsj1wokR2Y7o9o0YTy8",
+        "rating": 4.5,
+        "user_ratings_total": 44,
+        "phone_number": "(347) 340-4910"
+    },
+    {
+        "name": "El Valle",
+        "address": "640 Melrose Ave, Bronx, NY 10455, USA",
+        "place_id": "ChIJAwMPh8j1wokRyjIcgCEa2ZY",
+        "rating": 3.7,
+        "user_ratings_total": 771,
+        "phone_number": "(347) 271-9191"
+    },
+    {
+        "name": "Royal Cafe Restaurant & Bar",
+        "address": "514 E 138th St, Bronx, NY 10454, USA",
+        "place_id": "ChIJ2wZTzx71wokR44AqC4DoNso",
+        "rating": 3.5,
+        "user_ratings_total": 25,
+        "phone_number": "(347) 270-2077"
+    },
+    {
+        "name": "Rey Tacos Taqueria",
+        "address": "626 Melrose Ave, Bronx, NY 10455, USA",
+        "place_id": "ChIJs7Tv6P_1wokR3WcnhBRph4g",
+        "rating": 4.5,
+        "user_ratings_total": 129,
+        "phone_number": "(718) 483-8735"
+    },
+    {
+        "name": "El Rincón Boricua",
+        "address": "622 Melrose Ave, Bronx, NY 10455, USA",
+        "place_id": "ChIJAWZ1-Jz1wokRqD_ub3QV8A0",
+        "rating": 4.1,
+        "user_ratings_total": 32,
+        "phone_number": "(718) 483-8355"
+    },
+    {
+        "name": "Hong Kong",
+        "address": "610 Melrose Ave, Bronx, NY 10455, USA",
+        "place_id": "ChIJG2HxIMn1wokRuE9HGSnWVaQ",
+        "rating": 4,
+        "user_ratings_total": 222,
+        "phone_number": "(718) 993-9988"
+    },
+    {
+        "name": "Mamar Bari Indian Cuisine",
+        "address": "2960 Third Ave, Bronx, NY 10455, USA",
+        "place_id": "ChIJZxIBegb1wokRpYfH-zy4oqk",
+        "rating": 4.7,
+        "user_ratings_total": 353,
+        "phone_number": "(845) 836-3203"
+    },
+    {
+        "name": "Seis Vecinos",
+        "address": "640 Prospect Ave, Bronx, NY 10455, USA",
+        "place_id": "ChIJb4LjG7r1wokRyAd4TrnrVeQ",
+        "rating": 4.1,
+        "user_ratings_total": 2270,
+        "phone_number": "(718) 684-8604"
+    },
+    {
+        "name": "La Patrona Restaurant",
+        "address": "558 Southern Blvd, Bronx, NY 10455, USA",
+        "place_id": "ChIJV8naGrr1wokRlmBGgvH5HQU",
+        "rating": 4.4,
+        "user_ratings_total": 360,
+        "phone_number": "(347) 270-5545"
+    },
+    {
+        "name": "El Salvadoreño",
+        "address": "619 Melrose Ave, Bronx, NY 10455, USA",
+        "place_id": "ChIJFw94JMn1wokRVc9k0ooMjOQ",
+        "rating": 4.2,
+        "user_ratings_total": 229,
+        "phone_number": "(646) 637-8179"
+    },
+    {
+        "name": "Taqueria el Tanque",
+        "address": "260 Brook Ave, Bronx, NY 10454, USA",
+        "place_id": "ChIJU_dWzW71wokRv2g-vQGWKxA",
+        "rating": 4.6,
+        "user_ratings_total": 32,
+        "phone_number": "(347) 269-8237"
+    },
+    {
+        "name": "Bate Nabaya",
+        "address": "860 Melrose Ave, Bronx, NY 10451, USA",
+        "place_id": "ChIJqYPGt8r1wokR9VVujV97eq8",
+        "rating": 4.2,
+        "user_ratings_total": 171,
+        "phone_number": "(718) 401-2283"
+    },
+    {
+        "name": "Los Hermanos Salazar",
+        "address": "645 Courtlandt Ave, Bronx, NY 10451, USA",
+        "place_id": "ChIJtZHvtM71wokRT5f1uD3HwAg",
+        "rating": 4.2,
+        "user_ratings_total": 250,
+        "phone_number": "(917) 471-8320"
+    }
+]

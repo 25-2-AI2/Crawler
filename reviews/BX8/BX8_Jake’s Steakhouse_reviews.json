@@ -1,0 +1,537 @@
+{
+    "name": "Jake’s Steakhouse",
+    "place_id": "ChIJMdt9na_zwokR8EhXPxHLA1g",
+    "grid": "BX8",
+    "address": "6031 Broadway, Bronx, NY 10471, USA",
+    "rating": 4.5,
+    "user_ratings_total": 1116,
+    "phone_number": "(718) 581-0182",
+    "reviews": [
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zMVEwMXZOMUZyT1VOU2JHRTVWVGhRZW5sdVVGRRAB",
+            "text": "Warm vibe and kind staff. Steak was also really good."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200MlVsWXRTREp4YjNwRVVVTmFVMUoyVm1GTk5YYxAB",
+            "text": "The price is relatively high, but the portion sizes of the food are very small. In particular, the steak is just average. When you order a steak in many steak restaurants, they usually offer side dishes like broccoli or mashed potatoes. However, these are all a la carte. A single potato costs $12, and a small portion of broccoli also costs $12, and it's really tiny. The taste of the food is truly very ordinary."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSTlZtbGlTWHBKZUU1QlpYZGZRV1ZYVXpNM1VWRRAB",
+            "text": "Foods great\nService is great\nIts very Loud."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NMWFsTkJObE50WlROdFJDMURZMUJqZVRZNExXYxAB",
+            "text": "Food was simply amazing. I had the filet mignon and the Mrs had skirt steak. Both were absolutely amazing.  Cooked to perfection.  Service was incredibly unbelievable.  Will definitely be back again soon."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WYWFsZFhNVGxqY21aNFpFa3dMVUpVWDFoMlpYYxAB",
+            "text": "I was there to celebrate a family member's birthday and the service was on point, but the food was not good. I ordered shrimp scampi and it was brought to me lukewarm. The shrimp was not fresh and tasted rubbery, I sent the plate back and I ordered steak which was fine. But I will not be returning"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSWWRIQnJUVVoyT0hCUWNHWnZjRmN4WHpKcWVGRRAB",
+            "text": "Great Martini, which is an important part of a great steak dinner!  T-bone was perfectly cooked and the lobster mac and cheese delicious.  Would go again."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oQ1dtNHhNRFJQYkhocFdWTlFSRkJzU1ZCM1VtYxAB",
+            "text": "I always go to Jake’s and recently I\nWent and it never fails. Food is on point, and the service was excellent. Mariem did an excellent job enhancing the experience. Recommended to all."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCeFZERXRVRXh6WlZKVFZteGxjV3hITjFGdFgwRRAB",
+            "text": "My mentor and I have quarterly dates, and Jake's is the only place we will go. Great food, drinks, and customer service. Recommended!"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSaWZMQXBnRRAB",
+            "text": "Great food"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxd1dsRkpZWFJ2YkRoVk9FWjZWblZITVcxaVIxRRAB",
+            "text": "Did was incredible, drinks were spot on, service and atmosphere was top tier.\n\nHad an amazing experience here celebrating a graduation\n\nPlus they had TVs at the bar showing sports. Couldn't ask for anything more"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paR2FHNVRiakkxY0RkcE0yRTJSRGMzTFVGeVZGRRAB",
+            "text": "very decent steakhouse."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKTWEzWnRRVFpCTVRaTE9WbHRWM1JoUW1aRWJHYxAB",
+            "text": "This was our second time here, first time we celebrated my husband’s birthday and now our wedding anniversary. Food was delicious!! Staff is very pleasant from the hostess to the waitress. The atmosphere is chill and somewhat romantic depending on the occasion. Great place for a date, outing with family or catching up with friends over dinner. The porter house for 2 is perfect if you’re sharing and the truffle Mac and cheese is the best!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VNdVNuT09XOEtXX3ZRRRAB",
+            "text": "The food was amazing, as expected. The server was friendly and attentive."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLeTgzdW41NjRicGdBRRAB",
+            "text": "Honestly, one of the better experiences I had in a while. In an absolutely criminal manner, being a local, I never actually been here before. Decided to finally give it a try. I’d give the bartender a kiss, but he already has a kissy neck tattoo. I know why. He made my most pretentious martini order to the T. They even have blue cheese stuffed olives. Come on. What a treat. The crab cake had an entire family of crab meat in it. Mom, dad, and the kids. Maybe grandkids even. The braised ribs were tender. The gravy was succulent. The lobster truffle mac and cheese was decadent and filling. Service was exceptional. The bartender memorized four complicated orders and rang them in perfectly. They even have Lloyd’s carrot cake on the dessert menu. I love when local businesses support one another. Such a great local restaurant touch. Often we go out and think to ourselves “I could’ve done better at home”. For the first time in years I may be conflicted to that. These guys don’t just do it TO you. They do it FOR you. They get it. This place deserves more recognition and dare I say, a Michelin reviewer might want to drop in and decide for themselves. What a phenomenal establishment. Outstanding truly. I’ll be back, and not alone. Great job guys. Keep keeping on."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNM2RnODczbzdTRnNnRRAB",
+            "text": "I’ve been here more than a dozen times in the last 4 years. Situated right near Manhattan University it was a staple restaurant when visiting my son at college. The food is always awesome!! The staff is always great. I highly recommend!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VLVHo2b2JWNTlLWFJ3EAE",
+            "text": "Dinned in yesterday. Food was good. I had no complaints about the food, but the person who’s in charge of clearing out the table was horrendous at best, and completely ruined our experience at Jake’s.\n\nThere was a black guy who only speaks Spanish, and he would keep come to us every five minutes and ask “finish?” And he looked desperate to take our food away.\n\nHe started to do that from very beginning. The moment that the bread comes out, after a couple of bits in, he asked us “finish?” Like three times.\n\nThen when the main dish arrived and when we were working on them, there were many asparagus and some meat on the table. We just wanted to enjoy our time, have a conversation, and enjoy our food. But this guy bothered us every minute and was so desperate to take our food away.\n\nYou see, we ended up dining in for total of less than an hour yesterday at a fine dining restaurant. We definitely felt rushed throughout because of that guy and i asked the server to tell the management.\nThe funny thing is, he never bothered the other tables. By the text, we may sound like a karen but it was just ridiculous yesterday."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPZXNsb0haX05mRW13RRAB",
+            "text": "Great steaks 🥩, wait staff was great & ambience is so cozy. Perfect for a date night or family gathering. Looking fwd to returning real soon 😄✌️"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvNDdLWXl3RRAB",
+            "text": "Very comfortable and relaxing experience.  Food and drinks are great"
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvdlkySDVRRRAB",
+            "text": "Buen ambiente muy acogedor, excelente servicio."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvOWVUeVp3EAE",
+            "text": "I've never had such a horrible experience at any restaurant as I had at Jake's Steakhouse. Their hostess first took us to the wrong table (we were a party of 6 being taken to a table for 12). Obviously, that was the wrong table, and we had to go back to the bar area while she figured out where we were supposed to be, which turned out to be in the bar area. If we had sat at that table, we would've been surrounded by about 20 people standing over us. We asked if if we could have another table, and we would prefer upstairs. She figured it out and took us to the new table.  We were accommodated.  We thanked her and thought that was the end. After about 5 minutes, the general manager Jim Downey, then came to our table and scolded us (in a dining room full of patrons), pointing his finger in our faces because their hostess was crying (he said we were mean to her). He said, \"I'm glad you got what you wanted, but we shouldn't make any of his staff members cry, and if we ever cause that to happen again, we were no longer welcome to come back.\" I asked why she was crying because we weren't mean to her, nor did we yell at her or make a scene. All we did was ask to sit at another table because we were going to be uncomfortable at that original table.\nWe walked out. Plain and simple.\nThere are lots of other places to spend our hard earned money. Who comes up to a seated table and starts yelling at the customers? Disrespectful and uncalled for. You should get the full story before you yell at good paying customers.\nWill never go back again.\nAs a side note, they shouldn't give you a drink menu (which is so overpriced) if they don't have the alcohol to make the drinks. We had 6 basic drinks, which cost us over $120, and we never got to eat dinner."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvcGFhVmJnEAE",
+            "text": "Never again will I patronize this restaurant.  They brought us to the wrong table. Then they wanted to seat us the next to the bar which would have been fine if the table was not surrounding by 15 guys with no room to move and who would be standing over us. After asking for another table and being seated, the manager, Jim, berated and started yelling, pointing his finger in in my friend's face. That was it. we were the bigger people and decide to leave.\n\nPlus they gave us a drink menu but didn't have any of the liquors to make the drinks.\n\nPure trash"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvdG8yRk93EAE",
+            "text": "I ordered a roast beef sandwich. Nothing to write home about roast. Beef was not fresh sandwich tasted plain no pizaz save your 20 not going to Be my go to spot like I hoped"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvel9MMm5RRRAB",
+            "text": "What I really objected to at Jake's Steakhouse was the price relative to the quality of the food and service. To start with, it was a valet parking situation and there was no statement of charges. When we picked up the car the valet just handed us the keys expecting a tip. When we entered the bar/restaurant, dress was casual, staff was friendly, but the people behind us didn't feel like waiting assuming we didn't have a reservation. So, there must be a problem with the reservation service as our reservation was held in a Long Island location erroneously we were later told. Fortunately they had a table. The table was by a large window in which there was no room to get around and the headroom was low as well. We had to climb three flights of stairs and this was for a woman with cancer, osteoporosis and a small child as well as another woman with mobility issues. They had open booths but one wasn't offered. I did not feel comfortable. The waiter was friendly but inattentive except at the start. There was a bus staff and the reason they got 25% was because the bus stop was attentive and my son has worked in many restaurants in the past. The total bill was  $400 for four adults and a small child whose meal they forgot entirely. We had to order it again when the main entrees arrived.  The burger was brought on an English muffin and they told him that's all they had-he was four years old, but the french fries were good. The main dish was the filet mignon with the lobster tail and the lobster tail in this case was much better than the steak.  Even though the steak was prepared correctly it was also bland. It was not delicious at all. All the sides were a la carte and the spinach was mediocre. The asparagus was cooked properly but I noticed there was no seasoning or taste to any of these vegetables. Two orders of the salmon and a pasta dish with chicken we're disappointing although the salmon was cooked correctly the beurre blanc sauce with mushrooms and lemon was foul. NO Broccoli or couscous accompanied the salmon even though it was printed on the menu. The crab appetizer was boiled on a small tiny bit of lettuce, perhaps one ounce of crab claw served with a lid of cocktail sauce and another lid of yellowed aioli. I noticed the aioli was smeared on the side of the plate. I'm not sure if they were old but they didn't add a good flavor and I tried both and they were of poor or non-existent flavor. The containers were nearly too small to dip and the display of the food was not artful. Frankly I just was thinking that it was diner food.\nAside from refilling the waters as they went around the table periodically, removing dishes awkwardly, and too early, some seemed to have an unprofessional attitude.\nThe staff was attentive however, and accommodating when asked. The mushrooms and onions were sauteed together and didn't taste very good. I would say all of the food was cooked in a watery base, had very little to no flavor, and was un expectedly lacking any good taste or finesse. For all the world I could have sworn I was eating in a rest home. I would never go there again and felt that a $400 price tag on the meal above described was ridiculous! Larcenous! Incredibly disappointing especially since we had invited an old friend that I had not seen in a long time and while she made it all the way upstairs she had trouble getting downstairs. The staff was very helpful. Edible but not a good experience and one that I would never leave to chance again! What happened to the rest of our meals? Lol!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJcGFHMGh3RRAB",
+            "text": "Definitely gives me old school mob meeting vibes ."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3cjU2Yy1RRRAB",
+            "text": "Food was great.\n\nService was so so. Nothing impressive. They were rushing - it wasnt busy. And they kept forgetting some stuff.\n\nFood 7.5/10, service 5/10"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3MU5heGF3EAE",
+            "text": "Great service. We had a reservation and were seated immediately with a top floor view of the city. We had twin lobster tails, lamb chops, creamed spinach, and lobster Mac and cheese. The sides were shareable and tasty. The twin lobster tails had a delicious sauce on them along with a nice buttery dip on the side. The lamb chops had the perfect temperature and mint jelly for added flavor. All delicious."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3dU03UXBnRRAB",
+            "text": "Nice steakhouse, wonderful service.  Tasty food!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRcDVmWEFREAE",
+            "text": "Always enjoy eating here!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNReUxIMzNRRRAB",
+            "text": "Met friends for a drink. Cozy bar, friendly service. Didn’t have any food but would certainly go back and try."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBbV9QMHlnRRAB",
+            "text": "They close way too early so I'm not able to go here for dinner as much as I would like to after getting off work but the times I'm able to make it here on my days off the food is great and the parking is usually really easy to find, 2 stars for the unreliable service but 5 stars for the steak."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBam9XeElREAE",
+            "text": "Celebrated a birthday with a prefix menu. Spent about $100 a person. Appetizers were of sharing portion. More than enough food for 8 adults and 2 children. Food was delicious and flavorful."
+        },
+        {
+            "date": "9달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBcVlUTGJnEAE",
+            "text": "Bien"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfbTltY01BEAE",
+            "text": "Excellent food. Service was good and accommodating."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfazZXN1ZBEAE",
+            "text": "Too expensive for the quality of food - bill $1,000. There were 8 adults and one child. Two people had 2 alcoholic drinks, 4 had soda and two just had water. The starters were two orders of rubbery calamari and 2 orders of the undercooked chicken wings. The orders of the wedge salads and Ceasar salads were tasty. The main orders of different steaks were all swimming in brown liquid. The steaks all had to be sent back because some were undercooked and another was overcooked - they seemed to lack flavor - I guess that is why they are served in the pool of liquid.The penne ala vodka needed to be cooked a little longer and needed to be served hot. The so called \"prime\" beef burger was on the dry side. There were a few sides but nothing to write home about. By the end of the meal - we were all surprised at the prices of each item now that we had seen and tasted the food. I have eaten at many different kinds of steakhouses but I can say this is one of the worst. For the price we could of gone to Peter Luger Steak House - quality meat."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2NXVhXzRnRRAB",
+            "text": "Went to Jake's Steakhouse on a Thursday night, place was kinda crowded which was good to see, we had Bang Bang Shrimp and Baked Clams Oreganata as appetizers, both were very good, I had Surf & Turf, a 6oz Filet Mignon & a 4oz Lobster Tail, the steak was cooked perfectly and to top it off I got \"Frizzled Onions\" which were awesome, my wife had Short Ribs with mashed potatoes and vegetables, very good as well, the only issue we had was my wife didn’t finish her dinner and had it wrapped up to go, but they never brought it back to us, we didn’t realize it to we were half way home.\nWe had Christian as a waiter, he service was absolutely amazing, so was the entire staff.Also, they have valet parking, which was great, because parking on Broadway is almost impossible.\nThis place is kind of pricey, but the food was definitely worth it."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2OG9HWTZBRRAB",
+            "text": "I had a very disappointing experience at Jake’s Steakhouse. I made a reservation for Friday night at 9:30 PM, but when I arrived, the hostess refused to seat me because I was 10 minutes late. She informed me that they have a *5-minute grace period* for reservations. However, there is nowhere on their OpenTable page or their website that states this policy, and I was not called or notified about this before my arrival.\n\nMost restaurants offer a 15-minute grace period, so this felt unnecessarily strict, especially when I had a confirmed reservation. My main concern, though, is that I was told the kitchen closes at 9:30 PM—the same time as my reservation. Why would you accept a reservation at a time when the kitchen is already closing? It makes no sense and left me feeling incredibly unwelcome and unappreciated as a potential customer.\n\nI would hope that the management takes steps to clarify policies and ensure better communication with guests in the future. I won’t be returning anytime soon, given this experience.\n\n**1 Star.**"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQa3JhMW5BRRAB",
+            "text": "It’s really a shame how far downhill this restaurant has gone. The seafood apps were all tough and chewy. The bone in ribeye was over cooked and for some reason served on top of a pile of sauce?? You don’t need sauce for a good rib eye. Just a complete waste of money. Really a shame because this place used to be great but this is the 3rd straight time of being disappointed and this time was just unacceptable for a supposed “steakhouse”"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQNXFtalJ3EAE",
+            "text": "Excellent food and steak"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzOWJTU1ZREAE",
+            "text": "The food is so bland & without seasoning, you can literally taste the blood out of the steak and that's it! Apparently the people in the neighborhood are allergic to salt & and pepper, so they dare not put Adobo in anything or else!!!!!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzeXJyRENREAE",
+            "text": "Highly recommend. Service was on point. A delicious surf and turf dinner. Tender filet mignon and sweet lobster. Both cooked perfectly. Grilled asparagus just right. Appetizer of steamed mussels with garlic wine sauce. Lovely dessert of apple crumb cheesecake. Specialty cocktails - don't miss! Roll me out of here. But happily!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzdjVYWTFRRRAB",
+            "text": "I always see this place with my running partner when we go to Van Cortlandt park. He treated me to birthday lunch today and it was just lovely, and I’ll certainly go again. Shell steak was a perfect medium rare, rested and served sliced. Beef short ribs were melt in mouth delicious. Potato croquette was creamy crunchy delight. Salads, bread, $55 bottle of California red wine. Sometimes we just want the basic, classic things. This whole place reads old school. They said happy birthday and comped our crème brûlée. Kudos!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYd2RQT1hnEAE",
+            "text": "Great service and food. A bit pricey but you can make it more affordable. Two smaller apps were enough for me and cost less than an entree. Pictured is the bang bang shrimp and the clams oreganata, both great."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYN3FEYVpBEAE",
+            "text": "The waiters assistant mixed my birthday cake with Ms. Pamela Damon's who treated me for the birthday dinner and cake.\nI was quite disappointed when I  got home and saw the apple desert instead of my carrot cake."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYN01HNk53EAE",
+            "text": "I was taken to Jake's for my birthday.\n\nNo other words can describe my experience besides, ABSOLUTELY PHENOMENALLY UNEQUIVOCALLY FANTASTIC!\n\nThis place is now my all time favorite steak house. From start to finish this was a PHENOMENAL meal. The hostess was extremely polite and friendly, the wait staff was gracious, helpful, and accommodating. The atmosphere is so comfortable and inviting, that you could probably stay there all day and feel right at home!\n\nThe meal?....\n\nWedge salad. AWESOME.\nFried Calamari. FANTASTIC.\nCreamed Spinach. TERRIFIC.\nTHIS WAS THE BEST RIBEYE I THINK I'VE EVER HAD IN MY LIFE. Bone in, tender, 35 day aged, med rare... I had to stop myself when I was full, because I would have kept on eating (it's that good!)...\n\n(Note: GET THE FRIZZLED ONIONS!...)\n\nHands down, Jakes is the best steak house in NY.\n\nNo disrespect to the Bronx, but when inside you forget you're in the Bronx. Across from the park, plenty of parking as well as Valet service!\n\nGO TO JAKE'S STEAK HOUSE AS SOON AS YOU CAN! YOU WILL NOT BE DISAPPOINTED!\n\nA++++? 100000000% YES."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKdGRibjhRRRAB",
+            "text": "Did the Sunset Special menu, which gives you an appetizer, main course & dessert from a preset menu. Ordered the mussels in spicy red sauce, as the app. The mussels were practically entry inside. The sauce was good. My wife had the mussels in white wine & here too had nothing in them. Had the short ribs w/ mash potatoes & red cabbage, it was really good. Was celebrating my father’s & brother in law’s birthday & they did these sparkling candles on the dessert & sang happy birthday. Besides the mussels everything was good. Christian was our server & he was fantastic."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCdzRyWDBBRRAB",
+            "text": "Fantastic experience, our server teddy was amazing! The only thing better was the food.\n\nIt came out in a timely manner. Every dish was truly delectable. You can taste the truffle on the macaroni and steak was unmatched for flavor.\n\nTeddy did a fantastic job timing the food and guiding our culinary experience. It was amazing!!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKNGZiRHhnRRAB",
+            "text": "We celebrated my son's high school graduation here with a party of 13 and two toddlers. The service was exceptional! The waiters were very attentive, patient, and helpful from start to finish. We had our own section of the restaurant, which was nice. The food was delicious. It arrived in a timely manner. The drinks were also great! We were able to bring our own cake, and they added a little flare to make it even more special! This was our second time eating here for an occasion, both for my son and at his request,  we would definitely visit again!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNId0tyanRRRRAB",
+            "text": "A beautiful jem in the Bronx!..\nI/we loved everything about this place. Soon as yu walk in you feel welcomed! Staff presentable and pleasant! The ambiance is beautiful. Family orientated yet romantic! The food was excellent! My steak was cooked to perfection! Our 11yr old enjoyed her Calamari. Service was great!.We definitely coming back!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsMExHX3NBRRAB",
+            "text": "My partner recommended this steakhouse to go out and try ... AMAZING ! From beginning to end everything was GREAT ! The host welcomed us in well and pointed out to my partner my favorite menu ... the specialty cocktails lol My partner had the Apple martini i had the Jakes Old Fashion BOTH were great ! Our Server Roger and his team did GREAT ! The raw bar half combo is PERFECT little bit of everything & for the price can not beat it oysters clams shrimp DELICIOUS ! We also had the fried calamari PERFECT . We ordered the porterhouse for 2 , sauteed broccoli with garlic , frizzled onions and mash potatos EVERYTHING was delicious . We took some home and enjoyed the rest . Had a glass cabernet for myself and my partner had prosecco really good ! Love The logo on the wine glasses ! We were too full to eat dessert but i definitely took the strawberry cheesecake to go OMG DELICIOUS !! THANK YOU ROGER AND THE TEAM DATE NIGHT WAS PERFECT SEE YOU GUYS SOON !"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyelllU2tRRRAB",
+            "text": "The service was excellent from the beginning. Our server Marissa P. Made it a very enjoyable experience. She’s very professional, great personality and knowledgeable. She suggested a few options and was completely satisfied with all the recommendations. I would reserve a table again with Marissa for our next dinner celebration. All 5 Stars to this wonderful restaurant in The Bronx!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQxdHMyUUdnEAE",
+            "text": "Finally went to this place. Prices are good, place is pretty, food is really good. Service a little bit slow but not Europe slow.. they didn’t ask us if we were paying cash or card.. since those are different prices. Overall 9/10"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4cXFQYnR3RRAB",
+            "text": "My family took me here for Mother’s Day and it was an excellent choice. We normally go to Morton’s Steakhouse. This restaurant is not only cheaper but definitely is on par with the quality and service. I have absolutely nothing to complain about. The only thing I can say negatively is, if you are traveling with older people this may not be the restaurant for you as there were many stairs. Other than that, I have nothing bad to say."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJb3RfZWNBEAE",
+            "text": "Food is here is amazingly delicious. Steak literally melts in your mouth so soft like butter. Ambience is so nice lightly dim room small and cozy yet no overly tight where everyone is on top of each other. Such a great place to have in the local area. I wish I could eat here everyday. The blue cheese crust on the steak with their lightly fried onions on top is far too good to pass up on. Dessert was just fabulous, and the calamari was not chewy yet cooked perfectly. They provide quality food in a delicious way. The customer service is also great and pleasant. I absolutely love eating here! I saw a food network chef here one time so that says alot.  Great for a intimate or romantic date/celebration. You could really get lost in the moment/conversation here-delicious food great wine wonderful atmosphere and did I mention if you score a window seat the view is of the beautiful park. I swear what's not to live about this place. It's a legit delicious steakhouse not just for name sake purposes they really do speacilize and take pride in their food. Totally recommend all to try!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqc003aVZREAE",
+            "text": "The Surf & Turf was delicious and perfectly cooked medium. Wings were solid. Shareable sides (Mac & Cheese, Sautéed Spinach) were smaller than expected, but enough for two small servings."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXMl95MzRBRRAB",
+            "text": "I've given this place 5 stars because the service was immaculate. From making reservations to the actual dine in service; they were very friendly, accommodating and professional. THEIR ENTIRE STAFF IS BEAUTIFUL. I ordered the skirt steak and it was very tender. My son ordered the seabass and loved the buttery texture and how flavorful it was. My daughter ordered filet mignon and loved how fun the onion decoration looked on top and my husband ordered the chops. However, he didn't like the mustard sauce, but ate their overly sized thick chops. It was my son's 21st birthday and he ordered his very first drink at the bar. They were magnificent helping him out. 👏 I highly recommend them because this is the type of experience that one hopes for when dining out. You want to feel regal and feeling great on money well spent. ☺️ Thank tou Jake's!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4azV6VUZREAE",
+            "text": "Hubby and I celebrated our ninth wedding anniversary here. Nice and welcoming experience. My husband loved the ambiance more than I did. We will return."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuaGVmSUl3EAE",
+            "text": "Es un lugar muy hermoso y acogedor, las personas que trabajan ahí te hacen sentir en casa y especiales. El costo de es bueno me encanto la esperiencia."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnbElXdWRREAE",
+            "text": "I came here on a rainy Saturday before Mother's Day with a group of 5. I didn't know we had to make reservations, but since the place wasn't packed they allowed us to sit. Great accommodation on their end.\n\nFew things to note - make reservation if you're coming in a group of 3 or more, especially on a weekend. Valet starts at 4 pm. Anything before you're going to have to find parking on your own. The service from the staff is amazing!\n\nThe food was great! I highly recommend the Bang Bang Shrimp, lobster slider (I think that was the name), and Jake's Filet Mignon special. I wouldn't say it's the best steak I've ever had, but it was good enough. My only complaint was that it was kind of dry. Their sauce made up for it though. Their rice is also very dry so I'd definitely wouldn't order that again. But aside fron that, everything else was great!\n\nIf you're thinking about trying this place and you love steak, I definitely would highly recommend."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZNHBieGFBEAE",
+            "text": "Delicious steaks and sides. We had a NY shell steak au poivre and the Jake's filet mignon with bleu cheese and fried onions. Attentive service. We were upstairs and so we had a lovely view of Van Conrtlandt Park."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtMVBhNlZREAE",
+            "text": "Food was really good they also have a sunset meal special on Fridays which includes an appetizer main course and a dessert! Not to mention happy hour at the bar!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJOGJEQmlRRRAB",
+            "text": "My favorite Steak house!!! It's Literally a house turned into a Restaurant. When you walk in the hostess smile and greeting is very warm and welcoming.\nThey OWN The Secrets of how to make A Succulent Steak!!! Herb infused with flavorful Juice dripping out the meat, I can't wait to go back!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNZcVpqR1FBEAE",
+            "text": "Nice place with delicious steaks (we got medium fillet mignon) and super tasty oysters. We also had mashed potatoes that had similar flavor to the one we have in our native country so we liked it as well."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxMnEtSERBEAE",
+            "text": "Upon arrival I was greated by almost every staff member. The service was outstanding, they even have valet parking. The food did not take long to come out and the steak was cooked to perfection. I recommend this restaurant to all especially for date night."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxemY2TzJ3RRAB",
+            "text": "It is a little difficult to give Jake’s a 4, but the bruschetta didn’t have a lot of flavor and the baked potato was only average.\nThe filet mignon was excellent and the iced tea was good.\nThe $7 baked potato should have been offered “loaded “, butter- sour cream- chives- cheese - bacon, but only came with butter and sour cream.\nService was good, but they had to fix a incorrectly charged credit card."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPdGZId2VREAE",
+            "text": "Great restaurant, food is consistently delicious! Our favorite steakhouse for nearly 20 years. The porterhouse is our favorite and all the other cuts are excellent  quality too."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMaE1YV2t3RRAB",
+            "text": "It was very busy that night but the service was great and the food was delicious."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtbVpHRmJREAE",
+            "text": "Beautiful place, excellent customer service. I think is somewhat expensive, there is no bread or chips on the table for stated. Most meats don’t come with any complementary/ sides, you have to order it separately."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvLWF1ZFhBEAE",
+            "text": "So this is my first time here and I have to say that I have a pallet for fine steak, now with that said this place Rocks in all aspects but food. Teddy was an excellent host and did right by us however he cannot make up for the lack of the…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMyb2VhSzFBRRAB",
+            "text": "I was invited to dinner @ Jake’s Steakhouse. I read the reviews today, after eating there last night. I / we must have gone at a bad time or the cook simply gave out the leftovers of the day. The entrees were decent, even tho I’ve had better lamb chops @ Yankee Stadium. It was the appetizer & sides that were under seasoned, very dry & the napkin that some how ended up in the mashed potatoes that really got to me. Do I really need to travel out of the Bronx in order to get a deliciously prepared expensive meal? I sure hope not. Yes the staff was nice"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNJaGNyUS1nRRAB",
+            "text": "Wonderful old-timely style steakhouse right at the end of the 1 line at 242nd Street. While it's a bit of a hike the food and cocktails make it well worth the trip! Why not visit the Cloisters either on the way to or from a lovely lunch?"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1bE52OXlnRRAB",
+            "text": "This is the best restaurant in our area for at least three miles in any direction."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURLclo2RnpnRRAB",
+            "text": "I had the Tomahawk steak with lobster Mac and cheese. It was delicious. Pecan pie ala mode for dessert to round out the dinner."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURpeExyeUhnEAE",
+            "text": "Great experience! During this time of the pandemic, the friendly staff all wore masks, hand sanitizer readily available and social distancing was enforced by using plexiglas dividers between tables that were 6 feet apart. The food was absolutely delicious."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNReHEzV3V3RRAB",
+            "text": "Must say.... first stake house in nyc that i have visited since coming here on vacation.  The place is beautiful and gives an old school feel to a great dinner.The amazing waiter (Ted) was always there right before you looked for him for…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQta011dnpRRRAB",
+            "text": "Great steak and even greater service. My only complaint is the price markup for credit card use"
+        }
+    ],
+    "reviews_count": 75
+}

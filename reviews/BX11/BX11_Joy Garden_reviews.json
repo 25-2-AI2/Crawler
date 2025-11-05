@@ -1,0 +1,530 @@
+{
+    "name": "Joy Garden",
+    "place_id": "ChIJB_lmz5f0wokRSvbBPwwSlOI",
+    "grid": "BX11",
+    "address": "687 Morris Park Ave, Bronx, NY 10462, USA",
+    "rating": 3.9,
+    "user_ratings_total": 181,
+    "phone_number": "(718) 518-1242",
+    "reviews": [
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oMllWOVJNbVZZV2pNM09UaGxaVGQxY1ZveFIwRRAB",
+            "text": "You don't expect much from Chinese restaurants. However this one is my FAVORITE; and I am difficult to please 😅\nThey unfortunately don't have delivery, but I recommend it to any locals questioning what's the \"good chinos\"🥡\nThey are friendly and quick for service.\nAnd for people like me who looks for \"great deals\"\nYES! They are responsibly priced 😋🤑"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4VE1EZDViVk5QVDJGbGJ6UnFkMmt4TTJRd01sRRAB",
+            "text": "Don’t eat there"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRMDZXRU9REAE",
+            "text": "Terrible services, the dumplings are made with flour for empanadas like what! Tastes like I’m eating a Dominican empanada. 👎🏻👎🏻…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYbnJmS0xnEAE",
+            "text": "Best boneless spare ribs combo ever. Clean. Fresh never had an issue."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuZzVXdWRnEAE",
+            "text": "Best Chinese food in the Bronx frfr"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyaExQQndBRRAB",
+            "text": "Great place, great food, great people"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSanYyWE5REAE",
+            "text": "I have been going here for 19years, a few problems over the years but I change my reviews. I order the same food each time and for some reason this woman keeps mixing up my orders, eventhough I  call each week with the same,she goes out of her way to repeat the wrong order. I was on the phone for 8mins. I had to hang up. Joy Gardens use to be ok, but this person is horrible.  I just saw a review 4 months ago and I thought it was just me, but its not me."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUOWVHelp3EAE",
+            "text": "Decent take away reasonable food and prices"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqenJUVnhRRRAB",
+            "text": "Good food"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUROaS0zd0ZREAE",
+            "text": "I ordered food on the phone and the woman kept sayin the wrong order. It took about six tries to get it right. When I came to get it, the chicken wings were burned, the order was still wrong. They told us 10-15 mins to pick up the food I came 30 minutes later and the food hadn’t been cooked yet and they were not busy."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWMTdIVml3RRAB",
+            "text": "The fried chicken and their fried rices are amazing 👏"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ1cUxpZ1hBEAE",
+            "text": "I've been going to this place for over 20 yrs now.  Never a compliant about the food"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSdE1QMFNBEAE",
+            "text": "Food is great yet the Arabs are taking over most of the stores and converting them to halal spots..."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoajhqMWJBEAE",
+            "text": "Joy Garden has been my choice of Chinese food for the past two years. The food is good and reasonable."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoNEpuRXFnRRAB",
+            "text": "Consistently delicious"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCMkkyS1pnEAE",
+            "text": "They okay"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtN0xDbkZREAE",
+            "text": "Good service"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtbU9fQ0NREAE",
+            "text": "Every so often, I buy my food here."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtM2NDYXhRRRAB",
+            "text": "Only get wings on occasion. Kid didn't even put sauce in the bag. 6 dollar wings & I can't have some hot sauce?! Very ghetto."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSURlNU00ZhAB",
+            "text": "This is hands down the best Chinese restaurant in the area. Their food is always good and consistent. And they give you a good amount of food compared to other places I’ve been to. If you’re looking for a good Chinese restaurant this is the place to go."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlcktDT0x3EAE",
+            "text": "I spend 42 dollars just for the chicken to be smelling like fish I threw my food away don't ever eat from here report this place call the food department to inspect everything in there 😠😡"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPbnVyVGt3RRAB",
+            "text": "I got sweat and sour chicken and it was severally bad. A hair was on my rice that I found."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDbi0zVlB3EAE",
+            "text": "I've been ordering from this place for three years and the food is getting worse. It's sad."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXN011Zk1REAE",
+            "text": "Asked for extra scallops paid for it and got 2 small ones. Disappointed."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXNmEtRUh3EAE",
+            "text": "Delicious Beef Fried Rice egg fu young sauce....!!!\n\nRecommended to those that want a tasty full plate."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXdE5qZURREAE",
+            "text": "Vegetable Lo Mein is Zesty ;\nCool people too."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtMllMMl9BRRAB",
+            "text": "Garbage, oily chicken and broccoli to the next level, unreal."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHdV9ULUFREAE",
+            "text": "Great place to takeout 😀"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHam83Y0JBEAE",
+            "text": "They are awesome ,great food ,great prices and great customer service ✌️"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHMXItOHNRRRAB",
+            "text": "I order chicken with broccoli and rice, the chicken tasted like eggs. The price for it was kinda much it was 8.50 plus 30cent extra."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHd05UZ3JRRRAB",
+            "text": "I order General so chicken and it was fried hard. Like it was refried. Very disappointed"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHMlplRTZnRRAB",
+            "text": "I gave it two stars cuz the staff is very nice. However, although I do not expect 5 star  cuisine, the food was low quality. The beef in the beef and broccoli was mostly gristle and my son could not chew it. Also, there is a plexi glass divider and you can see the cook using his bare hands to cook, portion food, etc. the place does not look like it would pass inspection. It does have low prices compared to other local restaurants. I only came cuz my regular spot is closed Mon & Tuesday. I will not return or recommend."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHbk9POVh3EAE",
+            "text": "The best of Little Yemen"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURha2Z6MTFRRRAB",
+            "text": "Food was very bad\nLike day old"
+        },
+        {
+            "date": "4년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURhZ3RpNThRRRAB",
+            "text": "The food is fresh; the chow-mein sauce had good consistency making each bite savory. The chefs did not overcook the vegetables since the celery still had a healthy crunch—a clean and spacious dining area, allowing for multiple guests to enjoy a peaceful meal at Joy's Garden.\n\nLa comida es fresca; la salsa para el chow-mein tenía buena consistencia hacíendo cada bocado sabroso. El chefs cocino las verduras a perfeccion, ya que el apio todavía tenía un crujido saludable: una área limpia y espacioso, que permite que varios invitados disfruten de una comida tranquilamente en Joy's Garden."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxb0pIUmN3EAE",
+            "text": "Great food and service"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLOWFPZ1JREAE",
+            "text": "Good food!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURTeHMzM2d3RRAB",
+            "text": "Good food"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNTb3BXNEF3EAE",
+            "text": "The worst chinese food ever. food has no taste and a great disappointment in my opinion . over priced as well . all I will say is Pf Chang here I come-!!!!!!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURpNnZ6UGNREAE",
+            "text": "Always freshly prepared foods"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNpaWJ1WUl3EAE",
+            "text": "Good food\nI know them like 20 years\nThere like family"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDa2FuOEFREAE",
+            "text": "Nice food friendly customer service"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDLU0tZkJREAE",
+            "text": "Always great service!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDdjhlbm5RRRAB",
+            "text": "The workers always keep the place clean and sweep constantly, the food always tastes good never failed."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM4cTdENHFnRRAB",
+            "text": "Good for a quick bite..Friendly folks"
+        },
+        {
+            "date": "5년 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURzLXR1ZXBBRRAB",
+            "text": "La comida es buena, solo falta un poco de limpieza para las personas que comen ahí."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNbDVIYjh3RRAB",
+            "text": "Nice clean and friendly"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNMk5fSER3EAE",
+            "text": "Always order from here, best spot in union port if you ask me."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQwNmNmUWVBEAE",
+            "text": "My first time buying  food from there their food is good."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJNmJtOWpnRRAB",
+            "text": "I had to move away and I miss this place so bad. They barely have gristle in their pork fried rice like these other places and the chicken is always crispy. I really wish I could order from here way too many times for me to count. I order…"
+        },
+        {
+            "date": "수정일: 11년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnc2ZyWnp3RRAB",
+            "text": "Fantastic food. Sweet and Sour chicken, chicken and broccoli, fried rice, dumplings, apple sticks, and onion rings are great. Way better than Happy Garden, located across the street and up the block. I moved and the delivery man still…"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnNmVLU0pREAE",
+            "text": "Ordered from Joy Garden for many years. Called in a regular order, nothing huge or different and waited 3.5 hours because they kept saying they was on their way. I felt bad because I'm a great loyal customer and tip very well. To the…"
+        },
+        {
+            "date": "수정일: 8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnbWJYZGlnRRAB",
+            "text": "I order from this place all the time. Their dishes are always top-notch and filling if you're on a budget. It definitely helps that they've gotten a new person to answer for deliveries. Much more polite."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRM0tPRGlnRRAB",
+            "text": "Ordered a small chicken with broccoli but instead of brown sauce I ordered with sesame chicken sauce. The flavor was right on and the food was fresh. Hats off to the cook. I will definitely go back for the same thing"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURvZ09TRWh3RRAB",
+            "text": "Pretty standard local Chinese food.  The menu boasts hundreds of dishes although I tend to stay with my usual orders. The counter guy is a quick and pleasant young man. The egg foo yung was a bit drab as it did not have enough flavor and…"
+        },
+        {
+            "date": "9년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRdFBxNVJ3EAE",
+            "text": "I like their service. They answer properly unlike other chinese restaurants.\nFor the price, i enjoy their chicken wings and vegetable fried rice. I order for my workers at grocery store- will hear from us again."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRd3ZiMHdRRRAB",
+            "text": "Never will I eat food from here again. I ordered sesame chicken for my 10yr old daughter. Halfway through eating, a roach comes crawling out of her white rice. I was so disgusted! How is this place even in business?"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZMTZUeTl3RRAB",
+            "text": "They know me so well, when I call to order they just know my order. Food is very good and they usually deliver quickly. Would reccommend!👍…"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR3OG8tbkxREAE",
+            "text": "October 13,18 145pm\nOrder beef lomain large $9\nNo beef it was all noodles not even a full steak omgness really disappointed\nHow n y ? I just don't know....\nMoney good service bad bad\nI could of had pizza for that piece."
+        },
+        {
+            "date": "9년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRaGJUVVlBEAE",
+            "text": "Good service. Food good too. However, beware of the delivery driver who may sometimes come out as rude. But in my opinion, i dont care just as long as my food is good."
+        },
+        {
+            "date": "11년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnNE9faFNREAE",
+            "text": "Ordered chicken fried rice and told them I didn't eat pork. When the food came the rice and the egg roll were pork. My wife ate some of the pork rice and said it was bland. THe worst general chicken I've had probably. The chicken rice was…"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNndWJlZ0JBEAE",
+            "text": "Terrible! The lady on the phone got an attitude and yelled at me when I asked if she could clarify prices for me. I won't ever order from here again!!!"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRNGN5dFZBEAE",
+            "text": "One of the best Chinese restaurant!!!! The food is always fresh and delicious 😋. Costumer service is great 👍🏼. I totally recommend this place to anyone looking to eat some fast Chinese food…"
+        },
+        {
+            "date": "9년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURROXV2eFZREAE",
+            "text": "Good delivery, really good prices and the quality of the food is excellent compare to the other chinese restaurants close to them. Really clean and neat."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRNGV5Sk93EAE",
+            "text": "Although sometimes they get minor things wrong when it comes to phone orders the food is very delicious and they r always friendly and quick. Just make sure to tell them to repeat the order."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRNUlMTkpREAE",
+            "text": "Great customer srrvice. Good english, very clean food, organized packaging with sauce and utensils. food was hot on delivery and came with good amount. Great service thanks."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3Mm9EOU53EAE",
+            "text": "This play should be “stupid garden instead of Joy Garden can’t get an order right then was lied to and said we’re sending you another  order  waited an hour They never sent it so I took the food back to the store and they’re going to question me if you don’t like to wait hours for food and wrong orders stay away from this place"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBOFBueXdBRRAB",
+            "text": "This is the only joy garden me n my family eat from n th here's another joy gardens on the next block lol best cooks food n delivery guy they the best"
+        },
+        {
+            "date": "11년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRMTVPNHFnRRAB",
+            "text": "Good, reliable cheap food. Menu is so big you can basically ask for anything and its on there!…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvanRMQmN3EAE",
+            "text": "I order food at 6:40pm and didnt recieve it till 8:20pm. My suggestion, if you want to order dinner, place your order at lunch."
+        },
+        {
+            "date": "9년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRa2VmYnB3RRAB",
+            "text": "Quick delivery, and good service.\nNot sure how is the price compared with their competitor across the block, but the food is far way better."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRaHREWGpBRRAB",
+            "text": "Food is delicious and restaurant is always clean, plus they take debit card!!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNZODdtel9nRRAB",
+            "text": "My favorite Chinese store love the food and the service always friendly"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBbWF5U3ZRRRAB",
+            "text": "It's a Chinese take out, good food compared to other Chinese take outs in the area but it's not a restaurant"
+        }
+    ],
+    "reviews_count": 74
+}

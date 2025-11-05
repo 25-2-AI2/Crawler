@@ -1,0 +1,19 @@
+{
+    "name": "Los mangos bar & grill",
+    "place_id": "ChIJ-ba3yNf1wokR7yviizD1UU4",
+    "grid": "BX1",
+    "address": "231 Brook Ave, Bronx, NY 10454, USA",
+    "rating": 4.9,
+    "user_ratings_total": 9,
+    "phone_number": null,
+    "reviews": [
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNad29pbGlnRRAB",
+            "text": "Hi can I pls get a phone number if you guys can kindly give it to me"
+        }
+    ],
+    "reviews_count": 1
+}

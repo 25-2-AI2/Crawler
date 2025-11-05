@@ -1,0 +1,19 @@
+{
+    "name": "Spanish Halal Food",
+    "place_id": "ChIJqXB-cXb1wokREEzBU2UiJh4",
+    "grid": "BX4",
+    "address": "880 River Ave, Bronx, NY 10452, USA",
+    "rating": 5,
+    "user_ratings_total": 1,
+    "phone_number": null,
+    "reviews": [
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5bVBfTE93EAE",
+            "text": "Food was amazing. The brother in the truck did a great job handling the food.  I was allowed inside and it was clean. I definitely will be eating here more often."
+        }
+    ],
+    "reviews_count": 1
+}
