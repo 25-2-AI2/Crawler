@@ -1,0 +1,572 @@
+{
+    "name": "Blue Ribbon Sushi Izakaya",
+    "place_id": "ChIJZ6cVB49ZwokRtaudHruZUaQ",
+    "grid": "MN3",
+    "address": "187 Orchard St, New York, NY 10002, USA",
+    "rating": 4.4,
+    "user_ratings_total": 922,
+    "phone_number": "(212) 466-0404",
+    "reviews": [
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pONVZrRjZRVGhWUWxRM04yVldWMHROZFRSaFdWRRAB",
+            "text": "This place feels like a hidden slice of Japan tucked beneath New York’s streets. Walking down the lantern-lit staircase instantly sets the mood — calm, cozy, and a little mysterious.\nThe sashimi platter was beautifully presented, especially the seared fish with that light smokiness. Everything tasted fresh, though a couple of pieces could’ve been sliced a bit thinner for balance.\n\nThe service was attentive without being pushy, and the staff seemed genuinely proud of their craft. Prices are what you’d expect for quality sushi in Manhattan — not cheap, but fair for what you get.\n\nOverall, it’s the kind of spot you bring someone when you want to slow down, have great food, and feel like you’ve stepped out of the city for a bit. Would definitely come back for another round of sashimi and sake!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kWWJHWkZjMnBsZWpsVU16aGxabTQ0VUZkMFMxRRAB",
+            "text": "The portion sizes for the appetizers were too small and the price doesn’t reflect the quality of the fish. You can get extremely fresh melt in your mouth sushi from Sushi 35 West for much cheaper"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KR1NGOUpXbkJXVlhWTlZtNURjMmRrTmtoSlJFRRAB",
+            "text": "Stylish and lively spot on the Lower East Side offering top-notch sushi alongside creative izakaya dishes. The vibe is upscale-casual, perfect for late dinners, sake with friends, or a solo treat. Fresh fish, great cocktails, and a warm atmosphere make it a standout for sushi lovers after dark!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kTFVXSmxTRVJFZGpNelRFUmhiMmR0WW5OTGMyYxAB",
+            "text": "Overpriced not worth it. Looks nice tho."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pVNVltNWtNRmR5U2pWT1gzTTBOekpHTTJJd2VGRRAB",
+            "text": "Cute date spot! Food is delicious, wouldn’t say it’s life changing but if you’re craving sushi it’ll definitely scratch that itch. Felt nice and light afterwards too. Staff was kind and helpful!\n\nEDIT: had to come back and say the spicy tuna crispy rice appetizer absolutely was life changing"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CNlducEdiRTVHVVV4eE1YWlRNMDUzVERCNlRuYxAB",
+            "text": "Wow, love this place! Such a nice vibe and the sushi was excellent. Great service too 👍🏻"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xNFdWaEJTMjFKZFZsSE1uazNaR0V0YkhsSFpVRRAB",
+            "text": "Amazing all around. I usually don’t review places I eat but this place is actually fire"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JeFQyTlNibE5UTW5kT1JUZEdlVUpKU25JMGJFRRAB",
+            "text": "Not much better than mall sushi. Salmon was almost inedible, grizzly bits and came out almost warm? Also we had flies around our table, can’t imagine the kitchen is much better. Charging top tier prices for low quality frozen fish, don’t be fooled."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0dlJYaENSVkpJTm1kYWJuaDBkMFZPYUdaUlQzYxAB",
+            "text": "Good"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paU05WSTJSSEYxV1ZSRlQyVlNSMWs0ZWxKcFUxRRAB",
+            "text": "It never fails to deliver consistency and high quality"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VPZjI3cENmaUlTQlVBEAE",
+            "text": "We arrived in NY city early in the morning and were looking for a nice sushi restaurant to have for lunch . We looked up sushi restaurants nearby our hotel and Blue Ribbon sushi came up first with the most positive reviews so we gave it a try. When we walked in, we were impressed with nice decorations. The sushi was delicious but the portion was much smaller  than expected and it was on the pricy side. The wait staffs were nice but for the amount of money we paid , we were still hungry and had to go and grab a slice of pizzas to feel full ."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJdlN0ZGF6NVBtcElnEAE",
+            "text": "Amazing night eating some of the best and fresh sushi. The ambiance was low key and the service was great. Took our time, tasted a lot and enjoyed each others company. Would definitely recommend coming here"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZMnRXYlB3EAE",
+            "text": "honestly awful. the fish was not fresh, the dishes were inconsistent and weird. i’ve come here a few times over the last few years and it definitely has gone way down in quality. i was very disappointed. they brought me a lychee martini and it tasted like sea water. i was baffled. i asked for a new one and they did bring me a better one but like… what the hell? what the helly? why did it even taste fishy in the first place. won’t come back. the service was good though."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvaXN1cTV3RRAB",
+            "text": "Very nice Blue Ribbon. Same menu as everywhere else, but the pieces of fish on the sushi were extra large.  Nice “insanely fresh” but fresh enough. Nice atmosphere and service."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJajl2a293RRAB",
+            "text": "Came in at noon on a Sunday for what we hoped would be slightly upscale sushi. Space was not very pleasant, including a sports tv. Service was nice enough but food quite disappointing. Felt very expensive for the quality."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJOWJLZWVBEAE",
+            "text": "Most amazing sushi dinner."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJaHNyVF93RRAB",
+            "text": "It's been several years since I ate here for my sister's bachelorette party but it was a wonderful time.  The food was both visually appealing and palate pleasing!  I wish I'd known about this place when I was attending NYU!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3ajZxWklnEAE",
+            "text": "Me and a few of my buddies from Nj stopped by here while we visited and definitely will be back Andrew was a welcoming and insightful server and all staff was extremely friendly. Oxtail fried rice was a 10/10 highly recommend."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3OHFxdEFnEAE",
+            "text": "Really boring place, almost empty and food sucks"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRckwzaU5BEAE",
+            "text": "The food was fresh ❤️ appetizers were delicious ❤️ sushi was divine ❤️ didn’t feel rushed for birthday dinner ❤️ staff was courteous and attentive ❤️ a great place to go for sushi ❤️"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnZ2N6X0p3EAE",
+            "text": "Everything was good. Our server, that never said her name was NOT personable, not knowledgeable and not friendly. Lunch time, the servers/bartenders aren’t always the A team. She was working for her income and that fine. Not the owners fault so we still left a 5 stars review. One thing that I would recommend the owners look into, is her grabbing the glasses from the inside with her fingers, then without washing her hands touching our food. That is very dangerous for contamination of glassware and food.\nOn another hand the food was outstanding!\nThank you!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNna09QS1J3EAE",
+            "text": "I’ve been millions of times and the food is ok but how anyone can eat at a sushi place w/a C grade in Manhattan is beyond me."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBN1lMbTFnRRAB",
+            "text": "Most horrible experience of my life. My date and I have been iching are bodies for days after dining here. The sushi was poor quality and not tasty. The rice was falling apart. They use cheap quality fish and rice. The fish may contain parasites here or We  got histamine poisoning.\n\nService was nothing special and the place is empty. I wish I walked out when I saw they have a C rating but my date was positive so I tried to give benefit of the doubt. Don’t be like me and let people pressure you into doing something that you feel uncomfortable doing then suffering the consequences. Good luck."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBanU2dGh3RRAB",
+            "text": "They currently have a \"C\" Health Grade so will avoid until they can figure it out."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfbGRpaWR3EAE",
+            "text": "Sushi was ok , like regular other many sushi place but price was like high end restaurant!\nNot worth it !\nOver priced !!!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfOXRXdl93RRAB",
+            "text": "Delivery was fast which is great but unfortunately the food didn’t live up to the expectation. The fish didn’t taste fresh. The salmon maki that came with the combo was mashed… not sure who likes mashed salmon. Maybe it was the platter I ordered but for the price it really was not okay. Not a positive experience."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfa3RQX01BEAE",
+            "text": "Beautiful place! Excellent food with unique flavors, not the typical sushi.  Service was helpful with great recommendations.  Prices a bit high, but is to be expected in NYC."
+        },
+        {
+            "date": "10달 전",
+            "language": "ja",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmeGYyblhBEAE",
+            "text": "残念なお寿司でした。高くて美味しくないお寿司、初めての体験でした。\nIf you are Japanese or know Japanese food, don’t order sushi here.\nWe were very disappointed.\nWe used to eat at Blue Ribbon Sushi also Brasserie and loved them.  So we were excited to try Izakaya.\nThe dish was $275 and it wasn’t worth it at all. One of the worst sushi we’ve had.\nThe quality of the fish, especially yellow tail, was poor. Nodoguro and engawa didn’t taste right.\nUni was ok but we expected better with the price.\nIt looked like and felt like a serious Japanese restaurant but it wasn’t.\nThe atmosphere was very nice and the service was good."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmanRIcFpREAE",
+            "text": "Celebrated my birthday and did a walked in and they sat us down in less than 15 minutes. They were so nice had the greatest time here although is a Friday night it was crowded my husband and Did NOT felt rushed our waiter was so nice and sweet she gave us recommendations of certain items we should order and she did not disappoint us . We all definitely come back !"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2anR5cHBnRRAB",
+            "text": "The food here was terrible and not sanitary."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2ek91c0JnEAE",
+            "text": "Sushi was good. Very expensive for not a ton of food. Fish quality was good but nothing to rave about. Around $100 pp."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQX3FxUTVnRRAB",
+            "text": "We had an amazing dinner at blue ribbon!!\nWe ordered the house salad, the garlic edamame,the steamed shrimp dumplings.\nWe ordered the chefs sushi platter and  expecting only sushi rolls but it came also with sashimi which we didn't want so we asked the chef to make it into sushi rolls which he kindly did!!!! Everything was perfect!!!! Amazing service, atmosphere and great wine too!!! Thank you blue ribbon for everything!! I highly recommend this place for a good sushi!!!!"
+        },
+        {
+            "date": "수정일: 11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxZ3U2MkpnEAE",
+            "text": "Great food, wonderful service and always joyful..."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzeXFudVdnEAE",
+            "text": "We got walk in seating for two on the rooftop which is a small and not that fancy space on the 9 or 10th floor. The food and service were excellent as usual but some of the other diners kept opening the sliding glass doors to go out and smoke. Next time i'd rather sit downstairs at the bar."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMza0xYb0ZREAE",
+            "text": "I love it, 100% recommended"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYM2FITktnEAE",
+            "text": "Had a wonderful time eating fresh sushi and sashimi. Comfortable seating with excellent service. We had sushi and sashimi combinations, and Maine uni. Tasty miso soup, you add miso at the table."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYaWZUUktnEAE",
+            "text": "The food was not impressive, especially at that price. The mackerel was not great and the rice quality was poor."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlNHBpdzlnRRAB",
+            "text": "Our reviews had over 52 million in the last 12 months.  We do not get paid we just love to eat and have fun.  We really love Blue Ribbon Sushi Izakaya.  The food was great, the service was awesome, the room was lovely and the food was really good.  I do not know Japanese names for the food we ate so let me just tell you in my own words.  The scallops on a skewer were really buttery and had a wonderful sauce.  Same can be said for the steak on a stick.  The sticky rice with spice tuna and avocado was delicious but it is not really spicy.  Everyone loved this dish.  The fried chicken is also great because of the sauces.  One is a hot sauce and one is a gently warm honey sauce.  We loved the veggie fried rice with egg.  The sushi was very good as well.  My favorite was the salmon which had a lot of flavor and melted in your mouth.  I loved the eel wrapped in cucumber.  Desserts were very good, we loved the banana split as well as the chocolate bread pudding.  They have espresso and all the other coffee drinks.  Each was great.  Very lovely evening.  We made our initial order then added to it after we decided how full we were.  Online there is a pdf menu but the non-pdf menu on the website has photos of every dish which we found very helpful.  Be prepared to go up a lot of steps when you enter, but it is worth it.  Also has a nice bar area.  Check out all of our reviews and look at all the photos below. If we do not like it we do no review it so all of the ones you see are places that are fantastic. Follow us if you like. We had over 52 million views in the last 12 months and we thank you for that. We don't get paid, we just love to eat. Be sure to click on \"RobH\" at the top of this review to see all of them and to follow us if you like good food and FUN.  If we do a review it is because we love it."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYcThxMjdRRRAB",
+            "text": "Very tranquil"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIdVozVnVRRRAB",
+            "text": "It doesnt deserve that much prices."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURId3ZlZHVRRRAB",
+            "text": "Another great dinner here, I’m likely in the “been here 40+ times” club. Andy always takes great care of me and my guests. Tonight I sat at the sushi bar and it’s always awe inspiring to see the chefs work."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiOVBMQWdnRRAB",
+            "text": "Had a very good time, sashimi platter was very good, good service and decent sake list."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyM09iUlVREAE",
+            "text": "We had to wait over 30 minutes for our food and what made it worse was the old lady who was serving gave us rude vibes. We should’ve left when the table next to us left because their food was taking too long too."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyaktqWUxnEAE",
+            "text": "We wanted to try a different sushi spot for a change and decided to have dinner at Blue Ribbon Sushi last weekend.  The restaurant is on the second floor and in a very vibrant downtown location for those who are familiar with SoHo.  I enjoyed all the recommended house favorites from the half lobster roll, yellowfin tuna, etc.  even the edamame was delicious.  The ambiance is welcoming and lively.  Our server was a bit busy so we ended up placing our order with another server who was also friendly and made some good recommendations.  It was an overall good experience and we would visit again in the future."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMdWRtZ2VREAE",
+            "text": "Crispy Rice Tuna and Sushi platter were delicious!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMenVyek5BEAE",
+            "text": "excellent place, was amazing food, good service, little bit expensive but is very good."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMOVBiUF9RRRAB",
+            "text": "Perfect for pre Father’s Day dinner!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6Nk1ESnJnRRAB",
+            "text": "Said it opens at 7, got there at 7:10. Door was locked and no one answered the phone"
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnX195Z1hREAE",
+            "text": "의외로 맛있는 스시에 깜짝놀람"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5MnRHczd3RRAB",
+            "text": "Dope spot for some authentic sushi. Izakaya has a great ambiance. This team is very friendly and accommodating from start to finish. Blue ribbon friend chicken was amazing, so crispy and well seasoned. The sushi was well prepared and there are a ton of combo options so that you are able to try a little of everything."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDc2ZETDZnRRAB",
+            "text": "The atmosphere is amazing here. When I walk up the stair I didn’t know there’s a patio in the back. Great view and wonderful food. The fish is fresh especially the Uni is soooo sweet. 100% recommendation!! They have a super nice bar as well. Service here is fast,staff is knowledgeable about their menu and make good recommendations."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKeXRYSHB3RRAB",
+            "text": "We lucked out moving right across the street from the Izakaya. We’ve lived across the street from the Soho location for years and it’s our favorite. The LES location did not disappoint!!! This location has even more options that are no longer on the other menu. Veggie tempura is a fave. As are the ebi shumai, the grilled avocado (a new fave!) and crispy rice. Full bar and ample space for large groups. Service was lovely and sitting at the sushi bar is always entertaining. Casual or can be a place to dress up. It’s dimly lit and decorated amazingly!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4bC1XY3lBRRAB",
+            "text": "Upscale izakaya, very nice interior. Food was pricey.\n\nYaki short rib was a little tough but the flavor profile was good.\nSpicy tuna crispy rice was not as crunchy as I would’ve liked.\nKaraage was good, not super breaded which was good.\nBone marrow fried rice was overhyped - did not really taste any bone marrow or oxtail. Also really oily.\n\nThere was also a fly in the bar area 😵"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1bnF1Tm5BRRAB",
+            "text": "Aesthetically pleasing but definitely not worth the price and the quality of the food was horrible. Definitely do not come here for brunch. Eggs were over cooked, coffee were bland, toast had no butter and nothing we had was worth it. The staff was friendly and place looked nice, but that was the only plus side to our experience.  For the price they charge per dish, there are definitely so many other better options!\n\nGood luck and thank you for reading!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURhdEszaFNREAE",
+            "text": "The decor is fantastic!  It looks really good.  The food was ok but way way way overpriced for the quality and taste!  It cost $30 for fried chicken and it wasn’t a family meal :).   The sushi was just okay it wasn’t bad but for the cost it’s not really justifiable.  Service was just ok.  I think\nI would just suggest stopping by for drinks but not really for drinks.  Way too expensive for what you get."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsNDYyTlV3EAE",
+            "text": "A very classy Japanese restaurant with the dining area located on the second floor. We were seating right by the entrance which provided a nice view of the lanterns that lighted up the stairs coming up. We had a sushi and sashimi combo and sashimi deluxe. Not overly heavy and it was a nice way to eat some healthy food to end the night without breaking the bank."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4bVpENGNREAE",
+            "text": "Enjoyable experience. Friendly and responsive staff. Sushi was delicious with a nice presentation. Tasteful decor. Concrete minimalist in hallway. Quiet.\n\nWould definitely visit again."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnbFlqSnd3RRAB",
+            "text": "The service and atmosphere was fantastic but honestly the sushi fell very short of its price point. Most sashimi was watery, lacking flavor, barring the the nice thick cuts of salmon.  The sushi also lacked the same charm, barring the shrimp which was nicely sweet and flavorful. I'd avoid this place if you are an avid sushi fan, but if you're looking for a date spot and looking to impress this might do very nicely.\n\nPrice: C-\nTaste: B-"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtMzhMWE5nEAE",
+            "text": "Seen a lot of negative reviews but as a person whose been to a lot of sushi joints I really don't understand it.  The service was great, sushi was reasonable for the price and I felt the food was better then most spots in NY overall.  Didn't love the atmosphere tho dining by the bar but a good time overall."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNbHZQRW1BRRAB",
+            "text": "First time here!  Our server was amazing.\nEvery weird question we had; he answered!  And if he didn't know was the answer he came back with an answer and a sample.\n\nWe asked for recommendations,  he was candid and it's always best when server says he like something particular that your interested in and elaborates why he likes it.\n\nSuper fresh fish! Even from Japan!\nDont forget to check out their specials!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1dl9lNzNnRRAB",
+            "text": "I am quite excited to finally be writing about Blue Ribbon. I have a weak spot for Japanese cuisine, and the Ribbon knew just how to rub it. Fantastic drinks, unparalleled kindness of the staff, and obviously some of the best sushi you will have in New York. The restaurant has an great decor, with a nice sphere and an efficient layout. One of those place you have to have eaten at when coming to SOHO, though you definitely need a reference, you’d walk right by this pearl."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDM2MyYUZ3EAE",
+            "text": "Honestly the best Japanese food I’ve ever had, so fresh and so yummy ! We ordered a lot of food and I can’t picked which one was my favorite ! It kind of pricy , but for special occasion definitely worth it. The place itself is so nice and clean and everyone is so professional . I’ll definitely go back !"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCbTdycU5BEAE",
+            "text": "I visited for early dinner,  the mood was calm, comfy, and sultry. The food....The food was FANTASTIC! We had Oxtail fried rice, Duck fried rice and Blue Ribbon wings and ALL the sauces. 10/10 would do it again.🙌🏽🤤🥰"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzbXJHMF93RRAB",
+            "text": "It is delicious.\nKinda price but delicious.\nService could get kinda slow for certain dishes. And they forget to present one dish.\nEnvironment is nice or should I say the atmosphere.\nDefinitely should visit here if you never been to a Blue Ribbon Sushi place.\nBut I am just wondering when my second time would be compared that here are just so many places or choices to compete with.\nKeep moving buddy."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR0NnItc3VnRRAB",
+            "text": "had a reservation here for 9 on a friday. the restaurant had a nice chill vibe it’s a good option if you are looking for something with decent sushi and a slower pace than omakase. wide variety of fish with lots of nigiri specials which i love. the maine uni was delicious and i had never had uni from maine before. what really blew me away was the green tea crème brûlée. it was technically one of the best crème brûlées i have had. the custard was incredible creamy and the top was perfectly caramelized. it was also a large portion"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMycHF6dlRREAE",
+            "text": "Great atmosphere, very attentative staff. Went there on a Sunday evening, and really dug the dim-lit atmosphere of the restaurant. They really nailed the Izakaya vibe. When I ordered only non-meat sushi, the waiter asked if I was vegetarian…"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNNMjdpVTNBRRAB",
+            "text": "Fantastic sushi dinner in a great setting with friendly & knowledgeable staff! Noisy once the restaurant gets busy. Pricey. Overall a wonderful dining experience."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwdEpIT3RnRRAB",
+            "text": "Amazing food at this restaurant, definitely going to return. I’ve been to many sushi restaurants in the past and this one is at the top of my list. The sushi is fresh and delicious. The restaurant also has a great vibe for lunch or dinner."
+        },
+        {
+            "date": "6년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJMnYya3lnRRAB",
+            "text": "Hemos cenado muy bien. Era la noche de fin de año y el precio de la carta era el mismo, todo muy bueno y un trato perfecto. Nos han invitado a cava y nos han dejado unos gorritos para dar la entrada al nuevo año!! Genial"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnMzkya0h3EAE",
+            "text": "My favorite of all Blue Ribbon locations! Great fresh sushi and amazing maki with just the right amount of sushi rice on them, very delicate and light. The waiter was clueless about wines though 🙈 but it couldn’t spoil our great dinner there;)…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvd1o2ZmRREAE",
+            "text": "A bit pricey for what you get. It was good but not mind blowing for what you throw down. The sushi was a dissapointment. The fried chicken and ox tail marrow rice was pretty good."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURsLWVHZWxRRRAB",
+            "text": "Try the pork or shrimp dumplings, with sushi and sashimi, of course.\n\nWestern wine selections and price were reasonable. Sake list was great but the prices were NYC+"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMydVBuRENREAE",
+            "text": "Fresh and tasty seafood, and delicious friend chicken. The price could have been more ideal for its quality and neighborhood."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJLVpyQ2RBEAE",
+            "text": "Amazing!!! Great for group with lively atmospher.  The staff was very helpful in helping select the dishes! Will go again.  The oyster shooter with the quail egg is a must have!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaMXY2aTVRRRAB",
+            "text": "Celebrating my birthday dinner with my family!great service and food is great, fresh food!\nSo we went to eat more and more, we can’t stop it. We have great times for family dinner!\nHighly recommend !"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzNnRqTEd3EAE",
+            "text": "The presentation was great, great service and the sushi and sashimi were really good too. It's quite a big place with a lot of tables, so it is great foe groups.…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwOVBLVzNnRRAB",
+            "text": "Highly recommend oxtail and bone marrow rice bowl and horse mackerel sashimi (though all their sashimi are sooo fresh and tasty), simply HEAVEN. Love this place!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURTLXRiUkZ3EAE",
+            "text": "Sashimi is lovely and fresh, I especially liked the seared salmon belly.  Also ordered the unadon, but I’m not convinced it is simply a packaged product that had been heated as many Japanese restaurants will do.\n\nInterior is super cool due to it being located in the SIXTY hotel."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHNXVIZklnEAE",
+            "text": "Standouts: albacore (within the Sashimi deluxe), miso cured black cod. Honorable mention to the fried rice.\n\nFull list the two of us shared:\nBroiled miso cured black cod\nOtoro sashimi\nSalmon roe sashimi\nSashimi deluxe\nOxtail fried rice & bone marrow omelet"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBcHJYcThnRRAB",
+            "text": "Fresh, delicious, great service and ambiance. I would say the food is 4 stars because we didn't have anything that blew us away but the fact that they are open till 2am is a game changer."
+        }
+    ],
+    "reviews_count": 80
+}

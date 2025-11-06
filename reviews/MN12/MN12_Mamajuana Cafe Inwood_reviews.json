@@ -1,0 +1,572 @@
+{
+    "name": "Mamajuana Cafe Inwood",
+    "place_id": "ChIJ4SwImvjzwokReBpQlpMwuYw",
+    "grid": "MN12",
+    "address": "247 Dyckman St, New York, NY 10034, USA",
+    "rating": 4.1,
+    "user_ratings_total": 1816,
+    "phone_number": "(212) 304-0140",
+    "reviews": [
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aNVIyUldiSGN4WVRkZk5pMXNXRmhvVGprek4yYxAB",
+            "text": "Great atmosphere and the service was really great!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21odWNHRlRVVU56Y1RSMk9HRXdUREoxT0hReWMwRRAB",
+            "text": "The chips for my guacamole were insanely stale. The steak in my steak salad was cold. The lettuce in the salad was drowned in avocado…. I couldn’t taste the dressing or the salad and didn’t even eat the salad because it was all sticky and chunky because of all the avocado. Truly disappointed because I’ve been coming here for years. I order 2 of the same mojitos and both tasted differently. One had more lime and liquor than the other. Idk what is happening here but I’m calling my bank for a refund asap."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KMFZXdHNaa1IwYzNSUU1VeEhNV2xxYWxCaFMyYxAB",
+            "text": "Had an amazing time here thanks to Euri! He was very attentive and made sure our party had a great time. I’ll definitely come back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkdFNWZERkSG8zYWtkM04yZ3Raa1J6VUdoUVVYYxAB",
+            "text": "I like the food taste and menu selection"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSblRGcFBNbGQzY21SdU1uUmtaMGxoY0d4M1IwRRAB",
+            "text": "There are sushi options for everyone, even for people who don't like sushi. The food is amazing, all the entrees and appetizers are great.\nThe restaurant atmosphere is like a lounger/bar. Good place for a night out."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ZeGNEWkZXV05aTkVVeFpWTnRTRmhZZG1SUFdrRRAB",
+            "text": "lugar lindo pero cocinan con MUCHA SAL y esperamos mucho por la comida de mi marido"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oa1ltaFBiREU0YjBWU1pUbFZVekZzUkdoTmVWRRAB",
+            "text": "Muchas gracias a Daniel por el excelente mojito de coco, este sin duda es el mejor ambiente de toda la plaza quizqueya en Dickman."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205Zk9VNWtUR3RNYWtaVFNHUk5WM3B5V1RaaldsRRAB",
+            "text": "An iconic Inwood spot – a true slice of the Dominican Republic in the heart of northern Manhattan. Authentic flavours, lively vibes, live DJ music, Dominican beer, and a warm welcome."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25BeFdYTllSM1ZxZDJOTldWODBPRkZ6TTIwMldsRRAB",
+            "text": "Visited with my friends and Euri was an amazing host, we really enjoyed the drink and food. Well come back with a larger group soon!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oa01VOWlXRkpPYW5Gak9YQndhVjgwVm5sQ1QyYxAB",
+            "text": "Loved the place everything was delicious highly recommended"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xaVRuZFBlVGxETlVkRVdXeG9kMFF4YlY5WVFWRRAB",
+            "text": "Always a pleasure eating here we've found a place up here in Inwood to actually worth eating. And we love it"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjNWRrWjNXRlZYVTB4VE1XNURYemhIVDNsck9HYxAB",
+            "text": "Just because he drunk we not here to look for problem not everybody is the same"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4d1dYRmpUblpCVWpBeGRYcDJOa1UxTkdnelMyYxAB",
+            "text": "Great brunch we will go back soon."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWa1NtTkNNSFIyT1RSMVltdzVOVGxrVVRSeGFIYxAB",
+            "text": "Typical Dominican restaurant with traditional Caribbean dishes, also of course Merengue, Bachata, salsa and such rhythms playing in the background, although a bit too loudly."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aVWQwZzJSMmM1VEdaS1JEYzRZMHBJVFVKcE0yYxAB",
+            "text": "The service is not that great and they charge a lot of gratuity without authorization"
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNelFWaE5iMWwyWVRkcmEwUlRjRFJLWlc1bFZWRRAB",
+            "text": "Muy rico para botanear"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1OE1IZG9BRRAB",
+            "text": "Great food and buzzy Latino vibe. Expect (loud even outside!) music, as the fun well-dressed crowd passes by their patio cafe. Love their appetizers, especially the plantains stuffed with crab and the croquettes. The paella, salmon stuffed with crab, and lechon are always good.. And the sangria and mojitos, a winner."
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NeVVETmlhRUp2YzBZNE1YUlNURE5PVEhoMVNuYxAB",
+            "text": "Excelente"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VKZURwSm1ybEp2YmtnRRAB",
+            "text": "Decent brunch our server was on point with the drinks overall great for the price...."
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VKUFM2NWo5cGJHRjlnRRAB",
+            "text": "De verdad que me dio mucha decepción ! No sé si cambiaron el chef o quizás de dueño… era admirable la calidad en sus comidas y presentación. Yo Era un cliente fiel junto a un grupo de amigos, ayer volvímos después de un tiempo y todo era raro y un desastre. La comida muy mal presentada y mala. me sentí en una fonda."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VQeTg3T19Qei1mdWlRRRAB",
+            "text": "Not worth going there at all TERRIBLE service!\nWaisted the day going there and wasn’t given the service one should get going somewhere. Even had to get up to get myself a drink."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VQbTN4N25XdV9lUldnEAE",
+            "text": "They need to serve more food"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOM1VyWW1aXzhTY2FnEAE",
+            "text": "Empty plates. What can I say... Everything was worthy.\nGo and leave empty plates."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPS0puOURTaXBHVUtnEAE",
+            "text": "The food and service were excellent. Fortunately, it was a nice day, so we sat outside. Even though we live in Queens, we would return."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VNN05tZHF4eTVldlB3EAE",
+            "text": "Just came to this restaurant for Mother’s Day and unfortunately the experience was bad. The buffet was bad. Very greasy food, not as warm, and not flavorful. 4 out of 5 people had a stomach ache after leaving. Mangu at 2:30pm as an option? Our waiter never came and checked if we needed anything after coming once. Asked her for water she forgot, had to ask her again. and her energy did not have any hospitality. The syrup used to apply on the waffles was full of syrup on the outside of the bottle. Couldn’t even grab the bottle without getting syrup on your hand. Multiple toilet seats were filled with piss all over the seat. A rather poor operation and management should really work to improve the quality of the food being served, bathroom cleanliness, and having the servers be a bit more welcoming."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VMYi1rTVRnM19hLTNnRRAB",
+            "text": "The food was average. However the service was horrible we had to get our table changed three times because we were a party of five and we were sat at a table for a party of four. We weren't even given water our drinks were warm we had to request for ice. We had to ask a random waiter because ours was busy at the bar mingling with coworkers. Save your time and order your food to go."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQMksycDdidXFIdUZnEAE",
+            "text": "I've been here twice food and presentation spot on each time, drinks are good too! Loved the stuffed chicken and mofongo"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZeHR5NHRnRRAB",
+            "text": "Average food. The pasta was undercooked, the food was average in terms of taste, and the menu is limited. The wait time was insane, nearly an hour and 10 minutes waiting. The music is too loud, but the service from the waiters was exceptional.\nNot for me."
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkdk1leXZRRRAB",
+            "text": "They fry fish in the same oil they fry chicken or something because I kept ordering chicken and it kept tasting like fish but they wanted to argue with me about it. The servers don’t pay attention to you unless you’re a man popping bottles. Place is super mid."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvaWRfbm1RRRAB",
+            "text": "I specifically went up to the waiter and asked her to make my burger medium rare, gave it to me well done, was taking forever with our stuff when the restaurant was empty & didn’t have things that were advertised on the menu. Terrible all throughout"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvcnNUT3pRRRAB",
+            "text": "Jessica was horrible very rude very disrespectful. My party included two people and she was very dismissive. Never will I attend here again"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURveXVlaUhnEAE",
+            "text": "I went recently for Easter to celebrate having brunch with all my family and to start the food was really poor NO MEATS like they used to have, only chicken and fish , potatoes, cheese, salami food that when i was trying to go and served myself the chafing dishes were empty and to charge $45 plus tax for brunch  was absolutely no worth it for the price the charge, no even desserts.  I think it was too much, i used to love go there but no anymore, It was my last time.  It is very sad to loose a good place with good food like used to be. DEFINITELY  I DO NOT RECOMMEND IT. By the way my reservation was at 1:30 it was supposed to be plenty of food at this time also the food space was completely reduced."
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvM0tILVJ3EAE",
+            "text": "La comida estaba muy rica! Pero el servicio es pésimo! Y la camisa tardó demasiado en salir, creo que necesitan más personal, por que tardan mucho en ir a las mesas"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNveHBQZ2FBEAE",
+            "text": "Its a vibe"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvc29tSFlnEAE",
+            "text": "Food was very tasty"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJNzlhRHBBRRAB",
+            "text": "waited an hour for food and then was automatically added a tip despite the terrible service. Hostess never checked on us, apologized, nor even offered a discount for the terrible service and long wait. Do not come here"
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJNXRpd05BEAE",
+            "text": "Hermozo lugar lpara comer y compartir kn la familia en un ambiente maravilloso..excelente atención y comidas muy ricas con sabor y salón dominicano se los recomiendo..\n\nA wonderful place to eat and share with the family in a wonderful atmosphere. Excellent service and delicious food with Dominican flavor and seasoning. I highly recommend it."
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJd09mQTJ3RRAB",
+            "text": "Me gustó mucho! Fue mi primera visita a este restaurante. Las atenciones, el ambiente son muy buenas. La comida muy rica y en porciones consideradas. Me gustaría volver"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJNzdxQkhREAE",
+            "text": "Food was very good"
+        },
+        {
+            "date": "7달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJcF9QT1JnEAE",
+            "text": "Ordené dos entradas, excelentes, y mi bebida también excelente, sentí el alcohol no como en otros lugares que los cocteles son jugo. Honestamente no es barato pero me sentí satisfecho con la calidad y presentación de la comida y la bebida"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNROThueHNnRRAB",
+            "text": "This place is a blast !!!! They have brunch daily from 2 -8pm and if u ask for eury he will take good care of you !!!!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnM2FDVmlnRRAB",
+            "text": "Excellent food"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfemNINldBEAE",
+            "text": "The Dj only knows how to play Reggaeton and omega !  If you need service or your waiter you can find them hanging out by the Dj area. The food is good but the service must improved . The Dj sucks royally !"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfajVHa3V3RRAB",
+            "text": "Good"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfdWIzRTl3RRAB",
+            "text": "The food was really good. My only problem would be , the server was given the check and never asked if we wanted change. Even though the extra $$ was for her, it is proper etiquette. Other than that, it was fine."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfN05mTE1nEAE",
+            "text": "Amazing food and staff the presentation of the food is pure art\nWe will definitely be back\nWe called Sunday asked if the had room for a party of 10\nThey said sure\nWe were pleasantly surprised with the atmosphere and vibe\nFood is amazing and drinks were awesome\nStaff is top notch\nFood Came out nice and hot\nAnd so beautiful you can tell they take pride in that kitchen"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfNU5HS0h3EAE",
+            "text": "Came here with my girlfriend on a Sunday afternoon. The brunch buffet and unlimited selection of certain cocktails for 2 hours was amazing. The service kept coming with the drinks and the food was amazing. Drinks were very delicious and strong. Highly recommend for brunch."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfeElYZFJREAE",
+            "text": "Came to brunch on a Sunday and the food was delicious. Sancocho was great."
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmdTd5elNnEAE",
+            "text": "The food was so good, and our server Cynthia  was really kind. She did a great job."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmNG9xa1VnEAE",
+            "text": "First time visiting this location as per a friends request since I was in the neighborhood. Had the Redsnapper with plantains tasty very good ordered some food to take home to some family members they like it very much already but lambing for a next visit next week."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyeFBISDdBRRAB",
+            "text": "I have been to a few of the other locations, so I was looking forward to this visit. When I arrived I parked on the street nearby. I walked in and was greeted by Leaha, and she was great. I sat and started with the limitless brunch, and the…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSaHRlWWtnRRAB",
+            "text": "Visited on a Sunday. We did the All You Can Eat buffet for $39. It included the unlimited drinks. Great vibe, and music. The music wasn’t too loud where we couldn’t hear each other and the food was good. Drinks were strong, no complaints. Our waiter was great! And there’s hookah available too. Just remember to bring cash if you don’t want to use the ATM.\n\nThere was a few people celebrating their birthdays and Mamajuana certainly helps with the celebration. It was nice to see. Def recommend."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURudFBlMzlRRRAB",
+            "text": "Came here for happy hr since Papasito was closed for renovations. I’m glad I did come here, I had a great experience. I was worried the mofongo wouldn’t taste authentic because it was so beautifully presented, but I was wrong. It was delicious as was the happy hr drink I had, I forgot the name but it’s Jack Daniels and fruit punch. The hookah was the best I’ve had in a very long time (40 cash). The server I had was great. I’ll be back soon 😊."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDbVpuYjVnRRAB",
+            "text": "Let's just say my experience at The infamous Mamajuana was interesting. We got seated and while my party chatted waiting for our drinks and appetizers it started to rain so we had to run to the covered area of the restaurant. Yes, seating is outdoors and no umbrellas 😡. Ok with the outdoors part but damn you can't invest on umbrellas,  smh. Nonetheless,  while we waited for the rain to stop; the manager was talking about shutting down while we wanted our food to go. At first she didn't want to take our order because she said she had to close the cover we were under. Mind you it wasn't just my party under it. It was good 10 patrons that were under it as well whom were there before us waiting on their food. So we decided to wait it out because first of all parking is a true luxury by Mamajuana and if you're not lucky to find one on the street be prepared to pay for one at a garage.\nOnce, the rain passed and sun was peaking out the clouds the waitors wiped down the tables and chairs. We sat and finally placed our order for drinks and food. We had a paella, snapper stuffed with seafood and tres leches cake for dessert. The food was amazingly delicious the portion is actually for 2 people,  as you can imagine the amount that we took home for that second serving, 😆 🤣. Bon appetit Mamajuana patrons!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQOHE3V2hRRRAB",
+            "text": "Excellent food, very courteous server. The music is a bit too loud. The cocktails are great! Highly recommend!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMyeF9pOTlnRRAB",
+            "text": "The food was presented beautifully and it tasted absolutely fantastic. I’ve never tasted anything like this before and I would definitely come again. Everything was cooked to perfection!! The service we had was splendid and we were waited…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKejRqSVlnEAE",
+            "text": "This was a great place to eat and chill. My girls took me here to celebrate my birthday. It turned out to be a beautiful day, so we ate outside. Our food was delicious and the service was great. There was some kind of event/concert going on that day, so the street was closed off, and we got to enjoy the music while we watched people go by. I will definitely go back. I recommend it!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuNWZ2ZkZREAE",
+            "text": "The drinks were really good, the service was a little bit slow since the restaurant was empty and took too long to bring the drinks. I would recommend Blue Long Island if looking for something strong but sweet"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQcWVYZV93RRAB",
+            "text": "Came for lunch with my daughter and ordered the Puerquito. One service was enough for both and it was delicious. The “Cuerito” was crispy and right on point. We also ordered the Mojito de Coco and the Sangría Mamajuana. Very delicious! The service was decent and polite. Totally recommend if you’re in the area. The restaurant is very nice."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoOWM2bDlBRRAB",
+            "text": "If you're a fan of authentic Latin American cuisine and killer cocktails, Mamajuana Cafe in the heart of Dyckman is a must-visit spot. This unassuming restaurant packs a punch with its flavorful dishes, and their signature chicken and rice is nothing short of a masterpiece.\n\nAs soon as you walk in, you're greeted with vibrant colors, friendly staff, and the unmistakable aromas of spices and slow-cooked meats. But the star of the show here is undoubtedly the chicken and rice.\n\nThis is not your average chicken and rice. It's tender, juicy, and perfectly seasoned, and pairs perfectly with the fluffy rice and flavorful beans. It's a comfort food classic that's been elevated to new heights, and it's no wonder that locals and visitors alike rave about it.\n\nBut it's not just the food that makes Mamajuana Cafe special. Their cocktails are expertly crafted, with a focus on fresh ingredients and unique flavor combinations. From their signature Mamajuana cocktail to the refreshing mojitos, each drink is a work of art in its own right.\n\nAnd if you're in the mood for something sweet, don't miss their homemade flan. It's creamy, decadent, and the perfect way to end a satisfying meal.\n\nBut what really sets Mamajuana Cafe apart is the sense of community that you feel when you're here. The staff are friendly and welcoming, and the vibe is truly authentic. It's not just a restaurant, it's a gathering place for friends and families to enjoy delicious food and good company.\n\nSo if you're looking for a taste of Latin America in the heart of NYC, head to Mamajuana Cafe. You won't be disappointed."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1cDRmTFJREAE",
+            "text": "Outdoor and indoor seating avaliable - very spacious. Our hostess/server Donna was attentive and answered all of our questions. Very relaxed setting for a Saturday afternoon. Good for all party sizes including families, dates or small groups. Passion Fruit Mojito pitcher was full of tropical flavor and enough for 4 drinks. Ordered a Henny Colada and it was really good but pricey. Food was flavorful. I recommend the Chicarrones, Rabo or Paella. There's hookah available but didn't get to order it this visit."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNNby02dF9nRRAB",
+            "text": "The restuarant was a little pricey, appetizers and drinks was over $100, I can imagine what I would of spent if I had just dinner and drinks for 3. I guess that's reasonable now with restaurants over charging for food that's not always worth the price.  The appetizers were good"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM2bEt2VExREAE",
+            "text": "Food is delicious I went there to celebrate my daughters birthday. I ordered Pargo Rojo \"El Original\"\nIt is the Crispy red snapper stuffed with crab meat mofongo in criollo lobster sauce. It was humongous good for 2 or 3 people, Im not kidding.  The atmosphere is very good.  Friendly staff.  I have been going there for years and I still LOVE their sangria  so yummy."
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtcl9xcnV3RRAB",
+            "text": "Buen sitio, comida excelente, atención excelente...\nNo me gustó que el muchacho encargado de acomodar los clientes nos envió a un sitio donde estaba la música demasiado fuerte, para la gente de la fiesta nosotros no íbamos de baile solo a cenar una salida familiar."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKaloydUJREAE",
+            "text": "We visited the Dyckman location and were blown away by the ambiance, music, and service.\n\nOur server was Donna. Her radiant smile and pleasant demeanor made us feel at home!\n\nWhether you sit inside or outdoors, the food is great and the vibe is chill. Enjoy!\n\nMr. Garcia"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURLcDZMLV93RRAB",
+            "text": "The food was fantastic, our server was very attentive and patient with us. The drinks were delicious as well. Great spot for a nice dinner date."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKd0ozdlNBEAE",
+            "text": "This restaurant used to be amazing, now not so much. Wait time is long-- even if there's no one there. The food tastes bland; We got the fried red snapper and the churrasco with chimichurri sauce, which I only ordered because of the sauce and we got a completely different  red sauce topped with what seemed to be diced garlic, red pepper and onions-- not a traditional chimichurri sauce. When I asked about the dish they just kept repeating that was a chimichurri sauce. I'm ok with chefs getting creative but don't label it on your menu as chimichurri when it's not. The fish was just ok. The batter and fish tasted like breaded fried chicken.\n\nI've tried to give this place a few extra visits to see if it was just a night off but it always disappoints. They used to have a nice touch in the past where they gave you a complimentary shot of Mamajuana after your meal. We spent over $100+ and left regretting our visit. This was my last time dining here.\n\nThe only plus to this restaurant is the portion size which is good for the price, but then again that's the norm in Inwood/ Washington Heights area.\n\nAlso, note that the vibe here is loud. People smoke hookah inside and the music is blasting. If you're not looking to party 100% skip this place.\n\nI recommend leaving \"restaurant row,\" and heading to the restaurants a block away right in front of Tryon Park....so much better food and service with still an upbeat atmosphere."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxN2VDMWVBEAE",
+            "text": "I had heard about this restaurant from multiple people and wanted to try it out. Went there with a friend on Tuesday night. We made reservations, but it was not needed. The place was only 1/4 full. We got seated quickly and a woman came around and took our pictures. They looked good and I bought one. The food service was comically slow and the wait time between plates needs to be shortened. I ordered the penne pasta with chicken and enjoyed it and rhe tres Leches dessert was to die for! I'd go back just for the dessert!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDbGNfdS1BRRAB",
+            "text": "Great food, great drinks, the wait was long af, but ended up being well worth it. The paella was delicious, and the garlic shrimp even though they were an appetizer definitely stole the show. Very pleased. Will surely return."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURxdjZ6WFpREAE",
+            "text": "I'm a hungry person, so I've had a lot of foods. I just have to say that the foods in this restaurant, just might be some of the best I've ever had💯. I'm not going to lie and say I know a lot about Dominican food because I don't, BUT I know food in general and the food here tastes really, damn good. In addition to the aforementioned deliciousness, the staff were amazingly friendly, attentive, and helpful, the outdoor dining and atmosphere were amazing, and the drinks were creative and delicious!\nIf you're looking for any food recommendations the ceviche was the stand out hit🙌\n10/10 would recommend. Legitimately thinking of moving apartments to be near to this restaurant, that is how good it is. Go there NOW!🙏"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3dnBlS09BEAE",
+            "text": "Coming to Mamajuana  In Inwood is a unique NY Experiance. Inwood \" is Just about as North and \"Uptown\" as you can in \"Upper Manhattan\", The lovely Sidewalk Cafe sits amongst several other pretty sidewalk cafes. Mamajuana however is favorably situated under 2 shady trees that kept our party of 6 cool in the 90 degree sun. We were there to celebrate our daughters high school graduation with several of her classmates. I had walked by this block last Autumn and filed it away in mylist of places to come back to at the next appropriate opportunity. Yesterday was that day and we were not disappointed. Our server Anthony was very welcoming and enjoyable, the staff filled our waterglasses endlessy, (like 7 or 8 times each) and we never had to ask.  We ordered appetizers and they were  delicious and came out in a very reasonable amount of time. The main courses definitely required some time but the food was delicious and the presentation was beautiful, well worth the wait.My wife and I shared the Puerquito which is a Pork dish with rice and beans and plantains. The pork was \"fallen' off the bone\" (just the way I like it).  We all thoroughly enjoyed  the delicious food, ambiance and wonderful service. I would heartily recommend it to anyone who wanted a delicious cosmopolitan NY Experience."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDczZUVllnEAE",
+            "text": "*ON PANDEMIC*\nThe place still keep its essence. With an amazing presentation and real Dominican taste, prices are well adjusted to the great quality they provide. Drinks and…"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDbEpxZTlBRRAB",
+            "text": "Nice ambiance and good service, but, after one visit, I'm not convinced the quality of the food justifies the prices. It felt a bit like a tourist trap. I also find it impersonal when gratuity is automatically included without the server…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxMmZhWUtnEAE",
+            "text": "Got to say had an amazing experience here at Mamajuana café my server Jonathan definitely went above and beyond with the service and the food was outstanding and with great presentation, definitely coming back and I will highly recommend this place. Great outdoor seating area."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSX3QzcFl3EAE",
+            "text": "The food was really good and the atmosphere was great as well we enjoyed ourselves and will definitely be back."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM2NG9PZUx3EAE",
+            "text": "My recommendation - paella and ceviche - both are excellent! Also the drinks are absolutely great... but watch your sugar intake!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKNGFfZW9RRRAB",
+            "text": "I had an amazing experience here today. There was a minor mishap with the steak that I ordered. However, they took immediate action to correct it. The service we received from the bartender Jonathan was extremely friendly and attentive. We even had freshly brewed coffee made for us at the end of our meal. 😊"
+        },
+        {
+            "date": "수정일: 5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzOWNTYzNRRRAB",
+            "text": "We always have a great time when we come to this location food is Great. Drinks are good and the Music is Awesome. You can Dance after your dinner"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzNTZMMVRBEAE",
+            "text": "Went for Sunday brunch. Unlimited food, mimosas, sangrias or jack punch. Make sure you’re hungry! It’s about $38 pp with taxes. If you don’t eat much then it’s not worth it but if you love to eat then this is your place. They had a good…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM2a2Z2QjhnRRAB",
+            "text": "It's always a pleasant place to sit and enjoy with friends and family. Some dishes a little pricey though considering the amount served, but otherwise a great service and tasty dishes."
+        }
+    ],
+    "reviews_count": 80
+}

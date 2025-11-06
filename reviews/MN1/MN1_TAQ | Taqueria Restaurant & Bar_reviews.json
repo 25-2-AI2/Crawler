@@ -1,0 +1,502 @@
+{
+    "name": "TAQ | Taqueria Restaurant & Bar",
+    "place_id": "ChIJ-4o-IdJbwokRR3eqKv1987k",
+    "grid": "MN1",
+    "address": "81 Warren St, New York, NY 10007, USA",
+    "rating": 4.7,
+    "user_ratings_total": 151,
+    "phone_number": "(212) 301-7624",
+    "reviews": [
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twVGRVdEZieTAyUTBsRVVrWjVWRGM1ZFVSRFlYYxAB",
+            "text": "First experience was amazing, service was very good. Second time the waitress was rushing us to go, there was still 40 min for the restaurant to finish, but she was pushing to pay the bill. A bit annoying"
+        },
+        {
+            "date": "5일 전",
+            "language": "no",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoelRrY3RkazgwYTBRMldFeEhTbVpEY2tJNFVXYxAB",
+            "text": "Nydelig mat og super betjening. Litt høy musikk etter min preferanse. Drar gjerne hit igjen."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwMU5rWmxhRFJXZW1ORmMyeFFWbEpxWWtKU01WRRAB",
+            "text": "Nice tacos , vegetarian options were good, service was fast . I tried black beans and falafel. Liked the latter more . Chips were fresh but bit on salty side."
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnX2VxSGp3RRAB",
+            "text": "This place is really pretty great and it's open before other places like Warren Peace, next door which opens at 4.  I love the staff and check these cute visuals!  10/10\n\nAlso, hilariously, their toilets are maaaaaaad strong!  Like hold down the flush handle and watch in amazement!"
+        },
+        {
+            "date": "3주 전",
+            "language": "pl",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CRGVuWXRUa05HY1Rkd016bFRNR1oyYWkxdldVRRAB",
+            "text": "Super jedzenie w dobrej cenie. Polecam"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5WWVERTJWVmRSYWxwQmJFeGxiWGhWVVhOS2VXYxAB",
+            "text": "Amazing tacos"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxcmMwMUNTbEF5UnpKb1RVcDROR3cwWDBWQmJsRRAB",
+            "text": "Truly deserving of its high rating, we enjoyed absolutely delicious tacos that were freshly prepared after ordering. The chips and salsa were in a league of their own, simply outstanding. In one word: a perfect dining experience."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psUVYzaFhXRmRXVUhGc2NEUlViMjlUU0RaZmNYYxAB",
+            "text": "Highly recommend the chipotle tacos from here! 10/10"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWUU9FTnBZemRaUm0xblpYbHNOakZzUldWRWFrRRAB",
+            "text": "We came on a holiday weekend just before end of happy hour. Generous portions, cold drinks, and good prices during happy hour. The nachos and all tacos were large and wonderful."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGbldXSnNUbWRsVTNWTVZHdFRlbmhRTWpnMFJuYxAB",
+            "text": "None of the tacos were great. One or two (pork belly, Thai) were good, one or two were mid, and one was just pretty poor. Generally, they were all too dry.\n\nThe elote was excellent. The guac was a little too spicy. The drinks were very good and well priced and our server was *fantastic.*\n\nI'd go back, but not for the tacos."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WNlVubHBZVEV0UkRSNldUaEZkR3A2YVhwc01tYxAB",
+            "text": "Tacos were delicious and flavorful, they offer a variety of different flavor tacos which I enjoyed as someone who likes to try a bit of everything. The chips and guacamole were good as a starter. Staff were friendly and attentive. Would definitely be making this place my go to taco spot."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGeVNuUTBNVW90ZFdjMWNUazBSV2swU1hGeE1rRRAB",
+            "text": "They are super sweet and the tacos are absolutely delicious, especially the vegetarian ones. They offer variety without only trying to sub out the meat. The outside sitting area is very nice but a little bit on the darker side.\nWould definitely recommend"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKelNGSjZiR2RmVHpORU1tUk9VbWx4TVhsUGMwRRAB",
+            "text": "Sick tacos and really good drinks"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0ZlZVa3pkMEYyV25kbU9VMVFVRGR3YjJobE9YYxAB",
+            "text": "Al pastor and Barbacoa are amazing (pastor has some spice). Coreano is mediocre."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOZlpIRkxaME5yZVMxWlpFWkJNVWxuTjFCNVpFRRAB",
+            "text": "Quality. Didn't break the bank. SoCal approved."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213d1FYWkdZbEpZTFdsVGVqSk5TbXQ1TlZwRFZHYxAB",
+            "text": "The tacos here were packed with meat but somehow still missed the mark. I had the pastor, barbacoa, and fried chicken taco and none of them were good. The flavors are sub par and I didn’t even finish my food because it was so unimpressive. The waiters were nice and attentive! The nachos were good so maybe the menu is better suited for happy hour and shared nachos. Wouldn’t recommend for dinner."
+        },
+        {
+            "date": "3달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkRGVFSmhPVVp2WkdSZmQzZGhhRW8xZDB4cWJFRRAB",
+            "text": "Günstige Tacos in guter Qualität. Nimm einen Taco als Snack oder zwei als Menu. Insgesamt unter 20.- USD mit Getränk"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4bFFrcGtNRWRPYlRCUlltcHpRM2h2VDAwMlIwRRAB",
+            "text": "Quality tacos ( skirt steak & also shrimp are fav), excellent guac & great margaritas with an unbeatable price! Service is very attentive and friendly. Will be a regular!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "ca",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGV1QxZDBaSGQzYlZOTE5UbDZSak5MVjJ4elVHYxAB",
+            "text": "Molt bons Tacos! Begudes molt correctes."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201UlFXZFFhVkpWVnpocmR6bG5OVUU0ZEd0bWVtYxAB",
+            "text": "I could go on and on about how much I love Taq (and I do)\nBest staff ever!! Food is well priced and IMPECCABLE 🤌 the elote dip is to die for and I haven’t had a taco that I am not drooling over. Great quantity and quality for price. This is a staple and should be one for you too"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxd1IxcE9TbmRmVlhGdmVuZFhibTR5WVVKcWNGRRAB",
+            "text": "I was here tonight. a Friday night from 6-8pm. The place was empty, which should have been my first sign. Every single staff member that we encountered was rude, arrogant or condescending. From the host, to the waiter (a blonde new hire), to the manager. The food sadly was woefully inauthentic, bland, and boring. When paying the bill we asked the waitress to put $30 more on one card to which she responded with an arrogant attitude, \"I can't do that. Our system doesn't allow that. We don't do that here.\" (So which one is it?) She clearly didn't want to be bothered. I told her that was highly unlikely, but asked what can be done. She begrudgingly said \"Well, I can itemize it\". As we began to tell her what we wanted on each bill she grew further annoyed. I stopped and instead asked her for a pen so we can mark the items for each card to make it easier (since itemizing was her idea!) She then with an increasing attitude said \"I dont know. I don't have a pen. People don't usually ask for this.\" As if it was beneath her to have to split a bill with one person paying more than the other. I had to insist that she get a pen as she just stood there resistantly.  She proceeded with a huff and a puff to the bar as I watched her theatrically act out her version of what transpired at our table to the other staff! The level of arrogance and lack of professionalism throughout this venue is an embarrassment. I would never go back. Don't waste your time here, instead go to the restaurant next door \"Warren Place\", which had every table filled and when I passed by the staff was nothing but kind and welcoming."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKTFJ6UlVRblZDYXkwNE5HTnpWVWxyVERobE0yYxAB",
+            "text": "Love this gem in our neighborhood! Great drinks and food. Friendly, helpful staff! We slammed them one night when our reservation of 8 quickly grew to 25+. (Sorry) We were sitting outside and they brought out as many chairs as they can to accommodate us. (Thank you!!!) Definitely in our list of favorites."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsWVRUVnNjRk0zZGpKcFVGb3lhR3ByT1Zkd1dGRRAB",
+            "text": "I recently made a reservation for a small group of friends at TAQ in their lovely outdoor seating area. The day of our reservation, others heard we were meeting at TAQ and our small group quickly became large. The TAQ staff did an amazing job accommodating extra guests. Gwen, our waitress, quickly adapted and took care of us. As our group grew, it took a moment to get drinks (we kept the bartender busy!) but they were so tasty that it was worth the wait. I highly recommend the mint/cucumber combo! They have the best nachos and this time, we ordered the elote corn with chips, and they were delicious as well! The prices are also reasonable for Tribeca. TAQ is a great spot to meet friends.  We will surely be back, and really appreciate how accommodating there were - considering our group grew fast!  Look forward to our next gathering!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsWGNGOVRUeTAyUVVFeFlVVk5aV05UUmxkblNGRRAB",
+            "text": "Service great 👍"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214cWJUUXlWR2hDY3pObGNVTkZVemczUkZkSlNWRRAB",
+            "text": "Really not good.  Staff were either unhelpful or arrogant…or both.  Gave the impression that you were really an inconvenience.  The opposite of hospitable.  Not where you want to spend much time.  I wouldn’t recommend it."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOcnk2X242bmJMclB3EAE",
+            "text": "This was a fantastic choice for tacos and great margaritas!  The nachos are not to be missed!  And the service was great!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJbTVnN3ZIaUt1blZ3EAE",
+            "text": "Came after work for drinks with colleague, nice place & friendly staff. However, how can any self-respecting tequila bar serve tequila on the rocks with almost crushed ice. By the time you drink, it's diluted to flavored water."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJRzhuOUhaajVLZ3JnRRAB",
+            "text": "The best Tacos in the city, with perfect Service 10-10 ♥️ I love it 🎉"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJLTVwUFhnaVp1dXZRRRAB",
+            "text": "Amazing spot with delicious food, highly recommended!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNZlZsdGZjdk1xRVFBEAE",
+            "text": "Rebecca and Justin were absolutely delightful and incredibly helpful when it came to navigating the menu"
+        },
+        {
+            "date": "5달 전",
+            "language": "nl",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPYUoxOUsyeTZMcUFnEAE",
+            "text": "Heel lekkere taco’s met de nodige uitleg ! De koffie is een super grote tas ! We komen terug."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VKSC10TDNDNXBIZlV3EAE",
+            "text": "Tried their Beef Barbacoa Taco today at the Tribeca festival. Not sure if it was actually spoiled or if they use an unusual marinade, but threw it out for fear of getting sick."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLSGt0di1IdnF1ZHhBRRAB",
+            "text": "Quite enjoyable place with friendly service and nice environment. The food was good and loved the Mezcal Negroni there."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJS04wOEREc3BIc2lRRRAB",
+            "text": "My friends and I stoped by to celebrate an academic achievement we were greeted by a rude tall blonde man. He made us feel as if he was annoyed that we even came in. When we asked for a specific table he rolled his eyes and was visibly annoyed, he end up sitting us at a different table. 15 minutes went by and we still weren’t offered water nor was our order taken the place did not seem crowded at all. Very disappointing experience and we won’t be coming back. Save you money and go to the bar two doors down."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZNHZldWpBRRAB",
+            "text": "Had a great lunch here. They were quick to bring out the food too! I had a scallop taco and the other one was with beef. Both were delicious and rather large. Unless you’re a big eater, 2 should be enough. The ingredients were very fresh. The prices were amazing too for a sit down restaurant! Def check them out!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvODluZjlnRRAB",
+            "text": "Absolutely delicious! Highly recommended 😊"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvalByZXpBRRAB",
+            "text": "The staff and atmosphere were very pleasant. The menu was straightforward. I enjoyed a non-alcoholic beverage, nachos, and some tacos. I wished the tacos had been crispier. The nachos were good, but I expected more from the tacos. However, the staff and waitress were very kind."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJdGI3TXRBRRAB",
+            "text": "Tacos here are not authentic nor flavorful. We tried 6 different tacos and nobody liked their taste. Feels like random ingredients mixed in without much creativity or flavor. The elote dip was also tasteless"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJc2JtRVpnEAE",
+            "text": "Great spot!\nBartender, Cole  was extremely friendly and knowledgeable. The cocktails were amazing and the unique taco menu is extensive! Food was delicious!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJenZuRUF3EAE",
+            "text": "Delicious, fantastic, super recommend!!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJd3BYMW9nRRAB",
+            "text": "Fabulous place, great food, the tacos are exceptional and service brilliant. Also a grange range of local beers on draft. Highly recommend going during happy hour, everyday 3 to 6 pm."
+        },
+        {
+            "date": "7달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3NE9uTUd3EAE",
+            "text": "Sind hier kurz zum snacken eingekehrt, die Tacos waren der Hammer und preiswert.\nSehr zu empfehlen"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3LWN5cVN3EAE",
+            "text": "Chocolate mousse brunch tacos… out of this world. Has had me coming back every weekend since the opening 14 months ago and even longer from their Ann Arbor, MI location. 👌"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRMzVYaHBnRRAB",
+            "text": "I so wished this was going to be good.  But the guacamole had no heat or really anything in it. The tacos also had zero heat.  We’re not flavorful and one with chicken and a HUGE amount of cream was pretty much inedible.  I hate giving negative reviews.  But this place is not 4.9.\n\nThe taco special.  Was quite affordable however.  I do appreciate that."
+        },
+        {
+            "date": "7달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRMEl5b29nRRAB",
+            "text": "Nous avons pris le half nachos + 3 tacos à deux et c'était copieux et vraiment délicieux. La serveuse était agréable et a pris le temps de nous expliquer le menu malgré la barrière de la langue.\nMerci pour l'expérience culinaire !"
+        },
+        {
+            "date": "8달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnbmRlMGdRRRAB",
+            "text": "Les tacos étaient excellents, le service fort sympathique et l'ambiance très agréable. Le prix quand à lui est très raisonnable quand à la qualité du produit. Je reccomande beaucoup, surtout quand au final, le moindre restaurant, même en fast food chiffre très vite. Ici on peut profiter d'un excellent plat avec un très bon service pour légèrement plus cher et cela vaut largement le coup."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnMXBiTThRRRAB",
+            "text": "TAQ is, without a doubt, one of the best taquerias around. I’ve been coming here for their nachos and three tacos on Wednesdays, and every visit has been outstanding. I never thought tacos could be elevated to such a high level—beautifully plated, packed with flavor, and executed with true culinary finesse.\n\nFrom the first bite, you can tell they use high-quality ingredients and take the time to craft each dish with care. The tacos aren’t just good—they’re next-level delicious. Whether it’s the balance of textures, the freshness of the toppings, or the perfect seasoning, TAQ consistently delivers an amazing experience.\n\nI’ve been here at least three times, and they never fail. The atmosphere is lively yet comfortable, the service is excellent, and the food always hits the mark. If you’re a taco lover or just appreciate great food, TAQ is a must-visit. Highly recommended!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURneXRTYWN3EAE",
+            "text": "Traveled from Queens to have this two days in a row. Awesome food, service, and atmosphere. The happy hour deal is also amazing for tacos and beers. Would definitely visit again!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnemJlZDRRRRAB",
+            "text": "While the service and drinks were phenomenal, the food left a lot to be desired. The tacos were stuffed with meat but found the flavors were either off or lacking. The taco that featured the yogurt crema made me question whether or not it was fresh... not the sort of thing anyone wants to assume while actively eating (and paying) for a meal.\n\nWould return for the drinks and maybe small bites. The tacos aren't for me!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBa2ZTSHBRRRAB",
+            "text": "Great aesthetic, waitress was so lovely, and the food did not disappoint! The highlights were the chips, guac, and salsa verde (and I never consider the chips and guac a highlight) the pomegranate basil margarita, and the scallop taco! Everything was excellent though!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzNU5ERzhRRRAB",
+            "text": "Amazing Gourmet Tacos… and a Saturday Happy Hour!? Chef’s kiss. Do yourself a favor and check this place out. 20+ optional taco topping choices with good portions and $3 corona. Enough said. So good. Definitely found my go to taco fix. Thank you management, please don’t change a thing. Ever :)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUcDhITWNnEAE",
+            "text": "I pride myself on not being a restaurant repeater. I had to make an exception for TAQ. I’ve been here 5 times in the past week. It is really THAT good. First off, an incredible selection of tacos, especially vegetarian ones. I also love that you can mix and match. Every taco is a hit. Personal favorites are the Coreano, the Frito (try it in a lettuce wrap), and the Berenjena. The dessert is a must-have, both the tres leches and the Mexican brownie. Also, service is amazing. Everyone is so friendly and attentive. The ambiance and music is great, and the outdoor seating is great people watching. Lastly, the prices are phenomenal. The happy hour deal is ridiculous. This place is going to be THE SPOT for summer. Can’t wait to be back for more!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBamF1eF9RRRAB",
+            "text": "It’s so hard to find good (vegetarian!) mix and match tacos…luckily Taq delivers!\nThis place truly is a hidden gem and has great options for everyone, along with reasonable pricing.\nTheir classic margarita is delicious (they have a lot of different flavors as well). To begin, the Esquites are a must (love how they make them here, it’s more like a corn dip!) and the Nachos are also solid (although I wish they used a queso rather than just melted cheese).\nThere are so many vegetarian options for tacos - my favorites were the Buffalo Cauliflower and the Falafel. The Eggplant was also solid, but could have used a bit more sauce.\nThey also make a really good tres leches cake!\nService is quick, and the vibes are casual. I can’t wait to come back again!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3OElDOUtBEAE",
+            "text": "The concept is tacos! Sweet tacos. Savory tacos. Vegetarian tacos. Meat tacos. Seafood tacos. Brunch tacos. Lunch and dinner tacos. You get the point.\n\nI’m not sure if it’s advertised, but I heard that if you buy three tacos, the third one is free. I asked about this and the waiter said that you buy three you get five dollars off the third taco. Majority of the tacos are price at 7$.\n\nI ended up getting the hamburger taco, the shrimp taco, the Korean chicken taco.\n\nThe hamburger taco is apparently only available on the weekends as a special. This was the best one of the three.\n\nThe shrimp taco fell apart, which was disappointing. The shrimp were small, and the sauce was not memorable.\n\nThe Korean chicken taco I thought would have crispy chicken, but it was grilled chicken. The chicken was good and it was a decent taco."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMNGZUdFZnEAE",
+            "text": "The nachos were very tasty and loaded with shredded chicken, cheese, black beans, and more with guac on the side. They have a deal where you get $7 off if you buy 3 tacos, which comes out to basically buy 2 get 1 free. My personal favorite is the al pastor. Their margaritas were also tasty. Their blueberry one is pretty good."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNWLTlpc19nRRAB",
+            "text": "We were immediately greeted by knowledgeable and attentive waitstaff. The atmosphere is both meticulous and inviting - accented by chic decor and cozy candle light. The Berenjena eggplant taco was delicious and will definitely become a staple for my visits at Taq. I will forever dream of the chips + elote from this menu!!! Must try if you’re looking for an elevated taco experience with deliciously strong margaritas."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUcTluVHZnRRAB",
+            "text": "BEST MARGS & FILLING TACOS\n\nCame with a friend who suggested the spot, sat at the bar & was helped by our lovely bartender Cole who was very patient with us figuring out our drink orders & asking questions about the food.\n\nThe atmosphere is cozy & modern, with fun taco loving signs and a lovely bar + general dinning area. The prices are super fair and honestly amazing for Tribeca!\n\nWe ordered:\n•Spicy mango marg\n•Strawberry lime marg\n• Pineapple marg\n• Pastor (pork) taco\n• Tofu taco\n• Sésamo (beef) taco\n\nHighlights: Strawberry lime marg & Sésamo taco"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYa0lQa1hBEAE",
+            "text": "Great place for quick tacos, though I will say I was surprised that it was table service. The vibes seemed better suited to counter service. Regardless, highly suggest the eggplant and black bean tacos—they will surprise you! And tres leches cake!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURsbk9HZHdBRRAB",
+            "text": "Had a quick bite while roaming Tribeca. The nachos were generously loaded with perfectly cooked chicken, pico, crema, beans, cheese.... I had the wild mushroom taco and huusband tried the camarones. Delicious! Those house margueritas went down smooth, too."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYMjdiclN3EAE",
+            "text": "Great tacos, several vegetarian options. Good value for money when there’s 3 for $5 each tacos. The flavored margaritas are delicious."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREbnZhSG93RRAB",
+            "text": "This is the new hot spot in Tribeca! Please try the Barbacoa! JUICY and great flavor! Absolutely great! I enjoyed the Starwberry Kiwi and the Spicy Mango Margarita!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5Xzg2R1dnEAE",
+            "text": "Omg !!! These have got to be the best tacos I’ve had in Tribeca . I just had the Shrimp, Fish and Tofu and they were all bomb! Very fresh , excellent presentation and the flavors too me back to Mexico . It was amazing . The staff were friendly and the place is sooooooo clean and welcoming ."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUenR5UmlRRRAB",
+            "text": "The tacos were huge and had lots of filling! The chips and guacamole were also great and well seasoned. Highly recommend the chipotle carne asada taco."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWbWV6eXlnRRAB",
+            "text": "Really great and fresh tacos! Also very tasty lemonade! Moreover, everything had a very decent price and the staff was nice and helpful:) This place is going to be famous!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiM05UaWdBRRAB",
+            "text": "I was visiting from Chicago for my birthday, and had a taste for Tacos. We had just visited The World Trade Center, and wanted a place near there.My daughter found this place in our search.  This place did not disappoint.  We were very pleased with service received from Adam.  He was professional and knowledgeable of the menu.  We had a elote salsa appetizer that was delicious.  The tacos were cooked to perfection.  Definitely give this place a try if you have the opportunity 😊"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMcHFhc3J3RRAB",
+            "text": "FIVE stars!!!!! Came for the lunch special (3 for 2) stayed for the vibes. So so good I’ll b back to try ALL the flavors!!🌟🙌🌮 MAJOR yum"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQMmVYcFB3EAE",
+            "text": "The tacos are good but the real deal is the corn. The corn is incredibly delicious. 8/10."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMeUxlanBRRRAB",
+            "text": "These mfkn tacos hitttt I recommend the barbacoa tacos A1. Good place for a vibe & drinks."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5cUpQa3VBRRAB",
+            "text": "We had a great meal here! Food was fresh, drinks were cheap, service was great, and the ambiance was quaint and cool. Great addition to the neighborhood, will definitely be back!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBMU02S013EAE",
+            "text": "TAQ is a hidden gem. We recently ate there while visiting Tribeca. The tacos are not your ordinary tacos. They are prepared with \"flair\". The guacamole is one of the best I have ever had. Chips homemade. Cole the bartender clearly makes his drinks with\nTLC. Again not just your traditional margaritas. If you like spicy have one of the drinks that infuses their tequila  with jalapeños. Even the drink my husband had (and myself the second day we went) was made with fresh basil. The decor is hip, relaxing and just perfect for this restaurant that shouldn't be missed. We went back a second time on this trip because we longed for the tres leches dessert. That I may say was not the best I have ever had but it was certainly good."
+        }
+    ],
+    "reviews_count": 70
+}

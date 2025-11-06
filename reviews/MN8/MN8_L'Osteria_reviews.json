@@ -1,0 +1,565 @@
+{
+    "name": "L'Osteria",
+    "place_id": "ChIJBRyejVJZwokReyLI3g24DLU",
+    "grid": "MN8",
+    "address": "1219 Lexington Ave, New York, NY 10028, USA",
+    "rating": 4.7,
+    "user_ratings_total": 343,
+    "phone_number": "(646) 524-6294",
+    "reviews": [
+        {
+            "date": "2일 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25vMFkydDZWRlEyVTNWWE9WTnNWRmRTWTFKWFZFRRAB",
+            "text": "Great cacio e pepe!!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5c1pUTXpXR2hsVUdsdGR5MU5UaTEwTlRkVmRXYxAB",
+            "text": "Went for dinner: got their ricotta ravioli and caprese salad, the seasonal tart. Overall pretty good, but the ravioli dough could have been thinner, and the bürste in the salad was quite cold, unpleasantly. The seasonal “tart” turned out a galette, ice cream not the best. Enjoyable atmosphere with dimmed lights, polite service."
+        },
+        {
+            "date": "3일 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sa1VqbG1TWGN5VG04MWRubDFURUkxUnpaM1gwRRAB",
+            "text": "Si vous recherchez des pâtes excellentes, vous êtes au bon endroit.  Service impeccable."
+        },
+        {
+            "date": "6일 전",
+            "language": "fr",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swMGNIQktTVTU0YUZSR2JWcEtPRzAzTFZSUWNGRRAB",
+            "text": "Cuisine correcte mais sans plus. Service assez froid."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwWmJ6bFllVEp4YTJJd1JXcFNZMEpEYzJSa1lWRRAB",
+            "text": "Delightful small Italian restaurant.\nThe food was delicious."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwNFQyMW1lSFJ2UjBnd2RFOUhSRFpRU0RReFpIYxAB",
+            "text": "We got the Ceaser, fettucini ragu, and NYStrip rare with a bottle of wine.\n\nPerfect amount to split without getting overly stuffed. The ragu and strip were superb.\n\nThe mushrooms and mushroom sauce were outstanding with the NY Strip. Highly recommend!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGQ1FtSkJTVWRIWjJwb1F6TmxZa1JHVkV0T2FWRRAB",
+            "text": "Loved it. Tasty food. Friendly service. Cosy ambience. Fair prices."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204M1ZsSjFNV2c0VFRoYVNFYzJVRmx0UkdrMWFIYxAB",
+            "text": "Good service, but the portions are very small and the food is just okay. In my opinion, small portions don’t make sense in a casual restaurant. I’m not into fine dining, but when I do go, I expect and accept the smaller servings that come with it. However, when an ordinary place serves extremely small portions, it’s a real turn-off,  especially considering the high prices for such tiny servings."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKQmEwVnNNemczTlhSbGRYaHNha2xmUzBsNlQyYxAB",
+            "text": "Great food! We really enjoyed the quality of the food. And the service is outstanding. Really nice people work here."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201VVVFOXdRV1ExT1c1aWEyeGplR3QzWDFadE1GRRAB",
+            "text": "This is a great restaurant to visit after a visit to the Met Museum…the food is homemade including desserts… the staff is very friendly and love what they do.  We enjoyed everything."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20weFRuSmhhVzAzWWtWVWFrbDBkbUZrUlhSblptYxAB",
+            "text": "Great food and service - they helped me with a last minute surprise birthday caprese salad that was adorable!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxUlpsRm1lVkJ3VTAxclltdDFUa294YUZZd1pGRRAB",
+            "text": "Amazing place, must visit 🍝…"
+        },
+        {
+            "date": "1달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2prME5sSkRaak4wTm1KblJucG1SblU1V1hKSFEzYxAB",
+            "text": "너무 맛있어요 진짜\n서버분들 매우 친절합니다\n\n너무 최고\n강추!!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aR1RXYzNXVjgxZDBJeFZFNXZMVGhvY1dSRVVrRRAB",
+            "text": "Average italian food. Service was excellent. The tables are very tight. No privacy during dining."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wRlQwVmpNbkZhVVdvNFUyOUhZM0EyTUhaTVIyYxAB",
+            "text": "Very friendly. Excellent kitchen. Worth waiting for."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taQllVNVpNRGMwZFRWblFYTkxZM0p0UkRWeGNsRRAB",
+            "text": "Liked the cacio e Pepe and a peril spritz. Very nice service"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKaFJ6STNSVUZuT0hSbFJtSmFYM1pEUkRsT2JHYxAB",
+            "text": "Very enjoyable low effort fine dining, the way midtown should be... Pino Grigio was really nice, overall left impressed. Would be happy to be back."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21vdGQwaHBkRFZZUlVselYyWnFOVlkyWlVWeldGRRAB",
+            "text": "Must go! Everything was amazing. Will be back next time I am in the city."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tka1dTMDJiV1p1ZGt0Uk1IUjVVMFJPVDAxck1HYxAB",
+            "text": "It’s my favorite Italian in nyc, the food is always amazing and the service as well. The pasta are fresh and amazing but make sure you keep some room for desert, the tiramisu is amazing."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaaldVZEdkRWhVVW14cmVUWldVVkpyVTFKNmVGRRAB",
+            "text": "Cozy and relaxing restaurant near the Met with the friendliest staff. So glad I stumbled upon this gem. They adjusted my salad dressing for my arugula salad with grilled chicken catering to my preference."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVMlFrcFpWMWRrUTJReFdGUlBUbmRQYlZJd1lrRRAB",
+            "text": "Absolutely amazing food and service. We had the ragu fettucine, which was cooked the traditional way and was marvelous. Creamy and cheesy to perfection. One of the best expressos I had in my life."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tacVZYSjFkMWhGYmxKb1RVdzJOVFZMY1dWVmNFRRAB",
+            "text": "Fun, really small, great service. We split the appetizer and entree. Pleasant dining experience."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCemJtbzVaRVZrWkdOSlIxZGZabE55Yld0VlIzYxAB",
+            "text": "Went to L’Osteria after a day at the Met!\nWe had great service, wonderful food & fantastic dessert.  Would highly recommend!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5UWRrczNaekZ1ZFV0eFIzZFBaRkZMTVVkeWFWRRAB",
+            "text": "Tagliatelle in a ragu sauce is just perfect! Finally, a restaurant that makes al dente pasta al dente, not raw! Every bite was a pure joy! Absolutely loved it! Meanwhile, tiramisu is great but I can't say the same thing about cannoli, felt like stale. I had better ones.but other than that, the restaurant is very cosy and it is located in a perfect location (just 7 minutes walk away from MET). Recommended!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sbk5tcFVjWHBCZUVSWWJsaHFTRFJRV1hSVWJrRRAB",
+            "text": "Charming service, exquisite flavors, very reasonably priced."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFeGVXVk5lalpLYVhWT1NqSlplbk5YVUZWR1pYYxAB",
+            "text": "It felt like we were back in Italy, we were tended to by Angelo (he's Italian!) who was very sweet and engaging. The food was lovely. Reservation is a must. We went here for my husbands birthday, we got a tart for dessert. I was surprised by how dainty and thin it was, yet perfectly ratioed."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KalkwOXdZa3hSZEV3MFJFTm9ObEZmYkZwaGVrRRAB",
+            "text": "Glad we found this restaurant. All the dishes are delicious and the staffs are attentive and friendly. Will definitely come back again!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tST1pVTnFWSEpKVkRGS1JGZElZWEJ1YkRCV1ZuYxAB",
+            "text": "That was mid. I ordered shrimp linguine to go. It wasn’t very flavorful, although it was pretty spicy with the red pepper flakes. Maybe the meat sauces are better? I seasoned it with Italian seasoning and parm and it got better"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3d2MwTTBURmRRTTJkQ2FXZHZka2hQYzNCMmJYYxAB",
+            "text": "Delicious food!! Great service and waiters"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCSmVXVlJTbGd4VDNWR05VZG5ZekpGWlZScVJIYxAB",
+            "text": "Excellent food and service!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poNGNXZERkR1ZaZGtKdVdXMXZka1ZZTTNwb1UxRRAB",
+            "text": "Ravioli perfection. Just sad it’s over, my meal that is. Great service- very pleased and satisfied!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CeWRFeFNNME4yZGt0NGRFcGpaVk5FY2pSR05IYxAB",
+            "text": "Very kind people, delicious food. Lovely place"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25JdFREQndSVmhCWldkUGJETXlabUZOZW5OYVgwRRAB",
+            "text": "Great food, wine, service,  staff :)"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSMldteGFRM1U1UmtjMVpEQXhjbUkxZDBwTFZrRRAB",
+            "text": "Small cozy place with delicious food and warm, friendly service (thank you Kimi and lovely bartender whose name i unfortunately did not catch). The specials were to die for, unique and beautifully prepared. Cacio e pepe some of the best I've ever had! I\"m not in that neighborhood often but now I'll need to make it a destination."
+        },
+        {
+            "date": "3달 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GU1dGUnhjMjVYYXpWUlZuWmZOSFZtU0MwMGVGRRAB",
+            "text": "Очень вкусно. Идеальное обслуживание. Помещение масенькое, но все, кто входил в зал, были посажены за столы."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kNmVXVmtWRmRxVjAxcGJWSjJNVFJuU3pGQ1VYYxAB",
+            "text": "Nice place that I would go back to. It's near the Metropolitan Museum."
+        },
+        {
+            "date": "3달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoQ2J6VXhkVzlaUWxSUE9XTnJlR2wzYmpCQ00zYxAB",
+            "text": "인생 살면서 먹어본 파스타 중 top 3 안에 드는 최고의 레스토랑입니다. 한국에서도 이렇게 맛있는 곳은 드물었습니다. 20%나 하는 미국의 팁이 아깝지 않을 정도 입니다. 바질 페스토와 스페셜 씨푸드 파스타는 먹으면서 감탄을 금치 못합니다. 디저트의 파나 코타는 옆자리 현지 단골분들도 자주 먹는다고 말씀하셨는데 눈물나게 맛있습니다.\n\n나오자마자 먹어버려서 음식 사진을 못 찍었네요ㅠㅠ 다 먹고 난 사진이라도 첨부합니다."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoelF6QmFlazVOTUVwSmRYWmZibU55VURKNGJWRRAB",
+            "text": "Always excellent!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poTmJrMTBjRlJVYWpCb09WcHlhV1J1WVUwMlMyYxAB",
+            "text": "Wonderful"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCcGVHY3ljRmx6VWxNdExWSkRjbWw1UzB4V1VtYxAB",
+            "text": "Love the staff. Real cozy, small space. Delicious food."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNeldwWWlSdGNEUHRRRRAB",
+            "text": "You lose nothing."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VManVucGpLaXJ6eXVBRRAB",
+            "text": "This is the second time at this restaurant and we love it! The bread and the pasta are 🔥🔥🔥 Service is the best and it is walking distance from The Met and the Guggenheim."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLV3d5NlNsLTVfWWxnRRAB",
+            "text": "My husband and I invited friends who were visiting from Sri Lanka for a late lunch last Friday. From the time we arrived at the restaurant to the cappuccinos we ordered to complete the lunch, it was a delectable experience. The fresh ingredients, unique preparation, and authentic flavors made for such a palatable experience.\n\nWe recommend this restaurant to anyone who enjoys a delicious Italian food dining experience. We plan on visiting this place in the future for sure."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKaVFuUFBFcDlmX2tRRRAB",
+            "text": "This is a tiny place so make sure you have a reservation. Also make sure to arrive on or before 9 pm because the kitchen closes early. Nice atmosphere/decor. The service is fast and our server was super nice and attentive. The food was good in general but the portions on the smaller side. We will come back to try other dishes."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKZXBtZV9iODRxczdnRRAB",
+            "text": "Àmazing ravioli, friendly service and delicious coctails."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPUHB1dVBKNGFmbUhREAE",
+            "text": "Relaxed and cosy restaurant that has delicious house made pasta and other specials. Meatballs were delicious, as were the pasta special for the day and the pesto... a tasty cannoli topped off the meal perfectly."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VOdW1odHF2ajVIX1l3EAE",
+            "text": "My friend and I walked into this restaurant and were met with side eyes from the server whom we approached very nicely. I got a bad feeling as soon as we walked in as we are not white and were dressed more casual. I am not a tourist, was born and raised in new york. The server lets us know they were completely booked and we have an option to sit at the bar.. to eat our pasta. This was said on a slow Tuesday afternoon either about 5-6 empty tables. Ofcourse we walked out of this establishment feeling horrible. Just a warning to not visit this place if you don’t want to feel bad about yourself. We just wanted good pasta and instead went to a Thai restaurant across the street where we were welcomed and respected."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLaTJ5WmZwbkphR19nRRAB",
+            "text": "Authentic Italian. Pasta and appetizers were beautiful, Castro was out bartender and very knowledgeable! Appreciated that the menu was simple- they focus on dishes that they make exquisitely. Highly recommend."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJRzg5ZTZpci1iSWNnEAE",
+            "text": "Everything from start to finish was amazing. I had the shrimp fettuccine, my wife had the Caesar with chicken, and we split the burrata. The burrata was the best we've ever had and the pasta was the definition of authentic. We will definitely be back!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOekxqUG5VcXIyUGFREAE",
+            "text": "Great food and servers.\nQuiet and small restaurant in the upper east."
+        },
+        {
+            "date": "6달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZcHNLTzFBRRAB",
+            "text": "직원들이 친절하고, 맛있어요. 식사 내내 백인들만 있었고 동양인은 우리팀만… 로컬들이 오는 식당 같더라고요! 강추입니다. 한국인 입맛에 조개는 많이 짰지만 그래도 맛있었어요."
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1MmZuM0t3EAE",
+            "text": "음식은 맛있고 Kimi 는 정말 친절합니다. 덕분에 좋은 분위기에 좋은 식사 하고 갑니다^^."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREX05yRFlnEAE",
+            "text": "시저 샐러드 맛있음. 푸실리 파스타, 조개파스타도 괜찮음. 예약없이도 바로 입장했음. 분위기 괜찮음."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLLUJfOXo3M3N2MS1RRRAB",
+            "text": "Had a wonderful experience here. Every dish is artfully crafted and absolutely delicious. The staff are very attentive and professional, we had a great experience being served by Kastriot. The atmosphere provides a warm and luxurious escape from the busy Lexington Avenue. I will definitely be returning here!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuLVl2LUFnEAE",
+            "text": "The space is small but cozy and very clean. The star of the menu is mainly pasta. I really like the green color and basil flavor of the Fusilli Pesto, and the Shrimp Linguine has a delicious sauce mixed with the shrimp! The tiramisu is a bit sweet, but the creamy flavor is rich and tasty. It would be even better with slightly less sweetness!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOdkR0OGI5d29xZmZREAE",
+            "text": "This is a hidden gem. The best tiramisu over eaten. Incredible authentic pasta presented beautifully. Excellent service and quantity bright atmosphere. The prices are reasonable and excellent value."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBamZiT0lnEAE",
+            "text": "The house made pasta is delicious and well seasoned. I got the Caesar salad, fettuccine rigatoni, and mushroom side. Everything was well prepared and fresh. Loved how the mushrooms were prepared that brought out their flavors.\nIt’s a tiny space with a hand full of tables. I liked the intimacy, but it does get crowded quickly.\nService was also quick a friendly. Kenny was attentive and made sure I was well looked after."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyNmNuM19nRRAB",
+            "text": "Grabbed a simple lunch after going to the MET because this place was nearby. The service here is spectacular with attentive hosts that make great recommendations.\n\nThe swordfish steak which was an off-menu special was the highlight of the meal, it actually saved the lunch considering the pesto fusilli tasted off (like tissue paper) and the shrimp linguine was so and so. The squash blossoms were okay, not as good as other spots I’ve had them in.\n\nGood place to have a simple lunch if you’re around the area, but not an Italian highlight."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5OEtfVmN3EAE",
+            "text": "Best Caesar Salad l have ever had! A friend and I stopped in for a late lunch in early January 2024. I added shrimp to my salad, and my friend had the rich, delicious, comfort pasta, Rigatoni Sausage Ragu. Outstanding service too. Will seek out L’Osteria on my next trip to NY."
+        },
+        {
+            "date": "2년 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNadmRiSS1BRRAB",
+            "text": "Siamo stati in questo locale in coppia nel mese di agosto. Ci siamo trovati molto bene grazie al servizio preciso di Luciano. La qualità del cibo è molto buona ed anche i prezzi buoni vista la posizione a pochi passi dal Met. Il locale è piccolo e ben curato, forse l’unico appunto è che se si ha una tavolata molto rumorosa vicino può dare  fastidio. Questo a noi non è capitato ed è tutto andato nel migliore dei modi.Torneremo presto"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNieXJIamNREAE",
+            "text": "This small Italian restaurant is a cute spot to stop in before museum hopping on the upper east side. The staff is attentive and not pretentious. The pesto pasta and Ceasar salad were great 🥗"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtczRMYVRnEAE",
+            "text": "Stopped in for a late lunch and everything was wonderful. The staff was welcoming and the food will now keep me coming back. The beet salad was delicious and the ricotta filled ravioli with mushrooms, sage butter sauce, and fresh black pepper was absolute perfection! So comforting on a cold winter day. Highly recommend!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIMkl5dlp3EAE",
+            "text": "Grabbed a simple lunch after going to the MET because this place was nearby. The service here is spectacular with attentive hosts that make great recommendations. The swordfish steak which was an off-menu special was the highlight of the meal, it actually saved the lunch considering the pesto fusilli tasted off (like tissue paper) and the shrimp linguine was so and so. The squash blossoms were okay, not as good as other spots I’ve had them in."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoLXFLTXdBRRAB",
+            "text": "The staff was wonderful but food across the board was okay. We liked the burrata, then ordered pesto & the pollo. The chicken was really pink when it came out, but we were assured it was cooked through. The potatoes were nothing special, the chicken was super moist but otherwise average. The pesto tasted fresh, but basic and with no ability to add a protein not the most ideal dinner.\nNot the most gluten friendly place, but there are a handful of entrees (no pasta) and the staff is knowledgeable on ingredients!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMMTc3bndBRRAB",
+            "text": "Chicken parm! One of the best in the neighborhood! Not on the menu but I asked nicely and they made it happen. 36$. The texture and flavor were great. Loved the aged Parmesan that was melted on top. The garnish was cute but didn’t add a lot of flavor.\n\nCame with a nice side salad as well. The wait staff were very nice and attentive. The bread and oil before the entree came out were not amazing but not terrible."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMZ0pHRllREAE",
+            "text": "We had a lovely lunch here. The food was delicious! We had the cacio e pepe with asparagus as a side and the arugula salad with shrimp followed by the connolo and panna cotta. Nice atmosphere and attentive service."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSLUlTOFFREAE",
+            "text": "Lovely food, this quaint Italian restaurant is located just South to 86th street.\nStarter- fried calamari with mixed veggies, breading was lightly coated, the addition of broccoli flowerets and butternut squash adds to the complexity of the dish. The aioli is lightly seasoned and doesn't overpower the natural flavor of the calamari.\n\nMain- Sausage Rigatoni Ragu: The ingredients are absolutely fresh. The meat for the sausage is lean, juicy and freshly grounded. Mushrooms give the perfect kick umami. Needless to say, the pasta was cooked 100% Al Dente.\n\nFriendly service from Orlando.\n\nLocal frequents get priority indoor seating though."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3aGRiU3lRRRAB",
+            "text": "An intimate dining experience with charming staff. The food is well explained and the prices are very fair. We were well impressed and will be back. Sarah order the pasta asparagus special and I ordered the ravioli. The cannolo was a delight. The olive oil and bread quite tasty. The wine is good. I recommend reservations because the place is small."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURiZzVHSWNREAE",
+            "text": "The food was a delicious experience! They have very nice italian noodles! I also loved the desserts! The waiter was very friendly and everything felt authentic italian. The restaurant is small and cozy."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaOU03OFFBEAE",
+            "text": "I ate in their off the sidewalk dining area, complete with above head heaters (see photo). I ordered the Salmon ($32), to be cooked medium rare, with spinach (the other option was carrots). The salmon, which came with a mild tasting mustard sauce, was perfectly cooked and moist. I enjoyed its taste. The service was efficient and attentive."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUNk5Ya0tREAE",
+            "text": "wowww the pasta was delicious!!! Really great food and drinks, and I loved the atmosphere of the place. Definitely going again!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJcjc2NXJnRRAB",
+            "text": "I've never been a fan of Italian food, and my husband convinced me to try one more time here at L'Osteria.  It was amazing.  Genuinely, the pasta was spectacular, the sauce was savory and flavorful, the olive oil and bread starter was delicious, the Caesar salad was the most unique I've had, and we were fortunate to have the seat right by the front window on a rainy day.  Our server was knowledgeable and attentive and really made the experience feel comfortable and pleasant.  We'll eat here again on our next visit."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvNlBlcTZ3RRAB",
+            "text": "I'm so glad we found L'Osteria! It has that wonderful, small-place charm that feels authentic and welcoming. While many Italian places nearby can be really expensive, L'Osteria delivers amazing quality at a fantastic value. The food was spot-on – perfectly cooked and full of flavor. The service was equally impressive; the team is super friendly and efficient. It's no surprise they have such high ratings on Google – they've earned them. Highly recommended for a great meal and experience!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJc2UtUVBnEAE",
+            "text": "Such a cute little place. We randomly stopped here on our way to the subway and it did not disappoint. I got the Sour Raspberry drink, my husband got the Negroni. We both shared the artichoke appetizer. I ate the Cacio e Pepe and my husband had the Ravioli. Would definitely eat here again, cute ambiance, great drinks, and delicious food!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQbmZYNHpRRRAB",
+            "text": "My friend looked up places to grab a bite before we headed to the Met and this place came up and I’m so glad we found it.\n\nFrom the friendly and welcoming staff, to the amazing food and beautiful ambiance to the delicious food, this place hit it out the park.\n\nWe started with the burrata (which came with an amazing tapenade) and broccolini. Then I got the meatball sandwich for my main (you could tell the sauce was specially made) and we also shared the pesto and cacio e pepe pasta. All were delicious."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQX1U5WnVaazVQNVF3EAE",
+            "text": "Had an early dinner on the 8th with my wife. We ordered the veal with sautéed spinach on the side, the pasta du jour (aranchini) and a panna cota as a desert.\n\nFood was amazing. I especially liked a slightly sour touch on all the homemade sauces - was never to an extreme but really well blended into the richness of other tastes the kitchen tried to convey.\n\nService was also great. We were 2 hours early (our fault) but the reception & the servers made it so we wouldn't be inconvenienced or treated any differently from the patrons that were enjoying the meal on time. The menu items were explained to us in a very professional manner. The place seemed to be a little short-staffed, but everything was handled efficiently & without any loss of courtesy, I thought.\n\nReally liked the atmosphere, either. It is a rather small-sized establishment catering mostly to the local population in the UES of NYC (I think). Was quite enough & I liked the fact that we had a lot of sun in during the day."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLS3l6cmVHaFBhcC1RRRAB",
+            "text": "Upscale Italian restaurant with tasty food,  good atmosphere and great service.   Our Italian waiter was great!   Wish the food portions were a bit larger but overall great experience.   Close to the MET"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKMXNLbjRnRRAB",
+            "text": "We meant to go to the Guggenheim, then tried the Met -but the summer guests to our city laid claim to the exhibits before we would be able to view them on Saturday. We had already eaten dinner, but we wanted a couple of drinks (read: rounds) to stay out. We came upon L’Osteria walking up Lexington and it was just the prescription for our disappointment. Andrew (“Wolf”) was a superb host to our two or three rounds, during which each member of the service staff made a point to greet us and make us feel welcome while we were sitting at the small bar. We didn’t end up pulling the trigger on Second Dinner with the Burrata or Meatballs, but we will be back- judging by the overly content smiles on the UES ladies faces dining behind us.\nWhat a great find. The lost art of hospitality, on a Saturday night nonetheless. Can’t wait to go back."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfanZDWWhnRRAB",
+            "text": "A cozy and authentic Italian restaurant that’s worth returning to when I’m in the area. The only drawback is that the tables are quite close together, making it easy to overhear conversations from neighboring tables."
+        }
+    ],
+    "reviews_count": 79
+}

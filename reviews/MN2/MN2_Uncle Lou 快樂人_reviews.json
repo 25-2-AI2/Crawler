@@ -1,0 +1,635 @@
+{
+    "name": "Uncle Lou 快樂人",
+    "place_id": "ChIJSRT5b9ZbwokRYilWRG4jYaY",
+    "grid": "MN2",
+    "address": "73 Mulberry St, New York, NY 10013, USA",
+    "rating": 4.5,
+    "user_ratings_total": 2308,
+    "phone_number": "(212) 966-5538",
+    "reviews": [
+        {
+            "date": "6시간 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KMmEybGhhREJJWjJ0YVFWRnJOMGxwWjIxWGIzYxAB",
+            "text": "Place was nice, server was nice and timely, seem like good people. I only give a bad review because about 4 hours after eating one of there chicken dishes (I cannot remember what it’s called but it’s right under general tso chicken)  I got extremely sick, puking, diarrhea, fever, chills, etc  for nearly 2 days straight not able to keep anything down. At the ER they informed me I had mushroom poisoning, which I can only attribute to the wood ear mushrooms they had in the dish, they were delicious, but I could tell they were undercooked. After researching these mushrooms can be very toxic if not prepared very particularly. Good service, decent food, just a mistake from the kitchen and I hope they take note and try to correct themselves for the future."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twTGIwNVNkVEJHTFdwV1ZVbEdOR2hKYVZseE5tYxAB",
+            "text": "Awesome food."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xreVYzZEVZalpTVGpCM2NHSkRaRFIwTjFSWlZYYxAB",
+            "text": "Great food, great atmosphere!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CVE0xRklhelJJVm0xSVJXVXhObVp4Y1UxNE1sRRAB",
+            "text": "All good, food is authentic and delicious, Dim Sim is very reasonably priced. We are only here early dinner time for a bite, lots of people but service is fast."
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxbU5teE5MWEF0TVMxRVFtMWxTemh1T0VGYVgxRRAB",
+            "text": "Nice place to eat"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tRek5rbGZXR3N3VEdGTFIySmZRbGhZWjNSNmJrRRAB",
+            "text": "Delicious! If you have actually rated real Cantonese food, and like it, you should find this worthwhile. Bring cash!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tadVpFYzRlWGxSZHpoUlN5MU1jSGxZVFdGMFFWRRAB",
+            "text": "Fantastic restaurant..\nWell worth a visit.."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201cGQwSTBjRzFSUjJkU01tTnFaRnBWWWs0eWIxRRAB",
+            "text": "Great spot. The food is served family style."
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlNFp2UVJnEAE",
+            "text": "How is everything here so good 🤤? There's not a single thing here that was mid, just pure deliciousness. You could blind pick a bunch of stuff off the menu and I can guarantee that you'll love it. The servers here were on point and were very accommodating. Also the food comes out extremely fast. 10/10 will for sure come back again"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FMk4wODNla05qWldzd01XeHZjako0U0cxSE9GRRAB",
+            "text": "Your appreciation for good food will be reinforced here. The team members show exceptional pleasantness. The amounts are generous, and I took extra food home! The setting offers relaxation, spotlessness, and notably friendly attention. You ought to experience this place firsthand."
+        },
+        {
+            "date": "1주 전",
+            "language": "iw",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWd1dWTjZXSFppZGxKbmVWaERaMnBQTm14SlEwRRAB",
+            "text": "מומלץ ביותר. אוכל סיני מעולה ושירות מדהים!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvek1EaFlVMGg2Um1aRlNGbzRNM2QzZERSV00zYxAB",
+            "text": "Superb food… if you’re in Chinatown, don’t miss it."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oME9HVkRSalJ5TVVZd1pTMDFUVVpWTkZCSlNYYxAB",
+            "text": "Best Shumai in NY"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wamJWWlVaRjk2TmpWRWVFSnFPR2gwVG5SQlJGRRAB",
+            "text": "Worth the wait. It’s exactly what you need it to be. A huge menu with so many options. Everything looks delicious and is."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSb2NXZHlWMUJqVEVkVlNISk1Ta0V4TlRWSlRVRRAB",
+            "text": "I had the sweet and sour fish filet for lunch. It was absolutely perfect, and the ideal balancing act between real Cantonese and Chinese-American that they have said they are. Not too gloopy, actually sour (and yes, sweet), no excess breading, and crisp enough to stand up to the sauce. Would get again 👍"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FM2QzSm5ZalEwTURodGRFVldTM001Wm1oM2NtYxAB",
+            "text": "Just a beautiful delicious dinner that made all thirteen of us very happy"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paWGRFNUVNbGhWZDNjM2RUaEVZMG95U1dGQ1gxRRAB",
+            "text": "Stopped by for a bite and was delighted when the ambience. We got there just in time before a Sunday lunch crowd appeared. When in Chinatown, stop by Uncle Lou."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5WGRtdEVTekZrVFZsS2F6WlphMEpuT1Zwb1dIYxAB",
+            "text": "get there early or be prepared to wait up to 2 hours.  we got there at 7 but were not seated until 915.  the food was well prepared and very tasty.  if you have a larger party, you can make reservations.  The chen Pei duck was very tasty and the ha gow was some of the best we have had from anywhere."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1TU9EQm9TekZXUzNOQ1ltWnlkV2RITXpCaGExRRAB",
+            "text": "Big portions, amazing food!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200M2IzcEZVbFZZV1RKWlNXaHpNa2hPYVhaUGMxRRAB",
+            "text": "Great noodle dishes. Huge portions. Would absolutely go back"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsTmJtZGhORlZ1ZEV0SFFVTjJiRUYzWDBveWNXYxAB",
+            "text": "¡Excelente restaurante! Tienen un pan al vapor buenísimo!\nMuy limpio, ruido moderado, definitivamente para regresar."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taQ05uQklZbEI1Um01bWRrSktkazFRTkhkcU5HYxAB",
+            "text": "Typical American Chinese restaurant in China town. If you want to try authentic Chinese dishes, don’t go there. There are lots of options in New York."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xocVJqZEtVRGRwZUUxdFRqSlJRWFZ5UTJKT09GRRAB",
+            "text": "Excelent stop in China Town. Simple decoración and attentive service.\nFood delicious and very clean.\nGood choise."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OSWFXeHJWa3c1UTJ4TVRqVjRiVEJTYkVkaFNGRRAB",
+            "text": "The best Chinese food that I've ever had. I've been to this restaurant dozens of times and the food and service are always great. Its a very popular place because there are never any empty tables."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214d09Gb3RiR1Y2YTBZMFRHdDJNRlpHUzJaQlJHYxAB",
+            "text": "Good food and the atmosphere is very celebratory and lively. Perfect for a friends or family dinner. We waited awhile on a Saturday night but they have an area to sit while you wait."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxNGVXSjZkMHhpV0VkUlkwcEhNakJKTlVsdVUwRRAB",
+            "text": "Incredible spot on Mulberry Street - busy on a Saturday night with families, friends, and busy chatter.\n\nThe food was well staged throughout the meal and was always hot and fresh.\nService was above the standard, the wait staff and servers were swift and attentive.\n\nWe’re coming back soon!!"
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sb1lsaHJUVzFtU2xac2NtMUNPWE5VZFVwVE1FRRAB",
+            "text": "He comido mejor en el barrio chino de Londres"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsRWIxRlJZM3BuTlhsSFRrOU5NVUpPVmpSWlowRRAB",
+            "text": "We just had a small dinner party here. The service was fantastic. The staff seemed to be fast and always available. We were a party of 8 guests and each of us felt well looked after by their staff.\n\nI ordered for the table. I decided to get a little bit of everything. Tried picking out what I thought were the best items on the menu. So here is the list:\nPan fried shrimp dumplings\nHoney Shrimp and walnuts\nBraised Egg Tofu\nStuffed Eggplant\nGinger fried rice and vegetables fried rice\nCrispy Garlic chicken\nBraised chenpi duck\nPeking Duck\nBeef chow fun\nMy friends all enjoyed everything. We actually ordered just enough where there was only a little of everything for take home. I always love ginger fried rice. The crispy garlic chicken and both duck dishes were exceptional. The honey Shrimp with walnut is a must whenever you go to an Asian spot like this. I enjoyed the tofu dish.\n\nThe only thing I really care about is that we all had a great experience here. We all enjoyed each other's company and the wonderful food."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KT2EyYzBlamsyV21kMWNtOUpPVGhLV0dkcFRFRRAB",
+            "text": "Foods fantastic!  Loved it !"
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNOLXFuWHRBRRAB",
+            "text": "We came for the Peking duck. Uncle Lou's did not disappoint."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1SFZHbElkMmh4TjNWMWFYWTBaek14UWpSNFJWRRAB",
+            "text": "We were disappointed. Came here due a lot of good reviews but too loud service people, yelling to each other like there we’re no customers. Food was very good jist soup ve ordered was extremely small portion for what they asked for. Next time we go somewhere else."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSb1ZVdFlSV2hPU0dGdk5reHVkR3hYVUhWSldrRRAB",
+            "text": "Uncle Lou is such a gem! The food is delicious, authentic, and full of flavor — you can tell everything’s made with care. The portions are generous, the service is quick, and the staff are super welcoming. The place has a fun, lively vibe that makes you feel right at home. Perfect spot for a casual meal with friends or family — I’ll definitely be back! 🥢🍚✨"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jMlRTMUdVbVYzYkhGWE1ERnJURkpvUms5M2RGRRAB",
+            "text": "Great food but if you're looking for traditional dim sum, this isn't the spot. Everything was tasty and delicious though."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFM1dVcEhXVkJ5UlhSTlIxbExNRlJLVVdwU2JXYxAB",
+            "text": "Phenomenal food. Great environment. Hands down the best honey walnut prawns I’ve had and I worked at a dim sum restaurant in LA for 3+ years"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pocFowOHdhMk5hU3pGMVVERkxVMFZSTUhwRlozYxAB",
+            "text": "The food and the portion size was incredible! We went for lunch and they started us off immediately with a pot of hot green tea. I ordered some fresh veggie spring rolls, which were so hot and tasteful! My wife got the sweet and sour chicken with white rice, while I got the sweet and sour fried pork belly with white rice. The pork belly was crispy and plump; each bite was a mouthful and so delicious! The chicken was so juicy and sweet! The rice was the perfect amount, and cooked to perfection. I also got a Tsingtau imported lager, which tied off the meal. The portions were so big; usually it’s not issue for us to finish off our food, but at the end, we just couldn’t go on. Super friendly staff, who got our table ready lightning quick and made sure we were satisfied with everything they brought out!"
+        },
+        {
+            "date": "수정일: 4주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWaFozUjBORmt0WVhWcU1YZGhiRGsxWVhocFYxRRAB",
+            "text": "I’ve been here 3 times and the first 2 times was great. Coming here I knew there was a wait, so that was not an issue since the previous hostesses were direct and seem to be trying their best to accomodate everyone. This review is for the bad attitude of the hostess we had tonight. She put our name down and told us 20mins for a table of 3. When it was 30mins + we came to ask nicely about the table, she got irritated and told my partner to “wait over there”(like we are bothering her). We came at 6pm and did not get seated until 7:10pm. We could have made a more informed decision if she told us directly like the previous hostesses and not say 20mins when it was more like 70mins.\n\nThe food is good, 4/5 stars for cantonese cusine. The servers are great too, always nice and efficient.\n\nUnfortunately I don’t think we will be back because of what we experienced at the beginning with the host. (Not all hosts, just the one from yesterday)."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWSVNVeEJSRTl2TWpWb01IQlZNR2xmZW0xdlRtYxAB",
+            "text": "This spot never disappoints when I bring guests. All I can say is YUMMMM! I was pleased with this restaurant. I valued how the workers demonstrated both courtesy and vigilance. Hope you discover something delicious."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twZlNYcEpOalpWYUdGMGJqZ3RXVU4wU1hrNExXYxAB",
+            "text": "Best food in NYC! Sizzling short rib is the go to meal"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25waVZtWnlZVVF3TlVwUVVEUkVaVzF4VVRsQk1GRRAB",
+            "text": "Uncle Lou has is one best Contonese cuisine in NYC.  The dishes have deep and conplex flavors, many pair very well with white rice.  Both Tourists and locals come here, which makes it very busy.  My wife and I opt to eat at the bar.  We had their garlic chicken, which is always very juicy and loaded with fry garlic.  We alway look for their fresh seafood options for the day.  This day was clams in black bean, they gave so much clams.  Really is a must visit"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twT1kweDFabkpVZUdGRVFtTjBTVFZFWVdwckxYYxAB",
+            "text": "When you enter a Chinese restaurant and most costumers speak Cantonese you know you are in the right spot.\nSuper, super, super 🏆"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214MWFGYzBNMmRsWDFZelUzaGZhRk5UWW1GeVUyYxAB",
+            "text": "Uncle Lou’s is an absolute gem! If you’re craving authentic Cantonese cuisine, this is the place to go. The menu is packed with traditional dishes that are hard to find done this well anywhere else.\n\nThe garlic crispy chicken was tender and flavorful, the pork belly dish had that perfect melt-in-your-mouth layers, and the fried rice brought back all the comforting flavors of classic Cantonese home cooking. Don’t miss the salt & pepper seafood—it’s seasoned to perfection and fried just right. Every dish tastes fresh, balanced, and true to tradition.\n\nOn top of the incredible food, the service is warm and welcoming. The staff make you feel like family, and they’re happy to explain the dishes if you’re not familiar. The atmosphere is lively yet cozy, making it a perfect spot for both family dinners and casual nights out with friends."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSeVJtZHhXa3RXWlVnNGNFVTBWMEZQTkdFNVoxRRAB",
+            "text": "Made a reservation for 8pm. It’s 8:25 and they’re saying maybe ready in 20 minutes. Ridiculous"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Kbk1pMWZXVUprU25scVExbDBVVTU0V0hGTE9YYxAB",
+            "text": "We had our mini wedding reception there they and they went above and beyond. Delicious food and exceptional service! They accommodated my large party, which included several picky eaters. They even let us bring our own cake and provided cake knives and paper plates. We all left happy and fed. The special food call-outs were the ginger fried rice, orange beef, crispy tofu, and their chicken and broccoli. Could not recommend highly enough."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psU2FUZEVNVk5OVm00ek9HOTFYMmxIT0ZsQ09GRRAB",
+            "text": "A busy restaurant. Go in, wait get your table, order, and leave - all can be done within 30mins to an hour. Which is pretty fast in my opinion. The food here was good, came out super quick and hot and there is a lot of people in the restaurant. Honestly, the food does speak for itself with very good flavors and freshness (the chicken at least). Beside it being incredibly loud - I would come again."
+        },
+        {
+            "date": "1달 전",
+            "language": "it",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taSmNIUjJXR2s1ZW5NNVZXcHZObVJPVEVjM1FWRRAB",
+            "text": "Abbiamo atteso circa 20 minuti senza prenotazione, tra settimana. Zuppa d'uovo ottima, pollo croccante invece niente di che. Ravioli molto buoni. Personale carino e disponibile. Servizio veloce. Buono ma nel complesso se abitassi a New York non so se ci tornerei."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WMGFIWk5VMHBLVkROa1VUVnlXbmt0TjNVNE9YYxAB",
+            "text": "Delicious dumplings, shumai & stuffed eggplant.\nFast service ."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZeGFWTmtlWFZoZHpreFV6YzFObTg1Tm1jeldtYxAB",
+            "text": "One of my favorite restaurants in Chinatown. It’s like your favorite Chinese takeout but done really really really well. The Peking pork chops and dry fried string beans with minced pork are my go-to!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xZMGEweEVhMU5pYUVwWFpVa3pibFJMWVRKMllrRRAB",
+            "text": "This is an institution. Big fan."
+        },
+        {
+            "date": "1달 전",
+            "language": "zh-Hant",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBNU1EWTJTalpJT1ZOMFVWZDRUR3AyUmpGdlYyYxAB",
+            "text": "我年紀80歲了，我是一個吃貨，那天我請朋友吃飯，我選了快樂人餐廳，我們很高興到了那家，原來是快樂的人變成了很不快樂的人，哪家餐廳我也可以去吃，但是在紐約沒有看過這一家的服務態度這麼惡劣，我不知道他的老闆是哪裡人，很悲哀請到一個經理還有一個外面穿白衣服的女人態度特別差，帶有一種啟示的感覺，我是來消費，不是來受氣的？？？？"
+        },
+        {
+            "date": "2달 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201R2FFZEZhMHBtYzJaRFVrSkRORWx6T0VscVRGRRAB",
+            "text": "사람이 많았습니다. 20분정도 대기를 했던 것 같아요. 계란국은 괜찮았고 회과육은 별로였습니다. 창펀도 너무 두꺼워서 별로였어요."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUeFBTTjV3RRAB",
+            "text": "음식은 맛있습니다. 서비스와 분위기는 평범한 수준입니다. 차이나타운에서는 좋은 편 같기도 합니다."
+        },
+        {
+            "date": "2달 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5cGFVeGlSVjlRZGxsdU1GVnhPRll5VWxoT1pYYxAB",
+            "text": "딤섬별로 고기 종류나 새우는 갠차는듯"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsdGZ2VWd3RRAB",
+            "text": "Jing Fong 가지 말고 여기로 오세요. 비교 불가"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPNk9fWExnEAE",
+            "text": "물막국수 강추 입니다...드시면 춥습니다."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoQlNHaENiSFU0TUY5bFFtRnhZVTAyZURSMlpIYxAB",
+            "text": "The food, the vibe, the way the dishes were presented, the quality, the service—literally everything was on point. Honestly, I think this is one of the best spots in Chinatown. We had the half Peking duck, which was not only delicious but also plated beautifully, and the seafood crispy pan-fried noodles, which were bursting with flavor. Everything tasted fresh and cooked perfectly.\n\nThe only small thing was that we got tea at the beginning that’s really good , but at the end we were only served water after I asked for it. Not sure if that’s how it usually works here, but in most places they usually check or ask. Still, that’s just a tiny thing compared to how great the overall experience was. If I’m ever back in town, this place is definitely on my list again."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paRk1tVnBWbTFzVVZoaGVGTlhjbkZIV1ZGUmVYYxAB",
+            "text": "We came here on a Wednesday evening to try their Cantonese food. There was a line, but we were seated very quickly. The restaurant is small and nicely decorated with vibrant colors. The restaurant is pretty loud so I gave 3 stars for atmosphere.\n\nThe service is fast and efficient. We ordered 1 appetizer and 4 mains for 3 people. Could not finish, so took home leftovers. There are many waiters so service was good if you need something. All the dishes we ordered were flavorful and a decent portion size. The only complaint is that they use cucumber as part of the vegetables mix rather than zucchini. Cooked cucumber is gross! Would return again and request no cucumber. Lol."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSd2NsazNUbGt4TWtOdlMxbEJTVGM1Y2tSbVpuYxAB",
+            "text": "Excellent food.  Atmosphere is a bit hectic and crowded, you’re very close to your neighbors no matter where you sit except the back booths.  Super friendly staff, very quick service. Nice discount for paying in cash. Haven’t found better rice rolls in the city anywhere.  Also sea spinach, which was great, not bitter, seasoned well.  Don’t let the locals tell you this place isn’t good, which they do.  Great spot."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBMU5UUkNWbXhDVm5WQ2JEaFRRMm95Y25aRFEzYxAB",
+            "text": "Really enjoyed the food at this place!! We ordered Chicken noodles, chicken dumplings and shrimp and veg rolls and everything was tasty and decent quantity. Definitely worth checking it out if you don’t find any other options. It can get crowded and busy so I do recommend reservations. My overall experience 8/10."
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOeFZYRkNjRXc0VUhOcVV6TktZMUZxUzJOUGFXYxAB",
+            "text": "Uncle Lou accoglie gli ospiti con un ambiente vivace e informale, dove lanterne e luci soffuse creano un clima conviviale, ideale per una cena tra amici o in famiglia. Il locale è ampio e spesso molto frequentato, trasmettendo l’autenticità e la vitalità tipiche di Chinatown.\nIl menù è ricco e variegato, con oltre 100 proposte di piatti tradizionali cantonese che richiamano i sapori e le ricette della regione del Guangdong. Tra le specialità da non perdere ci sono l’anatra con scorza di mandarino, i noodles in stile Hong Kong, involtini croccanti e piatti a base di tofu e verdure.\nEra la mia prima volta in un ristorante cantonese e ho avuto il piacere di essere accompagnato da un’amica madrelingua, che ha ordinato per noi. Questo ha reso la serata ancora più autentica e speciale, perché ho potuto assaporare piatti scelti con cura e vivere un’esperienza realmente immersiva nella cultura culinaria cantonese.\nDalla cena ho anche imparato una cosa molto interessante: nella tradizione cantonese, quando si usa la teiera, non bisogna mai togliere il coperchio a meno che non si desideri un refill. Togliere il coperchio infatti è il segnale per il personale di servire altro tè, un gesto ricco di significato e attenzione.\nIl personale è cortese e attento, con un servizio rapido e accogliente che fa sentire i clienti a proprio agio."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xTlMxOUZUbkZTWWxSd1VGY3hkM2RVUWxsMWFIYxAB",
+            "text": "Short and sweet, everything was amazing. Food service and friendliness. Know there is a 9% discount for cash. The beef with Orka was so tender. The chicken wings were cr8spy on the outside and super moist on the inside. We also had dumplings but ate them faster then the camera. High recommend."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25jNWFGZGtja1JCY0dwbFYyeEhWbXRrVm1zNVVGRRAB",
+            "text": "Uncle Lou 快樂人 really feels like sitting down to a Cantonese banquet dishes keep landing on the table, each one with history behind it and flavors that make you pause to appreciate them.\n\nThe Honey Walnut Shrimp was rich and satisfying. The shrimp themselves were plump, with a light crunch that held up under the creamy mayo glaze. The sauce was sweet, but not in a one-note way it had that silky, slightly tangy edge that makes it addictive. The candied walnuts added caramelized crunch, and the broccoli ring gave just enough freshness to cut through. This dish became iconic in Hong Kong banquet halls in the ’80s for a reason it balances indulgence and playfulness.\n\nThe Peking Duck 北京鸭 was another star. The skin had that delicate crackle, almost shattering as you bit in, while the meat underneath stayed moist and savory. Wrapped in a bao with hoisin and scallions, it hit every note smoky from the roast, sweet from the sauce, sharp from the scallions, and soft from the bun. It reminded me why this dish has been an imperial centerpiece since the Yuan dynasty it’s luxurious but deeply comforting.\n\nThe Peking Pork Chops had the glossy, sweet-tangy glaze that makes this dish so nostalgic. Despite the Kyoto name, it’s really a Hong Kong spin on Shanghainese flavors. The sauce was bright and sticky in the best way, clinging to every piece. Taste-wise, it had that balance of sour and sweet that makes you want another bite. The only flaw the pork was fried a touch too long, so the edges were crunchier than needed and the inside leaned dry. The flavor carried, but a lighter fry would’ve made it perfect.\n\nThe Garlic Fried Chicken was a standout. The skin was golden and crisp, and every bite was perfumed with fried garlic. You get this wave of savoriness first the crunch, the garlic aroma before the juicy chicken inside settles it. It’s the kind of dish that looks simple, but when done right, it’s addictive, and here it was hard not to keep reaching for another piece.\n\nThe Steamed Chicken with Chinese Sausage and Mushrooms brought a comforting contrast to the table. The sausage gave off that signature smoky-sweetness, the shiitakes added a deep umami, and the chicken soaked up both. The steaming kept everything moist, so the flavors melted into one another rather than competing. It was homestyle at heart, and it tasted like the kind of dish you’d find on a family table in Guangdong.\n\nThe Stir-Fried Chinese Broccoli was refreshingly crisp. The stems had a satisfying snap, and the slight bitterness of the greens paired perfectly with the glossy, savory-sweet oyster sauce a Cantonese invention from the late 19th century. It balanced out the heavier dishes, and honestly, it was one of the plates I kept coming back to between bites of richer meats.\n\nThe Beef Chow Fun 干炒牛河  had that prized wok hei that smoky, charred aroma that clings to wide rice noodles when they’re stir-fried over intense heat. The noodles were soft but with a chew, the beef tender, and the bean sprouts kept it bright and fresh. Taste-wise, it was savory, slightly smoky, with that slippery texture that makes chow fun so comforting.\n\nFinally, the Crispy Pig Intestine surprised me. The exterior was shatter-crisp, while the inside was chewy and rich. Someone at the table found it a bit gamey, but I didn’t. To me, the flavor was clean, with just enough depth to remind you it’s offal, but not overwhelming. With the dipping sauce, it became something bold but balanced a real showcase of Cantonese cooking’s respect for texture and the whole animal.\n\nAltogether, Uncle Lou captured what I love about Chinatown dining. The banquet dishes like the duck and honey walnut shrimp were indulgent and polished, while the homestyle plates like the steamed chicken and Chinese sausage carried warmth and comfort. Some dishes, like the pork chops, could have been refined further, but the overall spread felt abundant, flavorful, and deeply tied to Cantonese tradition."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxbVJtdE5iRlF3Vlc5WGNFYzJRMWRMZG5KdmVHYxAB",
+            "text": "Despite the many positive reviews, my experience was quite disappointing. The food overall taste is average. The green beans were undercooked and overly salty, and the steamed fish did not taste fresh. We also found the curry chicken lacked the expected creaminess from dairy or coconut milk. The crispy orange beef had an excessive amount of breading, and the peppered steak was notably oily. Service is good. Food served very fast."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xJd2JrTmlRMlZUZFdaMU4xUkdSbkJ2WVd4dGVIYxAB",
+            "text": "Chinese restaurant in the heart of Chinatown. Quite touristy but decent quality food. The Peking duck, dumplings and crispy garlic chicken is worth a mention. The dumplings or dim sum are made with real meat. Service ok but could be more hospitable."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kdWMwdGZOa3g1ZERkWVNucEZSRWRvV1VKeVNrRRAB",
+            "text": "Chinatown gem!\n\nPlace was highly recommended and it easily exceeded expectations. We arrived on a Saturday evening and were seated right away (larger parties had to wait). Ambience was clean, nice and had a traditional feel.\nOrdered the veg fried rice and braided egg tofu with vegetables. Food was served quickly and the portions were family style.\n\nThe braised egg tofu 10/10 - crisp veggies and soft boiled egg tofu in fried egg white skins. Can't recommend enough!\n\nVeg fried rice 8/10 - freshly made with no oily aftertaste, veggies were crunchy and the rice was right level of sticky.\n\nGreat for families or date night ✔️"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twSVFtZDNNWFl4V0haMmMzZGliRm8zVlhGUVVuYxAB",
+            "text": "This was the best chinese family style restaurant I've visited in NYC, in the heart of China town. I really enjoyed this establishment and plan on coming back. Me and my friends had the sesame seed chicken which was extremely good. Had ginger fried rice for the first time and you've never had some, here's your chance ! Overall 5/5 experience coming here. Must go spot in NYC !"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwNFJraFhNelpNYjJwbFQxRkliMlJzTUdWTFJHYxAB",
+            "text": "We had shrimp with lobster sauce, okra beef , scallop fried rice , and steam fish. Everything is great aside the fish smell grassy and lots of bone not my preference."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21acWNGOTVMVVF0UzI5Zk1XWTJNSHBQTW5aUE9VRRAB",
+            "text": "This is probably our favourite family style Canto restaurant in Manhattan, the kind of place you bring your grandma and extended family out to for a casual Sunday dinner. We come here quite often and recommend you call in advance and make a reservation.\n\nEverything is pretty good but they can sometimes be a little inconsistent. The dishes that are the most reliably good are the stuffed eggplant and peppers (yong tau fu), pepper beef with chives, salt and pepper squid, walnut prawn and the peashoots (dou miao). I also love the house special chicken but it can be a little hit or miss!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvNlp2VnN3RRAB",
+            "text": "Had a great time at Uncle Lou's as we didn't know what to expect when we stumbled upon this little gem. The service was good and the ambiance was busy but inviting.\nThe real stars are the tasty dishes we ordered. Where do I begin?\n\nVegetable Spring Rolls: crispy on the outside as one bite is packed full of chopped carrots, onion and well, vegetables! Although only two rolls make up one serving, these will fill you up quickly!\n\nChicken Dumplings: were soft and tender on the outside and very tasty once bitten. Both of these starters rocked! Next Up...\n\nChicken and broccoli: was also tender and delicious. The broccoli had the right amount of crisp and the chicken, well flavored.\n\nVeggie Fried Rice: went down well. Chunks of fried egg, green peas, corn mixed in with \"just right\" textured rice. No soy sauce needed!\n\nShrimp Lo Mein: did not disappoint as the noodles were soft and tasty. The shrimp was well seasoned as it made way for \"a party in my mouth \".\n\nCrispy Garlic Chicken: was heaven on a plate! The crackle of the skin against the savory meat allowed for a joyous feeling. The chopped scallions and garlic took this dish over the top.\n\nIn short, we'll be back!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0SlpETkpOalJZVFdad2FuUndWR2hsYjFGRGRYYxAB",
+            "text": "I thought this place would be just for tourists, but the food is the real deal and the service is great too. So good we went there twice in a week.  If you're visiting China Town definitely eat here."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OVGIzWnpVVVE0TmtSUFdtdzVXa040WDBWeVNsRRAB",
+            "text": "Soild China town institution. Ordered a General Tso chicken, fried chicken dumplings and a vegetable roll. The vegetable roll was nice and crunchy. The dumpling was fine just a little soggy and fell apart after one bite. The General Tso was sweet and a bit spicy. It unfortunately didn't include a side so had to order an additional rice on the side. The service quick and attentive. Now I was on the counter can't say how the table service was. Again solid place just be mindful of 30-45 minute wait times during peak hours."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VNdm04Sy1xeWJpTHVnRRAB",
+            "text": "The chicken dumplings was really good. Came on a rainy day with friend and didn’t have to wait long. The tea was pretty good. Service was really quick. The vegetarian roll pretty nice but had something that tasted sour in it which I I didn’t like. I will say other than the dim sum, others was about $20+ so better to share amongst 2-3 peoople"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnc3B1Q0ZnEAE",
+            "text": "Had an amazing time at Uncle Lou with a party of eight! From the moment we walked in, the warm atmosphere set the tone for a fantastic evening. We were seated at a round table with a huge lazy Susan, which made sharing the delicious dishes even more fun.\n\nEvery dish we ordered was spot on—flavorful, well-prepared, and perfect for family-style dining. The portions were generous, and we loved how effortlessly the food kept coming as we spun the lazy Susan around. The staff was attentive and welcoming, making sure we had everything we needed to enjoy our meal.\n\nThe lively ambiance, delicious food, and great company made it such a memorable night. If you're looking for an authentic and fun dining experience in Chinatown, Uncle Lou is a must-visit! Will definitely be coming back."
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1TGNrdGFlSEpyVURoQk9YZzRRWEpWZERZd1RGRRAB",
+            "text": "Muy bueno!! Chequeamos los comentarios antes de ir, y realmente fue así!\nExcelente atención por todos sus miembros. La comida la trajeron muy rápido. Todo exquisito y precios accesibles. Por supuesto que volvimos a cenar más días allí! 🩷\nÉramos 3, pedimos un plato grande para compartir y dos pequeñitos. Estuvo muy bien. Te sirven el típico té de cortesía al inicio y tmb puedes tomar agua sin costo."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WUk9ETndZamxpUm5SUVRFaHdjRVp1ZFd0RFZXYxAB",
+            "text": "I don’t understand the hype of this place. The sweet and sour pork was so overcooked and hard to chew- the breading was not crispy or crunchy. The sauce was alright. The “famous” chenpi duck was not enjoyed by the majority of our party- would not recommend. And there were so many small pieces of bones to meticulously spit out in order to eat it. The crispy orange beef was not that crispy but it was yummy. Would recommend. The chicken dumplings were good too. Overall I wouldn’t really say this place is worth the hype especially with wait times being so long. Also- there was a waiter who was not the nicest when I asked if our rice was coming. He looked at me deadpan and just said “it is coming” with an annoyed expression. Other waiters were nice though."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxSWNscFVWMUZEVkRab1NWRlpTREpWWVMwNVVsRRAB",
+            "text": "Love Uncle Lou. I’ve been a few times and it’s excellent every time. Standouts include the Salt and Pepper soft-shell crab which was excellent (it was a special), the crispy garlic chicken, pea-shoots with garlic, ginger fried rice. Also their general Tso’s tofu sort of of makes all other Chinese restaurants look bad bc they actually get it super crispy. The restaurant is really clean. And even if it feels a little nu-school by comparison, the quality of the food makes it our #1 chinatown spot"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CR1VUaHhPV1F4TUV0NmREZHdUekZpT1hNek4yYxAB",
+            "text": "First time visiting. Excellent experience! They were packed and super busy, still friendly and great service. Server helped us with great suggestions and explanations."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VKajc1TE8tajRYZERREAE",
+            "text": "Stopped here for a quick group dinner. I would say this was more of a comfort food. We ordered chicken garlic, prawn mayonnaise, fried rice, and dim sum. Personally, chicken garlic was my fav.\n\nIt felt like a more of fusion Chinese food with americanized pricing. On top of that, i really loved the interior and overall vibes"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VOclM2SS1kMVBIM05BEAE",
+            "text": "Pretty good food although I wish I knew from the descriptions if the dish was going to be fried, grilled etc, as we ended up getting lots of fried food accidentally. All delicious but not very good for the health. Service is fast which I appreciated as well."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJblMydlhoX0t5SGVREAE",
+            "text": "Everything we ordered was pretty solid, and the portions were huge, definitely meant for sharing. It’s a bit pricey, probably because it’s a little touristy, but we kinda expected that. My favorites were the dried scallop fried rice and the calamari!!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VOdi10Wkw1OHNPRUVnEAE",
+            "text": "This is more of an Americanized version of Chinese food, with American pricing. I thought it was a bit overrated when comparing it to authentic spots nearby (cheaper and much more flavorful), although Uncle Lou was a cool dude. I ordered the crispy noodle dish and the shrimp and pork dumplings. The dumplings were nice but the crispy noodles were a bit bland in flavor. The place is nice, definitely nicer than the authentic spots nearby."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pReU1tMXFUSFZmWHpWMVQwTXhVbTgyZEVoWGNGRRAB",
+            "text": "This restaurant offers a solid and delicious Chinese dining experience. The portions are generous, and the atmosphere is comfortable. However, be prepared for a wait, as they are always busy. My friends and I ordered several dumplings and a couple of Xintaos beers, and we were thoroughly satisfied. I highly recommend this place!"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUOWZqNHdBRRAB",
+            "text": "Update : August 2025 - Still great food and service. Will be back after our next Brooklyn Bridge tour. We found this place at random. They were understaffed but they wrote that at the front of the restaurant so we didn't mind the wait. The decor and ambiance are really nice. The bathrooms are decent. The food is large portions but so so delicious. My family ordered the general tsao chicken, Singapore noodles, bacon fried rice and another mixed fried rice. All were so delicious even our 1 year old ate each food."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21keVZsOU9iblYyTTFRNWJpMVBla1ZHUkZaTFYyYxAB",
+            "text": "Really good food. Was cleaner than most the other restaurants in the area. Plates are really big, good to share in a large group. Limited beer selection."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VKZUQwUER2NThpSVZREAE",
+            "text": "Decent Chinese food with quick service and friendly staff. Quality is okay, but the place is always packed, which says a lot. Great spot if you’re craving something fast with solid customer care."
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYMTlEeDdRRRAB",
+            "text": "Uncle Lou's Cantonese Kitchen in Manhattan is a delightful culinary experience. The food was absolutely fantastic, and we thoroughly enjoyed every dish. What made our visit even more special was the opportunity to embrace the tradition of sharing. As newcomers to this style of dining, we found it to be a wonderful and enriching experience, perfectly complementing the delicious food. The atmosphere was warm and inviting, and the service was excellent. We highly recommend Uncle Lou's for an authentic and memorable Cantonese meal."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2aHVQVzlBRRAB",
+            "text": "We went there for a work dinner. It was my first time and I have only heard good things about the place, so I was excited to be gaining the experience! They did not disappoint. Be sure to make a reservation, especially for large parties! There was a line at the door, fortunately, we were seated as soon as we arrived.\n\nThe staff were incredibly friendly, and patient. The food was good! We did items family style and there was enough for everyone. Veggies were fresh, I cannot go on without mentioning the wonton (shrimp) in chili oil, amazing! They also cut the red snapper in front of us, made it so much easier to share.\n\nI will definitely be back to try more items! I get the hype! Good for solo, dates, friends, and groups. I loved the atmosphere, good to have conversations. There was a festive vibe about the space, but the energy was so good! Smiles all around!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvbmJtRGRREAE",
+            "text": "if you want to dine there, be prepared to wait for a table for about 20-30 minutes, but for me it is one of the best Chinese places in Chinatown in matter of price/quality\nThe portions are large and the food is delicious. very nice authentic atmosphere"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnM01qM2ZREAE",
+            "text": "This was a very nice Chinese restaurant. The food was amazing the staff were all over it and the restaurant and bathrooms were very well kept. I highly recommend getting the scallops in black pepper sauce. It comes out and they put it on top of a hot skillet. Be careful not to burn your young because it will be hot. All the other food we got was amazing too even the jellyfish salad."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnbXJpYlh3EAE",
+            "text": "Very good Chinese food. I love their crispy garlic chicken!! It was a bit weird to have cucumber in the fried rice, but the overall fried rice taste and dryness was good. The food came out very fast."
+        }
+    ],
+    "reviews_count": 89
+}

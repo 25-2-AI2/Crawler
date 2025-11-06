@@ -1,0 +1,635 @@
+{
+    "name": "La Parisienne",
+    "place_id": "ChIJt1KQKxhawokRujL-AUeoW-Y",
+    "grid": "MN1",
+    "address": "9 Maiden Ln, New York, NY 10038, USA",
+    "rating": 4.6,
+    "user_ratings_total": 2053,
+    "phone_number": "(646) 756-4911",
+    "reviews": [
+        {
+            "date": "1시간 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oNFQzVlFSa3hpU2tsamMxQjJia1JaU1c5WFJuYxAB",
+            "text": "Herrliche Abwechslung zu klassischen Diner‘s und Starbucks! Sehr gute Qualität, liebevoll angerichtet, leicht französischer Charme, wohltuend chubby (ganz leicht)…"
+        },
+        {
+            "date": "11시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toUVN6TnRVMTl4Ym1FM1FrMXlOSFF0ZWs1dVIzYxAB",
+            "text": "Beautiful unexpected little cafe close to Brooklyn Bridge.😍"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0YU5rVktRekEyZVRBMFJHSnBjSGRMWXpjNVRVRRAB",
+            "text": "We had the salmon brioche and a croque madame, both were very good. The coffee was solid too, but the real highlight was the dessert: the chocolate tart with ice cream is a must-try. The staff was friendly and attentive. The only downsides were the size of the space, it can feel quite cramped when crowded and the smell; our clothes held onto the food odors after leaving."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aMVNHRkpUVk5NTTFVM1Z6WkhaSGhVUVdrNVQxRRAB",
+            "text": "The orange juice is not fresh pressed orange juice as claimed. Should not be charging $10 that’s illegal ; service was decent and cute place otherwise. Nutella strawberry croissant was good."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oWGQyNWZZMDVTVjFwaGFURkpSSGRTZWs5UFFsRRAB",
+            "text": "Such a cute little French-style brunch spot! The place is small but super cozy with a nice vibe.\n\nGot the latte and french toast with banana, blueberries, and almond flakes — so good! Soft, not too sweet, and perfect with the coffee. The smoked salmon and avocado toast was fresh and flavorful too — love the combo with lemon and dill.\n\nGreat spot to chill, grab brunch, and enjoy some quality food and coffee. Definitely a hidden gem worth checking out! ☕️💙🥐"
+        },
+        {
+            "date": "2일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GdGNFVkdObmh5VkhWUVFVRlNXSGwyVmw5elNVRRAB",
+            "text": "Muy muy rico… sitio acogedor con bastante variedad de desayunos y muy buenos, recomendable!!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWQ1dXeGFVSGRYZWw5SGRsSmZWMk5ZVXkxbVRsRRAB",
+            "text": "Amazing place for a quick but ultra delicious breakfast. Laid back atmosphere and perfect environment to get ready for the day! Top service. Avocado toast is highly recommended."
+        },
+        {
+            "date": "5일 전",
+            "language": "fr",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wa05XODNaVTFYWW1GMFNFMWtjWHAwVG1oM2JsRRAB",
+            "text": "C’était vraiment bon mis à part la brioche qui était un peu sèche. Le mélange marcha-chai latte qu’ils ont bien voulu faire car pas à la carte. Le saumon super frais et le service parfait. Un peu frais quand on est assis près de la porte car elle reste quasi tout le temps ouverte avec le passage."
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSRFgxWkNOVmxoT0ZSeVlYWnpTREZUU1dkak9FRRAB",
+            "text": "Amazing Avo toast with eggs! Greta portions as well. Chia pudding is amazing too we had it without agave"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21seU9XNVdTekJGTmxsNlRVVm5TMFJDTWpCRlFuYxAB",
+            "text": "Very good food ! Recommended 100%"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKUVQySkhNbkpCVkZWMk4zVlJjV1F0ZFhWdU1FRRAB",
+            "text": "Their other menu items looked too good to miss. The food quality never wavers. The employees show outstanding customer service and genuine pride in their products. This place confirms positive expectations. This restaurant provides an inviting setting."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xORk5rRTRlVTFWVEZKR1NrWm1Wbkp3ZWtwU1NuYxAB",
+            "text": "This café strikes the right balance of comfort and quality. The food was flavorful, the staff attentive, and the atmosphere inviting easily a five-star spot."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tacVRUaFNhalZ2UjNGWWREbGpVa1pEVTFCWlFYYxAB",
+            "text": "Fabulous people, fabulous food. Have dined in here frequently and it's always an 11/10 experience. Recently ordered their catering for an event and it exceeded expectations. Thank you!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0NFVWUTJTRjh3T0RocWQyMWxhVXBCU2tWd1JsRRAB",
+            "text": "Bustling little French cafe with baked goods and breakfast/brunch food. The French that was popular"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SR1QyaFVTRlF6YjE5eFpqUkdTMWxuUVZaek1HYxAB",
+            "text": "So delicious, so quaint, so done right!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xc1FtRktZMk15Vm10dFkxSmFlWE5uYW1WTmNWRRAB",
+            "text": "I very rarely rate anyplace a 5. But I had no other choice."
+        },
+        {
+            "date": "1주 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3MFNFOTZRbVZxWDNOTk5tMTJXbGwyVjJGbVEyYxAB",
+            "text": "Genau das richtige Café wenn man ein kleines, leckeres Frühstück zu sich nehmen und einen köstlichen Kaffee trinken will.\n\nSehr netter Service.\n\nHat einen gewissen Hauch von einem Pariser Café. Einrichtung könnte etwas gemütlicher sein (z.B. Holzmöbel und etwas wärmere Farben).\n\nVon mir gibt's eine ganz klare Empfehlung hier einzukehren."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoQ1dGQlNlbmR2UzJKbmJVVjNiek5TTUVGM1JIYxAB",
+            "text": "Delicious food, the servers are very nice. It's a very small place but worth it."
+        },
+        {
+            "date": "2주 전",
+            "language": "nl",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OQlpsSXlkbEp3T0RCTWRFbExWbTg1YUU1dGRVRRAB",
+            "text": "We hebben hier 2 keer ontbeten, alles was heerlijk!"
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwOExxTnpRRRAB",
+            "text": "Update 2025-10-19\nOriginal review still holds.  Had the Chai bowl and the fruit bowl.  Excellent pairing for a light and filling brunch.  Dairy-free and lots of fruit.  Friendly, appropriately attentive service.  Had only a 5min wait time around 11am on a Sunday.\n\nQuaint, charming atmosphere tucked away in the Financial District.   Very friendly and welcoming, make for a warm welcome.  Although the selection is small I  terms of pastry options, none fail to please!  The soft, yet flaky Apple Choussan is a must.  A solid croissant which speaks to the high quality of the pastries.  The pain au chocolat holds it own, a little lean on the chocolate experience when compared to a Montréal version, yet it will not disappoint.  Indoor and outdoor seating is a plus."
+        },
+        {
+            "date": "2주 전",
+            "language": "pl",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSV2RrVlFZVmxpZWw5SmJ6RnZVVGRZVG00dFRHYxAB",
+            "text": "Pyszna kawa, obsługa bardzo miła i pomocna. Jedziecie bardzo smaczne, widać że znają się 😁 czekaliśmy chwilę ale było warto."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSM1JUWmFVRkJ4U0dsUmRYUlhOR2haYTFaeVFWRRAB",
+            "text": "It was my first time in New York and stopping by this place was far the best decision. I can’t stop talking about how delicious this place was with my family back home so if you’re visiting from out of town I highly recommend."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twcExVRkxOREIxTlVRelUzbHpaWFZhYWtodFpFRRAB",
+            "text": "Soo good Croquet Madam!"
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Ga2VGRkNiVEJsVFdSVFFWUnBja0pRZDJOeWNtYxAB",
+            "text": "Really cute place with excellent food and service!!! Ham and cheese croissant was so good!  Latte was hot and delicious!!!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCT05HOTZiMjV6ZUZNeVptRlNWMHN3VjFvM2IyYxAB",
+            "text": "Great french toasts! The ceremonial matcha was also amazing."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4SlJsZHZaV1JITFdOalVVMWhSbVZ0WkVoeVVFRRAB",
+            "text": "La Parisienne is such a charming spot! The food is fresh and delicious, with that perfect French touch in every dish. The croissants and coffee are a must. The vibe is cozy and elegant, and the staff are warm and welcoming. A lovely place to enjoy a relaxing breakfast or brunch in the city."
+        },
+        {
+            "date": "4주 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tnME9IQTBPVnAzYjBOTVVEZDZObE4zWDJkemNFRRAB",
+            "text": "Super gutes Frühstück in NY ,mega freundlich und sehr effizient! Jederzeit wieder"
+        },
+        {
+            "date": "1달 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCYU1qSlBaMkpVUWxKNk9FcGlibGQyTVc1Q2JHYxAB",
+            "text": "法式吐司的楓糖是直接淋上去的，整體吃起來會稍甜一點，需要搭配旁邊的水果才比較剛好，火腿可頌好吃，卡布奇諾好喝。"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NelRuRlNiSEEyYjNWcFpHZExUVWhDTVRVdFdrRRAB",
+            "text": "The most amazing almond croissant. The coffee was wonderful as well."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5bWFFUnFRUzFKU0MxelpuSkdka1JoWjBKM2FtYxAB",
+            "text": "Cute and cozy cafe. Staff was very friendly and very attentive. Food and coffee was superb! Very fresh and a great to the morning."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsMlpqUkdiMnR6U25kclRreFFPRTVpUm5sMmVVRRAB",
+            "text": "I visited the cafe in 2022, and I loved it. The patisseries, the breakfast, the coffee  everything was just delicious.  The team were very friendly and very fast in serving even tho the place was packed. I truly enjoyed ☺️"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KdFJsUkZlVkZQVkdVdFEzaEJSeTFuWlVORU0zYxAB",
+            "text": "Went there before and it's one of the best place in the city to go offline and just enjoy the foods!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxak5HNWZkM2hyWVRZdFJXbERPSGxFVDBKck1GRRAB",
+            "text": "Location is just right for a Sunday brunch before a day out in NYC. Great coffee and breakfast sandwiches - the fried egg was perfect on top."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oNVdXWmtTWFk0UTJGZmVsOXBSRmhOWW00dE5uYxAB",
+            "text": "Wonderful little gem tucked into a small but cozy café with some amazing food and delicious coffee!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOUFdtTXROVE5ZVEc5R2MyaHJhSGMyYTNCVFUxRRAB",
+            "text": "I stopped by La Parisienne and had the Chai Latte, Cheese Croissant, and Yogurt & Granola Parfait. Everything was absolutely delicious! The croissant was buttery and flaky, the parfait was fresh and flavorful, and the chai latte was perfectly spiced and comforting.\n\nThe café itself is small and quaint, with a cozy vibe. You have the option to dine indoors or enjoy a seat outside, which makes it a nice spot whether you’re catching up with a friend or just taking a quiet moment for yourself. They also offer curbside pickup, which is super convenient.\n\nCustomer service was great, friendly, attentive, and welcoming. All in all, La Parisienne is a wonderful spot in NYC if you’re looking for a charming café with tasty food and drinks. I’ll definitely be back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOM2VETnJOSGRJVTE5WGR6Z3diWEZ0UzNKWGVHYxAB",
+            "text": "Looooove this perfect breakfast spot."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCYVZFRllPVkZSVDFGNFh6Z3pWVVJrT1VGUVVrRRAB",
+            "text": "Super cute"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jeVREQlJURWRSTURVdFNGVmthSFZMV0c1c1oyYxAB",
+            "text": "Beautiful comfort food. Full of flavors and I will definitely visit again .. well done 👍🏻🫠👌"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGVWJGVkllRGs1ZVdKblVHeGpkamhNUTI5Sk9VRRAB",
+            "text": "Everything is delicious 😋 you won't regret it…"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201dFgwdEdSRkp2TmtOVU9XNVhVbEpVVEVGNVZIYxAB",
+            "text": "cafe looked nice, but service was subpar. coffee and bakery was not hot when served. did not really enjoy eating here."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tReGRqSnlVa2cyZUhkNlRTMW1TRWQzZDJjM1JFRRAB",
+            "text": "Wonderful place with plenty of healthy options. I had the multigrain avocado toast with a side of roasted sweet potato—fresh, flavorful, and satisfying. Cozy, bright atmosphere that feels welcoming. Huge thanks to Dana for the warm, attentive service!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkVFYxQmpha3c0WWtRNGFVaFZWMmhxTldsTU5IYxAB",
+            "text": "Petit Paris in NYC 🇫🇷❤️"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWS2FXNDFkVWhUYzFsaFNHWllWVTUzYlc1bWJsRRAB",
+            "text": "Nice French atmospbere and food was on point."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205c1oyVkRlRE5TZFc5MFJsRnBia3hpZUZOSFkxRRAB",
+            "text": "Amazing authentic Parisian food"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2prNU0wRk5TVEJ4ZFRkSFRIRm5WRkJrV0VKMlpFRRAB",
+            "text": "Wow I normally don’t like sunny side up eggs but this just had to ho inside my mouth. :) definitely coming back soon 👍🏼"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ScmRqQjJaRlYwTVRGRFNqaG5SbkF6YjFObExWRRAB",
+            "text": "Great aperativo! Cheese was out of this world good! Service was excellent. Highly recommended 🏆"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "fr",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNM01FYzVNSGRGWVdaWlQwVlBWMU5KUVd4SWRXYxAB",
+            "text": "Je suis venu le matin du 6 mai. Ils ont profité du fait que j’étais un touriste pour m’imposer le montant du pourboire (évidemment élevé). J’ai préféré ne rien de dire pour éviter un conflit.\n\nUpdate après réponse : Je vous remercierai de ne pas, en plus, me traiter de mentir. Il ne s’agissait pas d’une impression. Le serveur m’a très clairement indiqué le montant du pourboire (30%). Et j’ai préféré évité un conflit pour quelques dollars. Si j’ai été suffisamment choqué pour décider d’en parler trois mois après, ce n’est pas pour rien."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wR1UxRjFNV3hCWm5aSVVFVkxlVEV6ZFVnelExRRAB",
+            "text": "Came a couple years ago and was tip hounded by the person who seems to be the owner/manager. Looking at the reviews now almost 2 years later, nothing has changed. Mid food. Decent service from the employee but definitely the worst tip hounded I’ve ever experienced.\nSpeaking directly to the owner. Dude either add a mandatory gratuity on your god damn menu or learn that we do not owe you more than you’ve listed on your menu because you don’t wanna pay your employees a living wage. You’re ruining vacations and once in a decade trips for people who work everyday looking forward to being able to enjoy your city."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xUU5XeFVWMGxEY1hwM2NXOUlZWE5aTTBOSFUyYxAB",
+            "text": "The French Toast is a must-have and was so fluffy and delicious! Such a cute, tiny breakfast place."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkQlJFUmZSbVV3VG1WTVVuSmFZMDlGZG5sSU1YYxAB",
+            "text": "La Parisienne, located in the heart of the Financial District at 9 Maiden Ln, is a charming little French café that feels like stepping into a slice of Paris amid the busy energy of Wall Street. The space is a bit tight, but that only adds to its cozy, authentic Parisian café feel.\n\nI went with the Salmon Brioche, and it was nothing short of exquisite. The toasted brioche was buttery yet light, carrying layers of smoked salmon, creamy herb ricotta, cucumber, avocado, capers, pickled onion, and fresh dill. It reminded me of how the French approach food quality ingredients prepared simply but with balance and care, letting freshness speak for itself. Brioche, with its rich and pillowy texture, has always been central to French baking, and here it becomes the perfect base for something indulgent yet elegant. Every bite was a harmony of textures and flavors silky, tangy, creamy, and crisp.\n\nMy friend ordered the Avo Toast on multigrain, with miso tahini spread, lemon, scallions, black sesame, and ripe avocado. It was so good that I didn’t even get a chance to snap a picture ,the kind of dish you dive into before your phone comes out. What I loved most was how it felt like a modern, global nod layered on top of a French café tradition. Avocado toast may not be French by origin, but the way it was plated and seasoned reflected that same spirit of refinement and attention to detail you’d find in Paris cafés reinventing classics.\n\nLa Parisienne blends New York energy with timeless French café culture  small tables, artful plates, and food that’s as comforting as it is thoughtful. I’ll absolutely be back to explore more of the menu."
+        },
+        {
+            "date": "4달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPN3cwZXpPMUlfOTh3RRAB",
+            "text": "완벽한 아침 식사!! 와이파이 비번은 I love paris 라는 낭만 한스푼💕"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN0ZzRDcDFRRRAB",
+            "text": "자유의 여신상 투어를 하기 전에 들린 프랑스 브런치 가게입니다! 제가 지금까지 먹었던 프렌치 토스트 중에 제일 맛있었고 커피의 풍미도 너무 좋았어요☺️ 음식의 재료도 신선하고 직원분들도 너무 친절하셨습니다~ 맛집이라 웨이팅은 필수인 거 같아요! 다음에 뉴욕에 온다면 다시 재방문하고싶어요~"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZOTV5a21nRRAB",
+            "text": "기다린 보람이 있는 곳이었음. 인생 브런치집이라고 해도 될만큼 정말 맛있었음 ! 시킨 모든 메뉴가 다맛있었던곳은 여기가 처음임...자몽주스도 먹어본것중 제일 알갱이가 많이 씹히면서 새콤달콤 맛있었음! 빵을 안에서 직접 만드는건지 받아오는건지 모르겠지만 빵이 정말 신선하고 바삭하고 부드러웠음. 플레이팅도 맘에들었고 서비스도 좋음. 단 한가지 아쉬운점이 있다면 가게 내부가 넓지 않아서 갈때마다 거의 항상 웨이팅이 있다는점?\n특히 아보카도 토스트가 맛있는데 소스를 뭘 쓴건지 모르겠지만 빵과 아보카도와 잘 어우러져서 맛있었음! 셰프가 음식을 정성스레 내놓는 느낌이라 먹으면서도 기분이 좋음. 인테리어도 모던하고 예쁨. 여기는 집에서 좀 멀지만 종종 생각날때마다 귀찮음을 무릅쓰고라도 가게될것같음. (기다리는 사람이 많기 때문에 여유롭게 오래앉아 먹을곳은 아님. 테이블은 2명이상이 앉기엔 조금 작은편)"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQwbXQtOVJnEAE",
+            "text": "분위기도 좋고 서비스도 좋았어요.\n스프랑 아보토스트 보다는, 프렌치토스트가 제일로 맛있었어요. ! 시럽이 너무 맛나고 빵도 정말 부드러워요. 아메리카노도 아주 마일드해서 음식들이랑 아주 잘 어울렸어요."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3djVDaDVBRRAB",
+            "text": "1인 1프렌치토스트했습니다. 완전 녹는 제형은 아니고 빵 같은 느낌이라 프토는 2인 1개가 좋을 것 같아요. 친절하셨지만 많이 작아서 공간이 좀 시끄러워요ㅜㅜ 전 가본걸로 만족했습니다. 프토 맛집!!!!까진 아니에요."
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSMmF1QXVRRRAB",
+            "text": "픽업으로 이용했어요 아침 11시전에 갔는데도 줄 서서 기다리고 있더군요. 저는 바로 음식 받아서 호텔에서 먹었습니다. 프랑스식 브런치라 깔끔하고 맛있었어요 매장 분위기도 넘 좋아요 😀"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMaFBlLW9RRRAB",
+            "text": "프랑스스타일의 전체 25명 정도 들어가는 브런치식당. 아침 기분을 좋게 만들어 주었다. 행복한 아침식사"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSanNHLXpnRRAB",
+            "text": "지난번에 갔다가\n맛있어서 오늘 또 갔는데\n\n맛은 비슷한데\n다 먹기도 전에 접시 치우려고 하고\n\n아직 안먹었다고 말했는데도\n계속 커피 잔 가져가려고 하고\n\n눈치 보여서 서둘러서 먹고\n잠깐 5분 정도 앉아있었는데\n\n자꾸만 계산을 독촉해서\n핸드폰도 못할만큼 눈치 보였어요\n\n내돈 내고 브런치 먹으면서,\n눈치 엄청 봐야해요.\n\n뉴욕에 여기 말고도\n맛있는 브런치 집은 많아요\n\n다신 안가고싶어요.\n\n서비스 완전 별로에요."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUbktPdzBnRRAB",
+            "text": "굿굿 분위기 좋아요 가격도 저렴한 편"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSazgyS2VBEAE",
+            "text": "아메리칸 아침에 지친 사람들이 한번씩 가보면 좋을듯한 음식"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKMUpEaV93RRAB",
+            "text": "완전 맛있고 좋았어요. 음식도 맛있고 매장 안 색감도 좋아서 기분 좋은 곳이었어요."
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSLTd1M0tREAE",
+            "text": "완전 맛있고 특히 크로크무슈를 추천합니다 완전 맛있습니다"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNVd2JfV3ZRRRAB",
+            "text": "브런치가 예술이다.  모든메뉴가 맛있다"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WVE1WZDZZWEJSUmpkWFRFRk9jRWg2U3pkQ1VYYxAB",
+            "text": "Awesome french toasts, one of the best ones in NY. Everything about it was done right. Our coffees were not right the first time. I provided the feedback to waitstaff but the owner himself took over and brought us perfect lattes."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SVldGQXlWVjlrV1hSMmEwNTVkVFZaYlhaM1kzYxAB",
+            "text": "Amazing food, if you’re ordering french toast and doesn’t like a lot of sugar syrup ask them to give it on side and you can take it according to you, it’s quite sweet but amazing taste and must try almond croissant. Highly recommend"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3c05HY1VREAE",
+            "text": "This is a cute French cafe in FiDi. I went on a Saturday afternoon, and while it was busy, the wait for a table for two was short (I would recommend joining the waitlist ahead tho). The staff was friendly, and the service was fast. The Croque Madame and French toast were well-made and tasted great. I’d highly recommend this place to anyone looking for brunch or a quick bite."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnaXFpaVVnEAE",
+            "text": "Absolutely love this place. The french toast is something to brag about. Fluffy with some sort of cream filling. Delicious. Just wish they had cream to serve it with. Had eggs also but they could either only boil them if fry them. No scrambled, unfortunately. Will be back for the French toast though, for sure. Good price point also, very affordable."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzcmZHWEhREAE",
+            "text": "Came here at open on a Sunday morning. Sat at the bar stool next to the kitchen. Great service and food. As a former restaurant employee was awesome to watch the lone cook crank out all the food for a full house of brunch enthusiasts. They managed to misplace my order and offered me complimentary French toast and a mimosa. Great service recovery.\n\nLovely french atmosphere but upbeat and not stuffy. No more scaffolding on the outside as of Nov 3, 2024 ( there is on the google maps pic). So sitting outside would be nice on a warm day as well.\n\nFood was delicious and service attentive but not overbearing. Don't hesitate to go, but get there early on the weekend!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSSFNtczRWMnRRUzFNd1QweFZTSEZoU0hrd1IwRRAB",
+            "text": "I tried the french toast, egg sandwich and almond croissant, I recommend the toast was delicious.\nThe cafe too small and you have to wait for 30 minutes minimum if it’s busy, also you can be in waiting list through the app before you arrive"
+        },
+        {
+            "date": "7달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJcllLLTB3RRAB",
+            "text": "Super belle découverte ! Même si nous ne sommes pas français, on s’incline devant votre cuisine 👌😜\nLes patrons sont super sympas et côté carte c’est juste super bon.\nSi vous êtes dans les alentours, n’hésitez pas une seconde vous ne serez pas déçus 😍"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205SWVtMXlTSFJHTkVoMlRFcFRPRzVWUkVSUk5tYxAB",
+            "text": "Ate here for breakfast a few times during my trip to NY. Amazing breakfast food - the French toast being a particular highlight. It’s popular and you can’t book, but you can join the virtual queue on Yelp before visiting to avoid waiting.\n\nDocked one star for atmosphere because there is a leaky aircon at the front of the restaurant that dripped on me a few times during a visit."
+        },
+        {
+            "date": "4달 전",
+            "language": "tr",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VLRzJxc2U4b3B2MFBREAE",
+            "text": "Glütensiz seçenek sunmaları güzel. Klasik tabak kahvaltısı yapmak için ideal yer. Mekan küçük olduğu için varmadan önce kendinizi app üzerinden sıraya ekletmek zaman kazandırır. Tabaklar doyurucu. Kahve çekirdeği nedir bilmiyorum ama kahvesi çok güzeldi."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pST1QyWlJjemxoUjNVeGQwVXpjVkZHVWpoTVQxRRAB",
+            "text": "If you want a taste of Europe and a getaway from the tourist traps of the financial district, this little spot is your go-to.\n\nI stumbled upon it after I gave a downtown tour, immediately loved it, and it has become my regular spot ever since.\n\nIt has become rather popular in the past year. They sit more people than the place can actually hold so not as nice when crowded. After peak hours would be the best time to come.\n\nBonus: they have a nice deal for happy hour!"
+        },
+        {
+            "date": "8달 전",
+            "language": "zh-Hant",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRdHNHTmdnRRAB",
+            "text": "La Parisienne\n📍 9 Maiden Ln, New York, NY 10038\n\n阿鈞生日第一餐吃法式早午餐，我們這次住在Wall Street附近，步行就可以到這家小巧可愛的早午餐餐廳！\n\n點了最招牌的\n\nFRENCH TOAST (P)\nwarm brioche, bananas, blueberries, almonds, maple syrup $21\n肥肥胖胖的布里歐麵包搭配香蕉跟藍莓\n\n跟燻鮭魚吐司\n\nSALMON BRIOCHE\ntoasted brioche, smoked salmon, avocado, herbs ricotta, pickled\nonions, capers, cucumber, dill & scallions 18\n\n戶外座位是很可愛的藍色座椅們，餐廳不大但生意蠻好的！不接受訂位\n\nAt La Parisienne, our signature dish features perfectly toasted brioche French toast, topped with fresh blueberries, ripe bananas, and crunchy almonds."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3c09uLXFRRRAB",
+            "text": "Wonderful French bistro, with actual French staff (though without the French attitude - they were super nice)!  I had a Patè En Croute, which was a special of the day.  It was very tasty, though a bit of a small portion. The others in my group had French Toast and a Goat Cheese salad, which were reported to be excellent."
+        },
+        {
+            "date": "6달 전",
+            "language": "de",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURveW9mTjdnRRAB",
+            "text": "Ein Hauch von Paris mitten in New York. Wir haben dort unser Frühstück genossen und waren begeistert von der Qualität der Croissants, Süssspeisen und auch dem Kaffee.\n\nDie französische Musik im Hintergrund und das Ambiente versetzt einen nach Paris.\n\nAn unserem Tag war es sehr kalt in NYC (April) und leider stand die Türe die ganze Zeit offen. An ein gemütliches Sitzen war daher nicht zu denken.\n\nInsgesamt ist das La Parisienne einen Besuch wert (an einem vielleicht wärmeren Tag). Die Sitzmöglichkeiten sind leider sehr begrenzt."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCR1RWTkxWa2RFZUZGU1NrUTNjWGRKYkhreWFVRRAB",
+            "text": "Stopped into this little Parisian restaurant and it was so amazing so surprising and I haven't had a plate like this since I was in Europe honestly, it was a great I had a glass of Chardonnay with the Burrata and  prosciutto warm roasted cherry tomatoes, fresh oregano, EVOO & balsamic glaze with rustic toasted bread on the side ❤️ crunchy crispy delicious a five out of five a  six star!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3dGZyZzZBRRAB",
+            "text": "Le Parisienne is a quaint & rustic cafe in FiDi that has a wonderful brunch. Although many people were enjoying their signature waffles, we had their salmon brioche sandwich, which was excellent and good value, with a generous serving of salmon. We also had the avocado salad which was great. The americano coffee is also worth ordering. The cafe gets busy sh be sure to reserve ahead & monitor the wait time. Highly recommended."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvNnRYZ3l3RRAB",
+            "text": "Was in FiDi for work and was searching for a non-hotel breakfast and came across this cafe. There was a wait but the staff was so accommodating and quick. There is an iPad to sign in on for them to keep track of people looking to dine in. It was PACKED! Very popular but once seated the service to get breakfast was amazing. Ordered the cappuccino and ham and cheese croissant. Take-away was also available if you didn’t want to dine in. Little bistro tables, tightly packed. Felt like a cute Parisian cafe in downtown NYC"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBN3RuSDBRRRAB",
+            "text": "This place has everything you’d want for a great brunch—delicious food, a beautiful atmosphere, great service, and a perfect location. Everything was spot on, except for the matcha latte. It was way too hot to drink at first, and the matcha was so strong it overpowered everything. If they fix that, it would easily be a 5-star spot! Still, definitely worth a visit for the food and overall experience."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUbVp2bXVnRRAB",
+            "text": "This quaint sidewalk cafe features delectable pastries, light, flavorful fare,  and hard to find French groceries!  Our Server, Francis, was very accommodating and pleasant. We had a quinoa bowl and avocado toast. It was delicious. The coffee was great. Can’t wait to go back."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmNnZMcHJ3RRAB",
+            "text": "Went for brunch on a weekday morning.\n\nFirst, the good: The food was amazing. Point blank. Maybe one of the best French toast I've ever had. Croque forestier was rich and roasted to perfection.\n\nNow, the bad: It's a bit hard to enjoy the food because it is WAY too small and gets loud. I get NYC leasing is tough and the establishment probably wants to pack as many tables as they can, but you are literally elbowing one another and talking over the next table. I was hit several times as people awkwardly shuffled around me, and a nearby table even knocked over their glasses as they stood up to leave. Maybe because of the overcrowding, wait staff (who were very kind and polite) seemed a bit overwhelmed. I bet the cooks also felt it, as food took maybe 40 minutes to arrive (2 sandwiches and French toast for two people). We were so hungry and a bit annoyed by then.\n\nConclusion: Lots of potential but def needs to address the overcrowding and long wait times for food before I can recommend it to others."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBclludHJBRRAB",
+            "text": "Amazing French cafe ! Great French food along with wonderful coffee. I had the French toast with a latte. Great combination! Food was delicious and didn’t hold back on blueberries! Service was great, def recommend this cafe for a nice time !"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2dHFQcE1nEAE",
+            "text": "Chicken salad brioche sandwich was not what I was expecting but still great!\n\nWas skeptical when I saw the line was long and there was a crowd outside. They said only 15 minutes which I didn’t believe but got Seated in less than 10.\n\nNice vibes with very friendly staff. Intimate atmosphere.\n\nSomewhat limited menu, but the those things they have are vetted.\n\nA a few tables around me got French toast, which looks delicious!\n\nTheir baked goods also were good. Homemade chocolate chip cookies always are go to, and although it was a little too sweet, it was still worth getting."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmOTRfV1NBEAE",
+            "text": "My favorite brunch place whenever I am in lower manhattan. From the ambiance to the service to the people, everything is impeccable. Only thing to keep in mind is before you go, do put your name on the Yelp waitlist as it gets crowded on the weekend. We ordered avocado toast, almond croissant and a sandwich. Everything tasted really good. They do have a lot of pastry options so do check it out."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2dUpTSDRBRRAB",
+            "text": "This place is definitely worth the hype. Food was delicious and the service was excellent. I got the French toast and OH MY GOD. The best French toast I’ve ever had, hands down. Thick slices of brioche with so much flavor. Only downside is that it is a bit cramped in there, though that’s most cafes in nyc. If you need a more accessible seating arrangement, I’d suggest visiting when the weather is nice so you can sit outside. Or try going at a slower time."
+        },
+        {
+            "date": "6달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJaU4ycnl3RRAB",
+            "text": "Eine Oase des Friedens und Freundlichkeit!\nSuper freundliches Personal, alles kam sehr schnell und was phänomenal lecker - hätte auch direkt in Frankreich sein können voll Flair.\nPreise sehr in Ordnung - immer gerne wieder!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzdzQyZXlBRRAB",
+            "text": "Cute little cafe, tables very cramped up if you are tall. Coffee could have been a bit stronger for our liking. Service was efficient but not overly friendly. Food was good not great (Blueberry French toast very tasty, Croque madame was just a toasted cheese sandwich) but very pricey even for NYC."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfdy1pVlNBEAE",
+            "text": "Stumbled upon this place and it was a delightful surprise. The place isn’t very spacious if you’re dining in but the food is worth it. I had the French toast and it’s easily one of the best out there. Service was great and prompt. Be sure to grab a croissant on your way out. Their pastries look and taste wonderful. Definitely will come back."
+        }
+    ],
+    "reviews_count": 89
+}

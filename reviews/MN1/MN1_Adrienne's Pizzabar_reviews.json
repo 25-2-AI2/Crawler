@@ -1,0 +1,600 @@
+{
+    "name": "Adrienne's Pizzabar",
+    "place_id": "ChIJYaLtJRRawokRjw4GeC7pTdk",
+    "grid": "MN1",
+    "address": "54 Stone St, New York, NY 10004, USA",
+    "rating": 4.4,
+    "user_ratings_total": 2478,
+    "phone_number": "(212) 248-3838",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWSlJWWlpRVEJ5UW1wbWFrRTVZMjR5ZW1FeGIxRRAB",
+            "text": "Sorry to say that the food was mediocre, my pizza was awash with vinegar from the capers. My partner said her parmigiana was Luke warm before I mentioned mine tasted of too much vinegar. Had to write this review because I know they can do better. Staff didn’t ask how the food was. Maybe the staff know it’s not up to scratch."
+        },
+        {
+            "date": "3일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214VWEwaFBjemROVEVSa05HdzFjazVWUzNCaFVWRRAB",
+            "text": "Increíble lugar, pizza deliciosa y no olviden pedir de postre un tiramisú, espectacular"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SQlEwbEtXVkZDT0U1dlJqQXdkMHgzUkRndFlsRRAB",
+            "text": "Typically great pizza. Today was a big miss. Delivery had pizza partially burned and some ingredients missing.\nI hope that this was just an off day and not the new norm."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wblJVTldha2cxZHpocVpYSlhUblpxY2xoWGIxRRAB",
+            "text": "Great pizza"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GbE1EbG1SMlZFTUdKc1lWaHZSeTF4V1cxa1VHYxAB",
+            "text": "Best Pizza !!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Salp6bHRZbmw1Y1haRlVURlZZbE5YY2pkdFkxRRAB",
+            "text": "A very crispy and tasty square peperoni pizza cooked to perfection. Located in a historic location with cobblestone streets.You can dine either inside or the outside seating. Customer service was very good."
+        },
+        {
+            "date": "2주 전",
+            "language": "de",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5SFV6UXRNV0pIV1VOMlYyNHlURTFoYlZWVk1FRRAB",
+            "text": "Die Pizza war superlecker. Schnelles Essen. Mit dem Bezahlen dauert es aber dann etwas länger."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GcE1rNWpVV3hOYUZvelQzQlRjMUpwYW1ONk1VRRAB",
+            "text": "Pretty good"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxclNrMU1jUzFzWVc1NWRXSnFjRU5rVlY4NE1XYxAB",
+            "text": "Pizza is good. Not as good as it used to be but still very decent. The eggplant is amazing and makes up for the loss in pizza quality. As for the pizza…it reminded us of our Italian grandmother’s pie: puffy dough with a super crispy, almost fried, bottom but now is thinner and not as crispy. Almost as if they didn’t proof it long enough and didn’t use enough oil in the bottom of the pan."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKUFFVRlBhMnhVVFdoWE5YcGplVGRzYWxaTFUxRRAB",
+            "text": "Great place for pizza or ravioli. It was a bit cold so I sat inside. On a warm day if you want to sit on the cobbled Stone st and enjoy an outdoor meal this is a good place. Service was exceptional."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOaE0zQmtkRWswYVVGeVpIRlRMVEJvZHpJMU5GRRAB",
+            "text": "You go for the pizza.  Nice staff and in an eventful area"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4b2IyeHhaRE16VDJKamR5MVROa0ZUUzFSdk1IYxAB",
+            "text": "Down in FiDi, land of bad suits and worse martinis, you don’t expect salvation. But it’s there. A square pie, hot, blistered, angry at the edges. Sauce that actually tastes like someone gave a damn. Cheese…gooey, molten, stretching like a phone line you don’t want to answer.\n\nThis isn’t Naples. It’s not some “heritage grain, hand milled by monks” nonsense. It’s New York. Big, messy, unapologetic. You grab a slice, grease slicks your fingers, and suddenly you’re ten years old again, sitting on a stoop, burning the roof of your mouth, and not caring.\n\nAdrienne’s doesn’t want to be your Instagram moment. It’s not gonna wink at you, not gonna kiss your ass. It’s gonna feed you. And maybe that’s all a pizza joint should ever do.\n\nThe crowd? Suits who think they discovered fire. Tourists who read about it in a guidebook. Locals who knew before the rest. Doesn’t matter. The pie’s the same. Solid. Square. No bullshit.\n\nNew York’s filled with pizza hustlers, glossy facades, overpriced slices that taste like regret. Adrienne’s? It delivers the thing. Hot, square, real. You walk out with sauce on your shirt and beer still on your breath. That’s the win."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCb2RVeDNjWG80Um14WFJWSnZkMlp4TUdkd05FRRAB",
+            "text": "Iconic Pizzas of NYC! Though you'll like everything on the menu, the Original Style Pizza is a must try."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5V1dXMW5ORkptVDJ4Tk1uRnJXSEJSTkhaRVFsRRAB",
+            "text": "Amazing food with a nice outdoor dining area! We were lucky enough to sit outside while the weather is still good but they have a big dining room inside. The waiters are very quick and the food came out hot and delicious!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205VFNXNW5UbWd6TTBSbFkxUlRjekl0V21GSWRVRRAB",
+            "text": "Fun place with outdoor tables right on Stone st. Food isn't exceptional, but pretty good."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twU1JVSnBVaTF4WDE4dGQycHljbVppVGxOc1YwRRAB",
+            "text": "Adrian explained my food! Great service. It was about 67 dollars for the whole meal!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swM2VsaDVjbWg1YldoQ2JIaHBWRk5KTUhrd1NrRRAB",
+            "text": "Me and my child Adrian went there and they age. Us mangoes with mustard there was like 67 mangoes and we ate 41 and then had some eefoc with Kendrick and then when we left we got some barber shop hair cuts that cost a quarter"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tab05FSXdPV2RJTVdGVlVGOXFXbWxDUzFJeGVHYxAB",
+            "text": "Buenas pizzas ,son cuadradas y puedes hacer media o entera"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwNGNWTTRiVFY2Ums5SWRsWjBabVpMY3pZeFRWRRAB",
+            "text": "Excelente las pizzas! Si gustas puedes pedir en sabores combinados por cada mitad . Volvería sin dudarlo"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoRGJYZHFjR1IzUm5KMmRVdGpOVXQzY0RKWE1VRRAB",
+            "text": "Just went out here as I normally haunt other Stone street locations but quality of the pizza was excellent with excellent service and you can't beat the location.  Def Go!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGd1YzSjRXQzB0TFVJeVpXVkROMVpWUkRCV1kxRRAB",
+            "text": "Great pizza and Caesar Salad.  The staff is so nice and attentive."
+        },
+        {
+            "date": "2달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCVWNYUnhYMjFxTkhGdlVtVnhPVnAzTWtzMGNtYxAB",
+            "text": "날씨 좋은날 밖에서 먹으면 분위기 너무 좋아요! 맛있고 친절함."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFM2VFVkVWRU5PUlRGbWRFMUtWR0U1ZG1oNldrRRAB",
+            "text": "On a beautiful summer weekend in NYC, when the weather was unexpectedly perfect, enjoying a good pizza at Adrienne’s was a really nice experience. We ordered the Original Old-Fashioned Square. The crust was great, and the sauce was tasty — though in some parts there was a bit too much sauce, which made those areas of the pizza soggy. But the cheese and toppings were fresh and delicious.\n\nThe main downside was the men’s restroom. It wasn’t clean, and the floor was wet and slippery. If it was water, there should have been a caution sign. And if it was something else, it should’ve been cleaned right away. That part took away from an otherwise enjoyable visit.\n\nStill, overall a good experience."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FNFlXVklYMmh3YVdkVGIwSmlZbVZoUkhWUFkzYxAB",
+            "text": "Great pizza and great service, very fast, too."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sNlpYTnZZMkZuZFRSRWNrcFVWMU5oZG5oSVVIYxAB",
+            "text": "Adrienne’s Pizza was a total win. The pizza was seriously delicious—crispy crust, great flavor, just what you want. Service was fast and genuinely friendly, which made the whole experience even better. I’d absolutely go back."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SVFNGTjJZV3BLZEZOUFVUTnRNbEJMTjJGM05FRRAB",
+            "text": "The pizza was par for the course nothing special. It could've been warmer. The good thing is its remained a reliable place for pizza. However skip the salads- dry and not very fresh or tasty."
+        },
+        {
+            "date": "3달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213MFQwRlZjMGxmTUZCTWNucFRSRmQyVkVvd2VWRRAB",
+            "text": "Une adresse incroyable ! Vous pouvez y aller les yeux fermés.\n\nLe cadre est sympa, les pizzas sont excellentes et pas très chères, l’équipe se distingue par sa gentillesse, sa bienveillance et son professionnalisme !! Je recommande à 100%"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ZNGNtazRUSEpyWTJWNlgyMUhlVEJwTmxJNVgyYxAB",
+            "text": "I checked the ratings before visiting with my family, and I’m happy to say it didn’t disappoint. We ordered two large pizzas with four different toppings for our family of six, and it was more than enough. Great experience overall."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrd1dHUmZSR3BGWDBwSFdqQjVaMW93TUZjMGFrRRAB",
+            "text": "Loved the experience ❤️"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KUWNYY3ljek42VG14eE1uTkpRMXBzVWxCeWNtYxAB",
+            "text": "The best"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tORFMwNUljbEpCWXpSeVVqZ3dja0p3VlVoRVQzYxAB",
+            "text": "Nice waiters, decent food, love it"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1VVFXcEJRMWR3VFdGTlNtNDFNRmx1U1hkR2VVRRAB",
+            "text": "Had to hunt for the place situated in the financial district.  It was worth the time. Amazing food. Loved the homemade morzella. It had some amazing music."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xRMlgweE1URWxUVmkxbVIxbEdMVFEzTlhsTlVVRRAB",
+            "text": "Delicious Pizza and very good prices for a sit down in Manhattan. Drinks are also good. the restaurant itself is very casual and feels a little bit dated but it is still nice and great for a Sunday meal. They have outdoor picnic style seating in Iconic Stone street."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKMnd6cld2cFBmdmR3EAE",
+            "text": "The pizza here was really good. I got the original slice here and had pepperoni and spicy peppers. It was really great. The service was good also. We had a great time here and would definitely go back."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkU1oxbFFVMnRKYlRReWNHSTBUazVwVW5SZmJVRRAB",
+            "text": "Pizza & meatball salad was awesome! Atmosphere could have been a bit better. Would recommend for lunch."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKT1ZrOWFXV3A2UjE5aGVHZFhXWGRxYVhONU9XYxAB",
+            "text": "Stopped in here for an early dinner because I was craving square pizza.  The pepperoni original with a salad was phenomenal.  One of the best pizzas that I’ve had in NYC.  Great crust and cheese. Light and airy with fantastic pepperoni.  A definite must try if you are on Stone St."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsaFRXMURYME5yYjAxc1ZrSTFaMFZPWW01RWJIYxAB",
+            "text": "I’ve been going here for years, and it is still one of my favorite pizza places in the city. Great square pies, crispy cup pepperonis, etc. I bring visitors here, and they always love it!\n\nRecently had the meatball sandwich for the first time and OMG, amazing. The bread is like their pizza dough—airy and soft in the middle with a crisp exterior, almost like focaccia. Meatballs are delish too.\n\nIt was a rainy day, so Stone St was pretty dead, and we just walked in at 12:30. But every other time I’ve come over the last 10 years (lunch or dinner), it’s been packed. Res recommended to avoid a wait!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPdXhvN19kX1BPZjRBRRAB",
+            "text": "Pizza is amazing!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3MFlVSnlibUpPZVZGaVoxZ3lMWFZQVkRCeGNtYxAB",
+            "text": "If you want to have lunch or dinner in the financial district, but feel like you are on the streets of Europe, go to stone street and walk through the old cobblestone road and enjoy a more relaxing atmosphere from the bustling city. Adrienne’s pizza bar in the middle offers a classic NY pizza restaurant menu with great taste and generous portions. We stopped in for lunch and enjoyed the flavorful meatballs and delicious square Pizza. Great place if you are in the area."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLbU5sLXpKeTY3YWJ3EAE",
+            "text": "This my FAVORITE pizza place in NYC. I’ve been going here since 2007 and I visit every time I am in town. They have the best pepperonis that curl up and form little grease boats. I cannot wait to return, keep up the great works guys."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMU05nSWJVOWYtcVF3EAE",
+            "text": "Awesome pizza. Try the 4 Seasons!\nGreat staff!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJcXpwNTN6MXFEeEFnEAE",
+            "text": "Really good square pizza. I would recommend definitely."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJSzg0UFMxM3UzdU93EAE",
+            "text": "The hot wings are the best I have ever tasted!  The pizza was delicious as well. Genesis was exceptionally helpful and nice. Thank you!"
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VMSEh0SUx2eEpTY3hBRRAB",
+            "text": "La moza te atiende de mala gana, te apura para que le dejes la mesa libre y además te cobran sin avisar un 20% de propina por un servicio nefasto."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLZXkzOENzb2JlRjZRRRAB",
+            "text": "Delicious pizza 🍕 good prices"
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0xyOFA2eDd5Ymx3RRAB",
+            "text": "Un excelente lugar , deliciosa comida, el mejor servicio"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJU2JrSXFyaGVPalB3EAE",
+            "text": "Some of the worst customer service in the city. They rely on their location and couldn’t care less about customers. Made a reservation here for a special lunch only to get a call from the hostess a few days later asking “if it was ok” that they cancel my reservation because they “forgot it was cinco de Mayo weekend”. I said “no? If you’re asking then why would I just be ok with that?” To which the response was “oh too bad we’re canceling it anyway, I was just trying to be nice” and eventually hung up on me with zero effort to at least acknowledge that its their fault or take any responsibility. Ofc there was no manager available at the time and my emails have gone ignored."
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJaXVvdXFONmV5a0NREAE",
+            "text": "Les pizza sont excellentes. Nous nous y arrêtons à chaque séjour à New York"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZZ2FTXzNBRRAB",
+            "text": "We ate toppings with prosciutto and it was fantastic. Good price, good quality. Defined recommended! 🤩"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZd3RmSDlRRRAB",
+            "text": "Delicious Caesar’s salad and pizza."
+        },
+        {
+            "date": "수정일: 6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZb3F5dktREAE",
+            "text": "화이트 크림 피자 굿굿! 적당한 가격의 3-4인용 피자!\n토핑을 안고르면 그냥 피자도우에 소스만 바른 채로 나옵니다. 토핑을 신중하게 골라주세요 :-) 하우스 와인도 꽤 만족스러운데 가격대비 굿!"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMycW9xVzNRRRAB",
+            "text": "뉴욕에 갔다면 3대피자집보다 이런 현지인피자맛집을추천"
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnaWJXZG1nRRAB",
+            "text": "피자 맛나요~개인적으로 롬바르디아보다 맛있다고 생각합니다. 양이 굉장히 많은편이니 참고하세요."
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKd28zWHd3RRAB",
+            "text": "피자도 너무 맛있었고 양도 많았어요. 그리고 다들 친절하셨어요! 근처 호텔에서 머무르다 사람이 많길래 방문해봤는데 좋았습니다. 다음에 뉴욕오면 꼭 또 올 거에요!"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJcDgyN1RnEAE",
+            "text": "피자가 맛있음. 가격도 적당했고\n기본 피자 30불이면 어른 3-4인용 피자 나와요\n토핑은 원하는것 3-5불 추가 가능하나 고기류 추가시 짤듯"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaczhUVnVnRRAB",
+            "text": "피자는 먹을만함\n웨이터 껌 짝짝 씹으면서\n계산기 툭 던져놔서 계산기 들고 알아서 계산하고\n영수증 알아서 챙겨나옴\n콜라도 컵하나 없이 캔으로 툭 주는 곳 처음봄\n이게 맞나"
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBbnVqLWVREAE",
+            "text": "도우가 크리스피하고, 토핑에 올라온 소세지가 아주 맛있었음 가게도 시원시원하고, 직원들도  친절"
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURzam9HY2lRRRAB",
+            "text": "너무 맛있어요^^"
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRcU4yTHZ3RRAB",
+            "text": "맛있는데 좀 짬"
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNReE9xVVlREAE",
+            "text": "Adrienne’s Pizzabar, in one of oldest parts of The City, has become something of an institution in a relatively short period of time. But when you taste their pizzas you know why. These folks know what they’re doing!\n\nI go there now and again and Adrienne’s never disappoints. This time around I got a half of the Original Old-fashioned Square. I got it with added pepperoni and it was very good. I also got the Chicken Wings Scarpariello, which was amazing! Hot and spicy.\n\nAside from the food, another reason that I like this place so much is because the atmosphere is very chilled and comfortable. This is a great date night destination. Great place to talk and relax with your special friend. I’ve been a fan of Adrienne’s for quite some time and I’ll keep coming back. Strongly recommended!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3aDZXTUJnEAE",
+            "text": "A lively lunch spot. Very tasty pizza.  The aroma reminded us of Rome and Naples.\n\nWe tried the meatball salad. The meatball was bursting with flavors but a bit dry. Could have used some marinara sauce. We loved the roasted pepper in the salad.\n\nExcellent service."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfOGZydG53RRAB",
+            "text": "Wanted some NY pizza while here, stopped by this little gem as they are open later due to having a bar. Had to get a drink as well. Everything we had was amazing. The pizza had a fiery taste that was absolutely perfection. Our host, and hostess was super attentive, and very friendly. If you're in the NY financial district, do yourself a favor and stop in."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMcjZubmhnRRAB",
+            "text": "This is one of those special places where you can enjoy a very nice atmosphere inside and outside. The dining room inside feels like fine dining. The picnic table atmosphere outside makes you feel like you’re with a bunch of friends. We had a couple of appetizers, some pasta, and a pizza.they were all pretty good! I would definitely go back to this place."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiMlBpejRnRRAB",
+            "text": "The fried potato wedges were good and so was the original pizza. The food is good albeit expensive. The environment is nice inside and on the street but it's the service which leaves a lot to be desired. Very cold attitude of almost the entire staff except one gentleman. Didn't feel welcomed and even if I lived in NY I probably would not go back."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqbElfTFZREAE",
+            "text": "I stopped in for a later dinner with my friend. The staff was immediately very nice, and sat us right away. I loved seeing the other waiters help each other out, and they were very on top of things the whole time. We were never without water, beer, or anything we needed. The staff also charged our phones for us, which is above and beyond.\nThe pizza itself is amazing. Top quality food, and the atmosphere of the restaurant really added to the experience. It was very clean and well put together. Let alone the beautiful stone street outside!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRc19hbEpREAE",
+            "text": "I would leave this place a 5 star if Juan wasn’t so rude. My server Fabio was so awesome. He took really good care of us. But when I went to the bar, Juan “the manager” asked me why I was making a problem. Can’t believe a manager would act in this manner. He asked me why am I making trouble when I tried to buy drinks on a separate tab. Thanks Juan for ruining this experience and arguing with us when we made a reservation for today but you said it was for a different day. Someone needs to teach Juan customer service. Damn shame, because Fabio was so awesome!!!  Food was excellent though!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYLXN2MTBnRRAB",
+            "text": "Great place to eat if you’re near Battery Park and an exceptional value. The menus are a bit deceiving as the pizza portions are very large, a half can feed two people and a whole pizza can feed 3-4. The pizza was very good as was the stuffed mushrooms and meatballs."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJdlkzaWtnRRAB",
+            "text": "Good Pizza and service. It’s in a nice location in downtown and not super busy at lunch. It is however a popular spot with locals and tourists."
+        },
+        {
+            "date": "1년 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqdllPQ01REAE",
+            "text": "Sehr schöne, gemütliche Pizzabar mit leckerem Essen und freundlichem Personal. Das Ambiente ist einmalig - wir saßen draußen und waren von allem begeistert! Wir hatten Rigatoni, ein Sandwich und eine (full) Pizza. Sehr große Portionen - eine halbe Pizza hätte locker gereicht!"
+        },
+        {
+            "date": "6달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZb0luRjVBRRAB",
+            "text": "Super pizza servie sur des plateaux alu... Ambiance restau américain. Service au petit soin et conseil au top sur notre commande...\nPour 4 on a commandé 2 plateaux de half... La serveuse nous a conseillé cela plutôt que l'option full car elle.pensait que ça ferait trop..\nOn a bcp apprécié le bon esprit ..\nJe recommande cette pizzeria.."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaNHE2Mk5nEAE",
+            "text": "Our hotel Concierge recommended Adrienne's Pizzabar and we were glad to go the 'extra' distance in spite of the misty weather. They have a unique setup, outdoor seating (weather permitting), kitchen entry adjacent to the dining area, and code compliant, steep stairs to their downstairs restrooms. They easily seat individuals or groups, albeit an adjustable wait for group sizes.\n\nTheir pizzas (half cheese & mushroom/pepperoni and spinach & crushed/dried tomatoes) feed our group with plenty to spare. The salads, three different, offered ample serving for interested couples or a hungry human. We also ordered the eggplant parmesan and a broccoli side dish, neither of which I tried.\n\nThe service (Eduardo) did a splendid job to make our dining experience relaxing and enjoyable, never letting our water bottle near empty (until the end). As expected, they included gratuity with the group seating. Thanks again, Eduardo AND the Adrienne's Pizzabar Crew!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzclpLSEVREAE",
+            "text": "Whenever we visit New York City, a stop at Adrienne's Pizza Bar is a must, whether it's for lunch or dinner. The star of the show? Adrienne's Original Old-Fashioned Square Pizza. This pie is pure perfection with its crispy crust, flavorful sauce, and the perfect blend of cheeses. Each bite is a delightful experience that brings us back every time. And let's not forget about their Rosa Sangria—it's the perfect refreshing complement to the meal. If you're in NYC, do yourself a favor and visit Adrienne's—you won't be disappointed!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPeG9MMjBnRRAB",
+            "text": "Got a full four season pizza for us, toppings are way too salty and less natural flavor. The portion is enough for two ppl, we had some slices and saved some with to-go box. Manhattan cocktail is bitter than expected, not that classic taste. Mediocre food experience. Music inside is loud, I think outside seat should be better."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6aWFUZVlREAE",
+            "text": "Terrific vegetarian pizza options, all prepared pan style. Highly recommend the olives and artichoke pizza. Outdoor seating is charming, indoor space small but comfortable. Clean bathrooms and solid service. Would recommend especially during warmer months."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREMDlXRnhBRRAB",
+            "text": "6 Stars. I was told we have to come here vs. pizza by the slice places. Service was quick and efficient. Ordered Chianti, Milano Old Fashioned and Four Season Pizza with prosciutto, olives, artichokes and mushrooms. A new standard of pizza for me. Bellissimo !!!"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlbVBDdU9REAE",
+            "text": "The best pizza in NY city! We take NY city trip just to go and eat at Adrienne’s, they have the best pizza! The menu is very simple with few great choices, you can order just simple cheese pizza to any other fancy pizza, pasta and salads, I always take my friends and everyone really enjoyed it so far!\nThey have indoor seating and outdoor seating, I prefer to sit outside on street and enjoy the atmosphere of NY city! They have very good selection of drinks also, the service is absolutely great, the food comes out fresh and delicious!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtazRfS1VREAE",
+            "text": "Something good going on here!\n\nAdrienne’s has a full bar for those of us who needs some of that liquor 😈 the spot is clean and with a snapped the spot it’s full and people buying pizza by the boxes so that tells you if it’s good or what.\n\nThe service here is great, servers are happy and helpful, making sure you are good!\n\nDrinks are great and a big selection of wines. It’s one of those spots that you see it and you think is not a pizza shop.\n\nHad meatballs and also Burrata for apps , ordered the stuff ricotta and spinach shells👍🏽👍🏽👍🏽, arugula and prosciutto pie and it was banging!\n\nFor dessert I tried the cannoli with the pistachio cream and I fell in love! Also tried the tiramisu and  it was perfect.\n\nComing back here for sure. Just got hungry writing this and thinking about the food they have 🤤🤤🤤🤤"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkeElhOEJBEAE",
+            "text": "Great service and amazing food. Top notch attentive staff. Pizza was absolutely delicious. Great selection of wine and beer as well. Fairly quiet place, which is really nice. I would definitely come here again and recommend trying it to anyone"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxMm9xTHhRRRAB",
+            "text": "Initially we went here for lunch and placed the order. Within the next 5 mins, we realised that we had miscalculated the time and our ferry to the Statue of Liberty was in the next 15 mins. It was impossible for us to have the pizza and reach there on time. So we requested if the order could be cancelled and we were ready to pay for the whole order. The server came back saying the pizzas were nearly ready and would be there soon. But since we didn’t not a single minute to spare, we requested to get us the bill and we would pay and go without the pizzas. To our pleasant surprise, they did not charge us at all understanding our issue. This really touched us.\n\nAfter our ferry was back, we went to this place again on the same day , this time for Dinner :)\n\nGood pizzas. We went for the traditional square pizzas. They have good customization options of half and full pizzas. We went for pepperoni and sausage on one side, mushrooms and spicy peppers on the other half. Felt the pepperoni half was a bit salty for my taste. Veggie half of the pizza was good but was a little sour.\n\nThe staff was very friendly and remembered us from the afternoon. We asked them to charge us for both the lunch that we missed and the dinner. But they were very courteous and charged only for the dinner.\n\nWill highly recommend this place!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHN2Y2TGNBEAE",
+            "text": "Loved our dinner here! The drinks and pizza were both great. We ate outside which was perfect for our group. The half red/half white old fashioned square pie was tasty. Would definitely come back!"
+        },
+        {
+            "date": "1년 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEd2RESFh3EAE",
+            "text": "Das ist ein wirklich superniedliches Pizza Restaurant. Ich war dort mit Freunden von mir und wir haben zwei Pizzen bestellt für 5 Mädels. Die Pizza war supergut und der Service war auch sehr gut. Wir hatten alle eine super Zeit und haben den Service und das Essen sehr genossen."
+        },
+        {
+            "date": "10달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmcGRUb1N3EAE",
+            "text": "Muy buen sitio cerca de Wall Street. Para ir con niños o amigos. Muy bien de precio y el servicio es top. Muy recomendable.\nPizzas son buenísimas!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqOWZYa0FnEAE",
+            "text": "Nous avons mangé la traditionnelle Old Fashionned. C’était un régal. Nous avons commandé une demie pizza pour deux. Ça peut être suffisant selon le type d’appétit.\nRestaurant très sympa. À faire si on a envie de tester les pizzas de New York !"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYdF9lODFBRRAB",
+            "text": "Came here with friends from Europe who were craving NYC pizza.\nThe pizzas here are absolutely delicious plus there are other items on the menu including salads and pasta so not everyone has to eat pizza. The pizzas, btw, are huge (even the half portion-sizes). We ordered quattro formaggi, the four seasons (my fave!!) and the Original Old Fashioned with add-ons of pepperoni and onions.  I had not been here before but several friends suggested it when I asked for recommendations for great pizza spots that also take reservations. I had one minor issue with the service. My friend and I both ordered wine: he had a glass of prosecco, I had a glass of pinot grigio. Halfway through our meal, I reordered my wine but was served prosecco. After one sip, I told the server she had delivered the wrong wine. she was miffed. They finally took the prosecco away when they saw I would not drink it and delivered the pinot. I was treating my friends and paid without giving the check too much of a review but today I did look and they had charged me for the extra prosecco that I had not ordered as well as for the second pinot grigio. It's not a big deal but leaves a bit of a bad taste."
+        }
+    ],
+    "reviews_count": 84
+}

@@ -1,0 +1,516 @@
+{
+    "name": "Kori's Eats",
+    "place_id": "ChIJAdxZadz1wokRQfbnMXsynFw",
+    "grid": "BX1",
+    "address": "2515 Third Ave, Bronx, NY 10451, USA",
+    "rating": 3.8,
+    "user_ratings_total": 243,
+    "phone_number": "(718) 401-2462",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kM2FVcG1MVzloT1hGc1Z6QklORzltUTFSdWExRRAB",
+            "text": "Tried there food on Uber Eats there oxtails are so good"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4eE9FUTNRa2RKYm00elVEaEtRVTVXVjBocU5uYxAB",
+            "text": "I tried the red velvet waffles and chicken wings at Kori Eats and I was honestly blown away. The waffles were soft with a hint of sweetness and the chicken wings were crispy and seasoned just right. Highly recommend if you want something different and delicious!"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poNk5IbGljVTVxTlVWTWJIRjBTbmRRYzJrMGMyYxAB",
+            "text": "I had the oxtail omlet and it was delicious. Plenty of oxtail throughout the omlet.  I ordered waffle, but was too full and satisfied to eat it. Looking forward to trying other items. I ordered on Uber Eats.\n\nUpdate:\n\nWhat a difference a day makes. Ordered again on 9/28, and the preparation was 3 stars at best. The Sunday crew needs to keep up the standard. Will order again. Hopefully it's an isolated incident."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0MFpEZExWa2h0TUdGNVoyUjJiRVZyVTNVMFNFRRAB",
+            "text": "Never will I ever come here to get food again!!!!!!! I got off the train on 138th and I wanted to grab something fast because I was really hungry but I was on a time crunch.  I go inside koris I never been to this restaurant before so I’m trying to figure out what to get how to order. One their staff not very welcoming and when ordering I see prices on the menu and they are telling me I can’t order small sizes on the menu it says small sizes. I order wings and 2 sides Mac and cheese and yams which were two small sides food comes out to $30 insannnnneeee!! I pay it not complaining because I’m thinking in my mind it should be great for this price! The food was disgusting!!! The Mac and cheese was so dry like it had been sitting out all day the yams were bland the wings were ok! Never going here again they staff was not helpful what so ever!!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSMVFuY3laV3BqVTJwM1lWZGlRa04yYVUxNFdHYxAB",
+            "text": "Nasty service girl. Nasty!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poYWQyNXJZMU53U2xsR2NXZFNURXg1WTI1bFEyYxAB",
+            "text": "Service sucked and the food was very overpriced. One person handling everything from money to serving food. Food was decent but not worth the nasty attitude the cashier had."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaWGF6WldibWRQVDNkNmVsb3lVR1pXYmxWSU4wRRAB",
+            "text": "The food probably would have been good if they actually cooked it all the way. It smelled deliciously seasoned but I cut into my chicken and it was so raw it could have walked around and started pecking seed off the ground. Perhaps I shall try again another time. Actually, perhaps not. Sorry Kori. 🙃🙃🙃"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkalVGUjBXV0l0YldwZmJVOTFkRkJwV2paalEzYxAB",
+            "text": "never again will i come here. one person was handling the food, the register, and all the uber eats orders at the same time. the bathroom had no soap, and the worker wasn’t wearing gloves. i ordered the jerk chicken and it was salty, nasty,…"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ObWQxaHNRVTFEUVhkZmNsbFdaV2hTUTJobVIwRRAB",
+            "text": "Candice was amazing, she prepared our food with love. Hopefully come again."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1RlNIRjVRalF3UmxoU1QxUmlSSGc1TkY5RWQwRRAB",
+            "text": "The food is good and is always on point. Russell is the best!! She always smiling, says hello, and is always professional"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GQmRUTmpaSEJsTWxoVVdHTTNNWHBOTkhKWk5tYxAB",
+            "text": "Always bangin!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sTE9UWnFhMWRFYmtoV04yOVFVVVpTYjNaRk9IYxAB",
+            "text": "So disappointed saw it on TikTok and decided to check it out but I didn’t like anything I ate."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sR2IwUkVSelZNV2pSdUxUSXhjRmhRTUcxM05FRRAB",
+            "text": "The food is delicious.  Very welcoming environment."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aSVJWSklibTV6Tm1aTVZYQkhXalZFV0ZoSldYYxAB",
+            "text": "I bought oxtail. Yummy. Very clean and organized food station."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0eVIwRklRblZHU1U1SGRsRkhhRk5sTjJ3dGEwRRAB",
+            "text": "Very friendly atmosphere, restaurant is clean"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwdFJGaG9XazgwT1ZCbFFYTkVWWEZHTW5sUlZWRRAB",
+            "text": "The food was amazing 10/10"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CYVdGWkRSR3haWmxKWlltaHRTa05qZFc1T2JGRRAB",
+            "text": "Waffles and chicken tenders definitely not worth the price I paid."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKWlkyaEplRkUzUlVsT2RXUm1lV2hWV0U1UmNFRRAB",
+            "text": "I would never come here ever again. I ordered a large oxtail with rice and peas. The cashier did not let me know that there was not any cabbage or sweet plantains. She just gave me rice and a few pieces of oxtail. Once I asked her where the two sides were , she said they ran out. I asked her for something to substitute the two, and she said no, that’s all you get . She was not helpful , not nice and very dismissive . I would NEVER come here ever again. OVERLY PVERPRICED and the food is definitely not worth it. PLEASE DO NOT PURCHASE FROM HERE, and this is my neighborhood restaurant… DO NOT EVER BUY FROM HERE.. 8/1/2025 . Late night food pick up."
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQteU4yUXR3RRAB",
+            "text": "They got their fire back.\nOxtail, mash potatoes, yellow rice on point. Generous servings and friendly atmosphere. Cool."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xRNWFqQmhObWszUVdOYVRtNVVTM1F0YTNkRGJrRRAB",
+            "text": "Food was on point"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214elJVZzBla2x6VnpaV1gxWlVTVkZ4T0VSa1ZWRRAB",
+            "text": "very good food and large serving size"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4b2RIWTNVRVJEVjBkVFdTMWZVbkV5WlU5bVZVRRAB",
+            "text": "EXCELLENT FOOD AMAZING STAFF FRIENDLY STAFF"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNNVIxTk9MVmswVUhoMk9YbFBZM2RuTWtwRU5YYxAB",
+            "text": "The experience was lovely. Candice was service was exceptionally well."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNT19nNjM1NjRLSkN3EAE",
+            "text": "Great Place, Wonderful Food And A Satisfying Customer Service"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJNld5UGlVeGZ2QXVRRRAB",
+            "text": "Candace and Precilla are absolutely wonderful! Great service, personal atmosphere, and the food was phenomenal!!!! Thank you so much from your North Dakota guests!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5b1dXUk9hbk0yYVhseVFqTmZieTFPUTBaV1pFRRAB",
+            "text": "Delicious wings and Mac and cheese 🙌…"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMLUl3NTZfeU1QY1ZnEAE",
+            "text": "The employees were so sweet, they were quick and made my order with love❤️"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJakRpN2J0aDlTVUh3EAE",
+            "text": "Great food, and amazing customer service, will be eating here every time I'm in the city😋🤤❤️"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPQ1B1clB0NXZmQWhnRRAB",
+            "text": "Good , food I dine in & took out !!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQdUZ0LUNSdHJia0RREAE",
+            "text": "It looked so good I digged in. Yet forgot to take a picture of what I ate. I more than satisfied especially with being pregnant this indeed will be part of my cravings."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNN3kwYjdmekkyNjNnRRAB",
+            "text": "Always pleasant here. Almost 2 years best service in house and via uber eats"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPUzAwOHpsZ19feW1BRRAB",
+            "text": "Love it"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNdUl2NDZULU5DRjBBRRAB",
+            "text": "The food is amazing and I love the pineapple ginger juice"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJRzVfODdiZ3RhcHR3RRAB",
+            "text": "The Oxtail Pasta is amazing, it has a little kick and it’s creamy. I love that the bone was in. It’s something about eating off the bone makes me happy. I also had the carrot ginger lime juice 10/10.  I’m actually waiting on my oxtail omelette and waffle to go. I’ll come back with that review. ❤️"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VNYWl0UE80X295Vm5BRRAB",
+            "text": "Curry goat catering was bad. Big chunks of goat wasn't cut up properly. The goat gravy was watery and no potatoes in it for thickness.  Then they put raw onions and raw bell peppers in it. Never will I eat there again"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJclQ4NG5IbzRMYzVBRRAB",
+            "text": "Very good Jamaican food and nice people"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZbE5YR1hBEAE",
+            "text": "It's okay to grab a quick snack, but for a full meal, not advertised, look somewhere else. Enjoy eating!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvbDUtci1RRRAB",
+            "text": "I was excited to grab some food. The food a hot station looked over cooked and old. The menu with chicken and waffles they didn’t have anything but regular waffles and chicken tenders. I asked for the cookies and cream milk shake and she said no. But they have all these poster boards with false advertisement"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvemVfcDJ3RRAB",
+            "text": "Had the nastiest chopped cheese I ever tried from this place."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJaTRHN2NBEAE",
+            "text": "Food was on point ☝️🌞🌞💯💯✨✨"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRczREeklREAE",
+            "text": "Do not order the steak and cheese. You may receive what I did, which was a couple of pieces of lamb gyro on dry bread. TERRIBLE."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNReExTY3Z3RRAB",
+            "text": "😋😋"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRNE5TY3BRRRAB",
+            "text": "I usually order from here all the time and love their oxtails with rice and peas. Tonight, I decided to get chicken tenders, and I was so hungry that I started eating right away. The texture felt gummy, and when I looked at the meat, it…"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnb2ZuMzZnRRAB",
+            "text": "I live next to this restaurant and when it first opened up the food was amazing everything was good everytime  but now the food is horrible they sevr spoiled soup may times I order soup from there and it's spoiled ad the curry goat is slimy and tastes like mildew the oxtail taste like it was cooked last night and put in the fridge and I don't know what else to say about this restaurant but they need to do better or change the people that are working in there"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBMzVybEVnEAE",
+            "text": "I come here 2/3 times a week for the sweet chilly chicken with rice & peas. A1 !!"
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyb0tYMFp3EAE",
+            "text": "Nice quiet place, great food"
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1b2N2N0lBEAE",
+            "text": "Priced too high - food taste and flavor doesn't match price, and flavor lacks personalilty. Also, the same food is served every day. You won't find any cabbage, greens, black-eyed peas, fried okra, squash, smothered chicken, smothered…"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBZ0ltS3l3RRAB",
+            "text": "This place was amazing ! Rushell was amazing I love her energy & her customer service skills 🔥🙏🏽 the food was very very good but I was the presence for me🙏🏽 may God continue to bless the owner & this business in Jesus name ! I love you guys 🙏🏽🫶🏽🫶🏽🥹🔥☦️"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfMW9mNWxBRRAB",
+            "text": "Food is good but over priced"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfX3IzMkF3EAE",
+            "text": "Caribbean flavors in the South Bronx, love their no nonsense service. Amazing plates and decent prices. I do miss the spicy Jamaican patties."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREM3BPR3F3RRAB",
+            "text": "Man, Kori’s definitely surprised me\nI am super happy I got to experience how good and fresh the food tasted.\n\nThe oxtail omelette w| Swiss cheese (my cheese choice) was masterpiece. Filled with oxtail,  a side of avocado & 3 hash browns (super filling)\n\nThe waffle chicken sandwich was good to me, light crunch of the chicken patty and the sweet taste of the waffle … just did it for me\n\nThe Ackee and Salt fish (no words) just👌🏽\n\nThe Bailey’s milkshake is velvety, smooth and creamy a delightful treat✨\n\nKori’s is now one of my favorites 🥹🫶🏼"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzc2REQVFBEAE",
+            "text": "I wish i could give this food 0 stars! It was disgusting just to look at. I opened my Chicken Rasta Pasta bowl & saw a huge bone & the pasta was SOOOO soggy & mushy! It looked like Soup, couldn’t even eat it! & don’t get me started on the 4 soggy oily onion rings, highly disappointed!!!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURObjZyQ09REAE",
+            "text": "Rasta pasta is supposed to be creamy and perfectly spiced and pieces of chicken. What I got was dried pieces of pasta mixed with all sizes of bones because they couldn’t bother. The pasta looked destroyed and I couldn’t enjoy eating it without biting into pieces of chicken bones and skin. I also ordered bbq chicken but was called bc they didn’t have any, so I said ok to the jerk chicken yet the white rice I ordered, was changed without asking to rice and peas. This isn’t the first time the PRICE doesn’t match QUALITY. It’s the only place in the blocks radius that sells hot food but I’m not spending a dime in there anymore. You don’t know what you’ll get, will it be fresh or have sat there? You take a gamble when ordering. I spent 60$ for what? the size plates are too pricey for what you get. The only saving grace is that we crave jerk chicken and there are no other options for that,  yet."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4LXA3N1JREAE",
+            "text": "I am highly disappointed with the quality of my food. If you know that you’re closing, don’t take orders. I ordered the shrimp Rasta pasta. It looked like it was sitting out all day! The shrimp and noodles were extremely dry and worst of all, it was cold! Why would you sell food knowing it’s out of temperature!  Made me wait over an hour so that the staff could scrap up dry noodles and shrimp. I will never order food from this establishment again, I’m reporting it to DOH and I’m telling anyone who listens not to eat here. This is how you get treated in the hood, bet if this was downtown they wouldn’t dare. Very disappointing."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNteWZLZFJnEAE",
+            "text": "This food is SLAMMIN. We ordered rasta pasta, shrimp mac, ox tail and roast pork as well as the bacon waffle. We got two shakes on the side and I cannot describe how amazing the meal was. Wonderful service and great meals!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtanJETUVnEAE",
+            "text": "I constantly buy the same dish, these are tails and pasta with gravy, I understand that there is little meat in the tails, but today they put me on a plate only bones with fat, without meat 😒😞😔😟…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5aDhhUGFREAE",
+            "text": "Modest steam table type eatery.  Happy to quickly get some ackee and saltfish with grits.  Made a hearty lunch with spot on flavors."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzdXZmOXZnRRAB",
+            "text": "Good restaurant, good flavors and price is acceptable, definitely one of my favorites!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlaDRiTjl3RRAB",
+            "text": "I have got food from here a few times. It can be fulfilling. However, more than twice an order was forgotten out of the bag/order. The fried Oreos were just disrespectful (brunt) the last couple of times I’ve ordered them.  (As if they double-dip an old patch)"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXeGVmN0pBEAE",
+            "text": "I love it jerk pork on point!!!!!!!!! And today oxtails was slamming so when I don’t feel like going to Brooklyn Flatbush I got a authentic Caribbean Jamaican spot right across the street for me! Only a real West Indian with no good food and that food is great!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSeTV6bi1nRRAB",
+            "text": "Let me start by saying this Runn.from this place ...... they're not community friendly I was standing online ordered my food they didn't have change at the register... So basically I had to wait for them to go to the bank get changed come back. .. they didn't even hand me the food yet I asked for a refund they didn't want to refund me my money I gave them $40 ...... Food there is way overpriced not authentic Caribbean food if you ask me The girls at the register are nasty and rude Do not spend your hard working tax dollars with this restaurant........\nGo somewhere else your money will be well spent.......... Management is no help He directed me to the cashiers that was rude to me Don't spend your money here"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzLUpYLTFnRRAB",
+            "text": "A wonderful place to pick up food. The food is above average to excellent. A dozen variation on chicken starting with jerk chicken to stew chicken to many other wonderful variations. The salmon is to die for. Oh and I am just not a vegetable person but the way they are done here has made me a veggie enthusiast. You can’t go wrong here with anything. An unexpected gem here."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEdnJUZ3FnRRAB",
+            "text": "They have a great variety of food that taste good! The frozen fruit punch is a good pick also"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMcVlfVE13EAE",
+            "text": "Went into Kori's eats and ordered a burger & and fries, and my wife ordered chicken strips & waffles. Paid in cash and didn't ask for a receipt & they didn’t give me 1. They are behind a tall window, so it's hard to hear. We had to repeat what we wanted 3 times. In 10 or 15 minutes later, another lady called out a number, made eye contact with me, and lifted the bag, and since I wasn't given a number, I took it and sat down. We pulled everything out of the bag to find an order of chicken strips & waffles and an order of wings & waffles. They were busy, I didn't want to complain, and I didn't want to wait another 10 minutes for my burger & fries. I also wouldn't think the health department would approve of them giving the food to someone else since we had opened everything at our table. After we started eating, a girl came in to pick up her order. The woman who gave us the bag of food realized she had given us that girls' order DEMANDED that we pay the difference of the orders. NEVER in my 69-plus years of life has someone given me a wrong order and even hinted that I should pay the difference. It wasn't like I had gotten an order for 3, 4, or more people. 2 people 2 orders. I had to wait for her to take orders from 3 more people  before I could pay her. It is somewhat of a shady area, so I wasn't about to walk out. On top of this, 95% of gas stations that sell chicken strips most likely have better chicken strips than Kori's. The food was bad enough to never go back, but the service was worse."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyOVplSHZBRRAB",
+            "text": "Walked pass and saw the oxtail omelette that’s what got my attention. But once in side the food looked so good I forgot about the omelette the Rasta pasta with oxtails 100/10 the service is superior the vibe was even better. They really are a gem I’m willing to drive 6 hours for. Blew me away before going back home I had to stop and get more food. Keep up the good work"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQck9yQkVREAE",
+            "text": "It’s 3:45pm the day after thanksgiving and just came back from traveling.  Was hoping to order food but waited over 30 minutes for cashier to show up for their 3pm shift. Not sure what kind of business this is; extremely disappointed. If employees don’t show up, it’s the Owner’s responsibility to make other arrangements.   I’ve watched multiple people come in to restaurant to order food and be told no cashier so they can’t order,  It’s unfortunate."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNULVliUUhBEAE",
+            "text": "Their Jerk Chicken was RAW on the inside. Absolutely disgusting! Never would recommend or eat at this place ever again."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNobXZ1QzJ3RRAB",
+            "text": "Top tier! Customer service was great and the food was fresh and hot! The environment was clean and pleasant!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREb28tVXZnRRAB",
+            "text": "For the Price I expect to get what I paid for. Stew peas is supposed to have either oxtails or pigtails. If you can't afford to sell it and give ppl what they pay for please take it off the menu.I purchased the stew peas and white rice meal. It was not at all tasty. Plus the quality or content of the food did not measure up. It was not authentic stew peas and rice. It was more like rice and beans with a little seasoned meat . Turkey necks that were boiled out and 1 oxtail to be exact. If you are not willing to give ppl a decent plate of food. Don't take their decent money. I didn't give you 80% of what you charged. Or 75%. I paid you 100% of the $18.95 you charged for a medium size container of rice and beans. That was not authentic Jamaican stew peas. I could have gotten white rice and red beans from any Spanish restaurant for way less. I decide to make this review bc this is my second purchase that I was deceived by this establishment. The first was the bun and cheese. For a bun and cheese sandwich I expect authentic Jamaican cheese. The cheese was propped up to give the illusion of a complete slice, however it was not . It did not cover the bun nor was it Jamaican cheese. Again, I could have gotten regular cheese anywhere else. This is just wrong. Don't  believe I'll return . NOT Authentic Jamaican food in my opinion. Always aim to please, not deceive. The worst feeling in the world is not getting what you paid for. It's a form of extraction or thievery so to speak."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR0MXN1VHlBRRAB",
+            "text": "The lady's are ridiculously slow, plus they over charge for food that is cold & a bland. The food only looks good on display. It really amazes me how I ordered Stew peas $18. & Oxtails $24.They have another location, that is further up in the Bronx. Which is much better in every aspect. You would think that this one would be even better, because the owner actually 🙄 be in this location."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkbmFTeVVBEAE",
+            "text": "Not really the type of place you sit in and dine at , but they have those hard seats inside if you choose to. The food is mediocre. They need to spend more time stirring it up because I've gone in this place at least 5x & EVERY SINGLE TIME, THE PASTA LOOKS DISGUSTING!!! IT LOOKS DRIER THAN THE SAHARA!! Such disrespect to the pastas.... I've NEVER had salmon and rice where every other bite. I had to spit out bones that I almost choked on...SMFH💀... The shrimp was either overcooked or too soft and mushy, which is not consistent considering it's all in the same pan. The Mac & cheese is underseasoned, bland & dry. Idk if there was really anything supergood here except the service with the ladies is exceptional.  They are very sweet & friendly, but I'm sorry guys the food is ridiculously overpriced for what your getting. Nor worth it at all..."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5eXVHVEtREAE",
+            "text": "I did an Uber eats order. Rasta pasta, and garlic Parmesan wings. The pasta was not al dente. It was super mushy. Like it was heating up all day long the shrimp, ha! The wings, very Disappointing.  I guess you have to order in person to get good food quality from them.  Food was high price, quality was low grade."
+        }
+    ],
+    "reviews_count": 72
+}

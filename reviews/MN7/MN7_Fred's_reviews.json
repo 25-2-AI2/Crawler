@@ -1,0 +1,572 @@
+{
+    "name": "Fred's",
+    "place_id": "ChIJl6Gl0IVYwokR-wDytWOCXzQ",
+    "grid": "MN7",
+    "address": "476 Amsterdam Ave, New York, NY 10024, USA",
+    "rating": 4.4,
+    "user_ratings_total": 961,
+    "phone_number": "(212) 579-3076",
+    "reviews": [
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSSE5qQTJWalpGWlRWMU4yNTFjVmhXUzJ4c05WRRAB",
+            "text": "Tonight we had a great dinner with our one year old. We were sat right away on a busy Saturday night with a highchair in the dining room. We really enjoyed all of the special framed photos of dearly loved dogs. We ordered the hibiscus cocktail and the basil cocktail with Gin! Our server was present, and she was friendly. For dinner we enjoyed the famous Macaroni and the Mom’s Meatloaf entree with garlic mashed potatoes and steamed vegetables- perfect to share with my little one. Everything came out quickly and was yummy. It was special to dine in a family restaurant in the middle of the hip and busy UWS. Thank you for the hospitality!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Kb09GbG5helZpVldsVFZWVkhiV2gxVDBaTFZHYxAB",
+            "text": "The place seemed good from outside but inside there where on where only kids who where yelling and kinde ruining my day i tried the margarita food but it was absolutely disgusting pls don’t go there for a fun time cus its not gonna be fun also no room to sit."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5c2FUWnNYMnN6ZEZWTWRXRTRaREJGVUZGT1VsRRAB",
+            "text": "This cafe is super bad. The walls are full of overstimulating pictures which spread across the whole restaurant that makes the interior really unappealing. The food is awful and bland, the atmosphere is too woke and the staff is lazy. The people eating there were loud, kids were running around and it was like a zoo."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkV2RHWXlMWE5DZFhsWFQwVlJZbGhxTWpCWmNuYxAB",
+            "text": "The Mac and cheese is a must when I'm in town. Love this place"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zeVlVeElkek5TYm5OMVZqZHZSRzVhU2pKNU5WRRAB",
+            "text": "Fred's is our go to for a large group of people. The food is very good and reasonably priced. The staff is incredibly friendly. Plus they live their tagline \"Come! Sit! Stay! We were there for over two hours and they were happy to let us be there."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwRVRETnVRM0kzT0hCaVdqQTFiRlp3UkRKa09VRRAB",
+            "text": "My uncle used to come here all the time since he lived super close. Since he passed, I haven't been able to come as much as I'd like. However, whenever I do come by myself or with others, it feels like he's still around."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xweWRVWkhNVVpZUVc5T1h6SjJWMk5PWDJGdE9VRRAB",
+            "text": "Burgers are always good. Sat near the bar sonny friend and I could talk, back dining room was too loud for our conversation"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1V1EwOHRhR2RTTW5OQ1YydHRkRlJYYWw5WmEwRRAB",
+            "text": "food was  amazing"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5SFJGRlhaM2hSV0hSV2JGOTNXRkpCVTJFNGJWRRAB",
+            "text": "Me and my dog love this place !"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WQ1FYZDZOV05MUWtvMFRVZEllRmxqUTJWWllWRRAB",
+            "text": "Cute, dog-themed spot! Food was delicious. Got the steak one night, the 1/2 chicken another. Kids got the Mac n cheese (sharp cheddar)."
+        },
+        {
+            "date": "2달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pRNWFYSXROVVp1UVdKemFHcHdTMGx4YURGcExYYxAB",
+            "text": "Un très agréable dîner. Nous sommes tombées ici un peu par hasard et ça a été une très belle expérience que nous allons réitérer! La nourriture est très bonne et la déco est géniale avec toutes ces photos. Le service était particulièrement agréable. Au top."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOb2JVWXlibTFqUWpCWWJHdHhSalpQUkhaRVYxRRAB",
+            "text": "Quite possibly the best meal I’ve ever eaten anywhere, at any point in my life. I had the wild mushroom and arugula flatbread with caramelized onions, goat cheese, and hot honey - a perfectly balanced blend of salty, sweet, bitter, and heat - a meal so perfect that my 15YO son, who doesn’t even like mushrooms, admitted it was the best pizza he’d ever eaten. He liked it so much, in fact, that he asked if we could swap our meals, and I was happy to oblige as he had their famous mac & cheese which was absolutely out of this world. Neither one of us could decide which entrée we preferred!\n\nMeanwhile, my wife had the turkey burger which was flavorful, juicy, and not at all dry as is often the case with turkey burgers. Very well-seasoned, as well. Cocktails, appetizers, prompt and friendly service - it was just an absolute joy dining at Fred’s. Keep up the good work, folks!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201SWJqVmxiRzVPUzNOTlVIWlpNRWN3YzBONE5VRRAB",
+            "text": "Raisin Bread French toast is worth the stars alone. Def will be back"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKYU5uZ3lWMUZCWWpOTGRrVTNORVF5YVVwelJYYxAB",
+            "text": "All around fab. And great vibes!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201WGVsODJNbWRXYW14WVZIcEZkM1oxT0Uxc1RYYxAB",
+            "text": "Great food. Friendly staff. I enjoyed the Buffalo Chicken Mac and Cheese."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VNZUZ0OE9zcGJyZTBnRRAB",
+            "text": "Good spot and friendly service. I like the buffalo chicken Mac and cheese. Can get busy but never had any issues."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChRDSUhNMG9nS0VPYWxzdmZzX0xWZxAB",
+            "text": "The service was good and so was the atmosphere but the food…. The Mac and cheese and Mexican corn was the only good things we tried and we tried a lot of things…"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQN3Z6YXlRLXRLSUxREAE",
+            "text": "Known for their Mac and cheese and love of dogs (named for a very good boy). Very dog friendly!\n\nGreat casual dining spot. Food is very good. Service is fast and friendly; thank you Justin!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZeUlDdTJnRRAB",
+            "text": "Food is always amazing. Interior and service are super inviting and charming. Music is bomb! Go there for the food, stay there for the music and the friendly staff!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvN0xMaUNREAE",
+            "text": "Great place with a pleasant terrace and nice food! The whole concept of the bar and the pet friendly part makes it even better."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJOGNqOTd3RRAB",
+            "text": "Everything was perfect!! And very friendly waiter.\nCan’t wait to be back to put a pic of my dog on the wall!!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3aFkzdUR3EAE",
+            "text": "The new bartender Micheal at Fred’s now with the cool vibes and and the tunes. Love his energy and mostly his attitude. I am coming back always."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3aFkyaXNnRRAB",
+            "text": "I came here for the bar next door, but after getting fairly busy, I went to the bar next door with friends. I can’t emphasize how incredible Fred’s was as a bar. Michael, the bartender, immediately made us feel like we were regulars. Drinks and food were fab. Honestly, I’ll be back to see Michael and the good vibes. Thank you, Freds!"
+        },
+        {
+            "date": "7달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3dlAzdjVRRRAB",
+            "text": "C’est un endroit génial. Une ambiance hyper conviviale et une nourriture vraiment très bonne. On a pris des salades, rien à redire que ce soit en terme de quantité, assaisonnement, présentation etc… Je ne pensais pas qu’une salade au bleu puisse autant me faire plaisir ! Bon choix de bières. Service parfait. Merci !"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnaXB1NGJREAE",
+            "text": "Great place for the family. Easy going, nice food and friendly staff. Good NYC vibe. As dog lover’s we really liked the dog appreciation too."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfOC1tMEdnEAE",
+            "text": "Perfect casual food spot with great staff"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmeHV6MW9nRRAB",
+            "text": "Service is very slow on a slow night.  Servers walking past ignoring us."
+        },
+        {
+            "date": "9달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmbW9LbEtREAE",
+            "text": "Restaurant sympa avec une ambiance familiale. Nourriture très bonne et service impeccable. Merci à Eva pour son sourire et son accueil"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNma1p6dTdRRRAB",
+            "text": "Cozy neighborhood tavern with really engaging and fun staff! We celebrated a birthday with a group of 8 which included some meat lovers and vegetarians and there were ample choices for everyone’s tastes. Food and drinks were delicious! Highly recommend the crispy brussels sprouts, 8oz burger, buttermilk fried chicken, and molten lava cake for dessert! And definitely head next door to Scarlet Lounge for a nightcap at speak easy vibe lounge - you don’t even need to walk outside!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzZ0lpa2VBEAE",
+            "text": "Delicious half and half Guinness pour by Abi!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzcEotc0tREAE",
+            "text": "What a beautiful place. Surrounded by hundreds of pictures of dogs, with great service and awesome food. The attention is flawless, kind and always with a smile and a greeting. The food is delicious and I recommend the turkey burger and do not leave without trying their cheesecake. A work of art. The best, the puppies on the walls. What a great place. Will go again without a doubt!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYZzRyNUZBEAE",
+            "text": "Great atmosphere but not the best food maybe. Ok, but we enjoyed it anyway.😊"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYLXJpNEVREAE",
+            "text": "Perfect restaurant. Staff is incredible, cutest dogs on the walls, burger is 10/10."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURVZ19DQ0tREAE",
+            "text": "Great atmosphere especially in the bar area to enjoy drinks, food and a game on tv.  The winter especially get a spot by the fire place.  Been going for years."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuLVplMUV3EAE",
+            "text": "Nice, affordable place with a good NYC vibe. Has a bar but also a separate room for tables, and a nice little space outdoors. Their gin and tonic was really good and so were the fries!! Ladies room was clean, always a plus..."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIdjRtcl9RRRAB",
+            "text": "That burger was so damn good I needed to post it twice.. #goodeats #cheeseburger amazing"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIdjdHTzdBRRAB",
+            "text": "So I recently had a burger here and was just amazed at the flavor not to mention it was cooked perfectly. This is one of the best burgers in nyc bay far...."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIa1lQcjdBRRAB",
+            "text": "Buen lugar para cenar. Nosotros solo pedimos dos vinos de la carta y probamos unos nachos muy abundantes. El servicio estuvo atento y el patio estaba muy atractivo para sentarse a tomar una copa y conversar."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIMnFYTHFnRRAB",
+            "text": "Had Fred’s for the first time today and it was just such a great experience from the service to the food everything was top notch . For us the best part was our server Mamie she had such a great personality and instantly made my fiancé and me comfortable thank you for the great service Mamie hope to see you when when we go back :)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIaTh1cnRRRRAB",
+            "text": "Fred’s hits the nail on the head with a classic American meal. The food is solid, great apps and burgers. The drinks sell it even more, and the staff takes it all home with great service. I come back for the staff and everything else is a bonus!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIaThPYi1BRRAB",
+            "text": "As a patron who has been to Fred’s on several occasions, I highly recommend it. I always have a lovely experience with Henry behind the bar due to his incredible hospitality, humor, and kindness! I will also say the manager Tracy is very kind and attentive to customer’s needs if I ever have concerns.\n\nHenry makes excellent drinks and will make whatever you request. In terms of food, I love the salmon burger, the lamb burger, the sweet potato fries, and the mozzarella sticks. If you’re looking for a great brunch spot with a fun atmosphere, definitely come to Fred’s!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNINWFqTGhRRRAB",
+            "text": "The vibes here are always 10/10 — we are OBSESSED. Great drinks, great servers & perf spot for a drink and a bite before going out. EMILY IS THE BEST she makes your night soooo much fun and is an amazing server. we <3 freds!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIcGRUQzhnRRAB",
+            "text": "Always love freds, but the new management kills the vibe. Such sticks in the mudd. Let the employees run the place like before, and leave the managers at home."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNILU56bmJREAE",
+            "text": "Puppies!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIdUlEejd3RRAB",
+            "text": "Always great."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3eUtfVTB3RRAB",
+            "text": "A good place to eat and get the vibes of NYC."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiai0yOC1nRRAB",
+            "text": "Nice atmosphere and outdoor seating, however the food is subpar. We visited once and I ordered the omelette — first, they came out with scrambled eggs instead. When they remade it, the omelette was unseasoned.\n\nSecond time I ordered a salad and the salad was drenched in dressings, mostly only with romaine lettuce. Maybe this place is okay for the vibes but the food leaves more to be desired."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURiNmJQZWJREAE",
+            "text": "When I lived in the upper west side in the early-mid 2000s it was a great spot. Despite covid and a fire still is. Very local if ur from out of town u get the real UWS experience!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNieVlianh3RRAB",
+            "text": "stumbled upon this place after the movies, ambiance was so cool, what a vibe especially if your a dog lover… (photos all over the restaurant) truly enjoyed my meal very fresh\nwill definitely return"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURydjRqRnJRRRAB",
+            "text": "Great food and drinks.  Really enjoyed the blackberry smash."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4OU91QnlnRRAB",
+            "text": "Our main reason for coming here? Our vet is around the corner, but we live in Hell's Kitchen. That said, we've come here for years in the evenings taking or picking our pups up and love the food and atmosphere. It is simple but always good. I've had several of the burgers and love their cheese steak, which I'm not often allowed to have anymore---so it's always a treat. My wife enjoyed the meatloaf the other day. Staff is always friendly and courteous and we have generally eaten outside (as we usu have one of our dogs w/us). I have to applaud the manager, who, during our last meal there, in as caring a manner as possible, had to move along an overly aggressive resident panhandler."
+        },
+        {
+            "date": "3년 전",
+            "language": "ja",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXdTZMZ3ZBRRAB",
+            "text": "ブランチ目的で13時過ぎに訪問。\n少人数での予約は受け付けておらず、10分ほどで入店。\nブランチメニューはどれも魅力的で$20前後、キッズメニューもあり。\n隣のレストランに比べると料理のボリューそこまで多くない。残さず美味しくいただけ量でした。\n味付けは全体的に濃いめな感じで、お酒との相性はgood。\n\n☆2022年3月訪問\n\nI visited this restaurant around 13:00 for brunch.\nThey don’t accept reservations for a small party, we can enter inside in 10 minutes.\n\nThe brunch menu was great that it’s around $20 and there is also kids menu.\nCompared to nearby restaurants, the volume of the food is not too much. It was good portion.\nThe seasoning is thick overall, and the compatibility with alcohol is good.\n\n☆I visited there in March 2022"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsM3UtRzJRRRAB",
+            "text": "First, I’m mad we haven’t been sooner.  But so glad we finally did!  I’m a transplant patient and have to be super careful with food.  Salads are one main thing to be super careful about and also my favorite.  I explained my situation to the sweetest hostess on Saturday and she happily said it wasn’t a problem and they take things like that very seriously when informed.  The ENTIRE staff was super friendly and it was one of the BEST freaking salads I’ve had!!!  All the produce under that first layer was like farm fresh! The chicken is super tender and everything just crazy delicious!  We will be sharing this salad and trying Mac and Cheese next visit very soon ❤️"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPNkszNHhRRRAB",
+            "text": "great food and plenty of room for outdoor dining. can’t say much about the interior of the restaurant because i sat outside. service was great, our waitress was quick to take our orders. food took maybe 25 minutes to come out.\ni ordered the penne vodka (with chicken) and it was delicious and not too rich, perfect for a hot summer day. only complaint is that it was relatively expensive—$26!\ni also ordered the margherita flatbread which was also delicious and overloaded with cheese!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREeUpHNkJ3EAE",
+            "text": "Family friendly diner-adjacent restaurant in the neighborhood. They know their demographic with the 2 for 1 beverage deal, maybe just a brunch thing.\n\nReminded me of like a independent restaurant version of like a Chili’s or maybe an Island’s (if ur from CA).\n\nJust plain ole American food, but that’s what you should expect while eating here. Sometimes that’s all you want, which is just alright."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKLWRHcUhREAE",
+            "text": "Happy Hours was a nice experience.  After many years of passing by I finally got to try this place. The sangria and well drink was great as was their macaroni and cheese (with mushrooms and tomatoes)."
+        },
+        {
+            "date": "3년 전",
+            "language": "zh-Hant",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPdTlqM2hBRRAB",
+            "text": "(English ver. below) 店內店外都有位子 但店內滿熱的 很喜歡裡面超大面的狗牆! 都是客人帶來的狗狗照片~這家店叫Fred’s也是因為店狗的名字是Fred 而且她是女生歐!\n老闆非常非常親切 跟我們聊了好一陣子 服務人員也都很積極主動地介紹菜色~是難得小費會想給更多的店\n食物的部分最讓我印象深刻的就是羊肉漢堡Lamb Burger!!!\n-\tLamb Burger $21: 羊肉味超級重我超愛，漢堡肉鮮嫩多汁，是我吃過最好吃的羊肉漢堡…太讓我驚艷了 配上goat cheese整個更臭XD\n-\tAvocado toast $15: 好吃是好吃但有點小份\n-\tFresh guacamole&salsa $14: 給的份量很大~滿好吃的 chips是他們家自己做的!\n-\tCinnamon raisin French toast $18: 吐司很濕潤很讚~味道非常好\n-\tPancakes with berries $15: 店員大力推荐但我真的覺得還好\n-\tEggs Benedict $18: 表現普普\n\n結果最後還是只滿意羊肉漢堡的部分哈\n\nLove the wall of pups! Customers can bring their dog’s pictures and hang it on this wall! This restaurant is called Fred’s is also because the owner’s dog is called Fred (and she’s a girl)!\n\nThe waiter/waitress are amazingly friendly:) Definitely a good experience (except that it’s really hot inside…)\n\nAs for the food, I recommend the Lamb burger (if you like gamey lamb). It’s really gamey and I’m obsessed with it… the meat is juicy and tender, I’ll definitely come back for one of those! Other food are okay but not as good as the burgers."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHeUx6WkdnEAE",
+            "text": "Fred’s is great! Good drinks, good food, and awesome people. Everyone that works at Fred’s seems to really enjoy their job which makes everyone’s experience much more enjoyable.\n\nI was hesitant to try the actual dinner entrees but the food is awesome. I had the meatloaf with mashed potatoes and gravy, delicious! The Mac and cheese was good as well.\n\nCome for trivia on Monday nights. Sit at the bar if you do. Starts at 8 but show up around 7 to get a seat at the bar and if you’re going to eat definitely get here earlier so you aren’t eating during trivia."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURLdE11NHpRRRAB",
+            "text": "Five stars and more for service and friendly environment! The food was delicious!!!!!!! We Recommend coming here stopping in for some American fare. Outside seating and indoor available. Family friendly , kid friendly and gay friendly."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzN1kzUzF3RRAB",
+            "text": "This place is sure to get your tail wagging!\n\nBrunch here was awesome. They have a great menu of dishes and you pair it with a…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKaEt2eUVBEAE",
+            "text": "Fabulous restaurant. Pet friendly with outdoor seating. Cash and credit are both accepted. Metered street parking only. Very busy area, making it difficult to park. 05/2023"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxejVMZlBBEAE",
+            "text": "What brought us in was their beautiful mission connected to dogs! What will bring us back is the awesome food, great atmosphere, friendly and attentive staff and overall wonderful experience. A+++"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlenJhM2x3RRAB",
+            "text": "Great restaurant, our server Carrie was the best, she was very friendly and had such an uplifting energy. The restaurant had great vibes. Food tasted great, the stake was probably one of the best I’ve had compare to other places. Don’t really have anything to complain about. I’ll definitely dine here again in the near future."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3NHB5RUV3EAE",
+            "text": "Pretty good and large portions. The muscles and pear salad were great. The calamari and meatballs and spaghetti were okay. The Mac and cheese with pulled pork was also great. The portions were large and sharable. The service was good too.…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5a1lfRWV3EAE",
+            "text": "Fantastic ambiance and attentive staff. Salad had lots of accoutrements and the pancakes were fluffy. Family friendly."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCOUtQdmV3EAE",
+            "text": "If you love dogs, you must come here! My husband and I used to live around the corner and this is one of our favorite spots for brunch. We will always make a trip to the UWS to come here. It’s got a great vibe and the food never disappoints…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEbzRfSVF3EAE",
+            "text": "This place is a fantastic restaurant! 🍴 Fred's on br UWS 🗽 offers a great selection of delicious 🤤 American dishes 🍽️ - definitely try their NY Cheesecake 🍰 and their famous Max and Cheese! 🧀 The staff 👨‍🍳 is friendly and professional and the service is quick. ⏲️ They have plenty of indoor and outdoor seating. 🪑 I wish I knew about this place earlier ⏰ and came more often!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlaW9ha1dBEAE",
+            "text": "It is a very cozy restaurant with walls filled with pictures of dogs! I was a bit disappointed with mac and cheese that I'd ordered for myself but my friend thoroughly enjoyed his lamb burger. Cocktails are incredible and service is good. But it's the ambience that outshines everything else."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLazh5NU93EAE",
+            "text": "My friend and I were looking for a place to eat in the middle of dinner rush. She suggested Fred's. We were seated indoors immediately. The staff was very friendly; the indoor tables have clear dividers and comply with the other COVID…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHMTlmV013EAE",
+            "text": "Thanksgiving dinner I had here accompanied by a good friend of mines of many years I selected this establishment with no prior experience here , but I was not disappointed  ! The food was great , the guy that greeted us warmly I did not get his name but he had a light beard , our waitress Carrie was also awesome !  Thank you !"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNva282cUd3EAE",
+            "text": "What an amazing hidden gem on the UWS! We went to Fred's on our last night in NYC and thoroughly enjoyed it, fabulous food, wine and lovely, helpful staff. You won't regret taking a trip to Fred's! Make sure you look at all the cute dog pictures that cover the walls. Will definitely be returning!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtcW9iaHZBRRAB",
+            "text": "Went for brunch. Enjoyed the steak sandwich. Fun cozy diner-esque abambiance and vibe. The dining area is slightly below ground level, with fun dog motifs on the walls.\n\nVery much a \"neighborhood vibe\" type place."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaOXRMOFh3EAE",
+            "text": "Enjoyed the urban feel in the big city. Food, service and atmosphere were all on point."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHajZlaS1RRRAB",
+            "text": "I’m am one of the many people who only give reviews when it is extraordinary or horrible. This place was amazing.\nAfter 12 days in Mexico and our share of fancy restaurants, this is by far the best steak I’ve had so we came back on day 14.\nA small mistake took place on our first visit but the management and waitstaff alike, went above and beyond to make sure we were happy.\nIn the end, we couldn’t have been happier and it wasn’t even necessary."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMweFltLWpRRRAB",
+            "text": "The fried calamari three times more delicious than any others I had in different proper italian places. Their service is what we would genuinely refer as ‘service’ in a hospitality sense; it’s heartfelt, attentive and friendly."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxeGV1Q3NBRRAB",
+            "text": "Fred's restaurant was great.the service was on point and the food was great and of course the desserts were great as well. Definitely we will be coming back."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtNjlqNzlRRRAB",
+            "text": "Great food been here for years. Even cat lovers would appreciate the “ dog decor “\nRasahad the host went above and beyond with service kudos to him Lauren and all the staff."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPa3A3SHJ3RRAB",
+            "text": "The patio is super dog friendly and they brought my dog water as soon as we sat down. Not much of a wait for outside seating, even during Sunday brunch. Staff was very efficient. We went here for my birthday and it’s been a whirlwind bc my dog is dealing with cancer and I wanted to have one last good day out with him. The staff at Fred’s were SO kind and went above and beyond to accommodate us, even waiting patiently as we had one in our party who had trouble finding parking. Food was great and there were options our whole group - which consisted of keto, vegan, and gluten free restrictions. Definitely will be back, thank you all at Fred’s so much for your hospitality (they even took the photo!)"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3a2QtNkVnEAE",
+            "text": "Fred's was an amazing place to have a group brunch on a Sunday. The inside is much bigger than it looks, covered with frames dog photos which is a fun touch!\n\nThe owner, David, is so awesome and accommodating, and our waiter Abu (sp?) made sure we were well taken care of. Service was exceptional!\n\nThe brunch special was awesome - $18.95 for a bloody/mimosa/Bellini plus coffee and breakfast. The plates were HUGE and the free blueberry muffins with strawberry butter were such a delicious surprise. I had the eggs Benedict and the eggs were perfectly runny. They came with perfect potatoes and a green salad. I couldn't even finish it!\n\nOur group had a blast and will definitely be back because everything on the menu looked delicious. We will have to try it all!\n\nThanks Fred's!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxMXN1a29BRRAB",
+            "text": "This place is very worth it! I had the salmon and it was awesome. The waiters were so cool & the wait wasn't long. Will definitely go again!"
+        }
+    ],
+    "reviews_count": 80
+}

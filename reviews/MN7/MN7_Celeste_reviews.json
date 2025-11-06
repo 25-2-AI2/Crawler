@@ -1,0 +1,663 @@
+{
+    "name": "Celeste",
+    "place_id": "ChIJjUIzMYRYwokRpH6nkif-iZc",
+    "grid": "MN7",
+    "address": "502 Amsterdam Ave, New York, NY 10024, USA",
+    "rating": 4.8,
+    "user_ratings_total": 3181,
+    "phone_number": "(212) 874-4559",
+    "reviews": [
+        {
+            "date": "5시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKalJrNVdhMmRxVjBoZk5EQjVWMVJ0UW1Sa1duYxAB",
+            "text": "The tiramisu is a must get! So flavorful and so light and fluffy! Also got the choloate cake and lemon sorbet and I am very happy with my meal"
+        },
+        {
+            "date": "5시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkUldFWjJOWGhyZERGSlJtbGxUekZKUldod1dXYxAB",
+            "text": "Came for a friends birthday on a Tuesday and wow was delish! Cute vibes in the place with string lights and brick walls. Got the pasta, pizza and chocolate cake and as a gluten free person I really enjoyed what I ate"
+        },
+        {
+            "date": "5시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201bVVYWnVla2g0WDBsdmEyTXpkVXhST0VOT1QyYxAB",
+            "text": "Amazing food and service! Loved the pasta we got the butternut squash special and I’d bathe in the sauce. Also got the mushroom pizza and you should def get the spicy oil with it. Overall great experience and would come back"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wVVZGQTFVVWxwZEhRME4yRkdOa0ZNYUhvMGNIYxAB",
+            "text": "Best service - David was the king server, food was delicious and nutritious- they were very accommodating. Try the bolognese pasta. My new fav NY restaurant!"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KYU4wdzBjVEJGZEVjeE5qVmpWemM1YVhwblZXYxAB",
+            "text": "Such a fun and home feeling atmosphere. Dessert was an 11/10. Pasta is homemade and doesnt sit heavy  which is a huge plus. Will definitely be coming back!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGeFEweENlWEkzV21ZMFUycHZkM1JGVUZSZmQyYxAB",
+            "text": "Thank you David for a wonderful experience. Super authentic, delicious dishes."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wbGREaHVObk52TTFGNGVrdGpPRjlsTTBSTlJVRRAB",
+            "text": "We have been meaning to try this place near our apartment and it exceeded the hype and more. David, our server, steered us in the right direction and we loved the pizzas, lasagna and gnocchi. This place has old school roots and amazing vibes and we will be back VERY frequently."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WeWQzVldiV05xVVdkWFF6VlVhVU5tV0V0TlpXYxAB",
+            "text": "The food and wine were awesome. Our server David was top notch, can’t wait to come back again!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tRd05qQnliblpZVDJSbVpHcG9PV04xYjNNelVVRRAB",
+            "text": "David is the bomb. Excellent food."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxUGVrTlpaVEJsY0hWNVJrWjJTVUo0WDNoUU5uYxAB",
+            "text": "Our server, David was wonderful! Cozy restaurant with great food. Great gluten free pasta as well!"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xRNVJHbEJRVzVETVZCRVpVWlJXV0Y0T0hCdmNtYxAB",
+            "text": "David was amazing and the food was even more amazing highly reccomend!"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VM1NtUmFUMHd4YVhkcmIzRjFUazk0U1ZsQ1YxRRAB",
+            "text": "Very cozy place and food was great! Our server, Stephan, was on the ball, very attentive and helpful. The tiramisu was so good and light. Just remember that it’s cash only!"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWbFQxOVFWbTVxV2tWNE0yOUpNRkU0UWtSZkxYYxAB",
+            "text": "Great food great atmosphere! Stephan was great!"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kbVdHSjFlVkF5U2tkTFJXbGFTa3RpYjNkV09WRRAB",
+            "text": "The food was delicious, the service was wonderful, and Stephan was fantastic 🍝"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWYWNUVnpTbkZ2YVZNMFowVXRSSGhOUzJWQmFIYxAB",
+            "text": "Very cozy and great food, homemade vibes! Stephano was our server and very attentive."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psdFFVbzVjRGsyTnpCeWVHRnNNVk0zV2pRMVdrRRAB",
+            "text": "Excellent experience in every way. Everything is fresh and delicious. Warm personable staff. Do not pass on the deserts.. The limoncello desert is out of this world !"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsbmVFMWFWMjFqUVVGQlgyUTJMVUpuTlZkTGVWRRAB",
+            "text": "This upper west side Italian is more of an institution. The main course is good - but are we not all just in it for the cheese? A great selection hurriedly described in Italian so you cannot understand. The host (who I assume is the owner) roams the restaurant and describes the cheese. He has mellowed with aged but is still very fun. You may feel a little packed in. CASH ONLY"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OcGEwUnhjM0pIYW5KcFRUVnVOWEY0VDA5SGJHYxAB",
+            "text": "Had a great time for a birthday celebration. 6 adults 2 kids. Food was amazing"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCc1pVcDFNVEJvV1dSdlZtSlNVM0JHT1VaMGFtYxAB",
+            "text": "Wonderful neighborhood Italian restaurant. Incredible food (tagliatelle with shrimp a must), lovely staff. Feels like stepping into someone’s family kitchen and enjoying a home cooked meal. A must visit neighborhood staple."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sU2RXRk9aVjl0WmpJM1pHRnJWWE5IU2pOeGVGRRAB",
+            "text": "Such a great local gem on the UWS! I got the linguini and clams— it was one of the best I’ve ever had. David was an incredible server."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kc2RHVlJTRXBzTlVkVFJGbEpWbk55TVcxWE1GRRAB",
+            "text": "A true hole in the wall. Food was amazing. Thank you David for the awesome service!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNNExWcDRabDlqWlMxcGREWnliazB5ZEVGRU0yYxAB",
+            "text": "Delicious food! Very honest to the ingredients and perfectly seasoned. Bolognese was very good. Calamari was also very fresh. David was helpful with all the recommendations and we were happy with the food  :)"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213ME1UZE9ObG90ZEd4ek5ERXRlVE5zYmpWNU1tYxAB",
+            "text": "Staff was so kind and food was amazing! ¨̮"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zM1YwOUhNVWRXWW1FNGVtUTVTR2hDVTNoclpGRRAB",
+            "text": "Celeste was a wonderful eating experience for my family. I had the veal,  potatoes and spinach just phenomenal. My son had the monk fish he was also pleased. Everyone enjoyed their plates. To top it off David who waited on us was an amazing host. All he suggested was spot on. I recommend this restaurant to all. They nailed it. Many thanks for our time here.👌🏽💫"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkb2JqRjJXVWh5TFV4d0xXZG1lVEZZTnpOeVNVRRAB",
+            "text": "Great service and delicious Italian food!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WNVgzTnlTSFZaY1VwbU9VdG5TbkZTTkRCRE1rRRAB",
+            "text": "First time at Celeste. Cozy atmosphere. Owner and server were very friendly and helpful. Super delish tagliatelle bolognese"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGbVVGZHFSVzVITWtWRVVVWldibk5xZEhKNFRXYxAB",
+            "text": "The Rigatoni alla Norma was the best pasta my daughter has ever had. The eggplant pieces were cooked perfectly and the mozzarella was tasty. Atmosphere was great and staff are very friendly."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkT1drZExkWFZTVGtaVmFFcExUSHBwVFRCVFVYYxAB",
+            "text": "Great food, great service! Super friendly and helpful waiter, David! Affordable meals."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SVlpHOVlUV1I1ZGtzeWQwaENjblIwYUdaZmNFRRAB",
+            "text": "The focaccia is great!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xUVlsVXdlVlV5U2psZlpYSnBSa014ZVhGdlVVRRAB",
+            "text": "We had a delightful time! Lively atmosphere, friendly owner and staff. Delicious food!! Suitable for gluten free people. Our waiter David was very accommodating"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGRWVHZzNSbUZSUlVkc2IwMXVhWFZuTURoRlpFRRAB",
+            "text": "Wonderful restaurant with a lively and comfortable atmosphere! The owner greeted us upon our arrival and our server, David, took great care of us. A lovely experience all around!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CNWFtaGlSV3QxZUV0ME1WZEhWakpGVGxSV2FWRRAB",
+            "text": "David was very helpful, attentive, and entertaining! We had a great time and the food was just so yummy. I’m obsessed with the bread and everything I had."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GbWRGWnJhell0Wlc5QmMyOVVkMVJLVmxSbGFuYxAB",
+            "text": "Great vibes and great food! Our waiter david was very helpful and funny!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGWmR6TXhSbWR4ZVY5Sk1tSlBNM1prTjNkR01tYxAB",
+            "text": "We had a great meal at Celeste. The gluten-free pizza was delicious. David took good care of us and was a great server!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOeE1XeDNhVFZITFdnelNscGtXR0ZuVDFKSGRWRRAB",
+            "text": "Delicious food, great service, and a cozy atmosphere — truly authentic Italian experience!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taM2REaEZkVmxUTW0xaWRVZDRSVmx3ZUdnMlpGRRAB",
+            "text": "Everything was perfect, but they don't let baby strollers inside the restaurant.\nThe food was great, and we enjoyed every bite.\nIt's important to mention no reservation possible . You just need to walk in if there is no available table you have to wait.\nno card only cash accepted!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkUFJYcE5jVmxKZG5ORWFFRTVSbGx3YjNKRU1FRRAB",
+            "text": "Service was good and the food was nice, but it wasn't anything too spectacular."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GaWQybzJNR00wU2tsUE9HSk9UbkpmTmxOa2FXYxAB",
+            "text": "Fantastic!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wbVpEbEtUakJhUTFSd1dFRjJSV3d6ZEVoMFJsRRAB",
+            "text": "Pasta al norma and the halibut were both delicious! Made a resy via email and they were very accommodating when we called to let them know about a delay."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWeFFreDVRVmN5ZUhwbFJUZ3lVRFZZTkZKT1gyYxAB",
+            "text": "David and the whole staff were amazing. Lasagna is out of this world, do not skip! coming back for sure"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WdWEzTkZOMGc1WTBrelMwRnpWbGx1U0VaUFQwRRAB",
+            "text": "Fantastic staff, fantastic food, fantastic service!\nOur server David was great. An UWS gem!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poa1JFNURYM1o0YjIwMVNHZFVNRTlSTlc1VGEwRRAB",
+            "text": "We had capesante, fellata, and some cheese selection for starters. Then we had tagliatelle con gamberi and tagliatelle bolognese. Everything was delicious! We loved both the starters and the entrées. The cheese pairings came with a brief and interesting explanation of their origin in Italy. All servers were super welcoming and kind."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGVVpXMWFjVGxSUzNBd1ZFdHdOVmRSTldSaFdIYxAB",
+            "text": "Dinner here was lovely and I truly enjoyed the warm atmosphere and pleasant service. We ordered a tasteful cheese platter and the homemade pastas were excellent. Don't miss this spot!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oVVZVMHpYMmx3Vm1kaFRrb3RSWFJXYVhkamIzYxAB",
+            "text": "Great place, cozy and intimate, definitely a great restaurant for a date. Food and service were wonderful. Crispy artichoke and parsley was so good! Squeeze the lemon!  We’ll be back!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5TVZ5MVFka015ZDNwWWNEWlVUbEZWTWtaVk1HYxAB",
+            "text": "Loved this place! The atmosphere is so warm, intimate, and cozy. The staff is so kind and helpful. The food is delicious, especially the crispy artichoke appetizer . It’s like nothing I’ve ever had! Make sure to squeeze a good amount of lemon on the parsley and it’s to die for. I’ll be visiting this spot every time I’m on the UWS! And shoutout to David for being awesome!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsS01uRkxNWEE0ZUROSWRHcFBSSEpXTnpFNVJHYxAB",
+            "text": "Attentive staff and tasty food. Would recommend!"
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCT1VWZEJaMnhHTjJoa1VGOTBOM3B4UlVKMU4yYxAB",
+            "text": "Grazie Mille. David was the best."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNeWRIZGhSazl1VTB0TE5YZEtXR1U1YnpreGNGRRAB",
+            "text": "Super warm friendly place for the neighborhood ( and others too ) with great food and a lovely welcome"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GUFFtOW5UM0pwWTFSbGRGUldha05LUkhGMExXYxAB",
+            "text": "Everything was great and fresh delicious!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWSFdXY3pkWFl4YkZoNlRGaHFRWEJGZDJSdGFYYxAB",
+            "text": "Everything was delicious. Will definitely come back! Service 10/10"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURibklpa1BnEAE",
+            "text": "사람들이 많이 추천하길래 일부러 찾아왔는데 맛있네요!\n로컬 맛집이라 현지인들이 많이 찾고\n봉골레 파스타 추천이 많아서 먹어봤는데 은은한 조개향이 너무 좋고 진짜 신선하고 맛있어요!"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNscWNDN0NBEAE",
+            "text": "봉골레랑 볼로네제 먹었는데 여기 봉골레 맛집이에요! 꼭 가면 봉골레 시키세요! 와인과 함께 이탈리안 음식 너무 잘 즐기고 왔어요 ㅎㅎ 직원들도 친절하고 분위기도 로컬맛집 같은 느낌으로 괜찮아요! 저는 친구가 엄청 추천해서 간거였는데 만족스러웠습니다"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuMFBfZUN3EAE",
+            "text": "파스타 강력 추천드려요! 봉골레 골랐는데 맛있었습니다. Anastasia가 저희 서버였는데, 친근하고 유쾌한 분이었어요. 덕분에 좋은 시간을 보냈습니다. 다음에 오면 다른 파스타나 피자도 시켜보고 싶네요."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OU2JWSm5TMWxwYkdNeE4zVlpWRFp4TjJSWVoxRRAB",
+            "text": "Came to this hidden gem on the recommendation while we were celebrating a milestone birthday. The food is amazing, the staff are friendly, and Stefan is amazing. We ordered the fried artichokes, meatballs and black bass special. The tiramisu was delicious and they sang Happy Birthday to me. Highly recommend!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkcmMwWXlOamxoVjFSMGJEUjBZMFE0WnpoT2IyYxAB",
+            "text": "I’ve only been in nyc 3 years, but truly truly king David is the best server I’ve ever interacted with!\n\nThe food was incredible. Feels so authentic! The vermicelli was WOW. Grateful for an amazing evening!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4eFZsOUZVUzFKYkhCcFZWTnJNM2h4Ym1Od2FuYxAB",
+            "text": "I love coming here! Best gnocchi in town. Had the special mussels and fried ricotta- both straight from Italy - and David was such an amazing waiter - attentive and friendly! Cant wait to come back"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toNU5IZEVXVE15TUhWZk5uZHVkek5VTVZrMVRIYxAB",
+            "text": "Great experience! We were looking for a Italian restaurant with an authentic experience and Celeste did not disappoint! Great food, great wine and great service. Staff was very helpful and friendly"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNR0o5dTZMdDRPbFJREAE",
+            "text": "A beautiful spot for a rainy day lunch. Loved the ambiance of the restaurant, and the vibes. Staff was really friendly and attentive. Food was delicious, flavorful, and well portioned for the cost.\n\nJust a reminder, cash only.\n\nWill definitely come back."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210VmVsYzFia0l4T0dScVdUVm5lVVl6V1V0V2ExRRAB",
+            "text": "The pizza is really yummy! The salad tastes better with vinegar. The most recommended dishes are fried squid and shrimp.\nDavid's service is excellent!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoQ2RtMU9VRVZGTFc5ZmQwNUJlSEZsWkhwMFRWRRAB",
+            "text": "Great brick-oven pizza, thin crust and 10 inch, the perfect size. Julia has been amazing, always with a smile on her face. Cash-only restaurant."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKcE9Yb3dWRGMwWm1WaFRDMU5ia1J0TkZVd2JsRRAB",
+            "text": "What a wonderful experience, I had the tagliatelle bolognese. This freshly made pasta is a must try! Our service was wonderful, David was our waiter and he had amazing recommendations for us. Can’t wait to revisit!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sT2NDMXBPSGhIZWxRemJVRjVWSE5RWldONGFYYxAB",
+            "text": "My wife and I come here for dinner spaghetti and pesto claims.  It was delicious and friendly staff. They sang happy birthday to my wife!!!  Thank u very much"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGMU1WWlZTelJmV1UxbVVscFphMU15T0ZSNmVVRRAB",
+            "text": "Perfect al dente tagliatelle. Ingredients are very, very fresh. Fried calamari and shrimp are surprisingly well-balanced. Chili oil over the seafood vermicelli is almost like an angelic touch. Absolutely chef’s kiss 💋\n\nSpecial shout out to our waiter, Stefano! Hilarious dude that makes us want to come back every time.\n\nThis whole place is a neighborhood gem."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WV1IyczNiWFZpWDNkTllsbElUWFZqVGtkWWQwRRAB",
+            "text": "Excellent food in a nice but laid-back environment with friendly service. Great portion sizes and high quality ingredients. Also expansive by-the-glass wine menu."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taaVgxUnVkRFF3TVhkV2F6SnlYMTlEVmkxalJtYxAB",
+            "text": "Gran restaurante. Al igual que ustedes confiamos en las reviews de Google y no nos defraudo. Nos atendió David y nos recomendó pedir los vermicelli allá vongole y estaban buenísimos. Otro mozo nos dijo de agregarle aceite picante y le hicimos caso. Otra gran decisión. Su dueño, nos dijo que la Lasagnette era muy buena, y estuvo espectacular. Los ravioli de ricota eran cumplidores, suaves y sabrosos. Y de postre, obvio, pedimos tiramisu. Fuerte al medio. Nos gustó mucho y les recomiendo la experiencia."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOTDc0STZlc0tXRklREAE",
+            "text": "Went out to dinner with my roommate and had such a lovely time!\nWe shared the margherita pizza and ravioli, paired with a glass of wine and an Aperol Spritz – everything was delicious.\nThe tiramisu for dessert was the perfect sweet ending.\nThey served complimentary bread with olive oil to start, which we always appreciate.\nService was friendly, and we sat outside – cozy atmosphere, though the tables are a bit close together.\nOverall, a great spot for a relaxed evening out!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWVE9VcEtZbUY0YkRaeUxWaG5TR0ZIV0V3dGNVRRAB",
+            "text": "The food was fantastic! We started with the Margherita pizza and mussels and then got the linguini with clams and Paccheri con ricotta e Pomodoro. Anastasia was terrific and extremely helpful throughout the meal. I highly recommend!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xreE1VOUNNbVkxVDFoMmJIcEJaelZJY1ZZMWRHYxAB",
+            "text": "My father loved this place - he would come over from the upper east side to get their pizza and pasta ! I completely understand his.  loyalty. The food was delicious - brought me back to my last vacation in Italy . The gnocchi were light little pillowcases - delicious. The pizza - amazing. !everything we ordered  was a delight to the palate. You must go !"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WSlkwUlljWFZhYkdWdVdtaFVSamRpTlhkeWVFRRAB",
+            "text": "nice restaurant providing genuine Italian food. freshly baked pizza and homemade spaghetti. Feel at home. Perfect place for family and friends reunion."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kcFNVd3hRbmh5ZUhZeVJFbFlVVEJxZVhsb2VYYxAB",
+            "text": "The most memorable lasagna. 10/10. No notes. Breakfast pizza was okay. Lovely service, vibes are great too!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOR2RHazVXbVZOVVZaMWRHdFRRbTlpZWtwcmJXYxAB",
+            "text": "Celeste is the BEST!! Owner is so friendly and Italian, waiters (like Stephano) are quick and accommodating, and food is electric. Particularly loved the rigatoni with eggplant, the wines are great too. Just a super authentic neighborhood Italian spot that is everything that’s right about the Upper West Side. I would recommend it more, but I want to be able to still get a reservation."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFellXVjZlVzk1V1hObVJVRnBTRlZvYjFjeFVIYxAB",
+            "text": "Good food, very traditional Italian feel and the Owner personally welcomed us. David our server was great!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBNVEwRmlkVzk1TVRoS2VXUmpObTlUWkZOd1lsRRAB",
+            "text": "Wonderful experience and delicious food. Would recommend to anyone. David had great recommendations for wine pairings and pasta."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmM0lmcnh3RRAB",
+            "text": "A delicious meal with the family! The place is pretty small but you can have a great meal with a large party (just make sure you make a reservation). It is cash only but well worth having the paper money on me. Everything I tried was really good. I recommend the vermicelli clam pasta dish. That was my favorite. The lasagna tasted like my grandma made it. And the prosciutto pizza was a memorable one. We also had a great Pinot Rose wine that paired well with the dishes. The owner and staff were around and made my family feel very welcomed. I'll be returning. I can eat that clam vermicelli pasta everyday 😋."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKTzlwc3J1MElpenBBRRAB",
+            "text": "Amazing pasta and pizza in a great environment! Must get the gnocchi and pizza, authentic Italian and perfect ambiance. Our favorite spot in the upper west side. The salmon is out of this world!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPLVVxNW42NXVHMFZnEAE",
+            "text": "Hidden gem! Great, cozy vibe and lively atmosphere. Food is delicious & fairly affordable. Definitely recommend. Our server Stefano was awesome!"
+        },
+        {
+            "date": "8달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBMGJYeHpRRRAB",
+            "text": "Ristorante autentico Italiano!\nAmpia selezioni di vini, utile per intenditori e atmosfera super accogliente! ANASTASIA è stata la nostra cameriera, si è presa cura di noi, in modo veloce ed efficace, è stato un immenso piacere conoscerla e il suo servizio è stato impeccabile! Molto simpatica!\nE come dimenticare i suoi collaboratori PASCUAL e LINO che sono stati altrettanto accoglienti e professionali. Bravi! 👏🏻\n\nOltretutto la neve ha reso la nostra cena ancora più romantica, torneremo sicuramente.\n\nComplimenti allo staff ed anche allo chef 👨‍🍳\n\nUn saluto al proprietario Carmine! Il quale con i suoi consigli, ha contribuito a rendere la nostra serata ancora più piacevole e divertente!\nA presto, David! 🇮🇹"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMV1N4UDNmbmJQUGpRRRAB",
+            "text": "We had a wonderful dining experience at this cozy Italian spot on the Upper West Side. The food was delicious—fresh, flavorful, and clearly made with care. But what really made the evening exceptional was the service. Pascual and Mariana were phenomenal—attentive, warm, and genuinely welcoming. They made us feel like family and elevated the whole experience. We’ll definitely be coming back. Only downside- they ONLY TAKE CASH :/"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZek82aVdREAE",
+            "text": "I had high hopes after seeing the reviews and the gluten-free options.\n\nThe owner and staff were surprisingly hostile to our party as first timers, commenting directly to us (and others) throughout the meal about how absurd it was that we did not have cash on hand for payment. Very bizarre, and something I’ve never experienced before.\n\nThe gluten-free pizza tasted worse than a Domino’s pizza, and was twice the cost ($25). I can’t recommend much about this venue."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkaVVtbGFiVWxVZDI4ekxWQXROa0pvY2psSGRXYxAB",
+            "text": "The absolute best pasta alle vongole in New York. Clams imported from Italy. Vermicelli cooked to perfection. Wanted to drink the olive oil and garlic sauce. David (our waiter) also has a deep appreciation for this dish and made excellent wine pairing suggestions. Thank you Celeste! Will be back again soon <3"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paaU1FNWhhMnB2TVRJeU9ESmpOa3BRUTFOS1gyYxAB",
+            "text": "This restaurant is amazing! I felt like I was in Italy. David was an awesome server."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oMVZrUkdVRVYzVTBSekxUZ3dXalUxTTJoMWVHYxAB",
+            "text": "I had a wonderful experience at Celeste. They treat me like family. I come here for my friends birthday every year and it might be the best Italian food in the city. The prices are very reasonable, the wine selection is great. David is an incredible server and you will be lucky to be served by him. If you want a classic Italian whole in the wall don’t look any further!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psU05YUm1NbTh5VWxWUFgxbHVUVGRzZVVORVZWRRAB",
+            "text": "The mushroom pizza is legit incredible! Loved everything from start to finish, the wine was almost too difficult to choose from - too much choice! David was so fun and brought something special to the night. Do not miss out on this gem."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kamRIWjRVemRqTm5kTWJXYzRVVmQxV2psWlJIYxAB",
+            "text": "This was my first time at Celeste and I did not leave a crumb of parmesan on my plate. David was our charming server and he came in with on point recs— from the wine (Chianti) to the food (Tagliatelle Bolognese)! It was the best Italian dinner I’ve had outside of Rome and would come back in a heartbeat."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoWlRXbExTMXBFY2s5d2FIQmxiemhGZEZKdmMyYxAB",
+            "text": "Really good food and service, really kind owner too! First time trying this place and we weren’t disappointed. Tasted very natural and homemade 🩷"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsc1lXaG1NR3RLU1hCU1MzWTVNMXBzY1V4bFJYYxAB",
+            "text": "I arrived a little early around 4:30, and since it wasn’t crowded at that time, I was able to enjoy a quiet and relaxed meal.\nFor appetizers, we had pizza, fried buffalo cheese, and chicken livers. For the main dishes, we ordered tagliatelle con gamberi, paccheri con ricotta, and vermicelli alle vongole. Everything was delicious and well-prepared. The chicken liver might not be for everyone, but since I personally enjoy dishes made with liver, I was very satisfied.\nThe service was also excellent. The only minor inconvenience is that the restaurant accepts cash only, but since it’s worth preparing cash for, I think it’s definitely a place worth visiting."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKelJuWmlZWGxyVldJd1UzRlVjVGR3VVZCTlVsRRAB",
+            "text": "Celeste is a restaurant for anyone who loves and appreciates food. The love that the owner, staff, and chefs have for their craft is palpable from walking in the door. This isn't some generic review where I hit five on everything for a free dessert (though a review of any kind does net you a free dessert), I really would give each five stars. The food is sourced locally from fresh ingredients, yet is still relatively inexpensive for the superb quality. The service is perfect. Busboys are precise and move with a purpose while our server, David, was charming and charismatic without either subtracting from his ability to manage his tables and deliver things in a timely manner. The atmosphere is bright, welcoming, and oozes style. If you think you should go here, you should. It makes me happy that people care this much about dining as is necessary to create a dining experience such as this."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4WFpUTTRjSGRYUjFwSGF6TkVVbXR0VTBJNWVHYxAB",
+            "text": "Coming into this restaurant I was instantly transported into a little European bistro. The vibes are immaculate. The food even better, my tagliatelle with shrimp and goat cheese is a must try, never have I seen that anywhere in my 21 years on the earth. I highly recommend giving Celeste a go, with friends with family, with that special someone, it’s good for all occasions!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201VlgyNU9SVEJGTFdWeE1rUjJkRU5VY21oRVZWRRAB",
+            "text": "Absolutely amazing! We had the best time. The rigatoni alla norma and Lasagna were so delicious and very authentic. The service is perfect and the atmosphere was wonderful. Lino was super helpful. We will definitely come back!"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CcWVraGllR3h6WTBsdWVtMVVTMGhTVlVJMlYyYxAB",
+            "text": "Hemos estado de visita en el Museo de Historia Natural y hemos venido al Restaurante Celeste cuando estaban cerca de cerrar, pero han sido muy atento y excelente comida, en especial agradecer a Stefano su trato."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toTWRUYzNjRVpxWm5NNFFtaENXRXhFT1V4SGJXYxAB",
+            "text": "The atmosphere at the restaurant is warm and welcoming, and the service is excellent. The watermelon salad was refreshing with a perfect balance of flavors, and the lasagna — one of the best I’ve ever had! Soft, rich in sauce, and full of authentic homemade taste. Definitely a place I’d love to come back to. 🍝🍉🇮🇹"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoTFFqTlFUMFY1UTBkVWJGVnVNSGQ2VUVFeVdXYxAB",
+            "text": "Delicious food, very thoughtful service ! Definitely coming back and being saved on my Google maps !\n\nI had the tagliatelle bolognese (pictured)\n\nWe love Roberto !!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwRGFsUm9VVXAxY1ZobldHWlFVV1I1U0dOSlYyYxAB",
+            "text": "Great Italian food at this cute little UWS restaurant! Highly recommend the lasagna and vongole pasta."
+        }
+    ],
+    "reviews_count": 93
+}

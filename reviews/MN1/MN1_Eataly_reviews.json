@@ -1,0 +1,635 @@
+{
+    "name": "Eataly",
+    "place_id": "ChIJvx7i_BlawokRidb5WfdvqRM",
+    "grid": "MN1",
+    "address": "101 Liberty St, New York, NY 10007, USA",
+    "rating": 4.2,
+    "user_ratings_total": 6113,
+    "phone_number": "(212) 897-2895",
+    "reviews": [
+        {
+            "date": "11시간 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25RdGFXWk9XbUZNYUZrelJqZEpZVjlyUm01MU1HYxAB",
+            "text": "A bar/restaurant tucked in at the corner of this Italian supermarket.\nGood service."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaNmVFdDBNRGhaVG1wVmVGbGZVME5wUlc5SGNXYxAB",
+            "text": "Enjoyed all the food we ordered plus the ambiance was so nice!!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201M1h6TlFhWGt6VjBWelNsYzNhMm96ZVhKVGMxRRAB",
+            "text": "expensive"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGMk9HZFRYM1psZVhGSmNuQjNjMUZtY1hGTFEyYxAB",
+            "text": "Simply put: Italian grocery store"
+        },
+        {
+            "date": "2일 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkU1ptb3RNelJ1VW01bmEyRkJNa3BHV2tGd01WRRAB",
+            "text": "Muy caro por el tamaño de las porciones que son miserabeles. La foto es de dos porciones juntas, imaginen la cantidad, encima los spaghetti pasados de cocción y la atención del personal muy fea. Atienden de mala gana."
+        },
+        {
+            "date": "3일 전",
+            "language": "de",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKWGVGWkVjRmcwY0VwNWJqRmtTbE01WjBKSE1GRRAB",
+            "text": "Typisches systemgastronomieessen nach dem Motto just to fill up! Wir wollten uns nicht mehr groß auf die Suche machen, aber das war eindeutig ein Fehler. Meine Spaghetti mit Muscheln haben nach Clor geschmeckt, die Bratkartoffeln zum sehr fettigen Tagliata waren verbrannt. Unser Feedback zum Essen blieb unnachgefragt."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wU01HeGxUMjQ1YlhSQ1NFUnNTWFk0WW1Kc1pVRRAB",
+            "text": "This place was recommended to us while visiting New York and we’re glad we had the opportunity to dine there!!! It was delicious!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBMFlYVm5Wbk5yVEZoUlEzZENVMTgzVERnMmRIYxAB",
+            "text": "While we did not partake in the restaurant, we did spend time in the grocery store.  As a man who absolutely adores Italian food (and who doesn't) this place is a gold mine.  The fresh pasta, the vast selection of dry pastas, fresh seafood, fresh meats, produce, breads, etc.  And the cheese selection....just WOW!  You name it, they probably have it.  Enjoyed time there and picked up a few items I cannot get at home.  10/10!!!"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SSVlYRnZlbVJaT1ZSNE9HY3pjakJWVWtoeFRGRRAB",
+            "text": "Delicious food. Waiter was so great he told us not to order something and gave better recommendations and offered items not on the menu."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oR1VsVXdjWEk1YkY5NlExbDVNMDVXUm5WbFNsRRAB",
+            "text": "Average food. Don’t like pizza and rivoli pasta. Didn’t match cost at all"
+        },
+        {
+            "date": "1주 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Cc01taHlabWRRU1V4UGFVMTFiMnBqWm01VVJFRRAB",
+            "text": "Super expérience. Après avoir traversé l’épicerie nous avons été dîner au restaurant.  Entrée à partager et plats de pâtes délicieuses. Le service était très bien et l’atmosphère chaleureuse malgré que c’est dans un building neuf."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KZk1tVnpPRGxoVmxnM2FIVnhXV3RIZGs1aE0zYxAB",
+            "text": "The best iced Americano around! Lavazza coffee is delicious and Eataly makes it perfectly."
+        },
+        {
+            "date": "1주 전",
+            "language": "nl",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201WGIxWlJURkJrYkhWd2FXMHlUM1p0T1VVMlRYYxAB",
+            "text": "Het was druk en moesten wachten, medewerkster bij de receptie deed haar best ons (gezin met 1 kind) een tafel te verkrijgen, heel vriendelijk. Het eten was echt heerlijk, goede volle smaak. Bediening was vriendelijk en attent. In de drukte van Manhattan en zijn fastfood, was dit een heerlijk diner om even tot rust te komen."
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Ka2VWSlRjVGxyTW1aTE9HRkdaMUI2ZHpKaldrRRAB",
+            "text": "Blatantly over priced. Yet the quality, the culture & overall experience is exactly on par with the NYC standards.\n\nThere is no real reason to shop here every week. Yet I highly recommend experiencing EATALY at least 2-3 times."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tORVYxbDRRbmR6ZWpOSVVGRXpZeTF1UnpGUVdXYxAB",
+            "text": "i don’t like it\nlike bro, the place is called eataly (italy) and isn’t even there 🙄"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sS2RsTTBlRXBpYWpkTFJYUlRiMGszTkRWRVRrRRAB",
+            "text": "Eataly is one of those places that manages to capture the true essence of Italy  from the aroma of freshly baked focaccia to the sound of baristas calling out espresso orders in Italian. The moment you walk in, you’re surrounded by a vibrant mix of markets, restaurants, and wine bars that make you forget you’re even in New York. The variety is unmatched. You can grab a perfect cappuccino in the morning, a fresh plate of pasta at lunch, and finish the evening with wine and tiramisu. The ingredients are incredibly fresh most of them imported directly from Italy. The pizza is a standout, especially the Margherita with its chewy crust and fragrant basil. The gelato counter is another must-stop; the pistachio flavor alone is worth the trip. One time I stopped by just to grab olive oil and ended up in a full conversation with one of the staff members about different types of truffle salts. He actually opened a jar for me to smell and recommended pairing it with roasted potatoes or scrambled eggs. That small, genuine gesture turned a quick errand into a memorable experience and yes, I left with the truffle salt and zero regrets."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkVU5uQnlXVWhqYzB0NFNsZzBUVzVFVEVnd01XYxAB",
+            "text": "Had dinner her last night it was incredible, Cozy ambiance and great cocktails."
+        },
+        {
+            "date": "2주 전",
+            "language": "de",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsemNrRjZVblIwWmtFdFNXaEhXbUpLUWtJM1MzYxAB",
+            "text": "Wir sind kurzfristig dort eingekehrt und haben ein Tisch am Abend bekommen. Das Ambiente war ganz nett, der Service leider nicht so dolle. Wir hatten 2 Pizzen, die waren beide sehr gut. Preislich zu teuer für das was geboten wurde."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoNFJYcFRWM05DVkY5RUxWRXhUbFJPV2pRMlpIYxAB",
+            "text": "I came to Eataly looking forward to a nice dinner, especially as I had a couple of good experiences there previously. Unfortunately, when I arrived I was told that I could only sit at the bar because I came alone , which I think is extremely unfair. Why should someone who dines alone be forced to eat at the bar? The bar stools are very uncomfortable without a proper back rest and they're generally not suitable for shorter people. The bar is also a very noisy and unpleasant place to be when you just want to enjoy your meal in peace.\nI was extremely disappointed by their treatment and even though the pizza was good, I won't be coming back."
+        },
+        {
+            "date": "2주 전",
+            "language": "iw",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5VWRWaHRkWGwyTlhKaWNXdG1Wa0Z2UmtGbllWRRAB",
+            "text": "המנות קטנות מאוד ויקרות, השירות היה לא טוב. לקח המון זמן עד שניגשו אלינו לקחת הזמנה וגם אחר כך כל פעם שביקשנו משהו זה לקח המון זמן. מאכזב"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ObFJWVktkRTkxYUhsT1JrWTRTMkV6YVY5UGJXYxAB",
+            "text": "This place is not what it is “made up to be” the wait staff is rude continuing to say that we were “uneducated” because we asked for a certain table. The specific waiter continued to harass us asking why we were upset. He would not leave any of us alone. We had to leave. The service was scarce a total of two people. For a 4.3 star restaurant…..I would highly recommend not going here if you are “uneducated” and or want little to no service at all. We decided to leave. Do to the harassment of the wait staff, and the unpredictability of our waiters behavior."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsMFZqSnllR1JsY25wa2JGUjBWRjh4ZWtSMlRGRRAB",
+            "text": "I visited Eataly in Philadelphia and had a fantastic casual experience. You order at the counter and then find a seat, which makes it relaxed and easygoing. The food is excellent fresh, authentic Italian dishes with lots of variety. The cappuccino is definitely a highlight, and the whole atmosphere feels vibrant and lively. It’s perfect if you want a quick bite, a coffee, or just to enjoy some Italian flavors without formal table service. Highly recommended for anyone who loves Italian food and a fun, self-service experience!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NM2JHdHNTMWxRWmtvNVgwWnhhM2hLYTFodWRuYxAB",
+            "text": "This store has a wide variety of products."
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "fr",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OWFdUUkdaVmh1YWtGWFkzZzRhSEEyWVhGSlNYYxAB",
+            "text": "Au dernier étage de ce départment store, pas loin du world trade center. Repas correct sans plus. Belle vue, service rapide. Pratique.\nJ’en ai profité pour continuer la lecture de mon dernier thriller „ Honesty Bar” acheté sur amazon ( dispo en français ou anglais!), une super intrigue pour toute la famille , sans violence, qui nous entraine entre la France, Varsovie et quelques iles paradisiaques!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOVllrWjRXR2hOWm0xbGNWWkNlazFYUnpBNFUyYxAB",
+            "text": "We just had a delicious lunch here - such a fun place - part grocery, part walk-up counters, part restaurant. As a party of 6 we ordered 3 different pizzas and an order of focaccia and had plenty of food. My favorite pizza was the Margherita Verace. Our servers were attentive. To top the meal off, we walked over to the pastry counter and ordered a cannoli to take away. Highly recommend."
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1TGNIZzJiMFkzZUZSdWNIWTVZWEZPY1hkWGEzYxAB",
+            "text": "Todo excelente fui a tomarme un trago"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wMWNqRTFlWFJNYTFkbGRVMXpTRFZyYkVkT2JIYxAB",
+            "text": "Checkout was quick and easy."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xocmFFaENhSGMyUVVWQ1gxSXlSSEJQYkZsdGFFRRAB",
+            "text": "Plenty of frozen meals available."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sTFdVaGpVa3BYY0c5VVMxOW1WRVpWVlZKNmRHYxAB",
+            "text": "Claudia Andreani was an excellent host, answered all of our questions about reservations. We were seated with a great view of the city and 9/11 Memorial. Our server, Cristian C, was attentive, answered our questions and responded professionally to the one food concern that we had. Great experience!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NNFIwcGlTRzlCYmxVMWNGUmpMWGhPVEc1TllWRRAB",
+            "text": "I came from out of town for the Fall Food & Wine Festa at Eataly Downtown because it looked amazing online, but unfortunately, it didn’t live up to the expectations. For the price of the ticket, I was hoping for a well organized and authentic Italian food experience with a good variety of tastings. Instead, most of the food was very basic mainly salad and focaccia, and even the arancinis were dry and not tasty at all. Overall, the food lacked flavor and creativity. I actually left feeling hungry and went straight to another restaurant afterward. The only redeeming part was the nice wine selection, which was enjoyable, but not enough to make the experience worth it."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5RFgwZE5TMnBaVFVWNlkya3pZakIzYkdORE9IYxAB",
+            "text": "Great Place\nExperience was awesome.\nBest pizza I had ever."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GaFozTTNXRzgxZEZZeVJsVjJNRVpOTW14R01IYxAB",
+            "text": "A wonderful restaurant and eateries. The atmosphere is lively and fun, and the Italian dishes are delicious and very fresh. The service is friendly and the staff is helpful. It's a pleasant experience that makes the place a special destination for food lovers."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FeFVWTktkalZmUmxORUxWZHFjRXRQVlZsd2NsRRAB",
+            "text": "What a great place and experience. The pizza was delicious as well as the tiramisu and the cannoli. The attached store is a free visit to an Italian market. This is a must see and taste if you are in to Italian food. Btw. never go to Olive Garden!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205VVdIZDFlVVJUVERjd2RIbExiblZoU21SWWMxRRAB",
+            "text": "Their service is poor\nBut the espresso is always good there."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKek5pMUVZbEJWY25aR05VZEJPV00xV0RoUWQyYxAB",
+            "text": "Review is for “La Rosticceria” - food was sub par: salmon over baked,  dried out and unseasoned. Veduree Grigliate had no seasoning (olive oil, vinegarette, salt).  Attendants unable to help and or understand order question / request.  Could be so good - but well below my Eataly / Lidia dining and food experiences."
+        },
+        {
+            "date": "수정일: 4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPaDVDTUlnEAE",
+            "text": "Went to Eataly for lunch on a weekday and the place was buzzing with activity. As always, the food at Eataly meets the high bar that they set for themselves, and the experience enriches one's understanding about Italian food/culture.\n\nUpdate: Had a vegetarian meal over the weekend. Was able to walk in and find a table. The food was excellent as always!\n\nEverything was great, and the serving staff was extremely hospitable, checking in regularly despite the busyness of the restaurant. Really enjoyed the food, even though the Branzino was a bit hard to navigate with all the bones. Nonetheless, the server was patient and guided me on the best way to work through it. It was great and I would highly recommend it!"
+        },
+        {
+            "date": "4주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGdlNFNHlPVkZmWDFZd2RqSkdOMnh2YUVoeU9WRRAB",
+            "text": "Excelente calidad de productos, todo o casi todo que diga italiano es importado, y por tal los sabores de la comida son auténticos. Muy rica comida. Y el servicio de primera calidad."
+        },
+        {
+            "date": "1달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kTE1FbExSRTVUWmxaU1YwTnphMTh3V25oUlJFRRAB",
+            "text": "Expérience culinaire incroyable ! Les lasagnes c’est une tuerie. Les serveurs sont très sympa et le cadre et magnifique !!  Oui recommandons à 2000%"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKdFFrWm5UUzFmWWpGdVJrUnRZMUp1TW5OSFFVRRAB",
+            "text": "I love this place, usually like getting some special Italian oils and vinegar for the cooking at home."
+        },
+        {
+            "date": "1달 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25seVpscE1lVWRIUVhKQmQxbzVPVXBhYm1ONkxYYxAB",
+            "text": "有兩間分店，訂位要注意是哪間，菜單是不一樣的，義大利麵跟麵疙瘩都很好吃。"
+        },
+        {
+            "date": "1달 전",
+            "language": "nl",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kME5rSkhSMnhQWDFOSVNVeHZSbmxZU3pKa1lVRRAB",
+            "text": "Verschrikkelijk. Op het eerste zicht mooie restaurantjes. De porties zijn zelfs voor een 2 jarige te klein. In verhouding veel te duur voor wat het is."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrMFZYbFFkRXRxYkRCMldGWkRVbVZwVVhsWFNIYxAB",
+            "text": "I love this place when I want to feel like I’m in Midtown but I don’t really want to go to Midtown. Good bread though some of the items are overpriced. Some of the olive oil especially."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0MVowMXlabTlRTUhJMFYwbFBXR2RRWTJkV2IwRRAB",
+            "text": "I thoroughly enjoy shopping and dining at Eataly Downtown. This location is my preferred destination for dining, thanks to its consistently exceptional food and welcoming atmosphere. The staff are always polite, attentive, and contribute to an outstanding overall experience."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5cnNpbTJBRRAB",
+            "text": "Found the black long piece after I boiled my beet tagliatelle and it give me a stomachache afterwards. The lady who works on have to be more careful please.\n\nToday stand  to wait on the line for 10 mins waiting for cashier no cashier at the cash register and the one that stand there said she is not available waiting for someone."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25nNWNUQkdjVVZNZEZKamNWUjVabW81YW10SFVXYxAB",
+            "text": "I’m going to write a review… I went to Eataly. I love what they sell there, I’m a loyal customer! But today I had an unpleasant experience at the self-checkout. There was a man working on the machines, and from the start he was blocking the aisle to pay without even saying “excuse me.” He began throwing around the baskets and carts as if he didn’t like his job. While I was trying to pay, an error came up in the system and, without asking permission, he started moving the machine while I was still trying to understand what was happening. He treated me however he wanted, without any respect for the customer or the space. I left a bit disappointed with this experience."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xabGJteHJPWE5RZFV4VlZqaE5aSGhyWjJOeFVGRRAB",
+            "text": "Store temperature is comfortable."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sRU1YUnFTbmRtTFRJd1NFWklRelpVTVZwUE1GRRAB",
+            "text": "Last night it was my daughters birthday. She wanted to roll into her early 30's with good food and a nice cozy environment. I suggested Vino& at Eataly downtown. Wonderful experience through out. Our waiter, Augusto was friendly and knowledgeable about the incredible wine selection, bar options and the food. I had the Salmon and my daughter had the Gnoochi with speck, both dishes were perfection. The manager came by to wish my daughter Happy Birthday. Also with dessert came a thoughtful addition of a birthday card. 10 out 10."
+        },
+        {
+            "date": "1달 전",
+            "language": "pl",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsaVlsQTBhbTFzTjBWQkxUUmlkVFZDY0U5eGVYYxAB",
+            "text": "Pizza na bardzo, bardzo cienkim cieście. Prawie jak kartka papieru. Świetny sos pomidorowy. Bardzo lekka (nie tłusta) w sensie trawienia.\nRavioli genialne! Całkiem spora porcja.\nNiestety rachunek za jedzenie z winem, piwem i piciem, podatkiem, napiwkiem to około 120$"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoUGFsRnVhSFZQT1MxeE1WY3laMlYzY0d4QlQwRRAB",
+            "text": "Eataly – New York City\n\nWhat an incredible foodie experience! My BF suggested this and again such a win!!! Eataly truly feels like stepping into the heart of Italy, right in the middle of New York. Everywhere you turn, there’s something tempting—fresh cheeses, handmade pastas, breads, pastries, sauces, meats, pizzas, and so much more. It’s part marketplace, part restaurant, part sensory overload—in the best way possible.\n\nWe weren’t super hungry when we stopped in, but couldn’t resist grabbing focaccia bread with potatoes and cheese along with a couple of Italian sodas. The quality and authenticity were outstanding, and I can only imagine how amazing a full meal would be here.\n\nWhether you’re looking to shop, snack, or sit down for a proper Italian meal, Eataly is a must-visit in NYC. I’m excited to check out the one in Santa Clara, but I have a feeling it will be hard to top this experience in New York!"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6a05fRERnEAE",
+            "text": "We loved our waiter and the food was delicious but we did not have a good experience with the day manager Cassandra. Zero stars for her."
+        },
+        {
+            "date": "7달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRcm9EcHNBRRAB",
+            "text": "이번에 여행일정 중 피자를 여러번 먹었는데 여기서 먹은 마르게리따 피자가 제일 맛있었습니다."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwM0t2SXF3RRAB",
+            "text": "환상적인 음식맛과 환상적인 이딸리 매장.\n산타마리아노벨라 제품도 판매중에 있습니다."
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1Z3JPbXRnRRAB",
+            "text": "좋은 재료로 만들어진걸 맛으로 알 수 있을만큼 좋은 이탈리안 식당입니다. 뷰도 좋고 쇼핑 전이나 후에 즐기기 좋습니다."
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1cklHTUxnEAE",
+            "text": "미국 지방 사람으로 도시 사람들이 부러운게 바로 \"Eataly\"임. 조지아에서 하나 있으면 고퀄의 파스타를 항상 즐길 수 있을텐데..뉴욕, 엘에이, 베가스 가면 한끼 해결하기 너무 좋은 곳입니다. 우리나라도 들어와 있어서 이미 경험 해 보신분들도 있겠지만 정말 파스타는 가시면 뭐든 시켜도 성공입니다."
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNZaEpDdm53RRAB",
+            "text": "밀라노와 도쿄, 서울 지점을 방문하고 Eataly에 대해 좋은 기억이 있어서 뉴욕에서도 방문. 점심식사 후 결제를 할 때 18%의 팁으로 적었는데 가게에서 임의로 20% 로 결제했다. 나중에 알았고 너무 황당했다. 이 뉴욕 지점이 Eataly에 대한 나의 좋은 이미지를 최악으로 만들었다."
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnd0xDTVhnEAE",
+            "text": "시험 망치고\n점심 먹으러\n역시 샌드위치에는 고기야 ㅋㅋㅋㅋ\n고기가 맛나네 ^^"
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzaXVfbUN3EAE",
+            "text": "맛있음.식료품구경도할수있음."
+        },
+        {
+            "date": "8년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnNl9lbFNBEAE",
+            "text": "170826 토 가족과. 너무 사람이 많다."
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMwd3Q3QkZnEAE",
+            "text": "그냥 마트"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCSlp5MW1TMHBUUVRKVk4zbEJlRFUyTkZsc1ExRRAB",
+            "text": "Absolutely amazing! Fresh Italian cuisine that’s hard to put into words. The supermarket section is incredible, and I even got to watch mozzarella being made (and was given a sample!). The staff was so friendly, and the meals came in generous portions and were incredibly yummy. I had to make a coffee stop and get an affogato—wow, it was the perfect finish. The Italian soda was also a big plus! I love all the fresh options in the market, with the highest-quality ingredients. So many choices, and the view is just stunning."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KUFJWcENkMjVYTTJFMlJIcE1kR296Vkd0ME9XYxAB",
+            "text": "Oh I’ve missed this place so much. The last time I was here was 2018/2019 and I was dreaming about coming back. I was able to order the lasagna again and it was delicious. I traveled here with my friends and they also enjoyed it. My friend got a pistachio cake (forgot what it was called) and she really enjoyed it. I got my precious lasagna again. My other friend and sister got pasta and a cannoli with some wine. I wish I took more photos but I was too busy enjoying the food. I highly recommend this place to anyone you won’t regret it."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OTGRrZFhPR2N4YUdFNVRVbFJjamgwVDNSbFdWRRAB",
+            "text": "Eataly has been a classic 1.5hr stop every time I come to NYC.\n\nFirst thing go to the bar order a drink\nThen walk and grab some snacks like pastries\nGO to the back and eat while overlooking the Memorial.\n\nThings they need to fix - I Bought probably like $250 in the snacks and drinks. Asked for a plate and since we were not eating at the restaurant we could not get one.\n\nHospitality and understanding your customers needs to be first. That’s what I teach to all my employees"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WNGIzVTJkRzk1VDNKNFdqbE1PRWhXZERGZlduYxAB",
+            "text": "I had a lovely dinner here at the La Pizza & La Pasta eatery within Eataly. I had a purchased the “Roman Nights” ticketed dinner experience which included 2 apps followed by 4 pasta dishes to share communal style. I loved the service and ambiance! Every dish was amazing! Wine and dessert were not included but a great add-on to the dinner! I’d love to visit again to enjoy similar experiences as it allows you to try multiple dishes at once. A winner!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSWWNuVmtXRXB4WlVWVWFWQXRiR05yY1daZk9IYxAB",
+            "text": "Watching fresh mozzarella being made is such a rare treat — it really brings you into the heart of the process. The store layout is inviting, with endless snacks to explore around every corner like phenomenal mortadella ! And don’t even get me started on the caramel tortina game changer! 😱 Highly recommend this place for both the quality and the experience."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SeE5ERklkbVZsVUVWS1YzZ3RUSGd0TUhSeFZrRRAB",
+            "text": "The pasta is simply irresistible. The flavors are deep and rich, and the cheese adds the perfect creamy touch. The calamari appetizer impressed me as well—crispy without being greasy, and packed with flavor."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWRWRXbGhlRmcyYkU0M2JUQmFRMnRWY2xsR2RXYxAB",
+            "text": "This place has delicious food and is pretty good for a business lunch if you're in the neighborhood but it can be somewhat expensive. Overall everything is pretty delicious, if not a bit salty. Whatever.  Cry into your delicious pizza and wine!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psaFpUZHZRMEZWY0ZWT1VFcEpRVXRYVUZCQk9HYxAB",
+            "text": "Definitely worth the stop in. The lasagna was at least as good as my own. The service was excellent, the only drawback is the price, but really what do you expect downtown Manhattan. The store is great, lots of imported Italian foods. There's are several places to get food and sit beside the restaurant."
+        },
+        {
+            "date": "2달 전",
+            "language": "de",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGelIwcHBSamx0V1hGM2FESjRTWEYwVUVJNFgyYxAB",
+            "text": "Die Bolognese und Lasagne waren gut.\nJedoch waren die Gnochis und Pizza Diavola nicht gut und sind von einem guten Geschmack leider zu weit weg.\n\nWenn man die Pizza mit einem originalen italienischen Restaurant vergleicht, kommt diese leider gar nicht an so eine ran.\n\nZudem sind die Preise enorm hoch, wo wir für 4 Gerichte, Mineralwasser und ein Cola mit Trinkgeld ca. 160$ gezahlt haben.\nPreis-/Leistungsverhältnis passen hier leider nicht zusammen, wobei die Location echt klasse ist."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKem8tTHVKdkx5VVVnEAE",
+            "text": "Awesome place! SUPER expensive ($20 for sandwich, $10 for single pastry) but it’s a fun experience and super chaotic at lunch time. I ordered the pistachio and mortadella with burrata sandwich/panini and it was fantastic. The Sfera dessert (kind of like a big Ferrero rocher with a creamy crunchy center) was super delicious also. The cacio y Pepe was just alright - was too expensive IMO for the portion size and actual flavor/texture of the dish although the simplicity is always nice. They also had a CRAZY large tiramisu they were serving as samples which was so fun!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxdGFVcG5NR3B4VDBReWJYWk1hRzlFUzI5emJIYxAB",
+            "text": "The receptionist could’ve been a bit more professional, but our server was super friendly and knowledgeable. We ordered three dishes: Pollo Alla Milanese, pizza Cotto & Funghi, and pasta Pappardelle Al Ragu Di Funghi. The chicken was so tender and juicy, the pasta was perfectly cooked, and the pizza was absolutely delicious! We also had the Cannoli Cart Experience for dessert, which was a treat. The atmosphere was lively and elegant, and the staff was really kind and helpful. Overall, we had a great time with the food and service."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJal9QNmNnEAE",
+            "text": "Highly recommend! Busy Saturday afternoon in April but only waited about 15 minutes. Our party of 3 was seated by the window overlooking the 9/11 Memorial plaza. Great service, delicious food including homemade pasta, average prices...give it a try!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQai1uNHZoMGZpclJ3EAE",
+            "text": "My goodness what an experience this was. Heaven on earth I swear. So many options there’s no way you can’t find what you want. Pricey to say the least but some good discounted items as well. Clean. Fun. Friendly staff."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kQ1IwdG9SVXRKZVdKcU1HNU9VWEZsY0c1b1YzYxAB",
+            "text": "Lunch with a view and what a view at that! We visited to celebrate our wedding anniversary here and enjoyed every moment of it.\n\nWe ordered Lasagne Emiliane, Spaghetto el Pomodoro e Burrata and Rianata pizza with beer. The food was delicious, pasta and pizza were cooked to perfection.\n\nThe host and the servers were all friendly and kind.\n\nThis Eataly is located inside Westfield World Trade Center. Along with the restaurant, there is also a section for shopping for produce and groceries.\n\nWe hope to return soon."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pjeFNEUkdjV1J5VVVwV1dYSnJiREJRVEhsRFdHYxAB",
+            "text": "This place is huge with tons of pasta options for every taste! We ordered the dishes in the photo, but the food wasn’t served hot. If it weren’t for that, it would’ve been a solid 5-star experience!"
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJXzQ3RWF3EAE",
+            "text": "En principio entre al restaurante que está justo al frente al entra llamado vini &  y la host fue muy grosera al indicar que no había asientos para nosotros porque llevábamos un bebé en un cochesito alegando que no había espacio donde clara mente había nos sentó en la barra con el bebé y encima pusieron un bowl grande lleno de hielo cerca del bebé nos fuimos inmediatamente porque eso para mí fue muy desafortunado.\n\nLuego de este horrible acontecimientos nos movimos a un restaurante más atrás llamado pasta y pizza que lo recomiendo 100% la host y camareros fueron muy amables inmediatamente la joven nos buscó un asiento muy cómodo donde pude poner el coche del bebé sin problemas la comida estuvo deliciosa y el ambiente igual.\n\nTomen en cuenta esta reseña si van a ir con bebés para evitar decepciones porque la verdad fue algo que me causó mucho estrés."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VPcXRzcVBNaUxHM3ZBRRAB",
+            "text": "Nice place to get in touch with Italian foody😉small market with unbelievable many fresh choices. Restaurants with real Italian style food. Also nice view of the city. Worth to go. Only thing is bit of pricy~ but well in NYC nothing is cheap~"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRNG9IRGxnRRAB",
+            "text": "We had the best experience there! Our server Adriana was very kind and friendly! She suggested some spectacular dishes from the menu and explained each one of them with great passion! We loved the place! Excellent service and food ☺️"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SQmVrZEVYMFp4VDB4R2EwNTNVbGRLZHpONFIzYxAB",
+            "text": "Food, service and the waiter are excellent. It's a little bit pricey, but I would reccomend everyone to have this experience at least once."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213dFZIUjVWakF5WWtkTFdVUmhjSEZWV1VoTE1WRRAB",
+            "text": "Dropped in here for a quick dinner with my daughter. We were seated right away. Zas came out super fast. They were delicious! Savory and light."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VOVFNuUGI2ajQyYlNREAE",
+            "text": "Meh. Fun and packed. Right outside the 9/11 memorial. We should have eaten at a small Italian joint on a corner, tucked away in the city. Instead we opted for this. Good food, it was just pricey. The atmosphere is jam packed, loud and busy so be prepared. Bread is 5-15 bucks depending on what type. Weird, most Italian restaurants give you that on the house. Bring your wallet and stick to the basics."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsTE1taGphbkZNU21aQlNVTTFXVlZKV1UxeFEwRRAB",
+            "text": "EATALY WTC in Financial District\nAll the gourmet food wine to prepare or freshly prepared to grab and go. On tower four 4 of World Trades Center."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPTFQ1WnpWX3VXT21RRRAB",
+            "text": "Been here a ton of times. Always a good time— and the food is delicious. Pasta pomodoro is the best, try it."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wd2NWVnFUVEF6U2psS1dtdEhlVlpxVldSclVGRRAB",
+            "text": "Incredible views, especially during the day and definitely the best Italian food downtown for sure. Must visit the store at the least if not the restaurant."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2cy1udklBEAE",
+            "text": "Wow it was a special time today. The hostess made our table of 8 happen faster than we thought. Diego the manager was on the floor and so helpful. Justin was our server and he was super nice and very thorough. They all communicated so well. Delicious food and beautiful fresh and open atmosphere. We really loved our lunch. Thank you"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQeDduN09REAE",
+            "text": "The food was incredible. We had the burrito with focaccia bread that was mouthwatering 10/10. Lasagna was great as well. Deserts impeccable. Fantastic service. I have nothing negative to say about this place in any way shape or form."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzNXNiU3hnRRAB",
+            "text": "An absolute gem for anyone who loves Italian cuisine. The atmosphere is vibrant and bustling, with so many food stations and options that it feels like stepping into a little corner of Italy. The quality of ingredients is top-notch, and everything from the freshly made pasta to the wood-fired pizzas tastes authentic and delicious. The marketplace also offers a fantastic selection of Italian groceries, wines, and desserts. The staff is friendly and knowledgeable, always ready to recommend dishes or help you navigate the many choices. It’s a must-visit spot in NYC, whether you’re grabbing a quick bite, enjoying a full meal, or stocking up on Italian treats to take home. Highly recommended!"
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxWGJXUnVabFZLUW14MVZqUXlVbk5FTkdVM05YYxAB",
+            "text": "Dopo diversi giorni siamo stati richiamati dal cibo italiano. In effetti complimenti per il servizio e sopratutto per i primi davvero buoni. Sinceramente non pensavo di mangiare un piatto di fettuccine al ragù tanto buono. Suggerisco di provarne altri di primi, tutti cucinati bene. Cacio e pepe nella forma di parmigiano portata al tavolo da cameriere una nota aggiuntiva di qualità. Direi di provare sopratutto per tornare a mangiare bene!!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0eWVHRkhOWHA0Tm14V2VWTklaMHBwTjNCdVRrRRAB",
+            "text": "I already started missing this place.  This place is all about Italian food and condiments.  Must visit and enjoy!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmaDZ5cTRRRRAB",
+            "text": "Their calamari is among the best I’ve ever had at an Italian restaurant—refreshingly served with some fried vegetables. The white truffle pasta and seafood pasta further elevated the dining experience. I also really enjoyed the view, which includes the 9/11 Memorial building, and friendly service added to the overall experience."
+        }
+    ],
+    "reviews_count": 89
+}

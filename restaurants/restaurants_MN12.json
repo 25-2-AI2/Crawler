@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Inwood Bar & Grill",
+        "address": "4892 Broadway, New York, NY 10034, USA",
+        "place_id": "ChIJrY34o_fzwokRWEo4U7Aw8r8",
+        "rating": 4.8,
+        "user_ratings_total": 13330,
+        "phone_number": "(212) 304-3704"
+    },
+    {
+        "name": "Terravita",
+        "address": "4193 Broadway, New York, NY 10033, USA",
+        "place_id": "ChIJASsUtcD3wokRZQaPJocnxPs",
+        "rating": 4.7,
+        "user_ratings_total": 1015,
+        "phone_number": "(646) 370-4371"
+    },
+    {
+        "name": "The Uptown Garrison",
+        "address": "821 W 181st St, New York, NY 10033, USA",
+        "place_id": "ChIJxYY-IqH2wokRySYNYm9i6dQ",
+        "rating": 4.5,
+        "user_ratings_total": 690,
+        "phone_number": "(917) 261-4680"
+    },
+    {
+        "name": "Fort Washington Public House",
+        "address": "3938 Broadway, New York, NY 10032, USA",
+        "place_id": "ChIJE-iZ8mr3wokRtuUpEY3tuM4",
+        "rating": 4.4,
+        "user_ratings_total": 626,
+        "phone_number": "(646) 813-2210"
+    },
+    {
+        "name": "Cafe Bloom",
+        "address": "4394 Broadway, New York, NY 10040, USA",
+        "place_id": "ChIJA3Id8FD1wokRnXFTlhGc1bE",
+        "rating": 4.7,
+        "user_ratings_total": 321,
+        "phone_number": "(646) 429-8734"
+    },
+    {
+        "name": "El Tanque Trattoria Bar",
+        "address": "101 Sherman Ave Suite 3, New York, NY 10034, USA",
+        "place_id": "ChIJJcp16iL1wokRmgcBqwUrQVM",
+        "rating": 4.9,
+        "user_ratings_total": 728,
+        "phone_number": "(646) 559-0243"
+    },
+    {
+        "name": "Inwood Farm",
+        "address": "600 W 218th St, New York, NY 10034, USA",
+        "place_id": "ChIJy1euYgPzwokRh0HmWpSAF08",
+        "rating": 4.4,
+        "user_ratings_total": 1075,
+        "phone_number": "(212) 884-2111"
+    },
+    {
+        "name": "Saggio",
+        "address": "827 W 181st St, New York, NY 10033, USA",
+        "place_id": "ChIJEc6ZPKH2wokRZyyIzHgixT4",
+        "rating": 4.4,
+        "user_ratings_total": 755,
+        "phone_number": "(212) 795-3080"
+    },
+    {
+        "name": "Jalao NYC",
+        "address": "Inside Radio Hotel, 2420 Amsterdam Ave, New York, NY 10033, USA",
+        "place_id": "ChIJq6rqPh_0wokRYx9DPUPrCJs",
+        "rating": 4.2,
+        "user_ratings_total": 1054,
+        "phone_number": "(929) 688-4684"
+    },
+    {
+        "name": "Budda Kitchen & Bar",
+        "address": "4325 Broadway, New York, NY 10033, USA",
+        "place_id": "ChIJocNPoBL1wokRYx2NrrhZsSE",
+        "rating": 4.7,
+        "user_ratings_total": 208,
+        "phone_number": "(646) 398-8762"
+    },
+    {
+        "name": "Le Chéile",
+        "address": "839 W 181st St, New York, NY 10033, USA",
+        "place_id": "ChIJpSkMPqH2wokRfy_b2yucueE",
+        "rating": 4.4,
+        "user_ratings_total": 1042,
+        "phone_number": "(212) 740-3111"
+    },
+    {
+        "name": "Latino Bites Washington Heights",
+        "address": "Food Truck, 123 Dyckman St, New York, NY 10040, USA",
+        "place_id": "ChIJofOEy_D1wokRqapvp6DU_po",
+        "rating": 4.8,
+        "user_ratings_total": 18,
+        "phone_number": "(929) 502-8390"
+    },
+    {
+        "name": "La Casa Del Mofongo",
+        "address": "1447 St Nicholas Ave, New York, NY 10033, USA",
+        "place_id": "ChIJH_3_XR70wokRk49y2KuyfBQ",
+        "rating": 4.1,
+        "user_ratings_total": 4856,
+        "phone_number": "(212) 740-1200"
+    },
+    {
+        "name": "Chez Messy",
+        "address": "5 Edward M Morgan Pl, New York, NY 10032, USA",
+        "place_id": "ChIJOc6gA9X3wokRu5v-fpKFkBs",
+        "rating": 4.7,
+        "user_ratings_total": 223,
+        "phone_number": "(646) 476-2700"
+    },
+    {
+        "name": "Malecon Restaurant (175th Street)",
+        "address": "4141 Broadway, New York, NY 10033, USA",
+        "place_id": "ChIJHyYvn5_2wokRKyOPOJ53zWQ",
+        "rating": 4.4,
+        "user_ratings_total": 3942,
+        "phone_number": "(212) 927-3812"
+    },
+    {
+        "name": "Bocaditos Bistro NYC",
+        "address": "4863 Broadway, New York, NY 10034, USA",
+        "place_id": "ChIJD6voiPfzwokR8Z2OcFVNnLU",
+        "rating": 4.1,
+        "user_ratings_total": 738,
+        "phone_number": "(646) 437-8363"
+    },
+    {
+        "name": "The Hudson",
+        "address": "348 Dyckman St, New York, NY 10034, USA",
+        "place_id": "ChIJGfQD5f7zwokRvKJ7ouEAXXQ",
+        "rating": 3.9,
+        "user_ratings_total": 2074,
+        "phone_number": "(212) 304-1110"
+    },
+    {
+        "name": "Manolo Tapas",
+        "address": "4165 Broadway, New York, NY 10033, USA",
+        "place_id": "ChIJxw-fiJ_2wokRM3GLb_T9TWU",
+        "rating": 4.6,
+        "user_ratings_total": 1156,
+        "phone_number": "(212) 923-9100"
+    },
+    {
+        "name": "Mamajuana Cafe Inwood",
+        "address": "247 Dyckman St, New York, NY 10034, USA",
+        "place_id": "ChIJ4SwImvjzwokReBpQlpMwuYw",
+        "rating": 4.1,
+        "user_ratings_total": 1816,
+        "phone_number": "(212) 304-0140"
+    },
+    {
+        "name": "Garden Cafe",
+        "address": "4961 Broadway, New York, NY 10034, USA",
+        "place_id": "ChIJ6TCT6PbzwokRfsZUbEWFNWk",
+        "rating": 4.4,
+        "user_ratings_total": 427,
+        "phone_number": "(212) 544-9480"
+    },
+    {
+        "name": "Geisha Asian Fusion",
+        "address": "4186 Broadway, New York, NY 10033, USA",
+        "place_id": "ChIJtYb5eZj3wokR37WTthV9GQ8",
+        "rating": 4.4,
+        "user_ratings_total": 359,
+        "phone_number": "(212) 927-1246"
+    },
+    {
+        "name": "Fito",
+        "address": "4736 Broadway, New York, NY 10040, USA",
+        "place_id": "ChIJ0VsaLnv1wokRuAZjmx8HIMU",
+        "rating": 4.8,
+        "user_ratings_total": 143,
+        "phone_number": "(646) 789-1844"
+    },
+    {
+        "name": "Tryon Public House",
+        "address": "4740 Broadway, New York, NY 10040, USA",
+        "place_id": "ChIJ44_9bwf0wokR1KavbylvSlc",
+        "rating": 4.4,
+        "user_ratings_total": 1390,
+        "phone_number": "(646) 918-7129"
+    },
+    {
+        "name": "Lola Lola",
+        "address": "1306 St Nicholas Ave, New York, NY 10033, USA",
+        "place_id": "ChIJSwYI35_2wokRVEMQXx1qz4Q",
+        "rating": 4,
+        "user_ratings_total": 427,
+        "phone_number": "(646) 559-0930"
+    },
+    {
+        "name": "Unique",
+        "address": "586 W 207th St, New York, NY 10034, USA",
+        "place_id": "ChIJEyAHVazzwokRqeDuj6t3bvo",
+        "rating": 4.8,
+        "user_ratings_total": 178,
+        "phone_number": "(212) 451-9556"
+    },
+    {
+        "name": "181 Cabrini",
+        "address": "854 W 181st St, New York, NY 10033, USA",
+        "place_id": "ChIJkQJbFKH2wokRgm5xHrUxe4U",
+        "rating": 4.2,
+        "user_ratings_total": 489,
+        "phone_number": "(212) 923-2233"
+    },
+    {
+        "name": "Havana Heights",
+        "address": "4083 Broadway, New York, NY 10032, USA",
+        "place_id": "ChIJv5KsAJD3wokRMcTPBAgk-lI",
+        "rating": 4,
+        "user_ratings_total": 774,
+        "phone_number": "(646) 590-9734"
+    },
+    {
+        "name": "Native Noodles",
+        "address": "2129 Amsterdam Ave, New York, NY 10032, USA",
+        "place_id": "ChIJBUwqQtX3wokRuc2aytaILFs",
+        "rating": 4.6,
+        "user_ratings_total": 345,
+        "phone_number": "(646) 370-6290"
+    },
+    {
+        "name": "Brown Sugar Bar & Restaurant",
+        "address": "5060 Broadway, New York, NY 10034, USA",
+        "place_id": "ChIJT40YdfPzwokRohbdynCkc5g",
+        "rating": 4.2,
+        "user_ratings_total": 937,
+        "phone_number": "(646) 688-3504"
+    },
+    {
+        "name": "Napa in the Heights Seafood & Wine Bar",
+        "address": "4927 Broadway, New York, NY 10034, USA",
+        "place_id": "ChIJtU0hMdbzwokRVpzLKjVuLxw",
+        "rating": 4.7,
+        "user_ratings_total": 118,
+        "phone_number": "(212) 942-6272"
+    },
+    {
+        "name": "Cachapas y Mas",
+        "address": "107 Dyckman St, New York, NY 10040, USA",
+        "place_id": "ChIJ2wU1Owb0wokRSpCLX-FXJtM",
+        "rating": 4.4,
+        "user_ratings_total": 2449,
+        "phone_number": "(212) 304-2224"
+    },
+    {
+        "name": "Mambi",
+        "address": "4181 Broadway, New York, NY 10033, USA",
+        "place_id": "ChIJu3XVJaD2wokR8vwbqmztsPk",
+        "rating": 4.2,
+        "user_ratings_total": 1626,
+        "phone_number": "(212) 928-9796"
+    },
+    {
+        "name": "Locksmith Bar",
+        "address": "4463 Broadway, New York, NY 10040, USA",
+        "place_id": "ChIJ8eptJAP0wokRedQqUtMxdYM",
+        "rating": 4.4,
+        "user_ratings_total": 758,
+        "phone_number": "(212) 304-9463"
+    },
+    {
+        "name": "ZOHO RESTAURANT",
+        "address": "524 W 207th St, New York, NY 10034, USA",
+        "place_id": "ChIJxZRlfgvzwokREiAT0dt29IQ",
+        "rating": 4.8,
+        "user_ratings_total": 270,
+        "phone_number": "(347) 908-0926"
+    },
+    {
+        "name": "Floridita",
+        "address": "4162 Broadway, New York, NY 10033, USA",
+        "place_id": "ChIJJZEViZ_2wokRgvvjktJT_B8",
+        "rating": 4.1,
+        "user_ratings_total": 1293,
+        "phone_number": "(212) 928-0653"
+    },
+    {
+        "name": "Inwood Local Wine Bar & Beer Garden",
+        "address": "4957 Broadway, New York, NY 10034, USA",
+        "place_id": "ChIJT1cl8PbzwokRvZOVaH0hQ8Y",
+        "rating": 4.5,
+        "user_ratings_total": 240,
+        "phone_number": "(212) 544-8900"
+    },
+    {
+        "name": "Guadalupe Restaurant",
+        "address": "597 W 207th St, New York, NY 10034, USA",
+        "place_id": "ChIJv-bh-PbzwokR-AR_g9KRXLY",
+        "rating": 4.4,
+        "user_ratings_total": 1599,
+        "phone_number": "(212) 304-1083"
+    },
+    {
+        "name": "Tampopo Ramen",
+        "address": "1 Bennett Ave, New York, NY 10033, USA",
+        "place_id": "ChIJFxsXmaD2wokRfqXPG2eCyDY",
+        "rating": 4.5,
+        "user_ratings_total": 1206,
+        "phone_number": "(212) 923-0575"
+    },
+    {
+        "name": "Hudson View",
+        "address": "770 W 181st St, New York, NY 10033, USA",
+        "place_id": "ChIJNdjH6KD2wokRGfGnTcpM4AQ",
+        "rating": 4,
+        "user_ratings_total": 456,
+        "phone_number": "(212) 781-0303"
+    },
+    {
+        "name": "Bravo56 NYC",
+        "address": "261 Dyckman St, New York, NY 10034, USA",
+        "place_id": "ChIJ7TSzzbHzwokR5we5sSX0n-Q",
+        "rating": 4.5,
+        "user_ratings_total": 111,
+        "phone_number": null
+    },
+    {
+        "name": "Blue Mountain Heights",
+        "address": "499 W 158th St, New York, NY 10032, USA",
+        "place_id": "ChIJr14j-4P2wokRIgceLNYTSto",
+        "rating": 4.3,
+        "user_ratings_total": 254,
+        "phone_number": "(646) 998-5905"
+    },
+    {
+        "name": "Elsa La Reina del Chicharron",
+        "address": "4840 Broadway, New York, NY 10034, USA",
+        "place_id": "ChIJH2stGfjzwokR8FZeRLxjKbY",
+        "rating": 4.4,
+        "user_ratings_total": 1179,
+        "phone_number": "(212) 304-1070"
+    },
+    {
+        "name": "Hilltop Park Alehouse",
+        "address": "3821 Broadway, New York, NY 10032, USA",
+        "place_id": "ChIJj4NiqQz3wokRFEzXvdZfoGM",
+        "rating": 4.2,
+        "user_ratings_total": 489,
+        "phone_number": "(646) 438-9293"
+    },
+    {
+        "name": "Tubby Hook Tavern",
+        "address": "4946 Broadway, New York, NY 10034, USA",
+        "place_id": "ChIJi8Ve7vbzwokRrwx0vD6nSrA",
+        "rating": 4.5,
+        "user_ratings_total": 568,
+        "phone_number": "(212) 569-7071"
+    },
+    {
+        "name": "ROOM 151 SUSHI & STEAKHOUSE",
+        "address": "151 Dyckman St, New York, NY 10034, USA",
+        "place_id": "ChIJeVp28If1wokRRhNiENgr9lc",
+        "rating": 4.6,
+        "user_ratings_total": 226,
+        "phone_number": "(646) 707-0765"
+    },
+    {
+        "name": "RAMEN KU-RAKU",
+        "address": "3952 Broadway, New York, NY 10032, USA",
+        "place_id": "ChIJG-jerif3wokR4f40fzi2JTE",
+        "rating": 4.4,
+        "user_ratings_total": 294,
+        "phone_number": "(212) 568-8866"
+    },
+    {
+        "name": "Dallas BBQ Washington Heights",
+        "address": "3956 Broadway, New York, NY 10032, USA",
+        "place_id": "ChIJ1Tldkpz2wokR1BvQMWlaoOs",
+        "rating": 4.1,
+        "user_ratings_total": 4169,
+        "phone_number": "(212) 568-3700"
+    },
+    {
+        "name": "Monkey Brothers Lab",
+        "address": "206 Audubon Ave, New York, NY 10033, USA",
+        "place_id": "ChIJjxxMP_TzwokRjpBxHi6nq34",
+        "rating": 4.6,
+        "user_ratings_total": 244,
+        "phone_number": "(646) 874-7409"
+    },
+    {
+        "name": "The Bonnefont",
+        "address": "1 Margaret Corbin Dr, New York, NY 10040, USA",
+        "place_id": "ChIJZVrBiOn1wokRgTOIN3hlOJM",
+        "rating": 4.2,
+        "user_ratings_total": 210,
+        "phone_number": "(212) 740-2939"
+    },
+    {
+        "name": "La Barca Restaurant",
+        "address": "3892 Broadway, New York, NY 10032, USA",
+        "place_id": "ChIJectupoT2wokRYCeTGuF6xlQ",
+        "rating": 4.1,
+        "user_ratings_total": 634,
+        "phone_number": "(212) 928-1090"
+    }
+]

@@ -1,0 +1,656 @@
+{
+    "name": "The Blue Dog Cookhouse & Bar",
+    "place_id": "ChIJC6xz-lZYwokRd5Gv26A3RMA",
+    "grid": "MN4",
+    "address": "308 W 50th St, New York, NY 10019, USA",
+    "rating": 4.4,
+    "user_ratings_total": 2769,
+    "phone_number": "(212) 459-0700",
+    "reviews": [
+        {
+            "date": "16시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoSmFIWm9Wemt0YjNkeFZtTjVUazlyYVdWaFdsRRAB",
+            "text": "What I saw was a world of deliciousnes"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FNVgxWkdiMGhHTWtwVGFHNW5XakZ5UVhGdlUyYxAB",
+            "text": "This restaurant is cute but tiny. Reservations are definitely recommended.\n\nWe had high hopes based on the good reviews, but our experience didn’t live up to the hype.\n\nThe food just wasn’t very good. I got the soup, which was oddly gritty. There’s nothing I love more than deviled eggs, so I got “deviled eggs our way” on the side. I’m really not sure why they’re called deviled eggs, nor why they’re on the menu. I tried guac and chips, and received a hard boiled egg covered in guac. The squash version was a hard boiled egg with a spoonful of squash on top. It was sad and not tasty.\n\nMy friend ordered the steak salad. There’s nothing salad was tiny and the steak was unappetizing. It was thin, fatty, and overcooked.\n\nIt may well be that we didn’t get the best items on the menu, but with all the restaurants in Manhattan, this isn’t one I’d recommend."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25nMmVtRXRVRXBRT0ZsVlEyYzBiWGhMWTNWbVRrRRAB",
+            "text": "Had a delicious pre theater dinner last night! Thank you Agustin for the amazing cocktail recommendation and your help!"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWalgzbzNSMlpXVDBKaE0xVkViWE0wZVRrMVZIYxAB",
+            "text": "Loved it! Great breakfast menu, fabulous food, great service. All round awesome 😊"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aclZ6QTNVVTR0V0ZjMVVteDJlVzE1Um5WTGVVRRAB",
+            "text": "Subject: Concern Regarding Lack of Hot Water in Restroom – Visit on October 26, 2025\n\nDear Management Team,\n\nI hope this message finds you well. I am writing to bring to your attention a concern my friend and I experienced during our visit to The Blue Dog Cookhouse & Bar on Sunday, October 26, 2025.\n\nWhile dining at your establishment, we noticed that the restroom did not have any hot running water available for handwashing. As visitors from out of town, we were quite surprised and disappointed, as proper handwashing facilities are an important part of maintaining hygiene and ensuring a safe dining environment for guests and staff alike.\n\nWe truly enjoyed the atmosphere and the quality of your food, but this issue left a negative impression that we hope can be promptly addressed. Please look into this matter to ensure the facilities meet health and safety standards.\n\nThank you for taking the time to review this concern. I look forward to hearing back from you regarding any steps being taken to resolve it.\n\nWarm regards,"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwSlRYZHZRak5mWldnNWVsSkJNazAwVm1wcmMzYxAB",
+            "text": "Nice place good burgers and drinks"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCdGFrMWFjR2xhUjJ0MFFrMVZjVmcwWjJSMFQyYxAB",
+            "text": "The restaurant was beautiful. The service was amazing. Agustín ,our server, was delightful and friendly. Love love love."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213MVlYcG5SekpoTlV0MGVXeDNhMDVqWkRnMFVIYxAB",
+            "text": "Steven and Marlon were the best! Amazing food and ambiance - check it out!! Thanks for a great morning with love from the Mpls girls!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4VlMwbFFPVlZ6ZVRCTlpGOU1NbXRGYkRrMlpYYxAB",
+            "text": "Pay YOU'RE taxes!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNMGVuaGpZa2hhTVhoZlpuSkRMWHBRVm1SWFpVRRAB",
+            "text": "The friendliest staff!!! Marlon and Steve are quite the hosts and more than willing to chat about all things NYC, especially if you are sitting at the bar."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taSE1IVXdiV2RCZVVkMFVXUjRTamMxY0VzdGRWRRAB",
+            "text": "Small bar style restaurant.  Brunch was good but crowded,  very little elbow room, you will be sharing tables with strangers"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvd2JVeHdXa0V4YkRKRWVGaHVhbFJ5YzFWbFdsRRAB",
+            "text": "Stopped by for brunch on our last day in NYC. Wanted something close to Times Square. We had 7 in our party but were seated right away without a reservation. Food and drinks were great. Service was excellent. The owner/manager was very friendly!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OWVNXeDRhbXhLZDFOVVkycFZlbUpLVG1ack1GRRAB",
+            "text": "The Blue Dog Cookhouse & Bar was an awesome brunch experience in Hell’s Kitchen! Agustin gave us such good recommendations for food and drinks. Highly recommend for the grubs and the service."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGc01qaElablZZV1ZCM0xYSkhXWEpJU3pCYVkwRRAB",
+            "text": "We ordered the shrimp & caviar eggs benedict, huevos rancheros, and buffalo cauliflower. Food was incredible and Agustin gave us great recommendations!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjMFMzYzVOR3RZTkc1blVFSkNjelU0TkdWTWNYYxAB",
+            "text": "Augustin was a great server! He was attentive, helpful, and personable with a great sense of humor."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFM1lsVkxNVVF4ZEVwMk1XNHlhV0o1VFZReFpVRRAB",
+            "text": "Small building but was not cramped at all. Chicken abd waffles were fantastic and the hot chocolate was exceptional. Would recommend, 9/10"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOb1dEWnJOelpCUm0xamJtZHljV3hCTTA0d2RXYxAB",
+            "text": "Make a reservation! Even for breakfast and small parties. The seating is very limited. Definitely glad we had breakfast here. High recommend the Nutella s’mores stack (pancakes) or the Oreo crusted waffles."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4dGFFSjRPVU5DTFUxRWIySmtWM1pLWVMxS1NFRRAB",
+            "text": "Food was delicious. Our server, Augustine, was attentive and extremely pleasant. I can’t wait to go back again."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OTFQyd3hRV1EyZUZCdGJrWjZlRXhxVVMxMlFWRRAB",
+            "text": "Food was excellent.  3 breakfast dishes and a salad."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOWlMweFNXVTl2ZERaM1FrTjRUVXBtWVVGR01FRRAB",
+            "text": "The location is very tiny. However the food and service were huge."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xUVJsUmZOWGQ2VG5jeldTMWFiRU5rUmxodVRrRRAB",
+            "text": "A little crowded and busy, but that’s NYC. Food was incredible, Empire State of mind burger was just amazing."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214TVRHYzFURUUxVG1jeU0zbzRhVXQzTkZvelRYYxAB",
+            "text": "Great place, 10/10 food and the best was the service from our waiter Agustin"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsWFp6Qk5hVTVXT1hwd1MyZFZRMFZGYURCZmVXYxAB",
+            "text": "The Blue Dog Cookhouse & Bar is awesome! The food is fresh, flavorful, and full of variety — whether it’s brunch or dinner, everything tastes great. The portions are generous, and the drinks are spot on. The atmosphere is lively and welcoming, with friendly staff who make sure you’re taken care of. A perfect spot for good vibes, great food, and a fun time out."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5SWQyMXVWblZoV0c1UFVFTnFaMGd0WVdsbFgwRRAB",
+            "text": "Very innovative menu and great food. Restaurant is small but has a very nice ambience. A nice place for breakfast with someone special"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taaGQzbGZOMmw2TjJGUVJsaFZZVTk2UmtOVkxYYxAB",
+            "text": "Loved breakfast here! The menu has plenty of options for both kids and adults, and everything was fresh and delicious. Cozy atmosphere and welcoming service made it a great start to the day. Perfect spot for families."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WR2FVSnVURzlrVm13MlRETkRaMjlhZERFM2EyYxAB",
+            "text": "We just loved this cozy gem!  The food is fresh and hot, the staff is friendly and accommodating!  Especially the Manager!  Looking forward to returning soon!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0TE1pMDBMVU5VV2kxSU9VWnBNVFZwUlhwMlozYxAB",
+            "text": "Visited for dinner before a show since it is located quite close to the Broadway theatres. I ordered their braised short ribs dish, and the meat was savoury, tender, and delicious. The flavour of the sauce reminded me of a recipe used in my family for another beef dish, which was very comforting. The service was warm and efficient from all of the staff. Cozy and welcoming space. Highly recommended for a dinner before or after a Broadway show."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWdGQycHZTWFZpTkVaRGJIVlRRM2MwZDNad1NuYxAB",
+            "text": "Very disappointed with the service. I had arranged with the waiter to bring out a slice of cake with a candle to celebrate my sister’s birthday. She agreed and seemed understanding, but when the cake arrived there was no candle, which spoiled the surprise.\n\nWhen I requested a candle, she brought one but didn’t bother to light it properly and walked away without wishing my sister a happy birthday.\n\nI understand that they may be busy, but birthdays are special moments and a little courtesy goes a long way. The lack of care and attention made the experience feel rushed and dismissive. Definitely not the service we were hoping for on such an occasion."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KU2VXUk1YM0ZxUWtFMFIyTlNWMjlRVWt4VVMxRRAB",
+            "text": "Excellent food, service, and ambiance. Many thanks to Augustine for facilitating a great night!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wSVVsa3RYMk5ZYWpac1h6WkVRMFl6UkdkalExRRAB",
+            "text": "Great food. Great drinks. Augustine was fantastic!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCaGRtRkZObnBoYlROSlRUVlBRalpqVkVOVFFsRRAB",
+            "text": "Food and service were wonderful. Augustine was great - very attentive and super friendly! Highly recommend"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SbU5HdzVTRlZwYWtwdWRtbDJVek0yYkV0U2NFRRAB",
+            "text": "The food was very good and Augustine was very accommodating. Overall a great experience!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1bFYzWkRSVjl6Y1hCc1JtcEhUVFI1ZGtGa1QyYxAB",
+            "text": "Augustine provided excellent service and made the dining experience fun and enjoyable!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSc09FRmxTVFZWVGpGQmJFcDJNWEF6U0RCcFIwRRAB",
+            "text": "This is one of my favorite spots in the area! The atmosphere is cozy, the food is great, and the service is top-notch. Augustin took great care of us tonight and was so friendly!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkRFpWTlRja3hMWkhwTVJIRnBaekJDVGtKcVkwRRAB",
+            "text": "A delightful little pre-theatre dinner spot! Delicious food, delightful atmosphere, and our server, Augustin was phenomenal! I will be coming back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5eU5rSllUemhzWVZob00yOVNZM3BUWlZOa04xRRAB",
+            "text": "We went there for the burgers and ordered an appetizer. You know what I had the best burger of my life. We loved it. The idea of pickle on side is awesome. Our server Agustin and all the other staff were super nice aswell. Thank you."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21waGFVaGlMWGxCU1ZWWE9HdFZTbVY1VEVocWVtYxAB",
+            "text": "We ordered 3 different burgers they were all delicious and great portions . Plus very good service, extremely fast and friendly. Our server Augustine took really good care of us!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xka2JHVldiVk13ZDBkS01FcEpNREpsYWpWUVQwRRAB",
+            "text": "Travis & the rest of the staff were amazing! Everything was awesome! We really had the best time."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201S1ducFJZVk15VjJ0SGNsbzRSMmx6Y1VSZlozYxAB",
+            "text": "Great food, great service, great atmosphere. Travis and the rest of the staff was amazing."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCWE4wZzJOV0l6WjJwS2IwMVZlV2g0YjNoc2IxRRAB",
+            "text": "Agustin was a phenomenal server which enhanced the experience! I have ALOT of food allergies and he was very accommodating to all of them. Highly recommend to anyone in the area or who wants a FANTASTIC steak🫡"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkdmVEaFRTRWRNWlROQ1VVWktUa0oxZUhaa1UyYxAB",
+            "text": "Agustin took great care of us- will be dining here again no doubt."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKM01tOHhWa3hCV0doRmNHbFFSR1ZMZG5SemNuYxAB",
+            "text": "Our server Agustin was the best - will be back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wMU0xaDZVWGRRVVdKMlJVUnhXVTU2TUhScWFXYxAB",
+            "text": "Absolutely LOVE the blue dog! I come every time I’m in New York. The Cacio de Pepe is UNREAL! The service is amazing and the staff is so nice. Already can’t wait to be back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wVWVYWkRhV3AyUzJ4a2FWOU5aVzFtVWpjMU9GRRAB",
+            "text": "Very cute and quaint place to grab a bite in the city! The menu has something for everyone, very nice service and amazing bites!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xJdFZsTTRPQzA0VkRCdmJ6RkpabTlPWTNKMmIyYxAB",
+            "text": "Food and service was amazing. Augustine was our server and was really helpful."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsaWQydHBiMWs0VG5WTFdURXhURU5HUVd4RFYxRRAB",
+            "text": "Food was great, I ordered the croque monsieur and my husband ordered the chicken and waffles. We also ordered a peach bellini and a salted caramel coffee. All delicious and the service was quick. The only thing I didn't like was how cramped it felt, where we were seated. My husband and I shared a bar top with another couple with another small table behind me and every time we'd cut through our food, it'd shake the table, which I felt bad for the other couple sitting with us. I couldn't really sit comfortably either since I didn't want to be in the way of the other small table behind us, so my chair was pulled up all the way towards the table. Other than that, may come here again."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSV1ZYUkxTMXBMYVhKSlVuQlZaV0ZoWTBKNk9YYxAB",
+            "text": "Wow - simply amazing service and the food is off the charts. We started off with mac and cheese balls, and glazed salmon along with the filet and some drinks, finishing with churros. Everything was unreal delicious and drinks on point. Highly, highly recommend The Blue Dog. *One disclaimer - do not come during peak hours if you have personal space issues...they stack people/tables VERY tightly, but I feel the experience is more than worth it. Just wanted to mention that as a possible issue as a non-New Yorker..."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200NVRXTnJkRVYxUzNVelFqTktNMjF1VDBGdVpVRRAB",
+            "text": "Delicious food! The Buffalo cauliflower is a must-try. Cozy spot with limited seating, so reservations are recommended—especially on weekends."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kNFZESmFWRWxxVVhaVVJ6ZFJlR2d4UVZrNVQyYxAB",
+            "text": "I never write bad reviews but I really can’t stay silent about my dining experience. My party was a table of four and had a reservation for 5 pm. We each ordered a drink and main course. Get our drinks, get our food, and sitting and eating. We still had about half our drinks left, and three out of four of our party were done their food, and my friend was still eating. The waiter came and grabbed our empty plates and then proceeded to take my friend’s plate as she was still eating. Waiter then came over with the machine to pay two minutes later. At this point, it was an hour and 15 minutes after our reservation time. We had to ask them to give us a second as we still had drinks to finish. The waiter then proceeded to tell us the hostess was supposed to let us know there was a limited amount of time to eat as they had a reservation after us. Meanwhile, all the groups around us that came at a similar time were not being rushed out the door.\nI don’t know what the average time they are accommodating for their reservations but I think an hour and half is more than appropriate. The food was good but not worth this place for the service."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oUVJVNVFhV0U1VFVWNFVsbE5ZV2hrTmt4UlpXYxAB",
+            "text": "Amazing and flavorful food, service was super attentive and friendly and keyed in to ensure we get to our show on time."
+        },
+        {
+            "date": "2달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4VU9GcEJNR1JhVWxOWFlWVlJaalU0Y0VwU1NWRRAB",
+            "text": "아침일찍갔는데, 이미 현지인들이 많았어요!\n가볍게 먹으려고 커피에 “아보카도 베네딕트” “오믈렛” 주문!\n담당서버가 너무 친절했고, 서비스로 준 그린스무디도 정말 맛있어요!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIaXV6dTBBRRAB",
+            "text": "뉴욕에서 머물렀던 일주일 중에 가장 맛있게 먹은 음식점.\n\n에그 베네딕트가 진짜 최고입니다.\n\n여태 먹었던 에그베네딕트는 그냥 맛을 흉내내기에 중점을 둔 베네딕트였습니다. 하지만 여기는 그냥 맛 그 자체\n\n계란 익힌 정도도 적당하고 베이컨은 두꺼워서 맛있고 빵도 맛났습니다.\n\n샐러드도 신선했고 드레싱도 자극적이지 않아서 너무 좋았습니다.\n\n오믈렛에 들어가는 재료 다섯가지를 골라야하는데 너무 많아서 직원에게 추천받고 먹었는데 진짜 최고.\n\n여기 베네딕트가 맛이 없다면 다른 가게 베네딕트는 무조건 맛없을겁니다.\n\n직원들도 모두 친절하고 팁이 아깝다는 느낌이 전혀 없었습니다."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqd2JlNVl3EAE",
+            "text": "구글 평점만 보고 큰 기대없이 갔는데, 여자친구와 정말 멋진 시간을 보낼 수 있었습니다. 맛, 분위기, 그리고 서비스까지 완벽했던 브런치였습니다.\n\n프렌치토스트가 일단 김이 모락모락 나는 상태로 서빙이 왔는데, 한 조각 잘라서 먹는데.. 와... ㅋㅋ 이름대로 크런키하면서 따뜻한데 진짜 깜짝 놀랐습니다... 이어 서빙된 에그베네딕트도 완벽했습니다..\n\n요즘 비싼 뉴욕 물가에 팁 남기는 것이 평소엔 부담됐었는데, 이때는 정말 기분좋게 넉넉하게 남기고왔습니다. 진짜 추천... 꼭 가보세요...두 번가...담에 왔을때 유명해지면 어떡하지... 좌석 간격은 사진을 보세용 생각 이상으로 가깝지만, 음식이 맛있잖아요?\n\nBest brunch restaurant I have ever had.\nLittle bit afraid i cannot visit again due to lots of waiting if i leave good rate... but it is true, you will fall in love with this restaurant.\nAmazing food, kind service and nice mood...\nSeats are close, but never mind! Food is way amazing than that!"
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzMDlhUlZnEAE",
+            "text": "에그베네딕트, 크리피 와플, 에그앤홀 (아보카드) 시켰고, 다들 맛있어요!"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4amRPaXlBRRAB",
+            "text": "음식은 맛있어요 예약은 필수"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIaW96M1BnEAE",
+            "text": "따뜻하고 재료 본연의 맛이 살아있음\n한국에서는 찾아보기 힘든 브런치였다고 생각이 들었고 겁나맛나서 싹싹 긁어먹음\n\n서비스도 완전 나이스👍\n미국 와서 처음으로 팁이 아깝지 않은 한 끼였다."
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBMHZ2V3JRRRAB",
+            "text": "아침식사 맛있게 먹고 왔어요. 오믈렛과 에그베네딕트, 커피 주문했는데 양도 푸짐하고 딱 기대했던 맛들이었어요. 직원들도 친절하고 아침 일찍부터 따뜻하고 맛있게 먹을 수 있어 좋았네요."
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNVdi1mUmRREAE",
+            "text": "두명이 앉는 자리가 너무 좁아요.. 간단하게 밥 먹기에 적합. 와 헐 대박 맛있다~~ 이건 아님.... 기다림 지수 5분"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJN3NiZWNBEAE",
+            "text": "음식은 맛있어요. 채소도 많이 나오구요. 근데 분위기가 좀 기죽어요. 너무 백인위주라.."
+        },
+        {
+            "date": "9년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBMXJyVTFBRRAB",
+            "text": "별 기대없이 갔는데 의외로 너무 좋았던 집! 특히 오믈렛과 크런치 프렌치토스트가 맛있었습니다"
+        },
+        {
+            "date": "8년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRNzRpSE1BEAE",
+            "text": "인생에그베네딕트였어요 ㅎㅎ 음식전부맛있게먹었네요! 뉴욕가면 또가고싶네요"
+        },
+        {
+            "date": "8년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBMHJINkVBEAE",
+            "text": "의외로 먹을만한 레스토랑~"
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnNHBhY21RRRAB",
+            "text": "죠아요"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJZzYyY013EAE",
+            "text": "분위기맛최고"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNMVFVUXhaalZqWDJ3MmJFVndURlIxYlRSbE5IYxAB",
+            "text": "I am glad If pound this gem and it was within walking distance of my hotel. The food was extra delicious and the lattes are amazing! I enjoyed my salmon Benedict and salted Carmel latte. The service was good."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oVVNITldTR2RvUjJFMFMwZG1lRVY2VFUxV1EzYxAB",
+            "text": "Had a delicious dinner here last night before the theater. These shrimp rolls with salmon roe are a serious must try dish here along with the tuna tartare app.\n\nCrab cake sliders are always a must of course.\n\nAnd don’t skip out on this drink menu we certainly didn’t\n\nThis is their Autumn Harvest burger with pumpkin aioli\n\nThe short rib with horseradish mash is another must try item here\n\nDon’t skip the steak frites here, it’s a massive portion"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOSWVVUk5XWE5SWlhWak9VMVpZWFU1TW1oS1kyYxAB",
+            "text": "Good brunch restaurant. Two friends and I went to Blue Dog for lunch. Although we had a reservation, somehow they couldn’t find it. Nevertheless the manager found a way to accommodate us on a counter style seating. We ordered the short rib burger, the huevos rancheros and the iron harvest salad. We found the food good but short of excellent. Overall, we felt this is a good brunch style restaurant for those who are looking for brunch food. Since the dining room is small, having a reservation is key."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3dHJXdVN3EAE",
+            "text": "We ordered Ricotta with scallops which are amazing ! It's filled with so much flavor.  This is the winner of the night. Tuna Tartare is very fresh and has good flavor to it. Short Ribs Burger came with shoestring fries. The fries are really crispy. Love these ! As for the drinks, we had Basil Margarita and Espresso Martini which are fabulous !  So refreshing ! Chocolate layer cake is such a sweet treat.  I like that this venue plays classic movies for us to enjoy while dining. It was Three Stooges while I was there.  The black and white pictures and mirror on the wall match the movie theme. This is a great place for date night or any other special occasions."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Gd1pWVmxVSFZ1UzFsc2MxWnpRVU4wTTFobVFVRRAB",
+            "text": "Really good food. The menu has something to satisfy any craving. The drinks are good and the service was stellar! I was really impressed with my sandwich and tried my coworkers pancakes, so fluffy and had the best caramel sauce on the side. Not to mention the thin & crispy fries, also to die for. A bit pricey but not bad for NYC. Also it’s a tiny restaurant so definitely make a reservation or be prepared to wait 30-45 minutes+"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wMmFrWkRaVTF1V0RCMFRFWnJXbWhzUzA5d1dIYxAB",
+            "text": "This place is a hidden gem tucked in the theater district - great atmosphere, food, drinks and service! All the reviews I had read previously talked about the burgers or brunch so I felt a little uncertain about going here for dinner, but I’m glad I did! We had a fabulous dinner and I can’t wait to go back and try a few more of the cocktails. They all looked so good. We definitely recommend the Very Berry Fields (pictured), Vivid Venice, Venetian Spritz, and the Saint Citron Spritz.\n\nWe started with the crispy salmon rice and butternut squash fries as appetizers (see photos). I loved the crispy salmon rice. It’s a fun take on a salmon roll with the salmon diced on a bed of lightly fried rice. The butternut squash fries are different than others I’ve had as the squash is actually mashed or grated on the inside and then fried so they look like mozzarella sticks. They were tasty, especially with the dipping sauce, but a little heavy for me. I didn’t want to spoil my dinner so I only had two!\n\nFor dinner I had the Seared Branzino and my friend had the Pan Seared Scallops. We both really liked our meals. The branzino arrived piping hot (a plus in my book) and had a wonderful crispy skin. It was perfectly cooked and delicious. I loved the flavor of the bits of asparagus and capers on top. And the cauliflower purée was so creamy it felt a little decadent. My friend raved about the scallops with a generous portion of barley, saying the citrus gave the dish a lightness.\n\nWe didn’t have dessert, instead opting for a second drink, but I am curious about the churros and the gelato. They were recommended and sounded amazing.\n\nIt was busy on a Thursday night but the service was quick and very attentive. Thank you to Carlos for making sure we were well taken care of and out in time to get to the show. And the others who kept our water glasses full, plates cleared and food arriving hot!\n\nI love the coziness of this place and look forward to trying brunch!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3LXRDNll3EAE",
+            "text": "This place is a total hidden Gem! The food was outstanding, and each dish was better than the next one. Service was superb, and ambiance was cute and homey feeling. I would highly recommend going to this place.  It's tough to come in as a walk-in, so I recommend getting reservations ahead of time if you want guaranteed spots. Otherwise, you're more likely to wait. Since seats are limited and the place is small. This would be perfect for a romantic dinner."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sRFlrTkxNbXh3UVZodGVVdHFTR2hmYUVScGRtYxAB",
+            "text": "Steve and crew went out of their way for my large party of 12, celebrating my daughter's 21st birthday before seeing a show at New World Stages. In fact, Steve came outside to show us the cut through to the theater when we left. All of the food was delicious. I read reviews with people complaining about no AC, but maybe it's fixed now bc we were comfortable. There was one fan in the corner near us, but the weather was in the 80s that day, and we were fine. Also, I was nervous bc the reviews stressed how close the seats are. I am a large person and sat at the end of the table and was perfectly fine. I was near the bathroom door, and there was still plenty of room for people to walk behind me. Our party ordered the Croquet Madame, Nutella S'mores pancakes, omelet, pretty in pink pancakes, eggs benedict, both vegan options, the Cheesus Christ, CCBLT and Strawberry Taragon salad. Everything came out quickly (about 20 minutes after we ordered) and was delicious. We also had dessert, and everyone liked that as well. We will definitely be back! Don't miss this place before or after a show at NWS."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLN21rY19PemZmS1ZBEAE",
+            "text": "Darwin G served us and offered fantastic service. He was accommodating to my vegetarian dietary requirements of adjusting a burger on the menu. The portion size was generous. Very attentive on serving water. The cocktails were great I highly recommend the 1542. The churros are a great dessert choice."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VKS1RnNXVaMmRQY3B3RRAB",
+            "text": "I had breakfast at this restaurant. I had their three egg omelette ($25),  it came with an option to choose as many as 5 items to be included in it. I chose only two, the goat cheese and mushrooms. The goat cheese tasted fresh and delicious, the mushrooms added no noticeable flavor. I have included a photo of a list of optional omelette ingredients. The omelette came with bland potatoes and a nice green salad."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OWWRXOVJlazh0YUUxTE5tRlRaa0pPZFdkb1ZtYxAB",
+            "text": "Contemporary American restaurant with cozy and welcoming atmosphere. The interior is not the most spacious but it has its own intimate vibe. I have ordered the Cheesus Christ burger, it was delicious. Regarding the staff at this restaurant, everyone was professional and kind. I highly recommend this place to anyone seeking decent dining in Hell's Kitchen area."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paVE1UUlZRbmxxWjE5dVNtSldTRTVmUkhKT2FGRRAB",
+            "text": "Our first stop for dinner in New York City did not disappoint, quite the opposite! This is a fantastic little restaurant with excellent service and equally delicious food! It’s a beautiful space and the staff were attentive, professional and friendly. Our meals were decadent, the gnocchi was the best I have ever had. Highly recommend this wonderful little place!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZbG9Db1VBEAE",
+            "text": "Went before a 8pm curtain nearby. Fast and friendly service. Cute spot. Most tables are farmhouse style, so you may be sitting with/near total strangers. But it’s NYC. Embrace it!  It’s a small, cute space. Drink was delicious- though they up charged me $5 to switch to Tito’s vodka instead of well gin. Crunchy salmon rice app roughed up the roof of my mouth- yeah, it was that crunchy. Daughter had the kale salad and it was so chock full of raisins it made it too sweet for her. So I took off a star on the food rating for those issues. We’d still come back though. ."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGdFptcFFTemh2TTFjNU9UQk1hSGhSYlhWTVpuYxAB",
+            "text": "Perfect place for brunch near Times Square! We had some absolutely incredible eats, both savory (cheesy omelet with herby, delicious breakfast potatoes) & sweet (rich mixed berry compote pancakes with lovely pink homemade berry whipped cream, pictured).  Also, top-notch cup of coffee.  I always drink it black and I was not disappointed with the brew!\n\nService was warm and attentive and space was very beautiful.  Only downside is the size—be ready to be very intimate with your fellow diners!  But in our opinion, totally worth it for the food and the experience.  One of the highlights of our trip to NYC!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21VeU5GQm9hSFV6ZDI1clpFMTZhSGxwVDBkQmMzYxAB",
+            "text": "Food looked good, tasted good, and came out quickly. Service was good.\nThe space is small and loud, so it’s not the right place if you want to talk with the people you came with. If you go during a popular time, you’ll likely be seated right next to a stranger.\nFour stars because it’s so pricey"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOMzBuX1NfNWEyRzdRRRAB",
+            "text": "Such a good meal in NYC! Our family went for dinner and was served by Agustin- a very attentive and friendly server. The food here is absolutely delicious from starters to dessert. The sliders were seasoned perfectly- 10/10! Will definitely be returning!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25salMxRTFibUV0WmsxS1NFVlZUMmRoWDBGMFltYxAB",
+            "text": "Food is awesome!! This place is 5 stars I’m just removing one because our waiter was rude. We were 3 people and we only asked for 3 changes.\nSwitch scrambled eggs for sunny side up\nNo mayo in a sandwich\nChange blue cheese for parmesan cheese\nFor every change he would laugh in our faces, not a kind laugh or anything, rolling his eyes and under breath laugh which I ended up telling him I didn’t know changes were so funny.\nBesides that, everything else was great, food came out quick, one of the girls was always refilling water, asking if we needed something.\nThe laughing guy just came after with the check."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBbzlMQWpnRRAB",
+            "text": "Was here last night with my friend and from beginning to end the experience was top notch! Steven and Isaac are the best!! Very knowledgeable and gave us the BEST recommendations when it came to food and drinks. The atmosphere had the most fun/welcoming vibe we could've stayed all night!! Will definitely be back!! I also want to add this was hands down the best dining experience I’ve ever had!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214VlpXRjNRVTR6WDNOdVoxUkRaRGh0Y0dsQmMxRRAB",
+            "text": "Great place for lunch and brunch. We had “Tailored omelets” they were well cooked and ingredients were fresh. It’s a small place but easy to talk in. Service was attentive and on point."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmdk1DU0lBEAE",
+            "text": "Decided to give this restaurant a try during our trip to NYC and it did not disappoint. Expect to wait around 45 minutes for a table  unless you make a reservation. The prices are reasonable and the portions are incredible!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvazR1Zlp3EAE",
+            "text": "Great food, nice vibe. A truly great experience for me. Burgers were perfect, cooked and seasoned well in a tasty good textured bun, the truffel fries were a flavour orchestra, service was exceptional. The choclate cake icing was too buttery for me, but if someone prefers the butter flavour, should definetly order it."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJbDlmZEFREAE",
+            "text": "This is our #1 to go to spot in NYC! The vibes are always where it needs to be! I love this place!\n\nFirst of all the food is amazing! I get something different every time I visit NYC. You can’t go wrong with anything here. Also I really appreciate the portion sizes and the price is so right for the savory taste of every dish.\n\nViviana is an amazing bartender and server! She smiles while she makes the drinks, it’s so cute and lovely. Also, Peter is just as awesome! He helped with us a lot too! Everyone here is amazing and friendly!\n\nThis place is perfection! I highly recommend coming here."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5dGRIVTNielZRYjE5eVZqZGlielI0U25seU5VRRAB",
+            "text": "This place is cozy allowed for family style seating. The food was exceptional and filling.  Definitely worth the visit!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJRGZ0cW1vcExtTzNRRRAB",
+            "text": "Amazing all round! 10/10\nThe staff are amazing, the vibe is great and the food is so far the best NYC in my opinion. Must try the shrimp and caviar eggs Benedict and the crunch French toast. Just perfection"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3LTk3RlZnEAE",
+            "text": "My wife & I eat here every time we're in NYC and have yet to be disappointed. Today we started with the guacamole & chips. The avocados had a good flavor and the dip was creamy but it could have used more lime & salt & some hot sauce. We then shared the Homemade Crab Cake Benedict ($28) and the Garden Chicken Tartine ($24). Both were delicious. The crab cake was lightly breaded and flavorful...super fresh. The poached egg was perfectly cooked with firm whites and thickly running egg yolk. The tarragon chicken salad was also well prepared with the perfect amount of mayo.  Both were served with fresh mixed greens topped with a light & citrusy vinaigrette.\n\nThe Pina Mezcalita was a refreshing and potent mezcal based cocktail and the Maria Bloody Mary had a great kick.\n\nThe churros weren't my favorite because I found them too dense but the flavor was good. Their coffee as always was hot and strong.\n\nThe service was friendly, attentive, & efficient. Marlon was great! The ambiance is very much yuppies at brunch. Make of it what you will.\n\nDisclaimer: It is a small place and they always make sure you know you only have your table for 1.5 hours although I've never been kicked out for going over!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3bzQtMzRnRRAB",
+            "text": "Very cute place! Have been here a bunch for dinner (I know they also have an amazing brunch). The food is great, especially the burgers. It has a very eclectic menu. The drinks are also great and the staff is very attentive and nice. (Apologies for the picture of the half eaten crab cake slider! Forgot to take a picture before digging in!)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEX0s2bV93RRAB",
+            "text": "Found this little spot for brunch before we saw Chicago a few blocks away.  It was a Sunday so we expected it to be crowded.  The place is tiny- like literally 1 small room.  But if you are able to squeeze in a snag a table, it is well worth it!\nThey made it clear we could only stay for an hour and at times we felt rushed but the food…. My goodness the food made up for it all!\nThis is not an exaggeration- the French Onion soup could quite possibly be the best I’ve ever had.  And I get French Onion ALL the time.  Incredible.\nThe drinks were fantastic, the tots were perfectly crispy, the brussel sprouts were out of this world and the Eggs Benny were delicious.  I could eat here ever Sunday but unfortunately we don’t live in the area.  Friendly staff and cool vibes even though it’s loud.\nThanks for making our Sunday brunch so out of this world.  Highly recommended!!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1U2EwdHVjSFYxWmtaV01uRkZSVFZ0T0VOT2IyYxAB",
+            "text": "The food was delicious!  All our orders were cooked to perfection!\nService was fast and professional!  Darwin was great!  Always checking if we needed anything.\nWe gave four stars on atmosphere because place was too loud. Acoustics are bad in the restaurant. We were a party of three (3) with previous reservation for lunch and we were seated in a communal table between two other parties."
+        }
+    ],
+    "reviews_count": 92
+}

@@ -1,0 +1,537 @@
+{
+    "name": "Da Claudio NYC Ristorante",
+    "place_id": "ChIJ94xVbhhawokRaDRb_Y6O1sA",
+    "grid": "MN1",
+    "address": "21 Ann St, New York, NY 10038, USA",
+    "rating": 4.5,
+    "user_ratings_total": 843,
+    "phone_number": "(212) 285-2668",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5UFVUazRaVVZGVEhkNGJDMW5kbTAyVW01VVNGRRAB",
+            "text": "Food was fantastic and staff wonderful. Pleasant and relaxing to be here"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SdllXVlJhMUJrWDA5Q1QzZFJUMUpQU1VzMk9WRRAB",
+            "text": "Solid Italian place. Service was a little disorganized, food was authentic but I think they could benefit by simplifying menu and service. And increase quality focus of each.\n\nAs example service staff were sharing all jobs but taking orders. Which meant I got grated cheese offer 2 minutes after I already got my food (just example).\n\nKitchen was organized and timely."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1WVkybDRSVVJaYTFwdllsQXpaSGRTVEZNMWRuYxAB",
+            "text": "The carbonara was too watery. The Wagyu bolognese was just very mid and nothing special, tasted like pasta I made at home from a jar. Only food item that was good was the crème brûlée. Staff was friendly, and let us sit 20 mins before closing. Probably the reason food was not great. Visited oct 16th.\nFood prices were fair, but wine prices were aggressive. Starting price for a glass of wine was 17 (18 for red). Atmosphere was good enough for a date."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aUE0yRTBjRnBwU25Zd01UQldhMlJaTUdwa2JFRRAB",
+            "text": "Food was great, atmosphere was great, service was great. Had some coworkers with me on their first trip to NYC and they said it was one of the best meals they’d ever had."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1eGJYY3RkSHB6UTA1dGFWVm5iM1ZWYW5vMGFXYxAB",
+            "text": "Everything tastes amazing here, can’t really pick which one is my favorite,recommend all!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaU2NFbzRiVGt6U0RKWmN6QTFiblZOU1dkaWVrRRAB",
+            "text": "Best Burrata I’ve ever had!  A must have!!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxSk5tZHRUemQyUm5wcFJrbHNOMmROUkhab1pIYxAB",
+            "text": "Da Claudio NYC is legit one of the best Italian spots around. The food’s fresh, flavorful, and perfectly cooked — you can tell they care about quality. The pasta hits every time, and the seafood’s top-notch. The place has a chill, classy vibe, and the staff are super friendly. Great spot for a solid dinner or date night."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wR1VWQkxRWHBaVm5wQk0ySXlOVTloV0VoS1ZYYxAB",
+            "text": "Food was superior In the staff was very professional. I will be back!!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201aVdXbFdOa1V0ZVRnMVptRnVZV3RXWldwMWJHYxAB",
+            "text": "Outstanding choice in lower Manhattan with friends.  I enjoyed it so much I returned the following evening on my own.  Delicious food, nice variety of options on the menu, outstanding service (thank you Flora and team), beautiful and relaxing atmosphere to enjoy a meal and conversation with friends.  Save room for dessert.  Can't wait to return."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xeGNXbzNNVzFSU2kwNFVqaHVjazB5V25Vd1VsRRAB",
+            "text": "I loved the mocha here—perfect blend of chocolate and coffee. The shop is tidy, quiet, and provides a comfortable space to relax."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GM2R6STNSSEZvTUdnNWNHMVhURWxEVVhOMlltYxAB",
+            "text": "The food here is consistently excellent. The service is low key but attentive - for me, the ideal balance. They also make excellent cocktails."
+        },
+        {
+            "date": "1달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kTVZWODVUVVJWWlZoemNrTlVPVEpmYVdOcGRsRRAB",
+            "text": "Tolle Atmosphäre mit sehr freundlicher Bedienung und exzellentem Essen. Wir können. Es nur empfehlen! Liebhaber gutem Essens aus Österreich😋"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205UlRtNHdPSFJpVDNBelNXMHlhVlJCV2tKTFozYxAB",
+            "text": "The Lasagna was perfect. The service was fantastic! I have not met someone so polite and respectful since coming to the US for a holiday, he needs a payrise. The vibe of the place was on point.  The price may seem high for the lasagna but flavour outweighed the price don’t worry. The chocolate moose was amazing and not too sweet."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaQ1ZHeGZiMnRHZFRKNVUwODBka1JtTVhvd1dFRRAB",
+            "text": "Da Claudio has a delightful atmosphere, generous portions of flavorful food and hands-down some of the best service I’ve ever had. Wine recommendation was perfect. Wonderful and can’t wait to return!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poMGRFcGxibEZwVlhSMWNteDVVVTVKYjI5SlUyYxAB",
+            "text": "This place is NOT to be underestimated — an authentic downtown gem with exceptional food, ambience, and service <3"
+        },
+        {
+            "date": "2달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5elR6WlhhVnBDVjJGRGVIZ3ROMmw2WTB0c1dXYxAB",
+            "text": "Perfekt! Super Service, tolles Essen, faire Preise."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paWlIxSkNhV00xUW5KT01rZ3dVbGR2ZHkxTGFrRRAB",
+            "text": "Friendly, inviting, warm and tasty comforting food that came out fast. Delicious bread too!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOVFUzZzJhM3BIWTJkbVVHRXdSa2gwTkVsRU1uYxAB",
+            "text": "Yes, Manhattan is home to hundreds of Italian restaurants, and yes, you’ll stumble upon thousands of spots serving pasta, pizza, and wine. But there is only ONE place where you’re welcomed with the kind of warmth, generosity, and attention that makes you feel less like a guest and more like family: Da Claudio.\n\nFrom the moment you step inside, there’s a noticeable difference. The team greets you not with formality, but with genuine hospitality, remembering faces, recalling preferences, and making every guest feel as if their table is the most important one in the room. In a city where service can sometimes feel rushed or transactional, this level of personal care is rare and unforgettable.\n\nThe food itself is both comforting and contemporary. Classic Italian dishes are elevated with modern touches, seasonal ingredients, and a level of execution that shows the kitchen takes pride in every plate.\n\nBut Da Claudio isn’t just about the food or the drinks, it’s about the feeling. It’s the warmth of the staff, the buzz of conversation, the balance between casual and elegant. It’s knowing that no matter how many restaurants New York may offer, there’s one place you can always return to and count on a memorable evening. The food may be the icing on the cake, but it’s the heart of the people behind Da Claudio... Linda, Claudio and their staff... that makes it a treasure."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2podk0wdHNaelEzZDNwSk1EUkZNblJXYlVwSVkzYxAB",
+            "text": "They're are superb"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOVlJtbEZYMUZJY0RWYVdHOHliVmxRTkc5SVUwRRAB",
+            "text": "First time here.\nThis experience was beyond my expectations.\nFood is on the spot, tastly, fresh, and well presented.\nOur server Flo was very kind.\nThe floor manager is also very attentive.\nRunners and bussers not too agressive in cleaning our table or removing plates.\nSmall, but clean and well organized restaurant.\nWe came quite early, around 5:30pm.\nWe tried fried carciofi (artichokes), although I'm not fan of fried food.\nAs a main course we had orriechiette with sausage ragou and chicken milanese.\nA creme brulee as a desert.\nAnd now wines.\nQuite impressive selection of wines, considering how small this place is.\nWe started with 2 cocktails: french martini and negroni.\nWhite wine: a bottle of 2024 Il Colombaio di Santa Chiara Vernaccia di San Gimignano Selvabianca.\nRed wine: a bottle of Primitivo, but I forgot the label.\nModerate prices for this area.\nRestrooms impecable, kudos to all staff.\nClose to Chambers Street.\nWorth visiting!\nAnd a music is not too loud :)"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBMVVXY3pURmh4WDFCVmJWbHBPVTlLTmpaTU5uYxAB",
+            "text": "Highly recommend this FIDI Italian Restaurant.  Very welcoming from the start (great host), great staff (especially Demara) and the food/drinks were exceptional.  You will leave very happy.  The best Italian in the Financial District.  We will be back."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oaFJ6Y3ljMGxCUlRaTllsWnVPSFZWWldOTGJVRRAB",
+            "text": "Great hospitality. The artichokes were the best ice ever had!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ST1pVTmZSWFJJTWtnd1UwbEJTR0ZaZG0xUWNVRRAB",
+            "text": "We had a lovely gathering at Da Claudio’s. Great food, great service, great drinks!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKQlZ6TlpRVTFyU0ZGVVZucE9URWxRV25oQk9XYxAB",
+            "text": "Great Service food was sooo good."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSRVlVSjVRazF1ZGtzMFVtRk5UWGR5Y0hOMVgwRRAB",
+            "text": "Always love coming here . Chicken piccata and lasagna are my favorites. Great wines by the glass owner DaCladio always there to make sure you feel right at home."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVeU9YTXhSR2MzVm1wU1ExSkdUVWRVVTNoTWVGRRAB",
+            "text": "It’s a great place to relax and entail wonderful meal after a stressful day."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkVFgyRkROa05rVWxsMGVIWnZlRWczYzA5SmEwRRAB",
+            "text": "Good food, good service, reasonable prices."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201clowaEtSMlJvYkRsS2FpMXZjelIzT0ZWRVpWRRAB",
+            "text": "Second time going while travelling for work, and they've cemented themselves as my new favorite spot in downtown.\nExcellent food and cocktails (lured me in with a bottle of Italicus in the window haha).\nHad a spicy lamb pasta special (similar to a Bolognese) with a saffron sauce that I had to stop and process after my first bite, it was so good!\nBrussel sprouts were also delicious - I was honestly struggling to choose where to point my fork between bites.\nService was quick and attentive both times I've been (and I was pleasantly surprised when I saw the bill - excellent value for the money). Definitely know where I'm taking my team next time I'm in the area!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaa1gzazJSMWh1ZVVkR2NURm5RbFpwTjNSeWFtYxAB",
+            "text": "Fabulous food, service, and atmosphere! My daughter had a pasta dish, which was the best pasta we’ve had outside of Italy. I had a watermelon salad that was on the special and that two was better than any watermelon salad I’ve had. The manager was a delight, and our server was precious. If we are back in New York, we would both happily go back there for another meal – and we very rarely go to the same place twice when we’re traveling."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21veVNrWjFSVUZuV0VaalZFYzFkamt6TW1WVFkzYxAB",
+            "text": "A Hidden Gem in FiDi\n\nTucked away on 21 Ann Street in NYC, Da Claudio is a quaint and charming Italian spot that feels like a little escape from the bustle of the Financial District. The warm, inviting atmosphere made a great place for dinner with friends.\n\nIt was great to see female bartender/mixologists. The margaritas were bright and perfectly balanced, and the Negroni Da Claudio was a standout—smooth, well-crafted, and with just the right bitterness.\n\nFor dinner, the Wagyu Lasagna was nothing short of indulgent. Layers of tender, flavorful wagyu beef with just the right amount of sauce and cheese created a decadent twist on the classic comfort dish. It’s a must-try for any pasta lover.\n\nDa Claudio delivers on all fronts: great cocktails, memorable dishes, and a warm, intimate vibe. Definitely a place I’ll be returning to soon."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twS2JYUllObXg2V0hOcGJsTldiUzFzZG1OMGRYYxAB",
+            "text": "Damara was a great bartender!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0S09WcGtObTlsUkRremFtNUhPWGhyZDBab1prRRAB",
+            "text": "This is a hidden gem. I've been here a few times and each time Ive grown to like it even more. The house white wine is excellent and their cocktails are great. I can't speak highly enough of their food. If you're in the area, it's definitely worth checking out for a happy hour or meal!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FNWVFeFhkV2RCUlVwdFRHczVhR1J6WWtKaVNuYxAB",
+            "text": "The consistent quality across different dishes is remarkable. The dishes left a lasting impression on my palate. I was very happy with my visit. This place removes the formality and adds warmth instead. The team here is exceptionally good."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoc1dUQlVObTA0Tm13eGNuZFZiV1UzT1daR1RsRRAB",
+            "text": "Love the service and the food. The personnel are very friendly."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21relgwVkRZVWRLWkRjMllrSmlYeTEwV1RCV2JuYxAB",
+            "text": "I’ve been coming here since it opened ten years ago. Just came back from trip to Europe, I returned to find the same quiet magic still intact. The grilled watermelon salad is subtle and exquisite, and Tamara’s rosemary gimlet—elegantly back in style—was pure pleasure. Da Claudio is where Italy whispers softly in the heart of NYC."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkcVdHRmlkSEpDVjNka1JVZEVPVk0wZG1wMGMxRRAB",
+            "text": "Best Negroni in town!!!"
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xod1NYVkZZbTVyVFUxbU1HTjJjRWMwTkV0eU5sRRAB",
+            "text": "Great bartender, always a welcoming atmosphere."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kRVYyUnZiVEExTVd4R1NtcE9aRTAyU0RWYVlXYxAB",
+            "text": "We just had the most perfect meal. Da Claudio does it again! This has been one of my favorite restaurants in NYC for the past 5+ years. I’m from Atlanta and I finally got to bring my daughters for the first time. They loved it as much as I did. Cheers, Jenny, Alix and Deary Brower xx"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201bk4xYzRVSFZzWWpsR1YyUjJNVkpYU0UxeFJYYxAB",
+            "text": "Da Claudio’s is excellent every time eat-in or takeout. It has become an absolute favorite of my partner’s and mine during quarantine. Owner is attentive and servers are effervescent. Starting at the bar, there are incredible cocktails and a very nice wine selection.\n\nThe pasta is what I DREAM about though. I find myself craving the spaghetti carbonara and fusilli cacio e pepe with a side of their wonderful bread. Another favorite is the tagliata strip steak, always perfectly cooked to order. The restaurant has a nice rotating list of specials in addition to their solids. I hope the veal scallopini comes back soon!"
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRcEphenJnRRAB",
+            "text": "Great place. Great food and staff.  I have been coming for years and it just gets better."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOdGNuZ3RhMUk1Ym1SNWF6WnBTbEZJT0VGelZWRRAB",
+            "text": "Best Italian in Fidi."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21selkyVnVRVmg2WWtob1pUSk5TRlEzZWxNMmFYYxAB",
+            "text": "Saturin was an amazing server. The food and vibe was immaculate. Highly recommend."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOU1Z6SmtSa056ZGtsTGRsTnhPWEpxV2pob01rRRAB",
+            "text": "Great service, food, and cocktails!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SRWVuQTVZekZoTkhKbVluZFBWbEZ6VVdGbE1FRRAB",
+            "text": "We had the most lovely time at Da Claudio! The service was stellar from the moment we walked in to when we walked out. And to top it off, the meal was delicious!!! This place feels like home."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1YVlXVTBTMDltUzFCSFYxcDRTRWswZFU5MVZWRRAB",
+            "text": "Fun place for drinks, apps, dinner. And perfect acoustics to have a conversation!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SZmNuVk5TbGhWTUd4QlJsRnNPVzk2T1ZoVWFHYxAB",
+            "text": "It was a nice restaurant. Pasta was fine"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrd1dTMUpWR0ZUV1hGbE1FaDBSR0pmTFcxcllXYxAB",
+            "text": "It was a spontaneous stop and we loved it! The food and service were friendly and wonderful!"
+        },
+        {
+            "date": "4달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wUFkwTjFWVGg2TUdsTFJqbHBlbkpoY1ZFelJtYxAB",
+            "text": "Ambiente accogliente,personale gentilissimo e preparato,servizio veloce ,qualità del cibo eccellente.\nUn ottimo ristorante italiano a New York"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214QldGOUdVV0pEUkcxSlNscGpVRUo0WmtkVGMxRRAB",
+            "text": "Consistently great food, good service while relaxed, convivial atmosphere. I return whenever I have the opportunity."
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25nMFJHbEdiblpLVUdScFVHeGZiMWxOU0hGNFdWRRAB",
+            "text": "Very charming. Great food and cocktails.\n\nAtmosphere is relaxed but classy."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnOVpLZE13EAE",
+            "text": "Came in for the chicken Parmesan based on other reviews and was told they don’t make it. Sad.\n\nPlenty of other options in the regular and specials menu.\n\nI opted for the wagyu beef lasagna ($30). Sounded like a good comfort food option with a quality meat.\n\nFirst came the bread and olive oil. Was nice to have an option with nuts and raisins, something you don’t see all the time. Bread nice and soft too.\n\nLasagna had good taste but had no structure that lasagna should have. It was a mound of dough, sauce and cheese instead of a crafted structure.\n\nHouse made desserts sound nice but didn’t have time to try them out. Next time!"
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmM0ptNklREAE",
+            "text": "(Dined in Mar 2024 and Jan 2025) Love this place. The seafood pasta was amazing and full of seafood. Hazelnut gelato was so hazelnutty! I’ve found my favourite Italian place in NYC and will be back :)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIbElYNHhRRRAB",
+            "text": "I just had a wonderful dinner at Da Claudio. I had the spaghetti carbonara which was delicious! The meal was made exactly the way I like it. The service was exceptional A+. The atmosphere was very nice and would be an excellent choice to take a friend or loved one! I will definitely go back highly recommended!  92"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmOV9HclpREAE",
+            "text": "TRY THE VONGOLE!!!!!!!!!! THE VONGOLE AT THIS PLACE IS A MUST-HAVE!!!!!!!!!!! YOU WILL BE HAUNTED IF YOU DON’T DINE THE VONGOLE.\n\nIf you are in nyc and don’t go for the vongole this restaurant serves, I SWEAR you are missing out a HUGE part and will regret for the rest of your lifetime.\n\nMy husband is the type that has ONLY eaten vongole throughout his whole life (trust me when I say he has eaten at least 10,000 plates at different restaurants) and he literally teared up at how insanely delicious the vongole at this restaurant was.\n\nSO TRY THE VONGOLE.\n\nNot to mention the staffs were extremely friendly and the atmosphere inside was super cozy with just the right amount of heat and light:)"
+        },
+        {
+            "date": "수정일: 11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyXzhPLURnEAE",
+            "text": "Food and service were great!\nEspecially appreciated the attention to service. Dirty dishes?...gone! dropped fork?...immediately replaced.\nThe perfect balance of checking on things, but not being annoying.\nWe really looooooved the bread!\nEnjoyed well made drinks and quality dishes"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnei0yNEtBEAE",
+            "text": "Food was lovely and flavorful. We ordered the frito misto which had a mixture of calamari, zucchini rings, shrimp and onions it was all well seasoned and lightly battered. We ordered two pasta dishes and they both were delicious, the pasta had a good texture. I would go back to try the lamb entree. Don’t skip dessert here!! The tiramisu was so good it had a drizzle of raspberry jam on the bottom which elevated the coffee flavor of the tiramisu. They had a good selection of other desserts.\n\nThe staff and service were outstanding. We went on a Wednesday night without a reservation and were seated right away, might need a reservation if you go on the weekend. We ordered everything at once but they waited for us to finish each course  until they brought out the next, it was a little detail but I really appreciated it."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYa3R5YnFRRRAB",
+            "text": "Great Italian spot around City Hall. The ambiance is nice and service was good. Pasta is pretty good but the risotto was amazing. The cannoli was great and highly recommend if available. Solid spot for Italian food if you’re in the area."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2aE4yQlVBEAE",
+            "text": "We had dinner at Da Claudio while staying in the finical district and truly enjoyed the experience. It restaurant has a relaxing, non-pretentious vibe. The food was simple and tasty…made with fresh clean ingredients. We enjoyed the beef carpaccio, arugula salad, squid in pasta with shrimp, and bolognese. All very good! The staff was friendly and easily accommodated food allergies (dairy). Highly recommend."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNodk5LcF9BRRAB",
+            "text": "Personally I did not enjoy my food , and apart  from my friend who really enjoyed her spinach fettuccine , my other friends said their meals tasted a bit bland / were a bit underwhelming.\nInterestingly the restaurant was half full so that must count for something.\nAmbience was good ; dimly lit and nice spots to take pictures , service was okay too ."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvMklTWUxREAE",
+            "text": "One of my fave spots in the city for fresh, delicious pasta! The service is great and the portions are decent"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaNzgzRzBnRRAB",
+            "text": "The food here is super light and fresh! The lasagna is incredible. I really enjoyed the Fuocco drink, very tasty! Of course we had to have tiramisu and it is to die for! Nice vibe with upbeat music and friendly servers. Sam the manager is super friendly as was our server Carlos. Thanks for an incredible dinner and evening!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUROX3F1TWRnEAE",
+            "text": "The food, the music, the friendly staff. All just amazing. I got the burrata special and the flavor of the pears took me away. They had such a great scent and taste that dances on the palate. I tried a new wine and it compliments the salad so well."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvNmRyenlRRRAB",
+            "text": "Personally, I didn’t love what I ordered, and aside from my friend who really liked her leafy green fettuccine, the rest of our group felt their dishes were a little plain or just didn’t stand out.\n\nInterestingly, the place was about half full, which probably says something.\n\nThe vibe was nice—low lighting and some great photo-worthy corners. Service was decent too."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHbUxtZVl3EAE",
+            "text": "Excellent Italian food and the absolute best Tiramisu I have ever had!  We dined outside under a canopy, and the weather was beautiful!  We ordered lasagna and spaghetti.  Everything was wonderful!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHck9DbmdnRRAB",
+            "text": "The dishes were OK. Good location, great service, and not bad ambience.\n\nI was expecting something more for what I paid for. The Lasagna is definitely something hard to make but the flavour wasn’t there. Same for the other dishes with Ragù. However, what most surprised me is how they made the carbonara. The egg was completely cooked and it is not supposed to be like this. Additionally my friend added mushrooms, which shouldn’t even be an option.\n\nOverall not bad. I haven’t tried everything but it seems like the owner adapted the flavours to a more American clientele."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSMjhTU1V3EAE",
+            "text": "Good restaurant, everything we had were good. The appetizer, Polipo, was great, perfectly cooked and seasoned. My entree, Calamarata, was a little bit on the bland side tho. But we finished the meal on a good note with their excellent blood orange and pear sorbetto."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwcExtTGpnRRAB",
+            "text": "I was here for dinner with clients but would love to come back here with my partner. A low key vibe that provides a calming atmosphere that could be really sexy with the right dinner companion. The Bucatini Arrabbiata is hands the best I’ve ever had. Thank you for having NA drink options. Cheers!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtMElQSU1nEAE",
+            "text": "I’d give the food 5 stars. Been to a few Italian places in Manhattan and i love their appetizers the most. I read a lot of reviews before visiting and their pastas didn’t look quite appealing so we only got the black linguine which was okay.\n\nBurrata\nThe best dish out of everything we ordered. You’d often see Burrata with tomatoes or prosciutto but this came with beets and quinoa. I was never really of a fan of quinoa because i felt like it didn’t how it tasted but this one was amazing. The sauce matched very well with everything.\n\nPolipo $23\nThe overall taste was nice. Would have been better if they cooked it a bit less or longer because it was pretty chewy. Stayed in my mouth for quite some time.\n\nBlack linguine $28\nA note for those considering, the pasta sauce isn’t squid ink but the pasta itself contains squid ink. So the good side is that it wont get all messy and black but for those who like the squid ink sauce, it’s not the same.\nThe pasta has a strong taste itself so i felt like the tomato sauce and squid ink pasta kinda stood out on their own a bit too much. Didn’t quite feel the fusion that they were going for. It would’ve been nicer if they put a little slit on the prawns so that it was easier for us to eat too.\n\nLasagna $26\nThey bring the lasagna in a warm plate and then shedder cheese on top of that. It was a good warm dish but the portion was fairly small so you may want to order 1 for every 2 people.\n\nSorbetto (blood orange & pear) $8\nYou get to choose 2 out of 3 options (blood orange, lemon and pear)\nThe blood orange was not too sour nor sweet which made the pear sweetness stand out even more. The pear one was just to sweet. If you’re getting the sorbet because you don’t want a too sweet desert, blood orange and lemon may be the 2 options for you."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMM3Z6djJ3RRAB",
+            "text": "Outstanding spot across from the Moxy Downtown. Service was excellent. Good cocktails, try the artichoke appetizer."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnaXBEU1JREAE",
+            "text": "If you are downtown and want Italian food this is the place for you. Don’t go to little Italy, come here and enjoy the food and vibe."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQxczRtbm9nRRAB",
+            "text": "this place is an 11. what do i mean that? I mean its food -- from bread to profideroles -- made me laugh. I had to laugh because it was absurd that these tastes existed. And even more absurd that I'd never tasted those tastes before.\n\nI am filled with gluten. I am also filled with hope.\n\nHope that other people will stumble across this magnificent, uncut italian gem.\n\nI don't need anything else to happen in my life. I'm good now."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvaU82bjRRRRAB",
+            "text": "Many thanks to Linda, Claudio and the terrific staff at Da Claudio for graciously hosting a group of 25 international business colleagues for dinner last Monday evening.  Everyone commented on the wonderful food, gracious service and the elegantly relaxed atmosphere.  Although the restaurant was quite busy, we had no trouble chatting amongst ourselves and had a simply wonderful time.  Thanks for all of your flexibility and patience in managing our event. Looking forward to next time. Ciao! Ken"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwbGV5VU13EAE",
+            "text": "Underwhelming all around. The squid ink linguine was overcooked. The prawns were mushy and were probably poorly frozen. The sauce wasn't great. I just can't recommend it. The gnocchi my partner had was slightly better but still 3 stars max. Tragic this is one of the top rated places in this part of town. Wouldn't recommend for the taste of food. The ambience was decent and the host friendly."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3OWJicUJBEAE",
+            "text": "A little corner of Italy in FiDi! Had the best experience at Da Claudio! We sat down at the bar, started with one of their cocktails and order some nibbles, picture is of our burrata. I had then the Carbonara (authentic!) and my friend had the Calamarata pasta which was absolutely favolosa, we matched it with a very tasty Nero d’Avola!!! Wine list is big and all towards substainable wines. Thank you to Eugene for the cocktails and sensational service!!! Will be back soon and can only recommended!"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR3aXUtOGhRRRAB",
+            "text": "Ate here today for lunch with my brother. We both had the $25 prixe fix lunch. It included a soup or salad, pasta and coffee or tea. The salad was excellent and the pasta was even better. Pasta was perfectly aldente. Excellent service and quite crowded by the time we left at 1 pm. There is a full bar ad well."
+        }
+    ],
+    "reviews_count": 75
+}

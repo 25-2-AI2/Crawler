@@ -1,0 +1,600 @@
+{
+    "name": "Lido Harlem Restaurant",
+    "place_id": "ChIJ2yTMoxb2wokRixfwCY3ltok",
+    "grid": "MN11",
+    "address": "2168 Frederick Douglass Blvd, New York, NY 10026, USA",
+    "rating": 4.5,
+    "user_ratings_total": 1729,
+    "phone_number": "(646) 490-8575",
+    "reviews": [
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsSFprZEJXbGhsWVc1R1oxWjJUV2wxUnpsTFNYYxAB",
+            "text": "Incredible date night. Attentive staff, and fantastic, well prepared food. It is a fun neighborhood with a lot going on.\n\nGood wine list. Tons of wonderful options for food; had two types of salad (arugula and nectarine), mussels, arrabbiata, and eggplant parmesan. Staff was attentive and the food was beautifully presented as you can see in our photos.\n\nOnly complaint was the constant wafts of refer smoke coming in from the street. No judgement, just would have preferred not to smell it while eating. Still think it’s a great restaurant and do recommend."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GQmFUWnNUa3hhVFdFeFZYVnpZMjFOUm5Cb05WRRAB",
+            "text": "Came by as part of a quick weekend trip in the city. I sat at the bar with my best friend. Not only did we have good food and drinks, but the vibe has been EVERYTHING! This is a great place to meet some cool local people. Deon, the bartender, is the best!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VNFYwaGtNbTFPVFZKc2FVTkpUamx0V0hKTlptYxAB",
+            "text": "I just gave 3 stars for service and atmosphere since my review is based on delivery, and my main issue is the food.  This restaurant used to have top notch food,  it here lately, I find myself continually disappointed at the food quality.  Something I’ve ordered since the place opened: the Warm Grilled Kale Salad, had become one of the worst things I’ve ever eaten.  Completely unseasoned, under-cooked and not worth ordering.  I also decided to give the tomato risotto a try.  It was white rice, with nearly raw cherry  tomato halves.  And like, 7 of them.  I looked up a recipe to ensure I wasn’t just mistaken about what tomato risotto is.  I was not.  It’s as if someone who doesn’t know the recipes at Lido is making the food.  Maybe someone who doesn’t know how to cook Italian cuisine. But as this is my third try after years of ordering some of my favorite dishes in the Harlem restaurant scene I had to say something."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaYVNGTTVhbDlQYWtsMVduVmFZMFJLVjBSNFZWRRAB",
+            "text": "I dine here about once a week, and have for the past year. Food is always excellent, service is always amazing; I’ve never had a less than stellar experience & I’m blessed to have such a quality restaurant so close to me…though it would be worth the trip even if I didn’t."
+        },
+        {
+            "date": "수정일: 4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnZ2NEVm5nRRAB",
+            "text": "This is the best brunch in the country! My favorite go to for.brumch since the opening. Staff friendsy and curious, food is good, good menu options and an awesome atmosphere. The bartenders.ate on point as well."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkd1FWZzVOalJVTWkxMVV6Sk9NWGczY0dKdk1WRRAB",
+            "text": "A consistently excellent restaurant with a warm and welcoming atmosphere. Lido has thrived without ever sacrificing the quality of their food, which is rare in NYC."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twaWFsUjJWMTloWjI5NGRFNDBPQzFyYWpSYU9XYxAB",
+            "text": "Hosts genuinely gracious and service was timely and food outstanding."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OMmN6TlRaVVI1ZW5jdGJHMVhZMWwxTTB0TWVtYxAB",
+            "text": "Always good times at Lido. Their brunch mimosas get you in a real good mood!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCSk16bERaRzlwVTNWU1NuVlVhbVZyZFd4WFMwRRAB",
+            "text": "Always all of the above!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwNVIxQnVibVo0UjBWalFUWjZZa00wY0VGek9HYxAB",
+            "text": "They are very careful in satisfying their guest."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4YWRUbHdOSGxOTjNFeFFXTlJSalZrYUdWSVNHYxAB",
+            "text": "Underrated home cooked Italian food in a refined yet unpretentious setting. My hubby and I stop by every time we are in the city and walk away always with our palates happy and impressed.\n\nI love the old school flair ambience and the menu is concise and simple. I think it’s one of the better Spaghetti & Meatball dishes. Highly recommend the chicken Marsala as the flavors are just divine.\n\nService has always been attentive and welcoming. Couldn’t recommend this resto enough!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pjeFdsTjRWbll6Y0ZGTlFuWjBVMDlGTjJRMU9GRRAB",
+            "text": "Favorite Italian in New York. Short Rib hash on brunch menu goes crazy. Chill spot if you are doing the brunch thing but do not want a big scene."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxR1RIWmZPWGRmUldjNVoyOTFOWHBZTjJWcmEwRRAB",
+            "text": "Absolutely UNDERWHELMING. Service & food were mediocre, at best."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oME1XMTZUVmhXWTJoMGRrRmlNSGQyU1dGemJIYxAB",
+            "text": "Really good food, nice atmosphere, friendly staff, really nice for my first dinner in the city since I just flew in :)"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paVGMyVkdUMk5DZDNKRWJsODBOM1J5Y0RWYVJIYxAB",
+            "text": "À great option in the new neighborhood, quiet mood, good food, especially the sundae desert"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzeVRWUkNWa0pEUTJ3dGFuVklXRUp3VkVONVpYYxAB",
+            "text": "WOW!!! I n c r e d i b l e food! Was here for restaurant week. Had the nactarine salad, hangar steak and brownie with ice cream. Every bite was magic. Also try the garlic bread. The price was super reasonable for the quality of the food. The service was high end with new flatware and three servers cleaning and arranging in between courses. Never obtrusive just perfect. Can’t recommend highly enough!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSVFpXOXhVVXN3U1ZwdlRUUm1kVWR0VHpaaWQyYxAB",
+            "text": "Lido is always super yummy and everyone is very nice. Went last night for restaurant week and it was delicious! Would highly recommend the steak!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsSlpHNW5kekk0TFhCUlJsWlpZWFpOYWtSc2MwRRAB",
+            "text": "During our visit from California, my SIL recommended we come here for lunch as it is right across from her building.\n\nThe ambiance, menu options, and service were outstanding, and I had the best chicken Caesar salad I’ve ever had in my life.\n\nI can’t wait to come back and have it again!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aVWFHWndhbWgxWlUxME5UZGlWWE0yVFRCT1YwRRAB",
+            "text": "Average"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WV1ZYbE1lVnBEYkVKcVpYVm9lVXRQTjBkU1NHYxAB",
+            "text": "food was so so for the price"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201blMwTkNNWGQxTWsxblVsOVZWVWxqZFRSRmFFRRAB",
+            "text": "We had a birthday brunch here. The food and the service was great. Loved the decor as well. Around the middle of the lunch the place was almost full house. The air conditions were working nonstop but it was clearly not enough. It wasn't even a hot hot day. We were ok cause we were enjoying the meal and the conversation, but if you want a cool restaurant, be aware. I think it's worth it."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25keFNTMTNhekZJYVdOS01sZHNTVVJVYkVsS2NVRRAB",
+            "text": "The sunroom was amazing. All in all a great experience. We loved the blue curtains and the omelette and French toast was great 👍"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214RWFYbEJhblJvUjFVeGVYWlJkeTF4WmpaQk1FRRAB",
+            "text": "Everything was great.\nThe food was delicious and the service was very good. Will definitely return. Thank you."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5NWNsTnlRMEpNWWxaMWRFTmpTalppVUV0emQxRRAB",
+            "text": "Great service and the food was delicious! I had the hangar steak with au gratin potatoes and broccolini. I liked it so much, I placed another order to-go!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCbGRYTk1SamwzVDFoUWFEUk9VM2RhTkVkUWFrRRAB",
+            "text": "had the truffle gnocchi and affogato. so good. the service was great and it’s a beautiful setting. will come back again."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205MmMwOXlNRmhxT0ZCeFUxcHZTV1UyUTBJMlNVRRAB",
+            "text": "Had an absolutely lovely dinner here!  Highly recommend the gnocchi, and with the hanger steak."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2todE1USllRVEZpZW5CVU4xcDRMVmwzUW05NmVsRRAB",
+            "text": "The server Ezekiel was very good. The food was good, the food was served quickly and the happy hour food is delicious and reasonably priced.\n\nI highly recommend the chicken Marsala"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GbFdGTmFRMUprZGxaeVJHUnFUVU5ZVDNGTlVGRRAB",
+            "text": "Great lil Italian spot in Harlem. Great happy hour deal and none of the pastas have ever missed. You won't be disappointed"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aNU1sbzFjM1pHTWpGb1ZYSnpOMUJ2U1RaNVVrRRAB",
+            "text": "Great food and service...."
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXaUl6dEFREAE",
+            "text": "We went there to celebrate my son graduation for his master. It was his request because he loves the food."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLdlN1cm5YMTlqb0ZREAE",
+            "text": "Been coming to Lido for years now. It never misses for brunch or dinner. I really enjoy the spaghetti arrabiata with meatballs or squid linguini. Also, for brunch you must try the passion fruit sangria!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQYVQ1ZjdKdnMydVVREAE",
+            "text": "The staff if absolutely wonderful, very knowledgeable, engaging, and attentive. This is a one of a kind experience that I would highly recommend for the discriminate eater :) Fabulous eating experience!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VQTzRvN1B2bXRQcHRBRRAB",
+            "text": "Loved this place all but one time that I went -  the gnocchi was delicious, kale salad, red snapper, and brunch was yummy too! We had  just one meal where the red pasta sauce was a little blah and gummy, which was unfortunately the time we brought company. So that changed my impression a bit, but perhaps just steer clear of the red sauce pastas and you’ll have a great meal!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOZWJwNldzMkpQR0hnEAE",
+            "text": "I have to go back!!! The zucchini fries ARE THE BEST"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOSHppNkdmcElQam1nRRAB",
+            "text": "A Memorable Harlem Gem That Keeps Me Coming Back\n\nYears ago, I came across this spot on a recommendation—and it left such a lasting impression that I knew I had to return. This recent visit confirmed exactly why it earned a place on my personal list of must-try restaurants.\n\nNestled in Harlem, this restaurant is part of a neighborhood that has seen tremendous change over the past 30 years. While gentrification brings complex emotions, one positive is the emergence of exceptional dining experiences like this. It’s a beautiful reflection of Harlem’s evolving food scene—where history, creativity, and hospitality meet.\n\nWe visited for brunch and went with the bottomless Sangria and Mimosas. The Sangria surprised me—it was much lighter than expected, with a crisp, refreshing taste. At first, I thought it might be the white version, and the staff didn’t hesitate to bring over both so I could compare. That thoughtful touch set the tone for the entire meal. The service was friendly, prompt, and attentive without ever feeling rushed.\n\nThe white polenta was everything I hoped for—smooth, creamy, and full of flavor. It brought back all the good memories from my first visit. The braised short rib was melt-in-your-mouth tender and incredibly flavorful. These are the kinds of dishes that show real care and technique in the kitchen.\n\nThe atmosphere is just as inviting as the food. There’s a vibrant energy in the space—stylish yet relaxed, making it perfect for everything from a leisurely brunch with friends to a date night or special celebration.\n\nWhether you’re a local or visiting New York City and want to explore Harlem beyond the typical tourist stops, I can’t recommend this place enough. It’s a true gem—where the food is memorable, the drinks are generous, and the service makes you feel like a valued guest. I’ll absolutely be returning again."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZeGVHc1JnEAE",
+            "text": "The food was wonderful, and the atmosphere, warm and welcoming..."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZbU5mTE9BEAE",
+            "text": "First-time patronage. The service was excellent a very attentive wait staff. Great meal and very good wine list. I highly recommend that make a reservation."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvbDcyNUhnEAE",
+            "text": "Lido is both a vibe and delicious establishment.  Met some retirees there for lunch and had a good time. Friendly staff, delicious food, beautiful vintage photos and classic music. A nice pairing of new and old Harlem. Also if you're not drinking, try their delightful mule mocktail, it is quite a nice treat."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvNTdXTGl3RRAB",
+            "text": "Quality food and service. Nice place nice people."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJeDdHdnhnRRAB",
+            "text": "Solid Italian style food. The zucchini fries were light and tasty. The arugula salad was fresh with a nice balance of ingredients."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJeVptb2tnRRAB",
+            "text": "The food was excellent. Every dish we had was on point. The burrata app was my favorite, and the truffle gnocchi and chicken marsala were both fantastic. The place was really buzzing too, even on a week night. Cool spot all around."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJdkpHWV93RRAB",
+            "text": "Brunch was pretty nice. They were quick to replace our drinks during the unlimited brunch."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJMktlV053EAE",
+            "text": "This is a nice place with good ambiance, the service is on point, and the food is good. Prices are reasonable. For weekend brunch it is better to make a reservation."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJNkotQ3RnRRAB",
+            "text": "Stopped in for brunch on Sunday afternoon. Smoked salmon Benedict, French toast, coffee, and passion fruit mimosa were all fabulous!! We will be coming back!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJOE9YWFZ3EAE",
+            "text": "The first time here and the food and drinks were very good. Will be returning.  Don't forget to order the Bottomless Mimosa"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJbjRIYWFBEAE",
+            "text": "The blueberry pancakes and shrimp omelettes were amazing."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJeWZmT3ZBRRAB",
+            "text": "It’s a vibrant atmosphere, but the food is very disappointing :(…… pasta w shrimp was over cooked & not much love & flavor unfortunately. Black ink squid pasta was nice, but w/ orange flavor…\n\nWe pray that “good food” will come to Harlem."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJenRqcm93RRAB",
+            "text": "Just moved to the neighborhood and had dinner here tonight with my partner. Service was great from the time we walked into the restaurant. The meatballs were delicious although we were craving some bread for the sauce so asked and the server brought some out, the zucchini fritti were pretty good, but the star was the main courses: chicken Marsala and the seafood pasta. Both were delicious, especially the chicken Marsala. Oh, and the prices were great! Highly recommend making s visit."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJbG91WDJ3RRAB",
+            "text": "Best Italian restaurant in Harlem!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJek4zaXhRRRAB",
+            "text": "The food was great, service was fast, and waiter was attentive. A nice quite atmosphere to enjoy a good meal"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtaWFEOGRBEAE",
+            "text": "추천할만한 식당. 분위기 서비스 모두 좋음. 칼라마리 맛있었고 케일샐러드, vegetarian menu 선호가 갈릴 수 있을 듯하지만 내게는 훌륭했고 인상적이었어요."
+        },
+        {
+            "date": "9년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNReWFMNGlBRRAB",
+            "text": "할렘에서는 제법 괜찮은 이탤리언 레스토랑. 125가 근처에 있는 오랜 역사와 전통을 자랑하지만 맛없고 비싼 곳보다 훨씬 낫다."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYcS1HMmJREAE",
+            "text": "I brought my boyfriend here to celebrate his birthday and it was also our first time visiting. We made a reservation and were seated promptly. Service was excellent. We enjoyed the bottomless mimosas and the server made sure to keep them coming. Food was delicious and the restaurant it spacious and super nice. I really appreciate the clean bathrooms as well. Overall 10/10 and will definitely be back to try the dinner menu!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnaFpub2dRRRAB",
+            "text": "Stopped by for lunch with a friend who came up from Brooklyn and was reminded of how good this local spot is.\n\nThe staff was friendly and attentive, the food was delicious including the burrata crostini, the kale salad, French toast and bacon (extra crispy just how I like it) and the vibe was homey and comfortable. Will definitely keep coming back."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJOUlQc25BRRAB",
+            "text": "Lido in Harlem is a true gem! The atmosphere is wonderfully inviting, and the food is simply outstanding. I have to give a special shoutout to the blueberry pancakes – they were absolutely divine! Perfectly fluffy and bursting with flavor, they were the highlight of my meal.\n\nBeyond the incredible food, the service was impeccable, thanks to my server, Alex. They were incredibly attentive, knowledgeable, and genuinely friendly. Alex made excellent recommendations, ensuring I had a perfect meal, and their timing was impeccable. It's clear they are passionate about providing top-notch service. Alex's professionalism and warm personality made my brunch at Lido truly memorable. I highly recommend Lido to anyone looking for a fantastic dining experience in Harlem, and if you go, be sure to ask for Alex! And definitely order the blueberry pancakes!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYdTZ5U2NREAE",
+            "text": "Harlem’s Rarest Gem!  From the ambience to the hospitality and the food we were floored. Everything was delicious!! The staff seemed to move seamlessly. This is a definite must go. Our host Ben was a true sweetheart. Add this place to your must do list!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaNUtiNG53RRAB",
+            "text": "We had an amazing experience. The food did not disappoint, and the service was top-notch. Our food arrived quickly and hot. The smells were crazy, I had my food but wanted everyone else's. The biscuit was delectable,  I wanted to bring 100 of them home. Will definitely return."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNneWFHaGRREAE",
+            "text": "Nice and spacious! Food was 10/10, staff was attentive and made sure my glass was never empty lol! We went during brunch"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnOG82cUd3EAE",
+            "text": "This restaurant is absolutely outstanding even at New York standards. It’s worth travelling to. They always make sure your mimosa is topped up. The food is just delicious. The atmosphere is really really trendy and its very diverse. We found a brunch place in the city. Been 3 times. I would love if they added steak and eggs to their menu but the steak Panini is just excellent. This is a true 5 star restaurant.\n\nAlso to add, they make a smashing espresso martini !!!! The bar man shake up the cocktails in front of you and you can see their magic in action. It’s very impressive."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwazV5ckpREAE",
+            "text": "We did the Brunch menu and the unlimited mimosas for $20 each 90mins . Wife had the Smoke salmon Benedict, I had the Braised  short rib hash. Both dishes were delicious and plated well. We also split an order Blueberry pancakes delicious. For dessert we ordered the warm bread pudding and molten chocolate run cake. Each dish was delicious and priced right. We will be back to try dinner"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIeFptdlhREAE",
+            "text": "The atmosphere was vibrant with patrons looking happy to be nestled into their seats, enjoying food, drinks and fellowship. The wine was lovely and the eggplant parmesan was light and cheesy with a bed of tangy tomato sauce.  I really wanted to try the grilled kale salad but shared a Caesar salad with my mom instead. She had a simple but delicious spaghetti and meatballs. We liked our short but enjoyable visit to Lido."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSNktfNDBnRRAB",
+            "text": "I cannot recommend Lido Restaurant enough, Weeks later and I’m still remembering the food, ambiance and overall experience. There were some delicious Italian dishes that were seasoned and proportioned well. It’s on an easily accessible corner in the west side. We were seated indoors however I noticed a covered outer area. Check out their menu and make your reservation. We may be there at the same time because I’m definitely going back!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiMjdPRERnEAE",
+            "text": "Lido has been one of my favorite places to eat in Harlem for a good 3-4 years now. I love the clean feel of the space and I enjoy how quiet it can be during the week… great for dining alone!\n\nAll items on the menu are created by author Chef Serena Bass who creates delicious menus , which change with the seasons, and everything, including desserts, are made in-house by Chef Bass and her team.\n\nThe Spaghettini Arrabiata I can have all day everyday, of course I won’t but it’s delicious. Those noodles are perfection and the grilled shrimp are actually grilled 🫶🏼\nThe basil really completes this dish for me✨\n\nThe creamy Parmesan garlic bread is also delicious, the crab cake delicious (it’s unique).. we just need like one more portion of each 🤞🏽😂 The calamari were fresh and although fried they weren’t hard but airy… we like that over here!\n\nThe was the best white sangria I ever had btw, just saying !"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM2N29XV0VREAE",
+            "text": "At first we went around 2pm but they only had their brunch service, we decided to make a reservation for dinner instead (after 4pm). It was worth the wait. We ordered their Fried Calamari, Fresh Squid Ink Linguine, and Four Cheese Sacchetti. The Sacchetti was the most amazing thing I’ve ever tasted, I added shrimp to my order and I’m still thinking about how perfect it was. The staff was friendly and accommodating. Would certainly visit again."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlaHRib2d3RRAB",
+            "text": "Top notch BRUNCH!\nWent with a group of 4. Service was absolutely amazing. When you first enter, they are quick to greet and seat you.\n\nOur waiter Elijah was courteous and very knowledgeable about the menu items. We ordered his recommendations. Food comes out quick and hot! Quality of the food is high. We ordered bottomless mimosas with our entrees. The staff would top them up often. Its $18 with an entree. Prices are good here.\n\nThey have free wifi and there is lots of paid parking in the area.\n\nWould definitely recommend this restaurant and visit again!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtLTQ3OExREAE",
+            "text": "Totally enjoyed the beets salad. Not crazy about their wine selection but the foods are amazing. My friend and I had the Cod and the spaghetti with meat balls. We got so full and couldn’t have desert but definitely coming back. Everything was great just the tv that we couldn’t stand."
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHLUlDTmxBRRAB",
+            "text": "Very happy with my dining experience. The outside seating area is in a very well decorated private space and the wait staff were highly attentive. The food was absolutely delicious. The warm pear salad was a great palette starter. I shared the chicken marsala and gnocchi with my husband. The sauces were so yummy that we ordered a side of bread to enjoy it further. I highly recommend this restaurant. A must visit in Harlem."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4d3VLSVp3EAE",
+            "text": "A busy spot on Harlem's restaurant row well know for the bottomless brunch offering. Always packed during weekends, reservations is highly recommended. The salmon benedict is goid, but my fave is still the short ribs hash. Can be a bit crowded elbow to elbow, but service still good paced with free flowing mimosas. A definite add to brunch spot lists."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1X2ZidE9REAE",
+            "text": "Fantastic brunch. Friendly staff, absolutely delicious food and surprisingly fast service! Plus reasonably priced.\n\nHighly recommend the short rib hash eggs benedict. So flavorful!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXdV82VDVBRRAB",
+            "text": "Great customer service, from greeting to exit. We thought we were beating the lunch rush but it was still busy when we arrived. Nonetheless, the staff was great.  We had mussels, spicy spaghetti, sorbet and bread pudding."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvM1lQaWV3EAE",
+            "text": "Mimosa brunch was delicious. French toast was sweetened and didn't need syrup. There was also no syrup on the plate. Crispy bacon and good service. Short rib was tasty but not hot. Arugula salad with pear was pretty basic, ordered the parmesan on the side and it was like plastic. Would go back again."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHeU9MZ2F3EAE",
+            "text": "Lido is the perfect spot for brunch. The restaurant has both an indoor and outdoor area with additional seating at the bar. The brunch selection is plentiful with pasta options as well as traditional brunch items. I recommend the veal meatballs. Absolutely divine. The truffle gnocchi was another highlight. Order the side of Parmesan bread and dip it in the gnocchi sauce. Lido is a must in Harlem!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwbTl1YkRnEAE",
+            "text": "Wow, I don’t know what to say, $14 for a dish that is truly worth $100. The service was really good, the people there was really nice and provides allows you to choose your topping and how you want them to cook it."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtdk8td2ZBEAE",
+            "text": "Donot recommend. 10/29/22 me and my friend was craving pastas so we decided to walk LIDOS for some pasta. I had looked at the menu before coming assuming the options they had on there menu would be good. My friend got her order first I was indecisive at first because I’ve never been here before. I went to check their ig account while ordering to see a better look of the pastas. We ordered the same thing and it was very bland! No taste no seasoning! Appalled . My friend asked for hot sauce and salt/pepper for flavor. The sauce that was on the food was very watery consistency to the point you would need a napkin on your lap. In the images you can see how much pepper and salt I added to mine. They charge extra for the meats added to the pasta which mean the pastas don’t come with any meat! This was the worst pasta I ever had living in NY my whole 28 years of living. Apple bees pasta is better then this. The bread is the only thing I can vouch for at this place. I returned my plate back that’s how much I did not enjoy my food."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtOHVTeW93RRAB",
+            "text": "Bright and inviting atmosphere, one of my favorite places to eat in Harlem. They can pleasantly seat medium and large parties without fanfare. My go-to for a quick, but delicious meal; zucchini fries, calamari, and a La Pera."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwbDZEbDRRRRAB",
+            "text": "I had the best time at Lido. Met a good friend for dinner. The food was amazing, my goodness. The chef is superb! The vibe of the restaurant is immaculate. Such a chill yet professional spot. Visit  you'll love it!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPbTZDYkFnEAE",
+            "text": "Good Italian place with a nice vibe reflective of neighborhood. Starters were ok, but the main dishes were very good. Truffle gnocchi were too mild in flavor, the ink squid linguini with scallops and shrimp was really good."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURucXFIMkpREAE",
+            "text": "First time at Lido and I loved everything. I’m lactose intolerant, request a cream-free spaghetti and they were great to offer me a yummy version. Wine list is great and the music is perfect to enjoy a beautiful evening. No reservation needed."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBeDVTTlpREAE",
+            "text": "The ambiance is chic and welcoming, and the food combines unique flavors with classic meals. The cocktails are made with precision. Reservations preferred. Great place to have brunch! I will definitely come back!!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCOU5XN3RRRRAB",
+            "text": "very nice place. watched the final for world cup. very friendly bar staff. good french toast and bacon and not so great biscuits. good bloody mary. dont have any none dairy milks"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzcU5uRXVBRRAB",
+            "text": "GREAT PLACE! I went during a Saturday brunch with my friends and it was so good. The food was DELICIOUS!!  The drinks were good and the waiter kept them going. He was very attentive and polite. It has such a great ambiance with nice staff…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1NEx2cXF3RRAB",
+            "text": "Came for #restaurantweek lunch. Had a delicious tequila cocktail. Not a fan of mezcal, they substituted casa amigos + jalapeno syrup and pineapple juice. Our first course was the fried tomato and mozzarella with balsamic dressing greens.…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURScXVxd3dBRRAB",
+            "text": "Lido has one of the great outdoor seating areas on Frederick Douglass blvd which makes it an attractive option during the warm months. For lunch, we started with a delicious and fresh caesar salad with a nicely grilled piece of chicken. after that, the veal meatballs and spaghetti and the squid ink linguine. the linguine was replaced with GF pasta to accommodate a guest. that was nothing special. the spaghetti/meatballs were tasty but also nothing profound. we would dine here again for the outdoor seating and vibes! it was our second time giving Lido a shot."
+        },
+        {
+            "date": "1년 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIN182ZXBRRRAB",
+            "text": "Très belle adresse.\nVous trouverez à non seulement des plats italiens 🍝 mais également des plats pour faire un brunch.\nC’était vraiment bon et le serveur était vraiment sympa."
+        }
+    ],
+    "reviews_count": 84
+}

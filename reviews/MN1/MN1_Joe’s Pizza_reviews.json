@@ -1,0 +1,705 @@
+{
+    "name": "Joe’s Pizza",
+    "place_id": "ChIJqdNaaBVbwokRLTafYrQlZI8",
+    "grid": "MN1",
+    "address": "124 Fulton St, New York, NY 10038, USA",
+    "rating": 4.5,
+    "user_ratings_total": 6244,
+    "phone_number": "(212) 267-0860",
+    "reviews": [
+        {
+            "date": "1시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214RFkxQXpZak5ZTkRCbGFHTlFjVnBJYzB4V2RXYxAB",
+            "text": "Long lines always but moves fast and worth it. Great pizza for reasonable price always fresh."
+        },
+        {
+            "date": "7시간 전",
+            "language": "pl",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GbFFrbHNkMjFYWkhCSVdYZHhNRjlNYzNwNVNHYxAB",
+            "text": "Jedna z najlepszych tego typu miejscówek jakie odwiedziliśmy będąc w NY. Ciasto cienkie i chrupiące, sos przepyszny. Polecam wziąć opcję z samym serem - jest idealna."
+        },
+        {
+            "date": "16시간 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSWlYzaHFObXh5UjA5b2JVWmZaR3hOYlc5a0xYYxAB",
+            "text": "Nothing special. The pizza was kind of chewy and tough, with that texture you get when it’s been reheated. The pepperoni were oddly sweet 😬 I think it all comes down to the quality of the ingredients. I wouldn’t go back."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJeU5uVnhabFI0WlZKb1prcE1hbDlDZERaM2QxRRAB",
+            "text": "I get that this is the very first joes pizza but the pizza was not impressive at all. Its not terrible but there's nothing special about this pizza. You're literally paying to view the pictures on the wall."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0cVgySk5PRUprYTA1b00weFplVkpKTWs1U09XYxAB",
+            "text": "Not worth 30 min wait. Took veg and spinach and it was bland and not great. Just regular pizza."
+        },
+        {
+            "date": "1일 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkbGRqQXlZVkpzYm5KUlZFOXpjR1JxT0c1WGNsRRAB",
+            "text": "Están ricas… tampoco te vas a comer la mejor pizza del mundo pero si es recomendable venir para conocer el sitio, es una experiencia muy agradable. El sitio es pequeño y suele haber mucha gente."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poSFFVNVlibEJsVUhCRVNrNTNSRTQwYlZscmNsRRAB",
+            "text": "The quintessential New York pizza joint.\nSo good. Pizza, service, vibe. I could eat here three times a week if I lived in New York."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taMlFtTlJlRkY0WmxsWWFFNWFNSHAyTUhBNE5IYxAB",
+            "text": "Delicious pizzas, very friendly staff, great ambiance!"
+        },
+        {
+            "date": "3일 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJd1RscHFPVGRRU1Y5SGFETmhhbkowTlVWNWRWRRAB",
+            "text": "Posto dove obbligatoriamente bisogna passare se si vuole assaporare una pizza newyorkese.\nSempre tanta gente, ma servizio abbastanza veloce.\nConsigliato!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGaVZHMVdTMWh6VGxSbGJXNXplVWw1Y0U1T04xRRAB",
+            "text": "A NYC institution! Need to eat on the street."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWNU56Y3pkV2MxYTJGelkxbEpjVE5LYjFGSVVuYxAB",
+            "text": "The workers here are marvelous & top notch, they were serving customer after customer at 5 AM on Saturday morning after a Friday Halloween rush seamlessly, made it look easy and I know it ain’t. Respect!"
+        },
+        {
+            "date": "4일 전",
+            "language": "iw",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tONFRVaDNRMFJpYUhKbU4zWnlXblZmTjNWMlFYYxAB",
+            "text": "טעים, טבל לא יותר טעים מכל מקום אחר"
+        },
+        {
+            "date": "4일 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xalRGcDRlRTFGYlU1RWNVUlZaWFJsYzBoYVkwRRAB",
+            "text": "Les parts de pizza sont énormes et excellentes pour une petite pause déjeuner ça vaut le détour\nJe vous recommande!"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tnNFkyTXpibGszY1RaTFkyVjZibmRyVjFoNVduYxAB",
+            "text": "I had high expectations since this was suggested by many. It was alright for me. The crust was decent. I only liked the margherita slice. We asked for a veggie slice but they said they can only give a whole pizza and not by slice. I did not like the ricotta cheese slice. I expected more but it's decent and feel like I've had better ones"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205MVJFdG9hblpGVjJWMlUzRk1SV0p5Tm1WUVYwRRAB",
+            "text": "Absolute most go! Great pizza, great prices, super authentic even the attitude was spot on. Loved it !"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWQ1pEVlZWbkpzTkdFMlNXSndXWHBHU0VSQlpIYxAB",
+            "text": "Food spot on. Very busy, service could have been a little more friendly. No real atmosphere as it's a pass through spot."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WSlZHcE9kM0JJUWxWMlJGaFdTM05ETUhVNVExRRAB",
+            "text": "There is always queue but serve fast. Pizza is crispy. Taste could have been better"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wb1NVeExSbUppVG5kekxUSllPQzF1UzJSSGNHYxAB",
+            "text": "Some of the best Pizza in the city! Kiddos loved it."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGQ2RYVmZSelZ1ZFVoS05sSmxTRWxPYm14T2JtYxAB",
+            "text": "Be ready to order, felt a little like the Soup Nazi guy from Seinfeld. But otherwise great pizza, fun and busy atmosphere, and a fun NYC stop for anyone that knows the history of this place."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1aE5VMVpiVzl1TW1aZlVraGpUbmw0ZWtoeWJsRRAB",
+            "text": "Try the Sycilian one!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GRmJEaHpZMjF1WlZkRE5HWmFVSGgzY3pnelRtYxAB",
+            "text": "Always fresh and hot out the oven NY style pizza.."
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "ja",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKWVlVMDJMVUpEYldoRk4wOTFUWE5CYzBOb2EwRRAB",
+            "text": "自由の女神クルーズの前にランチ。家族４人で1枚ずつで済ませるつもりが、薄い生地でサクサク食べられるために、もう一枚おかわりしてしまいました笑\nディスプレイしているピザを、温め直して提供してくれるので、大満足でした！"
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pVMGNHUjZRbGs1T0c1dWF6RlJPSGhOWVVaTFpHYxAB",
+            "text": "Ok, not bad not spectacular.  Flop city.  Can get the same pizza anywhere.   Nothing truly special.   Pizza about $31."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21rM1ptRXlSbmxpYUZWdVRtdzJNVGxvTjJ0NlpHYxAB",
+            "text": "The best pizza in downtown"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toaFMwbzRiV2R0U0hwZk9ESm1jM2hEYzFNMlEwRRAB",
+            "text": "Absolutely delicious pizza. Nice thin crust.  It's packed so dont expect.to be able to get a seat, but this is some great pizza."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pnMWMzSktWRGRaUlVZNGMwaE5SVzU0VVU1dlgzYxAB",
+            "text": "Lines are long but it moves. Pizza is delicious. Grab a slice or 2 and eat it at one of the tables outside."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CelJrdE1TRmRSUTAxak1uQjJOR3R5V1hKS0xVRRAB",
+            "text": "Best pizza ever"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oM2JVTnhlVEUwU21GMGFHcFhRM0JoV21VM1JFRRAB",
+            "text": "Good experience, trying this pizza in NY, it is an iconic place if you are a fan of Spiderman.\nThe pizza is good, the service is good and the place is good."
+        },
+        {
+            "date": "1주 전",
+            "language": "de",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Sd01WVnVkR3ROVVV0RFpUTkRjemMyZGpSUWQyYxAB",
+            "text": "Die Pizza ist lecker und das Preis/Leistungs Verhältnis ist okay. Die Stücke sind groß und kosten zwischen 3,50-5,50. Für eine schnelles Essen Top."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCYVlqZGxjR0pYU1c0eFVHZHNabDlHT0ZOaVJYYxAB",
+            "text": "Spider pizza!!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CU0xVeFRhak5YWmxsYVZHUm5NbVpqZDNKUU9VRRAB",
+            "text": "I love this pizza! Totally worth the wait 🙏🏽\nSuper friendly staff… Highly recommended!!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OSWVGWk5lWEZwTms0eFJrcENhVWxxTVcxck9VRRAB",
+            "text": "Mid"
+        },
+        {
+            "date": "2주 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKYWFHcGZiRmMwY21aTFdtVkxkMm8zYmtacGIwRRAB",
+            "text": "이것저것 올라간 것보다 모짜렐라 치즈만 올라간게 담백하고 맛있어요! 뉴욕에서 그나마 저렴하고 맛있게 먹을 수 있어 좋아용"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCM2VuUmZXRUZ6ZUU1S1JXOHdaa2QzV2pFemRGRRAB",
+            "text": "Very nice pizza. Friendly staff. Location is quite small especially for how much traffic they get."
+        },
+        {
+            "date": "2주 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCUVpXbFNjRXRxYUZaQlVHTllOblEyTkVaT05uYxAB",
+            "text": "Ottima pizza davvero!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWUFQyeENaREI0V1UxWlpqWXlNMmxmWVRWUVZuYxAB",
+            "text": "Famous New York slice"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xnMVpuVlpOMEpRWVU4eFlUSjJXRzFPWWxkQlFtYxAB",
+            "text": "Visited Joe’s Pizza because we heard it’s super famous — and the crowd proved it! The place was packed but the pizza was totally worth it. The slices were huge, and the full pies were massive — we were two families and two full pizzas were more than enough! Loved the classic NYC taste, and cool to know it was featured in the Spider-Man movie too!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xRMFNtVnJNelJ1U2poMFRHdHlZVFk1ZW5KSmVGRRAB",
+            "text": "No frills place.  Ordered a slice to go.  Classic New York slice - but nothing distinguishing it from other options.  A bit pricey for the amount of food you get."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSSmQyZE5lVVl4YzAxUGNqbHVYekpSTlhGT1lsRRAB",
+            "text": "I popped into Joe’s Pizza on Fulton Street while walking through the Financial District and I left genuinely impressed. The slice I tried had that classic New York pizza feel — thin crust, crisp along the edges yet soft and chewy in the middle, with a nicely balanced ratio of sauce to cheese. One user described it as “thin and very crispy… the most quintessential New York style slice” and that seems spot on.  ￼\n\nThe place was lively, with a steady stream of people coming and going, but the line moved quickly and the staff seemed experienced at handling the rush. According to reviewers, you’re likely to get “fresh slice after fresh slice” even when it’s busy.  ￼\n\nEven though seating is minimal (it’s more of a grab-and-go vibe), I found standing outside and enjoying the slice worked just fine. The price is reasonable too for the quality, and it hits that sweet spot when you’re craving a genuine NYC pizza experience without fuss. One reviewer said: “Cheap and delicious… only a few people in line so was nice and quick.”  ￼\n\nIf I were to pick one caveat, it would just be that it’s not a sit-down dining experience for a long stay—more of a fast, excellent slice stop. But if you’re looking for that slice-of-the-city moment, Joe’s on Fulton definitely hits. I’d absolutely go back."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGdVYzSklOelExZVhOeFNFMHpSRFoxWlVGaFpHYxAB",
+            "text": "The iconic NYC slice"
+        },
+        {
+            "date": "2주 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tveWRURlZPRXRwUkU1MGFsRTFiSE5LVUVsWGIxRRAB",
+            "text": "Diese Pizza zählt zu den leckersten Pizzen, die ich jemals gegessen hab.\n\nDiese Pizzeria ist sehr berühmt daher kann man nicht den besten Service anbieten zum Beispiel man steht in einer langen Schlange genügt. Dich gibt es nicht aber dafür ist die Pizza traumhaft."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sRFltbEliMUp5TjI1U2NVb3plSEJCTUhGSlZuYxAB",
+            "text": "You HAVE to visit Joe's pizza\nBest pizza EVER"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210Zk4yZHNUV0p6VkZvdFprcGhNRFU0VmpOa1VHYxAB",
+            "text": "Everything worked as expected. Nice and easy experience."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swMmQwcGtOVEExV2pNMFJVOUJPREpUT1dGbWVGRRAB",
+            "text": "For tourists. I give b-. I used to eat on author avenue in da Bronx. Go to prince st or get outs dodge. So disappointing. Crowded too."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ad1VEbGtWRE5JWTJjM2JEZFhUazFXWWxaQmJXYxAB",
+            "text": "10/10 pizza place!!! Great dough, tasty and crispy. Good tomato sauce!! Could come here everyday!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGdE9WZHZkRkpwTkZVMFNYQlBaRmRqUkhBemMwRRAB",
+            "text": "What new york pizza should be. Joes santa monica is just as awesome"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wMk5qRjJTbDlUUVVwV2VHUlFWMnBQWlhZeFQyYxAB",
+            "text": "I expected the pizza to be better. Joe’s pizza quality is better in Brooklyn and at the 42nd and broadway location. I expected the pizza quality to be better - the guy taking orders completely ignored me and tried to ask the people behind me what they wanted  to order and they were just looking at me lol - my bf and dog were saving a table for me outside. I guess they are not used to people coming in alone and ordering ? LOL . Overall it was a good experience but again I expected the quality of the pizza to better since I already tried Joe’s Pizza on many other numerous occasions at various other locations! It’s usually always packed at a joes pizza , but you could get lucky and catch it open when you want to order pizza when it is not so busy. But I get it, the pizza is good and it is popular! Also they are literally open all night like how god damn convenient is that - especially for our night owls like myself.! Photos are captured and attached to share my experience with you from Joe’s Pizza on Fulton! Thank you for your service Joe’s Pizza!"
+        },
+        {
+            "date": "2주 전",
+            "language": "pl",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205Qk4yRXRhM2xvZVV0a09VaDRjR05wTFhGM1ZWRRAB",
+            "text": "Pizza była przepyszna – cienkie, chrupiące ciasto, świeże składniki i aromatyczny sos. Idealna opcja na szybki, ale naprawdę smaczny posiłek. Obsługa miła i sprawna, a kawałki zawsze ciepłe i apetyczne! 🍕👏"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25JeGFGcDZVRUZuU1VkamVrWldTWFJxYXpKTlNHYxAB",
+            "text": "Pizza you cannot get enough of. A classic pizza joint with SO much NYC history."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kWVVuZFlNbXhPUldzMVZrVjZTMWh6U1ZWMlEwRRAB",
+            "text": "We visited, because my son and his friends wanted to try a top rated NYC pizza. They were impressed. The place was packed. However, the pizza was expensive...at least for us. 2 large pizzas were $80. 😳 There really isn't anywhere to sit. I think there were a couple of tables, but they were full and there were so many people waiting that it would've taken hours to get one. We just took our pizzas and walked to a nearby park to eat."
+        },
+        {
+            "date": "3주 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21selpGbFlOV3RWVG5aaGNWUnJkRzh6UldSa1RtYxAB",
+            "text": "피자는 얇고 바삭한 느낌의 도우입니다\n따뜻하게 데워주니 맛있습니다\n인당 2조각만 먹어도 충분합니다\n잔돈이 없어 100불을 지불했지만 유쾌하게 웃으면서 잔돈 거슬러주네요\n대부분 카드 결제 많이 하고 당연하지만 팁 선택란도 없이 바로 결제 됩니다(앞에 팀 몇명 결제하는거 구경함)\n\n저는 추천합니다!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WSk5UY3lWSFUzYTAxRVluRkNOMVJhY0Rabk5VRRAB",
+            "text": "개인적으로 생모짜렐라피자와 카프레제가 맛있었음.\n도우가 얇고 바삭거리며 맛있어요^^\n서서 먹을 수밖에 없는 가게인데 3분거리인\n뉴욕시청 앞 공원 벤치에서 먹으면 됨.\n한 조각 7달러 한화10000원 정도  ᆢ"
+        },
+        {
+            "date": "2달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0bU5UQm5RbEJLTFRaaU5EaFRlVlp5Y1ZZelZsRRAB",
+            "text": "피자는 정말 맛있어요! 도우까지 싹 먹었습니다! 사람이 많으니 포장 후 집에서 먹는것이 더 효율적일 것 같습니다!"
+        },
+        {
+            "date": "3달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGdFYxRkdOa05VZG1ocllUbHRkR3B6YWt4blExRRAB",
+            "text": "미국에서 먹은 피자 중 가장 맛있었던 피자\n자유의 여신상 보고 나와서 6-7시쯤 먹으러 감\n가게는 많이 북적이나 운좋게 앉아서 먹었음\n\n콤비네이션이 제일 맛있었고, 시금치 향긋함"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3bjlXYW1nRRAB",
+            "text": "정말 유명한 조스피자.. 사람은 많고 공간은 정말 작아서 안에서 먹을 수 있다면 그건 행운입니다!\n페퍼로니 하나 먹었는데 얇고 크리스피하고 짭짤해요. 되게 평범하다 생각했는데, 여기저기 다 먹어봐도 돌고돌아 이 피자가 제일 생각 나요.\n줄 서서 조각으로 드셔보시는거 추천합니다!"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNGNmRTWHV3RRAB",
+            "text": "미국에서 먹은 피자중에 가장 맛있었던 곳.\n얇은 도우를 좋아한다면 최고의 선택이 될것입니다.\n바삭한 얇은 도우에 신선한 토마토소스, 치즈, 바질은 환상적이었습니다.\n꼭 한번 드셔보시길!"
+        },
+        {
+            "date": "1달 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkMlVHeHJOVkppVTNKVmRtRnplRk55U2pVMGRHYxAB",
+            "text": "저렴하다고 하지만 조각당 1만5천원꼴이라 크게 싸다는 느낌은 못 받았고 맛은 그저 그런 것 같습니다."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURudWZITnZ3RRAB",
+            "text": "진짜 맛있음!\n조스 피자가 제일 맛있었어요\n처음에 조스피자먹고 다른 피자는 성에 안차게되는 부작용이 생길정도ㅋㅋㅋ\n저는 카프레제가 정말 맛있어서 여러번 먹었는데\n얇고 바삭한 도우와 새콤달달하면서 진한 토마토 소스의 조화가 미쳤습디다!\n꼭 토마토 베이스로 먹어보세용!"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuLU1UZFVBEAE",
+            "text": "미친 존맛\n\n추천해달라고 했더니 콤비네이션이랑 치즈 추천해줬음\n콤비네이션 한조각 먹었는데 진짜 극락.\n\n이탈리아 가서도 피자는 역시 한국피자가 맛있다고 생각했는데 여긴 그냥 다 쌈싸먹을정도로 맛있음 굿"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN0OE5YQkVBEAE",
+            "text": "기본적으로 줄을 엄청 서있습니다. 가격이 워낙싸니 사람이 드글드글.\n그렇지만 미국식 헤비한 피자가 아니고, 이태리식 얇은 건강한(?) 피자 스타일이라 개인적 취향에는 맞지 않네요. 줄 서는동안 메뉴판과 다른 분들 매장에서 먹는것 번갈아 보면서 마음의 정리를 하시면 됩니다.\n주문은 쇼케이스에 있는 직원분에게 이것저것 달라고 하면되고, 결제는 오른쪽 캐셔분께 다시 이야기하면서 하시면 됩니다.\n줄서는 동안 홈리스들이 와서 사진찍어준다 하고 돈달라는 경우가 많으니 너무 과하게 관광객인척 하시면 조금 난처한 상황을 겪을 수 있으니 조심하세요 🥲"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEdzRQZElnEAE",
+            "text": "피자가 정말 맛있어요\n하지만 가게가 좁아서 밖에서 먹어야하는데\n그것도 뭔가 운치가 있었어요.\n줄이 긴데 금방금방 줄어서 괜찮았어요\n피자도우가 얇고 바삭한게 넘 맛있었어요"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkeGRpZ1JnEAE",
+            "text": "어느 지점에서 먹어도 맛있는 Joe’s pizza지만\n이 매장이 베스트였어요.\n특히 fresh mozzarella가 토마토스프를 먹는것처럼 풍부했고 도우도 완벽했어요.\n딜리버리로 먹어보고 너무 맛있어서 매장을  찾아가서 먹었는데 직원들도 친절하고 최고였어요!"
+        },
+        {
+            "date": "11달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQak91Z1ZREAE",
+            "text": "태어나 먹어본 피자중 최고 였어요\n어느 누구에게나 추천할 법한 맛이에요\n마르게리따 최고 두번 세번 드세요~♡"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1bjhpXzd3RRAB",
+            "text": "맛있다요!!! 최고의 피자. 한국에서 이런 피자는 아직 못찾은듯. 위에는 촉촉하고 밑에는 바삭해서 존맛이에요 솔직히 두조각 쌉가능\n\n정신없는 와중에 자리 잡고 서서 막 먹구 나가는\n재미가 있는 곳ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "date": "4달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJakpsYUxCOHVqVTRnRRAB",
+            "text": "사람이 많지만 그렇게 오래 기다리지 않습니다! 짭짤한 피자에요. 🍕…"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4dS16RTdBRRAB",
+            "text": "뉴욕을 아직 잘 모르지만.. 뉴욕인데 뉴욕 분위기.. ㅎㅎ\n페퍼로니 하나 먹었는데 마시따~~~\n테이크아웃이 많아서 줄도 금방금방 빠지고\n실내 또는 실외에 테이블 있어서 서서 또는 앉아서 먹을 수 있다!"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNOOXN6Z0JnEAE",
+            "text": "사람이 많아서 너무 정신없어요😨😨\n여기 말고도 맛있는집 너무 많아서 굳이\n기다려가며 사먹어야하나; 생각이 드는 맛\n맛있어요 대신에 따뜻할때 빨리 드세요\n식으면 맛없어져요....주문도 빨리빨리(사람 많으면 고민할시간 많이 없음)\n피자 데워주시는 아저씨 겁나 손이 빠르심"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqb3RiLUtREAE",
+            "text": "아주 얇은 도우를 화덕?에 구워서 바삭한 느낌을 준게 특징입니다. 소스와 토핑이 맛있다기보다, 바삭한 식감의 도우가 맛있는 피자인것 같습니다. 접시에 다 안담길정도로 컸지만 두조각도 충분히 먹을수 있을만한 양이이었습니다.\n\n앉아서 먹을만한 곳은 없고 바깥에 마련된 부스에서 스탠딩으로 먹었을수 있었습니다만, 구걸하는 청년들을 조심해야 할것 같습니다"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxdWFycVZREAE",
+            "text": "피터파커가 스파이더맨 촬영시 알바했던 조스피자!\n맛도 분위기도 최고!\n재방문의사 200프로!\n가격도 너무 싸서 놀램! 맛은 세계최고"
+        },
+        {
+            "date": "6달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvZ19iTGJREAE",
+            "text": "맛있어요 크리스피한 도우와 적절한 두께의 소스의 조합이 최고"
+        },
+        {
+            "date": "3달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsU1ZYRjZjVGRFWjFNMmVYUmlaRm81VWxnMGRVRRAB",
+            "text": "직원의 응대나 분위기가 복잡하고 별로임\n그러나 기본 치즈피자가 맛있었기 때문에, 한조각쯤 경험하는것은 추천함"
+        },
+        {
+            "date": "11달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzenQtQlpREAE",
+            "text": "저녁에 야식으로 호텔에 돌아가는길에 투고해서 갔어요. 피자도 맛있고 생각보다 줄도 많이 기다리지 않아서 좋아요. 직원도 친절했고 저는 마가리타가 맛있었어요. 그런데 줄 서있을때 대마초 냄새가 너무 심해서 제대로 대마초 냄새를 기억하게 되었어요^^;;"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCenVXajVBRRAB",
+            "text": "피자 이름은 모르겠는데 버섯 든거 맛있어요. 카프레제는 토마토 맛이 쌔서 별로였구 두꺼운빵 요것도 쏘쏘..  걍 치즈피자나 페퍼로니 먹어볼걸 그랬음ㅋㅋ"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4MjQzbTVBRRAB",
+            "text": "종류도 많고 맛있었음.\n개인적으로 시카고피자보단 뉴욕피자가 더 맛났음"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURicGVxYjhBRRAB",
+            "text": "포장해서 먹었어요. 한 조각이 매우 커서 양 적으신 분에게는 한끼로 괜찮습니다. 딱 미국 피자맛이예요"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4c2RyWUpREAE",
+            "text": "피자는 다 맛있음. 인종차별하는 홈리스가 따라붙어서 피자사줄때까지 옆에 붙어있으니 관광객분들 조심하세요. 피자 안사주면 인종차별 시작함. 특히 여성분들끼리만 동행하는것 위험합니다."
+        },
+        {
+            "date": "4달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLeWVqcnJLLXBYMFVnEAE",
+            "text": "후… 지릴뻔 했습니다\n페페로니, 스패니치, 카프레제, 콤비네이션 먹었고\n위 순서대로 맛있었습니다\n개인적으로 콤비네이션은 비추입니다"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMweUptMTBnRRAB",
+            "text": "늦은 시간까지도 대기가 길지만 줄이 금방 빠져서 괜찮습니다\n치즈피자와 페퍼로니 피자를 먹었는데 페퍼로니는 조금 짜고 치즈피자는 아주 맛있습니다.\n한번쯤 먹기에 좋은 피자입니다"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwX1pxVjlnRRAB",
+            "text": "피자는 정말 맛있어서 두조각은 금방 먹어요 담백합니다 도우도 얇구요 하지만 직원들이 불친절하다는"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3ajUyWV9RRRAB",
+            "text": "시카고 디트로이트 피자 모두 먹어봤지만\n미국에서 먹은 피자중에 제일 맛있음\n평일에가서 10분도 안기다림\n노숙자가 많다는 리뷰가 있었지만 다행히 없었음\n시금치? 얹어진 피자 강추"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtNU9fck1nEAE",
+            "text": "가격도 착하고 빨리 나오고 크고 맛있어요 ㅎㅎ\n다른 맛도 꼭 더 먹어볼거에요 ㅎㅎ\n이렇게해서 딱 $11 !"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUaWZ1THFRRRAB",
+            "text": "줄이 길어  하지만  뉴욕에  왔으면  꼭 먹어봐야지"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5NUpQQ1VREAE",
+            "text": "뉴욕에 도착하자마자 달려간 뜨거운 해장피자\n너무 맛있다.."
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPeFplcGtRRRAB",
+            "text": "다 식은 피자 맛도 없고 앉을 자리도 없고... 스트릿 테이블은 쓰레기 냄새에 모기만 가득합니다. 이곳을 비추천 합니다."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQxalppZXpRRRAB",
+            "text": "넘 즐거운시간이얐어요"
+        },
+        {
+            "date": "10달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmaFlIXy1nRRAB",
+            "text": "조스피자는 조스피자에요\n본점이 아니더라도 항상 맛있고!\n사람들이 항상 북적북적하답니다아?!"
+        },
+        {
+            "date": "4년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2ODlxbm13RRAB",
+            "text": "맛있긴한데 조각피자라 그런지 다시 데워주기 때문에 맛이 바로 나온피자 보다 살짝떨어져서 아쉽네요"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKdF9ueFNREAE",
+            "text": "매우 혼잡하지만 가볍게 피자한조각 즐기기 좋은 곳"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQyeGV2dWZREAE",
+            "text": "전형적인 미국피자 맛인것 같아요 사람도 많은데 회전율이 빨라서 딱히 기다리지도 않는것 같아요"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3NXNIa0RREAE",
+            "text": "다른곳과 다르게 담백하고 깔끔한 뒷맛이 좋았다"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPN3FQWFlBEAE",
+            "text": "피자 싸고 맛있다. 줄이 좀 긴데 빨리 사라져서 많이 기다릴 필욘 없음."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxNUthcHJ3RRAB",
+            "text": "싸고, 빠르고, 맛있음. 하지만 내입맛에는 한국피자가..."
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwaXB6U2lBRRAB",
+            "text": "맛있습니다. 간단하게 한조각 먹기에 좋음. 슈프림 피자 추천합니다."
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPOTdXaEZnEAE",
+            "text": "엄청 크고 맛있는 피자"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxd29HOThnRRAB",
+            "text": "찐 뉴욕피자👍"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlMzhlTVNnEAE",
+            "text": "저렴하고 맛있습니다.\n대단한 맛은 아니지만요 ㅎㅎ"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMwMzlMSER3EAE",
+            "text": "찾아와서 먹을 맛 아님 대부분의 미국 피자가 그러합니다"
+        },
+        {
+            "date": "3달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FdFlVWmpURUZ6VTBkc1FsSjZNWEpFZFdkV1RYYxAB",
+            "text": "별맛아닌데 맛있음"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZemE3alh3EAE",
+            "text": "맛있음 안짜고 맛있지만\n비쌈.....\n맛은있음"
+        }
+    ],
+    "reviews_count": 99
+}

@@ -1,0 +1,402 @@
+[
+    {
+        "name": "The Good Good",
+        "address": "1694 Park Ave, New York, NY 10035, USA",
+        "place_id": "ChIJr9rAO3f3wokRg7evFlsrX-Y",
+        "rating": 4.8,
+        "user_ratings_total": 328,
+        "phone_number": "(917) 409-0103"
+    },
+    {
+        "name": "Red Rooster Harlem",
+        "address": "310 Lenox Ave, New York, NY 10027, USA",
+        "place_id": "ChIJFcYLJw32wokRnP5A9xO9JqM",
+        "rating": 4.4,
+        "user_ratings_total": 7463,
+        "phone_number": "(212) 792-9001"
+    },
+    {
+        "name": "Sylvia's Restaurant",
+        "address": "328 Malcolm X Blvd, New York, NY 10027, USA",
+        "place_id": "ChIJb8Xw0wz2wokRXhp1-HSLvkI",
+        "rating": 4.3,
+        "user_ratings_total": 8620,
+        "phone_number": "(212) 996-0660"
+    },
+    {
+        "name": "East Harlem Bottling Co.",
+        "address": "1711 Lexington Ave, New York, NY 10029, USA",
+        "place_id": "ChIJxbNEDQP2wokRIF9aZH8v7sw",
+        "rating": 4.6,
+        "user_ratings_total": 844,
+        "phone_number": "(646) 922-7705"
+    },
+    {
+        "name": "Ricardo Steakhouse",
+        "address": "2145 2nd Ave, New York, NY 10029, USA",
+        "place_id": "ChIJNT3RSgH2wokR2ZqvHjeklRk",
+        "rating": 4.5,
+        "user_ratings_total": 4325,
+        "phone_number": "(212) 289-5895"
+    },
+    {
+        "name": "Lido Harlem Restaurant",
+        "address": "2168 Frederick Douglass Blvd, New York, NY 10026, USA",
+        "place_id": "ChIJ2yTMoxb2wokRixfwCY3ltok",
+        "rating": 4.5,
+        "user_ratings_total": 1729,
+        "phone_number": "(646) 490-8575"
+    },
+    {
+        "name": "The Edge Harlem",
+        "address": "101 Edgecombe Ave, New York, NY 10030, USA",
+        "place_id": "ChIJ2d54lnr2wokRK-62uG2nIx8",
+        "rating": 4.5,
+        "user_ratings_total": 1482,
+        "phone_number": "(212) 939-9688"
+    },
+    {
+        "name": "Lighthouse Fish Market",
+        "address": "508 E 117th St, New York, NY 10035, USA",
+        "place_id": "ChIJwRC7hl71wokRlORk3BvaTA0",
+        "rating": 4,
+        "user_ratings_total": 754,
+        "phone_number": "(212) 320-8894"
+    },
+    {
+        "name": "Alison",
+        "address": "1651 Lexington Ave, New York, NY 10029, USA",
+        "place_id": "ChIJ05f_AZ_3wokRYDq3ytLPLew",
+        "rating": 4.5,
+        "user_ratings_total": 520,
+        "phone_number": "(646) 876-1054"
+    },
+    {
+        "name": "Angel of Harlem",
+        "address": "2272 Frederick Douglass Blvd, New York, NY 10027, USA",
+        "place_id": "ChIJYSdWchP2wokRg1uEFJMWTQs",
+        "rating": 4.3,
+        "user_ratings_total": 2077,
+        "phone_number": "(212) 316-0350"
+    },
+    {
+        "name": "Perch",
+        "address": "1693 Lexington Ave, New York, NY 10029, USA",
+        "place_id": "ChIJac7LXe33wokRMbEC0elomNE",
+        "rating": 4.7,
+        "user_ratings_total": 201,
+        "phone_number": null
+    },
+    {
+        "name": "El Kallejon",
+        "address": "209 E 117th St, New York, NY 10035, USA",
+        "place_id": "ChIJKUnbfQj2wokRUvzwYGqTBQI",
+        "rating": 4.6,
+        "user_ratings_total": 423,
+        "phone_number": "(646) 649-4795"
+    },
+    {
+        "name": "Corner Social",
+        "address": "321 Malcolm X Blvd, New York, NY 10027, USA",
+        "place_id": "ChIJ_TI4LA32wokR_4hB-16nbas",
+        "rating": 4.3,
+        "user_ratings_total": 3186,
+        "phone_number": "(212) 510-8552"
+    },
+    {
+        "name": "Enoteca Harlem",
+        "address": "2220 Frederick Douglass Blvd, New York, NY 10026, USA",
+        "place_id": "ChIJAQC8ixP2wokRA33P9pyei_U",
+        "rating": 4.7,
+        "user_ratings_total": 192,
+        "phone_number": "(332) 265-8442"
+    },
+    {
+        "name": "Maison Harlem",
+        "address": "341 St Nicholas Ave, New York, NY 10027, USA",
+        "place_id": "ChIJd3H89mz2wokRdk5JHB3Aino",
+        "rating": 4.4,
+        "user_ratings_total": 1486,
+        "phone_number": "(212) 222-9224"
+    },
+    {
+        "name": "Cuchifritos",
+        "address": "168 E 116th St, New York, NY 10029, USA",
+        "place_id": "ChIJT2lgGwb2wokRQ1y71rEfmZA",
+        "rating": 4.2,
+        "user_ratings_total": 1653,
+        "phone_number": "(212) 876-4846"
+    },
+    {
+        "name": "Amy Ruth's",
+        "address": "113 W 116th St, New York, NY 10026, USA",
+        "place_id": "ChIJ7V-ZqxH2wokRwaES4IMqwQU",
+        "rating": 4.3,
+        "user_ratings_total": 6137,
+        "phone_number": "(212) 280-8779"
+    },
+    {
+        "name": "Cocotazo",
+        "address": "1590 Park Ave, New York, NY 10029, USA",
+        "place_id": "ChIJl-zKHgT3wokRVGa8z4mhwno",
+        "rating": 4.7,
+        "user_ratings_total": 298,
+        "phone_number": "(917) 384-7671"
+    },
+    {
+        "name": "Santiago’s Beer Garden",
+        "address": "2337 1st Ave, New York, NY 10035, USA",
+        "place_id": "ChIJew0GrQX1wokR4ChwOTIWBrI",
+        "rating": 4.4,
+        "user_ratings_total": 1413,
+        "phone_number": "(833) 367-4547"
+    },
+    {
+        "name": "Harlem Public",
+        "address": "3612 Broadway, New York, NY 10031, USA",
+        "place_id": "ChIJ1bpep2L2wokRjaoBxorAv1Q",
+        "rating": 4.5,
+        "user_ratings_total": 2201,
+        "phone_number": "(212) 939-9404"
+    },
+    {
+        "name": "Row House",
+        "address": "2128 Frederick Douglass Blvd, New York, NY 10026, USA",
+        "place_id": "ChIJCWY85Rb2wokRWwG7PhPCE8U",
+        "rating": 4.2,
+        "user_ratings_total": 1616,
+        "phone_number": "(212) 256-0019"
+    },
+    {
+        "name": "Amor Cubano",
+        "address": "2018 3rd Ave, New York, NY 10029, USA",
+        "place_id": "ChIJbzPpGQT2wokRW5Zsbs44Gis",
+        "rating": 4.4,
+        "user_ratings_total": 1135,
+        "phone_number": "(212) 996-1220"
+    },
+    {
+        "name": "Harlemite Peruvian Cuisine",
+        "address": "231 Lenox Ave, New York, NY 10027, USA",
+        "place_id": "ChIJr2-1yNH3wokR9jiSn9DRkbQ",
+        "rating": 4.7,
+        "user_ratings_total": 440,
+        "phone_number": "(646) 682-7432"
+    },
+    {
+        "name": "Nocciola Ristorante",
+        "address": "237 E 116th St, New York, NY 10029, USA",
+        "place_id": "ChIJG3Ux0Af2wokRTVZ-phoptd8",
+        "rating": 4.5,
+        "user_ratings_total": 409,
+        "phone_number": "(646) 559-5304"
+    },
+    {
+        "name": "BLVD Bistro NY",
+        "address": "2149 Frederick Douglass Blvd, New York, NY 10026, USA",
+        "place_id": "ChIJd9WGjg32wokRD-tzqpGQTSY",
+        "rating": 4.3,
+        "user_ratings_total": 2663,
+        "phone_number": "(212) 678-6200"
+    },
+    {
+        "name": "Spaha Soul",
+        "address": "2294 2nd Ave, New York, NY 10035, USA",
+        "place_id": "ChIJwWtsav31wokRxEWigV3aUjM",
+        "rating": 4.4,
+        "user_ratings_total": 158,
+        "phone_number": "(347) 463-7387"
+    },
+    {
+        "name": "Clay",
+        "address": "553 Manhattan Ave, New York, NY 10027, USA",
+        "place_id": "ChIJaSRAphT2wokRXj22CM-oIZI",
+        "rating": 4.5,
+        "user_ratings_total": 525,
+        "phone_number": "(212) 729-1850"
+    },
+    {
+        "name": "Vinatería",
+        "address": "2211 Frederick Douglass Blvd, New York, NY 10026, USA",
+        "place_id": "ChIJJSi1DBT2wokRGHCDOA6nQ2U",
+        "rating": 4.5,
+        "user_ratings_total": 959,
+        "phone_number": "(212) 662-8462"
+    },
+    {
+        "name": "Bangklyn East Harlem",
+        "address": "2051 2nd Ave, New York, NY 10029, USA",
+        "place_id": "ChIJTyJcPgL2wokRUDyFSCn0xag",
+        "rating": 4.7,
+        "user_ratings_total": 276,
+        "phone_number": "(646) 429-8128"
+    },
+    {
+        "name": "PABADE CAFE AND BAKERY",
+        "address": "135 E 110th St, New York, NY 10029, USA",
+        "place_id": "ChIJA5NdQqn3wokRr1r5sTBrJZs",
+        "rating": 4.8,
+        "user_ratings_total": 318,
+        "phone_number": "(646) 490-7863"
+    },
+    {
+        "name": "Rao's",
+        "address": "455 E 114th St, New York, NY 10029, USA",
+        "place_id": "ChIJs21Av_31wokRz_hcbeRuZ0E",
+        "rating": 4.4,
+        "user_ratings_total": 639,
+        "phone_number": "(212) 722-6709"
+    },
+    {
+        "name": "Renaissance Harlem",
+        "address": "2245 Adam Clayton Powell Jr Blvd, New York, NY 10030, USA",
+        "place_id": "ChIJy8PSLHL2wokR-6RfFmGybOk",
+        "rating": 4.3,
+        "user_ratings_total": 931,
+        "phone_number": "(646) 838-7604"
+    },
+    {
+        "name": "La Cocina de Mama",
+        "address": "154 E 109th St, New York, NY 10029, USA",
+        "place_id": "ChIJ6UWRZgn3wokR8HO61UCwZBQ",
+        "rating": 4.7,
+        "user_ratings_total": 186,
+        "phone_number": "(212) 348-3619"
+    },
+    {
+        "name": "Bistro Casa Azul",
+        "address": "343 Pleasant Ave, New York, NY 10035, USA",
+        "place_id": "ChIJ9QMGGLP1wokRWTLdV87xzp8",
+        "rating": 4.7,
+        "user_ratings_total": 162,
+        "phone_number": "(917) 805-0803"
+    },
+    {
+        "name": "Archer & Goat",
+        "address": "187 Malcolm X Blvd, New York, NY 10026, USA",
+        "place_id": "ChIJgTJM-BH2wokRQ_fz8X-eFpY",
+        "rating": 4.5,
+        "user_ratings_total": 393,
+        "phone_number": "(917) 261-6602"
+    },
+    {
+        "name": "Melba's Restaurant",
+        "address": "300 W 114th St, New York, NY 10026, USA",
+        "place_id": "ChIJ-bhM6yL2wokRAtIoWi_TL2k",
+        "rating": 4.3,
+        "user_ratings_total": 4486,
+        "phone_number": "(212) 864-7777"
+    },
+    {
+        "name": "SAPOARA Restaurant & Bar",
+        "address": "2262 1st Ave 1st Floor, New York, NY 10035, USA",
+        "place_id": "ChIJvR3iaP31wokRuMJSy9UX7wI",
+        "rating": 4.5,
+        "user_ratings_total": 437,
+        "phone_number": "(212) 256-0199"
+    },
+    {
+        "name": "Cascalote",
+        "address": "2126 2nd Ave, New York, NY 10029, USA",
+        "place_id": "ChIJ7yuPRgH2wokRsNJqsaAqjU4",
+        "rating": 4.6,
+        "user_ratings_total": 391,
+        "phone_number": "(646) 351-6574"
+    },
+    {
+        "name": "Sisters",
+        "address": "47 E 124th St, New York, NY 10035, USA",
+        "place_id": "ChIJ4bMvkQv2wokRUPRQUqYPUEc",
+        "rating": 4.1,
+        "user_ratings_total": 658,
+        "phone_number": "(212) 410-3000"
+    },
+    {
+        "name": "Barawine",
+        "address": "200 Malcolm X Blvd, New York, NY 10027, USA",
+        "place_id": "ChIJ_WGAABL2wokRNthCl_PuyFc",
+        "rating": 4.3,
+        "user_ratings_total": 881,
+        "phone_number": "(646) 756-4154"
+    },
+    {
+        "name": "Harlem Tavern",
+        "address": "2153 Frederick Douglass Blvd, New York, NY 10026, USA",
+        "place_id": "ChIJZ-Drlhb2wokREuV4YeyyZcc",
+        "rating": 4.1,
+        "user_ratings_total": 4360,
+        "phone_number": "(212) 866-4500"
+    },
+    {
+        "name": "El Paso Mexican Restaurant Mezcal & Tequila Bar",
+        "address": "123 E 110th St, New York, NY 10029, USA",
+        "place_id": "ChIJUa619ZD3wokRkg5D55la7U8",
+        "rating": 4.1,
+        "user_ratings_total": 553,
+        "phone_number": "(212) 831-9831"
+    },
+    {
+        "name": "Patsy's Pizzeria",
+        "address": "2287 1st Ave, New York, NY 10035, USA",
+        "place_id": "ChIJvXfkSP31wokRJ1Lqb0Nk7qQ",
+        "rating": 4.5,
+        "user_ratings_total": 3528,
+        "phone_number": "(212) 534-9783"
+    },
+    {
+        "name": "Sottocasa Pizzeria Harlem",
+        "address": "227 Malcolm X Blvd, New York, NY 10027, USA",
+        "place_id": "ChIJM1oV8w32wokR9gt0ynHqypM",
+        "rating": 4.7,
+        "user_ratings_total": 1501,
+        "phone_number": "(646) 928-4870"
+    },
+    {
+        "name": "La Fonda",
+        "address": "169 E 106th St, New York, NY 10029, USA",
+        "place_id": "ChIJGZFqAQP2wokRf6_pCfLV8dM",
+        "rating": 4,
+        "user_ratings_total": 1062,
+        "phone_number": "(212) 410-7292"
+    },
+    {
+        "name": "Ponty Bistro",
+        "address": "2375 Adam Clayton Powell Jr Blvd, New York, NY 10030, USA",
+        "place_id": "ChIJNYJPTHf2wokRhjM4dcIZnE4",
+        "rating": 4.4,
+        "user_ratings_total": 1174,
+        "phone_number": "(212) 234-6474"
+    },
+    {
+        "name": "El Patio De Fela",
+        "address": "2253 3rd Ave, New York, NY 10035, USA",
+        "place_id": "ChIJd9686SX3wokRO1vDYbXpANg",
+        "rating": 4.4,
+        "user_ratings_total": 84,
+        "phone_number": "(917) 444-1363"
+    },
+    {
+        "name": "Chu Ros Thai NYC",
+        "address": "Chu Ros Thai Restaurant, 1590 Lexington Ave, New York, NY 10029, USA",
+        "place_id": "ChIJ9cDJoZZZwokR5g5AzIbsXQQ",
+        "rating": 4.8,
+        "user_ratings_total": 869,
+        "phone_number": "(917) 265-8432"
+    },
+    {
+        "name": "Taco Mix",
+        "address": "234 E 116th St #1, New York, NY 10029, USA",
+        "place_id": "ChIJ2RB8ywf2wokRO5NQU16lvzY",
+        "rating": 4.2,
+        "user_ratings_total": 1842,
+        "phone_number": "(212) 289-2963"
+    },
+    {
+        "name": "Sandy Restaurant",
+        "address": "2261 2nd Ave, New York, NY 10035, USA",
+        "place_id": "ChIJGVPzwwf2wokR2hDmls7ZwIQ",
+        "rating": 4.3,
+        "user_ratings_total": 1128,
+        "phone_number": "(212) 348-8654"
+    }
+]

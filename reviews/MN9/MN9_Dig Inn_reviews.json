@@ -1,0 +1,593 @@
+{
+    "name": "Dig Inn",
+    "place_id": "ChIJ36Dnijv2wokRLpJuNmIPssc",
+    "grid": "MN9",
+    "address": "2884 Broadway, New York, NY 10025, USA",
+    "rating": 4.3,
+    "user_ratings_total": 699,
+    "phone_number": "(212) 776-4047",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSblluZFZkbGxuZUdoUExYZDVjVEp2YUZvd1VtYxAB",
+            "text": "Tasty, healthy, fast: what's not to love"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CUWR5MW9lVEpUWlRoNVFWSmtPRWxMVUZrelMwRRAB",
+            "text": "I got a bowl! The carrots that were charred to perfection, Brussels sprouts have a nice kick to them,  the Mac and cheese was delicious!!!"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4MFdXOXhSblYxVHpOUGVYVmtPWHAwZERBemQxRRAB",
+            "text": "Amazing food and experience!"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWSGJIRTJXVXhYWDBGdmRUZFJWM2x6TFdvMGFrRRAB",
+            "text": "Friendly staff, great service; fresh & delicious food. You can’t go wrong. Love ordering the meals as they are or creating my own bowl. My son loves their the sweet potatoes (& so do I!)"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWNFUwOW1heTFuWkZZemVEUllTblJ5Y21kYVFXYxAB",
+            "text": "Customer service? Phenomenal. Environment? Great. Music? Catchy. Food? We DIG it."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOUlpVUkRkM2RyY0ZsT1puZE5hMWhFWm1wa1FVRRAB",
+            "text": "The food is always a good go to and the service is great they’re always so kind :)"
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkMU0zTjJWVTFCT0d0R1dXUmFjbEJTTVU1Nk5WRRAB",
+            "text": "Absolutely and consistently excellent food and friendly,  helpful staff!  If you're looking for a great meal and know what it means to build your own bowl (3 sides and a protein), this is THE place to go. You can also order from the menu. We're returning customers for a number of years and know you can always count on a fresh, nutritious, delicious meal!!!  And those chocolate chip cookies-delish!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsM2JtMHhVM0JJUVRRM1JGUnZhWFp4T1U5Uk9FRRAB",
+            "text": "Dig is my absolute favorite take out food place! Its like a homemade meal that’s just perfect!!! Brussel sprouts are fire!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kVlVYZERaSEJRYXpsWExUbFdkM2w0YTFVdE5uYxAB",
+            "text": "Excellent. Love."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKcFFtSm1XbEV0YTJacVMzZHNXVlppT0VoWlUyYxAB",
+            "text": "great food and service"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCaVRXOTZaVlJLY0V4Rk9Yb3pSRGRoUnpoQkxYYxAB",
+            "text": "Very yummy"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toQ1FXMUlaRkYzVVhkSWJXUkxYMFJ4ZVdWbVluYxAB",
+            "text": "Great food, wonderful atmosphere, quick service. Great for students who need a reliable meal."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWT1RtMXhhMGcxYlVGTVMyaFdaSFozYzJWcUxYYxAB",
+            "text": "Great music!! Amazing energy and food was delicious💃"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5NGRsUktUbll0VGtkSlgwOUdSMHByV25KS1pGRRAB",
+            "text": "Great location great people"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aaWFFWkhOM2hsTFRNMk5UY3RNRVJOYkRSMVdVRRAB",
+            "text": "Great food and staff"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wTlVtNUxWR2w0TlZVeFkzRnZVV2MzYW1kMlEzYxAB",
+            "text": "Wonderful service every time I’m there!"
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSRWFGOWZTRmc0WnpCSGMwZHROR2xUTmpkUkxWRRAB",
+            "text": "Muy rico todo"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKR01WZDBXamw2VmkwNE5VOWZlRFJITkdNME5tYxAB",
+            "text": "Best hospitality ever!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNMVgwbDFURFJYVlRCSFltbEdOMTkzUTFaa1NXYxAB",
+            "text": "Great Atmosphere"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sRk5GcEpNM2xGU0VkSWJtdHBlbXhWVm14S2EyYxAB",
+            "text": "Fabulous as always, but it’s way too cold in here"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJMFVXTnBVV2xmZGxKSldVVlJWM3A0ZGtndGNFRRAB",
+            "text": "I come here at least twice a week and nowhere else you get such healthy and good tasting food for that price. So happy they’re close to my house! Also, staff members are very friendly."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taeFdURmtXbUpQYlVaMFpsSmtjMjltVmxVMmFrRRAB",
+            "text": "Healthy meals! Always my go to meal!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5alVWVnJjM2N6YzB4WE16VTNRMWRVZDAxcU1tYxAB",
+            "text": "Quick and healthy meal!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3NGVFZG1UM055UW04d1VEaEVSMngwYlVwQ1FXYxAB",
+            "text": "The food was amazing and Karina’s service was even better! 10/10"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWUFdHUndSRGg1V1ROclprWkRVRXBNZDFreE0wRRAB",
+            "text": "Delicious!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pVNE9ITmtaMGRKYTJGa1lVUjNNR05aTmpJd1RrRRAB",
+            "text": "AMAZING"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPeTlHSHhBRRAB",
+            "text": "Good food and good service"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oRU1ETTBkVGxHUWxOTlZXWlpTVGRNWnpoUU1IYxAB",
+            "text": "Delicious food, speedy delivery!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGVFJsTm5PREV3ZUdaTVVqQjNWWGRhV0VocU5HYxAB",
+            "text": "Dig Inn will always be the supreme salad spot! This location is so cozy and the food is always fresh!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WeFdYaHBNMlpvVWs4emVVWklhSFI1WDBSeVZXYxAB",
+            "text": "chili crisp brussels are a must get! kale salad and crispy chicken as well!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kWlJUbDZPVU0xWTNkMk9GUlplbTluVWtadWFYYxAB",
+            "text": "Overall, pretty decent"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pJeFYybEZUVzVxYzI5cFl5MVJlRlYxYzJvM04xRRAB",
+            "text": "The manager and staff  last night were amazing can’t thank them enough very professional staff clean establishment and the manager went out of his way to make sure that I got my food. . Kudos and a  great job 👏. Dig in on 112th and broadway you guys are doing a magnificent job and the food was amazing as always."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WdVh6TlBkRlZMTFd0UVgyeFFVVkJzUTJGcFFXYxAB",
+            "text": "The food is great but I was unfortunate to come across a very bad employee in manhattan 13th St 4av yesterday."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ocWNuTkpWMGhPWVVKdFprbzNUbFJwTlVaa1pFRRAB",
+            "text": "My first time eating here. Staff was friendly seemed very young.  There were not many choices to choose from - the food was either burnt or dry. The sauce didn’t help. I wouldn’t say it was disappointing just a bit tasteless. For the price in NYC the portions were dare. I may try another location just to compare."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oemExRmFaV051VUMwNVEydExlWGg0TkdSUmVIYxAB",
+            "text": "Our fav one is classic dig with nashville sauce. Their crispy chicken is also greaaat!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSQlpFeHNOM28yVDNOMGVUVklkbkl5VTJad0xVRRAB",
+            "text": "Not good at all, I received cold brisket half frozen, had to threw the whole order, sweet potatoes were warm, brisket was sitting somewhere for a while, maybe from day before, horrible experience"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wWlJFRlNUbEI0VjJ0cGJtRkNNamg2WkZkWlJHYxAB",
+            "text": "Absolutely amazing"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGSlozTTROakpmWjFwcFJUZGZNMmMyV0VVNFVVRRAB",
+            "text": "This place gave me severe food poisoning. I almost went to the ER. STAY AWAY. I threw up 5+ times after eating here and felt terrible for days. I think their rice is off but it could be anything. Food is left on mildly hot plates for the entire day. Overpriced and tasteless too so not even worth the extreme nausea, dizziness, vomiting, and sleeping for 14 straight hours post eating."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwSVkySnpMVGxpWlRRNE9HVmZka2hxYVhkamNrRRAB",
+            "text": "Classic case of sign up get 5$ off and then the promotion doesn’t work."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OMFRYbHljMXBHU2tsQmJqSTRPRTkyVkROelZIYxAB",
+            "text": "Mecca for vegetarians who want healthy meals."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSNlVVTlpRVWQ0V2pWMGFVZHJhalpwYlc5U2VHYxAB",
+            "text": "I come here pretty often in between study sessions and even how the cost of a lot of things is much higher nowadays, I’m not hesitant to eat out here; I genuinely feel I get my money’s worth. On top of that, the crew here seems to enjoy what they do and are friendly each time I’ve come by. Another plus, the music is always good"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swMFJrMW1lR0o2VjJSWlQyWnhOMXBtTUVwSU0xRRAB",
+            "text": "So delicious! Always amazing quality"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWcGRrVlpaa1poTUZSVVZtUjVhSEZaTlZSVFFuYxAB",
+            "text": "Food was really great.  Service was lovely.  Very kind humans!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCaGRsQlRhbWxhTlZvdFZuVkxObWQ1VFhWblkwRRAB",
+            "text": "The food was delicious and fresh - as usual ;) Those working behind the counter were friendly, patient, and helpful :) Will be coming back again soon!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKdWJHTjBWWEJKVkc4eFlqZGxhRVIzV2xOS1JIYxAB",
+            "text": "Great deal, amazing food"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGV2FEZEpNWGhEYlhaSE0yVXlTSHBKWTFkVU1GRRAB",
+            "text": "Really good fresh and healthy food! And with a great AC on hot days :)"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WNGNUaG1ZakpzYzNKMFdraEJjRll0U0d0dFZFRRAB",
+            "text": "Great food and service"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzM01GQnhRakpRVlY5R2F5MDJhakl3U1dreFNXYxAB",
+            "text": "Tasty and quick. Good service"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLcmd0N1RKMExIaXBBRRAB",
+            "text": "I always love coming here for lunch or for an early dinner. Their portions are great and the options are endless! Love the ambiance and seating accommodations. The deserts are great too!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKS3A0YTJuMzVfdENBEAE",
+            "text": "Came here to grab some food with my son, the selections were fresh and plentiful! For such a full plate (base, 2 sides, & protein), the price is so affordable! Plus they have so many options for sauces to try! The seating & atmosphere was very accommodating. Can’t wait to come back!"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM0b2JlZ2p3RRAB",
+            "text": "맛은 스윗그린보다 못하지만 좀 더 밥 같은 느낌이 있어요. 직원들도 괜찮은데 해외 카드가 자주 안 먹혀요. 그거 말고는 갈만한 집."
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNReHF1RjR3RRAB",
+            "text": "건강식으로 싸게 10~14불정도 드는데 매우 맛있습니다. 꼭가보세요~"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQemFTUG5RRRAB",
+            "text": "AVOID THE KALE CAESAR AT ALL COSTS Disappointing Experience at This Location\n\nI recently visited this Dig location and was thoroughly disappointed with my experience. I ordered the kale Caesar salad, but it was inedibly salty. It tasted like I was eating a whole container of salt! I was shocked and disappointed by the excessive saltiness.\n\nThe female Spanish employee who made my food at 10:50 AM was friendly, but the guy who rang me up was extremely friendly.\n\nThere were a couple of other issues that made my experience even more frustrating. The music was extremely loud, making it difficult for me to hear the employee. I would suggest lowering the music volume so that customers can communicate effectively with the staff.\n\nAdditionally, there were no labels on any of the food, which made it impossible for me to know what I was getting. I would strongly recommend considering labels on all food items to avoid confusion and ensure a better customer experience.\n\nI've been to several other Dig locations, but this one fell far short of my expectations. The excessively salty kale Caesar, loud music, and lack of labels have ensured that I won't be returning to this location again."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3X05hQ0hREAE",
+            "text": "Very nice and clean place.  Costumer service was great and friendly. They clearly tell you what you can get for your bowl and tell you in advice that  an extra side is extra. Food is amazing fresh, clean, and healthy options. A little pricey ($15) for bowl with no side drinks. But it’s worth it."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJaVp6ejRnRRAB",
+            "text": "I love coming here. Food is always fresh and there’s a wide variety to choose from. My favorite healthy fast food option."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZdEs2eWlnRRAB",
+            "text": "DIG is one of my favorite spots! I am a regular!! The food is fresh and delicious and the space is super clean.\n\nBut what truly sets this location apart is the staff. They’re more than just helpful—they’re awesome. Friendly, upbeat, and genuinely welcoming, they create an atmosphere that makes you want to come back. It feels like they care not just about the food, but about the people who walk through the door. Today, Acosta was especially patient and kind while I figured out the DIG app—truly above and beyond.\n\nHighly recommend if you’re craving something wholesome and satisfying."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnMkx2ZnV3RRAB",
+            "text": "Got a great deal on a bogo. Food is always hot and fresh and tastes great. Hot honey chicken bowl is a must. I also love to make my own. Fast delivery service means when order comes in they are on point."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZM09XVWxRRRAB",
+            "text": "Tasty and relatively healthy choice fast casual counter service, Chipotle-like assembly line bowl meals. Fair number of choices. They do have Mac and cheese for those looking to cheat :-) It's not the biggest place and at busy times it can…"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJenV6VnB3RRAB",
+            "text": "1st time coming here, definitely won’t be the last! Really enjoyed how fresh it was & the service was great!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURTNGVfSUNBEAE",
+            "text": "I love this place! The food is fresh and delicious - loaded with carbs, veggies, and protein. Some options can be a little oily, but it’s otherwise very healthy and yummy. Would recommend to anyone looking for a quick and relatively healthy bite!\n\nPictured: Parmesan-toasted cauliflower, farro, roasted carrots, and roasted tofu (all great!)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURENXR6YWlBRRAB",
+            "text": "Dig restaurant in NYC is a hidden gem that I stumbled upon recently, and I'm so glad I did! The food here is absolutely fantastic, with a diverse range of options that cater to various tastes and dietary preferences. Not only is the food delicious, but it's also surprisingly affordable, making it a go-to spot for those looking for a satisfying meal without breaking the bank. Whether you're a meat lover, vegetarian, or vegan, Dig has something for everyone, and each dish is prepared with care and attention to detail. If you're in the area and craving some delicious and affordable eats, I highly recommend giving Dig a try!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkcUlIckpBEAE",
+            "text": "This is my 2nd time eating at Dig. I really like their fried chicken, tasty and well seasoned but not greasy at all. You may also try their sweet potatoes and brussel sprouts, very delicious! Will definitely come back!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQLTIyOGJBNHV6MWN3EAE",
+            "text": "The food was hot and fresh, lucky for me I came in when a fresh batch of charred chicken was done. I tried it with hot honey sauce, herb rice and it was delicious. The staff were also pleasant and the spot was clean."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqN3NEbEhnEAE",
+            "text": "Me and my girlfriend were looking for a healthy place to eat and this absolutely filled our hearts and stomachs with hearty food for an affordable price highly recommend. Servers are a little bit tired and have a slight attitude but it's not a  deterrent, I hope they're in a better mood next time because I will be back for the food and the atmosphere."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMeWVHS3lnRRAB",
+            "text": "Pro: flavorful healthy foods. They have many choices of sides and main protein. The sauce is delightful.\nThe restroom is clean and well maintained.\n\nCon: My only complaint is that the tofu was not hot or crispy. It would have been better taste.\n\nThe atmosphere is dope and very comfortable."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJeWFLeWp3RRAB",
+            "text": "My favorite lunch spot, am literally here almost everyday! The flavor is absolutely amazing, and the steak is the bomb. All the workers there are so friendly. Karina has been the absolute best and a special shout out to Moses, thank you for the stellar food and customer service guys! 🙌"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3MXRhVmN3EAE",
+            "text": "I recently visited Dig Inn, and I have to say, it’s quickly become one of my favorite spots for healthy, satisfying meals. From the moment I walked in, I was impressed by the vibrant, welcoming atmosphere and the friendly staff.\n\nThe menu offers a fantastic variety of options, from perfectly seasoned roasted vegetables to flavorful proteins. My favorite go to is the Chicken, Faro and Brussel Sprouts.\n\nWhether you’re looking for a quick bite or a nutritious meal that doesn’t skimp on flavor, Dig Inn hits the mark every time. Highly recommend giving it a try!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJZ2RITEpnEAE",
+            "text": "DIG is seriously the best! I’ve been eating here a lot, and it’s been a game-changer for my gym progress. They have so many good protein options—chicken, salmon, tofu—you name it, and everything is super fresh and actually tastes amazing. It’s hard to find a spot that’s both healthy and filling, but DIG nails it.\n\nOn top of that, the customer service is awesome. The staff is super friendly and makes you feel right at home every time you walk in. It’s just a great vibe overall. If you’re looking for a go-to spot for good food that fuels your workouts (or just your day in general), DIG is 100% the move!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHbDQ2ZTJ3RRAB",
+            "text": "Interesting food.\nOrdered to take away and ate inside once. My on-site experience was nicer that to take away.\nThere are quite a few options, some are delicious, others are a bit less.\nI wouldn't advice the salmon, overcooked in my opinion.\nThe mac and cheese was good, the spicy cucombers as well.\nOveral, a good place to take lunch from."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaN1k2aTJnRRAB",
+            "text": "At this location, my food was ready for me to pick up. The staff looked friendly and assisted me with my order. The food was good, filling and tasty."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPMDllYVVBEAE",
+            "text": "Got pieces/chunks of meat in my vegetarian bowl of tofu, carrots and Mac n Cheese.\n\nI love the DiG brand and its bowls, but this branch and it’s atrocious food is a buzz kill.\nClearly they use same servicing spoons between veg and non veg pans. And they always somehow “forget” to put sauces in your online order. So make sure you check your bag fully before take it out of store.\n\nPlease make a trip to other branches of dig, you will feel significant quality difference."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1dzVHSDd3RRAB",
+            "text": "So expensive but SO good + SO high quality. This is the spot for a healthy, DELICIOUS, fast meal in NYC. All of the bowls are great - I love the kale Caesar + the carrots!! Plus you get sauces on the side. Yum!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxa0lfMU9BEAE",
+            "text": "Amazing food !!! So fresh and healthy! Workers were really nice and helpful while I was choosing what to order."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwdHBfSDNBRRAB",
+            "text": "I love dig inn! It lets you to choose one base, two kinds of vegetables and one protein! Not to mention it's really affordable and good value with the amount of food you're getting. The sweet potato is to die for. Always so perfectly roasted. I can eat here everyday!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2eUtldjNBRRAB",
+            "text": "If you are looking to eat fresh and healthy food, you should definitely check this place out! The carrots are just too good, I would visit just for them. I highly recommend trying charred chicken, Jasper Hill mac, and cheese as well. Might get a little crowded during peak hours, but it is easy to find a table otherwise. Staff here are really friendly and polite."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlM3VYUXhBRRAB",
+            "text": "Anyone looking for something more than a golden arch experience or an evening dining with the king eating burgers and fries check out DIG. It is as close to a home cooked dinner as you can get and that is appreciated greatly. My only gripe…"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBLUp2VlpREAE",
+            "text": "Got a Salmon bowl with Brown Rice, Broccoli and Mac and Cheese, and it did not disappoint! The Roasted Broccoli was especially delicious, and overall Dig had some great healthy options to choose from. Service was quick and easy too! Definitely would recommend."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3cDdxYTJRRRAB",
+            "text": "Had a great experience — great portions and overall quality for the price. Had to wait a few minutes for extra protein but was comp’d with 2 free beverages in return. Highly recommend"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGeHZicXVRRRAB",
+            "text": "Pretty expensive but really tasty food, we came when there wasn’t much of a line and we got our food pretty fast. Food was pretty and had really nice flavor, but $15 hurts my pocket for a bowl ngl"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3NDVLOHdnRRAB",
+            "text": "A great selection of healthy options that taste delicious. Dig Inn offers reasonable sized portions of high quality for a justified price. Would highly recommend the kitchen sink cookies and the Ginger Lemonade 👌…"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNveTVLX3NnRRAB",
+            "text": "Super Great Customer Service!!!\nFood is always delicious and fresh.\nTamia and Carla did a great Job explaining the food ingredients."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNveHBlTVFBEAE",
+            "text": "Great fresh food! Perfect for a light lunch. Very friendly service. Was recommended from friends and totally worth it :)"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwanEyTTVRRRAB",
+            "text": "It's unfortunate that the quality of my food and level of service did not meet my expectations the last couple of visits to this location. Not sure if it was because it was so close to closing time when the staff may have been tired but nonetheless it was a poor experience. This was my fish I was not able to eat it."
+        }
+    ],
+    "reviews_count": 83
+}

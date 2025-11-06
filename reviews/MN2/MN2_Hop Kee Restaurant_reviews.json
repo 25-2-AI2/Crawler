@@ -1,0 +1,691 @@
+{
+    "name": "Hop Kee Restaurant",
+    "place_id": "ChIJTVG07iZawokR6lRX9rV0puI",
+    "grid": "MN2",
+    "address": "21 Mott St, New York, NY 10013, USA",
+    "rating": 4.2,
+    "user_ratings_total": 1438,
+    "phone_number": "(212) 964-8365",
+    "reviews": [
+        {
+            "date": "5시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KdFRuZGlkMUZ5UkUxR2F6TmZhVmN5ZGs5WWFWRRAB",
+            "text": "The first time I walked in, I knew I'd found somewhere special. This spot has a lively area to explore after eating. The staff maintained the high bar set by this establishment. Superior preparation throughout the menu. This spot will impress my other social circles."
+        },
+        {
+            "date": "1주 전",
+            "language": "ko",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25rdGNHTmFiVmxmWDNkekxWWlljR3cwYUU1S1EwRRAB",
+            "text": "중국 광동식 요리 음식점 입니다. 모 연예인 통해 알려진 이후로 한국 관광객이 많이 찾아가는듯 한데 호불호가 조금 갈릴듯합니다. 홍콩에 오랬동안 거주하고 있는 저로서는 흔하게 접하고 자주 먹는 음식이지만 전체적으로 아쉬움이 많이 느껴지네요; 뉴욕 차이나타운의 역사적인 장소로서만 만족하고 분위기를 느끼며 식사하고 스쳐지나갑니다."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SWE5GUTRSV0ZsUWt0T1lVWXdiRU5rTlROU1oyYxAB",
+            "text": "A very disappointing place, a once famous restaurant that only attracts tourists"
+        },
+        {
+            "date": "2주 전",
+            "language": "de",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wc2JIUTJMV1ZMT0UxTFRVZGFNSGt6ZGtwRWRVRRAB",
+            "text": "Wirklich große Portionen und das Essen schmeckt auch gut , ich finde es ziemlich authentisch . Der Keller ist jetzt nicht unbedingt mein Stil aber darüber seh ich persönlich gern hinweg ."
+        },
+        {
+            "date": "2주 전",
+            "language": "hr",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sRk5XVmhOa3B2V1hKUlMwcEdiV05EVjAxdllVRRAB",
+            "text": "Dobar restoran sa ok osobljem"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsUFFsVXhlVGRYVm5wMmQwRkRlbDlzV1dkdldFRRAB",
+            "text": "Hands down THE BEST spot in Chinatown. The downstairs atmosphere is unmatched. The food is 10/10 and the service will keep you coming. Those standing in line next door are missing out on this hidden gem. 🥡"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WWFFUWkJiMmRTWjFsb09YRnBkbVZPVUUxcExXYxAB",
+            "text": "I was looking for the ideal place for Chinese food, fortunately I found it .... Hop Kee Restaurant was perfect for my family, the food was simple but delicious. The people were very kind and always making sure we have everything we need. I definitely recommend this restaurant... I will come back soon."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaT1JrMXpUV2hIYTJoM2FIZFNaVlYzY1VJeE9FRRAB",
+            "text": "Been here multiple times with family and friends. Great for large groups."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSWU9GOURYM1puWkUxWWVuaDVVM0JPTjFvMU9VRRAB",
+            "text": "Authentic...real chinese of NYC flock here"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjeU1uaDZiVTVJTTJoelFUZEVSV1ZIYzIxWVJuYxAB",
+            "text": "Great food very simple but delicious"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tnek5qUnBkbDlpT1VGdExVWXhOa2wxTVZOV2VHYxAB",
+            "text": "Very bad service attitude"
+        },
+        {
+            "date": "1달 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GTlQxQkNWMU5mUWxFd1NFOVFja2N3TjNndFVsRRAB",
+            "text": "계산해주시는 나이드신분이 너무 불친절해요. 음식도 그냥 그랫고요. 그 옆쪽 식당들은 손님들이 많았는데 여기만 없더라고요. 이서진 식당이라길래 와본건데 주문도 잘 못 받고 현금결제만 되고 잔액은 말해야 거슬러 주는데 짜증내면서 거슬러 줍니다. 뉴욕가서 여기서 먹은 뒤로 기분이 나빠지는 경험을 했습니다. 잘못나온 음식먹고 하루 종일 설사 하느라고 여행 하루를 날렸습니다. 사진에 있는 음식 절대 먹지 마세요.개고생해요."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KQk1uUjFTekV4WTNkTVRqVnZSRXczYWpkVk1YYxAB",
+            "text": "Food is very tasty, so I give them that. The tip is automatically included on the bill: 18.50% tip. The service is what you'd expect an old restaurant in Chinatown to have with no frills, but quite authentic. Note that it's a cash-only establishment."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pacVJXaFhkWFl4VUVwNE1HdG5VVk5DTkhjdFIwRRAB",
+            "text": "Food was no good not like before"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCRVJrSlpjVWhQVDBnM1RrbDZibUpwTmxaT1lrRRAB",
+            "text": "Be aware not to order the crabs Cantonese style cause in the menu it does not mention it has meat!!! So much for the crab taste.. I looked up in many different sites on the internet what crabs Cantonese ingredients were but no meat mentioned…. I had one taste and had to leave the plate.. everything is covered with too much sauce .. no liked"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxblYyVk1jM2xHU0ZsQlJWcEVZMVpLYUhoWmVVRRAB",
+            "text": "I have never heard of this place until I saw a lot of people standing outside.Waiting to eat, apparently.It is a very high rated place.So I took it upon myself to go ahead and eat there, and the food was great.The people were nice enough to still let me eat even  though they were about to close, like in thirty minutes, I will come back again"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOallrZElWMjUyUVdwMWRYRXdSMmh4YVhCNmJGRRAB",
+            "text": "The cooking methods here are traditional and excellent. People on staff: superb. Responsive and skilled. This place deserves its loyal following. Their dishes are extremely tasty. This place makes others unnecessary."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toSloxZzBaRWx1YVVrMlQzbzFVbWhmTFZaSFRWRRAB",
+            "text": "Great food and service"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201NU9HNUVSM0ZaUVZsWlFuWkZRMjlWTm05VVRuYxAB",
+            "text": "Greatest restaurant in nyc"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaUFJsUndZek5pTkVrMlozVnRibWhGVEd0c1dGRRAB",
+            "text": "Good"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wR01tZ3pRV2syUVhaTVQwUkNVVlpsY1dsRFQxRRAB",
+            "text": "Every time I’m in New York, this restaurant is at the top of my list. The food is consistently flavorful, comforting, and memorable.\n\nStart with the soup. Every soup here is delicious, and they serve it with light, crispy chips and a little side of sweet and sour sauce for dipping—it’s the perfect beginning to the meal.\n\nThen add the egg rolls. These are a must-have. The cabbage inside has the perfect crunch—never soggy or sloppy—and the flavors are balanced and satisfying.\n\nFor the main dish, go for the pork lo mein. The portion is hearty enough to feed two people, but the flavor is so good you’ll want it all for yourself. Of course, the menu is full of amazing choices, but this is a go-to favorite.\n\nI bring friends and family here every time I visit, and it’s always a hit. It also makes me smile that my ex-husband, Anthony Bourdain, visited several times—his photos are proudly displayed on the walls, adding to the restaurant’s charm and history.\n\nThis spot is truly a gem, and I can’t recommend it enough."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ObVExaFZiSFF6Wmt4NmFFOUNVVTl1ZW1wNVdXYxAB",
+            "text": "Fast and efficient service. Great reasonably priced food. Cash only basis and they automatically charge 20% tip on your bill so be careful."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sdFFYWjFZbEZNU0hSR2FIaHhSVFZ1VkhGVE4yYxAB",
+            "text": "They have the best fried rice I ever had in my life."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sM1JsQnFNRkZtTlRocFV6Sk5TR295VG5oVGNrRRAB",
+            "text": "AWFUL SERVICE!! There is a mandatory gratuity included on the check which is illegal if undisclosed!! The restaurant did not disclose this on the menu or a sign, and they are also cash only.\nI had enough cash to cover the food and about half of the tip, but this wasn’t good enough and the manager yelled at us to go to the atm down the street and cough up the extra $7. Why should we tip the staff for being so rude and cheap? Not to mention, they served us the wrong entrees and we had to send them back for our actual orders.\n\nWhat a terrible way to do business!! It is such a shame since my family and I have eaten here for decades."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kUVJ6aEpja0pwV1RrNGFsbHVjVmhmU1RaUlZuYxAB",
+            "text": "Authentic Chinatown experience.\nHaven't been here in a decade and it's as delicious as I remembered.\n\nI did the Shu Opp Duck and the brown sauce is truly a delight. The duck was tender and juicy 😋😋😋"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214aU9EQnpjVmhZUjBJNFRXZE5kRVY0Y1VseFdWRRAB",
+            "text": "This establishment consistently delivers exceptional dining experiences. The menu remains consistent, and the service is impeccable. The prices are reasonably affordable for downtown New York City. Notably, Chinese restaurants in Las Vegas Springs Mountain area are surprisingly more expensive and smaller servings nowadays.😳"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xNVVFUnhaMUJIZG1SVlVVNXlPVVUyVGpOT1dXYxAB",
+            "text": "Old-school Cantonese with huge portions."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WNE5uaFRUSHB6TUdOZlRVOU1UMjkxUjJaRmRrRRAB",
+            "text": "As someone who grew up eating Cantonese food, I can say with confidence that Hop Kee is a true Chinatown classic. This place is a real gem, with a traditional, no-frills atmosphere that feels both authentic and super cozy.\n\nThe food is absolutely incredible. We were blown away by the amazing sautéed spinach and the delicious Cantonese-style crabs. The Chow Fun is a can't-miss, definitely ask for recommendations, as they'll steer you in the right direction! The prices are fantastic, and you get a lot of delicious food for your money.\n\nOn top of that, the service is excellent. Everyone was very attentive and made our experience even better.\n\nJust a heads-up, make sure you bring cash, as this cozy spot is cash-only."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2trelVuVjBSazVCZUMxaVVHazVOV0poWVdvMmJFRRAB",
+            "text": "A must stop in China Town"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOc1dHbFRNbEJYUTJJNVdtRlBjVWRGTVRneFltYxAB",
+            "text": "Old school Chinese food done well, no fusion here. A little noisy and space is classic Chinatown. We had dumplings, garlic chicken, chicken with black bean sauce, and moo shoo duck. All were delicious and portions are shareable."
+        },
+        {
+            "date": "2달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsTWJEUkRXVXRtZUV0SGNtSmFUVTVRWjJGRGMwRRAB",
+            "text": "Il y avait tellement de choix de restaurants dans le quartier. Nous avons choisi celui-ci et n’avons pas été déçus. Les classiques sont bien maîtrisés."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SMU5tdzFZM1Z1UmpoVFFuSmhTR1ZYY3pGeVYwRRAB",
+            "text": "My favorite Chinese restaurant never disappoints and I always look forward to seeing the friendly waiter, Won!\nRemember, CASH only!"
+        },
+        {
+            "date": "2달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200MFMzZG5WVE5WV25sYWExRkxNM1ZWZEZNM05XYxAB",
+            "text": "Super restaurant, plat délicieux et peu cher. Service très agréable et acceuilant contrairement aux avis lu.\nTips intégré dans la note."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWSlpuWk1hMHhSWHpaWVV6bFhhMDVJU0haeFVXYxAB",
+            "text": "One of the most iconic Chinese food restaurants in New York city. If you want authentic Chinese food this place is it. They have been open for so many years still doing the same traditional things ever since I've known this place as a kid. I hope they never change and I hope they stay open forever. This is a true NYC Chinatown restaurant."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wNVUwaHJlRWROVG1nelpXeHpPRkJQY1ZKMFNFRRAB",
+            "text": "This place is easy to miss!\nBut don't skip it!! Everything on the menu is a good choice.\nService was fast and friendly!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GRVVucHNjMDExYmtOaGFEQnNWV2N5U0VGSVEyYxAB",
+            "text": "Very mediocre touristy Chinese food."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5WlVubG9NeTFPVmxvMGMwZFVWVEI0Ylc5Q1gxRRAB",
+            "text": "Lost for words,  Next time in Chinatown,  I will not pass this Gem up."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGMFFtTnRWSEoyYTJOVVJXMWFWR3RMYjBSSWJHYxAB",
+            "text": "We did not finish our food and asked Chen to place our left over to take home boxes, when we got home our pork dish is missing. The pork dish is the one we barely touched and we’re looking forward to eat it at home but they forgot to give…"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkVWNWSktTbU5QWmtkeFYzZzFWbmxOVUdOZlpsRRAB",
+            "text": "One of the best Cantonese restaurants we’ve had the pleasure of trying! Hot, fresh, and delicious. We got egg drop soup, steamed pork dumplings, roast pork mei fun, and moo goo gai pan - which were all great! Service is wonderful and we had no problem walking in to eat around 5:30 on a Saturday afternoon must visit if you’re in the area!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxSFNFazNSbDk0Wm0wMVMzZFRZMFUyYkhGcWFYYxAB",
+            "text": "Well this is like a vintage restaurant. People are likely to keep coming back even though they waited for almost 30 minutes still patiently waiting to be in to dine in"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSbWVIWjJjMjlxYXpWV2NsRTFOa0Z3U0ZKdWQzYxAB",
+            "text": "Probably the best beef chow fun in Chinatown, excellent quality from the noodles to the beef. I grew up eating Cantonese food in Canton and yet, this is top notch. And you can see families and seniors eating here, which already indicates how good this place is"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OdWFtOVFRbkY0VFhWTmFGQTJMV04yV1VsQk0wRRAB",
+            "text": "This place is a hidden gem. It may not look like the fanciest place, but the food and service is certainly amazing and there's rarely any wait for a table. My only complaint is that it's not very kid friendly as there is no kids menu. Overall, this restaurant is an amazing visit despite its odd exterior."
+        },
+        {
+            "date": "3달 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WMFJtVlBlSEU1ZW10SFlYWTJPWHBtTFVkQmRrRRAB",
+            "text": "유서깊은 곳인만큼 음식의 깊이가 있긴 있는데 짰어요. 제법 많이 짰어요."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214MWQzUkVNRlZRYW1WS2RGOU1RWE5MYjFCV2FXYxAB",
+            "text": "Food is absolutely delicious!  Portions are huge and staff is wonderful!!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjMVRFeFRPR0ZzUWpodlVITTVNM1kxU20wM2RrRRAB",
+            "text": "The most authentic Cantonese food in NYC"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGUlowZG9ZVEoyVTBwdWRIRlRaWFE0ZEZoNFlWRRAB",
+            "text": "The crab Cantonese is incredible.  I only get to NYC once every year or so to get it and then for the rest of the year I dream about having it again.…"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKNmRuUmhXVFZ1YlhrMU1uaFdaM2haVUdkbmRuYxAB",
+            "text": "First time in Chinatown with my friends. Didn’t realize the restaurant was even there cause it’s down the stairs! Got seated right away in a booth. Got water and tea served complimentary before ordering food. The 4 of us all shared the fried rice, chicken and broccoli, and the pork. Very yummy!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oRmJUWnROalJrTjJoZlRrOURjRU5LVkY5NldrRRAB",
+            "text": "Used to come here when I was a kid 45-50 years ago with the family.\nI was pleased to see they're still in business, and it felt great being back!\nThey've maintained it well over the years."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wcFdHbFJOVUZXZDBRMWQwd3hWVjlYTVRGb2VuYxAB",
+            "text": "Had the Peking Duck (Half) and Lobster Cantonese with black bean, mince pork, and lobster sauce and both dishes were to die for!!! Cash only and better than using credit card!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOM1dIRkxVWFI1VHpkUlZHaHZUakkxZVd0VFptYxAB",
+            "text": "We've been coming here for over 30 years.\nFood's always been amazing, but it even got better through the years. This is a MUST stop whenever you're in NYC. Highly recommended 👍"
+        },
+        {
+            "date": "수정일: 11달 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQeS1LYlZnEAE",
+            "text": "Hop kee에 여러번 방문한 지인과 동행. Cash only 인 곳은 앞으로 가지 않겠다고 다짐한 곳. 서버에 대해 어떠한 악감정도 불만도 없지만 전체적으로 개선이 필요.\nWast TIME & money.......\n\n1. 음식에 정성이 전혀 없음. 애니메이션 짱구에 나오는 볶음밥 비주얼임. 채소 개수가 눈으로 세어짐. 차라리 애니메이션 볶음밥은 이쁘기라도 하지. 볶음밥도 웍질이 잘 된 게 아니라 기름에 쩔었고 숙주마저 너무 적다.\n2. 배려 없는 대기 공간 의자 (의자가 너무 더러움)\n3. 녹말, 케찹 맛이 기본인 soup, crab dish.. 태어나 먹은 중식 중 가장 맛이 없었다. 정말로 무맛임.\n유명한 crab..? 싱가포르 홍콩 등에서 crab 요리 많이 먹어봤지만 여기는 밀키트보다 못 한 녹말 맛임.\n4. 서버가 얼음 컵의 rid 부분을 잡고 물컵 서빙을 하심.\n5. Tip은 레스토랑 측에서 아예 정해서 최종 계산서를 줌"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIaE4tSm1BRRAB",
+            "text": "이서진이 추천한 차이나타운 맛집으로 Crabs Cantonese Style, Snails Cantonese Style, Seafood Pan Fried Noodles, Pan Fried Flounder 등을 주문했다. 역시 중국 식당은 여러 명이 가서 이것저것 시켜서 함께 나눠 먹어야 제대로 먹었다라고 할 수 있는데 우리가 그렇게 했습니다."
+        },
+        {
+            "date": "5달 전",
+            "language": "ko",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VNLW9vWXJ2NnFmMWVBEAE",
+            "text": "뉴욕뉴욕에 나온 차이나타운 맛집 두개(jing fong이랑 여기) 다 가봤는데,, 그분? 추억 맛집이지 저는 여기에 추억이 없었다는걸 먹으면서 깨달았어요 ㅠㅠ 추억 조미료가 들어가야 맛있을 집입니다…\n그나저나 벽에 붙은 유명쉐프? 이분 넷플다큐에도 나온분 이닌가요??"
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURneUk3VlhnEAE",
+            "text": "손님도 별로없는 시간이었고 어떤 문제도 없었는데 직원이 서빙할 때 음식과 그릇을 개밥주듯 던지며 주었습니다.\n반면 옆테이블 서양인들에게는 입맛에 맞는지 매우 친절히 물어보더군요. 음식맛은 먹을만한 정도입니다. 개취급 당하며 기분더럽더라도 꼭 드시고 싶은 분만 추천합니다"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwN2RqZl9RRRAB",
+            "text": "It's very famous restaurant at China Town.\nThe guy someone's who work there was so funny and nice. He knows what is good for us. We tried what Korean TV shoe recommended.  유투브를 통해 알게된 이 중식당은 오랜전통을 갖은 곳으로 벌써 입소문을 타고 많은 한국분들이 방문하고 있어 이서진님이 시킨 메뉴가 코스처럼 나오고 있는 중입니다. 우리. 테이블에 서브해주신 분은 유튜브를 보여주면서 음식을 추천해주셨네요. 한국인 입맛에 잘 맞아서 여행하다 지칠 때 한번쯤 시도해보시면 좋아요"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSazluUk9REAE",
+            "text": "이서진 온지는 몰랐구.. 그냥 폭찹 솔트앤페퍼 궁금해서 먹어보고(옆에서 먹길래) 밥 땡겨서 하나 더 시켰어요. 매우매우 맛나게 먹음. 메뉴엔 없지만 여쭤보니 맥주도 있네요. 현금만 받는것 같고 계산시에는 포춘 쿠키를 주시네요. 매우 친절하셨고 젓가락 줄까 물어도 봐주시고 ㅎㅎ 혼자였는데 4인 소파석에 앉아서 호강했습니다. 저는 추천할게요."
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSMlp1QUdnEAE",
+            "text": "게볶음, 중국식 브로콜리 요리 먹었어요! 라스트오더 시간 딱 맞춰가서 간신히 먹었네요 칼같이 자르시더라구요ㅎㅎ 음식은 넘 맛있었고 한글 메뉴판도 있어서 좋습니다!"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlbnRMMmp3RRAB",
+            "text": "Mixed vegetables 이랑 많이들 드시는 볶음밥 크랩요리 시켜먹었는데 먹다보니 느끼해서 다른조합으로 드셔야될 것 같아요 직원분들은 광동/홍콩분들인데 친절하셨어요"
+        },
+        {
+            "date": "5달 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VLaXhrN0NPaWRTV1JnEAE",
+            "text": "한국인이 많이 방문하는지 한글메뉴도 있었어요\n눈물나는 깊은 맛은 아니였구요. 굳이 또 갈 일은 없는.. 그냥 한번 기본걸로 ok 현금결제만 받음(팁도 20% 똭 포함해서 영수증 줌)"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtbHB2SmZ3EAE",
+            "text": "사진에 있는 음식 중에 왼쪽에 있는 면류 꼭 먹어 보시길. 중국당면에 아주 부드러운 고기가 같이 볶아져서 나오는데 불향 미쳤음. 이름은 모름. 이거 사진 보여주면서 왼쪽거 달라고 하시길.\n이렇게 다 해서 팁 포함 75불 나옴. 뉴욕인거 감안하면 합리적 가격. 맛에 비하면 싼 가격임.\n추천. 이서진이 추천한 이유가 있음.\n저 왼쪽 면류 이름 알아냄. 비프 청펀. 스파이시 비프 청펀도 적극 추천"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaNUoyQzFBRRAB",
+            "text": "맛있어요! Salt and pepper pork 완전 성공 Cantonese crab도 완전 성공!\n\nDelicious delicious 10 out of 10"
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNbEk2aXlnRRAB",
+            "text": "게볶음이 맛있다고해서..   게볶음과  가자미튀김, 탕수육.\n탕수육은  괜찮았다. 나머진 한번쯤먹을수도있겠으나  내가 추천할정도는 아니었다.\n또 사이드메뉴 (단무지나 양파 그 비슷한 야채)는 아무것도 없이 밥만 추가로나오는데 먹는 내내 김치가 먹고싶었음\n카드결재안되고  오직 현금만 ㅠㅡㄴㆍ"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQyeFp1TV93RRAB",
+            "text": "댓글만 보면 호불호 살짝 갈리는것 같은데 저는 맛있었어요 아래 댓글보고 비프 청펀 시켰는데 맛있었어요 고기 토핑도 엄청 실하고 튀긴 게는 게가 너무 딱딱해서 먹기 힘들었는데 게 소스는 맛있고 좋았어요. 약간 푸팟퐁커리의 미국버젼(?) 직원분들도 괜찮았고 전제적으로 저는 호였습니다. #이서진의뉴욕뉴욕 ㅋㅋㅋ"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4ME1XV2l3RRAB",
+            "text": "비프 창펀이랑 닭고기 볶음밥 시켰는데 둘다 끔찍하게 별로네요. 닭고기는 딱 봐도 오래된 냉동닭 쓰는거같은데 씹을때마다 잔뼈가 씹히고 비프창펀은 소고기에서 누린내 심하게 나고 음식 자체도 별로더라구요.\n\n방송 보고 많이 오시는거같은데 저 두개는 진짜 비추입니다..."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURudjd1MFpnEAE",
+            "text": "\"이서진의 뉴욕뉴욕\" 보고 방문했어요! 서비스에 대한 몇몇 부정적인 후기가 있어 걱정했는데 저희 테이블 담당하셨던 직원분은 잘 서비스 해주셨습니다. 자리 안내와 테이블 세팅(동양인인 것 보시고 바로 젓가락을 추가로 세팅해주셨습니다ㅎㅎ), 메뉴 추천 (chow min을 주문하니 여러 스타일이 있다고 각각 뭐가 다른 지 안내해주셨어요! 그리고 mixed vegetable은 밥이랑 먹으면 맛이 좋다고도 설명해주셨어요.), 주문 받기, 서빙, 계산서 전달 등 흠잡을 데 없었습니다. 중간중간 물컵이 비면 바로 채워주시고 빈 그릇도 바로바로 치워주셔서 좋았어요. 서빙하실 때마다 \"enjoy!\"라고 해주셨는데 마음이 따뜻해졌어요. 음식은 mixed vegetable, Cantonese style chow min, dumpling 이렇게 세 개 시켰고 모두 맛있었습니다. 특히 mixed vegetable 너무 맛있어서 흡입했네요 ㅋㅋ 같이 나온 밥 대신 chow min과 먹어도 좋았습니다. 찬 물도 주시고 따뜻한 차도 주시는데, 식사와 함께 마시기 참 좋았습니다. 식사 후에는 서비스로 fortune cookie도 주세요.\n식당은 전반적으로 깨끗했고, 화장실도 남녀 구분되어있고 깨끗하니 좋았어요. 그리고 다른 분들 후기처럼 영수증 받아보면 팁이 18% 붙어나오는데 개인적으로 요새 뉴욕은 팁 20%가 기본이라는 얘기를 들어서 그런지 오히려 18%가 저렴한 듯 했습니다. 서비스가 괜찮아서 원래 20% 드리려고 했거든요. 아, 카드를 받지 않고 cash only라서 현금이 없으신 분들은 다른 매장을 방문하셔야합니다.\n제가 뉴욕 여행객이기도 하고 다른 중식당은 가보지 못해서 이 곳에서의 경험을 다른 곳과 비교할 수는 없지만, 개인적으로는 좋은 경험이었습니다. 다시 방문할 의향도 있어요."
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPZ3VUM1FnEAE",
+            "text": "제가 좋아하는 중국 브로컬리 정말 맛있어요. 게요리도 맛있었어요.\n단지 밥이 너무 맛이 없었어요.\n그것빼고 차도 주고 너무 좋았어요."
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNjZ1kybF93RRAB",
+            "text": "저는 영수증을 달라고 했는데, 직원이 공기밥을 가지고 와서 제가 다시 영수증 달라고 말을 했습니다. 그 직원이 뒤돌아서서는 큰소리로 중국어로 제 욕을 했습니다. 욕을 한 순간 이 음식점에 있던 모든 중국인 직원과 사장님이 저를 째려봤습니다. 영수증 받고 팁 줄때까지 3-4명이 저를 불쾌하다 듯이 째려봤습니다. 정말 화가 나고 어이가 없었습니다. 이렇게 불친절한 음식점은 난생 처음입니다."
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxdXZTLU13EAE",
+            "text": "이서진 때매 일부러 찾아가서 먹었는데\n맛은 그럭저럭 먹을만함,\n돼지갈비, 해산물국수 두가지먹고 52불,\n싼것도 아님,(팁이 18% 이미 포함돼있음)\n카드안받음, 주인장인지 종업원인지 모르겠으나 나이먹은 아저씨, 친절은 개나줬는지 인사할줄을 모름, 자기집에 찾아와준 손님이 귀찮은 표정,\n미국산지 6개월, 땡큐가 버릇이돼서 땡큐만 7번넘게했지만 7번 모두 쌩깜,"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyaTRucU93EAE",
+            "text": "생각이상으로 맛있었음!!! 폭찹이랑 게요리 강추!!!"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlbWZ6RXdRRRAB",
+            "text": "2번 왔는데 7시 50분. 8시 20분.  항상 닫혀있음\n심지어 7시 50분은 토요일인데도.\n지금 보니 이전과 달리 notice 붙어있음. 위생 관련 정지 먹은건지?"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWXzluVGh3RRAB",
+            "text": "대략 11년만에 다시가본 식당. 당시에도 게요리 해산물요리로 유명하고 맛또한 괜찮았다. 한국방송도타고 11년만에 다시 찾은 지금. 최악이다.\n맛은 평타정도? 어찌보면 비릴수도 있고. 게는 냉동맛나고. 웍으로 한번더 데쳐줫으면 좋았을려만. 게 단점의 맛이 나긴 했다. 돼지요리는 주변식당에 비해 형편없고.\n서비스 분위기도 최악었다. 오픈런이긴 했지만 웨이터들끼리 왁자지껄. 서빙하는 중국아재는 단답에 싸가지 작렬. (난 친절하게 주문했는데) 당연히 말하는 나도 싸가지 없어지고 한국욕도 박아버리고. (다른 손님 대할때는 톤이 바뀜)\n그리고 언제부터 미국에서 2인 18프로팁 자동으로 받음? 미리 이럴려고 싸가지 없게 손님 대했나 생각듬.\n그냥 기분나쁨. 주변에 단골할 만한식당 찾아서 거기가지만 거기 가스공사 이유만 아니었으면 여기 가지도 않았음.\n요리도 형편 없어지고 주변 사람없는 식당이든 주변 유명식당이든 여기보다 훨씬 나음."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGMnRLSkZ3EAE",
+            "text": "올드 뉴욕커의 추억이 덕지덕지 뭍어 있는 식당이다 35년만에 다시 찾았는데 감회가 새로 웠다"
+        },
+        {
+            "date": "10달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmMHRQVkNREAE",
+            "text": "세명이 가서 5개 시켰는데 음식 양도 많고 진짜 맛있어요~ 번호표 받고 기다렸다가 먹었는데 기다린 시간이 아깝지 않아요~ 가격도 착하고 다시 방문하고싶어요"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNOMjlyVVhnEAE",
+            "text": "예전에 미국에 있을때 다녔던 식당입니다. 오랫만에 가보니 이서진님 유튜브에 나오면서 한국사람들도 많아진것 같구요. 음식은 매우 망스러웠습니다. 게는 차고 비렸으며, 생선찜은 다 익지 않아 피가 흘렀습니다.\n결정적으로 팁을 18% 이상 강제로 청구하는데 계산서를 자세히 보면 택스를 포함한 금액에 18%을 청구합니다. 결국 18%를 넘는 금액을 강제로 청구하는 것이며 법적 문제가 있습니다."
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4NTlyOE13EAE",
+            "text": "One of the most terrible Chinese restaurants in Chinatown. Extremely rude staff who hardly speak any English. No reason to revisit.\n\n한국분들 이서진의 뉴욕뉴욕 보고 오시는 분들 많을텐데 다른 곳으로 가시기 추천드립니다. 무례한 웨이터때문에 밥맛 다 버렸습니다. 절대 가지 마세요!"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtNUstWjJBRRAB",
+            "text": "이서진님 뉴욕뉴욕 영상 보고 넘 기대하고 왔는데 솔직히 그 정도는 아니에요.. 약간 빨간색 음식이면 매콤한 걸 기대하는데 약간 음식이 다 달고 시면서 케첩맛이 강한 느낌?.. 그래도 양이 많아 돼지갈비는 투고박스에 싸와서 저녁에 맥주 안주로 괜찮게 먹었어요! 처음에 주는 따뜻한 차가 향이 좋고 맛있어요!ㅎㅎ"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKeW96OS1nRRAB",
+            "text": "중국음식점으로 복음밥은 밥이 복음밥\n특유의 탱탱함이없음.\n고기요리는 냄새가 조금 나지만 부드럽고 바삭한 식감임.\n배추요리는 느끼함을 잡아줄수 있는 맛이라 조합이 괜찮았음.\n***팁18프로가 영수증에 포함되어있으며 현금만 받는곳.***"
+        },
+        {
+            "date": "4달 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VOLWpxckgzMlppZXNnRRAB",
+            "text": "여행객인데 유튜브 보고 가는거라면 그냥 택시타고 진짜 중국집을 가세요 답없습니다"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNOdU1hS3pBRRAB",
+            "text": "리뷰평보고 갔는데 음식은 일반 음식점과 비교해도 특별하지 않았고 흔한 딤섬도 없었어요 그리고 직원은 친절하지않았어요(동양인에게 불친절!!) 이후 서양인에겐 웃으며 농담도 하고~ 우리에겐 인사도 안받아요 인종차별이 맞나봐요  이해안되는건 팁 18프로가 자동 청구되어 기분이 나빴어요 그리고 현금만 받는다는게 비추네요 담엔 안갈거예요!!!!!!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKeG8yeUZBEAE",
+            "text": "음식맛은 적당하지만 전체적인 서비스가 형편없습니다. 주문한 음식 누락은 물론이고 음식누락후에 다시 가져다줄려는 노력조차 없습니다.한국인분들이 종종찾고 한국 매스컴을통해 소개되서 많은 한국분이 오시지만 여기오시지마세요.근처의 uncle lou 등 다른식당으로가세요. 서비스가 누락될수있고 식당이 합리적인가격을 생각하면 조금의 부족한 서비스는 손님이 감당하여야합니다.하지만 주문 누락후 잘못된 서비스를 인정하지않고 주문을 취소하라고 되려물어보는것은 정말 어처구니없는 서비스입니다. 제 평생 팁을 주지않고나온 식당은 처음입니다."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyOG9HbFJREAE",
+            "text": "올사람들은 오겠지만..세금 포함 20%강제\n부과하고 잔돈은  안돌려줌"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtb2RmTXBBRRAB",
+            "text": "잘 거르셈. 팁 18% 포함 영수증 청구하고 팁 18프로 더달라고 사기침. 아니 진짜 거짓말아니라 팁을 강제로 받고 팁을 더달라고 함. 절대 가서 사기 당하지 마셈\n\nThey forced me to pay for a tip. Even I don't like the service and the food. They forced me to pay 18% tip in the bill. And futhetmore, they requested 18%tip more after I paid 18% tip included. Are u kidding me?"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMwb3JEc053EAE",
+            "text": "굿. 명성만큼읏 아니지만, 따뜻한 tea가 참 좋았어요"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQycDRMR2ZREAE",
+            "text": "음식은 먹을만합니다. 현금만 받습니다. 음식 가격에 tip을 20% 마음대로 정해서 돈을 달라고 하므로 혹시 15% 정도만 주고 싶으면 계산을 다시 요청해 보세요. 아주 친절하지는 않습니다."
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtLWZMellREAE",
+            "text": "뉴욕시청에서 도보로 10분거리에 위치한 차이나타운 내 식당입니다. 지하에 있으며 크랩요리가 아주 훌륭합니다."
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwaVoyb213RRAB",
+            "text": "제가 별 하나 주는이유는 0개가 불가능해서 입니다^^\n음식맛은 나쁘지 않은 편이였는데 사기를 오지게 치네요~\n다먹고 계산서를 받았는데 마음대로 18프로 팁을 포함 했더라구요~ 아마 여행객 같아서 팁 안줄까봐 그런것 같아서 그냥 기분이 별로였지만 주기로 했습니다. 캐쉬 온리라서 돈을주고 영수증이랑 잔돈을 기다리는데 안주더라고요 그래서 달라고 하니까, 갑자기 무슨 15프로 팁이 포함되서 결제된 영수증과 몇센트 빼고 거슬러 주더라구요. (당연히 지네는 18퍼센트 받고 우리 영수증에는 15퍼 에요!) 이제 여기서 부터 화가 나기 시작했죠^^ 저희가 얼마나 만만하게 보였으면 이런 식으로 사기칠까. 솔직히 얼마안해요 팁 더 주는거 문제없어요. 근데 사람이란게 이런식으로 사기 치면 기분이 나쁘잖아요. 그래서 따졌죠 근데 말도 안되는 식 으로 변명만 하더라구요!ㅎㅎㅎ 진짜 다신 가기싫게 말이죠~ 무슨 18퍼센트 붙이는게 해피뉴이어라서 붙이는거라고~ 개소리죠~ 아직 11월초인뎋ㅎㅎ 기분나빠서 가지않아요ㅎ 사람이 마음을 곱게 써야한다고 생각해요!\n차이나타운에 정직하게 운영하는데 많구 맛있는데 많아요! 여기 비추에요!!!\n비추!!!!!"
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnaFBiV0hBEAE",
+            "text": "현금결재만 되는건 그렇다고 치지만\n인생맛집이라고 칭찬하던사람들은 정말 양심이없다.\n너무너무너무 맛이없어서\n두숟가락먹고 숟가락을 내려놨습니다.\n게요리는 썩은맛.\n너무맛이없었어요 최악.."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGcDlMeXJRRRAB",
+            "text": "여긴 차이나타운 식당중 가장 허접하다고 생각되는집.\n팁은 일하는 사람이 알아서 정하고, 아직까지 신용카드가 안되고."
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNvaC1xTzFnRRAB",
+            "text": "미국식 중국음식점. 대부분 음식이 한국인 입맛에 잘맞고 먹는데 부담없습니다. 한글 메뉴판도 준비되어 있습니다."
+        },
+        {
+            "date": "8년 전",
+            "language": "ko",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBaE9LbUFnEAE",
+            "text": "일부러 찾아가기엔 맛이 그다지... 팁은 계산서에 미리 넣어서 요구함. 신용카드 안되고 현금결제만. 메뉴판에 한글 있음. 좌석이 협소해 좀 불편함."
+        },
+        {
+            "date": "8년 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBa0o3aDdnRRAB",
+            "text": "영 별 로. 맛도. 그럭 저럭.  Just ok taste. No special\n\n4 명이서 120 불 나옴.  팁. 무조건 15프로.  서비스하는 사람들. 택택 거림.  영. 서비스 별로.  People here not nice no kind.   특히. 한국 분들.  노. 추천.  유명  하다고 해서 왔는데 영 별로.  지저분 하고. 불친철 하고. 맛도 별로구.   그냥. 별로임"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtM0tQTFpBEAE",
+            "text": "차이나타운에서 만난 맛집! 중국음식인데 담백함이 으뜸이다. 현금으로만 계산할 수 있다."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxNHJld2x3RRAB",
+            "text": "음식은 평타수준\n써비스는 차이나스타일 불친절.\n종합적으로는 음식은 먹을만함."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsMktLbC1nRRAB",
+            "text": "양 많음\n맛은 평범\n현금만 받으면서 택스포함금액에 18프로 팁 청구\n기분좋은 경험 아님"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtektiZzF3RRAB",
+            "text": "개인적으로 맛있었던 중식. 엄청난 건 아니고 그냥 적당하게 가성비 있게 맛있는 차이나타운 식당이다."
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNNczVPQmpnRRAB",
+            "text": "게요리 맛은 보통이에요 오리요리는 맛있었구요 사장님 예의는 없으세요 원래 중국인이 이런건지 잘 모르겠네요 잘먹고갑니다"
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRcEtQU1JREAE",
+            "text": "이십년전 엄청 맛있게 먹었던 느낌이 안나네요~ 요즘은 중국현지에서 요리를 먹어보니 입이 고급이 되서리"
+        }
+    ],
+    "reviews_count": 97
+}

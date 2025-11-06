@@ -1,0 +1,656 @@
+{
+    "name": "Taverna East Village",
+    "place_id": "ChIJhXfp8HVZwokRKCGfuDsTj9Y",
+    "grid": "MN3",
+    "address": "228 1st Ave, New York, NY 10009, USA",
+    "rating": 4.5,
+    "user_ratings_total": 1126,
+    "phone_number": "(212) 432-0011",
+    "reviews": [
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oRmRUQlhhemRDVTB0emJrb3lkVFZ4TFcxd1kzYxAB",
+            "text": "Great traditional Greek spot. Went with a group of friends and enjoyed the experience, but in the sake of honesty there were a couple of things I didn’t like. Service was alright. No one was rude but waited a while to order and ask for things. Food was definitely great. Restaurant felt a little dirty."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRNHYyN0NnEAE",
+            "text": "Writing this review Sunday, March 10th on my knees above the toilet after eating nothing but the mussels with bread. It definitely did not taste as good coming up as it did going down 👎"
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJeDlmSlFREAE",
+            "text": "This is the only place I'll eat octopus because it is so good it seems justifiable. Everything is wonderful and fresh. I really wish they would tear down the outside seating thing, or improve it. It looks really bad."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfaEoyWDd3RRAB",
+            "text": "Always a very good culinary experience!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQaXZpYUNBEAE",
+            "text": "Had an absolutely wonderful dinner here. Food tasted wonderful, traditional and genuine Greek flavours. The service was impeccable. Our server was Erica and she was respectful, friendly and made us all laugh. We got some drinks and dessert on the house which was a lovely surprise. At the end we were all pleasantly shocked at how fair the final check was."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQaXBqNVBREAE",
+            "text": "Erica was our server and was absolutely wonderful! The food was great, music was great, service was great, and we got both drinks and dessert on the house! Best restaurant experience I’ve had in a while"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzdmVhdWlRRRAB",
+            "text": "Came in for dinner on a Sunday night. The food was a little underseasoned and was lacking flavor. Our waitress was ok. Never smiled but she did an ok job. We felt extremely rushed when the bassuer was coming every 1 minute to ask if we were done. And tried to take our plates when we were literally still eating. Not even close to greek hospitality."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzOW9TY2tBRRAB",
+            "text": "The food was delicious, especially the fries that were on the house! The service was great and we never had to flag someone down as the staff was very attentive. I’d definitely recommend this restaurant which had availability right away as opposed to the Astoria location that had a long wait."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzOXJqU2VREAE",
+            "text": "Delicious food, including Greek shrimp, sausage, and zucchini chips with tzatziki!  They even gave us 3 dishes on the house"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzdHV2NUZ3EAE",
+            "text": "Amazing food, ambiance, and lovely servers. Portions are generous. 10/10 recommend. Scallops, calamari, prawns,  dorado fish are winners. Meal comes with a Complimentary dessert."
+        },
+        {
+            "date": "수정일: 11달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJODlDckRBEAE",
+            "text": "Used to be 5 stars but last time the food was either rubbery and overcooked"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzMjRqNktREAE",
+            "text": "Great food!!!"
+        },
+        {
+            "date": "11달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzOVpTb0FREAE",
+            "text": "Delicioso, porciones muy generosas"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzdXJYMjd3RRAB",
+            "text": "Great food and very great service. Enjoyed this place a lot :)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzMnRqQ3VnRRAB",
+            "text": "This joint always delivers on taste and quality.   I love the food here."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYbDUtV2RREAE",
+            "text": "Super delicious! Inventive menu! Generous portions! And a pickle martini that will warm your heart 🥰"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYbDZfdWZnEAE",
+            "text": "Delicious!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYdFoyUDR3RRAB",
+            "text": "Mediocre food, ok service, pretty empty that's why 1 for atmosphere"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYcWRpd19RRRAB",
+            "text": "First time at a Greek restaurant. It was amazing. The fried sardines are out of this world!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYNWItdXRBRRAB",
+            "text": "The food is fabulous-- and now they take reservations!  Much better!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYdWNuUnh3RRAB",
+            "text": "Loved this place! Went here last night with a group. Food is amazing and the service was the same - big shout out to Erica who looked after our group! Such a friendly, responsive and all round great waitress."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuazh1dld3EAE",
+            "text": "Great greek classics served all day. Taverna offers something for everyone that enjoys Greek or Mediterranean food specialties. Great music, great staff and great food."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuNnV5d2pBRRAB",
+            "text": "Don’t know what happened with ownership here but it’s completely different and it’s terrible in every way, shape and form. Don’t even bother coming. Terrible experience overall. Grumpy old man is so terribly rude."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURINGVlRFhnEAE",
+            "text": "Wonderful date night meal. Delicious food with very generous portion sizes. They have the fresh fish on ice by the kitchen. Great service. Will definitely return."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIbEx1dU1REAE",
+            "text": "Food was pretty good.  Very expensive though for what we got.  Be prepared to pay a substantial premium for MP items too.  Staff seems fine, not the warmest"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIc2RtQ253RRAB",
+            "text": "The best Greek food"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIbXJ6VEJBEAE",
+            "text": "Great experience. Took mom for late lunch. From being greeted by the staff, the suggestions for food selection, the freshness of every item and even came with a free dessert. T reminded me of my experience when i when tto Greece. The hospitality, good food and ambience…amazing. Im definitely coming back."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNINHRTNnhnRRAB",
+            "text": "It was a wonderful experience."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIdU9ISGpRRRAB",
+            "text": "Friendly ans attentive waiting staff and delicious food! We’ll be back!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3OV82R0pnEAE",
+            "text": "Delicious Greek food! We loved it and will return for sure :)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3MjkzZzNRRRAB",
+            "text": "We love this place and the stuff are great. They always treat us as family. Specially Albina who is just wonderful. I totally recommend this restaurant."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3bzctMlBREAE",
+            "text": "The greatest."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3bzdhTHl3RRAB",
+            "text": "Solid!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3bzZyUGR3EAE",
+            "text": "They serve large portions, great for family style sharing. Reliably fresh and delicious fish and vegetables."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3dGM2NlBnEAE",
+            "text": "Food is excellent !!! The staff is wonderful! Definitely love this place"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNicXEtTVBREAE",
+            "text": "Writing this on behalf of someone. Went with a group of four and did the walk in. Got seated right away even though not everyone present together. Food came out at a decent time. The place is clean. Attentive staff. Delicious food. Recommended the broiled shrimps. The fish tasted good too. Must try this place if you like Mediterranean cuisine and around the area. Personally, I will try this place in the future."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyX2UzelBREAE",
+            "text": "This is my second time at this restaurant (first time was 5 years ago) and the food is still delicious - despite a change of ownership since. Everything we ordered was very good apart from the oysters, which was fresh but had no taste at all. Definitely will be back for a third time."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURycXNuS2JBEAE",
+            "text": "Not open! I walked for many blocks to have lunch but’s closed."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkZ3FQX1J3EAE",
+            "text": "Same operation as the famed Astoria eatery and just as good if not better, in a way. Decor was fresh and rather East village, the menu was varied and true to the Astoria precedent, and the wait staff was friendly and accommodating. I opted for two vegetarian appetizers as my meal and my companion had roasted chicken with rice. All was thoughtfully prepared and presented. I would highly recommend this place for a date night or just a quick stop for nutrition. Delightful in every way! Will definitely be coming back."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6X2RlOU9nEAE",
+            "text": "Casual place for delicious seafood, fresh fish and amazing Greek salad.. check it out if you are in the area."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6MU1XM1VBEAE",
+            "text": "The last 18 months I have eaten here 6 or 7 times ... this is my go to place for my tourist visitors . My name is Pete kanes.  Formerly of Kanes diner . Servicing flushing ny for over 50 years.my 4 greek friends adored this place . They visited 3 nights in a row . And we're so satisfied 😌.  They paid the check each visit ... we especially liked the branzino.. I adored the scallops 2 nights and the salmon 😋 the other. The greek salad reminded me of SANTORINI NIGHTS... I LOVE ❤️ THIS PLACE ... from a lifetime restaurant owner . And sandwich king 1 and 2 ... I give this place a 99.3 out of 100... ask for Inga from the Ukraine.  She is a treasure  !!!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6NFBxbjh3RRAB",
+            "text": "Long time looking for trying out there East village location. It did not disappoint but needs some improvement to serve better.\n\nWe ordered the Greek salad, although it was a small options. I was shock how the portion was. Imminently feeling really excited for the entrees. And yes portions were huge including the entrees as well. The grilled calamari was super chewy for me. I’ll definitely order the fried for next time. Grilled shrimp was incredible juicy and well grilled. One of all time favorite, you can choose side of rice, French fries or lemon potato.  Which seems really interesting so we ordered it.\n\nThe ingredients of the salad were fresh and served with virgin olive oil. That’s extra points for this place.  They are offering desert which was giving me scent of baklava and pudding in the same time was a huge hit.  Over all very enjoyable happy hour taverna meal for us.\n\nWe got sit a very tiny corner table in a non-rush hour, that’s kinda making me unhappy during my meal. Since the portions aren’t small we definitely needed a bigger table."
+        },
+        {
+            "date": "1년 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUbE4yS2dRRRAB",
+            "text": "I piatti offerti sono buoni ed abbondanti, ottimo anche il servizio"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqNUtDRl9RRRAB",
+            "text": "It's a very shabby place, the employees are friendly, but I didn't like how they kept coming to the table to check. There was a constant rush even though the other tables were empty.\n\nThe salad and fried vegetables were really good, but I found the fish I ate very oily and didn't like it. But since there are few places like this, I give this Greek place a good score. Only minor changes need to be made. By the way, if you are looking for Turkish raki, you can make a fortune here."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREaDhmbEdBEAE",
+            "text": "Not as good as original location but food still good and very hospitable."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREdkt1NDh3RRAB",
+            "text": "Great value for money Greek food, taverna style (that means not fancy)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREaU1Ta25RRRAB",
+            "text": "We went to dine with some friends. We had a super good dinner with big portions. Excellent service."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEeVBhOURREAE",
+            "text": "The food is awful. Inedible. I had a terrible experience about a year ago and thought to give it a second chance. Both times had to send food back. Low grade food, high prices. They need to get a new chef. Service was ok."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5N2VxbXNBRRAB",
+            "text": "Incredible menu, welcoming staff, in a glorious neighborhood. Thank you!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5dWM2WVRREAE",
+            "text": "Came here recently because I the area and needed a quick bite. The inside was quite aesthetically pleasing. It reminded me of being by a seaside restaurant.\n\nI was greeted immediately and was seated. The table was quite clean and the restaurant was pretty much empty. I was served pretty good bread, I did like that there was a slight charcoal aftertaste.\n\nI ordered a ginger ale and grilled calamari. The calamari was plated well, and it built the anticipation for me to indulge. I was happy with the first bite. I haven’t had grilled calamari in a while, and this was a good portion and it was tasty/filling.\n\nI was also given dessert which resembled a cheesecake, and it was pretty decent.\n\nIn all, I wouldn’t mind coming back and trying more of the menu, especially the seafood. The one thing I  would say is that I was charged $20.95 for Calamari and I was there after 4 pm (their Happy Hour is from 4 pm-6 pm).\n\n( This is a 3.5 / 5 star 🌟 review)"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSbkpmel9nRRAB",
+            "text": "I recently had lunch with a friend at a Greek restaurant located in the East Village. It's incredibly convenient as it's located right next to a subway exit. Every dish we ordered was delicious, but I highly recommend trying their grilled…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ1OGV5eU5BEAE",
+            "text": "Food was good. Octopus nice and tender, fish fresh. Try sample of their spreads with warm pita. Chicken was a bit dry. Got complementary dessert as well, nice touch.\nBut, what is 3.75% NON CASH CHARGE? i thought maybe that's 'new NYC thing', since i haven't been in a while, but this is only establishment during our stay that actually put that charge on a check."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURWM1AtT0lBEAE",
+            "text": "We came here with friends on their recommendation and had a fantastic dinner. There’s a huge selection of seafood and we enjoyed pretty much everything we tried. Some stand out items include the grilled octopus, sea bass, and shrimp. They de-boned the fish for us as well so it was very easy to enjoy. It was a great experience that I highly recommend!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDdkkyWHZRRRAB",
+            "text": "Great vibe and menu. The appetizers are a bit pricey but the portions are very generous. The complimentary warm pita bread straight from the coal oven was delicious, as well as the desert (which was also complimentary. The staff was…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoLWVMVW5nRRAB",
+            "text": "Place is cozy, almost never overcrowded, the food is fresh and salads are huge. By huge I mean about half a pound of cheese on top of that salad. Grilled calamari are good, nicely sized plate too. Octopus 🐙 is what they famous for. You can pick a fish and they would cook it for you. Waitress Albina was very helpful and always smiling. Every now and then they give complimentary deserts."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURadHRHUFpnEAE",
+            "text": "I was invited to this restaurant on behalf of my food blog, @bitesofthebest, so had the pleasure of getting to taste a bunch of items from the menu. I have to admit, I was VERY impressed with everything I had. The seafood was SO fresh!! My three favorite dishes from the dinner were the seafood pasta, the grilled octopus (it was insanely tender!!) and the lamb appetizer. Overall was an awesome experience and will definitely be back soon!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoanNudkd3EAE",
+            "text": "It had been a while since I had been to the Astoria spot of this location but I remember loving my experience. Great seafood (and awesome portions), great ambiance, and a great staff. The last time I visited it was a perfect summer night, the restaurant was packed. All in my group were happy and content with everything. I remember the calamari being a particular standout.\n\nFlash forward to now, the winter of 2023, to their spot in the East Village and thankfully not much has changed. Food is still good, portions are a-plenty (wait till you see what a \"medium\" salad looks like), and the staff is sweet and hospitable. While my current lifestyle does not allow me to indulge in every single thing I would've loved to have had on the menu, this is seafood we're talking about, and so even on a low-carb kick, this place has some fantastic and delicious options.\n\nThe Paidaki (lamb chops) are absolutely delicious. I'm usually not the biggest fan of lamb chops in restaurants since you get very little and often pay a lot. But these were a perfect size, seasoned wonderfully, and had amazing taste. Prepared exactly how they should be, and again, portions here are friggin' awesome. Loved these.\n\nI didn't have the Lemon Potatoes but let me tell you, my date absolutely loved them, they looked incredible and smelled friggin' amazing, so I had to add a pic here cause you need to get these. They're a perfect side.\n\nThe Oktapodi (octopus) is categorized under \"Appetizers\" but this is a full meal. Again, going back to the portions that they serve here, this is a pretty big app if you ask me. Absolutely DELICIOUS. Loved every single bite. Flavored and seasoned to bring out all of the delicious flavors, this was a great dish and I'm sure they'll rearrange this and put this under their \"Mains\" cause damn, this ain't no starter. They also do a nice little show of cutting it up for you before you dig in.\n\nThe scallops were delicious, very plump, and very big. Another great starter and it was swimming in butter. And lemme tell you: scallops and butter are the way to go. Just so damn good.\n\nAny salad you get from here is a winner. Just make sure you get feta cheese along with it. Because if you don't, you're doing it wrong.\n\nGreat spot and awesome service, can't wait to go back. Oh, and there's an actual fish market towards the back of this restaurant so you can literally see the freshness of your food when it's being prepared, and maybe take some fish home with you if hanging out with whole fish after dinner is your thing."
+        },
+        {
+            "date": "2년 전",
+            "language": "it",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKMkpIOFdBEAE",
+            "text": "Cibo e ospitalità stupende, questo ristorante Greco offre una cucina prevalentemente di pesce e frutti di mare. Noi eravamo in 7 ed abbiamo preso un secondo di pesce i contorni(sides) sono compresi nel prezzo per piatto, con a testa un bottiglia di vino, due bottiglia di acqua frizzante, ed abbiamo speso 500$ mance a parte. Unica pecca il volume della musica troppo alto che impedisce un  poi la comunicazione ma, forse perché eravamo sotto l'unica cassa dello stereo, cosa carina invece è che hanno portato a tutti GRATIS un dolce della casa. Molto consigliato"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtai0yOVRnEAE",
+            "text": "Seafood lovers go and try this place  today! Amazing food! Servers friendly and they know what are they doing .We went to this restaurant yesterday. My friend recommended it to us .\nWe had appetizers octopus )my son favorite) when I took a bite wow I’m not a big fan for it but this place made “something else” . Oysters so  fresh,  we also had hummus plate with pitas.\nMy calamari I ordered the fried one\n(they made grill too) was great . What surprised me first time I had lemon potato that’s perfectly match with any fish or seafood  .\nMy daughter had rib eye and hubby tried the lamb chops I think the pictures tells everything from the table .My friends ordered the combination plates lobster tail scallops clams etc on it  . I tried have no words how good was it. Red snapper and branzino very delicious my only problem with the little bones but fish comes with it .. taste and seasoning fabulous! Thanks for the great time .\nWill be back soon.\nPs :that Greece liquors you surprise with us must sell in bottle delicious!"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRLVlPWVRBEAE",
+            "text": "I've been coming to this place many times, food is always good and at a stable quality. Grilled octopus is awesome, crab cake is one of the very best I've taste in the city, mussel is also very good. Pasta and sea bass are also great!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtNXVPSzF3RRAB",
+            "text": "Amazing authentic Greek food and big portions. The octopus was one of the best I’ve had, so tender. Our waiter was lovely as well, will definitely be back."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNpLXVYV0dREAE",
+            "text": "Food is really good, staff is friendly, and the meal ends with complementary dessert.…"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBX1BDMnd3RRAB",
+            "text": "Overall the food was good but not the best. Service was excellent and attentive. The grilled octopus was good but needed more salt and flavor. It came in an olive oil/lemon sauce that helped but it definitely needed salt. The calamari was…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSXzd6cWV3EAE",
+            "text": "Taverna Kyclades is a great spot in the east village for seafood lovers!\n\nThe MUST gets are:\n- lemon potatoes (so good I was inhaling them)\n- octopus (pro tip: dip the table bread in the oil)\n- lamb chops (full of flavor and cooked to perfection)\n\nI’m not a huge seafood lover but i still thoroughly enjoyed my meal!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCNDVEUFh3EAE",
+            "text": "I had a fantastic meal at Taverna Kyclades. Everything is so fresh there and I enjoyed it all. My absolute favorite dishes were octopus and scallops."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSeGRuSXJ3RRAB",
+            "text": "Wanted Greek food and definitely hit the spot!! It’s been my go-to from there Bayside Location. Ordered bunch of things from Grilled Octopus to Lamb Riblets  and even Steak . Great Night out , this place never disappoints!!\n\nAmbiance - 10/10\nService- 👌🏾\nParking - Street\nReservation- Might be Required\n\nMUST TRY Lamb RIBLETS"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2M28tOUFnEAE",
+            "text": "Fantastic fresh and traditional Greek food. Where many restaurants have decayed after the pandemic Taverna Kyclades has flourished! I have been pre and post pandemic. The food is fresh and fantastic. From the feta to the complimentary custard and their wine selection they are truly a delight!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNodmIyVjFBRRAB",
+            "text": "The most friendly staff! Delicious branzino, octopus, taramasalata, crab cakes, oysters, lamb chops; can’t say enough. This is the best location with the nicest people. I always come back here. Yamas!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoMTlyQ1FBEAE",
+            "text": "This was my 1st time dining at Taverna Kyclades, I heard great reviews about it prior to coming! Nonetheless, everyone was right- food was incredible, excellent service & can’t wait to come back to try other dishes. I recommend ordering…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyNzgtWWRnEAE",
+            "text": "Good food!\nEspecially the seafood, we got the (shrimp) garides Santorini style with lemon potatoes. Some salad with feta cheese, the octopus. And the chicken souvlaki. Enough for 5. Big plates!\n\nMy compliments! The shrimp especially it was amazing"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4OWF5ZHpnRRAB",
+            "text": "Used to love this place but think quality has declined over the last decade.\n\nBroccoli rabe tasted like it was over steamed and soggy.\n\nOrdered a whole turbot which was charred too much and they didn’t put any salt on it so it was pretty flavorless.\n\nLamb riblets are tender and delicious.\n\nThey give you a free small dessert."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoZ2YzbG9RRRAB",
+            "text": "5/5, hospitable staff, refreshing drinks, and amazing food.\n\nTry the Kyclades cocktail, it'll be hard to just have one.\n\nImmaculate lamb chops, juicy and tender, and the side of lemon potatoes had the right amount of acidity and consistency."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzOHFEd0RREAE",
+            "text": "Favorite seafood restaurant in NYC ,also they have one in Astoria, Queens. Both of them are amazing 👏 very yummy food ,always fresh ,good service ,nice Greek atmosphere 😍👍"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSb05EVVh3EAE",
+            "text": "Taverna Kyclades is not your typical, average Greek restaurant. It's hands down the best place to eat authentic Greek and fresh seafood."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGME4zUGtBRRAB",
+            "text": "Had: Octopodi, fried calamari, traditional Greek salad, spanakopita, Lavraki, Kyclades special, Oyster bay Sauvignon blanc"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNld2VlSWVREAE",
+            "text": "A great greek restaurant. Had the lavraki whole  fish with horta excellent both. Also a greek salad with chicken.  Lunch prices are excellent as well. The fish cost $23. The house red wine is very  good as well."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURrejlIaUhnEAE",
+            "text": "Really great Greek food - the Horiatiki salad was definitely a winner - as well as their spinach pie. The rest of my party ordered the salad with romaine and the chicken kebab with potatoes. The potatoes were interesting... not my fav but worth trying as they have a unique flavoring. The feta cheese in the Horiatiki salad was very good - Greece-level good (I’ve been to Greece a few times so I can assure you it is very close - if not the same.)\n\nAlso the small salad sizes are still very big! If you get a large that should be split between 4 people.\n\nThey also served a complimentary dessert afterwards which was delicious!\n\nWhile the wait can be some time (20-30 minutes) it’s definitely worth it! Looking forward to coming back here 😊"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoLU9TNEhBEAE",
+            "text": "Taverna has some of the best Greek food I have ever tried, I ordered grilled swordfish with lemon potatoes and they did not disappoint. The food was great, the atmosphere was great and the service was great. Definitely recommend Taverna for some really good Greek food."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNZclBIWmxBRRAB",
+            "text": "1st time at this quaint and bustling place with delicious food.  The grilled Calamari was incredible and perfectly prepared.  Swordfish from Long Island tasted fresh as I've had in East Hampton.  Go even if a little bit loud."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnMzQya0dBEAE",
+            "text": "Great small restaurant experience. Fresh and delicious seafood entrees. The shark (wanted to try something new) was amazingly tender and delicious.\nAlso, the lemon potatoes,especiall; you will not regret it."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyb0lPOVBnEAE",
+            "text": "I absolutely loved this restaurant and I find it ironic that I had better Italian dishes like pasta at this Greek restaurant, than at acclaimed Italian restaurants (rhymes with dezdora and tante's). The oyster platter was so fresh and…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPbV9mMW1nRRAB",
+            "text": "A great place to get a delicious seafood dinner. Everything was fresh and well-cooked, with generous portions. I look forward to returning for more grilled sardines and stuffed shrimp."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1dU1qUFdnEAE",
+            "text": "Good Greek food but very meat heavy. Not a lot of vegetarian options. Service was very nice but slow sometime. Overall just fine."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNodzVtMzBBRRAB",
+            "text": "Order the Sole Broiled. You will not be disappointed. Always the freshest fish in the city. I don’t know how they do it.\nLunch special. Happy hour.\nGood eats all around."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwaXBPSl93RRAB",
+            "text": "Classic and fresh Greek food...one of the best in the city. And very friendly service too!"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRcnUzWFF3EAE",
+            "text": "Always a fresh experience eating here. Wait staff is always tentative and accommodating. We always come for the seafood but don't second for a second double guess their steaks. Ribeyes are done to perfection top them off with a side of lemon potatoes and you're golden."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURremE2alVREAE",
+            "text": "Great food..... large portions....little pricy but food amazing.  There is alitte wait for your dishes but it is worth it"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhdlBQSXFnRRAB",
+            "text": "Good was tasty but I can’t say same thing about service. Our server was kind of rude. When we asked something about the item on the menu she didn’t even explain. She said that whatever inside you can see menu. We felt kind of rude and on that reason we didn’t leave any tip. When we were leaving from that place she just came to us and said that why you didn’t leave any tip and we said that we were unsatisfied from her service then she said that don’t come back this place again. I was kind of shocked when she reacted like that and of course I became upset. I told that situation her manager. I have been in this place at least couple times but I wasn’t aware that they were unprofessional. I think they need better server. It was bad experience and that’s the reason that I leave one star here. Look for the better server please. Thanks"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3dDR5YUR3EAE",
+            "text": "Affordable for the high quality of this AMAZING meal. Fresh fresh seafood that is simple and delicious. A little more \"chic\" vibed from the original Astoria location but that's not a bad thing. Worth whatever wait you will have to endure. Free olive bread and custard dessert at the end. A great Greek experience."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKaFBtdURREAE",
+            "text": "This was the best Greek cuisine I've had in YEARS. The customer service was welcoming and outstanding. The food was meticulously prepared and presented.  The lamb riblets were OMG delicious! The roasted bass was superbly cooked to just the right texture taste. Even the burger was beyond perfection. Much Gratitude to Dhamiel and Albina. We shall return!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSURJemNsVhAB",
+            "text": "Great food as always. The grilled octopus is freaking delicious. Very tender"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNnMnJDOGhnRRAB",
+            "text": "The place is crowded at night but that confirms the fact that the food is EXCELLENT. Nice atmosphere and good prices (for NY) I’m not giving 5 stars just because customer service is not as good as the atmosphere and the food. Also, they are…"
+        }
+    ],
+    "reviews_count": 92
+}

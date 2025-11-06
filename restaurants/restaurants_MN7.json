@@ -1,0 +1,482 @@
+[
+    {
+        "name": "The Milling Room",
+        "address": "446 Columbus Ave, New York, NY 10024, USA",
+        "place_id": "ChIJUe3TgIVYwokR5cm1iYg1TAU",
+        "rating": 4.4,
+        "user_ratings_total": 1056,
+        "phone_number": "(212) 595-0380"
+    },
+    {
+        "name": "Dagon",
+        "address": "2454 Broadway, New York, NY 10024, USA",
+        "place_id": "ChIJS0y1_oJYwokRp1XiiN58wKA",
+        "rating": 4.8,
+        "user_ratings_total": 2067,
+        "phone_number": "(212) 873-2466"
+    },
+    {
+        "name": "Pig and Khao - UWS",
+        "address": "433 Amsterdam Ave, New York, NY 10024, USA",
+        "place_id": "ChIJmWvEAIZYwokRpvhPBfDbi_k",
+        "rating": 4.9,
+        "user_ratings_total": 803,
+        "phone_number": "(646) 370-1430"
+    },
+    {
+        "name": "Canto Upper West Side",
+        "address": "2014 Broadway, New York, NY 10023, USA",
+        "place_id": "ChIJkcW-FwBZwokRm127DuEOOVk",
+        "rating": 4.7,
+        "user_ratings_total": 629,
+        "phone_number": "(646) 360-3857"
+    },
+    {
+        "name": "French Roast",
+        "address": "2340 Broadway, New York, NY 10024, USA",
+        "place_id": "ChIJ2V6HH4RYwokRb0PY09qwtJA",
+        "rating": 4.7,
+        "user_ratings_total": 3488,
+        "phone_number": "(212) 799-1533"
+    },
+    {
+        "name": "TESSA",
+        "address": "349 Amsterdam Ave, New York, NY 10024, USA",
+        "place_id": "ChIJr6LJHIlYwokR1nUYpYgH7Uc",
+        "rating": 4.4,
+        "user_ratings_total": 962,
+        "phone_number": "(212) 390-1974"
+    },
+    {
+        "name": "Nice Matin",
+        "address": "201 W 79th St, New York, NY 10024, USA",
+        "place_id": "ChIJ5YYLvYhYwokReZvaF93xmFw",
+        "rating": 4.5,
+        "user_ratings_total": 1920,
+        "phone_number": "(212) 873-6423"
+    },
+    {
+        "name": "Maison Pickle",
+        "address": "2315 Broadway, New York, NY 10024, USA",
+        "place_id": "ChIJrapahYZYwokRdCivYmoCbJ8",
+        "rating": 4.5,
+        "user_ratings_total": 3469,
+        "phone_number": "(929) 356-7189"
+    },
+    {
+        "name": "La Pecora Bianca UWS",
+        "address": "359 Columbus Ave, New York, NY 10024, USA",
+        "place_id": "ChIJlYuHaAtZwokRTrF1jKtMdvg",
+        "rating": 4.7,
+        "user_ratings_total": 2100,
+        "phone_number": "(212) 300-9870"
+    },
+    {
+        "name": "The Consulate UWS",
+        "address": "519 Columbus Ave, New York, NY 10024, USA",
+        "place_id": "ChIJ8bFWn8FZwokRoUsyyYc0TNg",
+        "rating": 4.7,
+        "user_ratings_total": 1631,
+        "phone_number": "(646) 781-9288"
+    },
+    {
+        "name": "Tasca NYC",
+        "address": "505 Columbus Ave, New York, NY 10024, USA",
+        "place_id": "ChIJg-QDdKFZwokRumpX4_PxJuU",
+        "rating": 4.7,
+        "user_ratings_total": 388,
+        "phone_number": "(212) 362-2211"
+    },
+    {
+        "name": "Tatiana by Kwame Onwuachi",
+        "address": "10 Lincoln Center Plaza, New York, NY 10023, USA",
+        "place_id": "ChIJxy0SM0xZwokR5vC0f4wVlP0",
+        "rating": 4.3,
+        "user_ratings_total": 755,
+        "phone_number": "(212) 875-5222"
+    },
+    {
+        "name": "Carmine's - Upper West Side",
+        "address": "2450 Broadway, New York, NY 10024, USA",
+        "place_id": "ChIJrXva_oJYwokROtv_EdGJgH0",
+        "rating": 4.4,
+        "user_ratings_total": 6881,
+        "phone_number": "(212) 362-2200"
+    },
+    {
+        "name": "Osteria Cotta",
+        "address": "513 Columbus Ave, New York, NY 10024, USA",
+        "place_id": "ChIJOb-eH4VYwokRkyzosmvD_sk",
+        "rating": 4.4,
+        "user_ratings_total": 1186,
+        "phone_number": "(212) 873-8500"
+    },
+    {
+        "name": "Cafe Luxembourg",
+        "address": "200 W 70th St, New York, NY 10023, USA",
+        "place_id": "ChIJXQP8fYpYwokRgkepJvnLNlc",
+        "rating": 4.4,
+        "user_ratings_total": 1692,
+        "phone_number": "(212) 873-7411"
+    },
+    {
+        "name": "Sarabeth's Upper West Side",
+        "address": "423 Amsterdam Ave, New York, NY 10024, USA",
+        "place_id": "ChIJJWjnqYhYwokRXKDyQj71TzA",
+        "rating": 4.2,
+        "user_ratings_total": 1604,
+        "phone_number": "(212) 496-6280"
+    },
+    {
+        "name": "Essential by Christophe",
+        "address": "103 W 77th St, New York, NY 10024, USA",
+        "place_id": "ChIJw6JyhoxZwokR3mKl4FLg5rM",
+        "rating": 4.8,
+        "user_ratings_total": 398,
+        "phone_number": "(646) 478-7928"
+    },
+    {
+        "name": "The Ribbon",
+        "address": "20 W 72nd St, New York, NY 10023, USA",
+        "place_id": "ChIJeXBWf4tYwokRkseOOZT3_mc",
+        "rating": 4.3,
+        "user_ratings_total": 1089,
+        "phone_number": "(212) 787-5656"
+    },
+    {
+        "name": "Prohibition",
+        "address": "503 Columbus Ave, New York, NY 10024, USA",
+        "place_id": "ChIJSc_3GIVYwokRh6OzVnCnh6g",
+        "rating": 4.5,
+        "user_ratings_total": 994,
+        "phone_number": "(212) 579-3100"
+    },
+    {
+        "name": "The Shell Seafood Kitchen & Bar",
+        "address": "635 Amsterdam Ave, New York, NY 10025, USA",
+        "place_id": "ChIJEZBYF4ZZwokRBhwHBZnsoqI",
+        "rating": 4.8,
+        "user_ratings_total": 244,
+        "phone_number": "(646) 669-7628"
+    },
+    {
+        "name": "Elea",
+        "address": "217 W 85th St, New York, NY 10024, USA",
+        "place_id": "ChIJk84XGIRYwokRGrW8KFlR2_g",
+        "rating": 4.6,
+        "user_ratings_total": 1009,
+        "phone_number": "(212) 369-9800"
+    },
+    {
+        "name": "Sempre Oggi",
+        "address": "164 W 75th St, New York, NY 10023, USA",
+        "place_id": "ChIJ25ryEZ5ZwokRNUaYyZc52_8",
+        "rating": 4.7,
+        "user_ratings_total": 345,
+        "phone_number": "(212) 377-7150"
+    },
+    {
+        "name": "RedFarm",
+        "address": "2170 Broadway, New York, NY 10024, USA",
+        "place_id": "ChIJ50n4UohYwokRLrnKpXxjuFE",
+        "rating": 4.4,
+        "user_ratings_total": 1044,
+        "phone_number": "(212) 724-9700"
+    },
+    {
+        "name": "72ND Eatery",
+        "address": "261 Columbus Ave, New York, NY 10023, USA",
+        "place_id": "ChIJ65f3PTpZwokRb46hkO-GDM8",
+        "rating": 4.7,
+        "user_ratings_total": 615,
+        "phone_number": "(212) 721-7800"
+    },
+    {
+        "name": "Celeste",
+        "address": "502 Amsterdam Ave, New York, NY 10024, USA",
+        "place_id": "ChIJjUIzMYRYwokRpH6nkif-iZc",
+        "rating": 4.8,
+        "user_ratings_total": 3181,
+        "phone_number": "(212) 874-4559"
+    },
+    {
+        "name": "Miriam Upper West Side",
+        "address": "300 Amsterdam Ave, New York, NY 10023, USA",
+        "place_id": "ChIJ8fEOZPFZwokRDcA5x-C09I8",
+        "rating": 4.3,
+        "user_ratings_total": 777,
+        "phone_number": "(646) 590-2659"
+    },
+    {
+        "name": "Bellini",
+        "address": "483 Columbus Ave, New York, NY 10024, USA",
+        "place_id": "ChIJq7ZME4VYwokRtSnXR1qnafg",
+        "rating": 4.6,
+        "user_ratings_total": 620,
+        "phone_number": "(212) 724-4615"
+    },
+    {
+        "name": "Salumeria Rosi",
+        "address": "283 Amsterdam Ave, New York, NY 10023, USA",
+        "place_id": "ChIJRQh4J4pYwokRFwsMuBi-Cao",
+        "rating": 4.5,
+        "user_ratings_total": 979,
+        "phone_number": "(212) 877-4800"
+    },
+    {
+        "name": "Fred's",
+        "address": "476 Amsterdam Ave, New York, NY 10024, USA",
+        "place_id": "ChIJl6Gl0IVYwokR-wDytWOCXzQ",
+        "rating": 4.4,
+        "user_ratings_total": 961,
+        "phone_number": "(212) 579-3076"
+    },
+    {
+        "name": "Lucciola",
+        "address": "621 Amsterdam Ave, New York, NY 10024, USA",
+        "place_id": "ChIJ__8PIoNYwokRv6K4zyzgdLs",
+        "rating": 4.8,
+        "user_ratings_total": 1526,
+        "phone_number": "(347) 536-1335"
+    },
+    {
+        "name": "Pappardella",
+        "address": "316 Columbus Ave, New York, NY 10023, USA",
+        "place_id": "ChIJN2DMVolYwokRZ3RY3IbatuA",
+        "rating": 4.2,
+        "user_ratings_total": 1530,
+        "phone_number": "(212) 595-7996"
+    },
+    {
+        "name": "La Caridad 72",
+        "address": "130 W 72nd St, New York, NY 10023, USA",
+        "place_id": "ChIJo_O_AchZwokRW5SZhYoWjJ4",
+        "rating": 4.8,
+        "user_ratings_total": 399,
+        "phone_number": "(212) 970-2838"
+    },
+    {
+        "name": "Tarallucci e Vino Upper West Side",
+        "address": "475 Columbus Ave, New York, NY 10024, USA",
+        "place_id": "ChIJObyMbYVYwokRalcz9VGxvZI",
+        "rating": 4.5,
+        "user_ratings_total": 887,
+        "phone_number": "(212) 362-5454"
+    },
+    {
+        "name": "Chick Chick",
+        "address": "618 Amsterdam Ave, New York, NY 10024, USA",
+        "place_id": "ChIJVbsIFZVZwokRHGQifEDV3SU",
+        "rating": 4.6,
+        "user_ratings_total": 425,
+        "phone_number": "(212) 799-1026"
+    },
+    {
+        "name": "Hummus Place",
+        "address": "305 Amsterdam Ave, New York, NY 10023, USA",
+        "place_id": "ChIJSSeYnIlYwokRtEGQjesBrL4",
+        "rating": 4.6,
+        "user_ratings_total": 1367,
+        "phone_number": "(212) 799-3335"
+    },
+    {
+        "name": "5 Napkin Burger",
+        "address": "2315 Broadway, New York, NY 10024, USA",
+        "place_id": "ChIJ8U_VmoZYwokR4g5HIK6dYso",
+        "rating": 4.5,
+        "user_ratings_total": 2682,
+        "phone_number": "(212) 333-4488"
+    },
+    {
+        "name": "Barney Greengrass",
+        "address": "541 Amsterdam Ave, New York, NY 10024, USA",
+        "place_id": "ChIJZ996e4RYwokR2kEubU7CVhA",
+        "rating": 4.4,
+        "user_ratings_total": 1523,
+        "phone_number": "(212) 724-4707"
+    },
+    {
+        "name": "Good Enough To Eat",
+        "address": "520 Columbus Ave, New York, NY 10024, USA",
+        "place_id": "ChIJr_284IRYwokR_Ejcc1v_gtU",
+        "rating": 4.1,
+        "user_ratings_total": 1849,
+        "phone_number": "(212) 496-0163"
+    },
+    {
+        "name": "Lokal Mediterranean Kitchen",
+        "address": "473 Columbus Ave, New York, NY 10024, USA",
+        "place_id": "ChIJc7n6cYVYwokRv_AbO5bS33k",
+        "rating": 4.5,
+        "user_ratings_total": 1039,
+        "phone_number": "(212) 595-5554"
+    },
+    {
+        "name": "La Sirène",
+        "address": "416 Amsterdam Ave, New York, NY 10024, USA",
+        "place_id": "ChIJpy_3pohYwokRzoQdVrQiv3w",
+        "rating": 4.5,
+        "user_ratings_total": 420,
+        "phone_number": "(917) 261-5279"
+    },
+    {
+        "name": "Jacob's Pickles",
+        "address": "680 Columbus Ave, New York, NY 10025, USA",
+        "place_id": "ChIJCehOSIRYwokRs4ijKsy1oiI",
+        "rating": 4.5,
+        "user_ratings_total": 7010,
+        "phone_number": "(646) 566-6630"
+    },
+    {
+        "name": "The Smith",
+        "address": "1900 Broadway, New York, NY 10023, USA",
+        "place_id": "ChIJbd5El_VYwokRFEtA5j2r7Ls",
+        "rating": 4.4,
+        "user_ratings_total": 5295,
+        "phone_number": "(212) 496-5700"
+    },
+    {
+        "name": "The Wolfe",
+        "address": "425 Amsterdam Ave, New York, NY 10024, USA",
+        "place_id": "ChIJ7bVx_8RZwokR1CtZHxbP4vg",
+        "rating": 4.6,
+        "user_ratings_total": 175,
+        "phone_number": "(646) 876-1004"
+    },
+    {
+        "name": "Haven",
+        "address": "226 W 79th St, New York, NY 10024, USA",
+        "place_id": "ChIJJUh2zMdZwokRwsVawXLRU3s",
+        "rating": 4.5,
+        "user_ratings_total": 142,
+        "phone_number": "(646) 609-1059"
+    },
+    {
+        "name": "Playa Betty’s",
+        "address": "320 Amsterdam Ave, New York, NY 10023, USA",
+        "place_id": "ChIJK5VpoYlYwokRzzsrtQ0hmOM",
+        "rating": 4.4,
+        "user_ratings_total": 3163,
+        "phone_number": "(212) 712-0777"
+    },
+    {
+        "name": "Song’e Napule Upper West",
+        "address": "464 Amsterdam Ave, New York, NY 10024, USA",
+        "place_id": "ChIJTeQ7Fv1ZwokR5tX0TbUtW_I",
+        "rating": 4.7,
+        "user_ratings_total": 443,
+        "phone_number": "(917) 472-7561"
+    },
+    {
+        "name": "The Viand",
+        "address": "517 Columbus Ave, New York, NY 10024, USA",
+        "place_id": "ChIJL2hSIIVYwokRCSu36-UOVF0",
+        "rating": 4.3,
+        "user_ratings_total": 760,
+        "phone_number": "(212) 362-3333"
+    },
+    {
+        "name": "Tavern On the Green",
+        "address": "Central Park, W 67th St, New York, NY 10023, USA",
+        "place_id": "ChIJKy5pv_RYwokRBaqWbokKqOc",
+        "rating": 4.4,
+        "user_ratings_total": 7738,
+        "phone_number": "(212) 877-8684"
+    },
+    {
+        "name": "Shake Shack Upper West Side",
+        "address": "366 Columbus Ave, New York, NY 10024, USA",
+        "place_id": "ChIJq3tH0I5YwokRfL6Y8j8E6DM",
+        "rating": 4.2,
+        "user_ratings_total": 8315,
+        "phone_number": "(332) 222-3422"
+    },
+    {
+        "name": "Parm Upper West Side",
+        "address": "235 Columbus Ave, New York, NY 10023, USA",
+        "place_id": "ChIJOcB1BotYwokRDAfplGJHyTM",
+        "rating": 4.2,
+        "user_ratings_total": 1674,
+        "phone_number": "(212) 776-4921"
+    },
+    {
+        "name": "Crave Fishbar Upper West Side | Raw Bar & Seafood restaurant",
+        "address": "428 Amsterdam Ave, New York, NY 10024, USA",
+        "place_id": "ChIJqztVA4ZYwokRiLK8Lzh7_sk",
+        "rating": 4.5,
+        "user_ratings_total": 810,
+        "phone_number": "(646) 494-2750"
+    },
+    {
+        "name": "Hi Life Bar & Grill",
+        "address": "477 Amsterdam Ave, New York, NY 10024, USA",
+        "place_id": "ChIJyTJKxYVYwokR6Xgqq38yAi4",
+        "rating": 4.4,
+        "user_ratings_total": 779,
+        "phone_number": "(212) 787-7199"
+    },
+    {
+        "name": "Bella Luna Restaurant",
+        "address": "574 Columbus Ave, New York, NY 10024, USA",
+        "place_id": "ChIJkf3PqpxYwokRZlk0ie5vk2c",
+        "rating": 4.4,
+        "user_ratings_total": 807,
+        "phone_number": "(212) 877-2267"
+    },
+    {
+        "name": "Bustan",
+        "address": "487 Amsterdam Ave, New York, NY 10024, USA",
+        "place_id": "ChIJk_8RzIVYwokR99bOICh18j8",
+        "rating": 4.5,
+        "user_ratings_total": 731,
+        "phone_number": "(212) 595-5050"
+    },
+    {
+        "name": "The Dead Poet",
+        "address": "450 Amsterdam Ave #2, New York, NY 10024, USA",
+        "place_id": "ChIJ02dcCoZYwokReJRvMFYrq-8",
+        "rating": 4.5,
+        "user_ratings_total": 1047,
+        "phone_number": "(212) 595-5670"
+    },
+    {
+        "name": "Water & Wheat Upper West",
+        "address": "2418 Broadway, New York, NY 10024, USA",
+        "place_id": "ChIJNzxnVXlZwokRAkzhCqiIrtQ",
+        "rating": 4.5,
+        "user_ratings_total": 19,
+        "phone_number": "(646) 386-7424"
+    },
+    {
+        "name": "Jin Ramen Upper West Side",
+        "address": "462 Amsterdam Ave, New York, NY 10024, USA",
+        "place_id": "ChIJc71Q34VYwokRARHW9df6Zgs",
+        "rating": 4.4,
+        "user_ratings_total": 1659,
+        "phone_number": "(646) 657-0755"
+    },
+    {
+        "name": "Da Capo",
+        "address": "322 Columbus Ave, New York, NY 10023, USA",
+        "place_id": "ChIJFfd0TolYwokRNGGQO3ualC4",
+        "rating": 4.5,
+        "user_ratings_total": 483,
+        "phone_number": "(646) 882-0197"
+    },
+    {
+        "name": "La Grande Boucherie",
+        "address": "145 W 53rd St, New York, NY 10019, USA",
+        "place_id": "ChIJ58OtM8pZwokRbd6DT6gcVys",
+        "rating": 4.6,
+        "user_ratings_total": 8449,
+        "phone_number": "(212) 510-7714"
+    },
+    {
+        "name": "El Fish Marisqueria",
+        "address": "155 Amsterdam Ave, New York, NY 10023, USA",
+        "place_id": "ChIJs2_eoNBZwokR774H9Y29ANg",
+        "rating": 4.6,
+        "user_ratings_total": 274,
+        "phone_number": "(212) 874-2000"
+    }
+]

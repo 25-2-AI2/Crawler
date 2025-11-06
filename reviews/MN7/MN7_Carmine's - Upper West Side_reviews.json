@@ -1,0 +1,628 @@
+{
+    "name": "Carmine's - Upper West Side",
+    "place_id": "ChIJrXva_oJYwokROtv_EdGJgH0",
+    "grid": "MN7",
+    "address": "2450 Broadway, New York, NY 10024, USA",
+    "rating": 4.4,
+    "user_ratings_total": 6881,
+    "phone_number": "(212) 362-2200",
+    "reviews": [
+        {
+            "date": "17시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tnMVpXaHhObEZTVFVwdFMydFpjVEZCTW1GTFRYYxAB",
+            "text": "I had the absolute pleasure working with Sofia to help organize my party of 20+ and it was perfect. She was so helpful and patient helping me along the way. The portions are huge and our very friendly servers made the entire experience so welcoming and warm. Whatever the occasion might be, Carmines UWS, serves and delivers!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKalVIVlpaaTFFTmxCNFFYWmpWRnBPYlRkTlYxRRAB",
+            "text": "The whole meal felt harmonious and joyful."
+        },
+        {
+            "date": "3일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KTk5XZDVSVTlXTkU1MWJGSmZOWGRsZGpoT2VGRRAB",
+            "text": "Un clásico para nuestra familia. Siempre celebramos aquí cumpleaños y aniversarios. Excelente comida, ambiente familiar y deliciosa pasta. ¡Muy recomendado! 👏🍷"
+        },
+        {
+            "date": "5일 전",
+            "language": "ca",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkSE0zaGtVVnBUTkZOa05HVTBia0pFYmtOblVIYxAB",
+            "text": "En algun moment senties que havien d’entrar els capos de la màfia. Sí, és un clixé, però aquest lloc tan autèntic ben bé podria ser un escenari de peli. El menjar és casolà i boníssim, amb racions familiars gegantines que tant se val si són per un o per cinc. Brutal!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SNVZUSjZOMTlVU2tGdWNsWmZWMUZtWTB4MmVsRRAB",
+            "text": "Great atmosphere, lots of food served family style. The seafood is to die for!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "nl",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kVFJrWlJZelpzV0ZNeU4xTkRVRlp5VUZCQ1JrRRAB",
+            "text": "Top tent! Authentiek restaurant met grote Italiaanse porties om te delen! Aanrader!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkUE1VTkJWSFZGZERkU2Eyd3djalJpTWtOU01FRRAB",
+            "text": "The portions are family size"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xab1R5MVdURlppWkRWNE5FdFVSak5ZYjBFMlMyYxAB",
+            "text": "Volvería mil veces! La comida, el sazón y la atención son 20/10. Super recomendable"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wZlptZEJhRVJyVTI4NWVHeFhYM3B0YUdjdFRVRRAB",
+            "text": "Loved, loved, loved it!!!  Worth the hype"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5VGMxcDZSM1pwZEhkWU4xbFhUWEJWVW1obGIwRRAB",
+            "text": "i always have a fantastic time here tonight my server was Kenny, totally great time! I’ve been coming since i can remember and have never had a bad experience. the hostesses were super accommodating and welcoming! 10/10"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCa1RUYzFSRmg2VTFkM1EzSTRObkkxWnpOUFVrRRAB",
+            "text": "Great Italian food & large portions, great for sharing."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWVE4zQlZRa3RmYzFoSFowUkJZM2xhV0V0ek5FRRAB",
+            "text": "When another diner said that their food was not good, I thought they are crazy. Until I tasted my food. I did not ever imagine that I would not enjoy my food from Carmine's, but here we are. The food was not hot, too salty, and tasted as if I purchased it from the average pizzeria. I was incredibly disappointed. I will not go back to that location."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5ZmJEWjVSekpNV25aQ1duVldjbmRGUWxkVFMxRRAB",
+            "text": "NYC classic.\nGood family style eating, good food.\nService can be spotty."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0TWFuWTFlSGxKVmtnelRsUmxWRTFRWWpocWFFRRAB",
+            "text": "Exceptional experience at Carmine’s! The food was absolutely delicious, the sangria delightful, and the ambiance fantastic—making the birthday celebration truly unforgettable"
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmMXBDN2F3EAE",
+            "text": "Best Food&Atmosphere 🙂"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4UkxVc3hkbVIyWmtkVU1USkJTWEZqVlV4RU1FRRAB",
+            "text": "Food was below average. Bread was bland, butter was hard to spread, Calamari was drenched in oil and extremely soggy. Garlic bread felt like cheese toast straight from the microwave, marinara sauce was too watery and chicken parm was just weak. Our server was great and we were seated promptly. We have been there a number of times but this time it was just not a good experience. I hope they are open to some constructive feedback and will check to see what went wrong."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210UGJGWjZSMmQ0ZFhVNGNtMWhVRXh4WmxWUVFrRRAB",
+            "text": "Great place for family dinning the Italian way large portions of everything they serve, they are no small plates in this place. Has this beautiful ballroom dinning area."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCbWNHRndaa1ZQTFdOTWIxZDNjMFpIUWsxdk5GRRAB",
+            "text": "Get the cheese bread. OMG"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0VWNtNVZWbmwxTjBScFJHbHZhVFZsVWpkQk4zYxAB",
+            "text": "I brought my own cake and celebrated my birthday with a friend at Carmine’s. The food was amazing, and both the waiter and waitress were super kind and attentive. I had a wonderful time and would definitely love to visit again!"
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkUVVWQXplalZFUTJobmVtOVlUSFpaVEc1T1pHYxAB",
+            "text": "Raciones enormes!!!, el servicio super simpático y el ambiente de restaurante antiguo muy bonito"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twdFRHOW5RVWRPVDNoalUxTjJXa1JqZGxscmRYYxAB",
+            "text": "I went to Carmine’s my first time in NYC with a party of two. Definitely too small for their massive shareable portions. I went back today for a birthday celebration and Joe went above and beyond to accommodate all of our table’s needs! Thank you Joe and thank you Carmine’s! We’ll be back again soon :)"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xReVpVOW9VbUY2VVZGMGNsVjVXRkJoVGkxTGNuYxAB",
+            "text": "A-plus food and service"
+        },
+        {
+            "date": "3주 전",
+            "language": "pt",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taNmNtcEZjVkp6ZDJOR1gwSmFYekZoYkRkaVZuYxAB",
+            "text": "Comida top.\nAtendimento ok.\nPreço ótimo."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGSWVWbEhkV2xrUjNreWQzUTFMV3RZV0ZvMWNFRRAB",
+            "text": "Excellent food and experience"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Wek1WOWhiSEpVVEU5dGNEaElZbGw0ZERReFdVRRAB",
+            "text": "Recomendado por Elvira Lindo. Raciones inmensas. Muy buena atención al cliente. Espaguetis boloñesa muy buenos. Tiramisú muy grande calidad regular."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "pt",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNpMnBQZ2FREAE",
+            "text": "O melhor restaurante de Manhattan na relação qualidade e preço, com pratos que dão para três pessoas. Os copos de vinho são horrorosos, mas as massas e a carne são saborosas."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGbVIxaG1TVWQ0WjJWTWN6QkdWVzB5ZUd4UWFVRRAB",
+            "text": "Food was great. Joe was super accommodating. The food he recommended was all fantastic. He was able to get our food out faster since we had somewhere to be. Overall, great place and we really enjoyed the food."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ONVQwOUZWakU0TFRSRVFWaFVWMWhqZVU5MVMzYxAB",
+            "text": "Joe did a great job serving our large group before we headed to a Yankees game. Great food. Great service. Big for sharing servings. Highly recommend"
+        },
+        {
+            "date": "1달 전",
+            "language": "nl",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sRE55MURUMFpGWkZkblkyWnBSVUZ4UVhkMFJtYxAB",
+            "text": "Wat een geweldig leuke tent is dit. Super lekker eten, veel vooral maar alles kan je samen delen met elkaar. Hele leuke sfeer, en fantastische bediening. Zeker een aanrader."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCSU1FWlpPVTg1VVMxRk5sOUVTbGh4VVVKd1lsRRAB",
+            "text": "Everyone and everything ❤️ was special  the cake was the only wonk wonk"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21saFVEQlpTR050Wm5jdFVIZEdUSEZIU25SME5VRRAB",
+            "text": "Always been one of my favorite places to eat amazing family size portions food has tasted consistently the same for the last 20 years highly recommended for anybody traveling to the upper west side of Manhattan. Highly recommend the Caesar salad baked clams and porterhouse contadena"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aVE5GVjBRVXBpWlRoSFVYSXdPVXgyU25sd1pYYxAB",
+            "text": "I’ve been to both locations and neither disappoint! Great for large groups and families. All plates are meant to share!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pnMmMyVkZUbVZwYzA5bmVVRkNVaTFsU0VkVVFuYxAB",
+            "text": "Our experience at Carmine’s was truly top tier. We reserved the private room for a 50th birthday celebration, and it could not have been more perfect. The servers were exceptional—attentive, professional, and warm. The food was outstanding, and every guest left raving about the service and atmosphere. Carmine’s made the evening unforgettable!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Kak1tRldNbEU1T0RoYU0zazVkemxGY0RSVVZHYxAB",
+            "text": "We have loved Carmine's for years using it as a go-to for special family occasions.\nWe visited for the first time in 5 years and were not disappointed.\nThe food was always a 5 for me, but the calamari wasn't up to their usual exceptional level and the spiedini was breaddy and not as good as I remember."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5WlNITndlbGxDTjNWWllraGxRVmxmWjJscFpuYxAB",
+            "text": "We got served with bad smelling baked clams that’s not fresh. They acknowledged it and took it off the bill. The ladies room weren’t clean. Quite disappointed since we dine and celebrate milestone occasion at this location."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFeVJIazFhVkF5ZW1SNFRVeHVSSGxEWmxSMU9FRRAB",
+            "text": "Great Authentic Italian Food. Famiky Style Eating Really good Drinks.  Great Staff on Hand."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25vNU5rMDVVbEZ5WXkxdFZEQTFjblpvU2pGZlpWRRAB",
+            "text": "I've been here a couple of times and I've never ever been disappointed. The lasagna is too die for and the mussels is exquisitely delicious. You must go here."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tObldXZ3pTblJ3ZWtORVVFRm5UMlppYUZGdlFVRRAB",
+            "text": "Great Italian food in the upper west side. Highly recommend the shrimp Parmesan and calamari. Also, the cannoli was fantastic."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sVVFtSm5NRGhDV1doRVYxcGtRVzB6V2xKSGFIYxAB",
+            "text": "Been going to Carmine's since 1991. Great family style restaurant. An iconic NYC place. Happy 35th Anniversary."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OclJWUkxTRVJEU1RVdGVVeGpkbmRWVTFsWVVIYxAB",
+            "text": "Great food great atmosphere A++"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoRE5XZG5SRzl6VG5KelIwZFFaazkwUjJsNGQxRRAB",
+            "text": "Fantastic experience. The hospitality was exceptional. Our server Spencer made everything seamless. Highly recommend the Porterhouse Steak!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSa1ZHZEtSVGxETlZoUVFVTTVUbXhoTFU1NmIxRRAB",
+            "text": "I love the family style dining, them amount of food they provide will guarantee leftovers for days"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oTGNIRmZaVXBCV0VGSWRtTTNZelZ6WVZKdFEyYxAB",
+            "text": "I normally don’t take the time to write reviews, but in this case I had to share how awesome our experience was at Carmines in the upper West side!\n\nWe hosted a dinner the night before my son’s wedding for almost 40 of us.  It was fantastic, the service from the moment we walked in, along with the food, and the ambiance were 10 out of 10!\n\nThank you so much to the whole team for making this so special for our family visiting from out of town !"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wbk9FTjJRWGxJYWxnMmIzVnVORVUzVWt3dFdsRRAB",
+            "text": "CHICKEN SCARPIELLO, ALL I HAVE TO SAY.🤌👍"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tka1JVZEViM2gzVTBkUGNXOTNZM0J5V25KQ1QyYxAB",
+            "text": "Excelente!!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21vdFdsSjRaamQwV1dVNGJFNXdZakZtYVc5RGFrRRAB",
+            "text": "Decor emphasizes wood and nature-inspired details"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ocFgzTnpVMFZ5YmxsSFREZHZUalJKWXkwNWFWRRAB",
+            "text": "A visit to Carmine's is a classic New York experience, and if you're looking for an unforgettable family-style Italian dinner, this is the place to be. I recently went to the location in the Upper East, and it was everything I expected and more."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKeU5VdHVMV2xQTjB4SE1YaGhUREZmWWpRdFZYYxAB",
+            "text": "Been coming here for 20 yrs this place has totally declined  from food to service last 2xs food was gross service even worse  so disappointing"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSd1VXbDBhazlxV0dRd2VWbEljRnAzTURKaGRuYxAB",
+            "text": "Great food and service.\nIt's a loud restaurant,  but it's big so it's expected."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205R1ZERlJkSGxUYm5sWmFGcExRek5hZGtGaFMxRRAB",
+            "text": "Everything changes with time but taste and authenticity should not. I don't know if ordering near closing is what had an effect on the outcome of my order. However, when you've had Italian food and don't taste certain ingredients that are customary to Italian Cuisine.\nIn addition, viewing comments that have not received feedback from Management something is wrong."
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHMTZEWnp3RRAB",
+            "text": "Classic party restaurant.\n\n가족행사나 기념일을 위한 음식점입니다.\n혼자서는 가지마세요^^\n양이 엄청나서 혼자 다먹을수가 없어요.\n한국분들이 생각하시는 느낌의 고급 이탈리안 레스토랑이 아닙니다.\n양이 많고, 집밥 같은느낌의 연회장같은 곳이라서\n커플 기념일이라면 다른곳으로 가시는게 좋을듯합니다.\n애기 생일파티나 많은 인원이 모일때 가시는것을 추천드립니다."
+        },
+        {
+            "date": "수정일: 6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRc29XRlRBEAE",
+            "text": "씨푸드 양도 많고 맛도있고 단체로도 좋아요"
+        },
+        {
+            "date": "8년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBbzRHMkpREAE",
+            "text": "맛은 있는데 너무 시끄러워서 ."
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzczZfVlh3EAE",
+            "text": "서비스+양 지림"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0bUxYQndjRmRFTVRoaVFVOHROVm8yYTNVNFQxRRAB",
+            "text": "Alex, our server is 10/10 awesome! Very good service. Made sure we got our water pitchers refilled and bread basket full! The food was amazing, wished we had more stomach space to order more. We had a very special request for him to help decorate our friend's birthday cake with decorations we brought. Without any instructions or context he and the staff delivered!!! They helped make our friend's special day even better and I am truly thankful to Carmine's staff and Alex. Im posting a picture of how seriously they took our request 🤣 will definitely come back."
+        },
+        {
+            "date": "3달 전",
+            "language": "pt",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5WU1rSjNiRnBSVlRSSWJXTXdTV2Q2VEVKR1lVRRAB",
+            "text": "Que lugar espetacular pra quem aprecia uma boa comida italiana com um preço justo. Tão encantador que me fez ir duas vezes na mesma viagem ao local.\n\nNa primeira comi a famosa lasanha deles que com certeza comem 3 pessoas. Na segunda vez pedi o ravioli de queijo com molho pomodoro. Um absurdo de bom.\n\nEu particularmente sou fã de um bom chopp gelado. E fui isso que bebi. Pedi o chopp peroni e estava na temperatura ideal e também vem bem servido.\n\nComo não estávamos no pique de esperar a fila e não tínhamos reserva, optamos por sentar no bar e comer e beber ali mesmo. Diferença nenhuma. O atendimento é excepcional igual a quem está no salão.\n\nVoltando a NY certamente voltarei ao Carmínes."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKQmR6TTNZblJNVDB0aVNXbDJOakp1WDBkV0xVRRAB",
+            "text": "I have an amazing experience at Carmine's in New York. My cousin introduced me to this restaurant. Atmosphere, excellent Waiter, friendly staff. The food was out of this world. You only need to order one entree you could feed at least three people I have leftovers for two days. I would gladly come back to this restaurant anytime I'm in New York Highly recommend it"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VNV1N1dHItaXQ3QVJBEAE",
+            "text": "We went here with a group of 9 for a late dinner and it was very nice. We order clams for an appetizer, Spaghetti & meatballs, Chicken Marsala, & Shrimp scampi. All the food was good except the shrimp scampi could use a bit more sauce and flavor. The meatballs have been added to my top list. Our server was personable. This is a family style restaurant so all the portions are meant to be shared. I will definitely come back to this restaurant at this specific location and others. I will also recommend it to others."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvaDZ1LTJRRRAB",
+            "text": "Maybe my favorite Italian restaurant in the City.  The atmosphere reminds me of a New York City apartment in the 30s or 40s of an Italian immigrant family, the aesthetic goes perfectly with the family style food service.  The family style service goes down perfectly when you come as a group.  This time, I came with 2 other people.  We order their Caesar Salad, Garlic Bread (half with parmigiana cheese), and Chicken Parmigiana with Penne.  I have to give it up to Carmine’s they have one of the best Caesar Salad I have ever tasted.  The garlic bread is always fresh and this was the first time I tried it with cheese, which was a nice touch.   Next up was the Chicken Parm with Penne which was so tasty and flavorful.  Lastly we grabbed homemade cannolis for dessert, with coffee. Which was a great way to cap off an amazing meal and like always when I come here we all left with doggy bags because we were not able to finish all the food they served us."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kcGVERkpjV294WWtGMlNsbDViRTlmWkhaQmQwRRAB",
+            "text": "I have visited Carmine's in 15 years -- I had memories of here a long time ago despite being a kid. Service was actually one of the best I have experienced in New York also with a cheerful and family vibe in the restaurant. The portions are still very very large. A party of three had a hard time finishing 70% of two dishes, so please consider if you are visiting with a smaller party. Caesar's salad with anchovies is great and flavorful while Rigatoni Country Style was a new menu to me but still delicious. Also had their Colada and Cosmo (frozen) cocktails and they were also good."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjMlgyVmxhRlJEZW1vNU9IWjZWREpEUjBkb2FIYxAB",
+            "text": "Delicious food and nice atmosphere. It’s family style portions. We had the mixed seafood linguine along with a glass of the house red wine. The food was prepared fresh. Our dish had the right amount of seafood. It was flavorful and tastes very good.  Our wine complimented our dish perfectly. We met one of the managers, Gabby who was very welcoming and friendly. She came by to make sure everything was to our liking. Great place for a special celebration. A must try !"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMX3dvYlB0MmFyWVRBEAE",
+            "text": "The food was delicious. You get huge portions enough to share with more than 1 person. Our waiter Chris (with tattoos) was amazing. It was Our first time and he made us feel welcomed and explained the menu to us. The fly me to the moon margarita was perfect. I loved everything about this place. We will be returning whenever we vist NY again."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBM1FtTlNYelZ3Wm5KNWFqRkpSMnRRVUhWWU9HYxAB",
+            "text": "first time visiting and blown away by portion size ! they are very generous on family style portions. great wine selection and great service surrounded by hundreds of photos and history. also impressed w the bar, plenty of room on a busy night."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOYWs0LWZwb3FmckpnEAE",
+            "text": "We love Carmine’s and used to eat here all the time when we lived in the City.  This time, we ordered food to go and from start to finish it was error free and delicious.\nWe ordered online, arrived early and decided to have drinks at the bar.  At the time of pick up, the order was ready - hot and so well packaged!  Such a successful meal!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPU3NwSWpGbXBXMjlnRRAB",
+            "text": "If anybody knows me, they know how much I love carmines ! This by far my one and only favorite Italian restaurant in all of NYC plus this is my favorite location. Great restaurant for good parties and/or any celebrations. I've spent the last couple of years coming to carmines religiously. Please don't miss out on the opportunity to dine at Carmines !\n\nAlso, highly recommend my favorite drink; \"Fly Me To The Moon\" ‼️"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kWmRuWjRSVzVrTUZocGVGOUJlbG96WW5Wd1VWRRAB",
+            "text": "I’ve been ordering through their website delivery for years and have always been satisfied. The food is consistently delicious and great for large orders. Recently, the portions seem a bit smaller, but still worth it."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSRlRuaGhSRFI0YlRka1lqTmxUemRJT1hSWmNtYxAB",
+            "text": "Second time visiting. Disappointed because the first visit was amazing so I was excited to try again. Visited the Times Square location after a Broadway Play. The waiter was horrible. He seemed to get impatient when I asked him questions and what he suggested on the menu. I had to return the dish I ordered. It looked good however, It had no taste or flavor. The manager was extremely polite and put in another order for me. The bartender Carlos was amazing. I should had stayed and ordered at the bar with Carlos. Not sure if I would visit again or recommend."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZa3ZYWFF3EAE",
+            "text": "We have years dining here, but we decided to  celebrate my husband’s birthday at Carmine’s and had a fantastic experience! The whole experience was superb.  Sarah took our reservation on short notice and most importantly, Sarah accommodated all of my requests. The atmosphere was warm and lively, and the food was delicious as always. What really made the night special was our waiter—he was absolutely excellent. Attentive, friendly, and made sure everything was perfect from start to finish. Kenny is amazing and super attentive. We truly appreciated the great service and will definitely be back. Highly recommend for any special occasion! The you so much! The vibe has been on an level since the last time I visited!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5bGJYSlZRbVp6TlRFMGIzZFRiRWRqWDJKTGNsRRAB",
+            "text": "Celebrated my dad’s birthday and the staff went above and beyond to make it memorable for him.\nEverything we ordered are delicious and good for the price. We were all full but still have leftovers to take home."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSd1JXdHVUalJTWjA1NWFtWnBaMnRmTlRCNFlsRRAB",
+            "text": "Authentic family style Italian food. Nice atmosphere, great service and decent prices, they have been around for a while."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oclNVRlNXVTVEVVhoTVgyUTNiazlzU21kRFZXYxAB",
+            "text": "Wow! The service, servers and food here were amazing. I would like to thank our impeccable waiter, Alex, that truly went above and beyond for us. Additionally the staff that took the time to decorate our friend’s cake with our special request. I cannot recommend this place enough! This was our first time here and it definitely won’t be our last!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvNlBpbERnEAE",
+            "text": "Despite having to sit and serve a family of 16, this restaurant went above and beyond for us. The food was phenomenal and the atmosphere was great. I'd love to go again!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1Vk1YQnZORGRYVlU5cFRHZHdPRlE1WVdKaU5XYxAB",
+            "text": "The experience here was pretty amazing! You can choose from different giant dishes, and if you have food left over, they will pack it up for you to take away.\nOverall: perfect."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnOGFmdHdnRRAB",
+            "text": "Love this place! Service is always fast and nice our waiter was amazing and very helpful. Even with a busy packed restaurant the service was great. The food is family style dishes so they are very big but, everything is so good to share! The vodka sauce was amazing will definitely be back."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBemRxclVBEAE",
+            "text": "First time here and I absolutely loved the place the minute I walked in, staff were so super friendly. Our waiter was amazing I believe his name was kelvin very helpful and attentive. The food was absolutely delicious. The portions are enough for you to take home and eat the next day. I had a great birthday here! 🥳…"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNeVFYUjVRV2xJVGkxNVkwRnVlRGRVWVRSalpXYxAB",
+            "text": "A great place to get lunch before the show for us. Incredible service & family style food service for our table of 11. Definitely we will return."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzcW9MQVR3EAE",
+            "text": "I recommend making reservations if you’re going during weekends and during special occasions. Came here during the marathon weekend and it was packed! Otherwise, this location tends to have openings compared to Times Square.\n\nSuper big portions (family style) and good food. I highly recommend the antipasti selection. Can’t really go wrong with anything on the menu."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VQV3ozNWVqOFlxYjZBRRAB",
+            "text": "We had a Mother's Day Brunch and all that attended had a great time.  We will definitely be back for another event.\nThank you."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNubmQ3VGhBRRAB",
+            "text": "Wowwww each plate is large enough to share. It was so much food we had to pass on desserts. The wait staff and manager were amazing constantly checking on our table.\n\nThe manager even cleaned off plates from the tables which is amazing because normally managers stay in the back and it was great to see the interaction with everybody in the restaurand that she supported her staff by actually helping clear off tables and talking to the guests.\n\nI give this restaurant 10 stars, and I highly recommend it. We will definitely be back.\n\nOur waiter was awesome and took the time to explain how large the dishes are so that we did not overorder are food?There were 6 of us.We ordered three meals and we still had tons of food left over."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aeVVXSXpWMGhyUlhSR1pXUkJORXA0WldKNlZsRRAB",
+            "text": "Great family style Italian restaurant on the upper west side. 2 of us split the shrimp and pasta in white sauce with much left over. Great food at great prices."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201bFVrdE1WbTh3Tnpobk9ESkpiM05WZG5sVU4yYxAB",
+            "text": "My wife and I had previously eaten at the Times Square location a few years ago and enjoyed it. We recently got back from a trip to NYC and ate at the Upper West Side location with our son and his fiance, wanting to share the experience with them. Here's how it went.\n\nPROS:  The food was really good and there was plenty to eat between the four of us. We also like the atmosphere and the complimentary bread is fantastic. The price was reasonable considering the amount of food you receive.\n\nCONS:  Service, service, service. Our server, Alex, was initially attentive and all was going well early on. However, once we got our food we never saw Alex again. Well, we did see him, but he never returned to our table. Our water pitcher ran dry about halfway through our meal and was never refilled.\n\nThe longer this went on the more irritated I became. I tried to get Alex's attention three times, waiving my arm in the air and actually yelling his name. He looked at me directly and either ignored me or just looked through me. Either way, he never acknowledged and never returned. 40 minutes after we had finished our meal I was trying to just get our ticket, but again Alex would not acknowledge me. FINALLY, he came up behind us and placed the check on the table.\n\nWhat is disappointing is I actually reached out to the management via their website the day after our return. Over a week later and I still have not gotten a response. I do not enjoy leaving negative reviews as I would rather not say anything. There is so much competition in the service industry that customer service can really separate one restaurant from the other based on how they treat their customers. I'm just disappointed that our concerns were never acknowledged, as if they don't care."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkTWVIUlBZekpEUnpWQlIzRTRUVFpKWlROWVpGRRAB",
+            "text": "Carmine’s\nEst. 1990\n\nLayout/atmosphere\n*Bar area with TVs; to left of entrance is takeout area for Carmine’s & Virgil’s; up the stairs is a dining room; behind the bar is Carmine’s “Little Room” (another dining room); tables on sidewalk\n\nFood/drink\n*Chicken Parmigiana with Rigatoni - Good; two cutlets but huge portions; pasta served Al dente in marinara sauce"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMaWU2OEFREAE",
+            "text": "Love this place. Went for my birthday after the Guggenheim on a Tuesday at 5 PM. Danielle the server was great as was her support. Same with Crystal, the hostess. Huge portions for 3 people. Shared chicken Parmesan, lasagna and garlic bread with mozzarella. Will be back next time I’m in NY! Just wish they had craft beer!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGejhmYlRnEAE",
+            "text": "This was one of the best Italian food places I've ever dined at. The portions are amazingly big! The Vodka Sauce Pasta dish was delicious! The salad was tasty and fresh! The variety of included bread was mouth watering. The service was pretty good. I enjoyed my dining experience here and the location was perfect before seeing our Broadway show."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURueExTd3RBRRAB",
+            "text": "Carmines Upper West Side 91st Street on Broadway is a great place for larger groups to enjoy Italian cuisine.  The menu has all of the basic Italian food dishes. The selections are served family style. I think this adds to the conversation and family friendly atmosphere. The food is remarkably well prepared. I thought the spaghetti carbonara was excellent. It can be a difficult dish to get right. Some restaurants will take shortcuts that will impact the flavor of this gourmet dish. The rigatoni bolonase was ok. The Carmines salad and the cold antipasto were both wonderful dishes. My guests commented that they should not have filled up on the bread! The bread is very moist and tasty. However, the salads and the main dishes are pleantyful. I will repeat the advice from my guests. Do not fill up on the bread! Carmines is not a first choice for quiet dinnertime conversation! The place is full of chatter from the other tables. You will hear people singing happy birthday mixed with general crowd noise. Yes it can be noisy at times, but it is a happy noise that doesn't seem to get in the way of nearby conversation.  All in all, the food was delicious and the experience for my first time guests was a pleasant one. They were very happy with the food and the dining experience."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOMVFtMVJhRjlxTFVvMlYyUlphRGxsUVcxaGNFRRAB",
+            "text": "Went on a date here to celebrate and had a fantastic time. Our server Jake was well-informed about the menu and gave us excellent recommendations. We were told that the meals would be family-sized and to expect huge portions. Although we were skeptical, when the food came out we were more than happy to rest our eyes on our big plates of food.\n\nThe staff were so all so welcoming and nice. Our server Jake was so nice, respectable, and attentive. The food was amazing. Would def come back again!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvMVdGTnBOR0ZOT0ZKMU9FRk9lWEV4TlVGU01tYxAB",
+            "text": "SAVE YOUR MONEY – Carmines Is Not What It Used to Be\n\nI would give them one star, but out of courtesy for the waiters attempt to fix our frustrating dinner, I’m giving them two.\n\nMy boyfriend and I stopped in for a quick dinner—just a simple penne alla vodka. He was visiting from out of state and had never had genuine Italian food before. Unfortunately, Carmines was a big mistake.\n\nWe asked for grilled chicken over the pasta, and the kitchen served us dry, overcooked, bland chicken—twice. After the first time, I spoke to the manager, who said they would cook the chicken on the side to avoid it overcooking from the heat of the pasta.\n\nBut when the waiter came over, things got more confusing. He told me that “only old people eat al dente,” and claimed the kitchen was changing the entire recipe, which left me confused and unsure of what I was even getting. The manager later confirmed that they had in fact changed the recipe—although all we ordered was penne alla vodka with grilled chicken on the side the second time around.\n\nIn the end, we received two dishes with bone-dry chicken. We were frustrated, tired, and just wanted the night to end. The manager did try to offer a dessert to make up for the experience—even though we politely declined—but the gesture felt too late after an hour and a half of confusion.\n\nThe waiter and a single espresso martini were the only things that saved the night.\n\nAnd yes, we still paid $30—plus the cost of our mental stability.\nWhat was supposed to be a casual, peaceful dinner became confusing, demeaning, and exhausting."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3bXUzd3FBRRAB",
+            "text": "We had an amazing dining experience at Carmine's Italian Restaurant on the Upper West Side. The food was absolutely delicious, and the drinks complemented the meal perfectly. We enjoyed so much food that we had to take some home! The portions were generous, and everything was full of flavor. We truly enjoyed our dinner and will definitely be returning. Highly recommend for a fantastic Italian meal!"
+        }
+    ],
+    "reviews_count": 88
+}

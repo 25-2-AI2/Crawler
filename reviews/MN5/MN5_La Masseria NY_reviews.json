@@ -1,0 +1,607 @@
+{
+    "name": "La Masseria NY",
+    "place_id": "ChIJjfIegVZYwokRyqdwvzBC27s",
+    "grid": "MN5",
+    "address": "235 W 48th St, New York, NY 10036, USA",
+    "rating": 4.5,
+    "user_ratings_total": 1564,
+    "phone_number": "(212) 582-2111",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200M01VUldTV013YVVaTlNYUlRVbXRGTXpFd09FRRAB",
+            "text": "Delicious Italian food and lovely service. Nothing to fault. Pasta dishes were perfect."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxb05tUjZMV1ZhWDFWZk1WWnRjMnBCYjBoVVNFRRAB",
+            "text": "Food and service were amazing. I particularly enjoyed the stuffed eggplant appetizer, and the ricotta cheesecake (sounds odd, but really excellent and great texture) Don’t miss!"
+        },
+        {
+            "date": "4일 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toMVNGQmpUMjVEWWt0aGJtaFdkR3BsUjNZemExRRAB",
+            "text": "ottima pasta e camerieri gentili e veloci. super consigliato!!"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKR1FWY3RkVGs0VFdWb2NFdExUbkE1TkRkcmVuYxAB",
+            "text": "A gem in the theater district ; service , atmosphere , cleanliness , and food were impeccable. As an Italian American , it must be said that masseria ‘s  meatballs were delicious ."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21keU5uWlpiVkZRY25oVVRrUm1Xams0ZGpaT2FIYxAB",
+            "text": "Vary nice establishment.  Smal which  is to be expected  in NY. Food was vary tasty deff enjoyed."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKcVJVcDBPV1ZFY0ZCSlJYQm9UVUZHTXpCS00yYxAB",
+            "text": "Love it here.  Our go to Italian whether it be for date night, or before/after a broadway show.  Took our 6 year old autistic daughter here as well last year after Radio City Christmas Spectacular and she absolutely loved it as well.  They made her feel right at home and welcomed."
+        },
+        {
+            "date": "3주 전",
+            "language": "iw",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xRFJtZ3hVRTlZTFhKUWJVVk1UMlZDVVc1blRYYxAB",
+            "text": "הכל היה מעולה, חלקנו סלט ופסטה והביאו את המנות מחולקות לשולחן"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205a1ZsaHdVa3BwY25WVmIwRkVNemh3UWpWT2RIYxAB",
+            "text": "Showed up with no reservations but they found a spot for the 2 of us. Service was prompt and courteous, server was very helpful. Food was fantastic as was the wine and the atmosphere."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xYVZVdHFVa2wxVnpoRFprMVRZMVZmZGtSTE5IYxAB",
+            "text": "Cozy atmosphere. Attentive service.  Great food and casual easy going vibe.  Went for pre-theater meal - sat in the upper area.  Lovely experience."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aMlkyUmZZbTVDZFU5NldFNXVRVE14T1VSYWFsRRAB",
+            "text": "Excellent food and service in a wonderful surrounding.  We were a party of six and the restaurant was fairly quiet where you could carry on a conversation.  This is a rare find in the Theater District."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wdlRVTTFXbTA1Y0V4VE1Fd3dUbEoyZFhkTVNIYxAB",
+            "text": "Food was good. Service was excellent. I'm definitely coming back."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKZlRVcE1jSE41VFU5d1NrSmFiRlF5UldSUUxWRRAB",
+            "text": "We had such a great! Our waiter was amazingly attentive and especially for that reason we will be back!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201MU5qUm9jSFo2TXpsV2FVcFJhbE5rVlhNelZHYxAB",
+            "text": "Great service"
+        },
+        {
+            "date": "1달 전",
+            "language": "iw",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oS1ZXbEZibFkzUm10cFJXeG1jamxEZGxCMk5tYxAB",
+            "text": "מסעדה איטלקית ברמה גבוהה,  אוכל טעים מאוד, מאוד נקי, שירות אישי ברמה של התרוקנה הכוס בא מלצר וממלא אותה בלי שתבקש, הזמנו מנת ספגטי בלי בייקון, ובטעות הביאו עם בייקון מיד התנצלו והביאו מנה חדשה ללא בייקון תוך זמן קצר, מנות גדולות-הזמנו מנת סלט אחת ומנת פסטה אחת והם פשוט חילקו לנו את המנות לשניים באופן אוטומטי שלכל אחד תהיה צלחת סלט וצלחת פסטה. המחירים סבירים ביחס לניו יורק, מומלץ מאוד"
+        },
+        {
+            "date": "1달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pad1JWZHljMk15T0cxaGJqRlFURWhsVkdNeFYxRRAB",
+            "text": "Io ed il mio ragazzo abbiamo cenato poche sere fa ed è stato come aver trascorso poche ore in Italia. Cibo ottimo e di ottima qualità. Servizio eccellente, accurato e accorto. Una nota di merito al titolare del locale, accogliente e disponibile, ci ha consigliato diverse tappe per il nostro viaggio a New York. Super consigliato!"
+        },
+        {
+            "date": "1달 전",
+            "language": "ja",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OMFpWRlhiRzE0VDI1SGNsUm1SemhKVFd3NE5XYxAB",
+            "text": "まずすぎ"
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wZlNtMHRUM2hxVm13MWJFOWlRMGt3YVROM2JIYxAB",
+            "text": "Un gran bel ristorante italiano nel cuore di Times Square.\nAccoglienza sublime di Vito, pugliese doc e Pasquale, calabro con accento Siciliano anche lui ottimo padrone di casa e consigliere.\nPasta ottima.\n2 calici di vino bianco di Pecorino e Falanghina.\n2 caffè espressi come si deve...\nConsigliatissimo"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GZlJITnNNMTh4UzBOd1RWbHlRamxJYWtwWFRGRRAB",
+            "text": "Not sure how this place has such high rating - one of the worst meals we’ve had in the past few months. Absolute waste of money. The worst calamari we’ve ever had. So soggy and soft. My pasta was okay. Asked about mocktails. All our server could offer virgin mojito at an Italian restaurant?? Thank you, no. Over $180 for a terrible dinner with a terrible service. Server never checked on us or how the food was. Would never go back here."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jeVJWZGliMk5IV1V4cFJuVkhUVVZmYlRrM2RtYxAB",
+            "text": "Service and food was excellent! Please try the Gnocchi and SCIALATIELLI ALLA SICILIANA, magnifico!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21velRERkNNbWRDY0doTE4zcHpPVGRvVm05M2ExRRAB",
+            "text": "Pretty good overall for being so close to Times Square. The Burrata appetizer was phenomenal. The veal scallopini was an excellent as well. Good service, good espresso martini."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xobGNFNXhNbXBUZERSbmRqaHJNRWQxU1V4TGNYYxAB",
+            "text": "La Masserie is truly a gem. From the moment you walk in, the warm atmosphere makes you feel like you’ve stepped into an authentic Italian countryside farmhouse. The service is attentive and welcoming without ever feeling rushed, which makes the dining experience even more special.\n\nThe food is exceptional — fresh ingredients, beautifully presented, and full of flavor. The pasta is perfectly cooked, the seafood is fresh, and the sauces are rich and balanced. Every dish feels like it was made with care. The wine list is also impressive, with options that pair wonderfully with the menu.\n\nFor dessert, I highly recommend trying the tiramisu — light, creamy, and just the right amount of sweetness.\n\nWhether you’re coming for a romantic dinner, a family celebration, or a night out with friends, La Masserie delivers an unforgettable experience. It’s the kind of place you’ll want to return to again and again."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGQlgxUTRlbTF3T1U1VVFWUnJZbGR3TlRkWVkyYxAB",
+            "text": "Says their open till 12 but actually close at 11. They close their kitchen down early so the staff can be out by 12"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKSlREbEZSRzV3WkZaWE5IWnRTRWhJTjNVeGNXYxAB",
+            "text": "Our favorite spot for a quality meal before a show. Has open air seating and with good weather is great. They’re from Bari and their sauce is delicious. Va bene!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxVlJteGpjM0ZOYkVOUFZ6TnpVbVJCTm5sd2RWRRAB",
+            "text": "can’t you tell we hated it? lol!\nmy family and i came after seeing a show today and it was incredible! my family is made up of proud italian-americans and we were all so impressed with the food and the service! five of the six of us had a dish from today’s special. everyone in the party enjoyed our entire meal and dessert. not a single bite left on anyone’s plate!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOTVNWZzVjbFZ0ZEhSb2FreHROVU5hT1dkbGRuYxAB",
+            "text": "Excellent Italian restaurant for their food, service, wine and dessert! We went before seeing a show which was only 1 block over and parking right on the same street. Will recommend to others.  Thank you LA Masseria!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sdFdrbG9OVzF6U1U0NFZFMVNSRkZrVmxwbGRWRRAB",
+            "text": "Da pugliese posso dire che ho mangiato finalmente bene!\nDopo quasi una settimana di hamburger e patatine, finalmente ho mangiato prodotti di qualità!\nSono davvero contento di avervi conosciuto.\nDoppi complimenti a Johnatan, personale di sala, parla molto bene la lingua italiana e da subito si è messo a disposizione offrendoci un servizio 5*!!\nRagazzi, se il servizio è la qualità sono queste, il prezzo è più che giusto!\nComplimenti ❤️"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvenB1OVdnEAE",
+            "text": "They have a very sophisticated and attractive decor here. While some OTHER Italian restaurants will be closed at 10 p.m., THIS restaurant still has a lot of people dining in it. A complimentary bread basket comes with a small dish of lentils, bread, and bread sticks which are delicious. I tried their salmon with mustard sauce ($39.50), ordered medium. It was served that way, it was moist and I enjoyed it. On another visit there I had their Chicken Paesano. The chicken pieces were not tender. On another visit there I tried their rabbit that came with mashed potatoes and Brussels sprouts. The rabbit ($49.50) had lost a lot of its flavor due to its preparation. The mashed potatoes were very enjoyable, the Brussels sprouts were good. A thin electric candle ads a nice touch to each table. They serve the same menu for lunch and dinner."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OVGRrRnRTamxDU2xkSVkyTlRVME5QWW5ORFVVRRAB",
+            "text": "Great little place near our hotel. The food was\nExcellent and served hot a fresh. We vote for any of the pasta dishes."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205elZqWTFNVTFGWnpCc1pYQk9MVjlJWkRoWlRGRRAB",
+            "text": "Good atmosphere and decor. The waiters kind of hover, though, so doesn't feel as private as it could be. Also, they have like an ENTIRE BOOK of wine. Out of hundreds of bottles, they had ZERO sweet or semi-sweet wines. Seriously? There are…"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjMFptaFdaRkZUYTBWMFZsVkRRa2R3VTFCaGFtYxAB",
+            "text": "Great food! We really enjoyed the pasta and the bread sticks were nice."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkbk0zaDRkRFZpT1djM04yUXpNWFU0WlhWNFpHYxAB",
+            "text": "A delicious and enjoyable dining experience.  A great menu with many good Italian choices all served be experienced and helpful service.  Although loud at times, the ambiance is delightful."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GYVJGTXlObVJEUkRsaE5WWTFTVFE1TlhGV1RtYxAB",
+            "text": "From the warm, professional welcome to the moment we were seated at a perfect outdoor table, we knew we’d made the right choice. Once our server arrived and cheerfully shared the specials, we were certain dinner was going to be a treat.\n\nThe ambiance? Lovely. The service? Absolutely top-notch. And the food—simply to die for. All of this at a price that’s more than fair.\n\nRun—don’t walk—to La Masseria!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214QlJXMHRNa1I2Tm1WNVRWaExiMGhoWVhkSVRIYxAB",
+            "text": "Nothing special. Reminded me of Olive Garden.. damn flies everywhere"
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psVGFGOW5WSE4wYlZOcGRtdHJNMDlvTkVOd01VRRAB",
+            "text": "riquísimo todo muy buena atención del personal"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SSGRFcHRXVWg2UVZWVE1ERTNVMTlVT0Vsa1RrRRAB",
+            "text": "Terrific choice for dinner. Beautiful restaurant with delicious food and excellent service. Our server, Diego, was very engaging and pleasant and knowledgeable. The cocktails were perfect, as was the food. The place is noisy with happy patrons, but not too noisy to have a conversation. Very relaxing, enjoyable dinner. ♿️"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0elprcEZSMjh5UVZCalZIaHZTVmcyVVcxc2NsRRAB",
+            "text": "The reason I’m giving 4 stars is because when I booked a reservation for July 25th, I specifically checked off that the special occasion was a birthday. Then, when the restaurant called to confirm my reservation, they confirmed with me that it was for a birthday. When we got to dinner, we heard the staff sing happy birthday to two separate tables, so we were looking forward to that when we ordered dessert. The dessert came and happy birthday was not sung to the table. No mention of a birthday at all. Just not sure why I was asked multiple times if it was a birthday if the host/manager who sat us was not going to inform the waitstaff. Not only that, but we ordered tiramisu thinking it’d be wonderful at an authentic Italian restaurant and it was pretty disappointing in comparison to the rest of the meal. Overall, a very disappointing end to an otherwise good birthday dinner."
+        },
+        {
+            "date": "3달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201dVozTnFjMHQwZFU0dGVrRldjRWxzTlhSM1ZIYxAB",
+            "text": "Ottima esperienza! Consiglio vivamente, piatti super gustosi e personale simpatico e cordiale"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxUlpXSm5SMHhwYjFGeFZuaE9PRFV4VEc5ak5uYxAB",
+            "text": "Incredible food. Salmon was off the hook"
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWYU9VOUlWRUZvUWpSRFlYcE1SRkZJWkRsQk9IYxAB",
+            "text": "Pésimo servicio y comida.\nMás de 15 camareros inútiles para 6 mesas, por no hablar de los de la puerta q te reciben al entrar..."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oaGJGSllRbUUyWmpOa2RrMXJSVjk0UWpaelJFRRAB",
+            "text": "Always a great experience"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21STlkzZFNaVEJwWW1Sd2EwczRaRTFWYW1ScWFIYxAB",
+            "text": "Whenever in Manhattan always eat here"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKM2RGVXlNMHQxWkZGRlVHcDFjVXRvWlU5SmNsRRAB",
+            "text": "terrible food at absurd price\ndecent hideaway if looking for a quick late bite after a show. but at this price — you’re better off anywhere else. the rating is pure insanity 😂"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaeFRGRTRaRzVNYVVGWE1tSnFTMlozYlcxME5YYxAB",
+            "text": "Pricey, food left out all day and heated as you order, dirty seating and very wobbly table, spilled all over myself trying to eat, good location."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGeE1rcG5hMjlJT1dsT1JFWjBXbTA1V1ZnNGVHYxAB",
+            "text": "Delicious"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFM00ybzNjRzV0Ym5sbldtSm5PWGgzYTNsVU9HYxAB",
+            "text": "Outstanding Italian food and Very personable servers"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toUWNHY3diV05xTUhGdGVsVnZZa010YldOeU1tYxAB",
+            "text": "We came for dinner before a show and were running late.  Their chef and staff were so gracious to still get us in and to cook our food so quickly joy.  We made it to the show with time to spare.  Shout out to our waiter Jonathan who went above and beyond to take care of us.  Highly recommend this delicious restaurant for the amazing food and extraordinary customer service!  Ask for Jonathan!"
+        },
+        {
+            "date": "3달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tweFpGUjFXbG8wYjBwV1FsTkRWM1pXUms1Mk5FRRAB",
+            "text": "Abbiamo mangiato per ben 2 volte qui durante il nostro soggiorno nella città, siamo rimasti stupiti dalla qualità e dall’autenticità del cibo rispetto alla tradizione italiana. Consigliato!"
+        },
+        {
+            "date": "3달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GWGRHVnVZbGxtTWpWQ00xaFdaazVwU2pWa1ZuYxAB",
+            "text": "Ottimo cibo italiano, servizio super professionale, nel tornare a New York ci torneremo sicuramente"
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25nd1ZsRmZTak5ZVGxaRmRIVnpaWFJCYTFaUllsRRAB",
+            "text": "Muy bien, super acogedor, buena comida y mejor servicio."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWclFXVXhNbkU1TWpKWlV6bHhNV1J1WDNaWWNWRRAB",
+            "text": "So so good, the food and atmosphere were very nice, and the bathroom was very clean."
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1c2RhSGZBEAE",
+            "text": "전통 이태리 식당인만큼 이태리느낌이 많이 나는 식당입니다. 맥주도 이태리맥주만 판매하는곳입니다. 음식은 괜찮았지만 아주 좋은 정도는 아니었습니다. 양이 많은것을 감안해보면 아주 비싼 식당은 아닙니다. 직원이 많아서 서비스는 좋았는데 너무 작은 테이블에서 식사를 하기가 매우 불편했습니다"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaeE1mN0N3EAE",
+            "text": "뉴욕 여행 2일째, 뮤지컬 시카고 근처 이탈리안 음식점을 찾아서.. 기대 이상의 맛과 분위기. 점심 식사 였지만 맛있는 샤도네 한잔과 함께한 스타게티와 리조또는 최고 였다."
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzbk56UTFRRRAB",
+            "text": "맛은 그냥 그런데 서비스는 좋음 후식은 맛있음"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKVF8tXzY4cHVDZHhnRRAB",
+            "text": "Had a lovely time dining here with my significant other. Very fancy restaurant. Service was great and food came out at a decent pace. Food was super yummy, although, I found myself still a bit hungry after. It worked out for me because i had a lot of walking to do after. Flavors were incredible, textures were just right. Will definitely come again when we are around the area for a special occasion. I recommend!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvMnZYZnZ3RRAB",
+            "text": "Service was good, though was a bit confusing at times(almost ordered a cappuccino with my tiramisu?). Good menu selection, food came out at a reasonable time. Pasta was good, tiramisu was very good. Bathrooms were clean. Two birthdays in the lower section and fun to see the servers singing and bringing cake."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKYVZzX0tLMjdQQUhnEAE",
+            "text": "Love this place after a long day of work in the city. We went there multiple times in a week because the food was incredible. All pasta is made fresh in house too! The staff were very kind and pleasant. Can’t wait to come back."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJck9EMGFREAE",
+            "text": "Absolute perfection! We picked this place on a whim a few days earlier and so glad we did. We had a reservation, but we opted to sit at the bar. We got appetizers and drinks. The bartender was fantastic - he made some great recommendations for food and was on the spot with the service! We split everything, and things even came out on 2 plates so we didn't have to try to figure out how to best separate. A little extra thought really does go a long way. Great vibe and atmosphere. Amazing location in the heart of the theater district. Will definitely be back!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOZjl4dTdraHR2QU13EAE",
+            "text": "Dinner here in this Italian restaurant.\nI really like it pretty authentic Italian dishes well cooked.\nGood portion of half Spaghetti with clams ( Spaghetti Vongole) good taste and very good Branzino .\nI'll comeback here every time I'll stay in NY ."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPYnpwX215X2JmSk1BEAE",
+            "text": "Wonderful place. It was a spur of the moment decision, and we couldn't have been happier.  Our waiter provided the perfect amount of service and attention. The food surpassed our expectations.  We would love to return in the near future."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VKLUh0dHZueU4ySDlnRRAB",
+            "text": "We had a pre-theater dinner here. The food was great and the service was very attentive- making sure we were done in time for our show. The tables are very close together and it was very loud- but it was the Friday night dinner rush so that is probably to be expected"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNTzltLVhTeE0yQllnEAE",
+            "text": "I just have to share our amazing experience today! My son and I had lunch at La Masseria on 48th before our show, and everything from the food to the service was absolutely top-notch. The dishes were delicious, and the entire staff was welcoming, attentive, and genuinely friendly.\n\nWe had one dish we barely touched, so I asked for it to-go. When we got to the theatre, they wouldn’t allow any food inside even sealed. I rushed back and asked if the restaurant could hold it for us until after the show, and without hesitation, the manager said, “Of course.” That simple act truly blew me away.\n\nIn all my dining experiences, I’ve rarely encountered this level of first-class customer service. I’m so glad we made a last-minute decision to dine here. A huge thank-you to the host, our servers, and the manager( on the 3pm shift, mi dispiace for not getting your names...), you’ve absolutely earned a customer for life! If you're looking for an unforgettable meal and exceptional hospitality, La Masseria is the place to go!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMYkUxdmY4MFpEbjJnRRAB",
+            "text": "Fusilli Alla Bolognese was a large potion with delicate lasting sausage.  The sauce however came up a little short.  He was simply missing a distinctive taste."
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCNFMyMWtSRzVqYzNRM01sYzBZakk0Tkc5UlJYYxAB",
+            "text": "Poder cenar en un lugar tranquilo y con platos absolutamente deliciosos es posible en Nueva York, solo tienes que visitar La Masseria.\nNada más entrar ya se percibe esa sensación de estar en lugar cálido y agradable, la amabilidad de los chicos de sala es excepcional, el camarero de barra avisa a un compañero para que nos atienda porque se percata de que hablamos español y él medio se defiende, así que aparece Santiago, un fenómeno, un tipo muy simpático y amable, nos atiende y nos recomienda qué pedir, nos explica cada plato y espectacular!!\nLos raviolis deliciosos y nos recomienda unas tiras de calabaza que están superiores.\nEl postre, nos recomienda Santiago una cheesecake casera y un tiramisú casero, qué decir, brutal!! Si el cheesecake estaba delicioso, el tiramisú más aún.\nAsí que la experiencia de 10!!\nSolo queda FELICITAR A TODO EL EQUIPO DE LA MASSERIA Y EN ESPECIAL A SANTIAGO POR ACOMPAÑARNOS A RATITOS DURANTE LA CENA Y POR HABERNOS ACONSEJADO DE MANERA EXCELENTE."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBZy1PQXhnRRAB",
+            "text": "The service was great. The restaurant was well designed and nice inside. They were very friendly and attentive. The cocktails were creative and well put together. The fusilli bolognese and short rib ragout were both very good. The only disappointing part of the meal was the appetizer. The fried calamari and shrimp was underwhelming. The shrimp was not good at all. The calamari was not really tender."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5elo2dHpnRRAB",
+            "text": "My family enjoyed the most amazing Italian dinner.  Prior to seeing Ibsen's 'Enemy of the People' at the Circle in the Square Theatre, my siblings & parents (a party of 8) experienced delicious, authentic Italian cuisine.\nWonderful service (our waiter was the best), atmosphere & attention to our every request.\nEvery bite was Italian 'comfort' food at its best!  The seafood risotto was a highlight!\nWe could not have had a better experience for our first group dinner in NYC - thank you"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUROeWYtWGpnRRAB",
+            "text": "Excellent food and tea. The mozzarella appetizer is super fresh. The pasta is home made, fresh, and is very flavorful. The tiramisu is delicious and not overly sweet. The staff were very friendly and the atmosphere was very nice. I would definitely come back here in a heartbeat. If cost was not a consideration, I would rank them among the top 3 best Italian restaurants I have had in New York, and that's saying something."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2a2RhcDZ3RRAB",
+            "text": "Wow! This place is amazing. Came in Wednesday around noon, party of 6. The place was packed with the pre-theater matinee diners (and probably extra busy because its the holiday season) and was buzzing. The service is spectacular. They have a well oiled machine and know exactly what they're doing to make sure nothing goes wrong. I was so impressed watching all the staff whiz around the restaurant.\n\nThey start you off with a complimentary bread basket. We started with 3 appetizers - the burrata special, mozzarella farcita dello chef (homemade fresh mozzarella cheese stuffed with sweet roast peppers & marinated eggplant, served with fresh tomatoes & basil) and the calamari. Everything was excellent. Plenty of food for us 6 and still had leftovers.\n\nFor an entrees I had the agnolotti piemontesi - homemade veal & parmesan cheese ravioli with wild mushrooms sauce. Devine! A must. My colleagues raved about their homemade potato gnocchi with radicchio & taleggio cheese sauce which also looked so great. Cocktails all around were wonderful. Ordered a few desserts - tiramisu was a standout!\n\nIf you are looking for a great place to eat this holiday season with family and friends add this to your list. You wont be disappointed!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSUNMd3NCYRAB",
+            "text": "Brought my dad for dinner during Father’s Day weekend.  We were greeted promptly and sat inside towards the back. Our server Alejandro was extremely attentive, kind and helpful. We ordered the salad with the balsamic vinegar, he had the fettuccini special which included squid ink pasta, crab meat and shrimp, and I had the veal scallopinie. For dessert we ended with tiramisu, espresso, a cappuccino and the cheesecake. Everything was delicious and the portions were great! Would definitely recommend."
+        },
+        {
+            "date": "9달 전",
+            "language": "pt",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmNmJHdUxnEAE",
+            "text": "Apaixonada!\nAtendimento diferenciado. Garçons falam em inglês, espanhol e Italiano.\nAmbiente lindo, limpo e aconchegante.\nTodos os pratos que pedimos vieram super gostosos e bem servidos.\nO creme brûlée foi o melhor que já comi na vida!!\nJá está na lista dos preferidos! ♥️"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqZ1BLTFBBEAE",
+            "text": "This place has good food at reasonable prices for midtown Manhattan near the theater district. We split a Chicken Parmigiana and got a side of broccoli rabe. Both were quite good. Their pre meal bread was good but was served with lentils in olive oil. Certainly an interesting idea, but difficult to get the lentils on the bread.\n\nService was very good and the atmosphere is nice. This is not a Manhattan restaurant where you feel you are jammed into a tight spot.\n\nWe skipped dessert since we only went for lunch."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3OEpEa0ZBEAE",
+            "text": "La Masseria was a nice dining experience. I came with some friends while in town on business. Waiters were friendly, service was about what you would expect for a restaurant of this caliber however, I do think it is generally overpriced for the value. Fortunately, my group dined off the restaurant week menu and saved a few bucks. There are a variety of interesting authentic Italian dishes and fascinating La Masseria takes on others. Tiramisu was amazing, the chicken was flavorful, my water was never empty. Overall, I would return if only to try a few more dishes."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBenUtYjNnRRAB",
+            "text": "After a Broadway show, I had the pleasure of dining at La Masseria, and it was an absolute 5-star experience. We sat in the loft area toward the back, where the service was nothing short of phenomenal—attentive, warm, and truly top-tier.\n\nWe started with the stuffed eggplant with smoked mozzarella, which was simply to die for. For my entrée, I had the gluten-free penne pasta (without bacon), and my friend enjoyed the large rigatoni pasta with short rib ragout—both dishes were cooked to perfection. Even though I was stuffed, we couldn’t resist trying the warm apple tarts with raspberry sauce and vanilla ice cream—delicious, though I had to take the rest of my pasta to go.\n\nOh, and let’s talk about the breads—fabulous!\n\nThis place is a true gem, and I’m already planning my next visit. Highly recommend! ⭐⭐⭐⭐⭐"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VObkF2T3VIc0wzLTBnRRAB",
+            "text": "Excellent dinner and service. Sat outside on a perfect evening."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxcnZPeE9nEAE",
+            "text": "Food was absolutely amazing. Best pasta I’ve had in NYC thus far. They make a few pastas from scratch so make sure to ask which ones! We got 2 of those meals that they make themselves. We did not get anything besides main course. The waiter wasn’t very friendly. Atmosphere was beautiful, calm, romantic. Decorated for beautifully for Christmas as well!"
+        },
+        {
+            "date": "9달 전",
+            "language": "it",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBaWV1bDV3RRAB",
+            "text": "Busy noisy restaurant especially pre theater. The service is good. We ordered TAVOLACCIO DEL SALUMIERE 4.5/5, TRANCIO DI SALMONE ALLA GRIGLIA 4/5, and a veal special similar to Saltimbocca 4/5. For desert CROSTATINA DI MELE CON GELATO ALLA VANIGLIA 4/5.\n\nExtensive wine list."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURabHBpNV93RRAB",
+            "text": "great spot for a proper date. we were recommended this spot by our hotel concierge for an authentic italian w cozy vibes/not try-too-hard and it delivered. the staff were funny and friendly yet extremely professional.\nunfortunately, to my regret, we didn't get to try their pasta as it was super late when we got there (and who eats carbs at 11 PM? [the italian inside of u is screaming at me en, SIA])\n, so we settled for a salad w a side of grilled chicken and an actual chicken w a side of a potato/beans/tomato which could have used salt or more seasoning but the chicken itself was perfectly cooked.\noverall it's a grown ups restaurant, proper for introductory dates and great food. will definitely be back to try their pasta this time.\n\noh, almost forgot, the tiramisu was great. it was more of a tiramisu cake, i would've liked a bit more of a coffee dip on the base but i guess bc it was a cake they can't leave it in espresso to absorb the flavour as long as lady fingers. anywho, didn't take away from the overall amazing flavour. thanks la masseria server who reminded us to try it."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPai1UMDdRRRAB",
+            "text": "Great spot for fine dining. Warm service. Sparkling clean- and that’s impressive considering the volume that this place does daily. Great wine menu. Very spacious and inviting. The food is amazing and features a wide variety of regional…"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLSEhfSXZjcTliYmVREAE",
+            "text": "FOOD WAS YUMMY. I couldn’t understand accent, but that’s because I’m from country. I got ribs and noodles in tomoto sauce.\nWowee wowee. That tasted so good and yummy. zooweemama! Swag!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQelA2bll3EAE",
+            "text": "Dinner was incredible here! Easily the best Italian restaurant near Time Square! Made a reservation and ask if we could walk in an hour early. They kindly accommodated. The staff was 5 stars!! Super friendly! The balcony overlooking the restaurant is super cute. Tried the fettuccine with veal and mushrooms! One of the best dishes of my life! BlackBerry whiskey cocktail was also great!! Just an FYI, if you order still water, they charge you $10 for the bottle…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGNnZDVExnEAE",
+            "text": "One of the best meals of my LIFE. This place is a godsend. My entire experience from start to finish was perfect. They happened to have a saffron risotto special on the night I went and it was out of this world. Their limoncello martini is also phenomenal. The atmosphere is lovely, staff is friendly and knowledgeable, and location is convenient for seeing a Broadway show. I would recommend this restaurant to everyone I know. Can't wait to come back!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRaTR1QWR3EAE",
+            "text": "My husband and I met my cousins here at 7pm on 24th February, to celebrate my 60th birthday.\n\nUpon arrival, we found it to be very busy and noisy. I say noisy as I am deaf and wear hearing aids. Once I adjusted them to the surroundings, it was easier to cope with.\n\nThis is \"the\" place to come to for your \"pre theatre dinner\" as situated within the Broadway/Times Square area of New York.\n\nEvery table was filled, including those behind us, upstairs on the balcony. There was a constant flurry of activity around us, yet, did not seem overcrowded.\n\nWe had 2 different waiters who were \"very\" attentive. Refilling our water glasses often.\n\nAs we couldn't decide which starter to have, our host, my cousin, ordered the buratta caprese salad, bread basket and capers for the 4 of us.\n\nI would also like to point out, no pizza are on the menu.\n\nThis was delicious. I'm not a fan of capers but I have to say, I would definitely have this again.\n\nFor the mains, my husband had the beef bolognase. My cousin had pasta with beef, his wife also had something similar and I had the rabbit ear pasta with Italian sausage. Photo with review.\n\nI have \"never\" tasted anything like it. It was flavoursome without being \"too much\" if that makes sense?\n\nMy husband is a very picky eater and I have to admit, was on tenderhooks as to whether he was going to be able to eat anything, actually came out of his comfort zone and tried new dishes. So for that alone, I'm delighted.\n\nWould we go back?\n\n100% YES!!!\n\nI would like to thank everyone for a wonderful unforgettable evening, celebrating my 60th birthday.\n\nThis was our 2nd time in New York. My second time \"home\"! I was born in Manhattan and raised in Scotland. This, our second visit coincided with my \"meeting\" my sister's, for the 1st time, having found them through Ancestry.\n\nAll in all, a dream come true."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoeU5TWHZBRRAB",
+            "text": "We made reservations weeks in advance. We were seated right away and offered to check our coats. They also confirmed if we were seeing a show and at what time, which was nice so they could ensure we left in time for our show.\n\nService was excellent, very attentive and the food was delicious. I recommend the mozzarella/eggplant appetizer, roasted red peppers wrapped in fresh mozzarella on top of thinly sliced smoked eggplant, fished with Olive oil and fresh basil. My salmon entree was perfectly cooked. For Dessert some of us had tiramisu and others had the sorbet, both good.\n\nCoincidentally it was restaurant week so the 3 courses only cost us $45/pp. Only thing is They did not offer this menu, we had to ask. So my guess is if you didn't know, you'd miss out. The drinks were around $18 per cocktail but skillfully crafted and packed a punch that justifies the price Imo. One thing that was not so great is that there are only 2 single bathrooms.\n\nOverall, good food and cute decor. We will be back."
+        },
+        {
+            "date": "1년 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGXzhxMW13RRAB",
+            "text": "Suggerito da un'amica italiana residente da vent'anni a NY non abbiamo sbagliato: Ambiente curato e in stile italiano. Abbiamo provato i primi piatti, tutti diversi, tutti buonissimi. Si mangia veramente bene, la pasta è al dente e i sughi ottimi. Personale molto gentile. Porzioni abbondanti! Grazie per l accoglienza!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUblBLd3VRRRAB",
+            "text": "La Masseria, located at 235 W 48th St, New York, NY 10036, truly impressed all four of us. We were astounded by the exceptional quality of the food.\n\nLet me provide some context for my experience today. As someone who travels extensively, particularly within the USA due to work, I have had the opportunity to dine in some of the finest restaurants across the country.\n\nI can confidently say that the Scialatielli with wild mushrooms sauce that I had at La Masseria ranks among the top three pastas I've ever had in the USA.\n\nThe presentation was understated yet elegant, the portion size was just right, and the taste was absolutely phenomenal—perfectly al dente with a subtly creamy mushroom sauce.\n\nThe wine and port selection, along with the recommendations from our server, Pascuale, were impeccable.\n\nThe ambiance was beautiful and cozy, with a delightful playlist softly playing in the background, making conversation easy.\n\nTo top it off, the volcano dessert was simply delicious.\n\n100% Recommended"
+        },
+        {
+            "date": "1년 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNib3NDaGZ3EAE",
+            "text": "Ottima esperienza, si respira veramente un clima italiano e non solo per la musica! Qui abbiamo trovato quello che manca in molti ristoranti a NY, cioè un locale pulito, molto curato, con una mise en place idonea, doppia tovaglia, e soprattutto cura del cliente, con camerieri molto cortesi e simpatici che ci hanno coccolato per tutto il tempo. Il cibo veramente ottimo, italiano senza troppe alterazioni."
+        }
+    ],
+    "reviews_count": 85
+}

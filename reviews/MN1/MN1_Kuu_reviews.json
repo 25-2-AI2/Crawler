@@ -1,0 +1,670 @@
+{
+    "name": "Kuu",
+    "place_id": "ChIJv-EALxhawokRWFsBI5ZKjV4",
+    "grid": "MN1",
+    "address": "20 John St, New York, NY 10038, USA",
+    "rating": 4.5,
+    "user_ratings_total": 2438,
+    "phone_number": "(212) 571-7177",
+    "reviews": [
+        {
+            "date": "5시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xJM2Mwb3dZa0ZSZG05NkxYVlRWREZuV2tsRFJuYxAB",
+            "text": "Best place"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xUWVFTjJhWFo1UlhodWFqRldVMVJ5YUhsNk1rRRAB",
+            "text": "Great place!!"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0emJtZHJiME5DVFRsTmRrNUNkMDluVFcxVWFsRRAB",
+            "text": "Food is amazing"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2prdFUyTjNZVlJPY2xKdFRtTlVkSFY1TTNBMmEyYxAB",
+            "text": "Delicious and quick! Great lunch special"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KTmFWbEJlamhRTWpkMWNuQXpjRkJZVTA1VVEyYxAB",
+            "text": "Amazing food wonderful service! Will be back! :)"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5Uk1HRXhPVEJEUmxSV1YySjBkMGhOYldGd0xVRRAB",
+            "text": "Great atmosphere, great music selection and amazing ramen. I had the shoyu and it was so rich and flavorful, noodles cooked well and the pork was just right. Such a great place to eat on a rainy or gloomy day, very comforting and friendly service!"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oNmJWRnJUa1V4VEhJMFdEWnNOMFJZYUdKM1ZIYxAB",
+            "text": "Highly recommend the butter chicken ramen"
+        },
+        {
+            "date": "6일 전",
+            "language": "ja",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ZeE1HOVVkbUpzUVRSRlRGa3lYM3BmU1VZdFpYYxAB",
+            "text": "Shoyu ramen"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GTE1XSTRiVkF6UTBsSFozVXdkVXhPWlU4MlpsRRAB",
+            "text": "First time here, loved it!"
+        },
+        {
+            "date": "1주 전",
+            "language": "de",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ZdGVFdDNXSHAwZVVSVFprd3pUbVJxWWtsbFpYYxAB",
+            "text": "Sehr sehr unfreundliches Personal"
+        },
+        {
+            "date": "1주 전",
+            "language": "th",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jMVIwaEtYelZ4U2sxeFUwRmFZMHROYUhGNGEwRRAB",
+            "text": "บรรยากาศโดยรวมดี รสชาติถูกปาก🥰"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGek5VUjBNM1ZQTnpCSGNsWXhOWFZ3VUROSFZuYxAB",
+            "text": "Very good service and very good food"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsTk1WRkpUbVpPVFVScGNsQkhjMEkzTTBkb1prRRAB",
+            "text": "I ate it and the foods very good, everybody should try🙏🏻👌"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tReWQzUmZPRXB6VVRSdVprNUlhVzVNU204ME1sRRAB",
+            "text": "The food was very tasty, the wait wasn’t long, and the service was incredibly friendly. I really loved it! 😚😻"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsWVh6aDVaR0ZmWlc1RlMzbHVjMmhvTm5ndFpHYxAB",
+            "text": "Good food, Good service"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tabWJIZHJibms1TTA1SWMzcHVOMlZMYW1Gd01uYxAB",
+            "text": "Butter chicken Ramen is really good! Broth is nice and thick. Service is excellent."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psamVsWmpVbGcxYUhSQmF6Uk1NMGMwZDA5Q2NFRRAB",
+            "text": "very nice will def come again"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0cVZYaDJWbGhxUWpoVGVEbEVMVVZsVkRGMGNXYxAB",
+            "text": "Very good food good service"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ZeWFUSmlNREZKVmpGS1YzbHhkeTFqZEdWVFkyYxAB",
+            "text": "Soooo delicious 😍"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GWU9YSnplbWxrZGtoQmRFMXlVbXN3UWt0UFQzYxAB",
+            "text": "I ordered the restaurant’s signature dish spicy ramen with crispy pork. The pork was perfectly crispy, the noodles had an authentic Japanese texture, and the broth was rich with a nice spicy from the chili. The staff were friendly too. Definitely a comfort-zone kind of place for me."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tscFYxaHdNMGRRUkc4MVpUSkNYMDF6Y25kWGRHYxAB",
+            "text": "Nice Ramen so far in NYC"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWdlVtZG9ha1ppUlVwdlVHRmtiV05UYmtaYVVrRRAB",
+            "text": "Excellent experience in this typical restaurant.  Ramen was delicious served with a great staff."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4NVJrSTNhRVYxVW5Kc2FtTXRZakpPZEdVeGFtYxAB",
+            "text": "tried to order through google maps, had to click on whatever \"fooddeliveryapp\" is, took me to an insanely shoddy website that was forcing ads everywhere. closed the site immediately. have to spend my $20pp somewhere else."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5b1JIbExUakl6VUZkcGREVTFZVzEwTlUxUGEyYxAB",
+            "text": "Quick and great service! Really delicious food"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oZmJXZEZjbUpsVERkR2RVRjBMVWxhWmxOVVNHYxAB",
+            "text": "It was just perfect! Very delicious Ramen!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWQk1YTnFOelpYYUdWWVJ6WjRiVGRyY1hZNVYxRRAB",
+            "text": "Excellent food and excellent service!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSS1RIcHlNVzFtY1RWRmFHeHZaMlV5UkZGTFpFRRAB",
+            "text": "Amazing food and staff - would 100% come again!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Jd2RYZHhkVEZUTVd4Q1RFUnZaa3Q2VmpSbE4xRRAB",
+            "text": "Yuzu chicken ramen was perfect for my sore throat"
+        },
+        {
+            "date": "2주 전",
+            "language": "ja",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKYWJtbFFNMVp0VTJoWVVrMXRMVnBFTlRKemQwRRAB",
+            "text": "Perfect Tonkotsu Shoyu Ramen"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sUGREWm1aMDl5YUVGVmNrbEVhRVp0VGpKd1NFRRAB",
+            "text": "Delicious ramen and don place in FiDi.\nIdeal for lunch with quick service but also a cute dinner spot."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KSFdsUnVZbEJTT0dzMFExbERZV1p3VVVRMFptYxAB",
+            "text": "Very welcoming environment. This is my second time coming to Kuu Ramen. The ramen is amazing and the rice with curry too. The staff is very attentive and friendly,"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aV1MwNVpRbk56VWpoNmMwWXhNakV5VEVkTmFrRRAB",
+            "text": "So delicious!!!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oeGMwcFFWRE50TVd4SU9VY3dXR0pmTUhGdk1sRRAB",
+            "text": "My favorite place! The best lunch special deals. Would definitely recommend 💖🍜"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kMlNXbFNXa1Z3Ym5aMU9Vc3RkMGRQUlVKUVkyYxAB",
+            "text": "We had fries, edamame and ramen. Everything was so delicious!!\nOur waiter was extremely friendly!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOcE5IUkJNekEwWVdKTWRTMHhOMUZ6WTJGdmRIYxAB",
+            "text": "Fast and friendly service that serves yummy food :)"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKNVUwVkZlbGhrTVd0MWVtdzFZMHBxZHpCSlVtYxAB",
+            "text": "Good service! I also enjoy the  noodles here"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOWmVuZFRTVWRaUTFNMWJYYzBURVJGUWxSb1VGRRAB",
+            "text": "Good service and delicious food!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wV1VWbzRabkpPTlZOeWNtaE5lRTlQTkZwSWQzYxAB",
+            "text": "Great service, food, and location"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFMU4wTldhbWQ2YlhnNVJEVmpkRGRqUVVOUlJHYxAB",
+            "text": "It’s safe to say, this is the best ramen shop i have been to. I got the tonkotsu ramen and it was amazing. The noodles were just the right portion. The gyoza was spicy but it wasn’t too spicy, which made it delicious😋😋. Not only was the food good, the service was too. The person serving us was rly kind when taking our order and constantly checked to see if we were ok!! Rly good ramen shop!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCeWJrdFJkRTlYY0ZsYWJtdzVRMGxSWkhCTVJtYxAB",
+            "text": "Great service and even better ramen! The spicy karaage chicken and pork gyozas were delicious as well."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pONmVqWjZTRGhTY25FMFYycHpRVXMwZFUxbWVIYxAB",
+            "text": "Yummy"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSZk9WaEpMWE54U0VzdFluQlpWMGM0VVVSS1YzYxAB",
+            "text": "Surprisingly good. Had spice ramen and katsu curry and both were good. Prolly come back for late night quick dinner."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GMVNucHpSVXhNWWpaUFFYSXpWRE40WlZsNVpGRRAB",
+            "text": "Amazing curry and croquettes ♥️"
+        },
+        {
+            "date": "3주 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pJMVFXOWhXSEJ4VUZwcWFHWk9SVmt5ZG1sZmVrRRAB",
+            "text": "칠리 포크 라면과 교자를 먹었습니다. 일단 라면은 다른 뉴욕의 음식들이 그러하듯, 짭니다. 일본에서 먹는 것처럼 깊은 국물 맛을 기대할 순 없어요.\n장점은 돼지고기가 겉은 바삭하고 속은 부드럽다는 겁니다.\n김치를 주문할 수 있다는 것도 장점\n이예요.\n교자는 전혀 바삭하지 않았어요."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paemJFaFpNRFV0VVhkbFRVSXRaRU5pTldjdFZXYxAB",
+            "text": "Perfect for a quick cozy lunch. Service is fast and amazing"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZMk5tcHZaaTFLU1VGMFYzRnpOR2t0VFY5c04wRRAB",
+            "text": "Wonderful ramen"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkeFQydHFkSFF5U1VKSVJEUjNkalphZG1weU5FRRAB",
+            "text": "Gyoza + homemade pomegranate drink combo was so delicious! Would definitely eat here again!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSNVlYRndjRnBzWkc5b2NWWllhMjh4WjFBMmNsRRAB",
+            "text": "Food great but service is not so great"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaNU5uUldZVU52TVdaWWJuZFZVM0JvZW5wV1ZXYxAB",
+            "text": "Love the ramen! And try the house sake 🍶!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1SVVVbEVXVXRaZFZvNVlXaFBVVUZqTkZWdlpsRRAB",
+            "text": "Recieved amazing food and service at this spot, will definitely be returning."
+        },
+        {
+            "date": "3달 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WTlFXZHZYM2xOYW5Fd2RIbERiV3RKYkZoclZIYxAB",
+            "text": "음식이 금방 나와서 좋았지만 교자도 미리 만들어두었나봐요. 교자는 바삭함을 기대했지만 미지근하고 눅눅했어요🥲 맛은 있었어요. 매운 라멘은 맛은\n있었지만 국물이 너무 짜서 국물은 못 먹고 면만 먹었어요. 토핑 고기도 미지근..😭 미리 만들어두는건 이해하지만 더 따뜻하게 데워주세요. 서빙은 신속하게 해주셔서 불편함은 없었지만, 친절하진 않았어요.\n가격이 좋아서 빠르고 간단하게 먹어야할때는 좋을듯해요🙂"
+        },
+        {
+            "date": "1달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aS1QzcHFiMEpyYjJKRFRrZ3paREoyU1Rsb09IYxAB",
+            "text": "도쿄에서 먹던 그 라멘집이 그리워지는 맛.."
+        },
+        {
+            "date": "1달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4T2JGcEpORVJDVDI0eWIyWkNjakp5UzFaSk0zYxAB",
+            "text": "한국 사람 입장으론 느끼한 맛밖에 못 느낀.."
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSN2JiSDZBRRAB",
+            "text": "오후2시반쯤갔는데 정말 맛있게 먹었습니다.런치 콤보에 교자만두 추가했는데 일본현지에서 먹던 라멘보다 더 맛있었습니다."
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREbk0yOUJBEAE",
+            "text": "식당 가서 욕 듣고 나왔네요.\n음식 먹고 현금으로 계산하려고 하니, 종업원이 팁 달라고 카드 결제화면 계속 들이밀어요.\n그래서 현금으로 줄 거라니까, 안 가고 계속 버팁니다;;\n우선 음식 값부터 결제하고 팁 놓는 데, 여자 종업원이 영수증 주면서 씨발 이러네요 ㅋㅋㅋ\n분명 현금으로 팁 준다고 했음에도 불구하고 팁을 안 준다고 생각하고 욕을 합니다.\n\n우리가 한국어로 대화하니까 욕도 한국어로 하네요.\n듣고 어이없어서, 씨발이 무슨 의미냐고 물어보니 본인은 땡큐라고 말했다고 합니다.\n씨발→ Thank you는 발음 부터가 다릅니다.\n\n“씨발”이 “감사합니다”가 되는 환상적인 서비스를 가지고 있는 식당이네요.\n\n돈 내고 욕 듣고 싶으면 가셔도 좋을 거 같아요."
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzcy12bWdnRRAB",
+            "text": "맛이 좋습니다. 근처 직장인들이 많이 찾는 곳. 항상 붐비니 시간 잘 맞춰 가보세요."
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnNV92eFNBEAE",
+            "text": "좀 짜긴 한데 맛있어요 덮밥보다는 라멘이 훨씬 맛있음"
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNncFB5Y2lnRRAB",
+            "text": "뉴욕가격 대비 괜찮음.  매운라멘 먹었는데 국물이 넘 짜서 국물 거의 먹을수가 없어 아쉬웠음."
+        },
+        {
+            "date": "8달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBalpUVExnEAE",
+            "text": "라면 마시써요~~ 커리도 맛잇어요~~😍😍"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNvd05xbTZ3RRAB",
+            "text": "미국 음식이 느끼하면 가서 스파이시 라멘을 드시면 좀 나아집니다 ㅋㅋ"
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNnMUptVzF3RRAB",
+            "text": "라멘 완전 맛있음."
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURReTdXX3F3RRAB",
+            "text": "그냥그래요"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoV2EzRXdWREpHTldsRVVWQnRNamxmU1dWV1ZsRRAB",
+            "text": "Probably one of the best ramen places we’ve ever been too. First time visiting New York City and we visited Kuu on the first night, we then returned on our last night to have a memorable final meal. The food is super tasty, the staff are extremely friendly and you are not left waiting for long at all. Highly recommend!"
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJbkE0SkRGdm8yanJ3RRAB",
+            "text": "This was the first time we came and we loved it. We will definitely be coming back!\nEvery dish was flavorful and delicious.  Everything tastes perfect and fresh . The goyza is something I can eat all day every day.\nService is excellent, and the food is served very quickly. Thank you!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toSGRVOXFVMEl5YmkxRFZGZEdjbXd6UjNBNFFXYxAB",
+            "text": "This was one of the best ramen shops we've tried Manhattan. We absolutely loved everything and some of the innovations were really unique. I thought the half eggs were cooked perfectly, which to me is one of the most important parts of Ramen.\n\nI also really loved the sour peach drink and the pomegranate citrus"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SWFdUTkpWbDlKZW14SmVXeDZURmRGVW5oeFJFRRAB",
+            "text": "Delicious! I love their chewy thin noodles. Very dense and nice mouth feel. I will be back! If you’re curious about what I ordered (as pictured), the Ramen I ordered was their signature triple chicken ramen. Was very flavorful."
+        },
+        {
+            "date": "1달 전",
+            "language": "de",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjd1IyRmlRVjlDTW1OS1prcFhSRlpDZVZjelpuYxAB",
+            "text": "Nach etwa 15 Minuten Wartezeit vor der Tür konnten wir einen Platz an einem Tresen bekommen. Zum entspannen Essen fand ich den Ort ungeeignet, es war viel zu eng, zu laut und die Bedienung wirkte auf mich sehr angespannt. (Vielleicht sollte man lieber zwei Kellnerinnen einstellen!?)\n\nImmerhin waren die Getränke schön kalt und das Essen war sehr lecker."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25RNGQyVnVVakpWUTBoRlRtTkJkRzVRVEZRd1ZVRRAB",
+            "text": "The store is quite small, so you might need to wait for your turn—but it’s definitely worth it. The food is absolutely delicious, and the drink I ordered (see attached photo) was just as satisfying. The staff are warm and welcoming, though the cozy space might make you feel a bit shy about staying too long. I just wish I had more time to sit back and truly enjoy my lunch."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJNUxXMXlSMjF6UVd4WFZVZHRhbFI1U1dKb1pFRRAB",
+            "text": "We stopped for lunch. The place has limited seating, so we  had to wait 5 minutes to be seated. We teied several dishes. All that we tried was amazing . Except when they say spicy it is spicy so be careful"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wR1NGRkxlR1JhVjE5VVEySnZWbkpvUkUwdFZrRRAB",
+            "text": "Delicious Japanese Ramen and Izakaya food in FiDi.  Not sure why this would be rated less than a 5.  Our food was delicious.  Curry Katsu, Butter Chicken Ramen and a spicy tuna hand roll.  Only seating for 19 - nice and cozy but expect to wait for a seat."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xscmJVMDJOMVpXTTNocE5UZzRabmxOV1dONWJGRRAB",
+            "text": "Really cute hole in the wall place that me and my partner stumbled upon on our travels. Prices are fair and the food is quite amazing. Its a good mix between Tradition kitchen, and a bit more of a nyc vibe at the same time. Can only recommend 🤙"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0QmNYTm1TVWRoYm5OMFpsTkdhSGwzYzA5Q1kxRRAB",
+            "text": "I’ve been coming here for over 5 years, and it’s truly become a tradition for me. This is hands-down my favorite spot for ramen. The food is always excellent, the atmosphere is warm and welcoming, and it has that cozy “tiny stop” charm that makes it special. Every visit feels just as satisfying as the first. If you love ramen, this place is an absolute must-go!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204eVpISkliVmhJU1RFMmNFNWhUVnB1VTNGWU5HYxAB",
+            "text": "small ramen spot with just a few tables. We waited about 20 minutes to get seated on a wednesday evening. We ordered the crispy squid legs, takoyaki, miso veggie ramen, and beef curry ramen. Overall, everything was quite delicious. I just didn’t like the crispy squid legs - a bit too much breading and not enough squid for me."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGbmN6SjZXblpLYldKdFVuTldUemRqT0ZkSWJGRRAB",
+            "text": "This chicken katsu burger is a whole vibe 🍔✨ Crispy cutlet, juicy inside, fluffy bun, and that cabbage crunch makes it next-level. Sauce ties everything together. Legit comfort food done right — I’d 100% come back for another bite 🤤🔥"
+        },
+        {
+            "date": "1달 전",
+            "language": "zh",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaRU5YTXdWMTg1TUdaSFMxWjFSVXRyTlc1M01VRRAB",
+            "text": "After the World Trade Center site, I found a Japanese restaurant nearby and ordered ramen noodles and three fish rolls, which were delicious\n凭吊完世贸 附近的一家日本小餐厅，环境温馨，拉面美味，生鱼手卷不错"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xRGIyVlJkblJCTjBwTVZsQmFZMHhMUjFacVVGRRAB",
+            "text": "Hands down, the best ramen I’ve had in the city. The broth is rich and flavorful without being too heavy, the noodles have that perfect bite, and the toppings are fresh and generous. Every spoonful is comforting and deeply satisfying. The service is quick, the staff is friendly, and the cozy atmosphere makes it even better. If you’re a ramen lover, this place is a must-visit—it’s the kind of bowl that stays in your memory."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxSE5ERXhSMTlCZG5oMlVFOUtjRmx5VEU0Mk4xRRAB",
+            "text": "I went here on the weekday during afternoon no need to wait I got the table right away. I tried Shoyu ramen for me it was a bit too salty, porks were quite thick but tender. Staff was nice. Good for group of 1-3 persons. There is drinking water for complimentary. Card acceptable"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsc2MxWlZYekZJVmsxNWF5MUJOVmh5YlU5TU1GRRAB",
+            "text": "Delicious ramen with tasty broth and pork chashu. Superb service by the staff. Worth coming back!"
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURncnVER1dnEAE",
+            "text": "The first time I went to this place, I fell in love. I ordered the beef Ramen, Karaage Chicken Bun and the sesame seed ice cream. I’ve already been back like six other times when I tell you I truly love this place. I truly love this place. The food is super cooked in a manner. The broth is something I can eat all day every day. This actually may be my favorite Ramen place in the entire city."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toRWJVRnFNR1YzVDNwak9HRlNUVjlrVmtkcWVrRRAB",
+            "text": "Ive had the Triple Chicken ramen it was delicious. My friend had the Beef don and it was also beaaatiful. We liked the beef a little bit more."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKTVlWWjZOWGt0Y2taVmExaG9lbGxVVmtsd2EyYxAB",
+            "text": "Loved the Vegan Ramen. Great selection and service. Did not need reservations on a Saturday night"
+        },
+        {
+            "date": "7달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3dktXcXNRRRAB",
+            "text": "Wir waren spontan Donnerstags Abends im Kuu und haben auch direkt einen Tisch ergattert. Sowohl das Sushi, als auch die beiden vegetarischen Ramen- Suppen waren sehr lecker und reichhaltig.\nDer Service war ebenfalls wirklich zuvorkommend und sehr freundlich. Würden immer wieder kommen !"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25veE9UWk5TazVuTTNSUmRWRkhRbE52YVdveWJYYxAB",
+            "text": "Enjoyed a late lunch.\nThe pork belly buns were delicious as was the spicy pork ramen.  I added the beef for an additional fee.  What a compliment."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214bFptdEhjekYxTkcwMGVFMW5SVGsxUVVvNU1VRRAB",
+            "text": "Came in here today with my cousin & his girlfriend. They’re fast & have delicious food. They delivered. Here is a photo of their amazing food."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OWFIyTmFXbVpvV1RWV05HRlVNM1pSWlVsSlMwRRAB",
+            "text": "Good food for a good price.\nMy friend really likes Ramen and she said it was really good. I'm not a Ramen person, but the Gyoza was good and so was my not-ramen dish.\nWouldn't recomend the alcoholic drinks though, you can taste the alcohol"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4VlVGaG9iVVV3TlRrelkxVk9OR1JXV1Y5MFVGRRAB",
+            "text": "Kuu is amazing! The sushi is super fresh and beautifully made, with great flavors in every bite. The atmosphere is calm and modern, perfect for a nice dinner or casual night out. The staff are friendly and make sure everything’s just right. A great spot if you love high-quality sushi and a relaxed vibe"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWc04xRlVXVzB0UWtsdFZYRkNVRmxFV2tOMU4xRRAB",
+            "text": "The ramen and appetizer are pretty good, the service is nice and the wait wasn’t long, it’s a small place so you might feel crowded but you can’t still enjoy the food, I would definitely come back"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SUVRFUTFkRW80TFU5Q04yRnllV3AyTjNWVlZHYxAB",
+            "text": "Delicious. Pedimos el ramen de caldo de pollo y carne. La porción super buena, el sake delicioso. Recomendadisimo. Vengan entre semana que esta menos lleno"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKSVdHVlBVVUpMTFZnMk5GaEpOMk54YTBWcExVRRAB",
+            "text": "Delicious. I hear it’s in the top 10 ramen places in NYC. Came in at 1:30pm Saturday for lunch. No wait."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJcWZmT3VBRRAB",
+            "text": "This little and cozy ramen shop in downtown Manhattan is the best place to get ramen noodles. The food is always delicious and great portions. The service is fast and efficient. I usually take Kuu chilies ramen and crispy pork. It’s the perfect combination."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnbU1PUzF3RRAB",
+            "text": "Such a nice cozy spot! We were cold so it was nice to have some warm food here. It’s best to come at off peak times. We were there around 5. Food was delicious and staff was super nice. Thank you!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNncXBHNGZBEAE",
+            "text": "KUU Ramen is the place to go!! Atmosphere is great and service is amazing! They also have a good selection of sake! The butter chicken was off the charts full of flavor and great umami flavor. The karage was great as well!! Definitely will be back to eat here!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvaTU2b09nEAE",
+            "text": "Great little ramen restaurant! Service is excellent, the food is served very quickly. The ramen is delicious, full of flavour. They have options if you’re vegetarian or vegan. I would definitely recommend coming by if you’re in the area."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsNlpVRlZUemhTZVVwTFdqTnZhR1l6VGxsbGFVRRAB",
+            "text": "Food: 4/5\nService: 3/5\nWow factor: 1/5\nTourist trap: 1/5\nWould comeback: Yes\n\nNote: A solid choice for a good bowl of ramen when in the neighborhood but no match to some really authentic Japanese ramen shops in the city"
+        }
+    ],
+    "reviews_count": 94
+}
