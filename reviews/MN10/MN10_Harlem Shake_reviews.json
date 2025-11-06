@@ -1,0 +1,558 @@
+{
+    "name": "Harlem Shake",
+    "place_id": "ChIJ_Wfccg32wokR_0Yoxz3R9a0",
+    "grid": "MN10",
+    "address": "100 W 124th St, New York, NY 10027, USA",
+    "rating": 4.2,
+    "user_ratings_total": 3922,
+    "phone_number": "(212) 222-8300",
+    "reviews": [
+        {
+            "date": "5시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WbVpHSnlUakpLT0hCTlVGTlFWbEF5VkRGTFYyYxAB",
+            "text": "One of the best burgers I've had. Theirs chicken sandwiches are really good too. Is all good vibes here!"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214d2NXWm1NbFJtVERCWk4wNVliMVZoZWxvNGJHYxAB",
+            "text": "Nice place"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WVlZESk5lVEpQV1RZeE5WUllTSFJpZW5sUVduYxAB",
+            "text": "Good place, Burger was crunchy and juicy. My homie enjoyed it too."
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tod05razBaSGhOWVRKTFEzZFlibFExZGxaRVFXYxAB",
+            "text": "This place is absolutely magical. When you visit the USA this is exactly what you are looking for. Old school style bistro with typical dishes. The food was delicious, the shake was the best I have ever had. A piece of history and delicious food in one place."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WclNuRTRSMFpKZUV4blpWbDRRMDlLTTAxV1prRRAB",
+            "text": "This place has a really fun vibe, but honestly the food is pretty mediocre. I really wanted to like it, but $9 for essentially a smash burger was a bit much.\n\n2 burgers and a shake =$30"
+        },
+        {
+            "date": "1주 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wMGJXa3plREZPVGw5UVJYUnNiRXAyZWxOQ1dXYxAB",
+            "text": "Nous avons adoré ce lieu qui semble dans une autre époque, les shakes sont justes incroyables et les 🍔 hamburgers, justes délicieux 😋"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSeFRVVlBPRzAyUXpSMFVHbG5OVkJDUm1oMmFWRRAB",
+            "text": "Founded by Croatian owners in 2013 when the song \"Harlem Shake\" made its way all over the world even to Europe and Croatia. The owners were inspired to book a vacation to the USA and visited the historic Harlem neighborhood and were in awe of the \"warmth\" of the US citizens in Harlem. Luckily, they learnt English in Croatia so speaking with locals was very easy. The Croatian owners decided to work together with local brains and gave the restaurant something that they would call an \"authentic feel\". Even though a lot of my friends are saying it's appropriation of Harlem culture, I enjoy the great service and burgers! Even the music is not Croatian but they play 2000s Hip Hop and R'n'B and even though it's not black owned they decided to make a 'Fro Wall! Supercool!"
+        },
+        {
+            "date": "1주 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aVlNFdDZNWGQyVlRGWU1WQTBPWGhaVkZaYWFuYxAB",
+            "text": "Burgers et frites incroyablement délicieux. Acceuil souriant au coeur d'Harlem.\nAllez y !"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SaFF6TnVkV2RJYm5SalNHUTBjVU5GZEc1SkxWRRAB",
+            "text": "the bun is bad.. the burger as a whole is just alright"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ONE9DMTFaR2x4VHpKMk1YSTVhWEJ0Wkc1VVMxRRAB",
+            "text": "Overall good experience, burger and milkshake were great! Unfortunately,  my fries were cold. I didn't complain but hot fries is important for a burger joint."
+        },
+        {
+            "date": "2주 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wV1ozbG5WWGRRVDE5Q1dUbDZlbUpuYVc0MlUxRRAB",
+            "text": "Harlem Shake è un'istituzione culinaria nel cuore di Harlem che celebra la cultura e la storia del quartiere con un'atmosfera retrò e vibrante. Questo non è un posto per i soliti hamburger; qui si gustano dei fantastici smash burger (croccanti e succosi) accompagnati da frullati (\"shakes\") classici e creativi. La loro specialità, lo \"Hot Mess\" (un hamburger con formaggio pepper jack e cipolle in salamoia), è un'esplosione di gusto imperdibile. Varcare la soglia è come fare un salto negli anni '50, con musica funk e R&B in sottofondo e pareti adornate da ritratti di celebrità locali. È il luogo ideale per assaggiare il vero sapore della comunità di Harlem in un ambiente allegro e accogliente."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1d01IWjZRamRTVjNKV2EzUmpPUzFaZUd3dGEyYxAB",
+            "text": "This is the 5th time I order cheese Fries and get no cheese sauce. I try to order cheese fries plus extra cheese and NEVER get the second sauce. As a repeat customer I hate to leave a negative review but seriously"
+        },
+        {
+            "date": "2주 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBelIybHVNbGc1TTJwUFNYaGxXRVV6VFdGR1RIYxAB",
+            "text": "Locale stupendo nel cuore di Harlem, in Malcom X. Al suo interno potrete respirare la vera essenza del quartiere e della cultura afroamericana. Il locale si presenta arredato con il mobilio anni 50/60 e la cucina è semplice ma buona. Da provare assolutamente lo smash burger. Il locale offre anche uno spazio con i tavoli all'aperto, ottima soluzione nei mesi caldi. Ci tornerò"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WWFduRktXbUpoVVRsRloydEtjR1ZLYW1sMmRVRRAB",
+            "text": "Delicious burgers, I wish they were a little bigger 🤣🤣"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wMk1VaEdhWGRJUm5waVp6TlRTR3BIYUhGNGMwRRAB",
+            "text": "Went for the first time on my first trip to New York back in 2017. Came back again on my second visit just recently, and they haven’t changed a bit — thank God for that. Still top-quality burgers in a top-quality spot. A real old-school joint that stays true to its roots. They keep it 100%, even though they’re pretty well-known now. The burgers just hit different — the sauces are next level, everything perfectly balanced. Took my girlfriend there thinking she’d just like it — she’s not even a big burger person — and she ended up loving it. Easily her favorite meal of the whole NYC trip."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCcVJUbHNUMVJUWkhSd2JqRktVVUpuVW1NMmIyYxAB",
+            "text": "I visited Harlem Shake in late September and early October 2025.  I’ve always walked by this restaurant while in the area and always wanted to try it.   I finally decided to give it a try.   When we entered the restaurant, we were greeted by staff.  From the moment we walked into the establishment I loved the atmosphere.  We waited about 5 -7 mins in line before finally getting to the register.  Once we placed our order the representative at the register flipped the screen to ensure our order was accurate.  I think all restaurants should do this to ensure the accuracy of customer’s orders and also to ensure food is not going to waste.   We decided to dine outside at first, I was concerned I wouldn’t be able to hear my name.  But they were loud enough for me to hear outside.  I also received a text message when my order was ready.   During my first visit I ordered a cheeseburger and the C-dog which is a grilled hotdog with sauerkraut and mustard.  I requested it well done like the burger.  The burger was absolutely delicious and grilled to perfection just the way I love it.   My hot dog was also grilled to perfection my only complaint was they put too much mustard on the hotdog which made it drown out the other flavor and also really mess.   They also stacked a whole bunch of sauerkraut on the hotdog that I had to take some of it off.   I decided to try a milkshake since people raved about it.  I had the Black & White and my aunt had the cookies and cream.  Let me tell you they both weren’t good save your money.   I ended up washing down my food with the water I was carrying around.   My aunt also had a Froze I wasn’t a fan of it as I’m not a drinker and it solely tasted like straight alcohol.   When I visited again in October, I ordered the Classic Fried Chicken Sandwich and it had absolutely no flavor.  I only tasted black pepper.  It was too bland for such a chucky piece of chicken. I was very disappointed.   I don't think I'd order this again. I ordered another hot dog but forgot to say I wanted it well done.  It was okay this time they put the right amount of ketchup but again way to much sauerkraut.  I decided to try their Shirley Temple Soda. I’m warning you now do not order this.   If you’re like me expecting the Shirley Temple you order at a bar/restaurant this isn’t it.   I don’t know what this taste like.   The store accepts both cash and card.   It’s also accessible via public transportation.  I say give it a try."
+        },
+        {
+            "date": "4주 전",
+            "language": "it",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWbWRXdFlWVE5GTmtrMVlTMU9ZMGRKZGxaQ2QxRRAB",
+            "text": "Bellissimo locale in stile Diner nel cuore di Harlem. Da provare assolutamente se venite in questo quartiere soprattutto per gli shake meravigliosi"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toamMxTkNiazh3UVhKek0yUXpVMXBRU205aE5FRRAB",
+            "text": "Everything here was just..okay. I don't really think it's worth the price but the food wasn't bad. Had the chili cheese fries, and honey hot chicken sandwich. Fries were fine not amazing but no complaints really. My honey hot chicken sandwich was small which was a bit disappointing and I expected it to have a stronger taste. I think if Popeyes has this sandwich it would be much better. My boyfriend had the same fries along with chicken tenders and honey mustard which I actually really liked. I got the georgette which is half lemonade and half watermelon drink and he got the strawberry mint lemonade. He really enjoyed his drink and I enjoyed his drink too. The Georgette wasn't bad but did lack flavor. They were both refreshing though. I don't think I would come back here for the food but definitely want to try the rest of their drinks and the shakes."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pod04zTTRSbkJSYUhNNFlqZHRjemM0ZEhKRk0yYxAB",
+            "text": "Original"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ka01VOWpha1pEWVZNNVpqUTRaMkpZVm5sclkyYxAB",
+            "text": "I liked my experience overall at this restaurant. The service was nice. The wait for food was a little long but I didn't mind, it was pretty busy in there. I loved the retro vibe of the place, super cool! The bathroom had a cool design as well, but it was a long wait as there was only one. I tried the mama's fried chicken sandwich, curly fries, and vanilla milkshake. All very delicious! Unfortunately I couldn't try the red velvet milkshake since they ran out of ingredients. They had a live band playing outside too, that was fun! It was a little more on the expensive side, but not overly so. I would definitely come back to try other things from the menu."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWT2QySlVhVEJ0YXpObFdHdDJZVEZzTlhsYU0wRRAB",
+            "text": "Definitely a cool spot good food and a lot of options.  I go here at least 3 times a week when I visit NY because the have options. The shakes are delicious as well."
+        },
+        {
+            "date": "1달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210YVFYRnRTSEZQVFRZemJVOHlWMk5MVEVkSmVHYxAB",
+            "text": "Ambiance des années 1950 , un restaurant de burger dans son \" jus\" ...super sympa 👍\nBon accueil, bon burger, bonnes frites.\nEndroit situé sur Harlem au Nord de central Park, proche des églises Gospel au calme, en retrait de la vie agitée de Manhattan\nJe recommande .\nÉric et Christine de France 🇨🇵🇺🇸"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCMmNWOTJha2RTWVVaRlFUSnlOVkY1UWsxWGVsRRAB",
+            "text": "During the years I have frequented Harlem Shake and the atmosphere has always been pleasant, however this last week I decided to go with my granddaughter and we decided to sit outside.  Little did I know that when I ordered inside I would have to come inside to retrieve my food.  There wasn't enough pickles so I went inside to ask for Xtra pickles, where i was told that I would have to pay extra. Which wasn't a problem except the servers or whatever the title the staff would like to be called where all huddled in the front standing around. The young lady who told me Xtra pickles would be an extra charge took so long to find out what the price was, I had to walk off. The service could stand an upgrade or some genuine improvement.  If I must say, no complaints about the food, however the service definitely could be better."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OMlEyZGtiMnRWVnpKd01rZDNhMkpFWTNsb01uYxAB",
+            "text": "They had a wheel you  could spin to win a free shake. The truffle fries were incredible. Lots of space to sit inside and outside. Would come back again for sure. Food was out quick and was so fresh."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oeVZuTk9ka1IzWVVOc1ptMHlSbk5UYmpsTGNsRRAB",
+            "text": "I only had a shake here but it was delicious. I actually came back fir a 2nd one."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oUVprNXRXVXhUT1ZoSFFtUmpUekprVFdJelZVRRAB",
+            "text": "Even the beers are tasty. I lost the food photos somewhere on this phone. Next time will post some."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkV2VuZFBRakE1Y1MxMWNGOXJWbWQwTFZwdVQyYxAB",
+            "text": "Harlem Shake totally lived up to the hype! The jerk burger was bursting with flavor, the milkshake was rich and wonderfully thick (just the way it should be), and the curly fries were crispy, golden perfection. Add in the cool retro vibe and friendly service, and it’s the kind of spot you instantly want to come back to. Comfort food heaven in the heart of Harlem!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwNFEyczRjWHByZUZsYWNWbGZTR001T1VSaFlrRRAB",
+            "text": "Good Service"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSQlZsOHhlVEJFVVV3NWJYbFhjMnBOU3pSRFMwRRAB",
+            "text": "Riquísimo"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psSk1tWnpVMkZrVFVwQ2RFeFVUbkJFYTJ4YVYyYxAB",
+            "text": "Food is decent, but beware if you pay in cash. The cashier tried to shortchange me by $10 and only gave it back after we confronted them. Very dishonest."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205aE5EbGxla0pUYTFaUE1uSkthekF4YkRsRFVHYxAB",
+            "text": "Surprising.  Fabulous burgers. Beer. Cool vibe and easy going.  Outdoor seating is great when the weather cooperates."
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VMVpXOVNlRUphYkhKMVJqTmxhRVJ3T0hONk4xRRAB",
+            "text": "Tappa imperdibile ad Harlem. Panini gustosissimi, shake ottimi. Imperdibile"
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5QmVXdHBZbGh2VTNSc2FWVm1jbTR3U2xwck5uYxAB",
+            "text": "Ottimi i panini smashati. Locale nel cuore di Harlem. Consigliato"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvMVZWRjRiSFEzYjNWT2FXSmxkVGhJTVVsRFZWRRAB",
+            "text": "The most mid burger ever was dry as hell they don’t offer bread free burger options and the milkshake is just whatever syrup  mixed with custard also super over priced not worth it at all"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ZeWExWldjR2h4ZWxaa2JIVTVRMGxyTnpSTVdFRRAB",
+            "text": "There’s roaches in the kitchen and I saw who I assume to be the manager drinking sparkling champagne and one of the lemonade’s mixed together😕"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KWExVcDBRemhpT0VwS1pEQmFXREY0TVZSUVVVRRAB",
+            "text": "Dont be fooled.. no one waits tables here. However the food was decent for the price. I have had better burgers. The fries were great. But it felt like a diner in harlem. Music was cool. I didn't have the shake .. which I guess is the draw.  However I SHALL RETURN"
+        },
+        {
+            "date": "2달 전",
+            "language": "fr",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkVGRHSkVibnBIUWpNd1RGb3hRV05pV0dSb1NuYxAB",
+            "text": "Bons burgers et excellents milk shakes !\nTrès agréable de pouvoir s'assoir en terrasse.\nSeul bémol,  nous avons commandé un burger sans gluten mais non identifié a l'arrivée. Apres avoir demandé à  un employé, il n'était pas trop sur de lui....\nFast food propre et agréable."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kelEzbE9TREZ0ZGxGa1JGSjVNMk5TVW5scFNWRRAB",
+            "text": "Came on person for the first time and was pleasantly surprised with a band performing on the patio. Very good food and a cozy environment to hang out in and eat."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSb05VRkdObkJyUkdwdlVVUmFVWEpLVjFNd2VtYxAB",
+            "text": "Love this place. Make sure to stop in every time I visit. Burgers are fantastic and the shakes are great too"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOaE9IZzJRVWxzUW5adWRHRjJlVXAyTmtocWRXYxAB",
+            "text": "This Black-owned smash burger joint is a must-visit! The burgers are a solid 10/10—juicy, flavorful, and cooked to perfection. The service felt authentic and welcoming. The food was so good I couldn’t resist ordering a second meal. Highly recommend!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxak1GRlRPV1ZTUkd0cmVFdEhTMGwyUjBkVU0xRRAB",
+            "text": "It was my first time eating here. Has a nice vibe with good music. Great customer service 👍🏼 food was good. Shake was good. Place has a retro feel to it. Ordered the Harlem Classic, Snoopdog hotdogs and Jerk fries."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0b2NtczFNakU0VlRsRlptUkhPVEF5YkdkWmNtYxAB",
+            "text": "Great burger!  Self service eatery where it gets busy and prices are good for area"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21vd1owdG9NbVZzWDFsMFZFdHhOa2MyZGtoU1QxRRAB",
+            "text": "This place has an inflated Ego with all the simpage in the comments. Over priced , greasy underwhelming to the tenth power. The milkshake taste like a scoop of ice cream blended with milk. Burger paddy is one lady sliced in the middle and layered onto to a non in-house made bun , strawberry lemonade had a rotten chopped strawberry in it. I asked for a burger they gave me a cheese burger when I specified I asked for a hamburger not cheese burger they kept combating as if I was somehow wrong , the music is too loud can’t even hear your name or make a proper order , the person at the register doesn’t explain what comes with the burger or on it. It’s just not worth it. Shake shack at this point is better and less expensive. Good day"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoTGJpMUZXbTFHZVdWR1lWcHpOMWhWWm1Wbk9GRRAB",
+            "text": "It was my first time there taking my grandchildren there we got all of our order wrong except for the French fries.\nThe burgers were not cooked right, we gor so many things wrong with our order when I complained, I had to go threw a chain of command which was like explaining myself iver and over again .\nAnd yes the order was finally taken care of 22 minutes later when I was already stressed out and too upset to even eat it .\nSad because the place does look nice , and has the potential to be awesome.\nIf you are looking for great fries this is the place ,anything else like the shakes forget it ,your not going to like blending plain ice cream, very plain.\nI seldom do negative reviews, I just feel others should know."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pVelVrTjZaM2xoU1VsME5YWmlUazFaZWw5a01sRRAB",
+            "text": "Harlem Shake is a hit with me small but pack a punch 🥊 I was full even before I was done eating real beef “pause “the best burger I have had this year different Recommend you check them out 🦾🦾"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGWFFqaDFOM2N6WWtzdFVtWjVSRUZPYzNSc1VrRRAB",
+            "text": "Jerk chicken sandwich is a favorite of mine, as well as the shakes & frosé! Nice vibes."
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swdE1XTmZjbkI0WWxadGExWjZhRmt5YzI5ZlNFRRAB",
+            "text": "Pub americano ad Harlem….panino vegetariano eccellente e shake sublime. Un must"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psUVNHNTRNbko0V2xKemJrNWZkMlZLTVRGbVgwRRAB",
+            "text": "Unpleasant service. No consideration for customers. When there is a problem, employees blame each other and no one offers a solution. It took more than 45 minutes to get a sandwich, which I ultimately didn't get. I was supposed to be refunded, but I'm still waiting."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0NFNrczFhbUpUY3paUVRXeHNiR04zZVhwVE5tYxAB",
+            "text": "Service was great and friendly, food was awesome and reasonably priced, loved the\natmosphere and the music was fantastic!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sNWNYSmFVWGMxTmtJd1gwSlRUblpPTjIxMFJGRRAB",
+            "text": "Got a classic burger and fries here and they were fantastic. The burger was a smaller portion but honestly the perfect size and tasted fantastic. I also got a red velvet shake and it was okay, but not worth the price to me. Service wise, the employees were nice but it took a long time for my food and then my shake to come out."
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRN1B6bjRRRRAB",
+            "text": "맛있습니다. 기본버거도 맛있지만 개인적으론 치킨버거가 더 맛있었어요. 레드벨벳쉐이크도 짱짱. 작아보이지만 막상 먹으면 배가 부릅니다. 모자라면 치킨휠렛?치킨핑거?도 드세여. 이집은 안짜고 간이 잘 되어있어요!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6c3NMOWd3RRAB",
+            "text": "바닐라쉐이크 추천 할렘쉐이크는 내입에는 별로 바닐라 굳굳굳"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwek1DWmtBRRAB",
+            "text": "쥐가있음, 화장실비밀번호가 영수증에 있다고했지만 없음, 노래는 신남. 화장실 물이 안내려감. 햄버거는 맛있음"
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNbnVHV3VRRRAB",
+            "text": "너무비쌈\n기본버거는 맛있었음\n쉐이크 너무달아서 먹기힘듬"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSb3RuRFB3EAE",
+            "text": "맛있고 쉐이크 꼭드세요 ㅎㅎ\n직원분들이 장난도 잘쳐주심"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6emFEWTlBRRAB",
+            "text": "흑인소울을 느낄수있는곳"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VNLXVwOFRHdTRpa3J3RRAB",
+            "text": "While visiting we decided to stop here for lunch. I got a beef smash burger and my husband, turkey. The burger was pretty good. I was told the turkey was good also. We got fries on the side. My sweet potato fries were actually cold. I really didn’t feel like going back up there so I just ate a few and ate my husbands fries, he had regular ones. Constructive criticism, I would suggest a better system of calling your customers. I mean, idk if that’s a staple thing for the establishment to yell the names, but just sitting there observing, people do not hear their names especially when they were sitting outside. Nevertheless, if I were in the area and wanted a burger, I would stop by."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VPR21uYW41bnRQVDlBRRAB",
+            "text": "Burger was pretty good. Serving size was just right too. Not too big nor too small. The chili cheese hotdog was delicious and juicy. The bread they use is very soft. The ambience is of the 50's style. Price is very reasonable. Definitely a good choice for a meal."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJOGVuRmVREAE",
+            "text": "Harlem Shake isn’t just a clever name—it’s a full-blown flavor party with a retro vibe that hits hard and leaves you craving more. This spot is all about big flavors, bigger personality, and no apologies.\n\nLet’s talk burgers. These aren’t your average fast-casual patties. Harlem Shake’s burgers are smash-style perfection—crispy edges, juicy centers, and layered with just the right amount of melted cheese, tangy pickles, and special sauce that’s actually special. The “Hot Mess” burger is a must if you like a little chaos with your bite—it’s spicy, saucy, and wildly addictive.\n\nBut the real showstoppers? The shakes. Thick, creamy, and unapologetically decadent. Each one is made with Blue Marble ice cream, and it shows. The Red Velvet shake is basically dessert royalty—sweet, rich, and topped like a sundae that went to fashion week. Whether you go classic or wild, these shakes aren’t just drinks; they’re an experience.\n\nHarlem Shake nails the throwback diner feel without feeling like a gimmick. It’s where old-school cool meets bold, modern flavor. If you’re in Harlem and not stopping here, you’re doing it wrong. Go for the burger, stay for the shake, and come back for both."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvdlBTZUd3EAE",
+            "text": "My brother and I loved our respective veggie burgers!! The patties had so much flavor and the fries were just right!! I loved the Harlem Shake draft beer! His red shake however did not taste like red velvet at all, that was our only complaint! Besides that a lovely atmosphere with live music if you are in to that sort of thing :)"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205RVFrMXVUbVl6T1hObVNHOVFXV3RmTFU1QlQwRRAB",
+            "text": "We passed this restaurant during our stay in Harlem and the Marble Ice Cream shakes looked delicious, so we made a point to stop in after a late night. They were open and bustling at 12am. The burgers were moist and delicious. The strawberry shake was fresh and hit the spot on a hot night. Glad we tried it out. Note: there is only one restroom, so if the door is locked, someone is in there."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taMFl6QTNPRlZSUW5VeldtdEtiV1kwVURkMk1GRRAB",
+            "text": "Havent had a shake in about 15 years.  This was amazing...im gonna pay for it but damn wow.  My only issue with this place is that I didnt know such cheap straws existed...you just gotta think about taking a sip from these Harlem Shake straws and they crack in half.  Hot mess Burger and fries was great signature taste and blend of meats."
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2Z3FqdnhnRRAB",
+            "text": "Was in Harlem for an extended visit and had lunch at Harlem Shake.  I loved it so much that I took the family here when they came up from Maryland to join me.  I grew up in Harlem and I am excited by all the great restaurants that have opened up over the years.  Harlem Shake offers up some great diner food with a Harlem twist.  The first time I was there I got the Harlem Classic and that was really good.  The 2nd  time with the family I got the Hot Mess Burger (Pickled pepper and bacon relish)  and the girls got the chicken tenders (Fly Child).  The Hot Mess was great and the girls loved the tenders and fries.  I would rank it as one of the best burgers that I have had.   I also got a watermelon cooler which I would also recommend (if you like watermelon).  The staff members were really friendly and the experience was great.  They have both indoor and outdoor seating.  I would highly recommend you check it out."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURncXJ1Tzl3RRAB",
+            "text": "This place felt like a hidden gem. I was surprised to say the least. My kids enjoyed it they say it’s one of the top smash burgers in the city. And I don’t think I disagree. It was well put together didn’t get to greasy bun was perfect. I truly enjoyed it my kid had the shake also and he loved it I’ll definitely be back here again"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQZWg5TG1taTdLY0N3EAE",
+            "text": "Harlem Shake over Shake Shack always! A neighborhood staple that never disappoints. I love all the visitors photos on the wall and Jet magazines in the restroom. Only thing to note is the wait takes a minute - but definitely worth it 😋"
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfcGVfejZ3RRAB",
+            "text": "We had a lovely experience here. One small mishap was corrected. My child ordered a chocolate shake, but received a mocha shake. When she mentioned that it didn't taste right we were able to get the shake swapped out. Burgers were good as were the shakes. Staff is kind and welcoming. It had an old school diner feel to it."
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURxb3ZIOUxBEAE",
+            "text": "Shout out to Yelp for another complimentary meal! Let me just say, I’ve been to Harlem Shake before and loved it, so seeing that I was getting a free meal from here was a much anticipated treat!\n\nHarlem Shake is located in the heart of Harlem, and the inside is super cool! It gives very much old school vibes. Like, 60’s hangout spot feels. They’ve had tons of celebrities come through to show their support. Their photos are all posted on the walls of the restaurants. It’s quite exciting!\n\nSo, Yelp elites got to choose from a couple items on the menu. I went with the hot mess burger, which is served with pickled cherry peppers, bacon relish, American cheese and smoky chipotle Mayo. The burger was delicious. It was cooked a little pass what I prefer, temperature-wise, but was still very tasty. That bacon relish with those cherry peppers went very well together. It kinda gave me Shake Shack vibes with the cherry peppers, which was interesting. The chipotle Mayo was also well done and had a nice kick to it. I also chose the jerk fries. These fries were amazing! Maybe even better than the burger?.....lol no, but definitely more interesting than the burger. They had this spicy-ish jerk seasoning on them. They were crispy, hot, and served with this ZELICIOUS jerk sauce! Omg....it was spicy, and creamy, and......jerky lol! No, that sauce was something special, and they should jar it up and sell it in stores. It was very well done! Ugh.\n\nHarlem Shake is fun, trendy, and for the culture. I have to be honest. I was a bit disappointed when I found out that it isn’t black owned. They definitely went out of their way to draw a certain (black) crowd. It really gives those vibes. But anyway, what are you gonna do? The food is great."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VKV0g1OFRtcy1iQzdBRRAB",
+            "text": "Delicious burgers and fries in a historic location: the staff is friendly and service is quite fast, the burgers are a bit small for what they cost, but delicious, and also the fries and milkshake were very good."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNua2ZHdWdBRRAB",
+            "text": "Had such an amazing time at Harlem Shake! The service was great as well, the staff were very accommodating and helpful. I throughly enjoyed everything I tried there! The watermelon punch tasted just like a piece of candy. The lobster was so fresh, and the bun was so soft. I loved the tanginess when added some squeezes of lemon juice. Their burgers are astounding. The meat isn’t too heavy and their special sauce adds so much flavor to the burger as well. I loved the addition of the onions which most burgers don’t have. I dined in with my family and we sat outside enjoying the nice summer weather and Harlem atmosphere. 10/10 definitely recommend. There’s something for everyone on the menu!"
+        },
+        {
+            "date": "7달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3eE4zYXlRRRAB",
+            "text": "Una experiencia americana en pleno Harlem.Desde el primer momento Gabriel fue encantador y amable haciéndonos sentir como en casa. Más allá del trato, vinimos a este lugar ya que era la mejor smash de la ciudad y sin duda lo pudimos comprobar. También ofrecen unos espectaculares shakes y nos sorprendió la bebida frozen."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREaDhPelRBEAE",
+            "text": "I was doing my daily walk and decided to enter this location. Thought it was a diner style eatery, but it was not. You wait on a line to place your order. You have to seek a place to sit. They have outdoor dining. I got there after 6:00 pm and missed their live music. Burgers were good."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQemF2aWl3RRAB",
+            "text": "For $20, I was a little disappointed by the quality of  ingredients. The jalapeños were straight from the can and 1/4 of the fries were overdone. I still ate everything, the hot honey combo was this meal’s saving grace. But even if you had dog food, hot honey would make it taste amazing. 3/5 stars."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3NnJPOUF3EAE",
+            "text": "This was the first time I ordered from here (via their website - delivery through Toast).  The cheese sauce is really good; unfortunately it spilled all over inside the bag.  I tried to scoop it up with my fingers.  It was very delicious like queso with the parmesan cheese truffle fries.  I got their special (chilled lobster roll and lobster blt), cole slaw, and fries.  I called three times, and they picked up on the fourth call.  The receptionist said sorry for the spilled cheese.  I think maybe next time put tape to seal the lid better or just have an option to pour it over the fries.  Great food.  Maybe I’ll pick it up next time.  They do give a generous amount of cheese sauce (3.75 ounces).  I always walk by, but never got food from there because the music tend to always be very loud.  Glad I tried it today!\n\nOnline Delivery Information\n\nCheck #263\nOrdered:\t8/14/24 6:39 PM\nDue:\t8/14/24 7:14 PM\n\n1 Lobster BLT\t$34.00\n1 Side of Creamy Slaw\t$5.00\n1 DarDra's Parmesan Truffle Fries\t$11.00\nAdd Cheese Sauce\t$1.50\n1 Maine Lobster Roll\t$27.00\n\nSubtotal\t$78.50\nDelivery Fee\t$1.00\nTax\t$6.97"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kSWVHVmtlalI0V0MxZk9UZENPR1JoTVdGVGNHYxAB",
+            "text": "Incredibly cool atmosphere with lovely staff. Just got shakes, can’t comment on the food. It is expensive but hey it’s New York, everything is expensive."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlanNmbzBBRRAB",
+            "text": "While the food is really good, the service is really bad. I would rate the food a four out of five and the service of one out of five.\n\nI got their hot mess burger in addition to their french fries.\n\nThe burger was exceptional. It had sweet, relish, as well as really crispy and savory beef. It was a perfect ratio of ingredients and was super fresh and flavorful. The fries were also really exceptionally great. They were perfectly fried and had so much flavor.\n\nThe reason this place only gets three stars is because the service was terrible. When I got there, it took at least 15 minutes for any of the workers to decide to help me. Several of them looked my way with distain, and would not come over to help take an order. Once I did place my order, they still were very unfriendly throughout the entire experience.\n\nPersonally, I would only order food to be delivered from here to avoid interacting with the staff."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyd0wzNWJnEAE",
+            "text": "I’m back for another local spot! If you ever come across on 125th Harlem, then you should take a trip to Harlem Shake! This is my second time having a really good burger and sauté onions (yum). The service here was friendly and there’s also an open area to sit. To drink, I had their strawberry lemonade!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGd09HcGZaRWxtWkc0NE9XZG9aek4zVUROSU1IYxAB",
+            "text": "Kindly greeted at the register. The young lady was friendly. I was craving fries. Truffle fries, were ok. The cheese fries were my favorite."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIa3FLSnV3RRAB",
+            "text": "Pedimos por delivery. Llego a tiempo y con una excelente presentación. Pedimos 2 impossible una con gluten free bun y la otra normal. Y unas jerk fries que resultaron ser extremadamente picantes y en ningún lugar aclaraban ese dato. Las hamburguesas estaban ricas."
+        }
+    ],
+    "reviews_count": 78
+}

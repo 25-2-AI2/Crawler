@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Isabelle's Osteria",
+        "address": "245 Park Ave S, New York, NY 10003, USA",
+        "place_id": "ChIJV9twMKRZwokRkXW1n1miJeQ",
+        "rating": 4.7,
+        "user_ratings_total": 1204,
+        "phone_number": "(212) 388-1145"
+    },
+    {
+        "name": "Gramercy Tavern",
+        "address": "42 E 20th St, New York, NY 10003, USA",
+        "place_id": "ChIJvSQIgqFZwokRFYQbJdzceSs",
+        "rating": 4.6,
+        "user_ratings_total": 4654,
+        "phone_number": "(212) 477-0777"
+    },
+    {
+        "name": "Malii Gramercy",
+        "address": "391 2nd Ave, New York, NY 10010, USA",
+        "place_id": "ChIJVeMsuJxZwokRMmTyY-QOKwY",
+        "rating": 4.8,
+        "user_ratings_total": 1570,
+        "phone_number": "(646) 952-0078"
+    },
+    {
+        "name": "Hole In The Wall - Murray Hill",
+        "address": "445 E 35th St, New York, NY 10016, USA",
+        "place_id": "ChIJoecSE4VZwokRPZG_RdDVXNs",
+        "rating": 4.7,
+        "user_ratings_total": 1787,
+        "phone_number": "(646) 858-0401"
+    },
+    {
+        "name": "BARBOUNIA",
+        "address": "250 Park Ave S, New York, NY 10003, USA",
+        "place_id": "ChIJafcWm6FZwokRAD6WiHiQdpE",
+        "rating": 4.7,
+        "user_ratings_total": 4262,
+        "phone_number": "(212) 995-0242"
+    },
+    {
+        "name": "The Flatiron Room Murray Hill",
+        "address": "9 E 37th St, New York, NY 10016, USA",
+        "place_id": "ChIJHweSsgBZwokRloB86aLgrzE",
+        "rating": 4.5,
+        "user_ratings_total": 1183,
+        "phone_number": "(212) 725-3866"
+    },
+    {
+        "name": "Norma",
+        "address": "438 3rd Ave, New York, NY 10016, USA",
+        "place_id": "ChIJbwHIighZwokRbdADB-4Hzd8",
+        "rating": 4.6,
+        "user_ratings_total": 1620,
+        "phone_number": "(212) 889-0600"
+    },
+    {
+        "name": "Tara Rose| NYC",
+        "address": "384 3rd Ave, New York, NY 10016, USA",
+        "place_id": "ChIJpx_u6NZZwokR0gixoJrE5Ww",
+        "rating": 4.7,
+        "user_ratings_total": 1041,
+        "phone_number": "(929) 602-5983"
+    },
+    {
+        "name": "Motek Flatiron",
+        "address": "928 Broadway, New York, NY 10010, USA",
+        "place_id": "ChIJffCQAjZZwokRhdsmOjKihJo",
+        "rating": 4.9,
+        "user_ratings_total": 777,
+        "phone_number": "(646) 663-8374"
+    },
+    {
+        "name": "Villa Berulia",
+        "address": "107 E 34th St, New York, NY 10016, USA",
+        "place_id": "ChIJe14KpQdZwokReRadKUwTRSM",
+        "rating": 4.7,
+        "user_ratings_total": 447,
+        "phone_number": "(212) 689-1970"
+    },
+    {
+        "name": "KJUN",
+        "address": "154 E 39th St, New York, NY 10016, USA",
+        "place_id": "ChIJ7xJ4Rw9ZwokRhQQ-WKtoJFg",
+        "rating": 4.9,
+        "user_ratings_total": 1732,
+        "phone_number": "(347) 675-8026"
+    },
+    {
+        "name": "Zuma New York",
+        "address": "261 Madison Ave, New York, NY 10016, USA",
+        "place_id": "ChIJjxZ92gBZwokRBs-63wLcBp8",
+        "rating": 4.3,
+        "user_ratings_total": 1936,
+        "phone_number": "(212) 544-9862"
+    },
+    {
+        "name": "The Flatiron Room NoMad",
+        "address": "37 W 26th St, New York, NY 10010, USA",
+        "place_id": "ChIJiXS6uaVZwokRqjgLG65i9Gk",
+        "rating": 4.5,
+        "user_ratings_total": 1903,
+        "phone_number": "(212) 725-3860"
+    },
+    {
+        "name": "Banter NYC - Murray Hill",
+        "address": "201 E 31st St, New York, NY 10016, USA",
+        "place_id": "ChIJdaNVBAlZwokRH3hMCPtgNi8",
+        "rating": 4.4,
+        "user_ratings_total": 118,
+        "phone_number": null
+    },
+    {
+        "name": "Friend Of A Farmer",
+        "address": "77 Irving Pl Ground Floor, New York, NY 10003, USA",
+        "place_id": "ChIJb85ryKFZwokRaCJqC07E0G0",
+        "rating": 4.4,
+        "user_ratings_total": 1806,
+        "phone_number": "(212) 477-2188"
+    },
+    {
+        "name": "Jackson Hole Burgers",
+        "address": "521 3rd Ave, New York, NY 10016, USA",
+        "place_id": "ChIJxy1zcQZZwokRmuPUv0M9GjA",
+        "rating": 4.4,
+        "user_ratings_total": 2292,
+        "phone_number": "(212) 679-3264"
+    },
+    {
+        "name": "Tartinery Café - Bar | Park Ave",
+        "address": "90 Park Ave, New York, NY 10016, USA",
+        "place_id": "ChIJU4BXwxlZwokR0aB-pKkrjKU",
+        "rating": 4.7,
+        "user_ratings_total": 2282,
+        "phone_number": "(212) 300-5838"
+    },
+    {
+        "name": "Park Avenue Tavern",
+        "address": "99 Park Ave, New York, NY 10016, USA",
+        "place_id": "ChIJgbFrPwFZwokRiSXnTa5SUOs",
+        "rating": 4.4,
+        "user_ratings_total": 2229,
+        "phone_number": "(212) 867-4484"
+    },
+    {
+        "name": "Nonna Dora's 2nd Avenue",
+        "address": "606 2nd Ave, New York, NY 10016, USA",
+        "place_id": "ChIJfcwK4I9ZwokRB91xJVHrA4s",
+        "rating": 4.4,
+        "user_ratings_total": 448,
+        "phone_number": "(917) 261-6544"
+    },
+    {
+        "name": "Pershing Square",
+        "address": "90 E 42nd St, New York, NY 10017, USA",
+        "place_id": "ChIJBRoSgwFZwokRUSh30OTrJ6A",
+        "rating": 4.2,
+        "user_ratings_total": 4674,
+        "phone_number": "(212) 286-9600"
+    },
+    {
+        "name": "Giorgio's of Gramercy",
+        "address": "27 E 21st St, New York, NY 10010, USA",
+        "place_id": "ChIJ0f2BYaFZwokR1ZhJ5byw-co",
+        "rating": 4.5,
+        "user_ratings_total": 529,
+        "phone_number": "(212) 477-0007"
+    },
+    {
+        "name": "wagamama, murray hill, new york",
+        "address": "605 3rd Ave, New York, NY 10158, USA",
+        "place_id": "ChIJmw7HvHpZwokR_jQtbm6Zrj0",
+        "rating": 4.4,
+        "user_ratings_total": 1317,
+        "phone_number": "(646) 813-3396"
+    },
+    {
+        "name": "Murray Hill Diner",
+        "address": "222 Lexington Ave, New York, NY 10016, USA",
+        "place_id": "ChIJd_29ywdZwokRiT2DFJRHnjM",
+        "rating": 4.4,
+        "user_ratings_total": 2239,
+        "phone_number": "(212) 686-6667"
+    },
+    {
+        "name": "Little Ruby's Murray Hill",
+        "address": "442 3rd Ave, New York, NY 10016, USA",
+        "place_id": "ChIJK5v5ighZwokROtdIRyEVYSM",
+        "rating": 4.4,
+        "user_ratings_total": 1196,
+        "phone_number": "(212) 300-4245"
+    },
+    {
+        "name": "Serafina Madison 38th (Midtown)",
+        "address": "241 Madison Ave, New York, NY 10016, USA",
+        "place_id": "ChIJ8TP4iZlZwokRITFJkalDwsc",
+        "rating": 4.1,
+        "user_ratings_total": 480,
+        "phone_number": "(646) 779-7667"
+    },
+    {
+        "name": "Hill and Bay",
+        "address": "581 2nd Ave, New York, NY 10016, USA",
+        "place_id": "ChIJfW8ATQ9ZwokRgiHnfUc2PxA",
+        "rating": 4.3,
+        "user_ratings_total": 695,
+        "phone_number": "(212) 245-5554"
+    },
+    {
+        "name": "Momosan Ramen & Sake",
+        "address": "342 Lexington Ave, New York, NY 10016, USA",
+        "place_id": "ChIJucFsVwFZwokRDgJNUSyXpQE",
+        "rating": 4.5,
+        "user_ratings_total": 3099,
+        "phone_number": "(646) 201-5529"
+    },
+    {
+        "name": "Rossini's",
+        "address": "108 E 38th St, New York, NY 10016, USA",
+        "place_id": "ChIJV6mJyQZZwokRPoUsJJjsgoI",
+        "rating": 4.5,
+        "user_ratings_total": 669,
+        "phone_number": "(212) 683-0135"
+    },
+    {
+        "name": "Sarge’s Delicatessen & Diner",
+        "address": "548 3rd Ave, New York, NY 10016, USA",
+        "place_id": "ChIJR_f8ggZZwokRdfXSsyN0IGU",
+        "rating": 4.3,
+        "user_ratings_total": 3621,
+        "phone_number": "(212) 679-0442"
+    },
+    {
+        "name": "La Grande Boucherie",
+        "address": "145 W 53rd St, New York, NY 10019, USA",
+        "place_id": "ChIJ58OtM8pZwokRbd6DT6gcVys",
+        "rating": 4.6,
+        "user_ratings_total": 8449,
+        "phone_number": "(212) 510-7714"
+    },
+    {
+        "name": "Thai Food Near Me",
+        "address": "625 2nd Ave, New York, NY 10016, USA",
+        "place_id": "ChIJy63wRcRZwokRs9ZWcKlcMPE",
+        "rating": 4.8,
+        "user_ratings_total": 840,
+        "phone_number": "(917) 464-5585"
+    },
+    {
+        "name": "Pranakhon",
+        "address": "88 University Pl, New York, NY 10003, USA",
+        "place_id": "ChIJeWk_ncJZwokR1QHfApa0dQo",
+        "rating": 4.7,
+        "user_ratings_total": 2650,
+        "phone_number": "(212) 786-6789"
+    },
+    {
+        "name": "Tipsy Shanghai 蘇杭餐厅",
+        "address": "594 3rd Ave, New York, NY 10016, USA",
+        "place_id": "ChIJ7UNgV8tZwokRM1hF8E977xA",
+        "rating": 4.5,
+        "user_ratings_total": 893,
+        "phone_number": "(212) 466-6488"
+    },
+    {
+        "name": "Bubo",
+        "address": "515 3rd Ave, New York, NY 10016, USA",
+        "place_id": "ChIJE5h5cQZZwokR-Gi2BfLvPvg",
+        "rating": 4.6,
+        "user_ratings_total": 321,
+        "phone_number": "(212) 532-3300"
+    },
+    {
+        "name": "Patrizia's Of Manhattan",
+        "address": "462-466 2nd Ave, New York, NY 10016, USA",
+        "place_id": "ChIJl4SyfAlZwokRH9jp28Mfb1g",
+        "rating": 4.4,
+        "user_ratings_total": 1477,
+        "phone_number": "(212) 597-9999"
+    },
+    {
+        "name": "Sinigual",
+        "address": "640 3rd Ave, Manhattan, NY 10017, USA",
+        "place_id": "ChIJfzIvuANZwokRqytv5KEVvyM",
+        "rating": 4.4,
+        "user_ratings_total": 2802,
+        "phone_number": "(212) 286-0250"
+    },
+    {
+        "name": "Bella Union | Rooftop Bar",
+        "address": "411 3rd Ave, New York, NY 10016, USA",
+        "place_id": "ChIJhWLyL1FZwokRq5e_w2IWYx0",
+        "rating": 4.4,
+        "user_ratings_total": 423,
+        "phone_number": "(646) 627-7841"
+    },
+    {
+        "name": "Sunflower Gramercy",
+        "address": "335 3rd Ave, New York, NY 10010, USA",
+        "place_id": "ChIJs1F-yH5ZwokRYHDSSp_-SGk",
+        "rating": 4.3,
+        "user_ratings_total": 491,
+        "phone_number": "(917) 262-0804"
+    },
+    {
+        "name": "The Flying Cock",
+        "address": "497 3rd Ave, New York, NY 10016, USA",
+        "place_id": "ChIJYwb-EAZZwokRnrMfU8WB92M",
+        "rating": 4.5,
+        "user_ratings_total": 1300,
+        "phone_number": "(212) 689-6900"
+    },
+    {
+        "name": "Fumo Kips Bay",
+        "address": "415 3rd Ave, New York, NY 10016, USA",
+        "place_id": "ChIJR0DxVQhZwokRY4vlDg_TZMI",
+        "rating": 4.4,
+        "user_ratings_total": 309,
+        "phone_number": "(347) 332-6866"
+    },
+    {
+        "name": "Little Alley",
+        "address": "550 3rd Ave, New York, NY 10016, USA",
+        "place_id": "ChIJN4jAggZZwokRQ38qpXSjGGQ",
+        "rating": 4.4,
+        "user_ratings_total": 908,
+        "phone_number": "(646) 998-3976"
+    },
+    {
+        "name": "Aunt Bernie's Bar and Jardin",
+        "address": "513 3rd Ave, New York, NY 10016, USA",
+        "place_id": "ChIJQUyO-6VZwokRt-kEP9UFBX8",
+        "rating": 4.5,
+        "user_ratings_total": 134,
+        "phone_number": "(212) 779-1800"
+    },
+    {
+        "name": "WOKUNI",
+        "address": "327 Lexington Ave, New York, NY 10016, USA",
+        "place_id": "ChIJQWyoqwZZwokRbsy5pIm3LRg",
+        "rating": 4.5,
+        "user_ratings_total": 1217,
+        "phone_number": "(212) 447-1212"
+    },
+    {
+        "name": "Albert’s Bar",
+        "address": "140 E 41st St, New York, NY 10017, USA",
+        "place_id": "ChIJTUnFcYpZwokRnDeckKVR3Nw",
+        "rating": 4.5,
+        "user_ratings_total": 414,
+        "phone_number": "(212) 597-9345"
+    },
+    {
+        "name": "Leonetta",
+        "address": "181 Lexington Ave, New York, NY 10016, USA",
+        "place_id": "ChIJ9yGlMQBZwokRoPZF09LClXc",
+        "rating": 4.5,
+        "user_ratings_total": 206,
+        "phone_number": "(646) 448-4288"
+    },
+    {
+        "name": "Chef Huang",
+        "address": "635 2nd Ave, New York, NY 10016, USA",
+        "place_id": "ChIJiS04VWNZwokRCtm_6zu-b-w",
+        "rating": 4.7,
+        "user_ratings_total": 324,
+        "phone_number": "(646) 918-6065"
+    },
+    {
+        "name": "Serra by Birreria",
+        "address": "200 5th Ave, New York, NY 10010, USA",
+        "place_id": "ChIJ7X-_DaRZwokRnu0oxe0crlo",
+        "rating": 3.9,
+        "user_ratings_total": 3006,
+        "phone_number": "(212) 229-2560"
+    },
+    {
+        "name": "Gramercy Kitchen",
+        "address": "184 3rd Ave, New York, NY 10003, USA",
+        "place_id": "ChIJDxR7d59ZwokRkTMW7oCrVl4",
+        "rating": 4.3,
+        "user_ratings_total": 830,
+        "phone_number": "(917) 265-8884"
+    },
+    {
+        "name": "Sam's Place",
+        "address": "132 E 39th St, New York, NY 10016, USA",
+        "place_id": "ChIJ1XtiVAFZwokRhRSA2bnhJs8",
+        "rating": 4.6,
+        "user_ratings_total": 443,
+        "phone_number": "(212) 599-6360"
+    },
+    {
+        "name": "The Gem Saloon",
+        "address": "375 3rd Ave, New York, NY 10016, USA",
+        "place_id": "ChIJxzEIvQlZwokRkD-Blr-isCo",
+        "rating": 4.4,
+        "user_ratings_total": 1110,
+        "phone_number": "(646) 612-7757"
+    }
+]

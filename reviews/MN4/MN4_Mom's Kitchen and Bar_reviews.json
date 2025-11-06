@@ -1,0 +1,649 @@
+{
+    "name": "Mom's Kitchen and Bar",
+    "place_id": "ChIJH8bnPlFYwokRLEtp039TVUU",
+    "grid": "MN4",
+    "address": "701 9th Ave, New York, NY 10019, USA",
+    "rating": 4.5,
+    "user_ratings_total": 3969,
+    "phone_number": "(646) 657-0080",
+    "reviews": [
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFeFkxTkJlbWxPWjB0aWJHeGphRlZ1T0VaYVRFRRAB",
+            "text": "Victoria was amazing! She greeted us with a smile and has such good energy. Food is amazing! We had an amazing time, we will be back!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGa2VWaEJVemRoYXpKMVl6bDZOMlEyZVhGd1drRRAB",
+            "text": "Everything was great! AB the manager and Jay our server were soooo accommodating. The cheese grits are a 11 out of 11. Soooooo good! Mom’s is on the forever list of places to visit when we go back to NYC"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGdU16Rm9aVUYxUTFGTlVucDJNMGx2ZUcxclNsRRAB",
+            "text": "Discovering Mom's Kitchen and Bar has been one of our better food decisions. Their food misses its potential. The spot occupies an accessible neighborhood. The staff's friendliness wasn't forced. I can't wait to return here."
+        },
+        {
+            "date": "5일 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oeVozSkxhekZyYXpkWVMzZHhjSEJOVDBWT2IyYxAB",
+            "text": "Super endroit pour faire un brunch. Portion très généreuse et cuisine « maison ». Service client au top. Allez y les yeux fermés."
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwaFUweEhWbTFST1RKR2VWOXJVbTl4Y0c0d1FsRRAB",
+            "text": "Fun atmosphere with attentive service and good food.  Portions were huge, creative and tasty."
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sweFlUSjFXRFl0TFVFNGNVWnFibTV4TVZwRFpHYxAB",
+            "text": "The food was ok. $170 breakfast for 4"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xka1MyWm5NVEUyWDFCc1Myd3RNV0prU2tkUWFrRRAB",
+            "text": "Ordered avacado toast and the breakfast sandwich, both were very very very good. Best avacado toast ever!!!!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OdVluQTJjMTl4UTNablZpMXFVM1ozYjBkMFoyYxAB",
+            "text": "La comida excelente. Sobre todo el pollo con waffles pero los tragos sin sabor"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kUU5tc3lNR2xYVld4T2JucHlhREF0UTBoR1QzYxAB",
+            "text": "Came here on a slower day. Food, service, drinks, atmosphere, everything was okay. The cauliflower bites was the only thing that was genuinely bad. Everything else was not bad but not good or amazing either. I heard so much about this place but it didn’t live up to the expectations. Gave it a 2 because for what we paid, I expected way more."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WUVJHWldXVmgwTW5SelQwVm1XbWh2V21sR1kyYxAB",
+            "text": "never again,chicken old,bean burger soggy,sweet potatoe fries mushy."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVNU5ucHhNRTE1UjJScmRHbGZWMWhaUVdKd1lWRRAB",
+            "text": "A kitschy cute diner with delicious food. Our server Emerson was a delight and made us feel at home."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201YVgzZDZURVJETjFkTFVubERabTFvTVRKRGRGRRAB",
+            "text": "Waiters and cleaners are very attentive & work very well together/as a team. My waiter asked what I needed and seconds not minutes later the services brought it out to me."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xa01taHFMVFJRUkd4dWREWktMVlpUYkVKWE4zYxAB",
+            "text": "I recently just went with my girlfriend and it was spectacular. Immediately upon entry we were greeted with amazing service. Our waiter Emerson did an amazing job taking our orders and getting them to our table quickly. Personally, I got their Cinnamon French toast with vanilla ice cream on top and the pumpkin vodka RumChata drink (can’t remember what’s it’s actually called lol), but both had an amazing balance between flavors. My girlfriend got the chicken and waffles. In her own words, “ I would describe it as good. The chicken was really crispy and it came with a nice sweet sauce on the side. Very large portions.” Overall this is an amazing atmosphere and they were playing Harry Potter on the tv’s."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jMlJGSlZiRGRTWDNWbGJDMHlZbk5sVWxCRmEyYxAB",
+            "text": "The food and music here is so good!! Came with my boyfriend and the vibes were immaculate 👌🏽✨ the servers were really friendly and attentive too! The TV’s were playing classic kids movies which was a fun touch as well. Recommend and will definitely come again."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0TWRrbDNZbFIzTm1kVlVqVjFkMEZUU2xWWFkxRRAB",
+            "text": "Very good food! One thing is the breakfast burrito laked flavor and was way to much egg. Could just be a personal preference! The French toast is soooo tasty!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pnMVVVOVJRazFFTVUxek9HSTNlV0phZDBVMmExRRAB",
+            "text": "We had the pancake burrito\nIts big enough for 2 people and its delicious.\nGreat service 👏\nCartoons were playing on the TV\nI loved it."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWVlZHSkpXREpUUVc5dmJYVldYMlkzZFU5WFRIYxAB",
+            "text": "Great everything!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ka2RHcEpSV05EZGtZNE9VMTNjbVYyYm1Sa1RYYxAB",
+            "text": "Awesome food and even better service. I'm in town a few more days and will be back for sure!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCaVgzZGZOV1JGVkZkMFRXUTNObFJhVlVWa1kxRRAB",
+            "text": "Average food, overpriced"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xJNWRtRnBZek4yVVdkcVMwZzBiMHM1ZERGQlRYYxAB",
+            "text": "Food was great. Seated quickly. All staff was friendly and checked in regularly to see if we needed anything. We selected thus restaurant due to its proximity to the theater district. Will visit it again the next time I'm in NYC."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxT00xWTNObE5oTnpNM1pVTklaazFCT1ZKcFprRRAB",
+            "text": "The bowl of soul was just salty and sour. It was sooo salty and sour that I couldn’t even eat it. The eggs on the other hand, was rly good, cooked to perfection. The whole time I was sitting down, there was a disco ball constantly flashing in my eye which I disliked. The waiter was rly kind and friendly the entire time. Recommended but just not the bowl of soul."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxelIyZzVPRWxKWVRZM2JEVlhNRzlVYm5WamVHYxAB",
+            "text": "Big portions, warm and cozy, felt very home-like. Comfort food at it’s best, good service 🙏"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214UlJHWXhRblJuY2pKZlJEQjBjV2Q0VUcxRlRGRRAB",
+            "text": "Genuinely outstanding."
+        },
+        {
+            "date": "3주 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aTGVFeEhTMmxDZFZNNVJFZE1UM2R1VEhGMlZVRRAB",
+            "text": "Très bonne adresse, on c’est fiers aux avis ici et nous  avons eu raison. Très bien accueilli assiette très copieuse, restaurant propre 😀. Assez typique est un peu éloigné de la foule de Time square :)"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKbVJteENiblpHZVhWaVdreDNMVlIxVDFKTFJHYxAB",
+            "text": "We absolutely loved our brunch at Mom’s Kitchen and Bar! The fried chicken was perfectly seasoned and crispy, made with chicken breast but still incredibly juicy. The Woodland omelette was savory, and the béchamel sauce was the perfect touch that made the dish spectacular. The Gymbod Breakfast was another favorite, and it’s proof that healthy options can still be absolutely delicious!\n\nThe service was amazing, and everyone was so friendly and attentive, specially our server Maggie. The ambience was cute, fun, and full of great energy, making it the perfect spot to end our weekend getaway in NYC. We’ll definitely be coming back!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGalYzTXlkWHB2YUhCUFlscFVjVzFrZG1wbmVtYxAB",
+            "text": "EMERSON !!! YOU 👉🏾 THE MAN!!!!!!!!!!!!\n⭐️ ⭐️ ⭐️ ⭐️ ⭐️\nKEEP UP THE GREATNESS WITH THE CUSTOMERS.\n\n🫡 SALUTE UNTIL NEXT TIME MATE!!!! NYC"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1TFdGRldlRFZKUjBnMGVGSkRSMkp4YWw5Q1ZFRRAB",
+            "text": "service/atmosphere is great. food is fine. standard american fare.\nhad chicken and waffles"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSQk4wdHVOV05SU3pkSE4ySkVla3RVVFVWNk9GRRAB",
+            "text": "This restaurant was absolutely amazing great food choices and drinks the staff were lovely all the way from Glasgow 🫶💓"
+        },
+        {
+            "date": "3주 전",
+            "language": "de",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvNFpHbFVPRGRSYmxSeWIyVXplVFk1UVcxbU5IYxAB",
+            "text": "Gutes Essen zum fairen Preis. Eher etwas für Jugendliche. Kann ich weiterempfehlen."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paMmJtZFhiR1JYYjE5TU5tWXhORnAxUjFGNVZVRRAB",
+            "text": "Mom's Kitchen and Bar creates dishes that tell stories through their flavors. Their dishes show remarkable execution. Delightful place. Service was remarkably thorough! Highly recommend it."
+        },
+        {
+            "date": "4주 전",
+            "language": "fr",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoRldHSkhOMHBKVEVaTFozQTNSMEo2UnpkR1RFRRAB",
+            "text": "Super Mon's Burger, milkshake très savoureux\nService agréable et rapide\nPlaylist 80/90 dynamique"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSNFYyTkdlVXBzVG1GblRHbFFjMUJJZGpaTmNuYxAB",
+            "text": "Such a fun dinner spot with friends!  Friendly service and catchy music in an upscale yet retro dining room.  Buy beware - portions are massive and everything is delicious!  The mimosas and Oreo milkshake were to die for.  The chicken avocado bowl and a (huge) side of chocolate chip pancakes made for a filling meal.  Such nice variety on the menu you may have trouble deciding!  Can’t wait to go back!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SNE5XZzBTekZIY2xFMU0xWk1NekZoWjJ0S2IyYxAB",
+            "text": "The food was fire 🔥 and the service impeccable, Emerson was our server and he gave us recommendations and asked us about our day, we had a very lovely time. Would go again 10/10"
+        },
+        {
+            "date": "4주 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5R1pYVnlSazlTUnpGaFZFTk9hREF6YjJ4UmVVRRAB",
+            "text": "Chicken Avocado Bowl , die muss man hier gegessen haben...\nDie Musik war mir persönlich zu laut, sonst alles top!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sMlEwbEJNVEJrTkdwcE5GZEdNR2xNWTJKUGIwRRAB",
+            "text": "Delicious food and fun atmosphere! You feel like you’re at someone’s house"
+        },
+        {
+            "date": "4주 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkQ2VGbE1SSGhtY2s5eFRIRjFRMEpmZEdsR1QxRRAB",
+            "text": "早午餐，媽媽的漢堡份量很夠，肉排很好吃，微辣"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GTlIwTTBTSG8yZVhKd2MxUnVRbU5zWjBKbWFtYxAB",
+            "text": "Amazing, delicious, and exciting! Breakfast burrito, avocado toast with lox, and even the burger cooked to perfection. Nicest staff!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKU2IyZDJUek5OYTNZdFJGUXdYMWh0WVZWRU9VRRAB",
+            "text": "I steered people toward this spot. The proprietor and workers treat everyone with friendliness. The place is well-located and our visit exceeded expectations. Their cooking is superb and costs what it should. The entire experience exceeded expectations."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4d1lVTllTVEpETm5WUlQyNW1TbGQ2WTJzd2FtYxAB",
+            "text": "Enjoyed my food here. Nice small outdoor seating area with tables on the sides of the restaurant. Good location in Midtown."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsWWJVRllRVGRzYkhWd1JYZ3pOWE5JVWtOWVNtYxAB",
+            "text": "Service was quick and food was delicious.  I ordered the shrimp and grits, which were to die for and had the 21 ounce strawberry mimosa, which was equally delicious. I will definitely be back when I come back to the city."
+        },
+        {
+            "date": "1달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psdmJVSk5NR0l6WTNwMmRVcE9aV0l5VTFsblpYYxAB",
+            "text": "Il miglio ristorante dove ho mangiato a New York. Trovato per caso, si è rivelato un ottimo ristorante. Posto piacevole, accogliente, pulito. Ambiente piacevole. Tanta professionalità e cortesia colpiscono già nell'accoglienza. Grazie poi…"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kUFduRlhWSFJXUmxodE9DMDVhMkp4U2xwc01VRRAB",
+            "text": "Emerson great waiter very attentive gave us great food Recs aswell!"
+        },
+        {
+            "date": "1달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxUE1uRmFTa2xOWkZac2FITnFWVWgyUmpOelRVRRAB",
+            "text": "Das Essen 🥘 war frisch und köstlich 😋, Bedienung schnell und aufmerksam, Preis Leistung passend, vielen Dank 🙏 gerne wieder"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psUGFrTnhXbEZVYXpoelVVUjJSRFUyVW1semFIYxAB",
+            "text": "Fun diner vibes, great food and service.  It’’s busy for brunch.  Definitely will be back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twMlNEQTJRaTB5ZDI1alQyeFNOV2hEVGpGc1JsRRAB",
+            "text": "Food came out really fast for a Saturday at noon"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GU09GRjNjemRSYlZKME5UVk1Rbk5DVEd4WGNYYxAB",
+            "text": "Very good"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kcFdHVkVibUpaTTBadmIwcG1TRWx2ZGxSNFVWRRAB",
+            "text": "Enjoyed a wonderful brunch here on a weekend get away. Would recommend 👌"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGdmRVSlBWMUpMWDNSTFVXODBja1ptUWpjd2FHYxAB",
+            "text": "Amazing\n\nWe just landed in NY and went straight for the mac&cheese here. Lovely music and smiling staf.\n\nBest way to start the BigApple experience. Thank you guys 😍😍😍"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1ck8zYV9RRRAB",
+            "text": "This picture was taken at 9am. Very spacious. Busy for lunch times. Fridays and Saturdays very buy."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wdmFtdzVXbVk0VFhoQ2FtRnFTMEpuZDJ0UVRHYxAB",
+            "text": "Great food and service. My children had a great time."
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKb3EzTE9BEAE",
+            "text": "일단 들어가면 현지느낌이 많이 나요. 너무 시끄러워 대화를 할 수 없는 수준이라 조용히 밥만 빨리 먹고 나왔습니다. 오믈렛은 버섯이 많이 들어가서 맛있었고 샐러드는 신선해서 좋았어요. 조용히 식사하고 싶으신 분들께는 북적거리는 시간 잘 피해 가셔야 할듯요."
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzaTRIbkR3EAE",
+            "text": "아침을 먹으러 오믈렛에 베이컨을 추가해서 먹었는데 꽤 맛있었고 직원도 친절했다."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkdzZhb2pnRRAB",
+            "text": "오믈렛이 환상적이게 맛있습니다.\n한국인 입장에서 느끼하면서도 버섯이 고소해서 너무 조화로워요.\n감자 많이 주셔서 배도 찹니다!"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURsc1BEcXVnRRAB",
+            "text": "동행들과 같이가서 시켜먹었는데 푸짐하고 맛있어요~~ 좀 오래 음식나오는거 기다리긴해요"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6NTZYUElBEAE",
+            "text": "맥앤치즈 개미쳤음. 맨날 기억날 것 같음.. 지금까지의 맥앤치즈는 횟집 콘치즈였다는걸 깨달았습니다"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3eWFEVlJiMG90WWpVMU5EQnNPR3BRTm5wRFlXYxAB",
+            "text": "Stopped off at Mom’s Kitchen and Bar in Mid-Town Manhattan today, I was solo so grabbed a seat at the bar and was greeted by the super friendly staff, with some water and good coffee lined up quickly. It’s a cool place, quite an eccentric decor but not over the top, with a good bustling Sunday brunch vibe going on thanks to the sunshine. The menu seemed great, lots of classic American breakfast dishes to choose from, although I skipped the pancakes and waffles and had the breakfast sandwich with home fries - this was great, and the homes fries are delicious, little roasted/fried skin-on potato chunks which really hit the spot. The steak & eggs and the avocado toast looked tasty too. I really enjoyed stopping off at Mom’s, the barman had good chat and it was great as a solo traveller today. Highly recommended!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kNFEwNDRPR3BOY1ZoVFUya3lhRmhEVDBSSWIyYxAB",
+            "text": "Mom’s Kitchen & Bar is such a fun spot in NYC! The retro diner vibe mixed with creative comfort food makes it a really unique experience. The milkshakes are absolutely over the top (in the best way) and the portions are super generous—you definitely won’t leave hungry. Service was friendly and the atmosphere is lively without being overwhelming. The only reason I’m giving 4 instead of 5 stars is because it can get a little pricey for what you’re getting, and the wait can be long during peak hours. Still, definitely worth a visit if you’re in the mood for comfort food with a twist!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJT0J5OC1ZOXZybU9BEAE",
+            "text": "I LOVED THE FOOD!! I got the chicken and waffles and it was EXACTLY what's I've been craving for all long. Real handmade waffles, well seasoned, crispy chicken and the food was HOT! I also enjoyed the sauce that I got on the side for the chicken. I don't exactly know what it was but it was really good. And it's some type of sweet a little bit spicy syrup for the waffles that I did like as well. My server was polite and accommodating but I forgot his name. We were greeted by a nice young lady who seemed friendly at the door. I didn't really care for the atmosphere too much. The background was a bit noisy with lots of chatter and it was pretty crowded but I can see why because the food was just delicious! In my opinion, I found the prices to be a little pricey for me personally but it was worth every penny. I also got the blue electric lemonade which was really good. Had a nice little buzz going on. (My friends also enjoyed their food)"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paR056UkpOR1ZyVFVvelJtcE1ORjlKWW5KUWVsRRAB",
+            "text": "We went to Mom’s Kitchen for a late brunch and were impressed by the variety of dishes. We tried the breakfast sandwich, the avocado toast, and the pancake burrito. We also shared some chicken wings and fried cheese curds. The food was decent, and the portions were absolutely massive — we could barely finish because it was so generous. The service was very pleasant, and the place has a really cool vibe!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kSVJqWlViRXhyZFhwWWRGWnBWMkpFYkdsV1kyYxAB",
+            "text": "I had a pleasant experience at a local establishment in the Hells Kitchen area. I visited for brunch and enjoyed a margarita along with their Woodland omelet, which was quite delicious, especially with the bechamel sauce. While it didn't completely exceed my expectations( sorry couldn't give 5 stars for the food. But 4 is still really solid) and the food was enjoyable, and the atmosphere along with the service provided by the staff were excellent. The ambiance was cozy and comfortable, which generally contributes to a positive experience. I would certainly consider returning if I am in the vicinity again, as it is conveniently located near the theater district, and I am interested in exploring other menu options."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21nd1MwRkRlbFZ0U21ocGRHbFNXRVZ5WkUxUFYwRRAB",
+            "text": "My first drink was warm and they forgot my sausage... That said, they STILL get 5 stars because my food was amazing. Their flavor shots are pretty amazing as well; The breakfast in bed and the jelly donut are superb. I am coming back for more of this Mac and cheese pancake. Omg."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCSVRHOWFUMVZhTjNSWWNGSmxMVVU1WVZZMVVFRRAB",
+            "text": "Went to Mom’s on a Thursday night because I didn’t feel like cooking. The server Max was really cool and informative.  I ordered the shrimp and grits & had one of the best espresso martinis in Hells Kitchen. The environment was super chill with cool movies playing in the background and ambient lighting. I had the pleasure of speaking with the manager Briana before I left, she was so lovely and welcoming. I look forward to coming back!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VPYk5yb21GanFHZ2FREAE",
+            "text": "This place is a vibe! From the over the top cocktails to the hearty comfort food, plus all the unique decor, Mom’s is such a fun dining option in Hell’s Kitchen! They even offer brunch all day and happy hour Mon-Fri.\n\nThe short rib grilled cheese and the chicken and bacon waffle were so tasty! You also can’t go wrong with one of their loaded Mom’s Bigmouth Shakes. Plus, the staff were super friendly and inviting!\n\nSome of what we Tried:\n*Hot Girl Summer cocktail\n*Cheesesteak Egg Rolls\n*Buffalo Mac & Cheese Balls\n*Chicken & Bacon Waffle\n*Short Rib Grilled Cheese\n*Cinnabon Boozy Latte\n*Espresso Martini\n*Bringing Cosmic Back shake\n\nI had a blast! I hope to make it back for one of their trivia nights or other events!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ORFIwaFNRMmRCWkdabGMzUlFjSFV5WlRoMGEzYxAB",
+            "text": "This is a hidden gem here in NYC. My friends and I went here from anime convention a few blocks away and oh my goodness , we were highly satisfied with the taste and overall presentation of the food! My steak was perfect and the side salad was awesome! They have really good customer service too. If you go to NYC, check this place out."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VKbVQ3SnFtLTdIc3JnRRAB",
+            "text": "The Mom-osa did not disappoint the bartender tinted that drink lol- I had the Waffle Chicken and Bacon which had a lot of different tastes - not my fav but the fries on the app menu were good. Great music and the server was really nice. I’d come back!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paR1RscG9PRXhvTFZKQ2ExUkZjMDFsTVZkV2NrRRAB",
+            "text": "Came here for date nignt with my partner before catching a broadway show.  I ordered mom's burger and fries and a strawberry shorty shake. My partner ordered shortrib grilled cheese with sweet potato fries. Both of us substituted salad for fries, because who needs salad with these dishes 😅.   Both meals were delightful, although if I knew it was a  burger patty ( not a patty rolled fresh with ground beef), I would have done medium rare instead of well. It could have used more of the spicy sauce it was a dot in the middle so the whole burger was not spicy just the center. While we ate our milkshakes seemed to catch alot of attention from those that walked by us. We both agreed that the milkshakes were the most enjoyable part of our meal. I would be interested in other shakes and touching their all day brunch next time we are catching a show. We decided tl eat outside because of the beautiful weather. Our server was very attentive and checked on us periodically.  Definitely a chill atmosphere and cozy inside and out"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvX0otU2ZnEAE",
+            "text": "Came here with my partner who really wanted some chicken waffles. We were so happy to find a place that served chicken waffles and a had a vegan option.\n\nI had the chicken sandwich which was really nice and very filling.\n\nI also got the hot girl fall/summer cocktail - if you like a spicy margarita you have to try.\n\nThe staff were really friendly.\n\nOnly reason why it’s not 5* is because the vegan options were so limited. Please consider some more (maybe even vegan chicken waffles)"
+        },
+        {
+            "date": "5달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPT2I5cXlsMHBiSGhBRRAB",
+            "text": "Trouver par hasard, une belle surprise ! Ambiance et serveur.se très sympa 😊 leur avocado toast (avec supplément saumon) est généreux et très goûté ! Apparemment le mom burger 🍔 a été aussi apprécié par mon mari 😁 une chouette adresse. Bonus : la playlist de ce jour là était incroyable 🎶"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201bVRFdzRkazUxZVhsak1qTlJlV2xUU1VwdVEwRRAB",
+            "text": "We had a great lunch here very it’s enough staff huge portions. Lots of fun menu items."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMX1ZrX2pyM0xha3FRRRAB",
+            "text": "Mom’s Kitchen & Bar\n701 9th Ave.\nNew York, NY 10019\n\nCinnamon French Toast\nChicken & Bacon Waffle\nBedrock Pancakes\n\nLocated on the corner of 9th Avenue and West 48th Street just minutes away from Times Square is a locally owned bar.\n\nWhat makes this spot stand out from a majority of their competitors is its expansive all day brunch menu.  Check out a few of the plates I explored.\n\nCinnamon French Toast:\nThis specialty French toast is topped with apple compote, cinnamon toast crunch crumble, and whipped cream.\n\nEach bite sent my taste buds to paradise.\n\nThere is so much flavor you can either have them as is, or feel free to pour as much or as little syrup as you desire.\n\nChicken & Bacon Waffle:\nIt’s time in indulge in this southern classic.\n\nComprised of four triangular Belgian waffle slices, it also includes boneless fried chicken with tender white meat and slabs of crispy bacon hidden beneath.\n\nThe béchamel sauce and cholula honey are the backbone to this breakfast plate.\n\nBedrock Pancakes:\nThese pancakes are a page right out of history.\n\nThere was a variety of berries and a side of whipped cream with fruity pebbles toppings.\n\nThe popular cereal was also mixed in with the pancake batter, which added more flavor, sweetness, and a slight crunch.\n\nAnd I had a yabba-dabba-doo time clearing this plate!\n\nAs a bonus, this bar has several retro decorations.\n\nMost of the patrons should instantly recognize this gnarly memorabilia.\n\nIt’s like visiting an antique shop where you get to admire this awesome merchandise from prior generations.\n\nOutdoor seating is available, but I highly recommend dining inside so you can admire the souvenirs.\n\nThis was a flawless experience exploring breakfast at a bar and it surpassed my expectations by a long shot.\n\n#momskitchenandbar #midtownmanhattan #timessquare #breakfast #bedrockpancakes #pancakes #FrenchToast #cinnamonfrenchtoast #waffles #chickenandbaconwaffles #localbar #foodstagram #nycfoodie #LocalSpots"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPekd1dm5wa3Q3anh3RRAB",
+            "text": "We wanted to order so much diff things to try but ended up ordering the pancake burrito and avocado toast with Lox. Great choice!! The service was great and food came out pretty quickly!! Such great vibes"
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvMDZDc1pREAE",
+            "text": "Not 5 stars because the place is a bit overpriced (neighborhood and tourists play a part in that) considering you can get as good if not better food elsewhere for cheaper. Having said that, the food was solid with sizable portions, and it has a fun vibe.\n\nIn fairness, I will also note that the staff was very friendly and from what I could observe, the manager was really on top of things.\n\nIf you don't mind the higher prices, the food is recommended."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NNFIzWmFaalJpY1RWVlZqRmhTWFprV0c5NVgzYxAB",
+            "text": "We had such a great time at Mom’s Kitchen and Bar. From the moment we walked in, the place had this fun, colorful, and laid-back vibe that instantly made us feel at home. The decor is playful but cozy, and it really sets the tone for what turned out to be a memorable meal.\n\nThe food was absolutely delicious and portions were very generous. I went for a burger, which was juicy, full of flavor, and stacked just right – exactly the kind of comfort food you hope for in a spot like this. My wife tried one of their bowls, and it was fresh, hearty, and perfectly balanced. You can tell they put real care into the ingredients and presentation, even when it’s classic comfort food.\n\nThe milkshakes and cocktails are another highlight. They’re fun, creative, and taste just as good as they look. Definitely something you don’t want to miss if you stop by.\n\nWhat really stood out, though, was the staff. Everyone we interacted with was friendly, upbeat, and attentive without ever being pushy. They made us feel welcome the whole time and kept the positive energy flowing.\n\nIn short: Mom’s Kitchen and Bar is way more than just a place to eat – it’s an experience. Great food, awesome drinks, fun atmosphere, and genuinely nice people. We’ll absolutely be coming back, and we’d recommend it to anyone looking for a relaxed and tasty spot in New York."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkVk1GRjFVR1pUVG14RFVIQkhXVFZDWDNCVU5GRRAB",
+            "text": "The food was fabulous! Or wait staff, Peter, was very attentive to our needs. All the staff were friendly. I definitely will go again. The home fries were the best!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VMLWx1LXFrdHBfZlJBEAE",
+            "text": "Went here for breakfast/brunch. We were seated immediately. Our waitress came over and took drink orders and returned shortly for food orders. The food came out within a decent amount of time. The pancakes were pretty good. I ordered a side of bacon which wasn’t that good. It was bits and pieces and was hard and over cooked. For the price of it, it definitely should’ve been wayyyy better. If you look at my reviews I order bacon everywhere so for me not to send this back and deal with it is big on my part lol. The waffle was good also. My other quarrel is, I don’t like whip cream…consistency thing…so I had that removed. It came correct but I had no syrup. I had to wait until I found my waitress and then she had other tables to tend to and obviously had to fill the container, etc. Needless to say, my husband was halfway through his waffle by the time I got it and then it was lukewarm. Maybe give syrup on the side or ask. I would’ve assumed it came with it but….yeah. If I returned, I would try something else."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ3c0SnZpdGFma3pRRRAB",
+            "text": "Expensive but very good. The mom’s burger was gooey melty cheesy goodness. We also got the chicken and waffles which was enjoyed greatly. The fried chicken I was very juicy and the seasoning was perfect."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJS1JnWlNCd1pLYzlRRRAB",
+            "text": "Yum!! We had the pancake bfast burrito yesterday. It was outstanding with just the right balance of sweet and savory. It was pretty large, so I couldn’t finish it but otherwise it was perfect! The staff was super friendly and I love that it’s 🏳️‍🌈 🏳️‍⚧️ friendly. The vibe is so fun and weird, in all the best ways."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2eGRQamVnEAE",
+            "text": "The waiter that I had was absolutely amazing. He checked up on my friend and I repeatedly and made sure that we had everything we needed. Therefore, we gave him a very happy tip. The macaroni and cheese pancakes were not that great. The macaroni and cheese was delicious, but the pancakes and bits of sausage in it and I already had a side of sausage and it was just overkill and too many flavors mixed together. Outside of the service being excellent, I don’t think I would come back again."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OdVZYSlhTR3hMZG5Wa2JqaFFOSHAyU1dOTWNYYxAB",
+            "text": "I came here for breakfast on a short trip and loved the atmosphere, menu (and menu designs!), and staff. The whole restaurant was very clean and had some great decorations. I kept it simple and ordered the avocado toast; service was quick and the food was delicious! I will definitely be recommending this spot to anyone traveling to NYC."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FdFdtaGxkWEZPUVVwRmEzaHplRTFrTVc5UFpuYxAB",
+            "text": "Wow.. this food, someone good!\nOne plate could honestly feed 2 people. Nice ambience, excellent service. Love this place! (PS: Their Mac n Cheese is so yumz)"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJemE3Ty0xMGJ2aW9RRRAB",
+            "text": "My friend and I visited for a post-theatre meal. I ordered Chicken & Bacon Waffle- the portion size completely astounded me! It was immense- and oh so good. I loved the sweetness of the honey mixed in with the bechamel sauce. Our server was nice."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VPZkJqNDZ1ekxUZFFnEAE",
+            "text": "Overall a great experience. Veggie burger was ok I’ve definitely had better and here in NY. It was more black bean and less burger. The best part of good vegan burger is you can’t tell the difference in a true beef burger"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3Mjc2dHRRRRAB",
+            "text": "We went to moms because we got a recommendation from our hotel staff and it was great! The food is awesome, the waiter repeatedly made sure that we are good and the atmosphere is nice.\nDefinitely worth a visit for good breakfast and we will surely come back for dinner."
+        },
+        {
+            "date": "4달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CRGRuQjFSbU01ZWtvdFRVdHlNbGhZYUVkNU4wRRAB",
+            "text": "Wir waren im Mom's Kitchen als wir von der Intrepid kamen, ca. 15 Minuten zu Fuss. Wir haben zur Mittagszeit noch ein Platz bekommen aber war schon voll. Die Bedienung war sehr freundlich und aufmerksam und Essen war sehr lecker."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KWGVqZDBkMHA1VG1WVFkzUnpkRUl0Y1d4UGNFRRAB",
+            "text": "I went to Moms this past Friday for brunch and they did not disappoint!  The only reason I didn’t give it 5 stars is because I feel like perhaps they could do something to dull the noise factor inside (why we chose to sit outside) but that being said, from start to finish, we had a lovely experience!  I really enjoyed the omelette with wild mushrooms, smoked Gouda and topped with Bechamel sauce and my friend equally enjoyed his Croque Madam! Although we didn’t really need an appetizer (portions are plentiful), we loved the cheese curds starter. The drinks were also lovely but what really made the experience most enjoyable was our server, Jonathan.  He was super friendly, kind and very efficient.  We look forward to coming back soon!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pabVZuTkhXWFpITWtGWU5sVk1kaTFFUWpWTGIzYxAB",
+            "text": "10/10 the drinks and food was very delicious. The atmosphere was very welcoming for all. I recommend for a good brunch."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VORGQ5ZnVsa003bm9RRRAB",
+            "text": "The buffalo Mac and cheese balls are my favorite, I crave them all the time! I got a strawberry margarita and it was delicious, my friend got a mom-osa and loved it too. I love the atmosphere and the decorations here. My only complaint is it took a long time to get the check and we didn’t really get much attention from our server, to be fair it was busy."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WRlJraFlNMXBOVEROcVFuUkNjbEZaU1cxc2RrRRAB",
+            "text": "Beautiful food served by beautiful people. This was our last meal in New York and was a real standout. We shared chicken & waffles and mac & cheese. These dishes could have been overly sickly but somehow the flavour balances kept us going til the end. It’s an awesome spot for brunch if you’re in Hells Kitchen. They also do dinner options and we’d go again to try that if we were back. Service was excellent too, you’re doing an amazing job."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2d0ktaHBnRRAB",
+            "text": "I’ve been to Mom’s kitchen in Astoria and it became one of my favorite brunch spots. Visited the one in the city and have to say that I enjoyed the here food much more! I loved their fried chicken sandwich and home fries with a side of aioli sauce! The service and staff were amazing, very friendly, attentive, and welcoming. Another plus for this place is that it’s very affordable compared to many other brunch spots.\nThey have a wide menu and their ambiance is welcoming for families and friends. Definitely check this spot out if you are around Times Square looking for a great, affordable and delicious place to eat brunch."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3NU1pRXhBRRAB",
+            "text": "This place was something else! Wow! We never had a better french toast. It literally melts in your mouth. The pancakes with mac'n'cheese also tasted fantastic. We loved everything about this place. Our new fav restaurant. And they have happy hour!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvbmVXbDBRRRAB",
+            "text": "Me and my friend dined here a few weeks ago and we had a good time! The ambiance of the place is amazing. They had Phineas and Ferb playing on the TV. The condiments were in a vintage lunch box which was really cool. I had the short rib sandwich and it was good. I would recommend upgrading to the fries. The cheese steak egg rolls were great! The sauce that came with it really put it over the top! I can't wait to come back and try a milkshake!"
+        }
+    ],
+    "reviews_count": 91
+}

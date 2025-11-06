@@ -1,0 +1,607 @@
+{
+    "name": "Nerai",
+    "place_id": "ChIJUWBUEftYwokR1jyaxo2moVg",
+    "grid": "MN5",
+    "address": "55 E 54th St, New York, NY 10022, USA",
+    "rating": 4.5,
+    "user_ratings_total": 1055,
+    "phone_number": "(212) 759-5554",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Kbk1GQnRXR1ZhYXpKbVUyaExPRlZ3ZEZWSlJHYxAB",
+            "text": "Last night I went to eat there with my boyfriend the food was amazing they have amazing Lavrak in the menu that was so delicious also our server was very kind love this place definitely I will come again !!!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sTmIxbGZiWFF3VEZwUmJGZG5XbkJ4YW5Sd05uYxAB",
+            "text": "Excellent all around great food and service"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKSWJEVmZjVGRKUWtOWWVraDRWRU14T1ZwV1pFRRAB",
+            "text": "The Hispanic host today in green had tremendous attitude issues and because of her, we would never dine here and advise the same."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOdlNsSmpaVEZhYUdSVFpHeHZVbXhDVEZJNFUyYxAB",
+            "text": "Wonderful food and service. One minor complaint: menu lists lamb chops, but they came in the form of an intact rack of lamb, which is difficult and awkward to take apart at the table. It should have been pre-sliced in the kitchen beforehand. That having been said, it was delicious."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21acU1tRXlURVV4Y0ZCSk1sVTVOV2R0UjJ3M2RtYxAB",
+            "text": "Nice place"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WWE1qUlFVRlpuZWkxc2RHSlJSVkZGYWtveVZrRRAB",
+            "text": "Had dinner at Nerai and tried a mix of dishes. We had lavraki, lobster pasta, steak, chicken, and baklava for dessert. Everything was nicely prepared and flavorful. Great spot for a relaxed but classy dinner in the city!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pRNGNqUTNPSHB2WkRWcFYyTktPVUZ4Y0dGMlMwRRAB",
+            "text": "Exquisite lamb chops, perfectly cooked pasta, and a curated selection of exceptional wines — a dining experience not to be missed."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwTlZXTXdZbWd3WTJ4aVJrOURXRXh4VFhOWE9HYxAB",
+            "text": "Lobster pasta 🍝: strongly recommend\n🦆 duck breast: the portion size is small (5-6 pieces for a $40 buck dish is not worth it). They didn’t ask us about how well we would like it to be done. It’s medium well when the dish is served…"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pocmRHcFBhVzkyTmxscmVraEZPVUZMZFVGdldGRRAB",
+            "text": "My devotion to this place is complete. Fresh preparation but I needed a larger serving. The restaurant offers a cozy environment. Employees - top-notch - friendly and detailed. They've created a good experience and I'm pleased I visited."
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213NVVtVTJkMFpTUTNoZlJXeDNVelZYTFhkM2NYYxAB",
+            "text": "Ambiente intimo e carino, cucina buona e menù assortito...da provare le chips di zucchine strepitose! Bravi"
+        },
+        {
+            "date": "2달 전",
+            "language": "fr",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkdmQwWXljVFpRWVdkTFdqTjNVazE2Y1dwemFHYxAB",
+            "text": "À tester.. sans plus"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jelRGcE9WR1pHZVV4NFEyVklkV1JYT1hsSFFYYxAB",
+            "text": "I had a terrible experience there, I received my food and it was extremely cold. The women’s restroom it was infested with roaches. Management was terrible and absolutely no help, they rolled their eyes at me. I overheard the way they were speaking to the staff and if it was like nothing I’ve ever heard. I do not recommend this place at all, do not come here. You will be treated poorly"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjNGFDMHlRVlY1TXpJM1YyZGpNV0paTjNRNU5GRRAB",
+            "text": "Had a lovely Easter Sunday lunch to celebrate my wife’s birthday with our son.  Excellent service and delicious food, management made the occasion all the more special."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aUFFuZHRSSFZYTTIxWFkwSnFVVjl6UjFkdU5IYxAB",
+            "text": "The lighting in the restaurant is extremely harsh and not welcoming, which immediately affects the overall atmosphere. I ordered the branzino with spinach, but unfortunately, the flavors were disappointing. The fish lacked depth or any real finesse in its preparation, and the olive oil used did not seem to be of good quality. The spinach was overly salty and had far too much garlic, overwhelming the dish.\n\nWhat truly made me want to leave was the environment. A nearby table of four people was filming videos with cameras and lighting setups—TikTok-style content. Being in New York, I expected a refined, discreet dining experience, but this felt quite the opposite. I ate simply because I was very hungry, but I would not return. The space does not offer the elegance or calm it suggests from the outside."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBeVRHdEpXa1l5UmtveFdFMW9NMmR6Y0dwdU5FRRAB",
+            "text": "I had dinner here with a friend yesterday, and we enjoyed our meal very much. (As shown in photos, we ate a lot). Everything was full of flavor, and I especially enjoyed the duck and baklava plate that came with sesame flavored dessert. Service was good, too. Will definitely be back soon."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KdFJubERiVWx3UkRrNE1sWnRTMTl4TmpGdFlYYxAB",
+            "text": "Amazingly delicious! One of my favorites!!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ReVdGaHFiMTlXTTFkTlpUWjJTR1JRTVhCeVJrRRAB",
+            "text": "Menu, though good, is limited.  Good wines.  Service disappeared at times."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKMFoyZ3piakZrTVZSYU1IWXhTRFptVm0xWWJYYxAB",
+            "text": "Came here for a work outing with some colleagues of mine.  We were seated in the corner underneath the lattice.  The decor is excellent, in case anyone was thinking of taking a date here!.\n\nAnyways, great wine, and *amazing* food.  The lobster pasta is to die for.  Oh and the flounder was just 10/10.  I'm sure we'll be coming back so can't wait to try the rest of the menu.\n\nOur server Nikos was the best.  Thank you for a wonderful time!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25RM2FYSm1lSE5sVDJ4SVRUTnVTV3Q0YnpVMGMxRRAB",
+            "text": "Absolutely outstanding! Not gonna lie, we tried to get in to Monkey Bar, but the wait drove us back out to the street and across the way seemed the shortest path to get fed. WOW what an excellent choice - octopus appetizer, duck moussaka,…"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tST1NVdzRZWGh2TlVJMlFYbFBkRVZVY1ZsUFZrRRAB",
+            "text": "Just in for appetizer and wine. Lamb meatballs were very good.  Greek wine was excellent. Service always strong."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsT2MyTmFMVnAxV1cxT1ZIZDNjM1pMV1U1M2VIYxAB",
+            "text": "Everything about this place is 👍"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKc2RuQTNiakF0ZDFsQmJIZ3pRWFJzZDB0NGNuYxAB",
+            "text": "Ambience and food exceptional"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQakxfNGFaczg3anBRRRAB",
+            "text": "Wow!  Our party of 5 raves about this place!  We ordered every appetizer and they were fantastic. I particularly loved the cheese and zucchini chips. The mains we all hits and we ordered all the desserts. All plates were cleaned with attentive careful service. 5 stars."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLN0VnZTY3cy1DUnF3RRAB",
+            "text": "Absolutely loved this restaurant!! The food and service was fantastic. Lobster pasta was creamy and delicious. My husband got their steak with mashed potatoes and that was also fantastic. Walnut cake and their 3 Greek yogurt sample dessert was the perfect way to round out the meal."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPLVMzNjIxMDlhVmtRRRAB",
+            "text": "elegant and good food"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNSGQzTFh3bjZtanJnRRAB",
+            "text": "Great lamb chops for a relatively inexpensive price considering the size of the portions. Ordered medium rare and was extremely satisfied!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMM2E0ZXVScy1fWHdRRRAB",
+            "text": "lobster pasta is amazing."
+        },
+        {
+            "date": "6달 전",
+            "language": "zh",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZMGR1Rkh3EAE",
+            "text": "这个鸭子又生又老还难咬，有筋。为了保持嫩的口感做的很生但是却一点也不嫩，很柴。皮也完全不脆，像做出来几个钟头了一样。吃完回家三个小时了还在拉稀！服务生accent好重讲话听不懂，态度也不好，我来美国旅游这么多次，第一次给那么低的小费。10%。账单上建议小费20%？我tm不听你的建议"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZc3V5dllREAE",
+            "text": "I feel scammed. Used to be good. Not anymore. Food is poorly presented and seafood not fresh. Spent $125 per person for a very bad experience."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvNVl5RmNBEAE",
+            "text": "Do you see how thick the duck is being advertised on their official Instagram account? Do you see how thin the duck I received? Totally a scam."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvLXRTbFFREAE",
+            "text": "Everything was great.  We had a few appetizers and a couple mains to share. Scallops were the star."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvc3FPdGJBEAE",
+            "text": "Walked in - great place. We got a quiet spot since we had kids. We shared 3 appetizers and 2 mains and side dish of the mushroom. All was good. The best dish had to be the scallops for main  and octopus as appetizers."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJNDVtUUNBEAE",
+            "text": "Too little food is overpriced. The waitresses and waiters definitely let you know they want you to leave walking back and forth...\n\nThe food was okay. I did not like anything but the drink. Even the drink was not enough.\n\nI'm not overweight either, but you should give an amount of food that you should be able to take some home or have for lunch the next day for those prices.\n\nEveryone was really friendly...cozy nice atmosphere."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJc2FIWGx3RRAB",
+            "text": "on the weekday night that I took some visiting relatives to Nerai, the restaurant seemed to draw a business-y clientele. My party and I were more casual yet the service was still top notch from our waiter and staffers. Our water glasses were constantly attended to, with just enough check ins from our waiter who was never overbearing. Classy New York dining experience with old school, yet modernized aesthetic and great service. Great detail down to lemons having a cover. The lamb chops and lobster pasta were stand outs from what we ordered."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRemRhOTVBRRAB",
+            "text": "Great place to eat."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURReHRYb2VREAE",
+            "text": "I recently hosted a private bachelorette dinner in Nerai's Wine Room, and the entire experience was great. Carolyn, the event coordinator, was fantastic to work with—responsive, professional, and flexible throughout the planning process. She made everything easy, accommodating all of my menu, detail, and dietary requests with politeness and professionalism.\n\nThe wine room is the perfect cozy setting for a private event. And, our server was so kind, attentive and polished, ensuring our guests were well taken care of without ever feeling rushed. The food was delicious, especially the cocktails, mocktails and baklava dessert. Everyone raved about the room, the food, and the service.\n\nWe couldn’t have asked for a better experience and highly recommend Nerai for any private gathering."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRd3RMeE1BEAE",
+            "text": "Very yummy! Beautiful place. Tried scallops which were fantastic!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRNF8yX1R3EAE",
+            "text": "Good food and service. Reasonable pricing for the area."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRLVlESlZ3EAE",
+            "text": "Beautiful space and experience.  Our waitress was fabulous! Never wanted for anything...on point.  Apps entree & dessert A++"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRM0tQRVZBEAE",
+            "text": "Excellent & attentive service. Excellent food & cocktail quality. The Ouzo was served as it should. All around a delightful dining experience."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnby02c1p3EAE",
+            "text": "The food was delicious, but being rushed to leave was really frustrating."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnbmJhT3VnRRAB",
+            "text": "Had a strong start with the bread and olive dip, which was unique and fantastic. The spanokopita and beef and lamb meatballs were also beautiful. Service is cheerful and enthusiastic (suspiciously so), and the restaurant is calming and perfectly lit."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnX3BPZU5BEAE",
+            "text": "food was ok - not worth the prices imo. there are simply much better - and more creative - Greek options. Fried eggplant with tzatziki? lemon potatoes? yawwwwn. $75 for over-cooked Dover sole ridiculous imo."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBajVfSzNBRRAB",
+            "text": "We celebrated my fiancé’s cousin’s birthday here this past Saturday and I have to say it didn’t disappoint! Everything was delicious, from the greek salad, to the scallops with pork belly (best pork belly I’ve ever eaten), to the apple cheesecake. Absolutely amazing food and the service was fantastic."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBc1lDVlRREAE",
+            "text": "Outstanding Greek cuisine.  The flavor of every dish was surprisingly enhanced, withs some innovation and authentic at the same time.  Very efficient and gracious staff in a sleek and warm setting."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBOWY2ZXV3RRAB",
+            "text": "Across from the exclusive Monkey Club is Nerai a fantastic Greek restaurant. It had been at about 10 years since my last visit to Nerai. I can say that the restaurant improved in a variety of ways. As soon as you walk in you are greeted like an old friend. Then you notice the decor, so bright and inviting. Once seated you notice the friendly and attentive service staff. Nonetheless the food is the star of the experience. The traditional spreads were an excellent beginning to the meal. It was followed by the plump and tasty scallops. The walnut cake was the perfect finish to a delightful meal."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfMTR5QkhREAE",
+            "text": "Our waiter was very judgmental. He didn’t even tell us his name, so it was a red flag from the start. He had a very condescending tone the whole time, especially when we asked questions about the menu. The whole time, we were very uncomfortable to eat properly and felt stared at the whole time. They didn’t even bother hiding their judgements and straight up pointed at us while whispering to each other. It was basically profiling because we were younger people who obviously don’t eat fancy often. They considered 20% tip as too low, even though they did nothing for us. Our main waiter didn’t even voluntarily check up on us once the whole time. Even his last “thank you” sounded very condescending. The food wasn’t even that good, especially for the price. I don’t recommend this place at all."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfNExqQzlRRRAB",
+            "text": "The Ambiance, The Staff, The Food and Wine selections were A1! I would go back again and again. Great experiences don't need a whole explanation, JUST GO you won't regret it."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfd3NtSGF3EAE",
+            "text": "Amazing food! I’m full, I’m Happy! Thx so much. Awesome guy! You restaurant my favourite ❤️"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmbGRfUElBEAE",
+            "text": "Cozy dining, great Mediterranean dishes with plenty left to bring home."
+        },
+        {
+            "date": "4년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURhcHVYN2hnRRAB",
+            "text": "좋아요"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYc043UlF3EAE",
+            "text": "Good experience with upscale, exquisite dining. Greek food is tempered with regional taste and very nice to pair with a good greek wine selection. Octopus came out no chewy! Very nicely done. Good experience and would recommend."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURudU5uYkd3EAE",
+            "text": "Business dinner for 6 on a Wednesday evening; early seating. Wonderful Greek menu and wine list. Friendly and attentive service. We elected for shared plate starters, and individual mains. Well selected Greek white and red wines, and Greek inspired desserts. Round table upstairs allowed for easy conversation. Popular night with a mix of groups and couples. Slightly tightly packed inside for discs, but I suppose that’s New York real estate for you. Recommended.\nDavid W, October 2024"
+        },
+        {
+            "date": "수정일: 11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURiZ0otc0lnEAE",
+            "text": "Have had multiple amazing Greek meals at Nerai now. The food all-around is outstanding, the service is great, and the restaurant during lunchtime gets packed during the weekdays. We had one of the best octopus dishes of all time. Nerai is definitely a great alternative to Avra, which is also a favorite Greek restaurant of ours. Highly recommended!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYbVBiNnZRRRAB",
+            "text": "During a recent visit to Nerai, a charming upscale Greek restaurant in Midtown Manhattan, I enjoyed an exceptional dining experience that beautifully blended traditional flavors with modern techniques. The ambiance was elegant yet inviting, perfect for a relaxed evening out.\n\nI started with the Pikilia platter, which featured three delicious spreads—tzatziki, hummus, and spicy feta—accompanied by warm, perfectly grilled pita. The balance of flavors was spot on, with the tzatziki being refreshing and creamy, the hummus smooth and rich, and the spicy feta providing a nice kick. It was a great way to open up the meal.\n\nNext came the Fluke Crudo, which was a visual and culinary delight. The delicate slices of fluke paired well with the subtle brininess of the American caviar and the brightness of the ouzo Meyer lemon purée. The crispy barley added a delightful texture to the dish, while the cucumber and chervil brought a fresh, herbaceous element. The dish felt light yet packed with flavor, perfect for seafood lovers.\n\nFor the main course, I indulged in the Htenia, featuring seared diver scallops alongside honey-ouzo braised pork belly. This dish was a highlight for me—the scallops were perfectly cooked, tender and sweet, while the pork belly added a savory richness. The accompanying sunchoke purée and roasted peppers brought earthy and smoky notes that rounded out the dish beautifully. Every bite was a harmonious blend of textures and flavors.\n\nI also tried the Paidakia Sti Skara, which showcased succulent lamb chops cooked to perfection. The lamb was juicy and flavorful, enhanced by a rich lamb jus. The honey-glazed carrots added a sweet contrast, while the dolma was a delightful nod to classic Greek cuisine. This dish felt hearty yet refined, and I savored every bite.\n\nOverall, my meal at Nerai was a culinary journey through modern Greek flavors with a fine dining touch. Each dish was thoughtfully prepared and beautifully presented, making it a memorable dining experience. I can't wait to return and explore more of their menu!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUaDVmOTRRRRAB",
+            "text": "Everything we ordered was quite delicious.\n\nThe salmon was crispy and juicy. Desert was wonderful, the gelato that came with the baklava was so smooth and silky. The drink Aegean Sunset was perfect.\n\nService was excellent.\n\nPrice is easily 100+ per person. But it was a great experience."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzcmJlR1NnEAE",
+            "text": "We had a really good dinner at Nerai today. All the dishes were really good, the service was excellent and the desserts were amazing! It was the best Baklava I have ever had!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREdXMybHRRRRAB",
+            "text": "Simply exquisite. Stumbled upon this gem almost by accident. I had Googled Mediterranean near me, to find Nerai was only 3 blocks away. I was a bit apprehensive that we’d be able to find a table on a Saturday night without a reservation, but the happily accommodated our party of four. My simple review will not do this place justice. The dishes were beautiful and delicious. In addition, the service was excellent."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEOHU2dm5BRRAB",
+            "text": "I had a private birthday dinner at Nerai 2 weeks ago, and let me just tell you it was absolutely spectacular! Carolyn was so attentive, and professional when explaining the preset dinning menu and payment options. The staff was very accommodating and helpful with everything, from the menu to helping me set up the music. The bar room was secluded so we didn’t have to worry about being disruptive to the other diners. I had the filet Mignon it was one of the best I’ve ever had, the drinks were great (not watered down at all).  My friends and I had an amazing time I can’t wait to come back. Lastly, it was a bit pricey but there were no surprises on the bill they let you know everything upfront, it was truly worth every penny!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQNXFMR3lRRRAB",
+            "text": "On our last night in the city, we came across Nerai. It was such a wonderful experience.  We didn't have a reservation, but they accommodated us. The food was excellent! Sevice top notch"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2bGJqU0hnEAE",
+            "text": "Wonderful experience and amazing food. My boyfriend gets steak at every restaurant we visit and he hasn’t stopped talking about this steak in 3 days! Make sure you get the steak he chose medium rare."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4eE51ekhBEAE",
+            "text": "Had the pleasure of attending a private dining event downstairs. Service was superb, friendly and attentive. Cocktails were beautifully presented. Food was excellent, such a broad menu was served and enjoyed every bite it. My favorites for shares: Spanikopita, Tuna Tartare, Meatballs, Grilled Octupus. My filet mignon was cooked perfectly and the feta potatoes were such a delight. The Baklava, some of the best I've had had in my entire life! Highly recommended esp for date night, nice atmosphere in the rest of the restaurant. Make a rezzy, enjoy!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNabmVpUHFBRRAB",
+            "text": "I recently had the pleasure of dining at Nerai, a Greek restaurant located in the heart of the city. From the moment I walked in, I was greeted with a warm and friendly atmosphere that immediately made me feel at home.\n\nThe restaurant itself is beautifully decorated, with a modern twist on traditional Greek elements. The attention to detail is evident in every aspect of the design, from the elegant lighting fixtures to the comfortable seating arrangements. It's clear that the owners have put a lot of thought into creating a space that is both visually appealing and inviting.\n\nNow let's talk about the food. The menu at Nerai offers a wide variety of traditional Greek dishes, all made with the freshest ingredients. From the classic moussaka to the mouthwatering souvlaki, every dish I tried was bursting with flavor. The presentation of each plate was also impeccable, with vibrant colors and artistic arrangements that truly showcased the culinary skills of the chefs.\n\nOne standout dish that I have to mention is the grilled octopus. It was perfectly cooked, tender and flavorful, with a smoky charred exterior that added a depth of flavor. The portion sizes were generous, ensuring that I left the restaurant feeling satisfied and content.\n\nThe service at Nerai was top-notch. The waitstaff was attentive and knowledgeable, providing recommendations and answering any questions I had about the menu. They were also efficient in their service, ensuring that my dining experience was seamless and enjoyable.\n\nTo complement the delicious food, Nerai offers an extensive wine list featuring both Greek and international selections. The sommelier was helpful in guiding me towards the perfect wine pairing for my meal, enhancing the overall dining experience.\n\nOverall, my experience at Nerai was exceptional. From the beautiful ambiance to the delectable food and impeccable service, every aspect of my visit exceeded my expectations. I would highly recommend Nerai to anyone looking for a memorable and authentic Greek dining experience."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXMFBQc19BRRAB",
+            "text": "Valentine’s Night post. This is one of my go to spots for solid Greek/Mediterranean dishes. It is uptown between park and Madison with close proximity to fifth Ave shops and Central Park. The one thing that I have to highlight is the…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPc1p6ZVBnEAE",
+            "text": "Very rare to find a restaurant that has 5/5 service and food. Modern Greek cuisine. Indoor and outdoor (seating area) decor transforms you out of the city from the moment you walk in.\nService was very on point. Our server was very attentive, gave good recommendations and checked on us every time with a smile. We felt welcomed and not rushed.\n\nWe got the grilled octopus (tender and flavorful), zucchini chips (delicious and table fave!), fried cheese, Brussel sprouts (this was recommended by our server, this was one of the best Brussel sprouts I've had - next time i come back I'm getting 2), aged steak and lamb were both cooked well and not overcooked. Must leave room for dessert. The yogurt sundae (recommended by server) was our fave. There were a lot of flavors that blended very well together in one bite. The yogurt trio each had a unique taste that was very easy to distinguish.\n\nWe came on a Sat night and had reservations for 530pm (perfect time if you're able to go early as the restaurant was busy but not packed yet)."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPajVmX3JnRRAB",
+            "text": "Nerai is good, with a wide variety of options on their dinner menu. We ordered the zucchini chips, the chicken, and the squid ink pasta. The chips were good, the pasta was okay, and the chicken was exceptional. While the food was good,…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5d0w3YlNBEAE",
+            "text": "Located in the upper side, this innovative Greek restaurant offers an interesting proposition of new versions of traditional specialties such as deconstructed Moussaka with duck breast, a modern version of Saganaki Cheese with pomegranate and a Rolled Baklava for desert. The waitstaff is very helpful and friendly and the ambiance stylish. Highly recommended experience!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlc0tlYzhRRRAB",
+            "text": "surprisingly good restaurant! One of limitation of our group this time was one of my friend is vegetarain  so restaurant we go has to have vegetarian option and Nerai has it. I have tried all food, vegie and regular and they were great! quality and service was professional and wonderful.\n\nWe had salad, drinks, pasta, duck, coffee and dessert. There were a construction and smell near by so they moved us to sit in different table to avoid the unpresented smell.\n\nThe vibe is good. I have a mix feeling between tourist spot and local spot because this place is in a tourist area but for me as a resident I still go because I was shopping in the area and just want to find some nice place to eat."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKbnNfVDdnRRAB",
+            "text": "Nerai is amazing-  elevated Greek food in NYC. From the moment you enter the doors, you're greeted with warmth and kindness. I dined with my family including my elderly mother, and the service was so helpful and accommodating while not being stifling. We ate inside, but the outside seating looks magical, definitely would have opted for an outdoor table if I was with friends. The food was incredible. This might have been one of the best lamb chops I've had in NYC. The whole roasted fish was fresh and cooked perfectly, I could eat it for every meal. Thank you Nerai, we will be back!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMteGVfOVRnEAE",
+            "text": "Honestly i was disappointed. This place was in my saved to visit places in Google and i was so excited about it. However doesn't really matching the pictures in internet to start from there.\nDrinks was nothing to excited. I tried ginger margarita and was ok.\nFood - menu doesn't offer much authentic Greek dishes. Some of the dishes was really weird... you can not find them in Greece.\nI guess they start you with bread - not us personally. We try bunch a appetizers and desserts. The one that tasted great and remind me of Greece  was the octopus.\nWe try meatballs, pita, lamb, traditional greek stuffed dessert,  pinna cotta, baklava.\nWe sit on the bar and service was not as expected - just not enough attention. Bartenders was busy on their phones.\nOverall i am disappointed."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxcE02MW9BRRAB",
+            "text": "Nerai Greek restaurant in Midtown Manhattan is an absolute gem for anyone seeking a delightful culinary experience. From the moment you step inside, you're greeted with an inviting ambiance that sets the stage for a memorable meal.\n\nThe food at Nerai is nothing short of exceptional. Their menu showcases the rich and diverse flavors of Greek cuisine, with a modern twist that truly elevates each dish. Whether you're a fan of traditional Greek or looking to explore new flavors, Nerai has something for every palate. The freshness of the ingredients is evident in every bite, and the kitchen's skillful preparation shines through in every dish. I loved the branzino and what they call crackers. Also the Greek salad was delicious!\n\nOne standout aspect of Nerai's dining experience is the impeccable presentation.\n\nThe staff is attentive, friendly, and knowledgeable about the menu."
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURTdF9Xa1RREAE",
+            "text": "For New Year’s Eve, we were fortunate to book this restaurant in Midtown East at the very last minute. This was always on our list since outdoor dining was a thing as the pictures of its settings looked quite appealing. Most tables have their own electric heater that sat directly above the table, so it wasn’t too cold compared to other places. For what it’s worth, it was in the high 30s with some wind chills. We did dress warmer just in case though."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSaGZXdW53RRAB",
+            "text": "An place for an intimate or business need. Unassuming from the outside, but upon entering you transform into a charming and upscale atmosphere where the food and service is to match.  The menu has a modern flare while embracing the origins of traditional Mediterranean basics.  Don’t pass up this great place"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5b3ZIY3R3RRAB",
+            "text": "Very cool Greek Restaurant on 54th St.\nService was excellent! The food tastes delicious although the chicken skewer was a bit dry.\nThe place was full at lunch time which is a good sign. We enjoyed it 👍🏻"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHdUxUM1FREAE",
+            "text": "Had made reservations for a friends birthday for 8 pm on a Thursday evening, and we managed to get reservations 3 days before our preferred date. Reservation process was fairly straightforward for a group of 4 and a 2 year old.\n\nThey had this amazing outdoor seating what they refer as Outdoor Courtyard... they were these 3, well lit beautiful booths, where we really wanted to seat, but weren't given those. From the time we entered to the time we left, 2 of them were unoccupied. Don't understand the rationale behind that especially when we were celebrating something special!\n\nAnyway, that however, isn't indicative of their excellent, and friendly staff that made us feel very welcome and were very attentive throughout our dinner course here. We ordered a few delicious cocktails, which average at about $18 each. Cocktails were great.\n\nWe started off with Traditional Trio Spreads ($23) and Spinach Pies ($18) to share. Our server was kind enough to include an extra pie because it was the 4 of us. This plate typically comes with 3 pies. 1 star just for this kind gesture! Appetizers were good and quite tasty. Sadly those were the best dishes we had.\n\nWe had ordered Pasta for dinner which included Seafood Orzotto ($36), Lobster Pasta ($46), and a Summer Risotto ($29). My risotto was really bland and did not nerai any standout flavor. All I could taste was cheese and I was hoping the snap peas and trumpet mushrooms along with mint would have added some refreshing taste... but no. It was just bland and no spice whatsoever!\n\nService overall was excellent and their garden seating was very comfortable including a very fancy high chair for our little one! We had a decent experience."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURLX3EtaW5BRRAB",
+            "text": "Good atmosphere, delicious food and drinks. Portions are on a smaller end which means you can try many different items and leave without feeling stuffed.\nI was there in the evening and enjoyed outdoor seating with cozy lighting and…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJMzlURnJBRRAB",
+            "text": "I had a great experience at Nerai. The food was overall pretty good. The scallops were big and very tasty. The lobster pasta was a bit sweet for me but still pretty good. The zucchini, the octopus, and the walnut cake were all excellent. The ambiance has a classy feel to it but also vibrant with the noise level relatively high.\n\nThe service was also great. There was this lady (maybe the owner?) who came around once in a while asking if everything was going well. I appreciated this gesture and other servers frequently checked in as well.\n\nThe one bit I didn't like was how we had to wait despite the fact that we made a reservation at a specific time. A bit of wait is fine but we waited more than 15 minutes before I asked how much longer we'd have to wait. The response from the floor manager was that it was going to be soon as they're waiting for the previous guests to leave. This didn't make sense to me as that just meant they didn't really know when the guests were going to leave and therefore \"soon\" was actually \"whenever the guests decide to leave\". People may disagree with me here but I expect to be seated at the reserved time, and if that means the floor manager has to politely ask the previous guests to vacate the table, then so be it. Upon pushing him to act, the floor manager went ahead and asked the guests to leave, and apologized after the meal for the inconvenience of having waited ~20 minutes past our reservation time. I guess I can be a demanding customer and kudos to the floor manager for dealing with my impatience."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLOWNtOHRRRRAB",
+            "text": "My mom and l had an amazing experience at Nerai! The food was delicious, you can tell the chef uses the best ingredients because it was fresh and tasty! The Greek wine we ordered was amazing! Divine bland of native Greek grapes! Their wine…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNobWU2cW5nRRAB",
+            "text": "I can’t say enough amazing things about this restaurant! Our waitress was Viola. The atmosphere was amazing. The drinks are soooooo delicious and I’m not a drinker. The food, the food, the food, OMG 😍 We had the 2 different shrimp appetizers, the zucchini chips, the Greek salad, the fish, the seafood orzo pasta, the spinach and rice sides and the Greek yogurt dessert. We ate wayyyy more than we wanted to but we could not stop eating. The food was too good. Even the chips and cheese they bring out before you order was so good we asked for more. I wish I asked to take some home lol Now the service..sheesh! They were extremely attentive. I’ve been to many 5 star restaurants and never have I been to one with a staff so attentive. The restaurant was completely packed and still as soon as  we filled up our side plates with shrimp tales or anything they were instantly replaced with fresh plates. As we went from one course to another they removed all the plates and gave us fresh knifes and forks. I cannot wait to go back! I want to try everything on the menu. I’m getting hungry just writing this review lol Thank you Viola! Absolutely, absolutely outstanding experience!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlNExQRll3EAE",
+            "text": "What can I say? This place was an absolute delight! Comfortable and modern yet with a relaxed atmosphere. One of our favorite spots that we hit during the weekend. Absolutely delicious food that was so aromatic that you could smell it walking up from the street.  Absolutely delicious food, we started with the XTAPODI STI SKARA which is the Grilled Octopus and it was Divine. I had the ASTAKOMAKARONADA which is poached Maine Lobster with squid Ink linguine, and it was incredible the sauce was perfect not too heavy but not too light, she had the SOLOMO, which is pan seared salmon cooked to perfection. And when I say perfection I mean taking a bite the fish was like butter. What an incredible dinner, we had that and for drinks I had a couple of Greek beers that I tried that were really good as we celebrated my birthday. They even brought out a dessert dish for my birthday I can't say enough good things! You must try this place! Also ask for OTTMAN as your server, he went above and beyond for us.  I plan on coming back soon."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXMXJfUkN3EAE",
+            "text": "Not great unfortunately. I’ve been fortunate to have had many great meals on vacation to NYC. Nerai had decent reviews and food on socials looked good - so in planning for this trip, I booked here.\n\nThis was a mistake. The service consisted of “ready to order?” And “ENJOY!” Being yelled at us after about 5 minutes of receiving food; just a weird experience.\n\nThe food was mediocre and didn’t taste fresh. The spanakopita were cold and pastry soggy (reheated?). The salad and salmon was ok, the gnocchi was rubbery.\n\nI should have known something wasn’t right when we arrived, we were taken upstairs to what looked like a bunch of other tourists - while the outside dining looked nicer.\n\nI wouldn’t be back, I’m also not sure how the reviews are so positive. For the similar price point, we had an absolutely stellar meal at Crown Shy."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURhemJPZi1BRRAB",
+            "text": "It isn’t too often that I find a restaurant that really knocks my socks off with every dish, however, this one really did. Even from the tzatziki at the start, I knew we were in for something special. The octopus is arguably one of the best…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXb0pfd2tnRRAB",
+            "text": "We had the Valentines day tasting menu. Nice atmosphere, tasty food and great service. As a Greek restaurant, I think it's better than the Michilin star restaurant in Athens I went to two months ago."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxcHVUQnF3RRAB",
+            "text": "Had lunch at a beautiful Greek restaurant in Manhattan. Restaurants and bars in NYC have set up temporary outdoor dining booths (they have to apply for a government permit for the space as it is actually pedestrian lanes and roadside they’re using) due to no dine in restrictions earlier and I think most people do enjoy dining outdoors especially if it's a nice weather. It's so European!\n\nEverything was lovely! The foods, the service, especially the ambience! We also noticed that most servers were Greek too. It won't go wrong choosing what to have with their recommendations. The highlight of our Greek lunch was the grilled LAVRAKI fish served with a side of sauteed spinach. It's a Mediterranean sea bass, a traditional Greek delicacy. It's delicious! We also ordered grilled octopus served over santorini fava with caramelized onions, roasted peppers, and capers as starter. Besides Lavraki we had seafood saffron orzotto. Wish we could have more space in our stomachs to try other dishes!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNseGRqdEJnEAE",
+            "text": "Nerai offers a first-class escape to the glittering Mediterranean right in Midtown Manhattan. A visionary concept where sustenance of body and spirit converge beautifully. I'll be back soon to bask in Greece's flavors once more!"
+        }
+    ],
+    "reviews_count": 85
+}

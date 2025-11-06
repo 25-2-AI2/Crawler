@@ -1,0 +1,558 @@
+{
+    "name": "Tavola Hells Kitchen",
+    "place_id": "ChIJQdQ5mwdZwokRQXDOTRzWhU4",
+    "grid": "MN4",
+    "address": "488 9th Ave, New York, NY 10018, USA",
+    "rating": 4.3,
+    "user_ratings_total": 598,
+    "phone_number": "(212) 273-1181",
+    "reviews": [
+        {
+            "date": "7시간 전",
+            "language": "pt",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoNFZrcE5VazlPTW5CUFVVdFBSRmxYVTI4NFFYYxAB",
+            "text": "Amelhor comida italiana que já provei e o atendimento é nota 100."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkUFdIbHFiakpST1Vodk1UQlBRbmRXYUZNeGMyYxAB",
+            "text": "Was there Friday night.  Food and service was the best hands down."
+        },
+        {
+            "date": "3일 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21rNFkzaFNXSGxOUkZwSldFRkpNbEpJZWt3MFgzYxAB",
+            "text": "Sehr guter Italiener, leckeres und frisches Essen, super Service und faire Preise."
+        },
+        {
+            "date": "5일 전",
+            "language": "pt",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psMWVWRlZUbTlVVGtSRlRrSm5lamRHTVRoNlpIYxAB",
+            "text": "Lasanha show"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kaVdsRkdWVVZXWVVSbmJXY3pUM0J3ZVRKV1QwRRAB",
+            "text": "Tavola has a warm, inviting atmosphere and the staff was genuinely friendly throughout our visit. However, the food unfortunately did not live up to the setting. We ordered the pasta with eggplant, which was very disappointing in both flavor and texture. The pappardelle bolognese was also quite mediocre and lacked depth. It’s a convenient spot if you’re already in Midtown and need somewhere casual to sit down. But overall, the food quality falls short of expectations."
+        },
+        {
+            "date": "1주 전",
+            "language": "de",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSWU9FMDVOamxVT1VFM05FZHpRVXR1WVVFNFFtYxAB",
+            "text": "Ein typisch amerikanisches Restaurant, das möchtegern Italienisch sein will…aber es war okay"
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQeDctMGhBRRAB",
+            "text": "Incredible Italian dining with authentic flavors! The wood-fired pizzas and fresh pasta are outstanding. Warm, rustic atmosphere and attentive service make Tavola a must-visit in Hell’s Kitchen!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205bk9VVm1PRkYxV1d4dk5GRmtTRU5IUWtwR2NHYxAB",
+            "text": "Waiter was wonderful. Served us like he read our minds. Everything tasted great. Great experiences 😁"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swd1JITTFVR0o1UkdGTmRsUjVkbXB3YkdSc1RtYxAB",
+            "text": "Very good, affordable Italian in Hells Kitchen. So good we ate there twice in one week. Best gnocchi I’ve ever had!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aWE9EWnZaM0pmWVdaME5XVXROVk51TWw5VmRuYxAB",
+            "text": "Coolest decor in town. Great drinks. Get your reservation!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWaVZrcDZSekpNYmpoeGVXcFVhVWcxUmxNM1JWRRAB",
+            "text": "Loved everything about this place! It’s now a must-go on my trips to the city!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kbVkzQkpaekpDV1VSVGMxbHdiRlpRU0dNNFIwRRAB",
+            "text": "Great old school Italian. Never disappoints."
+        },
+        {
+            "date": "2주 전",
+            "language": "fr",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sTWIxVlRaM2h5ZHpkNU5IVnRlVGxhWTI5NmIxRRAB",
+            "text": "Expérience pas formidable pour nous...\nApéritif un peu light...\nPizza cramée sur l'extérieur.\nService de 20% déjà inscrit sur l'addition.\nNous avons eu largement mieux..."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zMlUyaHJabkF3VDE5WWFYaDFXWEZGTURkaWJuYxAB",
+            "text": "Had a lovely meal there. Up charge for the bolognese sauce on gnocchi and it was totally worth it. Hearty, flavorful, not too sweet and even had bits of carrot. Highlight of the meal was the cheesecake which was just delicious. Crumbly crust, generous strawberry sauce.\n\nConsidering going back tonight just to have that cheesecake again!\n\nAtmosphere is super cozy."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zek4wY3RXalprY1ZaUU5uVXhaR0UyWTJwTVFuYxAB",
+            "text": "I’ve never been to Italy, but I feel like I’m in Italy. The service was excellence. The food was exquisite. We had Caesar salad, margarita, pizza, and gnocchi for dessert we had tiramisu and pistachio gelato all wonderful."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxUGNISkxUbUpoVVVWWlJWaENOSEk0UW10SGRHYxAB",
+            "text": "Excellent food"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaUFUzb3hVMkZ6TWpaeVEydE9SRUpGYlRaSlFXYxAB",
+            "text": "Gnocchi was awesome!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xweVowdGphMWRGZG05cVEyeG5SMWRpVkdsWGNGRRAB",
+            "text": "Absolutely the worst dining experience of my life.\nThe food was bland, cold and tasted like it had been sitting out for hours. I asked the staff and they were so rude about it. I could give zero stars, I would."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kd01FVjNhbEJ4UlhONFlVWmFURk5SU3pkd1QwRRAB",
+            "text": "Best service and pizza!!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVMWVrRnVVMGx2YTFSS1Z6QkhaMjFLVjFVeVIxRRAB",
+            "text": "Very nice experience overall.  Great food and one of the most amazing tiramisu's in a long time.  Very friendly and nice service.  Just wish that main dishes did not come out at almost the same time as the appetizers."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkNFVVSm9aMXB0T1ZFemNVdGFjbWhsUVRCaVRWRRAB",
+            "text": "Walked in weekday dinner as looked busy walking by. Two showcase tables street side before door. Long communal table and bar further in. Old school decor in-line with long history.\n\nObvious many regulars. Likely less crowded weekday lunch. Happy hour ends early at 5pm.\nDinner at 6pm asked to leave in 1 hour. Stream of customers.\n\nFood is great. Salumu and cheese with olives reliable starter paired well with house chianti.\nPizza brick oven. Dough chewy perfect. Asked bolognese sauce spaghetti instead. Not too salty, also perfect.\nNext table ordered mare with much seafood. Will order next time.\nTiramisu and decaf cappuccino hit the spot.\n\nServer was cordial uplifting. Only spec didn't know soda fountain refill charged again. Small change but, if so, would have expect bottle or can."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ZM1ZFTXRVSE5QYmtSeFowNTNiVFpvUlRFd1JYYxAB",
+            "text": "Es una visita obligada siempre que visitamos NY. Vale la pena probar sus especiales diarios, los gnocchi y la pizza."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFdGRWcDBkVEIyZW1Ka1dXeEhZUzB6VUdsMlZVRRAB",
+            "text": "Amazing local, people and food. One of the best puttanesca pizzas I ever had in my life"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twbmF6QXRiM014TjNKcFJsSm9lWEZFVGtaek5uYxAB",
+            "text": "Tavola, a cozy Italian spot in New York with a warm and inviting ambience, offers a pleasant dining experience, but I was disappointed with the clams à la vongole. While the spaghetti was nicely al dente, the dish was too dry with not enough garlic and white wine sauce to bring it together, leaving it lacking in flavor. A little more sauce would have made all the difference in what is otherwise a charming place to enjoy a meal."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pjNWNHWldRa04wWm1GT1JtbG1jbll4VEROUFUzYxAB",
+            "text": "Pizza was amazing!  👏"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKVlNrdERlbUZVYTNNNVRWTmhlVXBXZUd0NVMwRRAB",
+            "text": "Great 👍"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21obU1IcDVXVzVpUlVKM1EyaG1PRVJFUTA0MVIxRRAB",
+            "text": "The food and atmosphere were decent, but our experience was ruined by our server, Darwin C. From the start, things felt rushed. We had barely sat down before being asked about drinks, and when we asked for a little more time (literally two minutes in), it seemed to annoy him.\n\nLater, when I asked if they served fries, his response was unnecessarily rude: “This is an Italian restaurant!” Ironically, the menu also features Turkish figs on a pizza. So why act like the place is too “authentic” for a simple question?\n\nOverall, the service really brought down what could have been an okay meal. Wouldn’t recommend unless you want to get treated poorly by rude staff."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzMVlsQTBUazFFZHpSUVlucFVZVTkyUldWZlQyYxAB",
+            "text": "last friday night me and my group of 6, walked into Tavola Hells Kitchen out of the blue. Let me tell you what.... I cant even put words to how amazing this place is! service was fast and food even faster. I love italian food 10/10."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOa0xWY3dhalZ1TURsaVJXOXZNVVJxV0ZZeVJHYxAB",
+            "text": "We LOVED this place - food was amazing, our server Isabel was super-nice and gave us fantastic recommendations! The ambiente is so cozy and italian - this is our new favorite place in our neighborhood! 😊"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201YWJXMHlWbWs1YlRKV1pqUjJaV3d0Vmpob09YYxAB",
+            "text": "I'm here at New York for a vacation from Florida. Stopped by afterwards from a convention and they were able to accomodate a party of 6 with no issue. Food and service was excellent and I thought the menu was fairly priced. I don't have pizza or pasta reviewer credentials, but do think it is worth a visit."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poTFJubHdlVkJNWVVkTWIwWjBaVjlqZDJreWIxRRAB",
+            "text": "This place has gone downhill. I went here for a date night dinner — while the atmosphere was cozy and intimate, the food and service were terrible. Our waitress was scratching her back in front of everyone while the manager was right there. Even the manager seemed unbothered and didn’t care about service or quality\n\nThe food was just as bad:\n• Fried calamari – awful. The coating fell apart, it was overcooked, rubbery, and completely tasteless.\n• Steak (New York strip) – tough, chewy, and under-seasoned. Ordered medium rare, but it was still bad. I lost my appetite.\n• Pasta – dry, though at least it had some seasoning.\n\nOverall, not worth it."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jNVV6azRXV014VUZCYVJXRnVYMkp6WVdkbWVsRRAB",
+            "text": "Stumbled into this little gem! Awesome food and great service!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWWVlUaFRXVkp3TTNRNFl6YzVTRXgwTWxsTlNVRRAB",
+            "text": "Came here for dinner since it’s near my apartment and I was pleasantly surprised! The food was excellent! I got the Viddana pizza, gnocchi and the olives. I loved everything and the place is so cozy and cute."
+        },
+        {
+            "date": "2달 전",
+            "language": "nl",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tONk9URjJVekJoV21aemFqaHNiRUZ4VW5SelRtYxAB",
+            "text": "Het eten was zeker oké maar de bediening was rampzalig en vooral onbeleefd.\nMijn vrouw bestelde spuitwater wat de dame al niet te veel aanstond, ze krijg geen glas maar ineens een volledige fles wat we niet gevraagd hadden, verder stelde ze voor om wat brood te brengen kregen we plots een groot bord foccacia voor minstens 4 personen prijs 10,95 $. Bij het ledigen van mijn Peroni bier vroeg ze of ik een nieuwe wou wat ik weigerde daar ik geen zin had op een 2de glas bier, de grote fles spuitwater moest uiteindelijk toch worden leeggedronken. Nadien kwam de dame uit Macedonië vragen of we koffie of dessert wouden hebben, we hadden genoeg en geen zin op koffie of dessert, nog geen minuut later lag de rekening op onze tafel zonder te Erner te hebben gevraagd. Is qua eten oké maar blijf hier a.u.b. buiten"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xMFpEWnNWbWh6VFdSUmJ6SnFkbWxoTkVoSGVWRRAB",
+            "text": "Super delicious. We ordered lunch special and margarita pizza!🍕\n\nService is nice as well. Servers were very attentive.  Thank you, Darwin! 🙏🏻"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkSU1XTTFSMlE0VFZsQ2JWSkNTVnBaWTE4NVptYxAB",
+            "text": "Unbelievably good pizza and loved the gnocchi too!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21selMxZGlSVFpDWVVacVFtb3lOR0ZzWkRkck1HYxAB",
+            "text": "Decent food, good service, lovely trattoria style vibe."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkNlZsVnROVEJyTTJsVk1XVjNURGhTYVRaRk1WRRAB",
+            "text": "server was soooooo sweet with me i loved her service and the conversation we had!! the food was so yummy and i tried the sicilian limonata which was sooooo good"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGcU0zUXRUVVpzY1U5d1ZYSjBOaTFmZDJ4TVRIYxAB",
+            "text": "Great food great service, Franco is an amazing host to all of his customers."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wUU5GOVllR3A0TnpoM2RYbzJhelY1VlcxR01WRRAB",
+            "text": "Sat at the bar.  Very friendly staff and the atmosphere was amazing.  Ordered pizza and it was excellent!  Will definitely be back next time I am in NYC."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NMlRXaEJWR1JUWTJKZmJFcExkbXh3UWxWaWMyYxAB",
+            "text": "Walked into the restaurant at 9:15 PM, and right away at the door, the server told us that we had to be out by 10 PM. Okay, no problem.\nOur server, Mladenka, was not attentive at all and was rushing us. She barely checked if we needed anything (and we did—we needed a soda refill but never got it).\nShe also had the audacity to add a 20% gratuity to our check, and we were only a party of four! I’ve never experienced anything like that—very disappointing.\nThe food was good, but the service was not."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201bVNGSlBkazUxUmtzM1pFcE5ZVXhHVm1saGVuYxAB",
+            "text": "Good food and great ambiance."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwcVUyWnhiRGx4UjNOeVpqVTFTVGRSZG5wNGIzYxAB",
+            "text": "Tavola Hells Kitchen's vegetarian fare is a downer, for most part. As is their insistence that each diner order an entree.\nGuys! Please understand that it's far too much for four senior citizens to stomach in a single sitting.\nFood is at premium price point, and portions somewhat variable. Did not appear to be baselined by quantity or caloric content.\nRoasted Beet salad and Medina pie came in very strong. Crostino, Casarecce Trapanese and (especially the much touted) Gnocchi were okayish - nothing out of ordinary. This from those who've savored Italian at source.\nOur server, IG, was attentive (too attentive? Trying to talk up the preparations?) and patient.\n\nAtmosphere too loud (without music). Near impossible to sustain polite conversation across the table.\n\n20% gratuity was pre-added to check. We typically pay more but you choose, you get it. What's more, the $74 for 2 hours at nearby Laz Parking, recommended by Manager, was a bad choice.\n\nIn 2025, this place has slipped from high ground over last 3 years (management change?). It's a pity Tavola Hells Kitchen does not effectively leverage prime location, a vintage look -complete with ostrich belt & pulley fan - and wood oven.\nMay appeal to touristy crowd, not New Yorkers."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5bFNrSlZlR0UwVG1wQmN6TndNa3BIZEcxMlQxRRAB",
+            "text": "Beautiful food, nice people."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVd1NFWnZXbmR5VDJoS2F6bEZTRzV3YzI5M05GRRAB",
+            "text": "Awful experience thanks to ISSABELLE the waitress and her other waitress accomplice! Not only did she refuse to serve us,lying about her shift being over BUT her and her buddy made it known they disapproved of my date and I interracial relationship. Me being a gorgeous dark skinned black woman sitting with my very handsome Jewish date pissed them off. I turned to look only to catch the meanest, nastiest most disgusted 🤢 hateful looks on these ladies faces -before quickly turning their heads once I noticed of course. It made me tear up to be looked at that way for no other reason than being black. Rude rude rude!  Outside of that -the food was meh 😑"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210RFRqQnFNV2hmZEdwMldVTlpOV0oyYkZaeGNFRRAB",
+            "text": "Every time we travel to New York City we stop and eat here. We booked our reservations in advance, and it's always the most amazing food, and the gluten-free options are so fresh and so flavorful you would not know they are gluten-free"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25BNGVYRm1VME4xY0ZwdWJVdFhUM1pSYlRBMmRHYxAB",
+            "text": "The visor mer service the food and drinks were absolutely top notch. If you ever have the privilege of being in hell’s kitchen and you really want authentic Italian and amazing cuisine, this is the place to come to. I’m taking the gas work out of everything for you. Manager Franco is top tier and everything from 1920’s has been preserved beautifully and still here which led to the authenticity of the restaurant. Restaurant + museum at the same time"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201bFUyOVRiSGxYWTI4MVdXMWlNSHBpVG5GWExVRRAB",
+            "text": "This place is cute, and the location near the Port Authority is great.  The menu and the food was as expected, without anything special.   The service was annoying,  our server interrupted frequently for no reason except to remind us that we should order more.  Disappointing."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poU1dYUk9ZbmwxV0dWNE0wdzBhRzV4TjBsQk5uYxAB",
+            "text": "really enjoyed"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KMk1HRlhhR2h1YjJNeFZrVmtjMmxrU1VNMk1sRRAB",
+            "text": "The pizza was better than the pasta."
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ1dUphS29BRRAB",
+            "text": "예상을 뛰어넘는 맛있고 분위기 좋은 레스토랑.\n뉴욕 출장 기간 중 적어도 한번은 더 갈 것 같다.\n추천할 수 있는 식당!"
+        },
+        {
+            "date": "10달 전",
+            "language": "ko",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2dk5ic3hnRRAB",
+            "text": "노신사 분이 서빙을 해주시고 다른 젊은 히스패닉분들이 보조를 해주셔서 아주 편안하게 식사를 즐길 수 있었습니다.\n\n음식은 전체적으로 아쉬웠습니다.\n식전빵이 나오면서 시작됐는데 식전빵이 먹지 못할정도로 많이 딱딱하고 발사믹 올리브도 잡내가 났습니다.\n5명이서 스테이크와 이런저런 요리를 즐겼는데 고기의 굽기정도가 한단계 정도 세게 나왔습니다. 크게 불편한 정도는 아니어스 그냥 먹었어요.\n스테이크에 같이 나오는 시금치 구이가 맛있었어요.\n봉골레 파스타에는 조개 껍질이 계속 부셔져있어서 파스타를 먹는 내내 불편하고 긴장하면서 먹었습니다.\n결국 잘못 씹어서 치아가 깨졌습니다.\n\n테이블 사이즈가 정말 작습니다. 접시를 인원수대로 놓으면 딱 맞고 그 이상은 힘들어요.\n\n노신사분의 서비스가 아니었다면 최악의 경험을 했다고 평가할 수 있습니다."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKM1ZFSTVSVWw1U3pCeU5rcHdWV1ZoTlZObU1rRRAB",
+            "text": "Tavola – A Hell’s Kitchen Classic That Honors the Heart of Italy\n\nThis place does not miss. From start to finish, Tavola delivers an experience that feels both elevated and deeply grounded in tradition.\n\nI started with the Gotgonzola salad — fresh greens, crisp cucumbers, sweet cherry tomatoes, and rich chunks of gorgonzola. A simple dish, but perfectly balanced and beautifully plated. The bread came warm with a bowl of extra virgin olive oil so rich it could stand on its own.\n\nThe rigatoni Bolognese was a standout. Thick, hearty sauce, full of flavor, clinging to perfectly al dente pasta. It tasted like it was made in a kitchen that respects time and craft.\n\nTo drink, I had a Chinotto. Bitter, bold, and unmistakably Italian. A rare find, and a welcome one.\n\nTiramisu followed — cloudlike layers with cocoa dusted on top. Light, not too sweet, and expertly made.\n\nThe two wood-fired pizza ovens in the back are named after Italy’s great volcanoes, Etna and Vesuvio. That detail tells you everything. This place honors fire, tradition, and flavor.\n\nTavola is one of those restaurants you want to keep to yourself, but also cannot stop telling everyone about. It is that good"
+        },
+        {
+            "date": "4달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21VMFVscEllRzR5WldKeE5qTjZlWFJJVkhOcmRIYxAB",
+            "text": "Excellent restaurant italien au cœur de New York ! Les pâtes sont fraîches, les saveurs authentiques et le service chaleureux. Une vraie belle découverte, je recommande vivement"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNcU45SWFOLU9yTVBREAE",
+            "text": "Absolutely adore this place. Keep going back there - for lunch and/or dinner - every time we're in NYC. Great menu, fresh food, good wine selection, lovely ambience, excellent service, easy walk from Midtown. Already looking forward to our next trip to NYC and Tavola ❤️"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMVHZ3cW5rdl9DdUlnEAE",
+            "text": "This place was so amazing. It was like stepping into an old Italian diner! The ambience is unmatched. We had the chicken piccata and a margarita pizza, and it was absolutely the best we’ve ever had."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBM2YtZTVBRRAB",
+            "text": "We booked over a month ago from the UK as we wanted somewhere nice to have my birthday meal on our first day in New York.\nJet lag got the better of us but we were welcomed two hours earlier than planned.\nThe atmosphere as soon as we arrived was beautiful. The waitress was attentive and informative.\nI had the Pork chop from the specials menu and my husband had the lasagna,both were stunning!\nPerfect start to our holiday ⭐️"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2cWVxTEZREAE",
+            "text": "Spending time in NYC and with the rain falling decided to eat local and chose Tavola.  Great choice.\n\nMy sister and I both ordered the Margherita Pizza and enjoyed the dish.  The crust is crispy and full of flavor, the tomato sauce was fresh and just the right consistency and the cheese had flavor topped with fresh basil.  Great pizza.\n\nMy partner ordered the Gnocchi with a Gorgonzola sauce and said the gnocchi was tender and not too heavy and the sauce was creamy but not too rich.\n\nOverall, great meal.  The restaurant is small and crowded which means the food has to be good and the service is excellent.\n\nHighly recommend."
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZeGV2RjJ3RRAB",
+            "text": "Excelente lugar para almorzar o cenar en New York, nos atendio Darwin muy amablemente, sin lugar a dudas repetiremos en unos dias. Pedimos lasagna y pasta con mariscos, exquisitos ambos y vendremos a Probar las pizzas que se dice son de las mejores. Recomendable 200%\nMuchas Gracias\nCarlos y Jacky de Argentina - San Carlos de Bariloche"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6NXBtS2F3EAE",
+            "text": "Ordered the spaghetti vongole for takeout. At 4pm on a summer Saturday the restaurant was relatively lively. Probably 25% occupied by customers, and the remaining 10% was kitchen staff having their lunch or something like that :)\n\nAnyway, the food was good. Surprisingly a lot of clams for 25$. I counted precisely 14 clams 😄. However, some of them maybe MAYBE didn't smell too fresh. Perhaps I will pay closer attention next time. Also, I think it was slightly on the salty side, but not bad. Overall I give 4 ⭐ for the food."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQeWVTUDZBRRAB",
+            "text": "The location is easy to find and I reserved online which makes it easier. The restaurant is pretty small inside with lots of tables close together. It was very dark inside so I had to use a flashlight to read the menu. Mladenka was our server and she was nice difficult to understand at times but nice. Just as an FYI they don’t have a kids menu and when you do order spaghetti and meatballs for your children it’s very expensive. Pizza would be your best option. Also if you want bread, it’s $10 something we didn’t know. I did get arancine which was cold inside, obviously frozen then reheated which isn’t good.  Overall the food was ok. You can see what we ordered on the receipt. Overall the meal was ok.  Would I return - maybe.  The bathrooms need a bit of cleaning and upkeep."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqdFB6UDBRRRAB",
+            "text": "We've passed this place on our visits to town and for some reason it wasn't on our radar.  Big mistake on our part.\n\nThe food is absolutely wonderful. Fresh, simple, not a lot of flash, just letting good ingredients speak for themselves.\n\nService was attentive and friendly, not intrusive. We walked in just before the dinner rush and we were able to get a table after being greeted warmly.\n\nWe will definitely be back on our next visit to town"
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "fr",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNneTZIWGlRRRAB",
+            "text": "Focaccia et pizza au feu de bois très bonnes.\nLa salade Caesar n'est pas copieuse mais très bonne aussi.\nLe cadre est soigné, le restaurant très propre.\nUne bonne adresse italienne à Hells Kitchen."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMZ3Mta1lREAE",
+            "text": "I came in with my task trained service dog and we had an incredible experience. They asked us the two legal questions, and then sat us. Service was phenomenal and food was so yummy. Reminds me of my trip back in Italy last year!! Highly recommend!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtajZhSE93EAE",
+            "text": "Good food but toxic service culture. Our server got visibly upset when we didn’t get any of her suggestions.\n\nWe were greeted by a very nice gentleman and the ambiance was lovely. Food in general was okay for the price but their wood-oven fired pizza was delicious."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMcDliSk9nEAE",
+            "text": "I just happened to walk in here after walking throughout NYC. The manager Daniel was warm and inviting. He walked me through the menu and explain the popular dishes. The restaurant was very busy and service was very good. I had a great experience at Tavola. I can’t wait to come back. The cacio e Pepe was very good 🤤"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuemYzZVRREAE",
+            "text": "Awesome Italian restaurant with staff that went above and beyond to make it special. Shout out Costa!!! From the moment we walked in, we were greeted with warm smiles and a cozy ambiance. The menu had an incredible selection of authentic Italian dishes, the pasta was rich with flavour and the sauces were rich and perfectly balanced.\n\nWhat truly stood out was the impeccable service. The staff became our friends by the end of the night making our dining experience was unforgettable. This restaurant is a must-visit!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyMWNIN2ZBEAE",
+            "text": "GREAT...GREAT...GREAT Food! Nothing else/more to say! We had the Fried Calamari to start, and let me tell you...THIS GRAVY WAS TOOO DIEE FOR!! Husband had Veal Lasagna and I had the  Cacio e Pepe!! Both so so very delicious!! Price was FANTASTIC! This is a MUST place!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3b1pTSGtRRRAB",
+            "text": "We took a chance on this place with three toddlers in our group. They quickly accommodated us on a Saturday night. The staff were friendly, attentive and kind. The food was good and everyone's one favorite was the Tiramisu."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEN0szc1JBEAE",
+            "text": "Loved Tavolas! I had their lunch special and it was a perfectly, simple, delicious choice! They also have wine specials and they pour BIG! Lol! The waitstaff was friendly and helpful. Highly recommend!"
+        },
+        {
+            "date": "1년 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkM3VtbVVnEAE",
+            "text": "Tolles Restaurant. Die Pizza schmeckt wahnsinnig gut, der Spritz genauso! Nicht günstig, aber definitiv gerechtfertigt (vor allem für New York). Die Bedienung war sehr freundlich und offen, das Ambiente toll. Immer wieder gerne."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twcFkwNDJiRjgzTUdaSlZuQnlVekJVVVRaWVUyYxAB",
+            "text": "Had the shrimp risotto that was 90% risotto and 10% shrimp. My girlfriend and I asked if it was a large dish for us to share as we have been traveling all day and not so hungry. We were told no and ordered separate dishes. We ended up wasting food because they were in fact, large plates. The wait staff seemed very pushy for us to order extra appetizers and things that we had not asked for. The parm was really good though and the meatballs a 7/10."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR0Mzl2YXF3RRAB",
+            "text": "I am a Hells Kitchen local and Tavola is delicious!!! The arancini were amazing and a good size for a starter with the artichoke salad it was perfect. Now their spaghetti was executed so well for a classic dish it was just amazing. I recommend making a reservation given that it gets super busy. Overall good experience."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIb2VHQnFRRRAB",
+            "text": "This review is for the restaurant Tavola Hells Kitchen.\nI needed a quick meal but was craving Italian food. As a lactose intolerant person, I have to double check the options. I looked through the app to customize my order but when I got there was told that only 3 dishes were available. Armando explained that he couldn't veganize what I had picked but named the others available and I decided on the Eggplant Parmigiana. I sat at the bar with a hearty glass of water while my food was being prepared and chatted with him for a few minutes. Enjoyed the entree but the bread wasn't that great."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURuXzdQaXp3RRAB",
+            "text": "Walked in without a reservation and was seated as a party of 1 with kindness, not like an inconvenience. The BEST gluten free pizza I have had in the 8 years I’ve had this restriction. Absolutely delicious and toppings were gourmet- wish I was able to have it every night!!!!"
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2eVl1T293RRAB",
+            "text": "The food here at Tavola is always good. However, our server interrupted my conversation with my friend (we were discussing which lunch menu we each want to get so that we can taste each other's food), telling us that we cannot order one brunch menu and share. I looked up and asked her if we had placed just one order since she was so adamant about it. She said no, but she started to keep repeating her statement. It was difficult for us to convince her that we were indedd ordering TWO separate menu. Let alone my friend and I were speaking in a different language before she approached us, so she seemed to have jumped to the conclusion that we were talking about ordering one to share. I felt offended and misunderstood. Throughout the meal, she kept coming over every 5 minutes to ask how the food was, while she only went to the other table next to us once. Overwhelming service really left a bad taste."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSRGJrc3hiMGRCWlVaQ1pYTkpWVkpWUzBKemVGRRAB",
+            "text": "Wanted a quick bite, and saw they had a  lunch special. The inside is a cozy layout, dimly lit, tables are close together.  Two ladies were at the front to seat you. Body language and communication is very important when dealing with customers. It could be a cultural difference, however i doubt it, the servers checked up on the other guest multiple times. Not once did they come over to say did everything come out okay? Nope, they kept checking on everyone else. The only time they came to my table was when i asked for the check. Behaviors like this is unacceptable. Treat everyone equally."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBdjRiTTNRRRAB",
+            "text": "The atmosphere is cozy and intimate. Great for a date! There is a buzz of the Italian environment of gather together and eat great food. Service was very fast and food was tasty!"
+        }
+    ],
+    "reviews_count": 78
+}

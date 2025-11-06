@@ -1,0 +1,530 @@
+{
+    "name": "Gramercy Kitchen",
+    "place_id": "ChIJDxR7d59ZwokRkTMW7oCrVl4",
+    "grid": "MN6",
+    "address": "184 3rd Ave, New York, NY 10003, USA",
+    "rating": 4.3,
+    "user_ratings_total": 830,
+    "phone_number": "(917) 265-8884",
+    "reviews": [
+        {
+            "date": "1시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5S1gySlFhbVJVU0VOQmIzUkpVelY0WjBOMWNrRRAB",
+            "text": "Nice clean \"diner\" style restaurant!"
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM4aVpmaVhBEAE",
+            "text": "open to deliver and pick up"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkMVgya3lNMGs0UlRKT1V6bEZla1EwYTBwa1NuYxAB",
+            "text": "Amazing experience at Gramercy kitchen  Warm, welcoming atmosphere, excellent service, and food that’s fresh, creative, and full of flavor. The gramercy kitchen is great for a casual meal, while the Dining Room makes any night feel special. A true New York classic . Highly recommend trying the boneless wings  they were\nAmazing  time thank you Gramercy kitchen ."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FMVprTnpPV3hJZUV0QlNHZHlObTVvYVRWeU1GRRAB",
+            "text": "Cute location and good food"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOelJ6UldjVlEwWTJNNVNVbElSMnBpVURab1ptYxAB",
+            "text": "We had a great time for dinner. Everyone’s meal was delicious. I had the Mexican burger!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsQ2VFeEVPVGxHWjBNdFV5MTNkbXB0ZVVGeVkxRRAB",
+            "text": "Food was great with some really cool combos.  Nice inside and staff was great"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNMFRHbDFjMlZHYUVoS1NGVlVUbXBXWlcweGQyYxAB",
+            "text": "Top food and atmosphere"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210WVRIcG9SbTFCVG5KYVNUaFRTa2hpVGs5cWRHYxAB",
+            "text": "I think I should have went to Orion, my home diner. The food wasn't as good as I thought. They had no meal deals and it was pricey. The service was not welcoming. You're seated, you get your order taken, you eat, then you pay the check then leave. As far as the atmosphere goes I'm tired of being looked at like I don't belong in a place like that."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twYWMwRk9RVXBSYzB0dlkxQlllR00xUm1Gdk5WRRAB",
+            "text": "My wife & I went for a late breakfast.\nServer was quick & friendly.\nFood was delicious."
+        },
+        {
+            "date": "3달 전",
+            "language": "ja",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ob1NWcDNPWGxVUWtORFZuZFNla2RWYjI5aFdsRRAB",
+            "text": "ザアメリカンダイナー。\nエッグベネディクト食べたが、美味しかった。\nただ、少しだけ塩気が強いかなー、というくらい。\n\nランチでも空いてるし、ハンバーガーとか他のものも美味しそうだったのでグッド"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGZlptdFRSMUJpUXpJMFdtcHhaMmsyYTNsdGVrRRAB",
+            "text": "Good convenient corner diner.  Easy to access when in the neighborhood."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WT2RISnpYMVYzZUZSbFJUTkxSWG93YkVzMFowRRAB",
+            "text": "Peter is the man.  Thanks for calling me Peter!!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOck5UazRjVVJLUVdoclRqaHBWRUZDWVVzNVlsRRAB",
+            "text": "Modern style diner. Food is nice. Had breakfast. Atmosphere is cool. Service is kind of slow, but the management might reconsider speeding up the service."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoZldrcHNWMUowYTJ0elIzSjNlVUpOTm5oVGRYYxAB",
+            "text": "I just stopped in here for lunch after walking by several times!!. I had the blt with a side of fries which was delicious my server was great as well stayed on top of things!!. Looking forward to coming back!!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMLTlnT0c3alpYbFRREAE",
+            "text": "I find myself craving the food at Gramercy Kitchen regularly.\tThe food stands out for maintaining quality and freshness in a quick-service setting.\tTheir meats and vegetables are good quality with substantial servings."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNNkRsYUg0OF9qVTJnRRAB",
+            "text": "I was there for dinner on a Monday night and it wasn’t crowded. I tried coming here for brunch on a Saturday once and the line was somewhat long, so our group decided to pivot. Glad I came back! Staff was so friendly and welcoming, and the food was delicious—a lot of food for a reasonable price ($20 before tax and tip). I got the Tex Mex chicken sandwich and the only problem was fitting it in my mouth because it was so tall!! I’ll be back for sure."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOU3EwUDJpN3FPak9BEAE",
+            "text": "amazing!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQWGJ2X3FGcWNIS1BBEAE",
+            "text": "Love the Place. Super Friendly staff. Perfect Service. The egg Benedict on pulled meat was delicious 😻😻😻"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VKRHQwT2JfNnNmc2hRRRAB",
+            "text": "Really great brunch spot. We walked in on a weekday, were served quickly, and left satisfied."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZOFBXdEJREAE",
+            "text": "Great atmosphere. food is ok."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvbHU2c3dnRRAB",
+            "text": "Good Food, highly recommend"
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJczY2T1RREAE",
+            "text": "Una atención muy buena la mejor diría yo. Fueron muy amable y lo que ordené llegó perfecto unos pancakes exquisitos, volver a por más"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3bmJXWVp3EAE",
+            "text": "Gramercy Kitchen is a contemporary diner situated at the southwest corner of 17th Street. The staff provided exceptional service, and despite the establishment being quite busy, our order was prepared in a timely manner. The waitstaff demonstrated a high level of attentiveness to all guests. We were seated under a glass ceiling, which posed some discomfort due to direct sunlight, making visibility a challenge. We ordered a spinach and feta omelette, which was accompanied by home fries, an egg platter, and French toast. While the French toast, which has received much acclaim, did not meet our expectations and was somewhat soggy, the other dishes were thoroughly enjoyable. The pricing for three meals was very reasonable. We look forward to returning to this diner in the future and would highly recommend it to others."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3NExDejZRRRAB",
+            "text": "I took a group of 25 to Gramercy Kitchen and the staff could not have been more wonderful and accommodating.  Excellent food, outstanding service, and the mimosa tower might be the best bargain in town.  If you’re looking for a terrific place for brunch—especially with larger groups—you can stop scrolling because you’ve found your place.  Cannot recommend this restaurant more strongly!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3Z0tHN1ZnEAE",
+            "text": "I had a great time here and the food was delicious"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRcmZtUE93EAE",
+            "text": "Good food and service. Watching my granddaughter enjoy her Dubai chocolate pancakes was sheer delight."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRLVpETEZ3EAE",
+            "text": "Delicious!!!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRdnFEQXh3RRAB",
+            "text": "Don’t bother going for lunch or if you’re limited in time in the middle of your workday. Does not honor reservations. Called at 10am, they told me to double check at 11:30am. They double confirmed, and then didn’t save space and were super awkward about it . It was also super hot in there"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRdXZqbFZ3EAE",
+            "text": "One of the best diners"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnOTZ2QmRnEAE",
+            "text": "Great corner diner with friendly service"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnc3J6MnpnRRAB",
+            "text": "Breakfast was okay"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnMUplRk9BEAE",
+            "text": "Busy lunch and dinner cafe. Food is ok, portions are big, especially the orange juice."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNndFp1WXJnRRAB",
+            "text": "This place was nice and not too expensive. Relatively clean, the service was good, as was the food and the portions."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBOXJ2ZE1nEAE",
+            "text": "Wonderful place... Great food, freshly made, very very tasty... Friendly staff, always smiling and engaging... Loved the place... Plan to go back soon..."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfeC1yMVdBEAE",
+            "text": "Came upon this place in between appointments when I had time to kill and wanted some brunch. I figured it looked fine for a quick bite and cup of coffee and man was I right! I was seated right by the window, I ordered 2 eggs any style with toast, hash browns and bacon well done. Food came out super fast and was delicious. I ended up having 2 bellinis with it too. Coffee was hot and perfect diner coffee which I love. Environment was clean and cozy. I will 100% return to this establishment My server Arturo was very kind and accommodating."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfOVA2UEtBEAE",
+            "text": "We were staying at the W down the corner, my and my bf were really hungry all day so we came here since it was the closest. Definitely would come back again. The waiters speak Spanish and all are very nice, food was great fries were perfectly cooked. Service is great & attentive. It’s really pretty inside at night with their decorations if they sit you by the window area. Feels very homey. I do wish the OJ had less pulp though lol\nI was happy going there over other diners or spots with anything you can order :) I don’t see them getting recommended on fb groups but it was so close and maybe like a hidden gem. We walked by it twice before we knew what it was. it was a little high in price for two people like it would be 50-80 in AZ and was over 140 after tip there. But that’s fine counting that my bf had a few beers too.\nI assumed that’s mostly just New York prices anywhere in restaurants because we came from Phoenix lol they are great to check out for anything you’re craving and really make you feel welcome :)"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfbkpyejNRRRAB",
+            "text": "God I adore this location. This is a fairly reliable place. My eggs and bacon were somewhat dry but the pancakes were moist. Excellent product at a fair price and the staff members are really kind. The cuisine is excellent. Great food and service as well as a pleasant welcoming setting for brunch or breakfast. Excellent quality! YUM! The service is consistently good. The eggs Benedict which my boyfriend ordered was just as delicious. Not to mention the servers who delivered attentive service and were at the top of their game. For us it was truly delightful."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfeE9TbkxnEAE",
+            "text": "Nice diner. Good food selection. Service is great"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfZ095RWhBRRAB",
+            "text": "A very nice restuarant  in NY USA,after short queue we could go in ,dishes were appetizing in taste and appearance  ,server was smiling ,helpfull and serving nicely ,Parking was slight difficult ,value over money  is good"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmbk1uU1J3EAE",
+            "text": "We had read that the shakes are good, but they are small and just average. There is nothing special about them. The waiter is nice."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmbjktcTVRRRAB",
+            "text": "Great food! I ordered the Texas burger which was awesome!!\nThe food came in very quickly\n\nThe waiter serving us was Allan, always happy and smiling, great service!!!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmbjUtanpBRRAB",
+            "text": "Really nice diner! Allan was our server and he was awesome!! He was super accommodating and a very cheerful man!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURiNXFfUWRBEAE",
+            "text": "First timer! I had an Italy Wrap #7. Prepared exactly as listed on the menu. Busy even at 3pm. Our server was excellent, very attentive.  The French Onion Soup was not overly salty. The waffle and sweet potato fries were not greasy. Items were decently priced. On Sunday, they have a brunch menu. However, you can order whatever you want on the menu.  Definitely will be back."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2cllPN0FnEAE",
+            "text": "We stumbled upon this charming spot while exploring downtown New York, and it was such a great find! The staff was incredibly friendly and attentive, making our brunch experience even better. I had an awesome omelette that was perfectly cooked, and the cappuccino was absolutely amazing. This place has a welcoming vibe and delicious food, definitely worth a visit!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQNFpLQUZREAE",
+            "text": "Such a good diner, with actual decent prices! Their soups are really good too, and all their food has been well prepared and good portions. Fantastic staff, good vibes! Highly recommend"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNleHZEeVZREAE",
+            "text": "As cute as it looks, the food tastes good!!\nThe staff was very friendly and quick to respond! We ordered food and came out very quickly!\nWas so happy with my eggs benedict! The drinks were good too!\nOnly draw back is they charge 5% on Cards!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSb2NTdXlBRRAB",
+            "text": "Our first day in NYC had to start with a brunch... Well, it actually started with a hotdog at 6AM 😜 but that's another story....\nI had been craving for pancakes for weeks but I was waiting for that trip to satisfy that \"need\" so, of course, I ordered pancakes even though Gramercy Kitchen, the place we chose, near our apartment in Gramercy, offers a very extensive menu.\nMy banana pancakes were ok. As were the rest of the items we ordered.  Nothing to be remembered but still satisfying.\nThe service was good and the venue, a modern dinner, was nice. Again, nothing memorable but the job was done.\nAs for the price, we paid about $20 each. Apparently, that's quite standard for NYC, even if for us it's expensive.\n\nQuality & taste: 7/10\nQuantities: 7/10\nAtmosphere: 8/10\nOriginality: 7/10\nRatio price / quality: 7/10\nService: 7/10\nHow I felt afterwards: 7/10\n\nMore on IG @runnerandfoodie"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKbDlLaE5BEAE",
+            "text": "Breakfast and Brunch menus available at Noon during a weekday, which was great! We were greeted in a very friendly way and service was fast. The orange juice is truly freshly squeezed, you can taste the orange fibers in the juice, which was amazing. The Americano was strong, just the way we like it. Healthy options available to replace sides: fruit instead of fries and gluten free bread. The ambiance is very welcoming and nice, a lot of light, comfortable tables."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEN2FiazZ3RRAB",
+            "text": "Amazing tasting food, the Chicken Souvlaki Platter had an amazing portion size, and was extremely tasty and filling. Would thoroughly recommend to all wanting a great tasting meal."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsc2ZpZ0J3EAE",
+            "text": "I had a spinach omelette with feta with a cup of coffee. The drip coffee was good. The place was still jammed at 3PM on a Saturday. We were seating in the outside area. It was quiet and warm enough. I was able to bring a stroller inside the wooden shack. The restaurant looks better inside."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXai1lNFZBEAE",
+            "text": "It’s pretty good. We liked the food but it was somewhat plain and the portions were small. Also the service is meh - we stood at the counter for 5 minutes waiting to put our name down and the host just ignored us, didn’t even bother to say “I’ll be right with you.” Once they actually noticed us it didn’t take too long to get seated. There were some belligerent drinkers at the table next to us which made it a bit unpleasant. The resturant itself nice and has very good lighting with all the windows. Probably wouldn’t be back but an okay option for brunch."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4a08tTk1BEAE",
+            "text": "Nice american diner, friendly staff, reasonable prices and a wide selection of dishes.\nWe were there for breakfast and enjoyed their pancakes and waffles."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURieDhxa1BREAE",
+            "text": "Great place with a wonderful menu and great atmosphere. Personally felt like it was a little overpriced for the quality offered, but overall a nice spot. Definitely looks like somewhere that would be a great brunch location!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzMGNpZ2xnRRAB",
+            "text": "We went to Gramercy to try and visit another spot but find out they have a B health rating we found Gramercy Kitchen who proudly displays their A.  Their location was great along with their speed.  We were able to walk right in without any kind of reservation.  I decided to go for the sausage omlete with the home fries and English muffin.  I ordered a cookies and cream milkshake which was served in a cute little Mason jar mug.  The only thing I didn't find too cute was the price for the milkshake a whopping $6.50 for only 12oz.  The milkshake itself tasted pretty good although it was more milk than ice cream definitely not thick at all.  Bathrooms were unisex but definitely clean.  The food was decent but nothing to rave about.  Both omelettes were pretty dry and any cheese would have been extra.  Fries were just  not good and seemed like they weren’t cooked properly and as a matter of fact differ from the picture displayed in their window.  Space inside is tight with everyone crammed in the tiny area and you'll likely be sitting back to back to the next table.    We asked for some salsa or something else to go with the omelette but was simply told that they didn’t come with that.  Cups were not particularly clean and I definitely had lipstick left over from a previous customer.  We had to ask for water refills and at no point did anyone ask us how everything was.  The biggest thing that bothered me was after he brought us the check he continued to come back several times asking if we were ready.  I think overall there’s a lot left to be desired for this place but they were quick for us.  I’d  maybe give them another try but there’s so many different options around so you’ll have to take your chances and see how Gramercy Kitchen fairs for you."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqOGUtSjVBRRAB",
+            "text": "Perfect diner on a Saturday morning! Bright and airy, great food, and fast service. Exactly what the doctor ordered. Recommend the banana Nutella pancakes with berries 😋"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNaUktUkhBEAE",
+            "text": "Came in arbitrarily and glad we landed here for brunch this busy morning. Got seated near the floor-to-ceiling windows which was nice for people-watching and spying the pups walking around in cozy sweaters with their owners. We ordered…"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURleHFYcm13RRAB",
+            "text": "I have been here three times, and each time that I have had a meal here, has been beyond my expectations. The two past   times that I have been here were for breakfast. Yesterday I  decided to order dinner items. I opted for a cheeseburger with cheddar cheese and sauteed onions with a side order of Sweet Potato Fries. It was an excellent burger, cooked to my specifications. For dessert I ordered a key lime cheesecake, which was delicious. If you are ever around 17th St and 3rd Ave in Manhattan you should stop by and have a cup of coffee or tea, breakfast,  lunch  or dinner or an appetizer and glass of wine or beer. I continue to go here for brunch, as I love their home fries, scrambled eggs , corned beef hash and silver dollar pancakes., or homemade soups, such as Yankee Bean Soup, Chicken with Rice or French Onion Soup.\nI continue to go to Gramercy Kitchen, as I always enjoy having a great cup of coffee, and having pancakes, or scrambled eggs with Homefries and a side order of sausage links.  It's a relaxing place to unwind., with a glass of Pinot Grigio and a dessert.\nMost of the times that I have been there, I have had a wonderful server by the name of Inesa. She is always very friendly, helpful and always has a pleasant personality which is always a plus for me, when choosing a place to dine in."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNOU9EbGtnRRAB",
+            "text": "Large and very bright place, unlike typical diner in the City. Walls decorated with pretty touristic and cheap pictures of New York City and bathroom doors have to be slide to be open. And this is it, probably.\n\nBut food taste like very ordinary american food, so, basically tasteless chewable substance with cup of regular coffee. Nothing really to worth visit."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkdElTVU9REAE",
+            "text": "Service was great and super friendly without being too much. I immensely enjoyed the breakfast I had here and will definitely come back."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNNaWZPa19BRRAB",
+            "text": "Super cute little restaurant with speedy service. I ate alone but if you’re with a group you can expect to have a short wait, it’s so busy! I ordered and spinach and feta omelette and a peach Bellini. I think the omelette was slightly over…"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtam8yeUp3EAE",
+            "text": "Service was not great, coffee was horrible, my double egg sandwich was basic and safe. My friend’s eggs on toast was bad. Not worth your time or money tbh"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBak5ESktREAE",
+            "text": "John, owner, opened The Gramercy Kitchen after the cafe closed in 2017. The newly renovated space is bright, airy, and welcoming to all.\nI ordered the French toast with caramelized apples and mascarpone cheese. DELICIOUS!\nMy boyfriend ordered the eggs Benedict which was equally tasty.\nPictures of both included.\n\nJohn said he and the team appreciate all the feedback on menu, pricing, options, and more. A new menu will roll out in late February or March 2018. He will also use organic, fair trade, and locally harvested food where possible."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUOGVxaGtBRRAB",
+            "text": "I stopped here with a group of 6 on a Saturday around lunch time...   the place was pretty busy - we waited about 45 mins for a table.  There were smaller groups (2-4) that were also waiting for tables, but their wait times were probably about half of ours....   once seated, we found the staff there to be awesome!  We all ordered wraps, and they came out really quick (get the Gramercy wrap - its really good!).  Everyone in our group enjoyed their meals - there were no issues to be had at all...  the staff there were all very friendly, checked on us often for drink refills, etc, and were spot on in making a food choice recommendation.  I am pretty sure I will go back here again in the future - it was well worth the wait!!"
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURvMHZQUDJ3RRAB",
+            "text": "What can I said about Gramercy Kitchen. It’s the best place around our neighborhood. Ricardo, Allan and Jose are the best servers. They are very professionals, and on top of that, they make you feel like an important customer. Great food and management are phenomenal. Thanks, and please keep the excellent job."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLclphdW93RRAB",
+            "text": "I had such a great experience at this restaurant.  The service was excellent.  The staff was so friendly and helpful. The food was delicious.  I had the quinoa salad. It came with warm pita bread. I loved it. My father had the grilled…"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRdTZPYUJBEAE",
+            "text": "Good food at fair prices. The staff is great and the ambiance is open and clean. I would give a 4.5 if I could. Definitely try their chicken tenders and fries. Really good!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyaUpPS1pBEAE",
+            "text": "Not sure if this place was renovated or took over by new owners, but this place is basically an upscale diner. Ordered a turkey club with fries and the portions were large enough for two. It’s a bit pricey in my opinion."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlazd6YXFnRRAB",
+            "text": "I stopped in cause it was raining and my bus didn't come for another half hour. I had a decaf coffee to pass the time and it was really good! They even had oat milk, which is great because I can't have dairy. The wait staff was abundantly kind. The atmosphere was cozy. Would definitely recommend!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKM3FfOGxBRRAB",
+            "text": "We had a great experience here. Fabulous tasty food in huge portions, reasonably priced."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxNkx2ZTJnRRAB",
+            "text": "This is a great diner for our breakfast sando's (2 eggs w/ broken yolk, amercian cheese on a hard roll), the people are super friendly and they are dog-friendly to boot - ours is on the left. We hit this spot several times during our visit…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyNS1yMkZnEAE",
+            "text": "Absolutely fantastic service. Inesa C was welcoming, friendly and super helpful from the moment we came in until the minute we left. The restaurant was super accommodating to us as a large group, moving tables for us without complaint and sorting out individual checks. Would highly recommend. Food was also reasonably priced, tasted lovely and portions were amazing."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtMTQyMkh3EAE",
+            "text": "Drove here for their all-day-breakfast and relied on their high google ratings. Ordered egg Benedict with a latte. Latte arrived insanely-hot (lava) with a taste of the worst coffee (not shocked, wasn’t expecting excellence but this terrible?). Buns were burn (terribly) and overall the dish was super bland. I couldn’t even eat/finish potatoes. Crew was friendly/basic (nothing extraordinary). Tipped 10%. But yeah, can’t go higher than 1 star."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtdElpTnh3RRAB",
+            "text": "Nothing to write home about. The vibe, chairs and overall space were all basic and not impressive. Menu was large enough and reasonably priced but nothing tasted special. The deserts were basic as well. Nothing special."
+        },
+        {
+            "date": "2년 전",
+            "language": "nl",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNGcThtMndBRRAB",
+            "text": "Super leuke plaats om te ontbijten ! Aangenaam om te zitten, goeie service. Pancakes met Nutella zijn een echte aanrader."
+        }
+    ],
+    "reviews_count": 74
+}

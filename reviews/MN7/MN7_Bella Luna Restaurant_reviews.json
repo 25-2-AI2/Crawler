@@ -1,0 +1,537 @@
+{
+    "name": "Bella Luna Restaurant",
+    "place_id": "ChIJkf3PqpxYwokRZlk0ie5vk2c",
+    "grid": "MN7",
+    "address": "574 Columbus Ave, New York, NY 10024, USA",
+    "rating": 4.4,
+    "user_ratings_total": 807,
+    "phone_number": "(212) 877-2267",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210UVRYaGtOVVpaV2tjM1gyVnRRVVJ2WlV4VVRIYxAB",
+            "text": "Great Italian restaurant serving good contains, wine, pizza, pata and one of the best sea bass."
+        },
+        {
+            "date": "2주 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWaE1GUk9hV0UwYVZZeFEwUjBObEpvV1dOMFdrRRAB",
+            "text": "蝦子義大利麵非常美味"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGSFVFdE1hbmhOTmpoaE5GWlZVbWt0YW0wMGRrRRAB",
+            "text": "An amazing find for some great Italian food."
+        },
+        {
+            "date": "4주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsS1NIRlFUbFl3UzJaM1dHTlRXRFl6T1hkU1ozYxAB",
+            "text": "Fui dos veces una de casualidad donde probé una hamburguesa muy buena y luego a cenar unos fetuchinis con mariscos excelentes, un chianti y todo se hace más suave y agradable. El afogato muy recomendable,"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSSWFIbERjMWRIVGswdFRrMDNXa3BYTWtGWlJYYxAB",
+            "text": "Nice vibe and brilliant brunch! Love the steak and smoked salmon"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKRllqRkNYMjl2Vmt0d2VrVnhSazUwVEZaNmNsRRAB",
+            "text": "⭐️⭐️⭐️⭐️⭐️ 10/10 recommend!!!\nBella Luna is such an amazing spot on the UWS, couldn't recommend it more! The rigatoni vodka pasta and the ravioli were sooo good, definitely the standouts of our meals. We absolutely loved sitting out on the patio, it’s the perfect vibe for people-watching and soaking in the city!  Our server Kat was so awesome, super friendly and extremely personable!! Highly recommend coming here for dinner, you'll love it! :)"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201a2VqWnhRV1ZLTlRSRFZFVnVibEZmTlZVMmJGRRAB",
+            "text": "The food IS very good, in general, but I have a very specific complaint which is regarding ordering take out. The portions are minuscule. A $28 plate of chicken Marsala looks like it was made for a toddler. A $24 plate of lobster ravioli…"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3MWNrYzVXRUpPU0dJMWJ6SndZblpOUlV4TlZYYxAB",
+            "text": "I've eaten at Bella Luna for years but not sure who was the Chef the last two nights when I ordered takeout, the first night was the Pesto Linguini Shrimp that I literally had to throw away the pasta for it was bland, not one ounce of seasoning and no matter how much Parmesan cheese I added it didn't help, but I must say the shrimp was grilled perfectly. The next night I ordered the Eggplant Parmesan and that was also surprisingly awful. Instead of slices of eggplant, it was a mound of ground eggplant with so much breading and again no seasoning with a thin slice of cheese. My guest both nights ordered the Grilled Salmon with Roasted potatoes and Asparagus and both days they were fine with their dish. I'm going to have to think twice before I take a chance on delivery again. So disappointed 😞☹️😥"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKdFExTnJXalUxZFRJdFowOU1URXRVVWxOblIzYxAB",
+            "text": "The Best veggie dish, Roasted Vegetables Napolian, I've ever had by far. Not sur how they did it but the seasoning was so delicious, unique, and unbelievably tasty. I cannot wait til I go back to have it again and again and again. Never thought Vegetables can taste this good."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGd1FXNVdjWFJ2YVVSNExYaDRiMlpQTlc0MlNrRRAB",
+            "text": "Great food, great service."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KRlJsWmpXVTlVUWt3M2JtMUhTREpVYkVGU1RFRRAB",
+            "text": "First time dining here while visiting. Great food and service, and relaxing atmosphere"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214SVluUnJNVmQzYWpWck4zSnRORkV5ZWpoSVFVRRAB",
+            "text": "Food and service were excellent!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxMFlrWnljVkpYVVVsUFNVTjRXRGhzVlVwNk9FRRAB",
+            "text": "One the best restaurant experience I have ever had and I am a restaurant manager and have been in food and beverage all. My life."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SZlpUZEpMWE15T0ZKNk9HbHJhbEV5VkhwTE5HYxAB",
+            "text": "For me one of the best typically Italien styled restaurants, very reasonable prices for the quality, friendly staff"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210amEzTjBlVEJ3UkRaek15MDVYMDFWWlhGRFVYYxAB",
+            "text": "Food was fabulous (except for the mashed potatoes, so don't get that!). However, as you can see from one of my photos, there was one waiter who was quite arrogant and obviously doesn't think beer should be served in the restaurant and just poured the beer into my dining partner's glass, on both occasions,  and left half a glass of head. And then weirdly had to be asked twice to get us the bill. But the rest of the food was great, especially the Tiramisu, and the wine was lovely. My partner said the icecream was very creamy and one of the best he's ever tasted. Lasagne special was great, as was the prawn scampi. Food was so good, we will probably be tempted to go back & just insist Mr Blue shirted waiter isn't ours."
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VeGQzZzJNR1JWZVVoeVpscERPWEUxUldWNVFsRRAB",
+            "text": "Un buen lugar para desfrutar unas ricas pasta 🍝 queda cerca de central Park así que es una buena opción el trato súper especial sin duda volvería gracias por darme una rica tarde"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twdFdXdE5YM1JGYWxOZlZ6WnVNRk5IUjNodk0zYxAB",
+            "text": "Pasta was perfect, very tasty, good amount, saucy.\nRemarkable service as well, felt like home and I would come back every day."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0dlluQjRlalZvYTAxTFpIcFNiSHBqUkhOdVFWRRAB",
+            "text": "Loved the linguini with clams"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWcmQyUTVNMFo1UjFjd1ZXa3diRXhLUzNobmNHYxAB",
+            "text": "If you want something cozy and comfortable this is the place to be amazing."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKeXNnYm5oMzVHZ1VBEAE",
+            "text": "Above average local Italian restaurant. I’ve been here several times at different times of year and always had a good experience. The roast vegetable Napoleon is a good veggie friendly choice. They are able to swap sauces on the pastas in order to accommodate allergies (for example their pesto contains walnuts). The service is consistently friendly and prompt."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FMFpsaERSREJXWkROSFJEbGpNSFE0TTFWcFFWRRAB",
+            "text": "Bella Luna used to my UWS catchall, and then it changed. It’s not that the new Bella Luna is bad, it’s just not the same.\n\n6 months ago, I would have described Bella Luna as an all-purpose, community-oriented restaurant; a bit trattoria with a healthy splash of ristorante. Perfect for dates, get togethers, afterschool celebrations, and the like. But their new direction is full on ristorante: they updated their aesthetics, raised their prices, shrunk their portions, and put more effort into their dish presentation.\n\nEssentially, my once coveted eggplant parmesan now costs more, no longer comes with a free side, and is noticeably smaller — but it sure looks pretty on the plate.\n\nThe staff at Bella Luna are nice and the presentation is lovely: I'm sure they'll find their new audience, but Bella Luna isn't a fit for me or my family anymore.\n\nOn a side note, I enjoyed what I sampled from my friend's dishes, which included the newly added roasted vegetable napoleon. However, I did not enjoy the new eggplant parmesan. It was textureless and lacked flavor."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VNYmE4TWkzOHNma21BRRAB",
+            "text": "Delicious food, excellent service and beautiful place"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQZjYtSTdYcV9yNkFREAE",
+            "text": "The absolute best truffle fries we have ever had. Very beautiful place with one of the most genuinely hospitable staffs from host to GM. Oh and the pistachio gelato and the tiramisu were fantastic. And the cappuccino was amazing, OK I could continue to go on. Obviously, the pizza was incredible.  OK, I’ll stop now but really one of the best places in the city. Music was perfect for the day we were having AND they opened early just for us ha really could go on & on about their kindness. A neighborhood gem!!!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPdTV3TktkcFp5SUJBEAE",
+            "text": "We randomly came upon this place right before they were opened and they opened early for us to be able to come in. Food amazing, drinks amazing, and best tiramisu I’ve ever had. Amazing staff so helpful and kind and overall wonderful people and wonderful environment."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJUE1sN0RzMXVUcXhnRRAB",
+            "text": "We walked up about 30mins before they opened just looking for coffee. Before we walked away they stopped us and invited us in early. We were served the best food ever! Seriously the best tiramisu I have ever had. After eating they told us their cooks weren’t even here yet! I can’t imagine how it could be even better with the cooks! Seriously the best!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VQakV0X3ZTak1UNDlnRRAB",
+            "text": "Unfortunately they changed the preparation of and recipe of the eggplant parmesan. It used to be properly cooked and seasoned and served hot with a side of spaghetti or julienned squash. The side selection doesn't come with it anymore and they drown uncooked eggplant parm into a very oily sauce. The eggplant was not heated through, tasted flavorless and frozen. I used to come here just for eggplant parmesan! Very disappointing dish now. I loved the previous version, especially with the julienned zucchini and yellow squash. I could not eat it and will not return for eggplant parm."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VOTzVpS2FDNl9meHNnRRAB",
+            "text": "Went for celebratory dinner with a large party. Food was excellent. Drinks were delicious."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZd0p6N21BRRAB",
+            "text": "The person who greeted us was a bit short with us. Waitress and shift manager were very kind. The food was good, not proper italian, but tasted good, and portions were good and generous. Mushroom salad had 3 pieces of mushrooms, which was funny but tasted good. After we paid, we felt an attitude change and were rushed to move by the shift manager. The restrooms were very clean.\nOverall, it's a nice place to get lunch in the middle of a busy day."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvMGZ2eUpBEAE",
+            "text": "Bland,tasteless. We walked away hungry because we couldn't eat the food. There are better Italian restaurants on the UWS. Don't waste your money here. You'll regret it."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvMS1mcUdnEAE",
+            "text": "Went last night for dinner and tried one of their specials. Roasted Vegetable Napoleon.   Out of this world delicious!  Not only was it presented beautifully it was absolutely yummy.  I embarrassed myself and cleaned the plate.  It is a must try for sure."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvOWVyMHpBRRAB",
+            "text": "A Delightful Dining Experience\n\nWe had a wonderful time at Bella Luna! The food was absolutely delicious—from their fresh, vibrant veggie pizza to the classic Margherita, each bite was full of flavor and perfectly prepared. The hospitality stood out just as much—friendly, attentive staff who made the whole experience even more enjoyable.\n\nAnd whatever you do, don’t leave without trying the desserts. The berry tart and the chocolate-coated ice cream slices were heavenly. We’ll definitely be back!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvb3BqTXNBRRAB",
+            "text": "Had dinner at Bella Luna last night, and I have to say, I was blown away! The restaurant is so cute and the service was immaculate. They were considerate with my nut allergy and even accepted a special request to make the pizza \"less spicy.\" The food was delicious too! I cannot wait to go back and bring some friends."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJOWF6cG93RRAB",
+            "text": "Asked for a side of any maccaroni shape instead of linguine or spaghetti. When I got home I had linguine. I even left a generous tip for a take out order. Eggplant Parm should be a terrine, not 2 slices of Eggplant"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJOU1lSEdBEAE",
+            "text": "My kids I really enjoyed our late lunch here. We had the Cesar salad, fries, garlic bread, pasta & meatballs, margarita pizza. Everything was fresh, hot & delicious. Service was friendly & attentive. We live in the area & will definitely return."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3bDRQWWlnRRAB",
+            "text": "I recommend it."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3a195bDZBRRAB",
+            "text": "The lemon cheesecake was great 👍"
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmMDd2QkJBEAE",
+            "text": "Great restaurant . Warm cozy atmosphere with excellent food and service . Highly recommend !"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnby1XLUVREAE",
+            "text": "Very bad service, unfriendly staff and no clarity on the fact that gratuity is includes automatically.\nFood is okay but not exceptional"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnOXVEMXpBRRAB",
+            "text": "Owner/manager - it is okay to smile and make your guests feel welcome. You are in the hospitality business.\nServer  - you were friendly, but slow down a bit and pay better attention to guests.\nHostess- you were attentive and friendly and filled the gap left by the two above.  Great job!\nKitchen - the food was barely okay. My bolognese is much better and I am not much of a cook.\n\nWill not come again!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnaXBPenJ3RRAB",
+            "text": "Great food, super service.  Only negative is the congestion at the door. Always crowded with comings and goings."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBMDhic0xnEAE",
+            "text": "Excelent service and good prices."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBNGEyMllBEAE",
+            "text": "Last night was my 3rd time eating here. It’s quickly become a favorite. One: it’s a nice and pretty place. 2: service has been great. 3: I’ve had 3 different dishes since going and each one has been great. Food is fresh and tasty the drinks are good too. 4: this May be one of the few places left with good food and not overly priced. I hope they’re able to stay that way as I know the rising cost product is unavoidable."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBc2N5TUFREAE",
+            "text": "We have eaten here on many occasions, it has always been gratifying, the food and the customer service, but today we were served by a Venezuelan guy who was very kind, was amazing"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfNHR2a0JnEAE",
+            "text": "We used to order takeout from you all, but the delivery portions have gotten smaller recently and the prices have increased. We called to complain, but were told this is what it is now. Will not be ordering from you again. We've been customers for 5+ years now."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfOExxUEpBEAE",
+            "text": "This is my go-to take-out Italian restaurant. They have quality dishes, good sized portions, great prices… I love this place. Recommend the eggplant parmigiana with linguine."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfcF9TUTJBRRAB",
+            "text": "Great place to have dinner or grab some drinks. The passion fruit mule was amazing. I highly recommend the chicken parm!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfNWFYeHV3RRAB",
+            "text": "Nice atmosphere and good dishes. Service 100%"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfOXRuaWV3EAE",
+            "text": "HIP place where politics is discussed in a very noisy atmosphere?"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfdU9pWGl3RRAB",
+            "text": "My wife and I both got food poisoning. We think it was either the beef carpaccio or the arugula.  The beef carpaccio comes with arugula and I added arugula to my cheeseless pizza."
+        },
+        {
+            "date": "수정일: 10달 전",
+            "language": "es",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmdWEtYzRRRRAB",
+            "text": "Muy lindo lugar. Tiene un ambiente muy tranquilo y tenue. Nos atendieron re bien. Algunos meseros son muy agradables. Hay mucha variedad en la comida, en especial en tipos de pasta. Algunos platos son sencillos y otros no tanto, pero todos se ven apetitosos. Hablan español. Tienen 3 tipos de postres, y todos son ricos. Además, el pan es gratis y el café tiene refill gratis también."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3ejdpTUR3EAE",
+            "text": "Delicious authentic Italian food! The staff were prompt and professional and our came out quickly. The pasta tasted fresh and everything was delicious. We especially enjoy the portion size and found it to be a fantastic value as well as amazing quality. The interior is comfortable and the wine selection had a good range."
+        },
+        {
+            "date": "2년 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNabHFmZzlBRRAB",
+            "text": "If you are looking for a good New York style Italian food in this UWS neighborhood, Bella Luna is the place to enjoy and relax. Great service and tasty food!\nThe staff are very attentive, friendly and accommodating. Most importantly, this place carries its business with honesty and kindness and the price is very reasonable. It’s now my favorite place to take friends and family.\n喜歡義式料理且環境悠閒的，這一間的食材品質蠻好的，口感也很到味。服務很貼心、友善，價格也非常合理，帳單不會灌水，所以可以安心的享用美食。"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXeWU3azJBRRAB",
+            "text": "Really popular long-standing, upscale neighborhood Italian. I've been going here for 25 years! Service is attentive and friendly. Pizzas, pastas, salads, fish dishes all satisfy. They have good outdoor seating now too. They still have plexiglass dividers between tables."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCdlB5ODJ3RRAB",
+            "text": "PARENTS:  Good place to take kids for the price. It’s a little tight, but the bathrooms are clean and they do offer outside seating.\n\nThe pizza, minestrone (veggie soup), and julienned vegetables. The total with tax, came to $30.  Not bad! The pizza was shareable but it’s a little bigger than a personal pan pizza. Perfect for anyone who orders with a friend and you split everything. There’s enough but the other person should still order something else if you’re looking to be full from the meal. The minestrone soup wasn’t good. It lacked flavor and the zucchini chunks were under seasoned and too mushy. The cooked veggies had much more flavor!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPNUthMlFREAE",
+            "text": "Excellent Italian restaurant on the Upper West Side.  The Calamari appetizer was tasty and delicious.  Salad appetizers fresh. A large number of main courses including brick oven pizza to choose from.\nLinguine in white clam sauce absolutely delicious.  And, with \"real and large clams in the shell\". Shrimp scampi and Lobster Ravioli were outstanding.\nThe Tiramisu was one of the best I've ever had.\nNice atmosphere and very good service.\nCiao Bella!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqdGFqdm53RRAB",
+            "text": "We visited Bella Luna on a Saturday afternoon in May after going to Riverside Park. We were greeted so warmly by the staff and the handsome waiter even offered to charge my phone. I had the Eggplant Parmagian which was excellent although the steamed veggies on the side were very bland. My sister had the Chicken Piccata which could have had a bit more flavor. The Bow tie pasta with marinara served on the side was very good and perfectly al dente. . Dessert was a Berry Tarte which was delish!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMdHFxb0RREAE",
+            "text": "I had a wonderful chicken parmigiana and a couple of beers while sitting on their pleasant patio. I would recommend getting their pasta in any form. My friend also raved about the lamb chops."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMycXF5LUVREAE",
+            "text": "I really enjoy this place.  They have a vegan pizza. The linguini with clam has bit of broth on the bottom so it was refreshing.…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsOWFySlVREAE",
+            "text": "I had a great evening at Bella Luna. The candle lit atmosphere was perfect and cozy for date night. The staff was helpful, but not too overbearing and most importantly the food was so good!! We got the shrimp pesto and lamb chops. We made same day reservations over the phone because it was showing they were booked online. When we arrived the restaurant was about half empty."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURncUlxREt3EAE",
+            "text": "Fresh and flavorful food. The lamb chops with mash potatoes are delicious. The pesto linguini with shrimps is also delicious. I highly recommend both dishes.\n\nReview from 4 years ago (3 stars): I did not like my food (Penne Alla Vodka with salmon) at all while my friend loved his (Linguini Bella Luna). I tried his and it was in fact tasty so I am not sure what happened with my food. Great staff and service though and the prices are decent."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwck9ERE13EAE",
+            "text": "Amazing place, we did made a reservation, much recommended if you don’t want to wait. The staff was very friendly and welcoming. He gave a nice description of the dish and it exactly what we ordered. Even though We sat by the bar, we got great service. The dishes are a good size and could be shareable if you like small portions. Will definitely come back"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURld2JEWl9BRRAB",
+            "text": "Neighborhood staple with great staff, wonderful atmosphere and tasty foods. Would recommend if in area. Portions are very well sized.\n\nSide note my partner left a personal item behind when leaving and the staff held it for us safely until we picked it up."
+        },
+        {
+            "date": "수정일: 10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNadTlMQzdnRRAB",
+            "text": "Guray Monica, Taynor Tony and Kat the host all great. Excellent food!\n\nOctober 2024:\nThe new decor is really amazing the lighting makes it shine\n\nDecember 2024:\nTried the new weekend brunch meeting its very good. Good service by Javier"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsOTV2dGVBEAE",
+            "text": "We ordered:\n-calamari\n-linguine with meatballs (but we subbed the vodka sauce in)\n-eggplant Parm with veggies on the side.\n\nThe calamari and linguine and meatballs with vodka sauce are a MUST. Will order both of those everytime.\n\nThe eggplant Parmesan was good but not great. Wish the veggies were seasoned."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURobllHU3N3RRAB",
+            "text": "The food is very good and made with fresh ingredients. The prices are reasonable. Their staff is friendly and helpful. We loved the pizza here, it was delicious!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2NDhuWnB3RRAB",
+            "text": "Had a lovely evening here with some friends. I had the penne ala vodka and it was fantastic. Wine, coffee, and dessert with a lovely Tiramisu. Really loved the atmosphere as well. Would go again."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXZ29EbWt3RRAB",
+            "text": "Food was amazing and very tasty, the staff is the nicest, and the place is so nice! Great environment and also great location. I would 100% recommend this place if you are looking for a nice Italian restaurant in the upper west side. Their lamb is the best 10/10 btw!"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNleTZlRTFRRRAB",
+            "text": "wir haben hier zwei Tage hintereinander gegessen und es ist sehr lecker!!! Ich kann Bella Luna nur weiterempfehlen und werde es bei meinem nächsten New York Trip definitiv besuchen!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaZ3R6TXl3RRAB",
+            "text": "I had burrata and fettuccine Alfredo which tasted like I was in Italy. My friend had lamb chops which she said were done to perfection and delicious.  Prices were reasonable."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEZzQ2X2lnRRAB",
+            "text": "Will return? Absolutely... food was delicious... nice wine selection 👌   for the kids they have good food choices too."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlNTRqemJ3EAE",
+            "text": "Nice atmosphere and very kind waiting staff but the food wasn’t good enough. The ingredients in our dishes didn’t feel freshly prepared."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtcmR2VmNnEAE",
+            "text": "Bella Luna pizza was great!\nShrimp scampi wasn’t that sumptuous at all.\nChicken parmigiana is also salty.\nOverall the staffs are very friendly and welcoming."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPM18yejJBRRAB",
+            "text": "I was delighted to stumble upon Bella Luna. Just a few blocks north of Central Park, Bella Luna is nestled on a quiet street corner that gave THE coziest, most romantic vibes.\n\nTheir table bread? CHEF'S KISS. Pasta portions? GINORMOUS. Wine? GREAT SELECTION. Is it the best Italian spot in New York? Probably not, but the prices are excellent for what you get."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURVOExqaVBnEAE",
+            "text": "Lovely atmosphere. Reasonable prices. Delicious food. Very kind staff."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2amZTYkt3EAE",
+            "text": "Came by for a late solo lunch date. Great music and vibes, easy to just people watch and sit in silence."
+        }
+    ],
+    "reviews_count": 75
+}

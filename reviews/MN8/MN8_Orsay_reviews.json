@@ -1,0 +1,558 @@
+{
+    "name": "Orsay",
+    "place_id": "ChIJmxNuRpVYwokRHEkGRQ_trfc",
+    "grid": "MN8",
+    "address": "1057 Lexington Ave, New York, NY 10021, USA",
+    "rating": 4.3,
+    "user_ratings_total": 902,
+    "phone_number": "(212) 517-6400",
+    "reviews": [
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sUExXRlRkV1ptWjB4VFdIZG5lRmhLUXpaTVZsRRAB",
+            "text": "Couldn't be happier with our brunch choice. We stopped in without a reservation, and they kindly accommodated us. We frequent Paris a few times a year, and this restaurant-- from hostess to manager to servers to clientele-- all made us feel like we were in Paris. Beautiful yet understated. Elegant and not arrogant. Reservations highly recommended if weekend brunch, as every table is occupied. Outdoor seating as well. Food-- delectable and they prepare everything to perfection. Perfect temperature, perfect seasonings... beautiful presentation. Our new 'go to' spot. Could tell there were many 'regulars.'"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1WVFuZGZWSHBpVkd4UE5USnVjVFF3TUdaT05rRRAB",
+            "text": "Late lunch was delicious!  One of our favorite go to restaurants when in the city."
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxbFdGRnhiVlJ4ZERRMWJIQXdRMDlOTjFSaFdtYxAB",
+            "text": "Me apuraron para pagar y termine pagando doble propina, son rápidos para engañar turistas.\nMe incluyeron el 20% en la cuenta total y luego el 20% en el pinpad"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGU2VYWTRZVlJsWlVodVRsaDBiVE5KVUdoZk5HYxAB",
+            "text": "A bit loud, but amazing food"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21rdGFsOXNlR2h1Y0hCV1dXSklaa2syWDNCNVpXYxAB",
+            "text": "Nice food"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGZk1VWjFZMUpSY1dKbVUwNW9Ua1pNUTJOTk4yYxAB",
+            "text": "outstanding experience; food, service, and atmosphere were top notch."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkT05IUk9RWFpzY1VSVk5VbEhVa1F3Vm04dFozYxAB",
+            "text": "Menu is good, not great, that's the only reason for 4 stars.  Atmosphere is excellent, service and staff are excellent.  GREAT bar and scene.  Private room upstairs if you have a special event.  Terrace seating available too. I will go back here."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5SGQzRkRaelJLVDJ4V04wbFdlbkZZYmxSdWExRRAB",
+            "text": "delicious"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwSE5IQnJXRkV3YmxjMFozSmlla1Z6U0U1cVVuYxAB",
+            "text": "Very few restaurants in NYC have it ALL , as Orsay does..Ambiance, service, food and value"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGS1p6VmtVVTg1YjI1alFsQmFUM1ZKV2xWblYwRRAB",
+            "text": "Lovely brasserie with impeccable service in the heart of Manhattan. Ideal for business or family dinners."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kU09GZFNOMUpWZW5wQ1pVdHJTRXB2YmxSRlZIYxAB",
+            "text": "hostess was lowkey rude but yall chill otherwise🫶🏻…"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFMFR6bEZOV3hEZVVZNVNqRkliMEpPVTNkUmRsRRAB",
+            "text": "Except the oysters that came too late all was perfect for my 60th birthday"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkSU1GQk5kR3g2YUZaWVpHaHlPRmRpUlRkYVprRRAB",
+            "text": "If you enjoy paying a fair amount of money for the privilege of  sitting at an uncleared table for almost an hour waiting for your main course to arrive, then Orsay is the place for you. We were two couples out for a weeknight evening of food and conversation. All of us had been to Orsay before and had liked it enough to return. Drinks were relatively quick to arrive and  were OK but overpriced. Appetizers were mediocre at best but we didn’t have to suffer very much because they were tiny portions.\n\nFollowing the appetizers, we got to stare at the empty dirty plates for close to an hour as we waited for our main courses. Of the four of us only one main course was even reasonably good. The Coq au Vin came out cold. Two of us had the poached salmon which mercifully also came out cold as it was supposed to, but the salmon was mealy and tasteless. The only dish that came out at least passable was the Bronzino, which was at the proper temperature, but was also bland and uninteresting. All in all, not a great experience. Add to this to the response we received when we intimated that everything was not perfect, and the evening gets its cherry on top.\n\nAs I mentioned, we had all been there before, but we will not be there again."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tweE1UbDZWV05JVEdoak1Ua3hYelI2Ymt0MU1IYxAB",
+            "text": "Orsay never disappoints. The food was absolutely spectacular—rich in flavor, beautifully plated, and perfectly balanced. The service was gracious and attentive throughout the evening. It’s one of those rare spots where elegance meets warmth."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201aVEwZExXbGwyV0dGSU16VktSemw1TTJsVlMwRRAB",
+            "text": "We had a truly wonderful evening at Orsay! We sat outside by the balcony, which made for such a charming atmosphere. Our server, Robert, was excellent—attentive, warm, and knowledgeable, making the whole experience memorable.\n\nWe began with a glass of red and white wine alongside La Sélection d’Huitres—a dozen oysters from both the East and West Coasts, perfectly fresh with mignonette and lemon. For mains, the Loup de Mer (butterflied branzino with ginger carrots, tender leeks, sesame rice, and a pickled plum-yuzu glaze) was beautifully prepared, and the rabbit pot pie was rich, comforting, and full of flavor.\n\nWe ended with the Mousse au Chocolat—decadent, airy, and the perfect finale.\n\nBetween the food, the atmosphere, and Robert’s outstanding service, Orsay exceeded our expectations. Highly recommend!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0aWNGaHlORkZ4UmpoRVlYTkVZMFZHY1RoRWVXYxAB",
+            "text": "Good food. Sophisticated but comfy atmosphere. Great staff. The Coq au Vin was excellent."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Fd1pqRXpRa0pTYldGQ1dtWnpSWEl4YjNOV1YyYxAB",
+            "text": "We celebrated our 10-year anniversary with a date night at Orsay. The restaurant is beautiful, with a slow, relaxing vibe — perfect for a summer evening. We sat right on the cusp of indoor and outdoor dining, which was a lovely spot. The escargot was delicious, though the tuna tartare fell a bit flat. Our entrées were excellent, but the service was lackluster; it felt like we didn’t have one set server, and after waiting 30 minutes for our second round of drinks (the rosé spritz, which is a must-try), we canceled them as we were finishing our meal. To their credit, once the manager found out, he brought us two glasses of champagne to end the night, which was a thoughtful gesture. Overall, a beautiful setting with great food, though service could be improved."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xadmJqSkhkak41TlRrNVdrbHNaR0Z6YlVSa1dVRRAB",
+            "text": "When we're in the city, he tried to either hit the brunch menu or the dinner menu. Food very well prepared and consistent service is great. The maitre d has a French accent which makes the place even more authentic. If you air in the area you should try it"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KT1pqbDJWV2w1U1hKek9UVkRYME16VGxNMllXYxAB",
+            "text": "Food: Everything was good, Gaspacho and île flottante superb.\nService: Attentive service from different servers."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paMlkwWkVUbXRqWkcxVVFrRkVaVzFFWWt3eVoxRRAB",
+            "text": "Wanted to love this place as we had heard such raving reviews. “Best entrees in JAX, amazing cocktails, etc.” To their credit, the food was very good and we were totally satisfied with each dish we ordered. Full credit to the kitchen staff.\n\nThe service felt much to be desired in my opinion. Awkward upon walking in, two hostesses were behind the counter and neither acknowledged we existed (despite no one else in line). We don’t expect the red carpet to be rolled out or anything but a simple “hello we’ll be right with you” is always nice. Eventually we said hi and they started talking to us. They asked us 3 separate times whose birthday it was, again, more awkward each time.\n\nService was fine, but our server basically did the bare minimum to get through service. A few examples of this: asked what cocktail they recommended with rye whiskey and server responded “you could always take it on the rocks”. No explanation of the menu or further description of the daily specials was offered. My cocktail (traditional old fashioned) was delivered as my entree arrived.\n\nServer checked in regularly and was nice enough. At a premium restaurant like Orsay we had hoped that the service would be above and beyond what we could get at a standard chain restaurant.\n\nOur experience was salvaged by Orsay’s excellent food which I have absolutely zero complaints about. My wife and I both loved our entrees (filet and salmon).\n\nI’m on the fence as to whether I would try this place again. Maybe a bad night? We paid our tab, tipped 20%, and may not be repeat customers."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SdFF6aEVibnBLTTJOcFIyWm5TRlJRVm04MVpWRRAB",
+            "text": "Fancy place with great servers, vibe, and food. Def take a date here and get one of the wines"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGV1IzZE5PV05hYVhRM01FUklNVGM1Um5sTmVWRRAB",
+            "text": "Old school elegance. Nice bar area and patio. Food is extremely overpriced for the quality tho. Service was very attentive"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ReGJVSllXWHBwV0VsbVJsRnZlV2xKV0hOaVIwRRAB",
+            "text": "Make sure you have a big group of people before going to this place. It’s one of those places that if you go by yourself for a quick dinner, server will ignore you and/or rush you.\nI ordered the special salad, 5 minutes later, because I stopped eating just to answer my phone, someone asked me if I was done or still working on my salad, even though there was food on my plate! The restaurant was empty! It was clear that they didn’t want me there because just one person “is not enough money to waste time”.\nThe waiter asked me if I was ready to order, I ordered something from the “special of the day menu “ that was not available today but I didn’t know… it was my first time there…and he explained to me as if he was yelling at one of his kids. Very unfriendly and rude. He would be a good bartender in a dive bar maybe.\nI finally decided to order something else, lamb, one of my favorite dishes ever… unfortunately, It came completely burned and tasting as a burnt cast iron… I don’t know how to explain.\n\nP.S. they need to fix the bathroom door. It doesn’t close properly."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsb1ExSlRhekowWVhSSWNUWjJRMnhLYWpSelIxRRAB",
+            "text": "Our party of four had a wonderful dinner here! We had some excellent mocktails, the tuna tartare and escargot to start. Highly recommend the escargot. For our entrees we had the branzino, the baked chicken, and the prime rib special with a tomato salad and fabulous potatoes au gratin. Our server was excellent and very attentive! For dessert we had the chocolate mouse and creme brûlée. 5 star experience all around!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGWGIwSnFUWFF4TVZBeGRtbHFZbkpoVFZGeFdYYxAB",
+            "text": "Fastest way to travel to France from NYC!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0S2NIRnRkVlExTjA1NFUzZERTV041TTBRMFUzYxAB",
+            "text": "I have been to Orsay many times, most recently with a friend on a rainy night in mid-summer. The host recognized my friend and me both and greeted us warmly. The food and service are consistently very good: we were easily accommodated a table in a part of the restaurant that was not very crowded, and thus quieter (for NY), and our cocktails arrived quickly, followed by attentive offerings of fresh bread, followed by our salad, and our plats principaux. We had the basic Orsay salad, which was fresh and crisp, and the lamb shank was cooked perfectly. I also recommend the chocolate mousse. Never did I feel rushed, or focused on anything besides the fun conversation I was having with my friend. I look forward to going back."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21RM05FWk9ORXhzVDJJeWNHWTVSa05HT0dwSVkxRRAB",
+            "text": "Very attentive server. High quality food. Went to try for French Restaurant Wrek special."
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xZeFJrNVhibWgzV1dGWVJEUk9Oa3RqZGxaWFVFRRAB",
+            "text": "Un restaurante de mucha clase."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210NE5FbFljVjl3V0c5b2FUaGlYMXA2TVhGdloyYxAB",
+            "text": "Love the place. My regular spot."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swMk1VNWZka1pST0hNNFJ5MURSV2N0UmtOcWNsRRAB",
+            "text": "Used to love this place... very disappointed in the food today."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjMVh6bGhaMk54T1hnM2FWcEVSa3BQTm5sR2JWRRAB",
+            "text": "It's a very nice restaurant with plenty of room. Their bacon wrapped scallops wereamazing and the staff was very friendly."
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkcGEwWlBlRWRSVld0bU1HVjVVbmxKYTBFM1gyYxAB",
+            "text": "The snail dish(Escargots) with fantastic herbs and oil, the steak that was properly marinated and well-cooked, the Croque Monsieur, the white wine and cocktails that came with it were all in harmony and taste. However, the service was a bit disappointing. There were a few mistakes, they didn't even give us steak knives, and it was not professional to see several people hurriedly serving at one table."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wemRFUnZlSE5PTkZkaWEwNWFNVk5VVEVkTk5YYxAB",
+            "text": "Very nice maitre d, but staff lackadaisical and inattentive. Despite explaining that I am allergic to black pepper the steak I ordered w assa s slathered in pepper. Although they offered to replace it, my tongue is still thick from the one bite I tried. Expensive for a less than satisfying experience."
+        },
+        {
+            "date": "4달 전",
+            "language": "pl",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5cVoydEZkMmMyV1RWWWVtbFdRamwyYXkxSFZuYxAB",
+            "text": "Jedzenie całkiem smaczne, miło że kelnerzy cały czas bezplatnie dolewają wodę z lodem. Obsługa bardzo sympatyczna i profesjonalna, czekadełko w formie chleba i masła też donoszone na bieżąco. Natomiast odejmuje gwiazdę za zły stan krzeseł które niszczą ubrania. Wszystkie krzesła nadają się do wymiany na nowe. Załączam zdjęcie. Dodatkowo stan toalety jest fatalny i wymagają całkowitego remontu. W takim miejscu z białymi obrusami to aż nie wypada. Ceny raczej standardowe jak na NY. Za duży tatar, sałatkę z krewetkami i 4 kieliszki Cavy zapłaciliśmy $130 z podatkiem i napiwkiem."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1aGNESmZVVXB2V2tOd05HdFNVM1kwU0ZkVWRsRRAB",
+            "text": "Food was delicious. Our waiter was very unfriendly and unwelcoming"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VLNmNfYW1raXJqT2lnRRAB",
+            "text": "Nice pleasant atmosphere."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNLUpudl9kaTl2OTF3RRAB",
+            "text": "We had a wonderful lunch today at Orsay! The steak tartare is phenomenal and their salade Orsay is incredible. But what really topped off our meal was the top level of service from our server Robert. He was attentive, kind and really went the extra mile. We will absolutely be back!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLVE84TS1zdmJDVENnEAE",
+            "text": "Just a delight for a casual sophisticated lunch."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvN2ZucEZ3EAE",
+            "text": "Never disappointed"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJLTdqanZnRRAB",
+            "text": "We had the most delicious meal last Tuesday at Orsay. I had the French Onion Soup ( outstanding) as an appetizer followed by the “ Mardi “ special of Branzino fish, with fennel veggies and sesame rice. The fish was delicately cooked with a lemon butter sauce. For dessert I had the Crème brûlée 🍮 which is probably the best I ever had. The service was excellent. Only small detraction was it was very noisy. Can’t wait to return!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3akppZ2VnEAE",
+            "text": "Good food, regular service and bad atmosphere"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3Z09QdTlnRRAB",
+            "text": "The food was overcooked (farm chicken) replaced by a steak au poivre (tough). Escargots dries ."
+        },
+        {
+            "date": "7달 전",
+            "language": "ja",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRdjlfWTJnRRAB",
+            "text": "昼食をとっていなかったので、カフェタイムに食事ができる場所を探して行きました。カフェタイムなのに、10種類ほどメニューも用意がありカボチャスープとビーフタルタルをいただきました。どちらの料理もとても完成度高く美味しかったです。観光客らしい人は私たちだけで、店内も落ち着いた雰囲気でとてもリラックスできました。また機会があればディナーも利用してみたいです。"
+        },
+        {
+            "date": "8달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRZ3R6Q0RnEAE",
+            "text": "El mejor restaurante francés de nueva york"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRdk1QU0RREAE",
+            "text": "Memorable experience every time!\nThank you,\nThe Dueñas family"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnaC1lcXVBRRAB",
+            "text": "Place was low lit, upscale, and quiet. The host welcomed us and even opened the inner door for us upon entry and exit. Everyone was polite but not very friendly. The general vibe was one of surprise and thinly veiled contempt, which our family is used to when fine dining. Our waiter was initially polite, but warmed up to us quickly and was very pleasant and attentive. The coat check lady was not very nice and could benefit from being more friendly. She kept looking at us like we were beneath her.\n\nThe bread was amazing. They had an excellent wine list, and even a mocktail menu my daughter could order from. My husband loved his French onion soup, and the escargot wasn’t the best I’ve had but it was very good. Our entrees (pictured below) were delicious and we especially loved the marrow and broth for the beef. I probably wouldn’t dine here again but it was an enjoyable experience and a flawless presentation."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNncmU3ZUlREAE",
+            "text": "I ate by myself at Orsay during NYFW,\non Feb 10, 2025, after a very hectic work day & I could not have chosen a better spot! The food, ambience & service was 100/10. Can’t wait to return very, very soon 💯"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnemRQejBnRRAB",
+            "text": "Best food and service in this neighborhood!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfMXAtU3pBRRAB",
+            "text": "I don’t know why this place has such a low rating! We had a great experience today. We arrived an hour earlier, and it was quiet and wonderful. Our server gave us excellent care.\n\nThe beef tartare and chocolate mousse are my top recommendations. The onion soup and snails could be better, but that’s just my personal opinion.\n\nOverall, it’s a cozy atmosphere with a beautiful interior and a great crowd!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2a0xPVWFREAE",
+            "text": "The ambiance and the vibes were good. My waiter was very attentive. They had a good wine selection. I went out to eat and got seated right away.\n\nI got the special for the evening beef short rib. Food was okay. Short rib wasn’t as tender as I would of hoped. But I will be back to try other things on the menu."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqdjYtdnFBRRAB",
+            "text": "What a treat! Great large restaurant with old french flair. Outside or inside you will be very happy. Service was outstanding with everyone working as team. Now for the food. Presentation was excellent for all dishes. We tried the liver mousse and french onion soup, steak and fries. Eggs with salmon and had to try dessert. The liver mousse was my favorite. Creamy and rich. Steaks were perfect and fries crunchy salty. Soup so good but the desserts ohhh the desserts just yum."
+        },
+        {
+            "date": "2년 전",
+            "language": "zh",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSc1o2OGR3EAE",
+            "text": "这家餐厅正好是在我经过的路边，因为比较喜欢吃法国餐就进来了，整个装潢和建筑都非常的古老！里面的环境还是蛮好的，我们点了洋葱汤，我们还点了蜗牛和金枪鱼。洋葱汤很一般，那蜗牛，我觉得肉不是很新鲜。金枪鱼沙拉还可以吧，我觉得他的服务很一般，甚至有一些服务员还不愿意回答我们去找卫生间这样的问题。有一个亚洲面孔的男孩子问他哪里有垃圾桶，他甚至躲躲藏藏的不情愿讲话。"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEbnBMNXJnRRAB",
+            "text": "This Upper East Side place is one of my go-to spots for grubbing.\n• I'm a big fan of the old-school vibe they've got going on in there.\n• The staff is always courteous and can pretty much always find me a table, even during the busier hours.\n• The food is fantastic and consistently on point.\n• My move is to swing by right before the dinner rush so I can chow down in a relatively chill, quiet atmosphere without having to deal with too many people. It's the perfect little setup."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4MDlYQ3BRRRAB",
+            "text": "Ambiance (3/5): We were seated on the main dining floor with tables that were a tad too small and the tight alongside other tables. Luckily, there was no one seated next to us, but it still felt like the tables made us feel like sardines in a room. The decorations are lovely and make the place feel fancy and ready to wine and dine you. It is dimly lit and voice levels moderate. It was a great date spot!\nService (5/5): We were seated immediately when we walked in on a random weekday. The waiter was extremely courteous and explained the menu recommendations when asked. He noticed that I was bothered by the wobbly table, he came over and gave us a wedge (which unfortunately still did not do the trick)\nFood:\nEscargot (6pc) (4/5): The escargot was pre-scooped from its shell and was dredged in a buttery garlic and parsley sauce that was very rich and flavorful. The escargot was cooked right with a soft bite. The pieces were rather small. The bread that came with it was impossibly crispy! I wish there was enough bounce in the bread to dip into the sauce. Luckily we had a side of brioche from another app to dip instead.\nFoie Gras (3/5): I know their guests have often enjoyed this dish but it was very very rich and lacked any flavor. The cherry compote and toasted hazelnuts helped to accompany the bite, but did not hit the mark for me. For the price point, we felt we couldn’t waste it despite really only eating one of the slices.\nAile De Raie Sauvage (3/5): This was my first time having skatewing! There was absolutely no fishy taste it and had a lovely outer crisp to the sections of the fish. The whole presentation looked lovely with the splash emulsion sauce on the side! Overall, I felt like the dish was good but the taste was just meh. The sides of the baby turnips and bok choy felt disjointed with the overall dish.\nPaillard De Filet De Bœuf Au Cognac (4/5): The tenderloin was indeed very tender. The gravy sauce smothered the filet and provided a nice juicy bite! Portion sizes were appropriate. I enjoyed this dish the most in the evening.\nProfiteroles (cream puff) (5/5): I loved the dessert drizzled with chocolate and the vanilla ice cream inside was a great way to end the meal.\nUnfortunately, the food here did not meet expectations of French food I’ve had other restaurants. While I enjoyed my dining experience, I do not see myself returning."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLNFlXMTNnRRAB",
+            "text": "An old school-style French restaurant,\nAs in France the waiters are courteous and professional.\nThe dishes are very tasty and served with full care.\nAlso,the outdoor terrace gives the restaurant a pleasant atmosphere.\nFor a meal in Orsay you get full value for money."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURsenVDOG5RRRAB",
+            "text": "From the moment we enter the restaurant, the service is outstanding. Hands down one of the best service I have ever experienced. The food is amazing as well. This is easily within the top 3 French restaurants among all the ones I’ve been to."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4cmVQeEJ3EAE",
+            "text": "I was here the other day with my mother for a late lunch early dinner. The ambience is amazing, as it will transport you out for NYC for a brief moment. The staff are sweet, attentive, and very knowledgeable.\n\nWe ordered 3 appetizers, 2 mains, 2 desserts and maybe a couple glasses of ;) the food was beyond delicious. From start to end, it was an amazing experience and I will frequent more with my mother and make new memories."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURic3R1a0lnEAE",
+            "text": "First French restaurant, crossing it off my  world taste list.\nWalking in, the vibe was very tense mainly from the other guest. I could practically feel the racial barrier xD.\nI had the lunch special steak 6oz and friesinstead of the 8oz, a wise choice because I didn't even finish it before my lunch break was over.\nI asked for medium well but I guess that's just medium here? Compared to Golden Corral, I preferred GC's.\nFries were a delight, the steak sauce was tasty and very creamy, so please explain any dietary restrictions to the person that takes your order. BE LOUD AND CLEAR ABOUT IT.\nI wish they had some mocktails on the menu, would've loved something fruity with that steak. I settled for ol reliable lemonade.\nThe Cokes and Sparkling water came in cute glass bottles, I wanted to take em and turn them into vases. Gotta be quick.\nI didn't have a chance to order the tartin dessert since I was late, will come back to try it another day, maybe a creme brulee if its on the menu :9"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxNW9IYkN3EAE",
+            "text": "The service was excellent; however, I was not particularly impressed by the food or portion sizes, especially considering the high prices.\n\nThe restaurant deserves five stars for its service, but when charging premium prices, as a customer, I expect something spectacular. I don't want to be overly harsh in my review, so I'm giving four stars. However, I don't think I would visit here again or recommend it to my friends."
+        },
+        {
+            "date": "1년 전",
+            "language": "ru",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGMnAydDlBRRAB",
+            "text": "Хуже ресторана за моё прибывание в Нью-Йорке за 5 дней я не посещала. НЕ ЗАХОДИТЕ сюда! Высокомерное обслуживание, начиная с менеджера, заканчивая официантами. Особенно неприятная единственная женщина официантка, очень наигранное общение с клиентами - при общении  за столом улыбается натянуто, а отвернувшись меняется лицо и закатывает глаза. При этом с клиентами +70 общение их, официантов, более любезное, видимо, последние платят больше чаевых\n\nЗаказала рыбу и..она была обсыпанная перцем! Живу в  Испании более 20 лет и первый раз в жизни мне подали жареную белую рыбу обваленную в тесте и ПЕРЦЕМ!!!\n\nЛуковый суп был неплохой, но его тяжело испортить.\n\nМенеджер ресторана тоже ещё тот хам. Когда я отказалась от перченой рыбы, и меньше минуты думала, что мне покушать всё таки, этот менеджер \"бросил\" мне типа \"Ну думай\", и ушёл.\n\nЗря я не прочитала отзывы, которые опубликованы ниже первых с 5*, там правда написана и соответствующие комментарии.\nЧитайте больше отзывов всегда! И проходите мимо этого ресторана!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUbWJlb3BRRRAB",
+            "text": "Came here for the first time to try out their monday night special: Prime rib. Experience was quite disappointing.\n\nWe arrived at 530pm.  We ordered 2 orders of the prime rib, both to be made Rare. They initially brought us two steaks and claimed they were both rare.  However, what showed up was one steak about medium and the second one about medium-well.  They were not fooling anyone. The medium-well piece was also the end piece. We confronted the manager that the steak was definitely not rare as ordered. An endpiece can almost never be rare in principle.  As per the butcher who cut the steak, they said they must cut the prime rib slab in order from the end piece start, and cut towards the middle regardless what temperature the patron is ordering. They stated we were the first person ordering the prime rib that evening so we get those first two pieces starting from the end.\n\nI have NEVER heard of this being a case for a steak serving establishment that we get no choice for the temperature of the steak. I'm not sure if this is the truth or were they just looking for the sucker that didn't know what proper steak is supposed to look like.\n\nIf they can't honor the steak rare or medium-rare, they should state that right before ordering or upon arrival of the dish.  They brought us two overcooked steaks and if we didnt speak up they would just leave it which i find unprincipled. The management did come by to apologize that the whole prime rib slab was more over cooked than usual Mondays. However, the tone of the apology was a bit defensive. At that point they recommended us to order something else. However, we already got settled at the table with an infant so we did not want to leave midist of dinner time for the sake of our infants sleep/feed schedule. The conclusion is we had to succumb to eating overcooked steak.\n\nThis place is also not stroller infant friendly.  They would only seat us outdoors away from the main restaurant or the corner seat near the bar.\n\nThe prime rib was supposed to come out on a cart and the steak is supposed to be cut in front of you. However, we did not get to see it given the outdoor seating we were forced to sit in.\n\nBOTTOM LINE: I would not recommend the prime rib if you are particular about how your steak is prepared."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNOcXNXcHpBRRAB",
+            "text": "Always makes me feel casually elegant.   The staff treats me like I am worthy (and I am!) of the finest experience.   The controlled menu offers enough selection that you can find what you need that day.\nOh!  And [floating island!]"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtcXJUQ0lBEAE",
+            "text": "Beautiful space, wonderful staff,  delicious food and wine.\n\nOur waitress Juilissa was fantastic! The Crab Cakes and Branzino were excellent!\n\nI loved the experience and will definitely be back.\n\n4.5 Stars 🌟"
+        },
+        {
+            "date": "수정일: 7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3NC1PUWJBEAE",
+            "text": "A lovely restaurant on Lexington Ave that is nice and cozy. The staff are friendly and attentive and the atmosphere is a bit of a buzz.\nI had a lovely salmon dish and a very tasty cocktail from the happy hour menu. I look forward to going back again soon."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRNFktSUtREAE",
+            "text": "Absolutely loved this place! From the delicious French onion soup to the table-side chocolate mousse and everything in between, I can’t wait to go back and highly recommend to everyone! Location is great for UES locals and visitors alike.…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6LW8zTHlBRRAB",
+            "text": "Large attractive French restaurant with indoor  and outdoor seating. Restrooms are on second floor, a busy long narrow steep staircase. No changing table."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtMHUzNUV3EAE",
+            "text": "Continuing my birthday weekend festivities, we've walked by here many times and I always wanted to try it out. We also have seen a scene on the Netflix Marvel series, Jessica Jones show of this place too!\nWe came here for Sunday brunch. We got coffees and mimosas to start. I got the French onion soup, while my boyfriend got a delicious salad. I ended up getting croque madame (although I usually prefer monsieur) and my boyfriend ordered their special for the day, a very delicious tender falls apart pork shoulder. Unfortunately, I was so full from just my soup, I didn't finish my main dish, but that's okay,  I took it with me so I can finish it later. And no room for dessert, although I've been craving macarons. I really loved the historical look!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlZ1BYUEZREAE",
+            "text": "The gazpacho was delicious and the escargot was good without the shells. The modules and frites was enough for two,  prepared in a  Thai manner and the special was dover sole  which was excellent.   Desert was tarte tatin served with vanilla ice cream and a sublime chocolate mousse"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEbTUySDZRRRAB",
+            "text": "Est. 2000\n\nLayout/atmosphere\n*French bistro; bar to left of entrance, the rest tables in one main dining area; upstairs a smaller dining room; enclosed outdoor dining structure in street\n\nService\n*Good; waiters in black vests with “Orsay” in red on back\n\nFood/drink\n*French Onion Soup - good; did not get served too hot/scalding\n*Lunch Steak Frite (8 oz Sirloin steak, hand cut French fries, Bearnaise sauce) - OK; meat had generic flavor profile (little on the salty side), not a fan of the sauce; fries were crispy\n*Complimentary slice of bread with butter"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUROcXVpQ1hREAE",
+            "text": "Escargot, Octopus Salad, Couscous Tunisien, Chocolate Mousse.\n\n*Lighting was not good for photos.\n\nFood/Value: A\nService/Wait Time: A\nDecor/Environment: B\nParking: D (Street Parking)\n\nCash/Credit Cards: Yes\n\n*Photos by me\n\nFollow me on Instagram: @paulpaterakis\n\nTip me in Bitcoin: 14hzNnkbM5SKrUcLoxn3Vto1mx4BkTLdV9"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNVMzh2ZmxBRRAB",
+            "text": "Good service with good foods. There was no rush even though it was busy place, you and your company can enjoy the conversation. Gazpacho soup, steak, mussels & french fries, sorbet, tartar, pistachio profiteroles... these pictures can tell thousand words."
+        },
+        {
+            "date": "수정일: 10달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIcXNiYk93EAE",
+            "text": "If you ever wanted to have a dish at a French restaurant that says \"we think you are stupid Americans \" then get the salad niçoise at Orsey because it is an absolute insult to food, to its customers and to any true French food.\nIt seemed that the whole plate was rearranged and kept in the sub-refrigerator. It was that cold.  The beans were mush, the tomatoes were soggy, the egg tastes like vinegar, the potato was actually so hard it cracked when I bit into it and the bed of greens were marked with brown tips cut off.\nThe thimble of tuna it's was a tartar (some places it is not) was unremarkable, but I ate it anyway because I wasn't going to throw 35 bucks out the window.  The bread was tasty but cold, and the butter was too cold to scrape and spread.\nIt's been a minute since I've been here, and it's a one and done for me.\nNice room, pleasant people at the door, and a great bartender."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR0eFpHdDVnRRAB",
+            "text": "My favorite Bistro in NYC. Listen to the specials. I had the Pig’s Trotter with Black Truffles and it was worth the calories. Sit at the bar and ask the bartender why the clock is stuck at 6:20."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVeElHRzhRRRAB",
+            "text": "We shared the duck confit, the coq au vin, and the tart tartin.  The service is attentive and knowledgeable, the food is stellar, the place is beautiful.  I usually like places that are a little cozier, and it is a bit on the expensive side, but none of that detracts from the overall experience.  We'll certainly be going there again and working our way through the menu."
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURONV95RkpREAE",
+            "text": "Great interior and atmosphere of an old French restaurant, but… the food is was discouraging. Ordered a half chicken (dry) and “special” pig foot (no meat at all)."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM0MGVUOFVBEAE",
+            "text": "Such a lovely experience with some of the most exceptional service I have ever had the chance to enjoy. The waiters were prompt, but not overbearing and gave me ample time to eat my meal and enjoy the conversation that I was having with…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtczRQSk93EAE",
+            "text": "What an amazing event at my friend Peri’s birthday bash her at Orsay. The food fresh and the ambiance fans tactic . It was delightful and party  mood brighten the room. The staff was warm and courteous. My tuna tartare was buttery and savory held together with creaminess."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyalpyckJnEAE",
+            "text": "I had to debate with myself; was this a 2–star or 3-star experience?\n\nWell, first of all, Orsay is on the Upper East Side, not a part of town known for it’s plethora of dining opportunities. So it deserves to be forgiven to some degree for not understanding how to cook food and provide table service.\n\nBut at $27 for a poorly executed hamburger, one needs to wonder if the people patronizing this restaurant are too lazy to go someplace further away or simply enjoy the abuse of eating here?\n\nMy medium rare burger came out well-done. After searching for a server to point out the kitchen’s error, the usual “how is everything?” server check-in that would be normal in even a Times Square tourist trap being much too much to expect from this poor example of fine-dining, I finally got out of my seat to flag down a server. They flagged down another server.\n\nAfter showing this staff member the dark brown meat in the center of the burger, he went off to get the manager. After explaining for the third time what the issue was, the manager appropriately apologized and approved a replacement burger. This was also really strange; why does the server need to bring a manger over to get permission to fix kitchen mistakes?\n\nBy this time, my two friends had finished their meals. Mind you, we had all started eating at the same time, but the process of solving for Orsay’s very average kitchen was dragged out by a lack of attention and responsiveness from the front-of-house.\n\nThe new burger arrived, this one rare with a soaking wet bun. Of course, no one came to ask if it was alright this time, or to offer a coffee for the inconvenience. I didn’t dare complain about a second miss, as at this point I really just wanted to walk out of Orsay for the last time. With tax and tip, which I regret to confess I left at 18%, my meal came to over $40. For a hamburger and tap water. The poor value for money here is second in New York only to the deal the Dutch forced on the Lenape people in the early 1620s in buying Manhattan.\n\nNo, I wouldn’t recommend you eating here. Save the money on this over-priced mediocre eatery and take an Uber in any direction. You’ll find a better option within a few blocks, even if you end up at a McDonald’s."
+        }
+    ],
+    "reviews_count": 78
+}

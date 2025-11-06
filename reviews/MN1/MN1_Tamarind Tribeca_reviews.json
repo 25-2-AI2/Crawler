@@ -1,0 +1,586 @@
+{
+    "name": "Tamarind Tribeca",
+    "place_id": "ChIJ6Vva1h9awokRXw_JSQ_x6y4",
+    "grid": "MN1",
+    "address": "99 Hudson St, New York, NY 10013, USA",
+    "rating": 4.2,
+    "user_ratings_total": 2872,
+    "phone_number": "(212) 775-9000",
+    "reviews": [
+        {
+            "date": "22시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sdE9FMXVTM05sY3pWSFRFMTJjMDgwUW0wd1VXYxAB",
+            "text": "Being a former Michelin starred restaurant, Tamarind still lives up to the hype and serves amazing and delicious Indian food\n\nOur dinner started off with a pre-appetizer of sorts that was a flaky pastry with tomato and mozzarella in it served with spice yoghurt chutney\n\nWe got the Bhurwan Kumbh, which is a stuffed mushroom appetizer. It was a very rich and decadent dish with a savory filling of Paneer, Aloo and Cheese\n\nFor mains, we went down the classic road and order Paneer Pasanda, Daal Makhani, Garlic Naan and Laccha Paratha\n\nEvery dish was flavorful and the breads were really amazing and fresh"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OR1JFbzVTWEpXWVZSV2J6Qm9Nek5zUWtGcllrRRAB",
+            "text": "I went to Tamarind for a birthday lunch today. The ambience was lovely, the food was overall quite good, starters and desserts were delicious, and the main course was above average. I also appreciated the thoughtful touch of the birthday dessert at the end.\n\nHowever, our experience was marred by the behavior of the server (a lady who served us around noon). I had mistakenly ordered the chicken tikka instead of the vegetarian option in the executive lunch and politely asked if it could be replaced. I even mentioned that it was perfectly fine if it couldn’t be done but her tone and response were unnecessarily rude. I understand if restaurant policies don’t allow changes, but the attitude made the experience unpleasant.\n\nEverything else including the ambience and other staff was great, but this interaction stood out in an otherwise enjoyable meal."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sMVVqUm9OMFpqWWkxTFNsOW5PRVZWZEZka0xWRRAB",
+            "text": "Shubham did an excellent job."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GWmVFUnljRkJEWm1GVVVrNXlPRUpOU1d4VlYyYxAB",
+            "text": "Food was good to taste - presentation for the price and ambiance of restaurant left a lot to be desired- for example shahi tukda were served like plain pieces of bread served in milk ( must say taste was good ) .\n\nThe service was pretty poor - with them mixing up orders - the manager came around to ask how everything was going- and when given this feedback was less than graceful and borderline rude in his response."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sd05VeFVPVFpDVjFwWmJteDZVa2s1VkZGS2JtYxAB",
+            "text": "We’ve always love! Tamarind in TriBeCa — it’s been one of our favorite spots in the city. However, our recent Diwali visit was a bit underwhelming. The food felt quite bland this time, even after mentioning that we prefer it spicy. The flavors didn’t quite match the usual standard we’ve come to expect, which was disappointing given the price point. Overall, the experience was just okay — we really hope to see the vibrant, flavorful Tamarind we love back on our next visit."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCcmRITlRUbTlNU200eE5GSkhSVGwwZEhWelkzYxAB",
+            "text": "Tamarind has been a go to place for authentic Indian food for a very long time. Quality of food is always great as is the service. Not too creative but solid authentic North Indian food."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sWVNYRTBOVEpNV2paaFVWZEZOa3RQYUdZMWJYYxAB",
+            "text": "Excellent service from moment we arrived. I definitely recommend this place for a great Indian meal in a excellent environment. The food was mostly great too however some of the tandoori mixed grill was overcooked with not enough meat on the tandoori chicken or lamb chops. Otherwise a top Indian restaurant to try."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KS2FDMHRiVlZXTFZwMGF6VjJNRWhxZVRGS1pWRRAB",
+            "text": "Children under 10 have to eat outside."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xbGEwTjZZVlJ4YjFFM1h6WlRaMFZpYkdKSmMwRRAB",
+            "text": "Update: What is the misunderstanding? People under the age of 10 are not served in the dining room. Call their number and ask them this question.…"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kRWNucE5TMHRtZFRjd2FYaFhRelpxY2tWZmJWRRAB",
+            "text": "Very delicious 😋 food. More spicy 🌶️ we can enjoy more . This is message for Cheft"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWamVYWnNkVU5KUTJGbFNXbDFVbkI1UVRRMVMyYxAB",
+            "text": "We were a group of 5. The worst experience was when we ordered drinks and they came out too strong — we told our server. He took them back to the bar and had them diluted and brought it back — same drink, same glass . I couldn’t believe it!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psRFlsZ3dTR2htVjJ0MmJpMVpWRlZEWTFGNmFVRRAB",
+            "text": "The food was OK nothing too special about it to be very honest. It was overpriced even from a fine dining standpoint. The server was not very friendly and at times seemed rude and judgmental. Would never go back."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xseGNVbDFZemgxVFhKRWVUaHROMHBVTVU1VFoxRRAB",
+            "text": "The food is fine (nothing special), but the way they treat families with kids is unconscionable. They do not inform you upon booking that they do not allow children under 10 into the restaurant, and initially refused to seat my family group when we walked in with a few kids to a completely empty restaurant at 5:30pm. They eventually allowed us to dine, but were incredibly rude and acted like they were doing us a favor. In my 21 years living in NYC I have never experienced anything like this. It’s a spacious restaurant in a neighborhood full of families - they have no business treating groups with children so poorly. I won’t be dining here again - plenty of other Indian places in the city with even better food!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrNFNXbFlZMkZLZVd0Wlptd3diWE4yVEdKalZXYxAB",
+            "text": "Every single thing we ordered was great! No complaints about any dish. Mutton Chamaparn was the best!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CSE1tVndiM0oxUm0xWllXWmFUbUZJUWxoTWVrRRAB",
+            "text": "Another great meal at Tamarind! Always consistent food, high quality ingredients, and a nice atmosphere."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4cFJrSmxaRFJ4YzA0eVVtZFlVRlJOVEY4d1drRRAB",
+            "text": "Used to be a really great restaurant, BUT quality has certainly decreased. In addition, decor and furnishings are looking increasingly outdated.\n\nThis, however, is not where this review ends. I would HIGHLY recommend BOYCOTTING this restaurant due to consistent behavior that I as well as my friends have observed the owner of this restaurant engaging in, which appears to be highly biased towards non-Indian looking patrons. It’s one thing to do this to help attract a broader crowd, however it comes across as patronizing and taking for granted the business of others.\n\nThis restaurant is NO LONGER what it once was. Spend your money elsewhere - where they have better tasting food, and a decor and ambience to match for the price paid.\n\nPS: would not be shocked if the service staff here is treated poorly - probably worth an investigative reporter looking into."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210SFNGZHVXVk15UVRSM1owRlZUR05XVkZOckxWRRAB",
+            "text": "So they dont allow kids under 10 thats the first time I heard something like this walking in to a restaurant.."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzLTdqLXF3RRAB",
+            "text": "One of the best Indian restaurants in the city and a Tribeca institution."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GTGFVeDRZbWhDV201VGEwdExVR0l4V2pVNFdGRRAB",
+            "text": "The food was amazing. The space is thoughtfully designed, welcoming and intimate. Service was pretty good. Might have had a new employee."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pabU5GSndRbFkwT1U4dFlVeE9WbWN6VFZsWmQyYxAB",
+            "text": "One of the best hara bhara kabab and malai naan I ever had! Some unique desert options are available which is great."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNeE1qZHlka3N0ZW5vMmR5MWZha0V0U213MVVVRRAB",
+            "text": "Didn’t have a good experience here. We had a reservation but ended up needing more seats, so we made two separate reservations. When we arrived, they seated us at separate tables. We asked to be moved together since the restaurant was about 70% empty, but the server was quite rude and said we should have informed them earlier. Thankfully, another staff member stepped in and moved us to a larger table with high seats.\n\nThe experience didn’t improve much after that. We were told we had two options — prix fixe or à la carte — but were only given the prix fixe menu. When we asked again, the server said they couldn’t accommodate à la carte for a group this size, which didn’t make sense. Honestly, it felt like they just wanted to push us toward a $1200 bill for 12 people. Only after some hesitation from the group did he finally bring the regular menu, but by then, the mood had already soured.\n\nI’d been looking forward to the food after hearing so much about this place, but it was just… average. The standout was the mutton champaran — absolutely delicious. The Punjabi mutton was good too, but everything chicken we tried was pretty underwhelming.\n\nOverall, between the poor service and only a couple of memorable dishes, it wasn’t the experience I was hoping for."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkTE9YUjFWVlUzUlZSb2JTMVpkVWhrUWt4bWFsRRAB",
+            "text": "Amabilidad y sabores deliciosos"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pndGNXeDJUVUprV0RadGJIRnBjVjlwY1ZSak9YYxAB",
+            "text": "This place is fine but the staff/ownership are rude, imperious and dishonest.  This was apparent in two respects:\n- OBNOXIOUS AND RUDE COMMUNICATION RE INEXPLICABLE \"NO KIDS\" POLICY.  When we arrived for our 5:30 reservation, they very rudely told us kids were not allowed (our party included kids ages 4. 7 and 9 - all nyc kids who are used to restaurants fwiw). They claimed that they had made the “no kids” policy clear on their website (which was untrue) and grudgingly told us they’d make an exception “just this once.” Though the restaurant was empty — again, it was 5:30 — they then tried to seat us in a windowless anteroom and gave me attitude when I insisted on a table in the main dining room.\nOur party of 6 spent nearly $500, kids behaved themselves absolutely fine (no meltdowns, screens, running wild, or broken stuff) and we were out by 7:30, at which point the dining room was still no more than 1/3 full.  Yet nevertheless, I was made to feel like they were doing me a big favor by accepting my business. I have no idea where this attitude comes from - they’re a workman like Indian restaurant in Tribeca that's been around for many years; it's not like I was showing up with kids at 10 pm at the city's hottest club.  The whole attitude was beyond bizarre.\n- DISHONEST/SNEAKY ADDITION OF TIP TO CHECK:  they also added 20% gratuity to the check without specifying that they were doing so.  In fact I'd say they actively concealed it:  the check contained both a blank line for the tip and a \"calculator\" of which percentages correlated to which tips.  Because of this I almost left a nearly 50% tip by mistake, though I noticed it at the last minute.   I have lived in NYC for 15 years and dined in many restaurants in that time, and don't think I have ever seen such a sneaky move anywhere else.\nI have been to this restaurant several times over the past decade (with and without kids!), but was very put off by this experience and will not be returning."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR3Nk9YQmJBEAE",
+            "text": "Great service, attentive owner but staff not so much.. Food was outstanding, some of the best Indian food ice ever had"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKcFNtcGZTVmg1WDFKTmFYcDZkVk0zUTBkNWJtYxAB",
+            "text": "In my opinion it's a bad restaurant, it doesn't work very well, don't go."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oa1pGUjFTWFJwVUMxbVowOXFTamxYYzNwb1lrRRAB",
+            "text": "Good business friendly dinner. Food was really good and a very nice server"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxVFVsaG9UR2w2U1hKbE4yTTBRak40ZGtsMFpuYxAB",
+            "text": "Refined Indian restaurant with an extensive menu of varying dishes and ambiance fitting for a higher-end meeting. The appetizers definitely superior to the entrees but does come with paying a pretty penny. $30 a dish. 4/5 stars as a dinner spot."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kTE1FbHlTVU5FY213M1lXZHpiV1UxY0RSM2VVRRAB",
+            "text": "Terrific Indian restaurant with classic dishes! We dine here very frequently and the quality and service are always top notch. Price point is a little higher than some may expect."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xYVpYcE1VRVpuYUhJdFQzaEllbXR1UVdOeFJsRRAB",
+            "text": "ordered chicken biryani and chicken korma. chicken biryani wasn’t that tasty but the staff was pretty helpful and they helped us get a replacement with the punjabi kukkad which was tasty."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twRGVUSTJURGhCY2pFd1NVdElYMFZHVVd4WFRXYxAB",
+            "text": "I recently dined at Tamarind Tribeca with a friend, and it was an incredible experience from start to finish. Our server, Kishan, was outstanding – attentive, warm, and knowledgeable about the menu, which made the evening even more special."
+        },
+        {
+            "date": "1달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205V2JWZDVPVXh1Yld0Vk5IQnZWMUpZZVZvd1ZIYxAB",
+            "text": "Incredibile ristorante cucina indiana.\nOttimo"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGNWVURklNR1kzYlhoa1lTMUxSVjh3WVVKMFQyYxAB",
+            "text": "Great fusion food"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WdVFqWmZWMFpRUW1zNGVXNTZMV3BuTFZKbE1tYxAB",
+            "text": "Last night we had the pleasure of dining at Tamarind in NYC, and it was nothing short of exceptional. From the moment we walked in, the atmosphere felt warm and inviting, with elegant décor and just the right level of lighting for a relaxed yet refined dinner.\n\nThe service stood out immediately — the staff were attentive without being intrusive, guiding us through the menu with thoughtful recommendations. We started with the vegetable samosas and shrimp balchao, both bursting with flavor and beautifully presented. For mains, the lamb rogan josh and butter chicken were absolutely outstanding — tender, perfectly spiced, and full of depth. Every dish felt carefully balanced, highlighting the richness of Indian cuisine without being overwhelming. To finish, we shared a kulfi dessert that was refreshing and subtly sweet, the perfect end to the meal.\n\nWhat really impressed us was the combination of fine dining sophistication with genuine warmth. Tamarind manages to deliver an upscale experience while still feeling approachable and comfortable. We left feeling both satisfied and already looking forward to our next visit. Tamarind is truly a gem in NYC, ideal for a special night out or when you want to treat yourself to a memorable dinner."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KbmNuaDJObDkzZURJMFQxVktObkZOU0RWNGVHYxAB",
+            "text": "Loved the food and ambience. We ordered appetizer samosa and they gave complementary pakoras . Loved the naans and got free dessert for birthday. It was super clean and staff was very responsive and made sure we got everything on time . Loved it ."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnOXNmNGZ3EAE",
+            "text": "They revamped the menu from our last visit to Tamarind, which was a few years ago.\n\nIn my opinion all the changes were for the better.  The spicing in the food, the deserts all were spot on.  Really enjoyed our dinner."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paU1dYTm9XbHB2WW5WNGVVcHZUVTAzY2pkb2NrRRAB",
+            "text": "Food was alright, not worth the hype for a ex Michelin star restaurant. Expected better"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taa1VXcHZVV1JMUjBORFJsQXpWRUZtYUZRM2NVRRAB",
+            "text": "Service was great, nice drinks, food was amazing, staff know what they are doing, chefs menu was great"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGM1NWUlhjVkkyTkZSelZEbHdZelZZVVRaS1QwRRAB",
+            "text": "Dont visit with kids."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aWmNDMXFMV3RGVm1kcGVVczNNRWhMUjNSU2IwRRAB",
+            "text": "We took advantage of NYC restaurant week to visit this establishment, for lunch, on a Saturday afternoon. The food was absolutely incredible, such flavor. The service was excellent.  They also have an impressive selection of original and creative cocktails.  We would definitely return!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xbFJWaFhhMDltUW5nNVNqVXpSSEpxU0ZveGJGRRAB",
+            "text": "Great food and staff!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwcllUaEVSR2hhUjBSRlNtWXliMUpuVVV4NlVFRRAB",
+            "text": "We had dinner here for my husband’s birthday and everything exceeded our expectations. The servers were friendly and attentive without being intrusive and the food was spectacular. We had the Malai halibut and masaledar lamb chops, which were both absolutely delicious. They also have a variety of creative desserts and mocktails, which we also sampled. We don’t live in town but will definitely return on a future visit. Thank you to the staff for making my husband’s birthday special!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsb2IydDVVa1ZXVFdvMlptODVWMWd0T0ZSWVYxRRAB",
+            "text": "We had made a reservation beforehand but were seated somewhere in the corner. Ordered the Punjabi Kukkad chicken dish which had extremely chewy chicken. We ate a bit and after a long time when the server came to check in, he said we should have told him beforehand about this and he would have replaced it. Didn’t try to help out in anyway and left us stuck with a $33 chewy chicken dish. Visited for a birthday celebration and ordered a dessert towards the end which they bought with a candle on it. That’s it!\nRating only for the ambience and hara bhara kebab. Rude service."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zeFFub3RiMEZoZERsamFuUnBlVGhxWjIweFYxRRAB",
+            "text": "Great service, venue, and food! We loved everything we ordered. It’s pricey but nothing disappointed us."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214dk9USkdlbDkwUWpSS1YyNTZWbmhFWTFweGFWRRAB",
+            "text": "Charges are higher but serve less quantity of food"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoSE4weFFRazF4VkVVeUxXODBVbTFuTFRWdlJGRRAB",
+            "text": "We had a wonderful light dinner. The mango cosmopolitan is the best!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWSlRGRkJUa2MyWDBzeFVVRkhUa1owU1RsQ1owRRAB",
+            "text": "We ate here for lunch two days ago for my partner’s birthday. We’ve eaten here two times before and it is always fabulous. This time was no exception. We each ordered the three course prix fixe for restaurant week and ordered different dishes to share. Every single dish was spot on with depths of flavors in the sauces and levels of spiciness that our palates love. The service is very attentive without being overbearing."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKbVZYSTNVVFZmU0hWeFJscHRUelJNYjJSSWFVRRAB",
+            "text": "We were in the area tired and hungry. They refused service and told us to leave just because we had kids with us.\n\nIn New York for the first time from California, I was looking for an Indian fine dine restaurant with good ambience and came across this restaurant on Google, I clicked on ‘make a reservation’ it asked me for time and date I selected, and it booked it. It never mentioned anything about their policy of “ No kids under 10 allowed” we took an uber all the way to the restaurant and we went in and were asked to leave and denied entry since we had kids with us. We had no clue about this policy, as nothing was mentioned on the page of online booking. This was very disappointing, we all were excited about going to this restaurant and were not allowed in. This was completely the management’s fault of letting customers book online without notifying them about the policy. The staff who told us to leave also was unapologetic. I wouldn’t recommend this place to anyone with family"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWWlExZGpWVVJwTFhRd1NFRlFiMHd6TjJsSVZVRRAB",
+            "text": "We came to enjoy lunch and take advantage of the restaurant week menu. We ordered 3 mocktails, which were delicious, the lychee in particular. They served an amuse bouche, which I think was a cauliflower fritter with a zipper green sauce. Very delicious little treat. Our first course was good, the crab in particular was very tasty. The main courses were amazing! My favorite was the lamb curry. All of the dishes were served with saffron rice, Naan, and beans. The service was excellent. We were well taken care of. We really can't comment on the pricing because the executive lunch menu prix fixe at $45 is such a great price, and there were no unchanged for any food items. To end the meal we enjoyed tres leches and another dessert I can not recall the name of but it was served very hot and it was very good. I believe the server said it was made from lentil flour. We recommend tamarind."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xJMGRtb3pTVWxCVmtoT2JXdzNlV0UzUVdwRmRIYxAB",
+            "text": "Delicious food, highly recommend!"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ0dHZQZlJBEAE",
+            "text": "가격대가 꽤 있는 편인데 그런만큼 서빙도 좋고 거슬리는 것 하나 없었다. 인도요리 많이 안 먹어봤지만 여기가 제일 맛있었음. 스파이씨해서 한국사람 입맛에 잘맞음. 그렇다고 타바스코 핫쏘스처럼 저렴한 매운맛 아니고 고급진 쓰촨요리처럼 저 깊은 곳에서 우러나오는 매움이 있음. 와인 $55, 택스 팁 등등 최종적으로 $165 계산."
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURVOGNHd0FnEAE",
+            "text": "오우 너무 맛있다ㅠㅠ 치킨 티카 마살라는 익숙한 맛이면서도 동시에 고급진 맛!! 난도 식으면 질겨지는 그런 난이 아니라 레이어가 잘 나뉘어 있어 끝까지 포실포실 맛있었다.\n서버들 매너도 최고!!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psVWNFZDRja1p2VldwdlJtcEhkMkl0Vkdoek5XYxAB",
+            "text": "Had high expectations going into the place because I heard great things about this restaurant. It is pretty popular and famous. The food was good, maybe even great Indian food. Don’t get it wrong but I think my expectations were just too high. It felt like decent Indian food where I was expecting something spectacular. The dishes didn’t really stand out. The service and atmosphere were nice. Also ate with my uncle who is cool. My Beli gave it a 7.5 and I think this is accurate for Indian food but might put it a bit lower just because I’m not the biggest fan of Indian food. I do like it but I feel like it can get repetitive and I with there was more meat in the dishes. Overall, solid spot."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKMVNHRndTbUpvTFVwR1JVaHlSbDlXU0RCVVdYYxAB",
+            "text": "If one word could describe my experience at Tamarind Tribeca, it would be “wow.”\n\nTamarind is included in the Michelin Guide. It received a Michelin star when it was located in the Flatiron district.\n\nWe started with the mushroom and truffle oil naan. Are you familiar with “manna” from the Bible? It was the miraculous and heavenly bread that G-d sent to the Israelites when they were in the desert before entering the Promised Land. This heavenly bread was light and almost hovered on top of the ground. The mushroom and truffle oil naan is as close to manna as I think I’m going to get. Heavenly and divine.\n\nWe also ordered the Baghare Baingan (eggplant) and Chana Pindi (chickpeas). The Baghare Baingan was like nothing else I’ve ever had in my life. The eggplant is cooked so delicately and airy, that it almost melts in your mouth with the most savory and aromatic sauce. The Chana Pindi, while more hearty than the eggplant, also bursts with flavor and I may have said to my husband that “I could drink that sauce.”\n\nWe ordered the Milagu Curry (lamb) and the Hasiru Samudra (sea bass).\n\nThe Milagu Curry was as flavorful as one could imagine with a tomato and coconut and spicy sauce. The lamb was falling apart.\n\nThe Hasiru Samudra was the most delicate sea bass I’ve tasted with a green herb crust that was absolutely incredible. It lays on a tomato sauce that adds a bit of sweet to the savory dish.\n\nIn addition to the Michelin quality dishes, the service was impeccable. The servers “crumb” the table in between courses and they refill your glass faster than you could yourself.\n\nAn added bonus is the bathrooms are immaculate. Not always easy to find in the city, even in the most exquisite restaurants.\n\n5 stars for food, service, and ambiance. A true gem."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWWkxUZ3dXVkZpU0d0NFdUZHJYME40U0RrMVkwRRAB",
+            "text": "I wouldn’t recommend this restaurant. The food was disappointing and didn’t taste like authentic Indian cuisine. While the overall service not good. I was frustrated by the seating policy. Despite arriving on time for my reservation, I wasn’t given a table because the rest of my party hadn’t arrived yet. That was quite inconvenient and poorly handled"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VKX0NqN1daNXBQb19nRRAB",
+            "text": "Kind staff. Lot of vegetarian options., Taste was good, if your hungry may taste even better. Not a bad choice if you wish to try, just that the taste / spice levels can be improved."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnOXVMRlp3EAE",
+            "text": "So, I made a decision long ago to not write bad reviews, just don't review instead.. This is an exception. Skip Tamarind, its a bust, the food was mediocre fusion at best. The service was straight up third rate, the only good thing was the room and that was too loud. It was like cheap Chinese food but Indian.. The cauliflower was like \"sweet and sour\" cauliflower, the scallop appetizer was good but hardly Indian and the lobster.. well, I got sick from it an hour after I left. I haven't gotten any food born illness in at least 30 years and I travel the world and eat street food everywhere. This definitely impacts my review and it puts Tamarind solidly in the I'll never ever go again category. Too bad it's a few blocks from my home.."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRa0pybkNREAE",
+            "text": "If you’re looking for an unforgettable Indian culinary experience, look no further! I recently had the pleasure of indulging in an array of dishes that absolutely blew my mind.\n\nStarting with the **Pathar ke Kebab**, these delicacies were perfectly cooked on a stone slab, infused with a delightful blend of spices that left my taste buds tingling. Each bite was tender and bursting with flavor, making it an incredible appetizer.\n\nNext, the **Masaledar Chop** took things up a notch. These spicy chops were rich, savory, and incredibly satisfying. Each piece was seasoned to perfection, and I couldn’t get enough of the robust flavors.\n\nThe highlight of the meal was undeniably the **Nalli Gosht**. This lamb dish was a standout! The meat was so tender it practically melted in my mouth, and the aromatic gravy was a symphony of spices that paired perfectly with rice or bread. It was a comforting and rich dish that left me craving more.\n\nThe **Paneer Saffron Biryani** was another masterpiece. The saffron infused layers of fragrant basmati rice combined with soft, flavorful paneer made for a delightful vegetarian option. It was both aromatic and visually stunning, truly elevating the meal.\n\nTo top off this culinary adventure, the **Kulfi** was the perfect ending. Creamy, rich, and with just the right amount of sweetness, it provided a refreshing contrast to the spiced dishes.\n\nOverall, this meal was a joyous celebration of flavors, especially for lamb lovers like me. I highly recommend trying these dishes; they have truly made me fall in love with Indian cuisine all over again"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJaWZQYUFnEAE",
+            "text": "Second time we visited Tamarind on our trip to NYC from California.\n\nInitially the service was a bit rocky until Akash took over .  Smooth sailing from there .  Went back the next day for dinner as well.\n\nAmazing drinks and lamb chops and chicken dishes.\n\nFor great service always ask for Vinay as your server and try to get in touch with Akash prior to going over .\n\nHighly recommend!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfcXZicHZ3RRAB",
+            "text": "The restaurant has a beautiful ambiance, featuring a thoughtfully designed interior that enhances its overall charm. Despite the busy atmosphere, the service was excellent. Our server was attentive, friendly, and incredibly helpful in guiding me through the menu, as I am not very familiar with Indian cuisine.\n\nEvery dish was flavorful, perfectly spiced, and beautifully presented. I particularly enjoyed the Garlic Naan and Chicken Tikka Masala. For dessert, I had Gajrela (Carrot Halwa). Although I’m not a big fan of that particular dessert, I plan to try something different next time. Overall, I would definitely return to explore more of their menu."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBcnJyX3lnRRAB",
+            "text": "Among the best Indian restaurants right now in the City. Posh ambiance. Attentive, polite, professional staff. Tables far enough apart to not have to bump into people. Drinks hit the spot - could be a tad stronger for better balance. Some of their cocktails were delicious - particularly the Raj Royale. Appetizers - rasam, hara bhara kebab, paneer - were superb. Being a Bengali I had to try the daab chingri (shrimp in young coconut) - lip smashingly delicious. The malai halibut and Kerala fish were equally flavorful.\n\nFor desserts - rasmalai is good, kulfi is better, but I still feel the entrees beat the desserts in taste, and the appetizers give the entrees a run for their flavors."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREMTlPQnV3RRAB",
+            "text": "This was an unreal experience for my friends and I! The atmosphere was amazing, they took us in right away and helped us to the table. The service was just impeccable, they answered all our questions and made sure we felt comfortable! The place offers a set menu and a chose your own dishes menu. I recommend the a la Carte menu, gives you lots of options. The display of the food was stunning, and with each bite the hype of this Michelin star Indian restaurant lived up to and delivered! The lamp cops had my friend saying don’t talk to him as he enjoys this stunning food. The portion sizes were good and certainly filling for all plates! The deserts were amazing the Kulfi ice cream is a must have if you are visiting here! Overall, we would come again we couldn’t get enough of this place and the service made us very happy!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiZ3VhV2RBEAE",
+            "text": "We finally got the chance to try Tamarind, and we were not disappointed with the overall experience. This establishment is one of the nicest Indian restaurants in all of Manhattan. The decor is amazing, the food was spectacular, and the service at the bar today was out of this world. If you're looking for a special Indian meal, Tamarind is the place to go!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmc1pIQm53RRAB",
+            "text": "The atmosphere was delightful, offering a variety of choices, especially catering to vegetarians. Our visit with my family brought joy, knowing our shared appreciation for Indian cuisine. While all of us enjoyed the meal, my Indian heritage led me to yearn for more flavorful and artfully presented vegetarian dishes. A delightful surprise awaited us in the form of vegetarian patties to cleanse our palates, a gesture we appreciated. Indulging in the Hara Bhara Kabab and lamb chops, we savored each bite. The lamb chops were juicy, delicious, and well-marinated. Our selection of a bottle of wine and a mango cocktail added to the festivities. The mango cocktail, bursting with fruity flavors, though lacking in alcohol content, still made for a refreshing choice. Moving on to the main course of garlic naan, okra curry, and Pindi Chana, the naan stood out, while the curries fell slightly short. The dessert of Gulab Jamun and Gajrella, beautifully presented and delectable, provided a sweet conclusion to our meal. Despite the reasonable pricing, there is room for improvement for a more refined dining experience. The outstanding service from our server brightened our time there, leaving us with a pleasant experience. Looking forward to witnessing enhancements in the food quality soon."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMdkxvWkt6aUpTeTRnRRAB",
+            "text": "Nice restaurant when you can have great experience with food. Staff is very friendly, food delicious and indoor very welcoming. Great for a family dinner or a date."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNieExxZ1BBEAE",
+            "text": "We had an excellent dining experience at Tamarind Tribeca. The food was tasty, fresh, and exceeded my expectations. The waiters were knowledgeable and made great suggestions, especially for gluten-free dishes. The drinks were fantastic, and the atmosphere was perfect for a date night. Overall, 10/10."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURiNmFiNkt3EAE",
+            "text": "Everyone was friendly.\nFood was okay. We ordered all vegetarian options. Palakh chaat and hara bhara kababs were good. But there were 3 pieces for kababs which seems very expensive. 3 flavor Panner appetizer was okay.\nAlso for main course,  we ordered panner and gravy and nargisi kofta. kofta's were good but the first 2 orders had very less gravy.\nMocktails were okay."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN0NklpekRBEAE",
+            "text": "I don’t give 5 stars but this one deserves it! From impeccable service to elevated Indian food like you’ve never had before, this restaurant wins all the awards. I have been a fan for years and go regularly. Try the fresh dishes and also the Tamarind Margarita Up. The appetizers are yummy and the mains are out of this world. They have a beautiful wine list and incredible service. The staff is knowledgeable, professional and kind. The halibut is one of my favorites. If you want to impress someone, this is the place to come. And don’t forget to also try all the desserts. You can’t go wrong here."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJdk1PTU9BEAE",
+            "text": "Love this place. The food is always tasty, freshly prepared and the menu has great variety of classic Indian dishes.\nIt’s a large and well kept restaurant, ample seating and spacious layout.\nThe service is friendly and prompt. A must try Indian restaurant."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQxNktYN2lBRRAB",
+            "text": "We went here for my birthday dinner. The ambience is beautiful and very chic. Service is excellent too but we found the food was pretty mediocre. All the dishes lacked flavours and were really bland. We ordered aloo tikki, palak chaat, veg jalfrezi and malai naan. Naan was soft anf fluffy but everything else wasn’t so good. We had higher expectations in terms of flavours but guess they are primarily trying to cater the American palette. Jalfrezi tasted like boiled vegetables."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmck5ieGVREAE",
+            "text": "Service and ambience was very good.\nBut unfortunately the food was very mid. Presentation was lacking. We ordered mutton seekh kebab, and patthar ke kekbab for starters. We got punjabi kukkad, nargisi kofta and vegetable jalfrezi for mains. Everything tasted good but just like any other Indian mid range restaurant. The price didn't make sense for the taste and presentation.\nMust try - nargisi kofta\nThe cocktails were good so brownie points.\nThe mushroom and broccoli cheese nan are basic, nothing special in case you're planning to try.\nOverall, go to the experience the service and ambience but dont expect too much in terms of food"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1X2N2ak9BEAE",
+            "text": "The food is only okay, the chicken and lamb is too chewy and hard,almost dry out. Even the 7$chicken over rice could do better than that. Still, sauces are okay but nothing special , the service and environment is considered to be good. However,that’s the main problem, a $35 dish’s serving size and quality are not as good as some street food, what really matters? rather have mediocrity environment and services but tasty food. The deserts are also overpriced for just a little bowl of sweet rice.\n\nYou spend over $110 in this meal, but not even one dish satisfies me and my Indian friend’s tongue."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMeXBXaVdREAE",
+            "text": "Tamarind Tribeca is a standout destination for those seeking a progressive and modern take on Indian cuisine. Located conveniently near midtown and the Jersey City harborside, this restaurant combines the best of Indian flavors with Americanized cooking and preparation styles, offering a unique and delightful dining experience.\n\nThe menu boasts a wide array of options, ensuring there’s something to suit every palate. Each dish is thoughtfully crafted, blending traditional spices and techniques with a contemporary twist. The result is a flavorful and innovative culinary journey that both surprises and satisfies.\n\nThe restaurant's spacious seating capacity makes it an ideal spot for both intimate dinners and larger gatherings. The ambiance is chic and welcoming, perfect for enjoying a meal in comfort.\n\nOverall, Tamarind Tribeca excels in offering a modernized Indian dining experience in a great location. It's a must-visit for anyone in the area looking to explore a fresh perspective on Indian cuisine."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaTlgxQndhVWxMVkVWR1ZVWjBUWG90WVRSQ1FYYxAB",
+            "text": "Tamarind Tribeca is an absolute gem! From the moment you walk in, the ambiance sets the tone for a refined yet welcoming dining experience. The menu offers a wide selection of mocktails and cocktails… some of which are incredibly creative and beautifully presented.\n\nThe food is outstanding, with generous portion sizes and flavors that are rich, authentic, and thoughtfully balanced. Every dish we tried was a delight. The service was also impeccable, adding to the overall experience.\n\nHighly recommend this place if you’re looking for an upscale Indian restaurant in NYC. Perfect for both special occasions and a sophisticated night out."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRdDVxLWZnEAE",
+            "text": "Lovely ambience, yummy food, great service. Customized mocktails!! The venue is stunning, we loved dining here."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlNzVXUHp3RRAB",
+            "text": "we had 2 delicious meals here. The decor is reminiscent of upscale Indian restaurants! 👏👏 very different to the other Indian restaurants in NYC. They have a varied and diverse wine, cocktail and beer selection!  They have a big menu! in…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6LTZHN3d3RRAB",
+            "text": "Regular Indian food in an upscale neighborhood. If you like the regular Indian curries this may be the place for you. Nothing stood out for me. Also a little on the expensive side for the quality and presentation of the food. We enjoyed the Chana masala with the poori and the desserts.\nWent there with friends. The service was polite and very accommodative of special requests. Didn’t take much pictures of the food."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGc3BlLThnRRAB",
+            "text": "I visited Tamarind for the first time with a big group so we got to try a lot of things. The restaurant has a very upscale ambience with a unique upstairs/downstairs layout, and the service is great. The dishes are quite pricey but there were some I liked quite a lot. We were given the option of having a set menu (starting price was $95/person) or ordering a la carte, and we decided to go a la carte, which ended up being ~$70-75 per person with desserts after tax and tip.\n\nThe dishes I liked in particular were the Tamarind scallops appetizer (perfectly cooked, great flavor, but only 3 scallops for $24), Hara bhara kabab ($17 for some very tasty spinach patties), and the shrimp caldin (~9 tasty shrimps in a green curry for $37). I would definitely get these again.\n\nI wouldn't recommend the malai halibut ($40), though it was the winner of the 2004 USA fish dish awards. It was a bit dry and took a long time to make. It had good flavor and a nice smokiness otherwise. I also thought the chicken in the chicken tikka masala was almost inedibly tough and dry.\n\nEverything else we had was good, though nothing in particular stood out to me other than the above.\n\nWe also tried a lot of the desserts. The desserts came in large portion sizes/more dramatic plating than we expected. Overall they were pretty good but I wouldn't say anything was a must get. Honestly I would've been happy with a mango lassi but I balked at the drink prices.\n\nOverall I'm glad I got to try this upscale Indian restaurant -- it was quite the experience! They had some really tasty dishes but the price point is quite high, and there were some misses as well."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIMzhEUFFBEAE",
+            "text": "A large, modern, high end Indian restaurant. A very extensive menu catering for both vegetarian and non vegetarian alike and a good drinks list.\n\nMy choice of tandoori mixed grill and IPA was superb, my wife and our other guest were equally complimentary about their choices.\n\nHighly recommended."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1VU1YUmZORFE0TlRWUGJVWnphemd4TTE5SlMzYxAB",
+            "text": "We were a group of 4 adults and a 10 year old who dined at Tamarind. The ambience and decor were excellent. The staff were extremely professional, courteous and  engaging. The food was good with multiple vegetarian options as expected with an Indian restaurant but the desserts were the highlight!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5ODYzYmZ3EAE",
+            "text": "Tamarind Restaurant in Tribeca, NY, is nothing short of a culinary marvel, offering an exceptional dining experience that stands out in the vibrant New York food scene. From the moment we stepped inside, we were greeted by an atmosphere that perfectly balances elegance with warmth, making it an ideal spot for both casual and special occasions.\n\nThe food at Tamarind is a delightful journey through exquisite flavors and innovative dishes. Each plate that arrived at our table was a testament to the chef's mastery and passion for culinary excellence. The ingredients were fresh, the flavors were balanced, and the presentation was artful, making every bite an unforgettable experience.\n\nWhat truly elevated our dining experience, however, was the service, particularly our waiter, Dekiy. Dekiy's attentiveness, knowledge of the menu, and genuine care for our dining experience were remarkable. She had an impeccable timing, always there when we needed her but never intrusive, ensuring our meal progressed smoothly and pleasantly. Her recommendations were spot on, guiding us through the menu to make selections that suited our tastes perfectly.\n\nDekiy's professionalism and warmth added a personal touch to our evening, making us feel truly special and well taken care of. It's rare to find such dedicated and thoughtful service, and Dekiy is undoubtedly a shining star in Tamarind's exceptional team.\n\nTamarind Restaurant is a must-visit for anyone looking to enjoy amazing food with equally impressive service. It’s a place where every detail is considered, ensuring a memorable dining experience. We left with full bellies, warm hearts, and the certainty that we would return. A heartfelt thank you to Dekiy and the entire team at Tamarind for making our visit truly exceptional."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6aG9mWDFRRRAB",
+            "text": "Tamarind Tribeca is one of the torch bearers of authentic Indian fine dining in Manhattan's FiDi area. Since the days when it secured a Michelin star in 2012, it has been wowing guests with a delectable mix of great food, authentic flavors, and superior hospitality. No matter if Tamarind doesn't have a Michelin star today.\n\nI have visited Tamarind Tribeca several times in the last 5 years and also ordered takeout quite a few times. Their Dal Makhani is the closest I have come to enjoying an authentic Dal Makhani experience in Manhattan.\n\nThe Palak Chaat and Vegetable Samosas were perfect samplers to start with. The chicken in the Chicken Tikka Masala was soft and perfectly cooked while there range of Mutton dishes make for a special dining experience.\n\nAll in all, I have enjoyed my visits to Tamarind Tribeca and I highly recommend it!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkb3FLaHVRRRAB",
+            "text": "This review is for their special lunch and when we visited, it featured the Kashmir Menu.\n\nthe elegant Indian restaurant located in TriBeCa (10 mins walk from WTC). we missed Restaurant Week but nevertheless, we had an amazing experience here.\n\nThe decor is spectacular, the moment you enter, you encounter a bar area, with very high ceilings, modern and very elegant, not at all over the top.\n\nit seats 150+ people on two levels, the main dining room and the mezzanine.\n\nIt was our anniversary, so they offered us a corner booth. Here is a booth in which to sit, quiet and slightly removed from the bustle of the rest of the room, separated from others by a sheer curtain.\n\nby the way, it is a recipient of a prestigious Michelin star in the Flatiron section of Manhattan, the Tamarind Tribeca, now at its new home is the definitive restaurant where one can experience Indian Cuisine in its purest form with a contemporary touch.\n\nWe settled and then gave a glance at the Kashmir menu and ordered-\n\n* Gushtaba- two big balls of ground lamb with spices... though it was the appetizer, it was too much for me and I was almost half full. It might be the case while taking the first bite, you won't like it but later on, it will grow on you- 3.5/5\n\n* Kashmiri Machli- not sure why they serve regular Salmon and no, I do not think it was anywhere near to Kashmiri preparation - it was disappointing - 2.5/5\n\n* Dhaniwal Murgh- Oridinary item, okish- 3/5\n\n* Kahsmiri boti: Marinated lamb, think about mutton steak - the highlight of the meal, medium rare - amazing- 4/5\n\n* Kasoor Halwa (Green apple halwa) and Anjeer icecream in desserts - it was good\n\nThe overall meal was not too great for us except Kashmiri boti... I gave him feedback (being a reviewer, this is something I contribute towards all business, doesn't matter how big or small the establishment is)\n\nthey served mango cheesecake as a complementary item for our anniversary.\n\nOwner Avtar Walia also came and asked their courtesy question - 'is everything alright\" and congratulated us on our anniversary.\n\nMeat — especially lamb — is both sculptural and tender.\n\nPrice: $35 PP with tax\n\nAmbiance: As mentioned above, Dramatic ceiling-high windows face Hudson and Franklin Streets, adding drama to dining at Tamarind, and L-shaped banquette seating in low booths can be found around many of the windows.\n\noverall experience - 3.5/5 but with great ambiance, and top-notch service, I will give it 4 out of 5 ratings.\n\nTamarind is a great place and I highly recommend it, if you want to go to an elegant Indian place: the food was simply amazing."
+        }
+    ],
+    "reviews_count": 82
+}

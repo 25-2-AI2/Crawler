@@ -1,0 +1,551 @@
+{
+    "name": "Isla & Co. - Midtown",
+    "place_id": "ChIJIYq6WtZZwokRdqduboSbRU8",
+    "grid": "MN5",
+    "address": "25 W 38th St, New York, NY 10018, USA",
+    "rating": 4.8,
+    "user_ratings_total": 3582,
+    "phone_number": "(332) 799-7398",
+    "reviews": [
+        {
+            "date": "수정일: 1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQbHNqUEJnEAE",
+            "text": "TJ was so easy to look at.  110% coming back to see what color flannel he is wearing."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aV09WVnhYemQwVDNWNFJFODNla2hzY2tsZk5IYxAB",
+            "text": "Had brunch with my husband and mother-in-law. Nice food and atmosphere. We didn't like the squid appetizer, but the toasts and isla bowl were good."
+        },
+        {
+            "date": "2일 전",
+            "language": "pt",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCdWIwUkRTRTFmZDFCdlltNUVWVUk0Um1OVFNtYxAB",
+            "text": "Lugar espetacular! Vale muito a pena! Preços justos, qualidade excelente e e atendimento muito especial!"
+        },
+        {
+            "date": "2일 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sNFNFdFdjamhSTUdveVN6UkJYM3BHUjI5NE0zYxAB",
+            "text": "Super expérience. Ambiance décontractée et joyeuse, personnel sympathique, cuisine délicieuse avec un très bon rapport qualité-prix !"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SR01VdzVjM1JpYW1kb1JWUTRVa3R6WVRRdFlXYxAB",
+            "text": "We went to Isla & Co. in Manhattan for brunch and had such a great experience! We were seated around 2 PM catching up with old friends, and by 3 they dropped a Happy Hour menu on our table — we were thrilled and decided to just keep hanging out.\n\nService was excellent, and the team never rushed us off the table like many Manhattan spots tend to do. Drinks were amazing — definitely try the Mezcal Passion Fruit cocktail, it was delicious. The truffle fries and breakfast burrito were both great choices, and our friends ordered pasta dishes that they really enjoyed as well.\n\nWe sat in the outdoor patio area, which was covered for the summer and comfortably quiet, making it perfect for conversation. Overall, just a really pleasant brunch experience. I’ll definitely be back!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsc0xXZFpWRzFRT1ZOeGRXbEVRVlI0YjNab2NGRRAB",
+            "text": "great experience would recommend!!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psb2QwSkhPR1JWY2t0ZlRYVlpkVlZhUTAxNldsRRAB",
+            "text": "Food and drinks great. Recommended."
+        },
+        {
+            "date": "수정일: 2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toWk5FcHVPVGRNY0d4SGFqSTBOek52Y1dGMFZIYxAB",
+            "text": "Best coffee I have had in NYC and superb meal. The mushrooms on toast with poached eggs were full of flavour with beautiful fresh produce and the service was outstanding. What a gem of a find for brunch in a cute and cosy venue in mid-town. Highly recommend."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGbFNtOUpOMDEyYmpadU1XSXRkMmgxYkhZeGVVRRAB",
+            "text": "Toby was amazing!!!!!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxaVZtTXdOVlpXYm10UWJrcGlUakZKTVVaeFVGRRAB",
+            "text": "Amazing service and food"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Sb05VcEdlbXBzWlZacFUxcHVjSFoxWjFsWWNrRRAB",
+            "text": "Great little place place for brunch, our server Jesna was attentive, and just a great all around server. Food came out quickly and was really tasty. My fiance has the avocado toast and I had the mushroom toast. Both were lovely"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGU1lXUXpUV3R6YTJGb1NtbEJSRTFZYjIwdE1FRRAB",
+            "text": "Kimchi scramble hands down the best breakfast I’ve had anywhere!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GU09FTkxZMGg1VVhaRk1rTlpkMFZtVDFoc1oyYxAB",
+            "text": "Isla & Co. has such a cute atmosphere with great music that really sets the vibe. The staff was upbeat, friendly, and made us feel welcome right away. The food was good and the drinks were very good — definitely a highlight! We enjoyed our experience and would absolutely go back. Highly recommend for a fun, relaxed night out!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sdFpVdERUR3h6WTFaQk5GcG1hUzFuZUhveGEzYxAB",
+            "text": "Delicious food and beautiful atmosphere. We got the mushroom toast for brunch."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xZMmJtaHlkSGgyYjJKclYxRnhWWGt4U0c5aVRHYxAB",
+            "text": "Jay was such a lovely server! 😍"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGNU4xcFdOMDUwVGpsUWFYUTJXR2Q0VG1OeFJHYxAB",
+            "text": "Friendly, creative delicious, cozy. Highly recommended!"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkM1JVOXpNbk5STUhCelNsWjNielU1V21SR1FsRRAB",
+            "text": "Jay is amazing!"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taNGJWUkdOWFpPWm0xWFNFZGtZekZaVG1KcFgxRRAB",
+            "text": "Amazing"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaS1ozcHlkbTFxV2paTGJHWlVSVU5zTFVKVFQxRRAB",
+            "text": "Probably one of the best value plays in midtown. Drinks are really tasty for a reasonable price. The food was pretty good but didn't blow me away. I had the rigatoni with prawns. The prawns were cooked perfectly, but the pasta was a little under-seasoned. Generally would recommend if you're in midtown looking for a decent meal at a not outrageous price. 4.5/5"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kdldYRjNaWFJOU21STlpuZGlielo1ZUhKbFMzYxAB",
+            "text": "Perfect spot for breakfast! We went with friends and loved the relaxed, intimate atmosphere."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psWmNYWkVUazlSZG5waFh6TnRjbU52V0ZWTFozYxAB",
+            "text": "Fantastic atmosphere, fantastic service and fantastic food, not to mention reasonable!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCQlVVNHhaVTVFTW1seU9YSjNXR2h3VVhaU2NFRRAB",
+            "text": "Wonderful experience :)"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21weVNFcDJVR0kyTnkxbGJXSmFabU52ZEZkUE1rRRAB",
+            "text": "Wonderful experience, fried are the best with the ausssie salt"
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WUmIyUlhXVzE0Y2tWbWRGbGhNMmxtVDBRME9HYxAB",
+            "text": "Saw the high ratings and decied to give this place a try.\nLooked very tiny from the outside but once we entered the dining area, we were pleased with the ambience.\nOur server and the staff were very friendly and service was pretty quick as well.\nThe food looked and tasted really good and we enjoyed our brunch here.\nThe ratings are thoroughly justified and I would highly recommend dining here."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5bVdHaDBjRGxJUlcxWk1XNDVkMEZmVWpBMlRVRRAB",
+            "text": "Love this place!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKWGMwMVlTamR5YkVWTmJXMHpORFpzUVd4VVlWRRAB",
+            "text": "Amazing food & service. Loved the whole experience!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wSWNXMXNVMmN3WW5WZlQzSk5XR3AwYUU5MlRYYxAB",
+            "text": "Great ambience and good food! Solid choice for brunch/drinks"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200d1JFbGtSRlJRVkdwNWVVSm1UR2c1VTI5V1UzYxAB",
+            "text": "Excellent and fast!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwQ2RuZFRSWFl5YTI1dFJITnlWRGh4YkhSSU9VRRAB",
+            "text": "Really wonderful spot. Unexpected delight and excellent spot for Brunch."
+        },
+        {
+            "date": "3주 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2trMlJHRnJOR3hqUzBoUlducHRWMDVWWW5CT2RYYxAB",
+            "text": "뉴욕에서 브런치 추천합니다. 음식도 맛있고, 저희 아이들에게 서버분 정말 친절하셔서 즐거운 점심이었습니다."
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuM0wtYkl3EAE",
+            "text": "Despite a reservation, we were seated directly by the restroom entrance even as many tables remained empty throughout our visit. We were then served a very hot latte in a regular, handleless water glass, impossible to grip at all. an experience so puzzling it led us to suspect racial discrimination. Food isnt not that bad.\n\n미리 예약을 하고 갔음에도 화장실 입구 바로 앞을 배정 받았습니다. 홀에는 우리가 있는 내내, 그리고 다 먹고 나갈 때까지 빈 자리가 많았어요.\n그리고 뜨거운 커피를 그냥 물 담는 유리컵에 줘서 제대로 손 댈 수 없었습니다. 대체 어느 카페에서 뜨거운 라떼를 유리잔에 주나요? 손잡이도 없는 컵에 말이죠.\n이것이 모두 인종 차별이 아니라면 서비스 퀄리티 자체에 심각한 문제가 있습니다. 어느 쪽이든 갈 의미가 없는 곳입니다."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SR1RWSkZkMFJuTVV0NVlua3lSWEl3WWtjdGRHYxAB",
+            "text": "What a great breakfast! I ordered the breakfast sandwich and I was a little skeptical because I had a hash brown potatoes on the sandwich, but it was absolutely outstanding. Much better than what I anticipated.\nMy wife had the avocado toast and she very much Enjoyed that. Service was very attentive and punctual."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGbGEwUXlhV2RCWm1OS1ozTnZabVJZYjNoZlYxRRAB",
+            "text": "I see why this place is highly recommended, it’s a great chill and intimate atmosphere, for couples or friends, and there are several sections for seating that have unique vibes - such as a terrace area with greenery but still indoors. Great drink selection, a cute nod to Australian foods and great service. The squid was some of the best I’ve had! Highly recommend if you’re in Midtown."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wemMzSndUREZ2UlMxblRtSjBiV3BPVFdvd1JWRRAB",
+            "text": "Juan is an outstanding waiter — always attentive, cordial, and respectful. He is very kind, friendly, and quick to respond to any request, which makes the dining experience at Isla & Co. even more enjoyable.\n\nThe only recommendation I would make is to add a baby changing table in the restroom, as it is truly indispensable for families with little ones."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSdldUTnlTelV4VTNaTVdrUTBYMmRRUW5wRVZIYxAB",
+            "text": "Came here for brunch on a Saturday. Service and atmosphere were great. The chicken sando was just ok; the sauce it’s coated in was underwhelming. The fries were really good, though. I split the strawberry cheesecake waffles and that was good, too. I also liked the virgin mojito."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OWExXcGtiMGt4T1RKcVZUZEpaRk5yUTJZeFRGRRAB",
+            "text": "This was the best place to get brunch with my girls. The atmosphere was cozy and calm, and the service was beyond incredible. Our waitress, Lina, was the sweetest, most amazing person ever. Not only was she super attentive, she went above and beyond to make sure my friend, the birthday girl, got the pics she needed for the gram. She also checked up on us multiple times and made us feel so taken care of. She made our whole day. Definitely needs a raise and a promotion! :)\n\nThe food was also super yummy and reasonably priced. I highly recommend the strawberry cheesecake waffles and the truffle fries.\n\nI can’t recommend this spot enough and we’ll definitely be coming back!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WRVJWcHBXVmhIZVhabk5rWjNXazFMZW1KbVdVRRAB",
+            "text": "Food, drinks and service were good. They have happy hour so we tried some of the happy hour food (Spicy Chicken Wings) and drinks (Espresso Martini, Margot Robbie & Smoke Show). The bathroom was unisex and it was dirty. Also they have a 2.5% credit card fee which wasn’t disclosed on the menu; I told saw it when I asked for a receipt after paying so if I didn’t get a receipt I wouldn’t have known that there were fees."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psdVZVUkNTMHd6UkU4M05HaGxSRzlsTVRkWFNVRRAB",
+            "text": "Very nice restaurant. The decoration was cool, 5 stars service and vibe and really cool people working there. The main dishes were okay, they lacked some taste. But the dessert was out of this world made with caramel and dates."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxRlRGaHFXbGMwVWxOUVNHcE5YMUZzVERNd2FuYxAB",
+            "text": "I had a birthday brunch here and the service and atmosphere of the restaurant was amazing. Our waitress, Lina, was super friendly and helpful, she even helped us take photos while setting up an area for us to take pictures. The restaurant was nice, comforting, and clean. The food was also amazing for the prices, overall had the best time.\n\nCan’t wait to come back again!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xVlJrbFVaemxRZVhsWlNFNVZaRk5LUjFGUFdtYxAB",
+            "text": "We were in the neighborhood and looking for a brunch place and online reviews said this place was good and the menu looked decent so we decided to check it out.\n\nWe did not make a reservation but were able to put yourself on the waiting list so that is what we did.  When we checked in, we still had to wait about 15 mins so in total the time detailed during the wait was accurate.\n\nOnce seated, we ordered the burger with fries, avocado toast and the mini breakkie which came with eggs, beans toast and hash browns.  The burger was decent but the fries were good, the avocado toast was a good size and had good flavor.   The beans on the brekkie looked like they can from a can but were still good; the eggs and bread were good while the hashbrowns looked premade.  The flavor and quantity of the flavor was good and each was filling.\n\nOverall a good brunch place if you are in the area as the food and ambiance were good"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSTVNYRklaV2c1VFRkM05uVTJOREo0V1ZseGRsRRAB",
+            "text": "Definitely coming back. The hummus appetizer is a must! We had the tacos and tiramisu ..they were also delicious! Our server Jay wad attentive, funny and gave great recommendations."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VMSEhtYXFfZ2VMMDlnRRAB",
+            "text": "Came by for lunch with no reservation and the wait was pretty quick, just 5 minutes for 3 people. We got seated all the way in the back where it was less packed and the wait at the table was a little long but they were busy so it’s understandable. Food wise, the shrimp pasta was good! However the two burgers came to us a little cold rather than warm/hot. Fries were crunchy and hot though. Would come back if I pass by here again."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sb1ptbHpTR3BGUjNsMlkyazBRbEpOWVZsRFZtYxAB",
+            "text": "Food was fantastic - nice range, great presentation, good taste. Cocktails were fun too. Will recommend for a meet up with friends."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOMVVYWTNVMWRyVlRGVU9IaFVNekpuTTA1TmRYYxAB",
+            "text": "What a fun and delicious place. If you don't care about learning anything about Australia then it might not be as charming for you. The food will still be delicious though!\n\nDrinks are great, the menu is fantastic. Really something for everyone. The Afagato is really something else. Not sure what kind of ice cream they use but inject it into my veins.\n\nShout-out to Toby and Juan for their excellent service.\n\nFries are seasoned and crispy. Can eat a bucket of those. The kangaroo is good, just know that Kangaroos are like MMA fighters. So lots of muscle, it's a bit of a chew but worth it for the experience of a Roo skewer.\n\nLoved the breakfast roll, such a thick delicious scrambled egg. I didn't expect to struggle to finish it but yet I did.\n\nHalf of our table ordered the burger and all of the plates were clear. Definitely a winner.\n\nCocktails. All of them. That is all.\n\nCrikey, what a place."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KWFpERkZNek10U1d0RmMwcG1VVWh1UjNGQlJGRRAB",
+            "text": "Excellent breakfast to end our wonderful stay at Hotel Hendricks! My husband and I both had the steak brunch! Delicious! Oh and the coffee is top notch! Our waiter Rafael was very friendly and quick on his feet! ♥️🫶🏼"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSeGEwNWhVRmRzY1RCUlJIZERNbEZXUVRsWFRsRRAB",
+            "text": "The kangaroo skewers were great! We got the kangaroo skewers, truffle tries, and Thai spiced squid to share. All were great. 1 of 3 main came out about 10 minutes after the apps and we were waiting on the other two. No one really check in about our main. So we asked and it seemed like they forgot. A little after we finally got our other 2 main dishes. But it was cold. Didn’t seem like we had a main server taking care of us. Would come back for the kangaroo skewers."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQdkh1ZGFtcmZlMlR3EAE",
+            "text": "Really enjoyed our lunch here. The staff were very nice and the service was quick. We got our food rather quickly and everything was amazing. No complaints. I definitely recommend the kangaroo skewers, the fish sando, and the wings! The wings were truly amazing and crispy. Highly recommend this place for a nice brunch."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLSDE5YXE2X3JlMjRnRRAB",
+            "text": "This was a fun find. Located on the ground floor of Hotel Hendricks in Midtown, it might not be where you would expect to find good food and a great atmosphere, but here it was. Went with smashed avacado toast topped with smoked salmon and…"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJOXRQY3hnRRAB",
+            "text": "First off, we started with a 1:45pm reservation and we were seated at 2pm and received our orders by 2:40pm. It was just a long process from entering to starting our meal. We only saw our server when we ordered and received our food - never once in between, which seems odd compared to other reviews where people raved about the service. The fries for all 4 of us were also drenched in oil as shown in picture, not crispy just soft from oil. The flight tower cocktails were delicious though. The bathroom was shockingly a mess, clearly not checked in on for some time - trash was full even though it was large and a used wet wipe was sitting on the trolley/cart."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjMVQwOW1hbEpOU2pocWNWVlZXVkpPVjFkWVkwRRAB",
+            "text": "Overall it was an excellent experience food was good The staff was friendly food came out quickly very flavorful I say get the truffle fries as a compliment to each meal with the aioli You will not regret it"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Wa2VUVXRaMUppTVhWWGRWSk1WSEpDY1Zrd1ozYxAB",
+            "text": "I ordered steak and eggs for breakfast, the food was really delicious, beyond my expectations, the decoration of the place is very luxurious and beautiful, the staff are very friendly. I love this place. 🏆"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOV2x4LUNpZ29QVVdBEAE",
+            "text": "The food was delicious, atmosphere was nice, and our waiter Jay was awesome. He brought such a fun energy to our dining experience! Also had kangaroo meat for the first time, wow!"
+        },
+        {
+            "date": "2달 전",
+            "language": "iw",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paMU1qSnJVMDFrUkVwTWMxOVpRMkpwUlhGM1VrRRAB",
+            "text": "הגענו לארוחה משפחתית והחוויה הייתה פשוט מעולה.\nכל המנות היו מצוינות – ההמבורגר עסיסי עם צ’יפס קריספי, הסטייק עשוי בדיוק במידה הנכונה עם רטבים מצוינים, הסלטים טריים ומאוזנים, והקינואה עם העוף והגבינה הייתה שילוב מפתיע ומאוד טעים. גם השתייה – יין אדום וקוקטייל – השתלבו נפלא עם האוכל.\n\nהשירות היה יוצא מן הכלל – אדיב, מהיר ומקצועי, עם יחס אישי ונעים לאורך כל הערב.\nהאווירה במסעדה חמה ונעימה, מתאימה גם למשפחה וגם לבילוי זוגי.\n\nמומלץ בחום – אחד המקומות שהשאירו אצלנו חוויה קולינרית מצוינת בניו יורק."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMcXR2NVc4eElfQWpBRRAB",
+            "text": "Super cute place, love the interior design and their menu design specifically.\n\nMe and my friend had brunch with few drinks here during last Sunday, we are satisfied with everything we ordered. The place is busy during the weekends. And we been told to wait for 30mins to get a table, so we decided to sit in the bar instead.\n\nBTW their staffs are super friendly."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VOV0l4X0hmZ3BLTnJBRRAB",
+            "text": "If you need a steak knife to cut a fried fish sandwich in half that's a bad sign.\n\nI brought my mom here after a trip to the doctor where she couldn't eat. We decided to share the fish sandwich and the power bowl. I thought it was a problem with the knife until I bit into the sandwich and discovered that the crust was hard and also stuck to your teeth when you bit it.\n\nAs an Australian citizen, I consider it weak to be an Aussie restaurant and not serve proper, crispy fried fish.\n\nSince she was starving, my mother chose to keep the sandwich.\n\nI know that our waiter, who was very nice, informed the management, but they did not have anything to say to us. Our fries were very good and she really liked that the tartar sauce was not overly \"pickly” as she put it.\n\nThe power bowl looked like a hot mess including some spotty looking avocado, but was tasty.\n\nThey do serve a fun looking espresso Martini flight that I spied on somebody else's table with three different versions of it."
+        },
+        {
+            "date": "3달 전",
+            "language": "fr",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGdUxVZFZTMHQxVEd4RFNIY3RlR0pYTURKdVNsRRAB",
+            "text": "Pour un brunch : grosse déception sur toute la ligne! Premièrement, très peu de choix (4 ou 5) qui ne permette pas d’adressser les goûts de tous.\n\nNous avons pris 2 plats à partager. Le premier, un plat avec des champignons sautés : je n’ai vraiment pas aimé. Les champignons étaient vinaigrés, et sans sel, le plat était débalancé avec un minuscule œuf au milieu. Puis, à ce prix on s’attend à des champignons sauvages ou autres, mais ce n’étais que des champignons blancs. Déception!\n\nPour le plat de gaufre: contrairement à ce que la serveuse nous a dit il s’agissait de deux minuscules gaufres. Elles ne sont pas faites maison, donc il s’agit des gaufres hyper sucré qu’on achète au supermarché qu’il ne font que réchauffer!!! Même le café était imbuvable…je ne comprend pas la note de 4.8….je n’ai vraiment pas aimé mon expérience!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OaFZIRm9lSE5oTW5WdE5YTllkemMwTkhKVGQyYxAB",
+            "text": "Great place for a business meeting breakfast. I got the avocado toast and we were surprised that the toast was more like untoasted bread and that the avocado really needed salt and pepper. Other than that, it was a gorgeous and cozy environment."
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5eU1HUlhSblYwUmxWWllXVlJhbFF5ZEMxU2RuYxAB",
+            "text": "The service was cheerful. We were seated quickly without reservation. We liked the food. I ate kangaroo for the first time here :) It’s like chewy beef. I mean, I checked it off the list. The salad that comes with it is divine. They serve matcha latte which was a pleasant surprise!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oaGVrNVBaRFpMV1RGNU5UbE9jM2hTVlVoalRrRRAB",
+            "text": "I celebrated my birthday at Isla & Co (Midtown) a couple weeks ago and could not have asked for a better birthday dinner! Our servers, Toby and Penny, were so welcoming, friendly, fun, attentive, and accommodating throughout the entire night. Thanks to them, the night went incredibly smoothly. The ambience in the garden room is so charming and really added to the experience. Thank you to Isla & Co for hosting and making my 26th birthday so special, and a big thank you again to our incredible servers Toby and Penny for such good cheer and 5-star service. One last shoutout to my wonderful friend, Jesna (who also works at Isla & Co) for organizing and setting this up behind the scenes!"
+        },
+        {
+            "date": "2달 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WVVVYVmFNMlpYVUV0U2VVMUtUVTlTVlZadlpHYxAB",
+            "text": "餐廳的服務人員很溫暖，盡量符合我們的要求。餐點很美味。"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKdk50YzJmbnRyWnlnRRAB",
+            "text": "The food and service were excellent. I highly recommend this place if you're in the area. The staff is very friendly, and Jess, in particular, was sweet and attentive while waiting on me. I will definitely be coming back the next time I'm in the area."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxaFYwRlhibTFJWjFaeVdVdG9UVlEyTTBwWE1sRRAB",
+            "text": "i went here after attending rooftop cinema, and it was really close and i saw this place marketed on ig as a bougie looking place but more affordable, and that is exactly what we got. i got the spicy vodka pasta with shrimp and it was extremely good with the sauce that i asked to box it up and the server was rlly nice and said he can bring more sauce for me which i declined. the vibes inside are really nice and i would definitely come here again"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3MG9yZmdnRRAB",
+            "text": "this restaurant is incredibly good, it’s food is delicious, it’s atmosphere is decorated with plants, and the service is pretty good, my son is curious and asked a lot of questions, and the waitress waited pretty patiently and answered them. The best restaurant ever been to."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBa2MzdUZnEAE",
+            "text": "When I walked into this restaurant the vibes were great! I loved atmosphere and design of the place! The food was spectacular as I ordered from the brunch menu! Loved my server Juan as he delivered his part on insuring the best experience! Absolutely will come back!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CS1VYaDBNMnBsVldkQ0xYVlJOVk5FVjNwM1gxRRAB",
+            "text": "Food and drinks were delicious! And Jay was absolutely amazing! He had great energy and all the servers are so nice and attentive. It is so worth it!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toR2NHMHlOSFppWmpsclVYTmZUV2xQVUhOTU5uYxAB",
+            "text": "Everything about this place is amazing: the interior, the service, and the food.\n\nEvery dish we ordered tasted great. Will definitely come back here again ✨"
+        },
+        {
+            "date": "2달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pjdFoyNW5TVFl3UVhSSE1sRm5SbWRYWlROd1pHYxAB",
+            "text": "On est tombé par hasard dessus et c'est une superbe découverte !\nLe personnel est très amical, le choix est divers et tout le monde peut trouver de quoi manger. Les plats sont aussi très bons (même si le prix est nettement supérieur à celui en France).\nÀ découvrir :)"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzOEptRU93EAE",
+            "text": "Isla & Co. is almost the same as its sister restaurant, Hole in The Wall. The ambiance is relaxed yet stylish, making it an inviting place to enjoy a meal with friends or family. The menu is small, but with many drink options and includes some of the same items like the mushroom toast and breakfast burrito.\nWe had the pulled pork Benedict which had nicely poached eggs. It would be great if they included a side salad or some fruit as you only get one piece of toast for the $20. plate. The tea was served piping hot which is always a good thing.\nService is attentive and friendly. The menu is hilarious. For fans of Hole in The Wall, Isla & Co. feels both familiar and new."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taVVIwTmhPSEp6T0dSa1oxSnFOWEpTV0hkUlRuYxAB",
+            "text": "Service is a little slow but the brunch menu is phenomenal. We enjoyed kimchi sambal scramble and the banana bread"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kTldtNU1iM055WmtGQmNITXRjV0l6U2poUU5sRRAB",
+            "text": "I went there with my wife to celebrate her birthday. We had an absolutely perfect evening! The fries were simply the best we’ve ever had. The staff was extremely friendly, attentive, and always on the ball, which made us feel completely comfortable. Overall, it was a fantastic experience that I can highly recommend to anyone. We’ll definitely be back!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WRFpIZDJWa0pRVlVRMVFUQnJYemx2WTE5b05WRRAB",
+            "text": "Loved the burger . Very good and reasonable prices . Service was fast and my waiter was very attentive . Enjoyed sitting on the patio too ."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paRlFXVnFOM05pYWxKc2MyRnVTRmhhWDJWTmMyYxAB",
+            "text": "Incredible food. This is my go to spot for brunch. Only minor complaint is it takes a little bit for the food to come out, but it's definitely worth it."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvdmVTRm1nRRAB",
+            "text": "the place itself is very aesthetic. we came for brunch and were starving but it felt like forever waiting for our food to come out. the food overall is decent but the kangaroo skewers we got felt overcooked, it was so dry and chewy. however, i really did enjoy their aussie iced coffee, it really reminded me of the coffee in australia and i was super excited to drink it because everything taste better with ice cream. the other menu highlight for me were the sausage rolls."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2OTlXU1lREAE",
+            "text": "Super cute spot for brunch with friends. The ambience is lively without it being over crowded. I also appreciated that we were not rushed to get in and out. We were able to have a longer fun time on a Sunday brunch. The martini flight that was super tasty. The mushroom toast was particularly tasty, it goes really well with avocado."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ocmEyaEJiV0o2VlVSbFdERk1UakpGZFdkaE5GRRAB",
+            "text": "Isla & Co is an australian resturaunt in midtown. It's a hidden gem located inside of The Hendricks Hotel. Love the aussie pride, they have lots of fun facts and cute reading material within their menus and Traditional australian offerings like Kangaroo and Vegimite... lmao Ive eaten here twice and its always good food, good drinks and reliable service. They have an indoor garden area towards the back of the resturaunt and a full coffee bar as well. I had the hicken parm it was HUGE lol, I left with a box that I ate for lunch the next day haha. I'll always recommend this spot to people visiting nyc and I would come back :)\n\nThis is a good spot to bring coworkers, business friends and family visiting from out of town, maybe not a romantic date night.... unless ofcourse you plan on staying in The Hendricks upstairs ;)"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KWlgxOUdiRmh0ZEdob09WcGpVVUpDV1RJMk0zYxAB",
+            "text": "Our favourite brunch place in NYC! The food is always perfect, the service is fantastic, and the atmosphere is lovely. I come here every time I visit the city."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvMGNDUGxnRRAB",
+            "text": "It was my first time visiting Isla & Co. in Midtown, and to be totally honest, the sandwich didn’t look that appealing when it first came out. But wow, looks were definitely deceiving. It was so good. I added cheese just because, but honestly, after the first bite, I realized it didn’t even need it. I’d definitely order it again. I also grabbed a Sprite for some bubbles and enjoyed a quiet, peaceful"
+        }
+    ],
+    "reviews_count": 77
+}

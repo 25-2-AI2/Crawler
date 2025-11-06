@@ -1,0 +1,593 @@
+{
+    "name": "Au Cheval",
+    "place_id": "ChIJt_HATrRbwokREfGhs1PnzwQ",
+    "grid": "MN2",
+    "address": "33 Cortlandt Alley, New York, NY 10013, USA",
+    "rating": 4.7,
+    "user_ratings_total": 5019,
+    "phone_number": "(646) 350-2429",
+    "reviews": [
+        {
+            "date": "19시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pRMFUyUXlTemRpZUZwVmFuUmlSVXRFWXpWV2IyYxAB",
+            "text": "The food here is NOT disappointing!\n\nMy buddy made a last minute reservation on the night of our arrival into NYC. After taking some time to decide what to order (it’s a vast menu), we decided to split the burger and the rib sandwich as an appetizer followed by steak frites and some greenery; it was a guys trip after all…\n\nService staff was on point and friendly and the ambiance is loud, but cozy. I’d highly recommend this spot!"
+        },
+        {
+            "date": "22시간 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoVVlrMTNZV0Y1VDFGcWVETXhWbTFmVVY5a2NtYxAB",
+            "text": "Con i miei genitori in visita decidiamo di trascorrere una serata da Au Cheval per provare alcune delle specialità del locale. Immancabile il double cheeseburger e il panino con carne di costata di manzo servito. Come antipasto un altro piatto forte della casa: midollo arrosto con cipolle rosse caramellate. Immancabile patatine con maionese all’aglio. A terminare il lauto pasto una fetta di torta alla crema di cioccolato e biscotti oreo. Piatti molto sostanziosi, anche per via delle salse di accompagnamento. Servizio ottimo e molto attento (al termine della cena mi ero dimenticato la sciarpa sul divanetto su cui sedevo e nemmeno 2 minuti dopo mi era già arrivato un SMS con cui si premuravano di avvisarvi della dimenticanza). Ambiente rilassato con luci soffuse e livello di rumore molto basso."
+        },
+        {
+            "date": "23시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OUloxUkhhVlZHV21weGVVcEJUV2RWV1Vwa2RYYxAB",
+            "text": "The iced tea was refreshing."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Kc1dFNTBlalYxWkUxdGMzbE9kbmhqYkd4QmIxRRAB",
+            "text": "Everything is awesome thanks"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4cFVrSnFOMjVzVjNOeWVUbFVXVWRWTlhKaWFuYxAB",
+            "text": "Great burgers!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tneFJqWTJNR2xtTjFoR2JtdzRVRFJ2ZDNWVlRGRRAB",
+            "text": "Fantastic burger, would go back"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KUVpYQmFSM2R1TkhoclNuaFRXakZhYmxCeExWRRAB",
+            "text": "Best burger ever!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KTlRFNHRjWEpVWmxOWWIyMW9iazlTVTFaQ1UxRRAB",
+            "text": "The best burger ever 🍔"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NMFZYTmpOa1Z4Y1U5SVZYRklNVmxQT1VFeGFsRRAB",
+            "text": "Awesome spot!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvemMwSnVTSFJMZGpWb2NuUnZlbkp1YUhNMFFXYxAB",
+            "text": "Sienna was incredible!"
+        },
+        {
+            "date": "4일 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FeVNYZGFha3RFTVROU1YwRnVOVEpJUWtKUldtYxAB",
+            "text": "Les meilleurs burger que j’ai eu la chance de manger."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pJMmFVMDNNbXR4TFVoaVgzSlhWbFJ3Tm5KakxVRRAB",
+            "text": "I have travelled twice to New York and so far Au Cheval is my favorite restaurant. Amazing burger, amazing steak, amazing mac and cheese."
+        },
+        {
+            "date": "4일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFNFowVktUMU42WWpoeVJHcGhZVU5vYVZOMGQzYxAB",
+            "text": "Hamburguesa que está bastante buena, pero donde sin duda alguna, la estrella es el bacon, súper top la textura y sabor que tiene.\n\nPedí de acompañante el MacAndCheese y la verdad que cumple bastante bien también.\n\nA tener en cuenta si te te gustan las hamburguesas."
+        },
+        {
+            "date": "5일 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNek5URnhNREZoWjB4RVRFbFFMWE0xWWkxSWRHYxAB",
+            "text": "Très bel endroit"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKWVdFSlNSVEF6V0d0bmNsTlRiVkpYWTJwUk9WRRAB",
+            "text": "The Mac & Cheese here will change your life."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xORlVXVlBOM1Z3VnpaM04wbEpaMDVGVUd4RExXYxAB",
+            "text": "The service was outstanding and the food was incredible! Everyone treated us like royalty — the staff was friendly, the atmosphere was perfect, and everything lived up to the hype. I highly recommend this place — absolutely worth it!"
+        },
+        {
+            "date": "수정일: 5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQOHNpMmhRRRAB",
+            "text": "Amazing. Everything was perfect."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kRU5WazVUbE5NTlVSWVRWQTNWMU4yV21ObmVXYxAB",
+            "text": "Mikey was amazing he really took\nCare of us and literally gave great suggestions. Definitely coming back"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210eFJ6TlhaRWRTZG0xSFdHTkllVk5HVjI1MVYxRRAB",
+            "text": "Amazing cheeseburger! Very tasty and juicy, and even better when combined with the egg. It was my first time at Au Cheval and I'll definitely go back. Definitely worth booking in advance as we went on a Monday at 5.15pm (they opened at 5pm) and it was already busy"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214VmEwbGlOSFJKVkhsS2RXYzFZVkZXY25kNlduYxAB",
+            "text": "Great service, food is good and good atmosphere."
+        },
+        {
+            "date": "6일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkNlNWTnhhalJNVUdwUlRVWnhRMUZMYUZwc1YwRRAB",
+            "text": "De las mejores hamburguesas de Nueva York! Totalmente recomendable!"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aTmRsTTNhekpSVms1WmJFZHpkMnBmVlRKR1RuYxAB",
+            "text": "Best burgers in the world!"
+        },
+        {
+            "date": "6일 전",
+            "language": "pt",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1eU5tZHlkME0wVjFCcmVWSmlkbHB5V0ZZM2JYYxAB",
+            "text": "Lugar perfeito"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poVE5ETkJUa2hNYVhGTlMzbGlSMWs1UnpVNFdVRRAB",
+            "text": "If u are looking for a burger that actually lives up to the hype, Au Cheval is it. The burger with the egg is honestly a must-order — the yolk ties everything together and makes every bite melt-in-your-mouth good.\n\nSurprisingly, the chicken wings were one of my favorite parts of the meal — they have a really unique flavor profile that isn’t like your usual buffalo or BBQ situation. And the mac & cheese? Absolutely worth it\n\nBeyond the food, the staff was genuinely warm and attentive. I sat in the downstairs area and the vibe is low-key and very cozy without being cramped. Perfect for a casual but elevated night out.\n\nHighly recommend."
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoeFlURkNhVWRNUkRreVpuUXpVelIzT0Roa1IxRRAB",
+            "text": "Food was amazing. Really the best hamburger in NYC. Our favorite drink was the mezcal penicillin. My recommendation …make a reservation,"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKRVlrOXlPRkU0U1ZkSFUzQkNZVjloZGxwWmFWRRAB",
+            "text": "The best"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poU1VFTjBUR1Y2WDBwRk5FcDZYM2RIWVhGV1ZFRRAB",
+            "text": "I went here for my birthday and it was an amazing experience. Just wanted to give special shoutout to Lucus the server. A true gem."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkMFEyUnRjSFJtYVUxTWNEUXpaSE55ZEc1SVRGRRAB",
+            "text": "We really enjoyed the food — the Caesar salad, cheeseburger, and General Jane's chicken were delicious. The service was outstanding; thank you!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GTlYwdGFlbTl4V2pScFltZGtjbHBDWjFsMlJsRRAB",
+            "text": "Exemplary Hospitality\nMy 5:00 PM reservation for seven hit a major snag when my family didn't arrive until 5:50 PM. Despite this significant delay and what was clearly a busy night, the staff demonstrated exemplary hospitality by working their magic to still accommodate us.\nTo every single team member who worked on 10/25/25: Thank you. Your effort is the true definition of service excellence and is deeply appreciated by this fellow hospitality professional. You saved our evening!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOQ1FVOUxRbEIyTW1ZeU5VZFlUWGRpVTFCSlRGRRAB",
+            "text": "Outstanding food & service , the burger was one of the best Iv ever had. And the staff went above and beyond to make sure you have a good experience"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKVFRGTlFiM053VTNRdFpYTmhVR3BqYmxkV2JuYxAB",
+            "text": "Amazing food and burgers. Do not sleep on their root beer either."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WSWFsRlhWWEpHVERSdVdIRlVhRGx3U0hkYVRtYxAB",
+            "text": "We tried our luck with a last minute walk in and got a fantastic corner counter spot able to watch the team in action. The food was fantastic, and our server Christine was THE best. We’ll be back for more Mac and cheese and we need to try the wings…they looked incredible"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0RWFHSmpkbWhsUzNGRVVYRkpNR3RmTkZwTU9GRRAB",
+            "text": "Came here not being hungry and had sides like fries and some drinks but was cautious about ordering anything else.  Did notice the prices of the steaks and even the burger.  Just not evident where this meat is sourced.  If its from a reputable farm providing the highest quality meats then why not say so?   Could this be sourced from the same Sysco meat provider that stocks TGI Fridays and Outback kitchens?   If so I believe the price should be more like $30 for a steak not $85.  Not sure I'd eat here again."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wamVVNU5iMGRoTWpaS2IxTkRNV0l4Ums5S04zYxAB",
+            "text": "Top level in NY!"
+        },
+        {
+            "date": "9달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfb1lqbGZ3EAE",
+            "text": "친구의 추천으로 오게된 식당인데, 사실 음식이 엄청난 감동이 있다는 느낌은 못받았다. 더블치즈버거를시카고에 가봐야 비교가 되겠지만, 오히려 질과 맛대비 비싸다는 느낌이었음. 그런데 서버들이 친절하고 정성을 다하고 생일을 축하해주어서 감사했다."
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1bjdyRUZBEAE",
+            "text": "그냥 여기서 먹은 음식은 햄버거를 먹기전인지 후인지로 나뉘는거 같아요.\n햄버거는 진!짜! 햄버거 안좋아하는데도 너무 맛있음\n입에 넣자마자 그냥 모든 재료들이 완벽하다는걸 느낄수가 있어요.\n타르트는 먼저 나왔기에 너무 맛있게 잘먹음\n하지만 나머지 음식은 다 괜찮지만 (평타침)\n햄버거가 너무 맛있기 때문에 이글을 본다면 꼭 햄버거만 시켜서 1인1 햄버거 하세요. 태어나서 먹은 햄버거 중에 제일 맛있음. 이거 먹으러 차이나 타운에 우버타고 왔다가 이것만 먹고 집에 갔어요(교통비만 $50)"
+        },
+        {
+            "date": "10달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2MkpXYUtBEAE",
+            "text": "웨이팅이 길어서 1시간 정도 기다렸는데 그만한 가치가 있었습니다!! 버거 정말 맛있고, 친절하네요 젤라토도 맛있었어요!!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUbEpMUFZnEAE",
+            "text": "한번쯤 먹어볼만 합니다. 개인적으로 음식이 좀 짜게 느껴집니다 .\n짠맛이 덜하면 별점 5점 입니다.\n분위기 좋아요"
+        },
+        {
+            "date": "6달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvMDRXQnZBRRAB",
+            "text": "베스트 버거와 치킨을 맛봤습니다.... 꼭 두개 드세요"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCOEx2MHFnRRAB",
+            "text": "여긴 언제나 와도 역시 맛있다!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNM1kzZHBibWsyVWpKQ1RrSkNNRk5RTVUxdlpuYxAB",
+            "text": "We visit au cheval looking to try the \"best burger of ny\" we did a walking had some coffee since we needed to wait and got super lucky to get a table on this busy Sunday. The host was wonderful she accommodated us we love her. We got at Sunday brunch menu, regular menue wasn't available at that time but it was fine since the main thing we came do was on that menue as well. Every came super quick no complaints on the service at all. Is the Burger the best we had in ny Sadly No. is was delicious but no the best we had we also try the  bologna sandwich in my opinion to salty no the best fries where pretty average. Drinks were delicious and the coffee was super good we ended up spending about $150 with tip so worth trying. Not the best burger I will had to said"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xad1EwMUpObEZtUkhkclUxbENaV2hETmxWamRHYxAB",
+            "text": "Every time I go to NYC I try to eat here. The chicken wings are my absolute favorite thing on the menu, and I always come back for more. I’ve also had the burger and it is so delicious it just melts in your mouth. The kale caesar salad is one of the best salads I’ve ever had and I was nervous because sometimes kale can taste bitter but this had no hint.\n\nI love the casual but elegant atmosphere. It’s a very intimate setting that feels alive when you’re there. i’ve always had a wonderful service experience  and other support staff have always been so helpful and kind! Highly recommend!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GM05TMVZVR056VEVVeVIzVTJjRmhQU1ZkWlNYYxAB",
+            "text": "It had been many years since I checked out this NYC staple but as soon as I went back, I automatically remembered what makes it so special.\n\nThe warm, homey space, the kind and attentive service along with the unforgettable food is no wonder why it’s still somewhat difficult to get a reservation. Came for my best friend’s birthday brunch and we were right at that awkward time before the dinner menu opened up. Still we’re able to enjoy so many delicious bites including the salad, fries, mac and cheese and their world famous burger. All great and reminded me why I need to come back again."
+        },
+        {
+            "date": "2달 전",
+            "language": "ja",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5b01uSXhZMDUwZFdsT05FMXFNVEV3UkZGcFJYYxAB",
+            "text": "ニューヨークに来たら、ここのハンバーガーを食べないと損です！NYで食べたどのハンバーガーよりも美味しいかった！！\nここは有名ステーキ店「4 Charles Prime Rib」の系列カフェです。ダブルチーズバーガーにベーコンとエッグを追加（$36）と、Shaved Prime Rib Sandwich（$37）を注文。\nハンバーガーは素晴らしく、特に追加したベーコンは肉厚でジューシーさ倍増！追加して本当に良かったです。\nもうひとつのサンドイッチは見た目がチーズステーキサンドに似ており、付属のビーフスープにディップして食べるスタイル。こちらもとても美味しく、大満足でした。\n0歳児を連れて行きましたが、予約時にハイチェアの有無など細かく配慮してくれ、とてもフレンドリーな対応でした。とにかく満足度の高い滞在で、おすすめです。\n\nIf you come to New York, you’re missing out if you don’t try this burger! It’s the best burger I’ve had in NYC—better than any other I’ve tried. This café is part of the famous steakhouse “4 Charles Prime Rib.”\nI ordered the Double Cheeseburger with added bacon and egg ($36) and the Shaved Prime Rib Sandwich ($37). The burger was outstanding, and the extra bacon was thick, juicy, and absolutely worth it!\nThe prime rib sandwich looked similar to a cheesesteak and came with a side of beef broth for dipping—also incredibly delicious and satisfying.\nI visited with my 0-year-old baby, and the staff were thoughtful even during the reservation process, asking if we needed a high chair. They were extremely friendly, and the entire experience was fantastic. Highly recommended!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21vM1ZFSk9hbTVJYTJjNU1tSmlOakZuV1V0aGRWRRAB",
+            "text": "I had a great experience at Au Cheval and the burger really lives up to all the hype. I went on a Saturday night without a reservation and got lucky with a seat at the bar after just a few minutes. The burger was absolutely perfect — the thick cut bacon, egg, and cheese blend together beautifully.\n\nIf I’m honest, the wait for the food was a bit long, around half an hour, but sitting at the bar made it worth it. Watching the kitchen in action was part of the fun. You can see they’re grilling nonstop and making the burgers in big batches because that’s what everyone is ordering. Overall, totally worth it for one of the best burgers in the city."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25STU5GZ3llRFJLZGprek0xTkJRMUV5WDFSdmRIYxAB",
+            "text": "Finally made it to Au Cheval, and the burger was as great as I expected.\n\nWe sat in the lower level bar area, which was actually very nice, the space had a speakeasy vibe. The main dining room upstairs is brighter and a lot busier.\n\nThe cocktail menu has several nice options, the vesper martini was and vodka lemonade were excellent.\n\nThe fried chicken sliders were phenomenal, reminded me of fast food chicken sandwich (in the best way possible, not meant as a dig).\n\nAnd of course, the burger with the bacon and egg and a side of fries was excellent, the NY strip was also great.\n\nReservations are highly recommended, early walk-ins may have a chance at the bar.\n\nHope to visit again soon."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21neE0wUkNNbkJKYkRSNU1VTmZibWhsTUhaVk5GRRAB",
+            "text": "Wow! I still remember that day I was just walking around when I suddenly felt hungry and saw this place. I decided to give it a try, and I’m so glad I did! The food was absolutely delicious the steak was perfectly seasoned, juicy, and cooked just right. Every bite made me want more! The atmosphere was cozy and relaxing, even though there were many people around. It didn’t bother me at all because it showed how popular the place is. The staff were very polite and attentive, making the whole experience even better. I’ll definitely come back again! Highly recommend this spot to anyone who loves good food, great service, and a warm dining vibe."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Oc2EyTkJhazFQWDJ3MVdpMWZValZaWkhoWU4yYxAB",
+            "text": "The experience at Au Cheval is incredible. The atmosphere is incredible. The food was delicious. Top 3 best burger I've ever had. But the service was some of the best I've ever had. Our server Mikey, was incredible kind and personable. AWESOME! If you ever find yourself near Au Cheval do it! Also ask for Mikey to be you're server"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsTlV6UlJiMmRPYjBGcU5EUkxNamd6Tm01R1VXYxAB",
+            "text": "Coming from Chicago, where Au Cheval has earned a legendary reputation for its burgers, I had high expectations walking into the NYC location. I have to say, the experience was definitely solid and lived up to much of the hype. The restaurant itself has a sleek, stylish atmosphere—dim lighting, comfortable seating, and a layout that makes the space feel modern without being pretentious. It’s clear that a lot of attention went into making the place feel both upscale and approachable.\n\nOne of the first things I noticed was how clean and well-kept the restaurant is. From the dining area to the bar, everything looked organized and polished. What impressed me even more was the bathroom—usually something overlooked at busy restaurants, but here it was spotless. The floors, sinks, and stalls were all maintained, which really makes a difference when you’re dining out in New York City. Clean bathrooms aren’t always a guarantee here, so it stood out in a good way.\n\nAs for the food, the burger was excellent—juicy, perfectly cooked, and balanced with toppings that complemented without overpowering. It reminded me of the Chicago version, though I’d say the vibe in NYC felt a little less casual and more “New York chic.” Service was attentive without being overbearing, and even though the restaurant was busy, the staff kept things moving smoothly.\n\nOverall, Au Cheval NYC does a great job of carrying the Chicago brand into a new market. If you’re from Chicago like me, you’ll feel at home here while also appreciating the slightly different energy that comes with being in Manhattan. Between the quality of the food, the cleanliness of the space, and the rare find of a spotless bathroom in NYC, I’d definitely recommend this spot."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWYU5tOXlPRVV0VTFBelMxSllZbnB6U1V4WlQxRRAB",
+            "text": "We made a reservation at Au Cheval a couple of weeks in advance, which was definitely necessary since the place was completely full. We tried the burger with added bacon and eggs, as well as the Steak Frites. The restaurant is very fancy, and we really enjoyed the atmosphere. Service was very attentive, which made the experience even better. The food was good, though not unforgettable considering the price you pay for it, so I’m not sure I’d come back, but overall it was a very enjoyable experience and worth trying at least once."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkcVpWVjFlbXBQV0UxQ1UwMUhRMUJWWkV3eWJFRRAB",
+            "text": "Made a reservation at Au Cheval in the mid afternoon around 3 PM. Just as an FYI, 3 PM is not considered either Lunch nor Dinner, I presume brunch as the prime rip hero sandwich is not available during this time, didn't impact us as we were there mainly for the viral burgers.\nThe place is definitely hype up to the core, viral with the young and in crowd, as the place was jammed packed even with ppl waiting up to an hour to get seated as walk ins.\n\nThe Order:\n- Chopped Liver Appetizer\n- Both ordered Burgers with Egg\n- Mac and Cheese and Thick cut bacon as the shared sides\n\nIn summary, the hype was bigger than the taste.\n- it wasn't bad by any means, but nothing was knock your socks off.\n- Its solid food at top steak house prices.\n- all in all, a 1 and done experience, just to tick it off your try list."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOeVFuVkdjbG90VDFRNGFuRllVa1IwVEdGWE1WRRAB",
+            "text": "We thoroughly enjoyed our experience. We showed up early and despite the busy crowds, they did their best to sit us early. We were lucky to land a seat at the bar and decided to stay. The bartender was super friendly and attentive. We shared the famous burger, Mac n cheese, and salad. The bacon was a star in the dishes, with a yummy maple crust. We really enjoyed the corkscrew noodles and creamy white cheddar sauce to the Mac. We enjoyed the bar vibe downstairs a little more. Quieter and calmer. Upstairs is more lovely, bright, cute half booth seating. Would recommend!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVemIwbFlVMGR3VjBwV1IwUkhUR1ZDUTFKbmEwRRAB",
+            "text": "Just an amazing place for a special occasion, date night or hanging with friends. The ambiance is welcoming and comfortable yet the service is highly valued. Our waitstaff was Maurice…he made such a difference in our experience, you would be remiss not being in his section! The bone marrow was delish, the steak cooked to perfection! Oh…cocktails? Yes please! You will love Au Cheval-"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poVGRFcHVPRll0UWpGdlYzQmpOVU15TnpSWFNtYxAB",
+            "text": "Just like its location in Chicago, NYC Au Cheval makes great burgers and fries. From the beef patties to the sauce and bun, it’s full of flavor in every bite. I added an egg to my burger which added another layer of creamy and rich oomph to the burger. The fries are delicious too; crispy and seasoned well. We finished our meal with the chocolate cream pie. A super dense and chocolaty dessert, the pie is not overly sweet. The chocolate lovers will leave satisfied with its deep coco flavor."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZeFRHVlljMjQxWXpGNVdqRXpZMGN3VkdKTVQwRRAB",
+            "text": "I walked in during lunchtime and a Sunday at 1300 with no reservations and was able to be seated at the bar with zero wait. The server and bartender were so amazing. They are very fast, and extremely attentive. The service overall was amazing!\n\nFor my main meal, I got the double cheeseburger and paid extra for the egg and the bacon. This burger does not come with fries, but you really don’t need it because it’s very filling. Then for dessert, I ordered the raspberry sorbet, strawberry ice cream, and salted caramel ice cream.\n\nIf you are able to get a seat at the bar, you can watch the bartender make drinks and the cooks make the food as well. The restaurant is dark and moody and buzzing with life. The bathrooms are downstairs and are very clean."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jMmJEbHdYME5RY1VkaExYRnVRMUZMTmtOWk5tYxAB",
+            "text": "We ordered the famous burger and fries and liked them… was it the best burger we’ve ever had?? No… but it is very good! It is a double patty so keep this in mind if you wish to order any entree or sides.\n\nThe service is amazing… we walked in around 5:30 pm and got sited immediately- if you’re a bigger party I would definitely recommend to make a reservation.\n\nThe chocolate martini is very good!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201bE1saE1WMk01U1RkR2JGTklNVzkzTjBaTVRuYxAB",
+            "text": "I came here excited to try Au Cheval, but the service completely ruined the experience. The front host staff were extremely rude from the start. There was no transparency at all about the wait time. The answers were vague and the staff looked annoyed when I checked in. After waiting an hour in the dark, I finally got a text that my table was ready, only to be sent away again without explanation. When I followed up, they acted irritated that I even asked.\n\nOnce we were finally seated, the service continued to be dismissive and unprofessional. The burger itself was very good, probably a 4/5, but everything surrounding it was so bad that I would not recommend this place to anyone. Food this good cannot save a business if the service is this consistently terrible. I will not be posting pictures on socials or recommending Au Cheval to friends because of how unwelcoming and discourteous the staff were.\n\nThe service is working against how good the food and ambiance are. I’m sad to even write a review like this. Spend your time and money elsewhere."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKVGVGaHVOV3RUTjNsTVpHRlFUbVZ0VkdoT01XYxAB",
+            "text": "During our honeymoon, I and my wife decided to have dinner in a nice place in new york city so we chose Au Cheval.\n\nThe restaurant is warm and well designed, perfect for anniversaries or special occasions.\n\nThe menu offers many dishes that mostly belongs to the american/new york tradition.\n\nWaiters and waitress are welcoming and they are able to support and guide you through the menu of the restaurant."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aUFVFTXpkVzkxY1ZWRlptMXRPVzV6TWtNd00xRRAB",
+            "text": "This place is as good as its reputation. I did not have the burger. Not really a burger guy\nMy friends had it and liked it. But to me a burger isn't that exciting. Had the French dip which was very good. The stars of the show were the salad and sides. The chopped wedge was amazing. One of the truly great salads in nyc. The Mac and cheese and broccoli sides were top notch. The chocolate pie was delicious as was an off menu raspberry sorbet. Our server was as good as you can expect. Truly lovely and helpful. I will definitely return here."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkYVVYUk5XRTlLYW5WNGJsSk1NamRaUzB4a1lsRRAB",
+            "text": "Food was delicious. The fried chicken sliders were perfectly tender and juicy on the inside and crispy on the outside. Sauce was on the side so could use as much or little as you wanted. Salad vegetables were very fresh. Wait staff were very friendly and food came out within ten minutes of ordering, which was super helpful because we only had an hour for lunch. A bit on the pricier side."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KRVNITjRkVEJZY0dkWVZta3dWMkZYTVhObFoxRRAB",
+            "text": "Food was amazing! Well paced out and our waitor was great. Food tasted delicious. Firstly, the root beer. Secondly, that cobb salad! The steak, bronzini, fries and broccoli. A little tight on seating because of how packed it was, but Speaks for the place being quality."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkR1YwdHhUMGRRTjJObVFXODBjbkJCTkhKS2FVRRAB",
+            "text": "I went to Au Cheval in New York and it was amazing! The wait was only about 15 minutes, and it was definitely worth it. I had the double cheeseburger and fries — the burger was perfectly juicy and flavorful, and the fries were crispy and delicious.\n\nDefinitely one of my favorite burgers in town — highly recommend! 🍔🍟"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paRVpTMW5SMkZZV1hCbU0ybDBTVEoxTlcxU2NtYxAB",
+            "text": "Their steak & frites is really good. I am not a fan of mac&cheese, but theirs is exceptionally good. Ask for some extra crispy bacon in it to make it extra good. They have a nice selection of drinks too. Staff is super friendly and fast. Once we did not like something we ordered and they kindly took it off the check (we definitely did not ask for it nor expect it). Might be a bit hard to get a table without a reservation, but they usually have some spots by the bar that are available for the walk-ins."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xabVJUZEhja2huUXpSVFRuWjVaR3BwT0ROa2NuYxAB",
+            "text": "I was really craving a burger, and dining at Au Cheval was exactly what I needed. We ordered two double cheeseburgers (one with an egg on top), fries, and asparagus. Everything was absolutely delicious.\n\nThe only downside was the bun—it was a bit dry, and we noticed other guests left part of theirs too. A better bun would’ve made the experience perfect."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLbjhvZm01bjdYYWR3EAE",
+            "text": "I was so excited to celebrate my birthday, after waiting for this reservation for about two weeks I finally got in! I grabbed my friends and we had some amazing cocktails and appetizers!\n\nThe general chicken was the best I’ve ever had! And we got two wedge salads that we shared between the three of us, one with chicken wow absolutely incredible! I had to try the $40 old-fashioned called the old Tokyo it was rather sweet… I preferred the dirty martini but overall an amazing birthday dinner! They even brought me out a Sundae"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWVVMwSjJWbmxaVGxocFQyNWhMVTVrTlhkUWNIYxAB",
+            "text": "We didn’t have a reservation but were easily able to sit at the bar. Had a great a double cheeseburger here. It’s well made. This was one of those times where the toppings in the burger (the sauce, the diced veggies) elevated it further, and the bun was fantastic. The burger doesn’t come with fries so we ordered a side of fries (would’ve wanted these to be slightly more fried) which came with a nice garlic aioli. The cocktail menu is also great - all the drinks tasted fantastic."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKR01rRXlNSGhwUm5sU1dVNXZiVE15WkRoRFNHYxAB",
+            "text": "Heard the burger ranks the third nationwide. It is juicy. Justin puts bacon inside. I prefer to avoid bacon. Lots of fried food. Kale salad is nice"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4RlVpMDNaR05uWkdSUldGcFVObUZvWW5GUVptYxAB",
+            "text": "I thought the food and service were great at Au Cheval. The burger is good but not on par with One White Street or Red Hook Tavern. The price/portion ratio was lacking as you can easily accumulate a $175 bill and leave hungry."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJak1oZHYzZ05tc1p3EAE",
+            "text": "I rarely ever finish an entire burger on my own—but this was the first time I couldn’t stop eating. The burger at Au Cheval was absolutely incredible—juicy, flavorful, and perfectly cooked. Hands down, probably the best burger I’ve had in my life.\n\nThe vibe of the place was spot on: warm, lively, and inviting. I loved sitting at the counter, watching the chefs in action—there’s something so satisfying about seeing your food made right in front of you with care and precision.\n\nThe charred broccoli was a surprising standout—smoky, tender, and full of flavor. And the fries? Crispy and golden, clearly fried in fresh oil—no greasy aftertaste, just perfection.\n\nThis place truly exceeded my expectations. Every bite, every moment—it was just right. I’ll definitely be back."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0cU1GRkJjMmhsYW5wemVHNW9TV2xZU0RSd09YYxAB",
+            "text": "A very rare 5 star restaurant!\n\nWe came without a reservation and were seated within 30 minutes. Spent that time at the bar in the speakeasy downstairs, where I ordered an amaretto sour. Hands down, the BEST I’ve ever had (and it’s my go-to order everywhere I go). Very creamy, fragrant, complex.\n\nThen came appetizers. The beef tartare, we agreed, was the best part of our entire meal. Finely diced and beautifully spiced. It came with buttered toast and a mustard aioli and it all paired so exquisitely together. The minute we had the beef tartare after the amaretto sour, we knew we would be back.\n\nThe malted vanilla icecream in the root beer float was phenomenal. Another item we will be back for (and I don’t like repeating restaurants, since there are so many I want to try in the city).\n\nThe fries were hot and delicious and came with garlic aioli. I’m a ketchup girly when it comes to fries, but I forgot what ketchup was when I tasted the aioli.\n\nThe mac and cheese was the consistency of really good queso. The bacon was a little too fatty for my taste but the mac and cheese itself was INCREDIBLE. So perfect, no notes.\n\nNow… as for the double cheeseburger. Both of us got the plain option because we’re doing a burger tour and it’s not fair to compare the dressed up options. Unfortunately, the burger was the least impressive thing we had all night. It was just an okay / good burger, but definitely not reflective of the hype surrounding it. The Texas toast buns were also very thick (especially the top bun) and certain bites were more bun than burger.\n\nLastly, the vibes? Immaculate. The service? Wonderful. We also loved the scan-to-pay option at the table.\n\n5 stars for food because despite the burger, everything else was perfection, drinks included.\n\n5 stars for service because the bartender who made the amaretto sour was great and clearly mastered his craft. And the bartender / waitress was very attentive and super sweet despite working double duty.\n\n5 stars for atmosphere because everything was very clean, no visible dust on any part of the decor, and there was neon. We love neon.\n\nTLDR; don’t come for the burger. But do come for everything else."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLUzI2WWFKeU02a3R3RRAB",
+            "text": "We’ve been wanting to come to Au Cheval for a while and glad we finally made the trip. We got there a little early so we grabbed drinks at the bar downstairs which were great (quality is on point). Once back at the main restaurant, the fried chicken appetizer was the first thing we wanted to try. Absolutely delicious and I actually enjoyed it more than the burger. It’s also a very big portion size for an appetizer. We then split the burger and broccoli which were both good on its own. The burger is very filling so I’d definitely recommend sharing one. Finally we had the Mille-feuille which was the star of the show in my opinion. The dessert was huge and absolutely amazing in taste and texture. I’d come back just for that which I might do in the future. Make reservations beforehand because you need one, this place gets packed. Lastly the vibe inside is one thing that really stood out to me - low light and great house music. Au Cheval hit all the points I wanted to see and is worth the hype."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paUlNFSTJOVUYzY1VaTVZsODVWazVTTTI5aGVrRRAB",
+            "text": "Have you heard the rumors about their burgers? Well, they are all true. The burgers are amazing, and the food overall is great. It was a wonderful dinner."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xRNE16VmtWWGwzZGtaa2JUQkpUSGsyTlc5VVozYxAB",
+            "text": "Amazing bacon, cheese, and egg burger with top-notch quality. The ambiance is fantastic and welcoming. The only downside is that, as with many popular spots, the servers can be a bit pushy to turn tables quickly."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25nMkxXTnlUMnBhYjJnd1dGTXhlbTVqY1c1NFJHYxAB",
+            "text": "Au Cheval was hands down one of the best experiences my wife and I have ever had. Great atmosphere, great service, and awesome food! Do yourself a favor and order the burger and chocolate cake! You won’t regret!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tRMVpsUlVVbm81YTBKS2F6RkxkbUprVFdWRE5rRRAB",
+            "text": "The food at Au Cheval was absolutely amazing. Located in the Tribeca area you have so many great options but this was the only one that caught my eye.\n\nRight when I entered the staff was super friendly and greeted us. The time it took from us to order and get our food was not long at all. I was suprised how fast it was. I started off with the wedge salad with steak, it was filling, but I couldn’t pass up tasting the burger, so I had to make room!\n\nMany people were ordering the burger from what I saw that night and I just knew I had to try it. And, I am so glad I did! Ended up adding an egg to it. I did not have enough room for dessert but we sat at the bar area so we had the chance to see the kitchen righr in front of us.\n\nThe garlic aioli for the fries was incredible. The place is also known for its cocktails, but I chose to stick with my wine. The servers were super friendly and attentive, and the ambience was exquisite. Highly recommend! You will not be disappoited.\n\nI also want to add that when I was leaving there was a line and wait for those who wanted to sit at a table. This place is very popualr and recommend making a reservation if you can. Happy eating. Xx"
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsVlptWkJObUYzVFd4VVduWjJWMTlGZW1OVWJtYxAB",
+            "text": "Suggerito da un newyorkese, Au Cheval non mi ha deluso. Adatto per una cena casual, ha allo stesso tempo una vibe molto curata. Prima dell’hamburger ho scelto i broccoli alla griglia che erano una delizia. Porzioni tipiche americane, piuttosto abbondanti, ho fatto fatica a finire entrambi i piatti. Suggerisco di prenotare. Ricordo di aver dovuto controllare la disponibilità in più giornate. Tavoli liberi sul tardi; full nelle ore di punta. L’ho consigliato e ci ritornerei. I prezzi sono quelli di NYC!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWS1YwMTZhbkJuVm01R1VrWkJZbGxpVlV0ZmRXYxAB",
+            "text": "10/10 burger honestly. Dirty martini was also excellent. Wish they had matchbooks as I like to collect them from restaurants I go to. Additionally, we sat at the table right next to the kitchen area and food pick up spot and a lot of times there would be 5-6 waiters hovering and was kind of distracting."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VPbW9oLVBsNUl2M2ZREAE",
+            "text": "Grab a reservation or be prepared to wait a bit. Love that this place is tucked away on a quiet alleyway. Quickly seated with a reservation; service was friendly enough, attentive, and vibes were cool inside. Shared the fried bologna sandwich, which was delicious. Love the perfectly toasted brioche buns, and cheese. Now the burgers were delicious, again loved the perfectly toasted brioche buns, meat cooked perfectly, had to add the egg and bacon."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPdWd5cFhPMnVxTjhRRRAB",
+            "text": "Ive been to both the Chicago and NYC locations now. The burger is definitely comparable to the Chicago location with the exception of the bacon being a thicker cut at the NYC location and the inclusion of onions as opposed to the Chicago location. At the NYC Courtland st location Corey & Natalie were super attentive and checked on us roughly every 5-10 minutes. I'm not super picky about food but when I eat out I like to feel at home and the entire staff definitely made our party feel welcome. Kudos to the restaurant ownership group doing a great job of managing and quality control."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1MFRtZ3pXazlhVFRKTmJVbG1RM2g2V0hWb2NXYxAB",
+            "text": "Hi all - This place was such a good spot to eat & vibe . From Nia at the front door working to get us the best seats , to Luis as our server making sure we had everything we need , to Eric at the bar that served the amazing Blood Orange Bellini(s) (give it a try 😉). That kitchen made sure that my Grilled Blueberry Muffin (5/5), Mac & Cheese (5/5) and Double Cheese Burger (5/5) were excellently made. Overall, a great experience + when I get a chance to come back to NY, I will be back. Cheers!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210MWFTMUhZVTFmYVRGVk1sRnplR1JLT0hKclozYxAB",
+            "text": "Second time here, lucky got a reservation. We got half of a fried chicken, bone marrow with butter toast, so good. Ofc everyone comes for burger, steak frites medium rare, perfect!\nDessert : Mille feuille, if you have a stomach room after meal, go have it!!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aTmFVSm1kMnhwVm1jMlpXVnZYM0I1TVZsRGFrRRAB",
+            "text": "I've been waiting about 2 years to come here and try this burger! Finally took my girlfriend to NYC and we came in without a reservation.  I asked for a bar seat and was immediately seated.  Got lucky because there were only 4 seats left! We each ordered the double cheeseburger but I had the bacon and egg add one! This burger is rated one of the best in the country so when they opened a location in nyc (originally Chicago),I had to go! Let me tell you it did not disappoint! It was literally the best burger I've ever had! Thanks to Caesar, who cooked my burger for doing an incredible job and making the trip so worth every penny as it was the most expensive burger meal I've ever had! He is a master of his craft and his hospitality was second to none! I highly recommend this place and try this burger!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOMk1IRmZRVEI1ZVhZM1pWSnFTMDVJTXpCSmQxRRAB",
+            "text": "We finally made it to Au Cheval after hearing all the hype. The famed burger technically checks all the boxes but somehow leaves you wanting more! It’s not bad — it’s not great either. The thick-cut bacon was great as was the garlic aioli dip. The fries were average at best! We found the lower level a tad bit too dark – borderline dingy! The service was the best thing about this place – our server was welcoming and attentive. If you’re nearby and hungry, it’ll do. But if you’re chasing a good burger, keep looking. 6/10"
+        }
+    ],
+    "reviews_count": 83
+}

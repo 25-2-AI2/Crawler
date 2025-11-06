@@ -1,0 +1,495 @@
+{
+    "name": "Foodance Italian Restaurant",
+    "place_id": "ChIJU_NqPQBZwokR2maaBIBP1mI",
+    "grid": "MN4",
+    "address": "468 W 47th St, New York, NY 10036, USA",
+    "rating": 4.8,
+    "user_ratings_total": 141,
+    "phone_number": "(646) 422-7755",
+    "reviews": [
+        {
+            "date": "14시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGek1WOU9iRzl3YkZOQ01ETlJkMGQ1WkVwSExVRRAB",
+            "text": "Its loud, its fun, as are the people who work there, and the food was absolutely delicious. Just go."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NMWQyRkRTRjl0WlZsM1RrVkZPRUl4ZURsYWExRRAB",
+            "text": "We just stumbled on this place trying to find somewhere to eat in Hell’s Kitchen. It’s an absolute gem of a restaurant. The 2 staff were so warm and friendly, atmosphere inside is really cosy and the food was spectacular. We only had a pasta dish each but it was better than I’ve had in Italy. The desserts were also delicious. Fresh, homemade and authentic."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4MWJXTXhhbEpoZVVWdGNqZG5SRmxzUWpoR01WRRAB",
+            "text": "Great find. Would highly recommend."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214Tk5sZDJXSGhtYjE5dGR6azBaRWhTVTNKNFRWRRAB",
+            "text": "Delicious food, good wine list, excellent service - what more is there to say?"
+        },
+        {
+            "date": "2주 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kc09FWjJXazVKVEdrMU5VZDJYM1F6UjBob09IYxAB",
+            "text": "Siamo venuti io e mio marito a NewYork e passando per caso abbiamo notato questo ristorantino piccolo ma molto grazioso appena siamo entrati abbiamo avuto la sensazione di essere a casa accogliente atmosfera calda e avvolgente  abbiamo mangiato  consigliati dal proprietario Cesare ottimi piatti fuori menù tutti deliziosi buonissimi\nIl tutto arricchito  da un piacevole fuori programma di musica al pianoforte dalla simpatica e bravissima Giulia\nLo consiglio a tutti"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twemNFUm9UazlKYW5WalprdFJOMUoyUkhoRk4wRRAB",
+            "text": "Great food and drinks"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SUk9UVkJNalZCUjE5SU0yZEJVMWh6WW5Cb1pYYxAB",
+            "text": "Watch out for the 20% table service fee. Other than that, this is a cute restaurant and the food is great. I came with a friend who lives in the neighborhood. There is indoor and outdoor seating.\n\nWhat I didn't like was the 20% table service fee. I have seen that with a large party, but never with a party of two."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCRk5EUTBRVEIxZEV0b2FVOW1WVkZDWWtoMGJYYxAB",
+            "text": "Delightful spot to sit down for a bite and a break."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tORE0xWnpSSGt6WkZsaFZHYzNkMnhPV2pSVVRYYxAB",
+            "text": "We went early on a Monday and we're able to enjoy a virtually empty dining room. The decoration was warm and inviting with just the right amount of quirk and whimsy. The food was delectable and the cocktails were amazing! Definitely will be coming back."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Ca1VWSlBRVXBrU1VReFRreDVVMVZ4YTFSWmVXYxAB",
+            "text": "Wonderful. Cesare and his restaurant are absolutely charming! Once discovered, you’ll go often!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxUk1reGFVbmd5UW1GRFVHUnJTR1l6WDA1WVFXYxAB",
+            "text": "Food was delicious, smoked Negroni off the charts!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKNVRFaGplR2RFWTNWUFJXZHVSV3hHUTJ0Vk4yYxAB",
+            "text": "Just had the most low key romantic dinner here.  Our server Le Mark was so amazing and the food and drinks, just perfect.  Thank you food dancing!"
+        },
+        {
+            "date": "1달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFd01IaFNaMUV5VTA5TWJXeG5Xa0kzV2s5YWEyYxAB",
+            "text": "Wir haben uns ein Essen weg vom Fastfood gewünscht und sind ganz spontan bei Foodance Italien angekommen. Es war 23 Uhr und wir hatten schon die befürchtung das wir nicht mehr vernünftiges zu essen bekommen.\nWir wurden nicht enttäuscht. Alles war ganz liebevoll eingerichtet, ein absolut entgegenkommenden und freundlicher Service. Das Essen war sehr gut und ganz tolle Cocktails. Natürlich war der Preis höher als der Burger um die Ecke aber wie oft macht man das. Wir waren sehr zufrieden 🫶🏻"
+        },
+        {
+            "date": "1달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twalVVNW1WMVExVDJ3MFYySjBOVm8zZEdobmMxRRAB",
+            "text": "Super restaurant ! Plats de pâtes très bons . Ambiance conviviale . Les serveurs étaient adorables ( merci pour les bougies et pour la rose ) j’ai passé un très bon repas d’anniversaire !"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tocVpUWmFRbWxYZDJkdldXZEtjR0YwZVZwcmFtYxAB",
+            "text": "So good, everything good the quality was very high. The service professionals and staff were very helpful. Perfect coffee.!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaVFoyNVRPRUZ3YTB0dFQxaENaM05vTkdWMWRrRRAB",
+            "text": "Ristorante italiano ben curato e accogliente. Personale gentile e disponibile. Purtroppo c'è stata una piccola distrazione al momento dell'ordinazione: non hanno previsto un piatto, ma a parte questo non ci sono stati altri imprevisti. Locale molto curato con buona apparecchiatura e musica di sottofondo. Buon carciofo alla Giudia e piaciuto il Gattò di patate. Ottimi I ravioli \"rivisitati\" cacio e pepe. La carbonara, il piatto che si è fatto attendere di più, era buona, un po' troppo \"acquosa\", forse perché preparata velocemente per fare rapidamente fronte all'ordinazione.\nDolci nel complesso buoni, meno la torta di pere perché risultava un po' gommosa e si sentiva poco il sapore della pera. Molto buona invece la torta al cioccolato!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sT01HWnlSMU5YYVhGVWJrdDRSVlpYZFVSdmRYYxAB",
+            "text": "Great food.  But just be aware that the servings are very small."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFMVJtWlNkbU51WlVkMlZXUmtNMHBNYldoWWFFRRAB",
+            "text": "HIGHLY RECOMMEND!!! Incredible service, Delicious food & Wonderful ambience!! Love everything about it!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkUU5rcGZjRTh5UWtkblJXaHdlakpsTVhaS2EzYxAB",
+            "text": "amazing place, magical atmosphere, wonderful service, but unfortunately the food is a bit disappointing"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBNWVHcFplbGROUWtsclkxRmFaMmhuTldoalNVRRAB",
+            "text": "The portions weren’t that large, the food is what you would give a bunny to eat. The service was horrible and then put on a 20% tip, no choice. Why would I give a 20% tip if the service was horrible? They don’t care if the service is good or not because they always get a tip even if you don’t want to tip! I would never go to this place again."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSeVptWkRURXRvTW1kTk9DMDBZVVZ5WW0xWWIzYxAB",
+            "text": "Service was a magic trick: waiter appeared twice, then vanished. Portions were so small I thought it was a tasting menu—surprise, it wasn’t. Then came the 20% “mandatory” service fee (taxed, of course), and they still asked for a tip. Bold strategy. Might come back if I ever want to pay fine dining prices for invisible food and invisible staff."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VNWNFazNhM3BJUW1seFMydEZZV2RhTUU1U1kyYxAB",
+            "text": "Had fantastic time on this cozy restaurant, service was friendly and informative,f ood was stellar, would definitely comeback when I'm back on NYC."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsV1UzVmpSMjlNUldZNGNuVk1YMnhCTTNJelgxRRAB",
+            "text": "Incredible place!!! Coming from a real foodie. :)"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201RE5XcFFXV0pxV2tSVGFtWkpXVW81YlZscGEyYxAB",
+            "text": "Stopped to grab a light bite and drink while visiting and really enjoyed it."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xORExYQlJXakkzWjBrMFkyaHRWRk5oVDBJMFMzYxAB",
+            "text": "The atmosphere inside of this restaurant is so fun and beautiful! I had the Pasta e Polpette, it was fantastic! 12/10! The meatballs were cooked to perfection and the pasta sauce with cheese was truly amazing. This honestly is the best food I’ve had in Hell’s Kitchen."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taaWFuaHJMVXhCU3pBelEyeG9ibkpoU25oNVRHYxAB",
+            "text": "Came here as a tourist from VA with family who is visiting from Greece and it was amazing!! The setting, ambiance, food, and drinks were top tier. 100% will be visiting again next time I am in the city ❤️"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twNU0zZGtWR0ZuWjJ0UmNtOU1kMWRzTFZWUFJWRRAB",
+            "text": "Nice restaurant with great ambiance and really good food.\n\nExtremely pleased"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SSlIyYzNPRTVKYXpWa1NrbHJRVVI1UldORWRGRRAB",
+            "text": "This was so good, I totally recommend it. The customer service? INCREDIBLE. The owners? LOVELY.❤️❤️❤️"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KRWMwMWFkMGhOUzNsU1RubzBRbkJ1TlhsU2RVRRAB",
+            "text": "When you find an authentic Italian restaurant like this,  you know you've struck gold.  First, we ordered the Simona salad to share. It's basically a spinoff of the traditional caprese,  but in salad form and with red onions,  olive,  and sardines.  It came with warm bread and was the best! The warm bread was also the best! Bolognese and carbonara followed and again,  authentic and the best!!! The atmosphere was beautiful as well.  Loved the LGBTQ decor and vibe. Definitely seemed like a good old fashioned Italian pop and pop spot."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214aFlVMUlRVkJ0VG1WV09FSkdWbEZNWWxOYWExRRAB",
+            "text": "The food is amazing!!!! Make sure you try their home made ice cream.The service was wonderful. This place is a winner!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPbmI5UEdHM3ZIeldnEAE",
+            "text": "Great food and live music!! Service was quick and attentive"
+        },
+        {
+            "date": "5달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQYjE4OEcxeWJXS3d3RRAB",
+            "text": "Finalmente cucina italiana vera e non scontata. Olio fantastico e pane servito caldo. Quelle piccole cose che fanno la differenza.I proprietari super accoglienti ed atmosfera calda con musica jazz in sottofondo. Ma la vera chicca è il palco con pianoforte dove c’è spesso musica live. Bravi"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvMTQyQ0F3EAE",
+            "text": "What a delightful evening! I came to dinner on a recent trip and was blown away by the experience. It’s a charming intimate space and my server was friendly and welcoming. I ordered the pasta with Branzino and it was cooked to perfection! The fish was light and flaky and the pasta was perfectly cooked. The true highlight of the evening was the gorgeous singing. The young man who sang that night, Pasqualino, along with a live pianist was incredible! His voice is gorgeous and I loved the Italian songs he sang. Enjoying live music with a glass of wine and delicious dinner was a genuine treat. I cannot recommend this spot enough."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJeDh1SElBEAE",
+            "text": "Such a cozy and adorable little spot! When we went, there wasn’t any live music, which was a bit of a bummer, but honestly, everything else made up for it—and we’re already planning to go back. Every detail in the place felt special, and the food was super fresh and tasty. The pasta was amazing, and the meatballs were next-level good.\n\nI was really excited about the pistachio tiramisu—it looked beautiful but didn’t quite live up to my expectations. Still, not a big deal, I’d go back in a heartbeat to try something else.\n\nThe small room in the back has this really homey, private vibe—like you’re having dinner in someone’s house in Italy. Also, shoutout to the warm bread they brought out—it was perfect for dipping into the pomodoro sauce from the meatballs. So simple, but soooo good.\n\nThe staff were super friendly and service was quick. Loved it."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJbGNfOTZnRRAB",
+            "text": "I love this place because the food is truly authentic Italian, and there’s always live music with different artists on the weekends! The atmosphere is amazing — great food, good vibes, and a true taste of Italy."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJa2JTdVRREAE",
+            "text": "What a beautiful jewel in Hell’s Kitchen. I was brought here by friends to celebrate life and  accomplishments after not seeing each other for almost a year.  The atmosphere, service and food was amazing!  The owners were lovely and it felt like we were in their home , so gracious and attentive. Granted it was a Wednesday night and it was many of us but truly appreciate the outstanding service. Highly recommend you discover this jewel"
+        },
+        {
+            "date": "6달 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJdHF6dnlRRRAB",
+            "text": "Отметили юбилей с друзьями. Еда отличная, чисто итальянская. Все понравилось. Были в вс, гостей мало. В субботу вечером полный зал, заранее надо бронировать, ресторан совсем небольшой."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJMU5pZTRRRRAB",
+            "text": "Fabulous experience start to finish top to bottom soup to nuts. Can't wait to go back.  I am an adventurous foodie for years now and this is one of the best experiences I've ever had."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJcUtpbWRBEAE",
+            "text": "We discovered this restaurant by chance and were absolutely delighted! The food was extraordinary and delicious — it felt like being in Italy. I had the vegan orecchiete and my husband had the pasta with sea bass (the fresh long pasta was amazing). There was also a very talented singer performing Italian music! We’ll definitely be coming back soon."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJeU1fZ2ZnEAE",
+            "text": "I was on vacation in New York and ended up going to this Italian restaurant every night, the food was just that good! On my last night, I caught a jazz show there, which made the experience even more special. My favorite cocktail was the Smog Negroni, absolutely amazing."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJOE12SzJBRRAB",
+            "text": "Really wanted to love this place. Seems like they put some love into their restaurant. Food and wine were good. They had “live music” which was one of their friends that played a music track from their phone and sang lyrics and took breaks often. I would have been fine with that but they charged a 10% live music fee with no notice at all. Plus their “suggested tips” were calculated *after* tax and *after* the 10% live music fee. It’s not harmless and it’s not a mistake, it’s them just giving me a big middle finger. I won’t be back."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJOFAzdHFnRRAB",
+            "text": "Cute place. We were seated in the room with the bar and stage. There was a 10% fee for live music which was not disclosed to us. Food was good, but nothing special. Upsetting that they tried to charge us tip based on the live music + sales tax total."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJd01tWUlREAE",
+            "text": "Had dinner as a group of 4 here. Was able to try 5 different dishes, the bolognese, meatballs and pasta, branzino, lasagna and the gnocchi. I liked the sauces and flavors but I felt the noodles were too soft. The ambiance of the place was nice, small, cozy and live singer. The cocktails were great, pasta quality could be better. I believe if they improved that component, place would be amazing."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJOGZ5azF3RRAB",
+            "text": "Absolutely unbelievable! The best food in Hell’s Kitchen!!"
+        },
+        {
+            "date": "7달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3N2JpRmxnRRAB",
+            "text": "Un 10/10! Recomendadisimo.\n\nEl dueño es quien te atiende y es un autentico italiano, porque no hay nada peor que ir a un lugar italiano y que sea una farsa😂. No es el caso de este lugar!!! El menú, la ambientación súper cálida, el trato, los sabores, todo te transporta a Italia.\n\nNos encantó! Volveríamos en un próximo viaje a NYC y se lo recomiendo a todo el mundo. Experiencias por las que vale la pena gastar!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3bnBYaHdnRRAB",
+            "text": "Out of this world. Let me set the scene…\nWe made a last minute res for food… get there and there are four musicians on stage, with a rotation of 6 guest singers. They were all great.  Beside them, a lady is hand rolling pasta (which we then ate, as fresh as can be, 15 mins later). The food was *phenomenal*. Literally the best cacio e Pepe I’ve ever had. The service was excellent. One of the servers breaks out their tap shoes and starts dancing - but in a charming, authentic, old-world type of way. One of the most atmospheric dining experiences I’ve ever had.\nThe decor is a little dated, but the vibes are top, top notch.\nLOVE THIS PLACE."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3aVBISWdBRRAB",
+            "text": "Just the best Italian gem in Hell’s Kitchen !"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3dU1TQk9BEAE",
+            "text": "Surprised at how good the food was! And it was packed! A hidden gem in Hell’s Kitchen!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRNTVxbDZnRRAB",
+            "text": "Accidentally stumbled on this place and it turned out to be insanely good. The atmosphere is warm and homey, everyone feels like family, and the food is hit after hit. Fully recommend trying out their specials, and the dessert too :) We’re going to be back soon!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRdXEyNFlREAE",
+            "text": "Gem of a neighborhood restaurant. Most recently took a friend there for his birthday and was not disappointed in any way. Great food and great service from the chef. A plus is that one can hear one's table mates as the background music is unobtrusive."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnek5yRWNREAE",
+            "text": "We had a wonderful time at the Foodance restaurant! We arrived at 5pm and we were the first there. The cocktails were delicious, between us we tried 3 different ones and they were all great, especially the amaretto sour! The food was exceptional, I love my pasta and the fresh pasta was great! The waitor bought around the pudding selection and we couldn't say no! As we were leaving, it was getting busy and there was a show on at 9pm which we missed! I can only imagine how brilliant the atmosphere would have gotten. It'd a hidden gem and would 100% recommend giving it a visit!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2N2FTQUp3EAE",
+            "text": "HELLS KITCHEN !!!\nThis restaurant is a Gem 💎 !!!\n\nWelcomed, Serve and take care by their owners. Authentic Italian Food: flavored aroma, presentation!\n\nI know this place that had just 5 month open, it is going to be a successful business!!!\n\nGod bless your idea!\n\nThank you for the amazing please you have build with so much Love!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6enUyMXBnRRAB",
+            "text": "Foodance is a charming Italian restaurant with a couple of fun surprises. Hosts Kevin and Chef Cesare have created a warm, friendly atmosphere where customers strike up conversations with each other. The menu has diverse offerings to suit any appetit. The food is delicious and authentic. This is a piece of Italy in Hell's Kitchen. Treat yourself to Foodance!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyanNxQWFBEAE",
+            "text": "Nice cozy home-style restaurant with friendly Calabrese chef-host Cesare. We had a nice pappardelle ai funghi, the pollo alla cacciatora (special), and the budino all’arancia siciliana with mango gelato.\n\nHomemade pasta, homemade gelato, fresh oranges, quality ingredients. Cesare is very friendly. There's a speakeasy space hidden in the back too!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMOXREaWl3RRAB",
+            "text": "All I can say is WOW! This area needed a charming, high quality, and fun Italian restaurant and THIS. IS. IT! Cesare’s dishes are absolutely brilliantly executed and the atmosphere of this place only enhances the already wonderful experience. You have to come here!\n\nI got a salad with Parmesan rinds, sun dried tomatoes, artichoke, and a balsamic vinaigrette—it was an incredibly well-balanced dish! My boyfriend got the ragu bolognese which was equally as amazing!\n\nThe meal also contained other show-stopping elements, particularly their desserts and mocktails. Not a single thing on our table didn’t exceed expectations (including the complimentary bread). It’s a must-try in the area!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURINUkzN1ZBEAE",
+            "text": "Absolutely INCREDIBLE all around!! The food and drinks are amazing, the people are beyond wonderful and the atmosphere is unmatched. I felt instantly transported to Italy. My carbonara was so good I forgot to take a picture before diving in. They have an entertainment stage with performances and a beautiful back room for cute photos. They also do a wonderful happy hour and pasta making class."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3cllYOFZREAE",
+            "text": "I recently had the pleasure of dining at this EXTRAORDINARY Italian restaurant, and I must say, it was a truly unique experience! From the moment we walked in, the ambiance was cozy and inviting, the waiter and chef were very friendly and sweet.  It was dinner with live singing and tap dancing!   The chef himself came out to sing and dance whenever he had a moment. It added such a special touch to the evening.\n\nThe food was nothing short of spectacular. I ordered the Baccala y Patate dish, and it was the most flavorful and perfectly cooked fish dish I've ever had. The temperature of the food was just right--hotter than any restaurant I've been to, which took the entire experience to another level.\n\nFor dessert, we indulged in the homemade pistachio gelato. It was out of this world! You could taste and feel the texture of the freshly crushed pistachios with every bite. Don't pass on ordering the fresh tiramisu! Ferrara's Bakery in Little Italy used to be my favorite but Cesare's (the owner/chef) has stolen my heart and become my number 1 favorite tiramisu.\n\nThis restaurant has won me over, and I can't wait to return. If you're looking for an unforgettable dining experience with delicious food and entertainment, look no further--you won't be disappointed!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURibHRTUzFnRRAB",
+            "text": "Love finding hidden gems like this one! Chef is Italian, feels like a family restaurant but in the best way possible. Ambience is so cute and the food is great too."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIcTRIdzBBRRAB",
+            "text": "We had a large group here for a birthday party and it was great! The pasta was so fresh, the drinks were tasty, and the dessert was delicious! The servers were very nice and went above and beyond to make the night special for our group. Hint: ask about the speakeasy!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMNGNuazRBRRAB",
+            "text": "Amazing restaurant with authentic Italian food, and such great service! Everyone is so kind, they treat their customers so well to make a special dining experience! 10/10 recommend!"
+        },
+        {
+            "date": "1년 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMbGQtOERREAE",
+            "text": "Ottima atmosfera, vera cucina italiana dello chef Cesare, massima disponibilità al servizio di Kevin. Zona Hell’s Kitchen, nei pressi di Times Square. Consigliatissimo."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBanUyaGt3RRAB",
+            "text": "If you're looking for an authentic taste of Italy in the heart of Hell's Kitchen, look no further than Foodance. From the moment you walk in, you’re greeted with the warmest hospitality that sets the tone for the entire dining experience. The staff makes you feel like part of the family, offering attentive yet unintrusive service that is as delightful as the food itself.\n\nThe highlight of this charming gem is undoubtedly the fresh pasta. Each dish is a testament to the chef's dedication to quality, with the pasta cooked to perfection and clearly made from scratch with care. You can taste the difference in every bite—soft, tender, and impossibly flavorful. The ingredients are top-notch, sourced fresh and local, which elevates the simplicity of the recipes to something extraordinary.\n\nEvery dish is beautifully crafted, with a perfect balance of flavors that lets each ingredient shine without overwhelming the palate. The recipes are refreshingly simple but so well-executed—nothing overly complicated, just honest, hearty Italian cuisine. Whether you're enjoying a classic bowl of pasta or a seasonal specialty, each bite feels like a comforting embrace.\n\nFoodance offers an unforgettable dining experience where food is made with love, and the service is just as exceptional. It’s the kind of place you’ll keep coming back to, not only for the incredible food but for the warmth and charm that makes it feel like home. If you're craving true Italian comfort food, this is your spot."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUX2JHR3ZnRRAB",
+            "text": "A new Italian restaurant is born in the heart of Manhattan!\nGreat food and atmosphere ❤️🥂🍾\nCongratulations to Cesare Vangeli and Kevin Pratz.\nBrindiamo!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyOXZQMWlBRRAB",
+            "text": "a wonderful, welcoming place, with delicious, truly Italian food, Cesare and Kevin are two wonderful people, they made us spend a truly wonderful evening, I'm not that I'll be back, but I'll come every week for sure,"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyb2ZHdXlBRRAB",
+            "text": "Amazing homemade Italian food in a wonderful setting. Cesare and Kevin were so kind and welcoming. I will definitely be back :)"
+        },
+        {
+            "date": "9달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfbV9YQlNREAE",
+            "text": "Se siete a New York e cercate un’esperienza culinaria che unisca tradizione italiana e atmosfera vivace, non potete perdere Foodance, un gioiello nei pressi di Times Square. La qualità del cibo è davvero eccellente: piatti autentici preparati con ingredienti freschissimi e un tocco di maestria che fa la differenza. La musica dal vivo aggiunge un’atmosfera unica, creando il perfetto equilibrio tra buona cucina e intrattenimento.\nA rendere l’esperienza ancora più speciale sono i proprietari, Kevin e Cesare, che con la loro passione e cordialità fanno sentire ogni ospite a casa. Non è solo un ristorante, ma un angolo di Italia nel cuore pulsante di New York. Perfetto per una serata speciale, una cena romantica o una serata con amici. Consigliatissimo!"
+        },
+        {
+            "date": "10달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmZ2FfTVlBEAE",
+            "text": "Appena varcato l' ingresso di questo ristorante abbiamo subito colto l' autenticità e il livello del ristorante.  Da italiana posso dire che i piatti cucinati da Cesare e il servizio e cocktail di Kevin sono difficili da trovare anche in Italia. Abbiamo fatto 10 cene durante il nostro soggiorno e provato vari piatti, tutti uno più buono dell' altro ma oltre all' eccellente cucina è bello l' ambiente, l' atmosfera  che si respira , gli spettacoli offerti durante la cena, e soprattutto a Gingerino. Insomma da foodance tutto è perfetto. Unica pecca è dover prendere un aereo per  riprovare questa magnifica esperienza.  Grazie di tutto"
+        },
+        {
+            "date": "8달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURneXZINXVBRRAB",
+            "text": "Accoglienza ottima! Anche nel momento più affollato e senza prenotazione mi hanno accolto e trovato un angolino per me. Il cibo è decisamente buono! Sopra la media della zona. Le porzioni sono giuste. Non ti alzi affamato e nemmeno ti ritrovi nel piatto quantitativi che basterebbero a sfamare 2 persone. Cordiali, disponibili e attenti al servizio. Lo consiglio caldamente!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUdmZtU2ZREAE",
+            "text": "What an amazing place! The food was spectacular. Felt like being in Italy with authentic food and a lovely atmosphere. I ordered Pasta with meatballs and Sicilian Cannoli for dessert. It was all DELICIOUS and I would absolutely recommend."
+        }
+    ],
+    "reviews_count": 69
+}

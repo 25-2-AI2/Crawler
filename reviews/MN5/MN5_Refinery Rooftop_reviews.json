@@ -1,0 +1,663 @@
+{
+    "name": "Refinery Rooftop",
+    "place_id": "ChIJEemrT6pZwokRBdHb4BXiHJQ",
+    "grid": "MN5",
+    "address": "63 W 38th St, New York, NY 10018, USA",
+    "rating": 4.4,
+    "user_ratings_total": 3909,
+    "phone_number": "(646) 663-5951",
+    "reviews": [
+        {
+            "date": "7시간 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoaExVbERhbEpCYlRkc1YwdFBhMEZhZURBeFNVRRAB",
+            "text": "My first time in NYC and wanted a drink with a view. Bartender seemed to think it's acceptable to treat grown adults as if they're imbeciles. I left a 22% tip and ended up wishing I left 0. Just a crappy experience.\n\nOur experience: We ran a tab and when it came to close we assumed he was going to give us a card machine to pay. Instead he kept waving us goodbye and telling us to put our bill down (which still had my credit card on it) - fyi the rest of the world moved from signature based billing in the 80s so maybe give people some grace and take the time to explain if it's not obvious how you want them to do something. I got the feeling this wasn't the first time the bartender got an ego trip from a condescending humiliation ritual of new comers.\n\nI hope they experience the same kindness when they arrive in a new country or city and they suddenly become the imbeciles. What a joke."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toNWVFWmZSMDVMZG5oZmVXWjNSRE53VmxKTVFVRRAB",
+            "text": "We went on Nov 2, ans we did not have reservation. They immediately found a table for us!  Ian was our waiter! I just told him that it was my Bday and he gave us a cake, and a toast! His service was more than excellent!!! Cheers for more waiters like Ian! He made my bday very special!!! Thanks a lot for the service and for making a great time to me and my husband! Sending many blessings to you and the staff!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWRWJYSk1Ra28zWWxJNU0ycFJRV0pwVW01TlUzYxAB",
+            "text": "Food was great, vibe was good, we were hoping to be on the outdoor roof top but there was a private party. Drinks were really good and we lovedddd our server Lina!! Def worth checking out 🙌🏼"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twaFRWWlBaMGxVVUZwM1prUk5jRU5VVjNKVWRrRRAB",
+            "text": "Loved our time here! Our server Kim was fabulous. Food was quick and delicious and the atmosphere is so great. Will definitely be back!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWT2RVTXhOVFExV0VKaVdXeEhhV3RTTWtkeE0wRRAB",
+            "text": "Kim and Carolina were amazing!"
+        },
+        {
+            "date": "1주 전",
+            "language": "pt",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sdWFGYzBWWEpYTFZkMVJGaE9SekY1VHpSdlZVRRAB",
+            "text": "O garçom era um pouco anfipático\nMas o lugar é maravilhoso"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FNVdGcGFPV3B2UVMxd2FtTTVla0Z1V0VSbmNWRRAB",
+            "text": "Love this place! Great ambiance and views. Friendly staff. Yummy food and drinks. Love the shrimp tacos."
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GTlpuRlpTV3cxYTBkVVZuRjViVEJQU0Znek9XYxAB",
+            "text": "Me encanto!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ONVNXSnNhVEJoV1U1eVZISnJOV0ZPUjB3ME5YYxAB",
+            "text": "Nice experience and really good food"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kTWQxazBkVEpsTXpscVZ5MWpNSGxYYWs4d2VVRRAB",
+            "text": "Gabby was great! Quick service!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pVMlJpMW9ZelpvY1RsUWVVSlJVWE54WW0xYWFXYxAB",
+            "text": "Great food and atmosphere! Service was very attentive! Gabby was super great!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KcFJ6RTVRVGhQVm5GQ05uRlBZMk5xWkdkV1RtYxAB",
+            "text": "Wonderful service set in a beautiful rooftop setting! The food was delicious! Everything was amazing!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsaFRXVXhWMm96U0Vkb2NHdGxZVTVFT0cxdVpFRRAB",
+            "text": "Gabby was a fantastic server! She took great care of us!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WVFJYbHplRmh6VG1OWWEycE5aMFZsZGpZNU0yYxAB",
+            "text": "Best brunch with an amazing view!! Gabby our server was so friendly and helpful! Highly recommend!"
+        },
+        {
+            "date": "1주 전",
+            "language": "fr",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psU1VHczRkMmhFY0VKWWIzZEZjVWRqUlhCb1lsRRAB",
+            "text": "J’ai failli me faire tuer par le videur chauve de cet endroit.\nAlors que je n’ai absolument rien fait.\nJ’ai énormément consommé dans leur restaurant; le videur chauve le 25/10/25 a voulu me tuer.\nCet endroit est un cauchemar\nJe vous conseille de fuir\nC’est l’enfer sur terre"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wU1NrczJRbmxzWDFSSGNrcEZOMVJrTWxaQ1pFRRAB",
+            "text": "We had the best time at Refinery Rooftop! Carolynn was such a sweet waitress and let us sit and order drinks for the afternoon. Drinks are so yummy and everyone loved my Kale salad. Get the Garden Spritz !"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWbFoxUk1hMmN6ZGtKc1NHSmxUbWQ2VURGTVRsRRAB",
+            "text": "An absolutely amazing experience at The Refinery Rooftop. The food and drinks were absolutely stellar and the service was even better. Our server Caroline (or Carolynn not sure how she spells it!!) went above and beyond and was such an energy of positivity and good vibes. Would definitely recommend and come back for the Mac and cheese!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toc2RYRXdXVlJEYldKaVltTmpaMlpXVFUxcmQwRRAB",
+            "text": "We waited for service for more than 10 minutes, and since everyone ignored us, we left without placing an order."
+        },
+        {
+            "date": "2주 전",
+            "language": "it",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KcldtMUpjRjlyVlROT2R6WlNNa1V0TUdJNVdYYxAB",
+            "text": "Quando siamo saliti ci siamo ritrovati davanti ad un personale che a malapena ti guardava, abbiamo chiesto se fosse possibile bere o mangiare qualcosa e non ci è stata data indicazione o accoglienza, personale che faceva di tutto tranne che lavorare. Pessimo."
+        },
+        {
+            "date": "2주 전",
+            "language": "it",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKMWRqTmZUa2RhUVZNM1Z6ZHFWMjVQY2pocU9GRRAB",
+            "text": "Impossibile essere considerati dal personale della terrazza nonostante si chieda dove potersi sedere per consumare, proviamo a sederci nella zona che ci indicano senza accompagnarci e con sufficienza , dopo poco ci fanno alzare perché tavolo prenotato, era l’unico senza riservato."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvMVZFTTNWR2RwVlVwaE1WbEJWMnBpUzFkV1JHYxAB",
+            "text": "Tsenam was incredible, so attentive, helpful and overall created such an enjoyable atmosphere!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213eVgyWjBOa2RVZVVSM05sbG9TSFE0ZEdOWU1rRRAB",
+            "text": "Kenny was amazing! 10/10 recommend, amazing food and great drinks :)"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psVmNtcEdSVFZuUjJGclpHYzJkRVZEVDJKcmExRRAB",
+            "text": "The crowd was older and the place wasn't packed, pros and cons. It was easy to get a drink, but it wasn't the most fun and lively atmosphere. DJ spun older tunes, to match the crowd's age bracket. Drinks were $21-$26"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kT1YybE1lbXRYVnpCVmNYaGhSMWxqV2sxSVVYYxAB",
+            "text": "Amazing time! Our server lucy was amazing and really made us feel special. It was my friends birthday and she brought us a cake and shots at the end of the night it was amazing !!!!!!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GeExUWlJURWxtY1hSMk1raFlSazFqV2kxT1RVRRAB",
+            "text": "Lucy was AWESOME!!! This bar is so fun you have to sit on the terrace! Amazing view of the Empire State Building! Great drinks and good French fries ;)"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCSE9EaENkR000WlZSU1YzRk1Oa2N5ZUhOM2VrRRAB",
+            "text": "Kenny went above and beyond  quick, friendly, and made every drink perfectly. Great energy behind the bar and made the whole experience feel personal and fun. Definitely the kind of bartender that sets the tone for a great night."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toa05sUm1SVEUwTUU1MExVSlNXVmxLU0V4R2VVRRAB",
+            "text": "Could not be more grateful for the attentiveness and generosity of John, Abdul, Lucy, Vanessa, & Sayette! Wonderful drinks & absolutely wonderful enclosed cozy tent seating! Fabulous time!!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kWFpHaHFhbFkzY21kUVZuRldaV2h5VDFSUk0wRRAB",
+            "text": "What a nice Little gem in the heart of Midtown Manhattan. Great service nice food great atmosphere."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201QlgydG5lV2w1VFhGWGFYRjNUWGRaT0hnd2NrRRAB",
+            "text": "Had such a great time here for my friend’s birthday! Ellie was so incredible. Her service was AMAZING. She treated us so well and was so so so kind. Cannot recommend her enough!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGdFZ6VmZUMGxoTUhkRFlYUjVlV2xvTVdSaU4wRRAB",
+            "text": "Went to Refinery for my birthday!!!! First time ever here and Ellie (our server) made us feel so so amazing and made my birthday feel so special! 100000% will be back JUST FOR ELLIE!!!!! :)"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVeGVUZHFObDloZEdKM2IwWlVWM1p0Y1dWUlJVRRAB",
+            "text": "The spot is cute, though very little view. The drinks were fine, however, our server (Vanessa) couldn't be bothered. I asked for a Sazerac and she said yes, then came back several minutes later saying they were missing ingredients. No problem, I'll take an Old Fashion. A good 10 minutes later I finally got it--with attitude. We paid up and left. Poor service especially for the price of drinks (64 bucks for two drinks). Service is everything, a smile goes a long way--especially after you had to tell a customer you were out of stuff\n....."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KMGMwTkVTVmhYWm1oMlRIbHBNMjR5U25aTVRXYxAB",
+            "text": "Had a great experience at the refinery rooftop it definitely gives a cool vibe and has a great view of the empire state building. However,  they blocked off the side where people were taking pictures of the empire state building not sure why, maybe there was an issue. But the staff was nice and food was ok. It is a pretty small location so It can get a little loud but overall a good experience and would go again."
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWMk1tNUZORzVtWmt0Q1kyazRSM1ZuWldoSU5FRRAB",
+            "text": "Great spot to visit day or night."
+        },
+        {
+            "date": "3주 전",
+            "language": "vi",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taSmRHOXVURmx1ZDJSTlRVOHlSMDh4V1VobWVsRRAB",
+            "text": "Một phần ăn khá nhiều, không ngon, hơi chật chội"
+        },
+        {
+            "date": "3주 전",
+            "language": "de",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205cGJuTndMUzFCYkdaaE9UaG5kWGRCWDJGWU4zYxAB",
+            "text": "Lässige Rooftopbar mit Preisen, die typisch für New York City sind. Schöner Ausblick auf das Empire State Building."
+        },
+        {
+            "date": "3주 전",
+            "language": "fr",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CT0xXZENVamRzUWtFMlUzRlVVek5qVVdaVWRGRRAB",
+            "text": "Belle place. Nous sommes venus un jour de pluie, nous n'avons malheureusement pas eut accès a la vue, élément qui nous avait fait choisir ce restaurant. Le service était impeccable et l'ambiance charmante. En revanche la nourriture était assez ordinaire possible et le prix, moins savoureuse que celle achetée en food Truck."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paSmNYQTFUamx6ZWpac1VHOVNaV2xJUlZWV2FtYxAB",
+            "text": "Great spot outside/inside options"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WWVJHWjBTalJ0ZFZwNmRUUm9ORkUyTlZkTFdtYxAB",
+            "text": "reservation needed if you want to sit and dine outside. we had a lovely time, amazing view on the empire. music was quite loud but you could still talk. recommend highly. bring your jacket now in autum - it’s basically all outside."
+        },
+        {
+            "date": "수정일: 4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIclplWW9BRRAB",
+            "text": "We love Refinery Rooftop. The light, the ambience, the food and the service all combine for a great dining experience. We visit whenever we are in NYC.\n\nNew visit - another enjoyable afternoon at Refinery Rooftop. Love the ambience, the food, the drinks and everything about it. We make it a point to visit every time we are in NYC."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGblMwcFBNakV3YVc1dk5uRk9iM05HYUd0Q04xRRAB",
+            "text": "Great food and atmosphere."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCaE1XZENPVTFzYVZac1dFcDRVbU5CTkRGR1pHYxAB",
+            "text": "Delicious food with a perfect location. This rooftop view of the Empire State binding is fantastic. You can reserve specific tables for a nominal fee directly through the website so plan ahead for a direct view! Staff is super friendly. Drinks were perfect. We stayed at the hotel which is also great and went twice."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201RU1USk9TM2xzUkU1VmNYcGpjbXRrZGxoUmRrRRAB",
+            "text": "Lucy was so amazing!"
+        },
+        {
+            "date": "1달 전",
+            "language": "it",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GRWVIRnJaRlpqTjJWVlJDMXNhbXRhUkc1NlNsRRAB",
+            "text": "Non è il mio genere di locale ma volevamo fare l'ultima cena affacciati sui grattacieli di New York. Abbiamo prenotato comodamente online sul sito. Ambiente parecchio rumoroso, all'interno la musica è altissima. Fuori si sta già meglio. Cibo ottimo a prezzi non esagerati, viste anche le porzioni americane. Abbiamo preso spinach dip, hamburger e calamari croccanti. Buone ed abbondanti le bevute. Cameriere davvero simpatico! Se avessi saputo prima come era l'ambiente non ci sarei andata, ma almeno abbiamo mangiato bene."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkek1tUllOVEJOUldoeFZEZHhVR1kxVm01aU9WRRAB",
+            "text": "Amazing food and vibes. Kenny took care of us and made sure we had a great experience!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNdExUSTVWMmhaZVZCRFRXaG9TMFZDU25GRU4zYxAB",
+            "text": "Shout out to Kenny! Exceptional service and experience. Vibes were great, as was the food!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oU1NWZGpPRWR6YTNaa1VFNWhXVEJ1TFVaR1JHYxAB",
+            "text": "Kenny was our server and he was amazing ! Surprised us with a martini since we were indecisive and it was delicious. Food was great"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pORVdIRkdSMlZNUm5WekxUTnVWbVZqUzFod2FWRRAB",
+            "text": "Kenny was great! Made great recommendations for a martini I wanted. Kept coming to make sure we were fine"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5MWFVdGZkMkpoTWtRNVgweFhSMmw2ZGkxNkxYYxAB",
+            "text": "Very happy we found this place. It was a nice rooftop with indoor and outdoor. Employees were very chill and nice. Great food and drinks."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pJeVkwUldWMUF5VURKcWJUWnBVblJVT1Rad0xYYxAB",
+            "text": "Over priced, bad cocktails, rude staff"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kWWNrNDFVRVUxY3pGb2N6UXpkVUpCU1VGdmVHYxAB",
+            "text": "I would give zero stars if I could. The staff were incredibly rude and clearly untrained. The food was disgusting and very bad quality. I complained about my chicken wings being underdone, chewy and the sauce had a funky taste, they weren’t happy with this. The waitress didn’t apologize and aggressively slammed the bill on the table without a word. I would avoid this rooftop because it’s overpriced and the staff are unprofessional and so rude."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIZ1ptaXVBRRAB",
+            "text": "직원들도 친절했고 야외 좌석들이 잘 배치되어있어서 날씨 좋을때 꼭 가세요!! 음식도 깔끔하고 맛있었습니다! 바테이블도 예쁘게 되어있어서 꼭 다시 가서 바 테이블 앉아보려구요!  호텔 입구로 들어가서 루프탑으로 엘레베이터 타고 가시면 돼요!"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJOHFYMlB3EAE",
+            "text": "괜찬은 바. 높은 곳은 아니나 도심속의 야외 느낌.."
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlMFl1UHpRRRAB",
+            "text": "뉴욕 뉴욕. 딱 그 느낌"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KWFZFaDNTSEpqTkZOalpFMXNTbEpXV0hKQ2MwRRAB",
+            "text": "The food, atmosphere and service were absolutely wonderful. Every dish we tried was delicious and Caroline was an outstanding server offering great recommendations. The cocktails were also great. We’re going back before we leave New York."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjeVFtMW5VWFp6TTJ0dlEySTJMVmxLVDNReVdXYxAB",
+            "text": "Best beet salad of my life! I had to order it twice during our 2 night stay. We will definitely be coming back to stay at the Refinery Hotel just because this restaurant and hotel are incredible! Great staff. Ian and Ryan were great servers. We appreciate you guys and we will be back! 🙏🏼"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CRE5HRmZWemwzY2twaGJHZExNRFJOUWsxa2FtYxAB",
+            "text": "A Stellar Rooftop Experience with Amazing Service!\nThe atmosphere was absolutely breathtaking, the vibe was sophisticated yet relaxed, making it the perfect spot for a girls get together (us).\n\nThe food was equally impressive. Every dish we ordered was bursting with flavor.\n\nAnd then there was Caroline, our server, who truly made our brunch exceptional. She was an absolute gem – incredibly attentive, genuinely friendly, and seemed to anticipate our every need."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oTmJHVlVaV2RPV1hoblkxRklRVWR2VkRod05VRRAB",
+            "text": "This is a nice bar. It’s not extremely high up, but the 13th floor is always cool and lucky. You don’t have a view all around but it’s still a nice ambiance. The waitstaff is nice and attentive. The cocktail was tasty. The food came out super fast, and it was very beautifully presented and quite tasty! The Thai wings is a nice “middle of the road” flavor! Not too sweet, not spicy. The tacos are quite good and the yuca fries are beautiful! The only situation out of the ordinary was the bathroom experience. I tried to use one that just became available and the attendant stopped me and said to not use it! I  asked why and she said that it was only for handicapped. But a very capable female with 8” heels and a cocktail dresses came out running. I said “But she’s not handicapped!” And the attendant said “well but she’s a woman!” What was this about?  So I waited for the next one but then when I got out a very capable male came out of the handicapped one!!! I suggest being cautious with this type of behavior. It can be perceived, as “peculiar!”"
+        },
+        {
+            "date": "4달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKU2cwWTI4MDY2QXN3RRAB",
+            "text": "Il Refinery Rooftop, situato nell’omonimo hotel, è senza dubbio una delle migliori esperienze di rooftop mai provate a New York. La location è semplicemente imperdibile: cenare al tramonto, proprio sotto il profilo imponente dell’Empire State Building, è qualcosa di unico, soprattutto nelle serate estive.\n\nIl cibo è buono, senza particolari guizzi, ma più che adeguato per accompagnare l’atmosfera spettacolare. Il servizio è eccellente: attento, cortese e sempre presente al momento giusto. Anche solo per bere qualcosa al bar vale assolutamente la pena fermarsi.\n\nGli interni sono molto curati, con uno stile industrial chic che mescola legno, metallo e bellissimi dettagli in rame, creando un ambiente elegante e accogliente. Buona anche la proposta del menu, che offre una discreta varietà sia per chi vuole cenare che per chi preferisce semplicemente godersi un drink con vista.\n\nUn rooftop da mettere in cima alla lista per chi visita Manhattan."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWQ09FVTVWV1pPYzNGS1F6VTNlVTFZY0c1cGVuYxAB",
+            "text": "I visited Refinery Rooftop with my girlfriends on a night out to celebrate an engagement for one of them. I can’t comment on the food, because we ate somewhere else prior and this location was an after dinner drinks spot for us. The 1st floor is very swanky and beautifully lit. After or ID’s were checked, we got onto the elevator to the top floor. When the doors opened, we were greeted to a dance floor and a DJ who was spinning all the right music that would appeal to all different crowds. This area was encased in glass so you were able to be in this area even if it rained. We made a reservation prior and they seated us quickly. Our table was in the outside area which had large tables, table umbrellas, greenery and soft lighting. And although this was all beautiful, the stunner was THE VIEW! This picture doesn’t do it justice! The drink menu has awesome hand crafted drink options as well as the usual favorites. The drink prices were typical for Manhattan. This is perfect for a girls night, or a date night! I would absolutely recommend this based on the vibe and drinks!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4dVgwNUdlbkoxYzBSRFluaFdhWFUyUm1keE9WRRAB",
+            "text": "I was really looking forward to visiting Refinery Rooftop to enjoy the food and the beautiful city views, but unfortunately, the experience didn’t turn out as expected. When we arrived, the entire outdoor seating area had been booked for a private event, which wasn’t mentioned ahead of time. We ended up standing by the bar and waiting for over an hour in hopes of getting a table.\n\nAfter about 1.5 hours of waiting with no seating available, we finally gave up and went to the restaurant downstairs instead. It was disappointing not to be able to enjoy the rooftop view or the full experience we came for. I’d recommend calling ahead to check for private events if you’re planning to visit."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ONlFtZFBWM2h2UjNwMWJHczJjbFpPVDBsWWJsRRAB",
+            "text": "It’s a beautiful place with a nice vibe great environment and good drinks. Reservation is needed but if you don’t mind stand in the bar just walk in. The lady in the bathroom was a bit rude with my friend, and there was a line to get in . Parking two blocks away."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JMVZHVnlRVWd4ZUdkQ2EzYzRSVlJHVjFFNFRrRRAB",
+            "text": "Refinery Rooftop was perfect for our girls night! ✨ Great vibes, amazing views, and delicious drinks. But the real star was our server, Vanessa! She was so friendly, attentive, and made the whole night feel extra special. 5/5, can’t wait to go back!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkb2RDMW1UWEZ4TVVGSGFIcExUMDg1V1dSR2FsRRAB",
+            "text": "We had an amazing brunch experience at Refinery Rooftop. We were celebrating my mom’s birthday and they made her feel extremely special, including bringing a yummy piece of cake. I will definitely be back next time I visit New York!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205TFVGVjVUVkF6UjBKWVgyNWxTMWx5ZFVwemJsRRAB",
+            "text": "This is probably some of the best regular hummas i have had.  It is extremely rich, creamy and flavorful with a good variety of things to dip into it.  The veggies and bread were really fresh as well.  It was on the pricier end especially for hummas but so are many things in new york especially at higher end places.  The atmosphere is pretty of what you are paying for.  The bright and lush bar was my favorite.  The hanging plants, lights, and glass ceiling made it perfect for the warm weather but I could see it working well in the rain as well.  Overall a great stop that is worth the price."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkTVRuQnpSMWg1YWxoU1dTMUlVSEUxY1ZCVFlrRRAB",
+            "text": "Food was amazing! We ended up with a table inside so we didn't really get a view like we wanted. The outside tables are a special reservation that you have to pay for."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25BemJIVnJWRkpoYm1abE5FNHliRGR2WDIxNWNVRRAB",
+            "text": "Recently celebrated my 30th birthday here and I can definitely say the Refinery Rooftop had one of the best food not only options but also the quality and taste of it. As a Steak Lover, i’ve had one of the best with a good price. I also loved their Truffle Bianca, which is a must try flatbread. Drinks are also phenomenal! Service is A Rank! Definitely recommended who’s looking for a vibe to chat with friends while having Quality Food, Amazing Drinks and Awesome view and vibe! PS: I wasn’t even able to take pics so much because that’s how much I’ve enjoyed my night ✨"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPSGhxSm03OEtXSTBRRRAB",
+            "text": "Kenny our server was great!\nHe was kind and made great recommendations.\nThe food was amazing as well\nAs the ambiance ! 10/10 I will be returning to try their brunch"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kUFNHcFdUVGxPZW5ZM1oxbFZXVlpPZVZCNVZYYxAB",
+            "text": "The food here was excellent and the atmosphere was wonderful. Came here for a summer company get together, and we all had a great time. The waitress who took all of our orders was friendly and attentive. I would definitely come back"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSRmNUaFBUbWhtUTBwNlkxOWtUV3BZUlhneVYwRRAB",
+            "text": "We had a great experience.  The view was great.  The service was great and the food was great.  The manager went out of his way to make sure we weren’t crowded by standing guests at our table.  Drinks were great too!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5MVNWVnhaRlV5ZGt4TGMybHRZVEI2YUY5aFVYYxAB",
+            "text": "I had a cute early dinner date with a friend on Sunday 7/13. Very cute restaurant, food was really good.  The wings could be a bit crispier but that personal preference. I loved my drink the frozen margarita with lychee omg so so good but creeps up lol.  Lucy was our server and she was amazing, check on us constantly, made sure we were good.  I would def come back. Was a bit hot but eventually the sun went down a bit and they turned on their fans ."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxalVsSXRUM0pxYzA1eFZUZGtXVXBzU25sRlZVRRAB",
+            "text": "My friend celebrated her birthday here and everything was amazing! Great food and exceptional service!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJT1otTGVTNzdlcTJ3RRAB",
+            "text": "Celebrated my friend’s birthday here on a Friday night, we felt very well taken care of. Kenny and Sayette went above and beyond for us and made our night! After our reservation was over outdoors, they accommodated us and got us a table inside so we could continue celebrating. On another note, I ordered a steak medium rare and it was cooked rather medium well, and they promptly remade the steak for me. Everything was great. Would definitely return!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tONVRrZHJhWGhwZW5vMU1td3piUzE1WDNZemEwRRAB",
+            "text": "🐑 Lamb Chop Review\n\nThe Refinery Rooftop is exactly what the name promises — refined. The exposed brick, chic rustic textures, and that classic New York rooftop vibe (yes, the kind you see in movies) made it a full-on ambiance moment. We sat out on the patio, where a steady breeze, a solid Empire State Building view, and a $50 per-person minimum kept things classy and intentional. There’s a 1.5-hour seating limit, but honestly, that’s just enough time to sip, snack, and soak in the scene. Food came out surprisingly quick and tastier than expected. Drinks? Pricey.. but shii, it’s NYC. Nothing about the service blew us away, but it held the line. Background music hit a solid happy hour groove, and the indoor bar’s glass ceiling made for a bright, airy feel. Bathrooms - Individual, clean, and gender-neutral.  I'd absolutely recommend this spot for anyone looking to kick off the night with strong vibes and a solid view.\n\nBite Factor: 3.7/5\n\nVibe Check: 4/5\n\nStaff Energy: 3.5/5\n\nPocket Hit: 3.7/5\n\nPotty Points: 3.7/5\n\n2nd Date Energy: 4/5\n\nGreat for pre-game drinks, a dinner or light food with friends, Instagrammable views, and atmosphere that makes you feel like you’re starring in your own NYC rooftop scene."
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURna0tqQ3VnRRAB",
+            "text": "Feb 21 2025:\nWe had the most amazing dinner at refinery rooftop, beautiful view in the outdoor eating area (even in winter with the heated room) with views of the empire state building, the staff was so kind and attentive, the food was phenomenal, amazing atmosphere so cozy, good music. Our favourite was the mac & cheese so creamy and delicious. We also loved the chips and guac, chicken wrap with chips, chicken panini with fries, gelato, and cheesecake. For a drink we shared a flower district. Overall phenomenal experience. Our meal total was about $140 for all those dishes and drink mentioned, well worth it.\n\nFeb 22 2025:\nWe decided to come back a second night in a row for our anniversary. The staff was so amazing once again. The atmosphere here is so awesome with good music, lighting, amazing views of the city. We enjoyed a lemonade and coke, had our favourite mac and cheese again, and that delicious chips and guac. For our main meal we had the buffalo wings, and a caesar salad. The staff was so kind to surprise us with a dessert each for our anniversary. We shared a cheesecake and a strawberry flavoured cake. Both so amazing especially the strawberry cake. We would highly recommend this restaurant if you want amazing food, views, staff, music, and atmosphere. Our bill this night came out to about $100 but keep in mind we had the two complimentary desserts that would’ve brought our bill up to the same as the previous night. Both nights worth every penny."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOS05GRk5hSHBvWDBsRlpIaHhjVFV3TFdkNVdXYxAB",
+            "text": "Had apps and drinks at The Refinery rooftop last week and came away impressed with most of what we ordered.\n\nThe seared tuna was absolutely fantastic – seriously one of the best tuna dishes I’ve had anywhere. That miso butter was perfection, salty and rich without overpowering the fish. If you only order one thing, make it this.\n\nThe ramen seasoned shishito peppers were excellent too. Really interesting take on the usual preparation and full of flavor. The spinach dip was quite good as well – creamy and well-seasoned, though it couldn’t compete with those other two standout dishes.\n\nThe Up in smoke cocktail was really good. Not too sweet, not overly boozy. (Though, I’m not a cheap date)\n\nService was a mixed experience. The hostess wasn’t particularly welcoming when we arrived, but it wasn’t a huge deal. Our server was pretty no-nonsense and not overly friendly, but he clearly knew the menu well and was efficient.\n\nGood rooftop spot with solid food and excellent drinks. The service could use some work, but that tuna dish alone makes me want to return.\n\nWould definitely recommend if you’re looking for quality food with a nice view. Just make sure to get that tuna.​​​​​​​​​​​​​​​​"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJaWtfY0dKbHVhZlBREAE",
+            "text": "i went in a large group and the rooftop was nice. only complaint is the sun was a lot and it made for uncomfortable dining for a bit\n\notherwise great service, and good food\n\ni recommend the salmon, beef and chicken. arugula salad and chocolate cake were amazing!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvdFdrTTVTbWs1VXpGUlUwOTVOR1ZRWkVOQldFRRAB",
+            "text": "Nice drinks and food. Service was generally very good (One point off for an unfriendly host). On weekends there is dance music with good vibes. Great outside balcony with views of the empire State building."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxMFZVUkpZVlkxTWpSa1VuRXhaRWcwUVY5V1IzYxAB",
+            "text": "I came to celebrate my friend birthday we really enjoy this place vibe was good , the food was amazing and the drinks and our waiter was Leo he was very attentive always checking up on us we order our food and it literally came in less than 20 min . S/o to Leo for the amazing service me and my girls will be back !"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfM0phXzFnRRAB",
+            "text": "I visited the Refinery Rooftop after work with some colleagues.\n\nThe space is beautiful and cozy. In the winter, the outdoor patio is covered and warm, providing beautiful views of the City.\n\nThe food and cocktails were delicious and well seasoned. My party ordered all starters including the Buffalo Chicken Wings, Spinach Dip, Crispy Calamari, and Shrimp Tacos.  For my cocktail, I had the Up in Smoke.\n\nThe service was quick and attentive.\n\nI would definitely return again."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMSG0xTi1vMkpMYjBnRRAB",
+            "text": "Had the best time here with amazing food and drinks. Our server Lina made sure everything came out well and answered our multiple obnoxious questions kindly. She recommended drink options and food. By far would came again and ask for her service always!!! Thank you Lina for making it a great experience <3"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKdlF5MU1jRTVpWTBaa2NUQXhSRTVEVTFobU1rRRAB",
+            "text": "The food and drinks were great but our server Leo was even better! He was so friendly and went above and beyond for us even when it was a busy lunch time. Would highly recommend!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOajY3SUNaejh2dVFREAE",
+            "text": "My partner and I stopped in here for some pre-dinner cocktails on a recent trip to NYC. This place has such a vibe. Great views, delicious drinks and friendly service. I would definitely come back for dinner next time I’m in NYC. I had The Pinky Ring and he tried the Coney Island Pilsner."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMN2Z3LUxRODQzV0pnEAE",
+            "text": "Dropped by the Refinery Rooftop bar. Loved the vibe. I ordered the Pinky Ring…super delicious. My meal was the double patty burger. The secret sauce is fantastic. Definitely a great spot to hit up."
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJYm45X0d5NHVLV1dBEAE",
+            "text": "Uno de los mejores rooftops de Midtown sin lugar a dudas! Ubicado en el piso 13 del Refinery Hotel, ofrece hermosas vistas al Empire State Building!\nEs estilo chic-industrial con un patio bastante grande que se disfruta mucho sobre todo los meses más calidos!\nA comparación con otros rooftops, ofrece una carta de comida bastante amplia con ensaladas, dips, sándwiches, entradas, hamburguesas, etc.\nLos cocktails empiezan en $20, las cervezas en $8, copa de vino $16!\nTambién ofrecen sus tragos estilo LARGE FORMAT (para 6 personas) por $95!\nRecomiendo reservar!\n\nSeguime para más tips locales en @local_bite !"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wZmJuVTJjVmRDWTBoVk9VdzNWVkpHT1dGdFZHYxAB",
+            "text": "Amazing food! We had a blast at refiner. Leandro made our evening so special, great evening"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPQ2k0cWF0eUxEQnRRRRAB",
+            "text": "We spontaneously made a reservation at Refinery Rooftop for our big night out in NYC. All we knew was that we wanted to be sure to get to a rooftop bar/restaurant and this one was recommended by a local friend and just a 3 minute walk from the hotel. It couldn’t have been better! No wait time, a beautiful spot with a stunning view, delicious food, and fantastic drinks. But the best part was our server,  Vanessa. She took such good care of us without hovering. When she gathered that we were in town to belatedly celebrate my birthday, she surprised me with a slice of cake decorated with a giant sparkler! It was such a kind, sweet surprise that made the night! Thank you, Vanessa!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuckxPZjlnRRAB",
+            "text": "I was very impressed with Refinery Rooftop. The food was very good- the dressing on the Caesar was delicious (though I thought a touch under dressed), the pizza with hot honey was delicious, and the yuca fries were extremely well cooked. Our drinks were also very tasty, I would certainly come back on a beautiful day for a nice outdoor cocktail or meal."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CaFQyb3lPVVJ6YjFjdFQxRkJSMmR3ZFhSb1ZVRRAB",
+            "text": "Kenny was amazing! We called him the MVP. He served us for my dad’s birthday and he was so attentive to everyone and always was checking in if we needed anything."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKdFUzQTVhM2syWVZGQ1FWQXlZVll0Y0ZsMk1tYxAB",
+            "text": "Literally a 10/10 experience and the staff was SOOOOOOOO nice to use and attentive. Here’s a pic of some of the things we had."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnX3Jtb3JBRRAB",
+            "text": "Amazing Birthday Celebration at Refinery Restaurant!\n\nI recently celebrated my birthday at Refinery Restaurant, and it was an unforgettable experience! The ambiance was perfect for a special occasion—warm, inviting, and lively.\n\nThe food was absolutely delicious, with fresh ingredients and great flavors in every dish. Whether it was the appetizers, entrées, or desserts, everything was well-prepared and beautifully presented.\n\nThe live music added such a wonderful touch to the evening, creating a fun and vibrant atmosphere without being too loud. It really elevated the celebration and made the night even more special.\n\nThe service was top-notch—the staff was attentive, friendly, and made sure we had everything we needed. They even made my birthday feel extra special with their kindness and attention to detail.\n\nIf you’re looking for a great spot to celebrate a special occasion or just enjoy a fantastic night out, Refinery Restaurant is the place to go! I’ll definitely be back."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aVmVUSXlkbWxTTFZac2VITmpOVEphUVZoR05tYxAB",
+            "text": "Glad we decided to visit on our girls trip! The empanadas were great and I loved the pinky ring cocktail. Would love to come back, this was a great spot to hang out during the day."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJOU9mbFBREAE",
+            "text": "Came in for brunch on a Saturday morning. Ambience is unmatched: gorgeous, bright and airy. It was rainy outside and watching the rain fall on the glass ceiling was so peaceful. Food and drinks were good, nothing overly special IMO, but well worth stopping by just for the vibes."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJa3RHMFV3EAE",
+            "text": "The food was delicious! Highly recommend the shrimp tacos and tater totes! We came on a Monday for lunch, no wait and the vibe was exactly what I wanted. Lina was our server and she was the best in ensuring we had everything we needed! Next time I'm in NY I'm coming here again!"
+        }
+    ],
+    "reviews_count": 93
+}

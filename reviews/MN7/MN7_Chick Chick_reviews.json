@@ -1,0 +1,572 @@
+{
+    "name": "Chick Chick",
+    "place_id": "ChIJVbsIFZVZwokRHGQifEDV3SU",
+    "grid": "MN7",
+    "address": "618 Amsterdam Ave, New York, NY 10024, USA",
+    "rating": 4.6,
+    "user_ratings_total": 425,
+    "phone_number": "(212) 799-1026",
+    "reviews": [
+        {
+            "date": "15시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taak9ETjZNbGRwUmtwTGNGbEdlRmxJUWt0c1MwRRAB",
+            "text": "SOOOOO good."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFMFJGb3RkM1JDT1RkdFZXWmlhVkpLZWxkNlJsRRAB",
+            "text": "I visited this restaurant for an early dinner with friends, and it was fantastic. The flavors were incredible, and the portion sizes were just right. Our group of four decided to share one of the family platters, and it was more than enough to satisfy everyone, with some leftovers to spare. The platter featured a whole chicken, ten chicken tenders, and three generous sides. We found ourselves needing to make an effort to finish it all!\n\nWe enjoyed three sauces with the chicken: soy garlic, hot honey, and Nashville hot, all of which were delicious. The side dishes also impressed us; we had mac & cheese, truffle parmesan fries, and buttery bread. I can’t wait to return!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zdFoyWlZMVzVaV2xkSE4xTmxjbWwzYVUxWVprRRAB",
+            "text": "I should’ve figured that because it’s Michelin starred It would be fatty like a proper chicken thigh. That would be fine if it wasn’t covered in mayonnaise sauce and cheddar cheese and glistening out of the fryer still greasy.. the jalapeño…"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toQlF6SXhVMUJIYVRWTk5UVnpkRE5WV21nM1RrRRAB",
+            "text": "Food is tasty, remember to try the Tennessee dry rub if you're getting wings. My favorite.\nAlso the Truffle rice but they tend to run out of it.\nOne main complaint is that the place is tiny so very limited (uncomfortable) seating. But the food is great."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xobVREUkdURjlLVm5jM1p6RmhaV0pEUWt0Mk4xRRAB",
+            "text": "The absolute best chicken sandwich in NYC!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201aVZYbFpkMnhPZEdGMlVuUXhZalZVZGxwRGVtYxAB",
+            "text": "Best chicken sandwich in the city. Try thai chili and korean style. Truffle fries was great"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oemQwUjBNbEpSYm5OWVpGQlFZVE51TVZGblMyYxAB",
+            "text": "My order was 10 minutes late for pick up. No apologies or anything from the staff. Got home and the order was wrong."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGaVJqWm9Ra04zWlVGbFIyRk1lbVEzWldONVYyYxAB",
+            "text": "Crispy saucy delicious chicken and sides. Stopped in randomly and got myself a half chicken with gochujang sauce paired with a crunchy pickle. The sauce and crunchy breading on the chicken was delicious and the chicken was flavorful. Wasn’t thee most tender chicken but it was still great. The street corn was pretty good and easy to eat. The kimchi slaw was really incredible especially pairing a bite with the chicken. Sooo good."
+        },
+        {
+            "date": "1달 전",
+            "language": "it",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWa05rUlBWRTlHUnpodFUxWnRia05pZGtVNWQyYxAB",
+            "text": "Ci siamo fermati perché camminavanmo per la strada alla ricerca di un posto dove pranzare e ci ha attratto la scritta della menzione Michelin. Abbiamo preso entrambi il panino con il pollo fritto. Il mio (chickwick) non mi ha colpito particolarmente, il pollo era fritto bene ma il pezzo era un po' stoppaccioso. Il mio ragazzo invece con il Nashville è rimasto piuttosto soddisfatto. Cameriera passata 3 volte in 5 minuti a chiedere se andasse bene il panino, un po' troppo insistente."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kVGJFNUJOVGRyWTJ4WE1IVjVNSGhpWVdVNU1VRRAB",
+            "text": "Chicken is good , great size . The gochujang one was a bit too sweet, but it’s to be expected . I was very disappointed in the biscuit, it’s on the menu as a regular biscuit but it contains cheese, tons of sugar, and comes with honey butter not regular butter. Sugar overload. I wanted a salty biscuit especially after the sugary wings. Surprised they don’t mention the cheese on the biscuit on the menu. When I asked the waitress was annoyed because I didn’t mention I had allergies. I said, just because I don’t have allergies doesn’t mean I don’t have the right to know what goes on the standard biscuit that isn’t standard at all. It should be written on the menu that it’s made with cheese . The coleslaw was okay. I see why they lost their Michelin bib"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFM01FbzFOVnBHVjJKeFEyaGFTbWwyWjFkdlozYxAB",
+            "text": "WOW. Amazing fried chicken sandwiches. My mouth is watering just thinking about it... My fav is the Nashville, tho the Thai is amazing! It's all incredible. Yum yum."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GSWVqQkVjRVp0YURkdFYzTlVOVlJTZEhKZk0xRRAB",
+            "text": "Chick chick was a seriously fantastic place to eat. Its in the city, Upper West Side, so parking is on the street and its close to public transit. The service was friendly, quick and knowledgeable and the food....... oh goodness, the food.\nI wanted to try every single thing, literally. I would have been thrilled to have that ability.. what I did eat was absolutely incredible and the pictures are attached. The chicken bites had these amazing pops of spice and flavor, and the waffle chicken sandwich looked as good as it tasted; each bite was simply delicious. Next time, and believe me, there will be a next time, I'm simply going to use the menu as a food check list! 10/10 highly recommend!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CQ2NIRnRXbWw1UTJ3NVVVaGlZa0pVVVRoUFJuYxAB",
+            "text": "Somehow this place is Michelin Bib Gormond. That means excellent food for the price. I don’t think that’s possible here since it’s neither. Mac and cheese is definitely just craft with the liquid cheese. Potato salad is 100% just grocery store potato salad. Chicken sandwiches were fine, chicken was dry but the sauce makes it seem like it’s not, but the texture is just not the best. Tables are pretty small for two people."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sbWRYZ3dZVWhJYTNOWVZrbzRRa1pwTTFCa1MzYxAB",
+            "text": "We asked for advice to know the sizes of the chickens and the cashier just wanted to sell us a lot.\n\nSo we bought too much food, too bad because we don't like wasting food.\n\nThe chickens have a good taste though."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjMlJWQXdTRGRLYzIwelRqbEpjRmhITlZWRlJHYxAB",
+            "text": "The food was good, but very overpriced for what it is. Service was great"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKVU1WSXpTemg0VlZaM1pFa3dNRlp2V1dVMFJFRRAB",
+            "text": "Their take out quality is great, but getting it hot in person is worth it. The tenders are super, but so is the fried rice and mac. Come with a group and split a bunch of things and you wont be let down"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkQmFWOWZhemhwZEVORGFUaFJRemg1WTBsbk1rRRAB",
+            "text": "This place has the absolute best fried chicken in New York. The wings, tenders and heavenly bites are amazing, look no further and try the best in NYC"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkdVdFdGZRVFZHVUVKWVNVUlRaVTlWZFVwRFVFRRAB",
+            "text": "best chicken sandwich I've ever had in my entire life"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21RM09VaGtXVnBXU1VWWmVFRnZiMWgzT1ZKaVNVRRAB",
+            "text": "Chick Chick delivers a mouthwatering fried chicken experience that goes beyond expectations, both in flavor and service. The Nashville fried chicken sandwich was a highlight, crispy, juicy, and perfectly spiced, nestled in a soft, buttery bun with creamy slaw that tied it all together. The chicken and waffles brought a delightful balance of sweet and savory, with golden, fluffy waffles and crunchy, well-seasoned chicken. The truffle fries were crisp and addictive, with just the right hint of truffle oil to elevate them without overpowering. The fried chicken and mac n cheese combo was pure comfort food bliss, featuring creamy, cheesy pasta paired with more of their signature crispy chicken. On top of the fantastic food, the service was incredible, friendly, fast, and genuinely attentive, making the whole dining experience feel warm and welcoming. Chick Chick is a must-visit for anyone who loves bold flavors, hearty portions, and top-notch hospitality."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wVGVFRjZTVXd4ZDA1bVVVcFBibVp1VmxWeWRIYxAB",
+            "text": "I wish it were a chain"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SMmFFNW5NbkpUYW1aVGRtUnlSRmsyZGtGMmJrRRAB",
+            "text": "It’s clean. I got the chicken sandwich. The chicken is unseasoned, the pickles taste like nothing, the cheese has no taste. I saw a post on Instagram, it lied. A bland chicken thigh on a potato bun. That’s all it was, and it cost $17 and they had nerve to expect a tip… Never again."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOYVpHMDJOMUZOVkVob1ZuQnFRblpJTTFjeFltYxAB",
+            "text": "only discovered this place because the restaurant we meant to go to was full for Father's Day. I'm really glad we decided to go in, because the food was absolutely delicious. I'm usually not a kimchi fan, but the kimchi mac & cheese was great. the sweet & spicy crispy waffle chicken sandwich was also amazing. my only complaint was that the music was a bit loud, but it was tolerable since the food was so good. definitely want to go back next time we're in the area."
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHM1pEeXRBRRAB",
+            "text": "I saw a list of new Manhattan restaurants a little while back. I love supporting new businesses, and saw Chick Chick on the list. I know, I know…we already have tons of chicken themed restaurants. Chick Chick caught my attention though. They didn’t seem to be following the trends of other chicken restaurants, no. They were on their own wave, which I love. They offer what seems to be amazing Nashville chicken sandwiches, as well as what really caught my eye…the chicken and French toast dish. As I was skimming down the menu, this caused me to stop in my tracks, chile. It was enough for me to get on up to Chick Chick!\n\nI arrived, and really dug the decor. Just good feels, fun chickens on the walls, kinda giving an old school diner vibe, you know? Good music, good energy. I was seated and told the waitress I knew what I wanted, the French toast and chicken. She warned me that it’s more on the sweet side and asked if I were ok with that. I said, “girl, absolutely!” Lol I love me a sweet and savory combo, hear?! But I did appreciate the heads up. She also mentioned that I was gonna love it, which just furthered my excitement.\n\nOk, so this chicken and French toast dish is served with chicken tenders, apple chips, French toast and maple syrup. So she brings it out, and I was pleasantly pleased with the presentation. The first thing my eyes were drawn to, was the MASSIVE slice of French toast. I mean, she.was.THICK! It was a beautifully silky, creamy, custard-y brick-size French toast. It was nicely crispy on the outside though. I thoroughly enjoyed it. The chicken tenders were nicely done. Lightly seasoned, but seasoned enough. They were super juicy and crispy. I cut bite sizes of the French toast and chicken, got them on the fork together, and dipped them in what they called a maple bourbon syrup. It was definitely more like an icing. It was thick and rich, and delicious. It paired so well with the chicken and French toast. I did what I call, “icing skated” them around the plate to get every drop of the icing syrup. It was all disrespectful in the best way. I had to go and compliment the cooks after eating. They did an exceptional job!\n\nChick Chick is new and on the rise. If you want some good, fun fried chicken concepts, go check’em out!"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKMzZqQ3pnRRAB",
+            "text": "Ordered delivery from here, solid chicken tenders, which traveled pretty well!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPV3U0NzdTeDRxcEhnEAE",
+            "text": "Those wings... may seem a bit pricey at $24 for 10... But they are huge and will fill you up, and you'll tell your friends it was the best thing ever."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKUDhpT3kzM1ptb1VnEAE",
+            "text": "The wings are huge, if you get the 10 piece, you don't need a side."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VQQ202cTdYanZtRXhRRRAB",
+            "text": "Great Chicken!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQdWw3YnVuaXVLSXdRRRAB",
+            "text": "Stopped there for a quick lunch and was not disappointed! Service was efficient and very friendly and the food came very quickly and tasted amazing! We had wings, they were amazing, a sandwich, so tasty and truffle rice which wasn’t our favorite as it lacked truffle flavour but still was good 🤩 10/10 must try!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPNzFtY3lxME5UU3hBRRAB",
+            "text": "Most crispy and juicy fried chicken I've ever had."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKcWoxcUs2bm9tZWF3EAE",
+            "text": "Walked in by chance and was pleasantly surprised. The food is as delicious as it is visually appealing. The cuties at the counter are just the extra honey to the biscuit."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvODhqSUVBEAE",
+            "text": "I love this place."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJbG9XNDBBRRAB",
+            "text": "Food was amazing, the sandwhiches are unreal, Highly reccomend the spicy chicken sandwhich. Great dinner."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJenAzNm9nRRAB",
+            "text": "The food here is SO FANTASTIC — I’ve never had anything that I wasn’t impressed with; however, the prices have gotten so high ($23 for three chicken tenders and a biscuit, no other sides) that we reserve this restaurant as an occasional treat for ourselves. It never fails that the order is wrong every time we do takeout, which kind of kills the vibe and has me to the point of checking the order right there in front of the employees as they have sometimes argued with us if we check outside and come back in. Frustrating to see such fantastic food brought down by everything else that I’ve mentioned."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJMklIM3hBRRAB",
+            "text": "This place deserves its Michelin stars. This is a chicken place. Fried chicken, chicken tenders, bites, sandwich, waffles, all with an Asian touch. At no point the flavors feel regional. They are palatable to a large nationalities. The prices are very very fair. For about $16, you get very filling chicken sandwiches (sandwich, not a burger). Every flavor of burger is delicious. The sides are rocking. I had umami jalapeno chicken sandwich. It has beautifully fried chicken, fried onions, jalapeno coleslaw, and special sauce with a side of nice refreshing, crunchy pickle. The side was honey butter toast. If you don't want a meal or do not consume meat, come here simply for their sides and especially this toast. The toast is nothing like I have ever eaten. It is sweet with whipped cream, buttery-cheesy with just a right, subtle hint of garlic/umami. I paid $47 only for two of the above sandwiches and a side without tip."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3cE9HcXRRRRAB",
+            "text": "V good! High recommend great pricing"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3aEozc0lBEAE",
+            "text": "Delicious biscuit sandwich. Good for takeout, have to imagine it's great served fresh from the kitchen."
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzcGJ1dEl3EAE",
+            "text": "Update: we’ve gone here about 4-5x, mixture of takeout and dine in. My review went down to 4 stars overall as the food quality has significantly gone down. They are giving smaller portions, and some of the food items just aren’t reaching the same level. The kale Caesar dressing tasted like spoiled fish.\n\nOriginal review:\nDefinitely lives up to the Michelin bib. The kale salad is also delicious"
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMNTRQRGR3EAE",
+            "text": "New review:\n\nFinally was able to come and get a seat. WOW, INCREDIBLE food. Highly recommend. Please address the accessibility concerns though.\n\nOld review:\n\nBad accessibility. I can’t sit at chairs without a seat back, but they refuse to sit at their 2-4 person separable booths because they wanted to reserve it for ‘larger groups later’. Restaurant was near empty, maybe 6-7 other customers\n\nIf you have a wheelchair, back issues, and are in a group of 4 or less, AVOID"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfOC1fdDF3RRAB",
+            "text": "Always counting down the days until I can come back here. The KSG Sandwich hits hard."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmOWR2UHlnRRAB",
+            "text": "Delivered chicken sandwich, kimchi, Mac and cheese and fries - all great"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmbk9iZklREAE",
+            "text": "The KSG-wich is incredible! So flavorful. I’ve ordered to go a bunch from here and the sandwich holds up well. I’ve only eaten inside once. It’s cosy. The staff is friendly. I highly recommend going and getting a chicken sandwich. The fries are a solid compliment to the sandwich as well, crispy and warm."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmeGVDYmtBRRAB",
+            "text": "Excellent, beyond excellent\nBeen in New York for the christmas break and this has been by far the best food spot.\nHighly recommended"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmN015Z3JnRRAB",
+            "text": "The atmosphere is very nice with a good with an open bar, big window, and a modern pop vibe inside the store. The service is also always there and very nice and friendly. But best of all is the food and its affordable price compared to some of the best fried chicken dishes I have ever eaten. I really enjoyed the honey butter bread side, the hot chicken sandwich, and the chicken and French toast. The French toast was superb and I would definitely recommend the restaurant for anyone who likes chicken who is in that area of the Manhattan strip. I will come back."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2bEtHR3V3RRAB",
+            "text": "Absolutely delicious!  Reach in flavors. Great mix of spices. Def 1 of my fav fried chik places I've been to. The only thing is that it is smelly & very uncomfortable sitting.  Other than that, I highly recommend it. Staff was friendly.  Quiet tho. Overall ok service."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQOHRUdFN3EAE",
+            "text": "Really delicious chicken!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQd3UzM3FRRRAB",
+            "text": "Hands down one of the best! Owner is super nice too."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQaVAyTmZREAE",
+            "text": "CHICK CHICK is an absolute gem. Hands down, it's the ultimate destination for crispy, savory, and insanely juicy Korean fried chicken in the UWS. Do yourself a favor and grab an extra order of Korean radish pickles—they’re the perfect match for that tangy, spicy kick in the sauce."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzdmNLS29RRRAB",
+            "text": "Best fried chicken sandwiches! And the kimchi Mac and cheese was delicious too. Very nice service as well. Will definitely come again!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzMGIyNVF3EAE",
+            "text": "Very very good! And I’m picky."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzN0tQUHJnRRAB",
+            "text": "loved all the dishes i got here! highly recommend the sandwiches, the biscuit and the honey butter bread. by far the juiciest chicken sandwich i ever had"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNydkpxbmVREAE",
+            "text": "This is arguably the best fried chicken spot in NYC. We ordered the half chicken with soy garlic sauce, and it was absolutely worth it given the generous portion. The chicken was incredibly crunchy and crispy. I loved it. We also tried the dirty truffle rice, which was delicious. The truffle flavor was mild, but the rice was well-seasoned and perfectly cooked.\n\nUPDATE: Ate here for the second time. And it still is very delicious. We tried the sweet gochujang flavor and it was good!. But I still prefer soy garlic. Prices here are great! Value for your money 👌🏻"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3ckktbGJBEAE",
+            "text": "If you are a chicken lover or looking for a chicken experience, this is the place for you.\nWe tried a couple of the signature dishes such as wings, the original waffle sandwich, the fried rice, and the salad with tenders, and everything was super tasty.\nThe chicken was crispy and juicy, the salad was super fresh (a great option for vegetarians), and the fried rice was filed with flavour Korean style."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYaWEtV3lRRRAB",
+            "text": "I came here for lunch and ordered 1/2 a fried chicken with hot honey with some truffle fries and pickled cucumbers. It was delicious !!! It's just too much for one person, so it's better to share. I'll be back next time I visit NYC ☺️"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxaFl5b09REAE",
+            "text": "As I was heading home my eye caught this cute place around the corners of Amsterdam Ave. After checking the menu I decided to go in and have dinner. The staff was warm and welcoming. They sat me down, offered me water and handed over the menu. I knew what I wanted. The KSG chicken sandwich and the chick chick fried rice. The chicken tasted clean, crispy and flavorful. The fried rice was good although I found the pieces of sausage in it a bit heavy. Overall a good experience to take a friend and have a casual and quick dinner."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKa3ZiWGRnEAE",
+            "text": "Really liked this place! I had the sweet and spicy waffle sandwich and a side of truffle parmesan fries. The chicken was tender, juicy, and delicious. The other toppings and the fries were also excellent. The sandwich is absolutely massive - I had to eat it with a fork and knife and could barely finish. Could easily feed 2 people. Planning to go back and try the wings sometime."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKcEpXd1pBEAE",
+            "text": "This is casual dining at its best. Food was so delicious. The fried chicken is so tender and juicy. The biscuit with hot honey.. chefs kiss. The sweet potato fries were hot and crispy. The staff were efficient and friendly\nWe will be back. Highly recommended"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYbTZMMjZRRRAB",
+            "text": "Chicken wings were disappointing. Like they were previously frozen, or maybe not dried properly, as there was a distinct boiled flavor profile. BUT the Mexican street corn and biscuit were divine, and would definitely return just for those."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMb0w3T01nEAE",
+            "text": "THE BEST and TRUE Korean style chicken and chicken sandwich ever! The moisture and the batter is just right to call it as Korean chicken wings and drumsticks!! I was very surprised to experience Korea here. Definitely going to try everything else. Fun note, the owner has first store which is ramen place in UES. So I guess their ramen is good? They have it here l, included in the menu. Please try!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5c3RxZDRBRRAB",
+            "text": "A+ ok hear me out, perfect spot after Central Park. Make reservations or do the food delivery/to go. We dined in and what an experience. Upper west side Manhattan dining experience for great price. We had too much food so had some to go and had a late night snack! Chicken wings weren't soggy,  Mac and cheese were great! I'd say the chicken strip, chicken wings, and Kim chee fried rice were a good choice. Kids (4,7,9) loved the wings and Mac&cheese.\n\nOnce we got back to our hotel(NJ), the wings were still good !!! BTW the wings aren't small\n, great size!!\n\nSo that's why I say if you show up and it's full, take it home! Servers were great and cooks were great. Bussers worked their buttons off!!! I'd sat 5 star dine in or to go!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIenR1QWdRRRAB",
+            "text": "Believe the hype. This Michelin Guide recommended restaurant serves amazing southern styled fried dishes with a Korean twist. The food’s quality showcases the level of care the restaurant puts into each order and is delivered with wonderful, attentive service. All within an affordable price range, Chick Chick deserves to be a must-go destination for visitors and locals alike."
+        },
+        {
+            "date": "2년 전",
+            "language": "zh-Hant",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaaWZxbEJBEAE",
+            "text": "位在上西城和西哈林的交接處，乍看店名和菜單主要品項或可定位為韓式炸雞店，然後也有供應一些韓式家常品項如辣炒年糕等，這次所試原味炸雞不沾醬時覺得還好，似乎有些些柴，不過醬料沾滿之後口感就很剛好，看來在chick chick吃炸雞醬料沾好沾滿是必要。chick chick有一在一般韓式炸雞店可能比較不常看到的品項 - 炒飯，我認為炒飯更是chick chick的一絕。這次所點的松露炒飯實在是驚艷到不行，飯本身鬆軟有香氣，這香氣很大部份來自松露和蛋的完美配合，此外另灑上的蔥絲和辣椒絲在亞洲比較少見、比較是西式手法，不過這裡是美國所以很正常，只沒想到這另添放的蔥絲和辣椒絲和炒飯一起入口後又是另一番層次的美好。總體而言我認為在紐約上西城的chick chick的松露炒飯端到亞洲任一角落也一樣可位列上乘，如此水準的炒飯相信絕對是紐約的”best in town”(之一)。\n\n建議可和west Central Park的點併訪，炒飯必點。"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqbWM2MVhREAE",
+            "text": "Although the place is fairly casual, the food is excellent. They serve Korean style fried chicken among other things. We greatly enjoyed sitting at the counter and watching the cooks prepare the food at an impressive speed."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzbWMycXZnRRAB",
+            "text": "I had a really unfortunate experience here about fifteen minutes prior to my writing this review.\n\nI stopped into this place after leaving a funeral service and didn't really want to engage with people so I stepped aside, pulled up the menu and placed my order.\n\nBecause the place was pretty empty and there were open tables and a completely open bar I let the woman at the counter know that I ordered online but I would like to dine in.\n\nThe woman seemed annoyed and told me that I couldn’t dine in.\n\nWhen I asked her why I couldn’t dine in she said because I ordered for pick up I would have to leave with my food. I told her that it didn’t make sense to me. She said that she doesn’t make the rules it’s management.\n\nAnyway, I would not go to this place ever again."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLNk9lRVJREAE",
+            "text": "The chicken sandwiches here are *chef’s kiss* The Nashville definitely has a kick but the white sauce balances out the heat perfectly. The K&Q (kale and quinoa) salad is the most delicious salad I’ve ever had. Their biscuits are also…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURxeWZfWFJnEAE",
+            "text": "I didn’t expect much from a Korea fried chicken place outside of ktown but this was literally the best Korean fried chicken I’ve ever had (including Seoul!). The chicken was so juicy, tender on the inside, and super crispy crunchy on the…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHdnFiT2FREAE",
+            "text": "The food at chick chick was great! The service was great too. The chicken with French toast and French toast were the same price, so I would just order the chicken with French toast next time. The Hot Chicken Sandwich and Nashville chicken…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNscXNtbElREAE",
+            "text": "Chick Chick in New York was great! They serve Ramen, Korean Fried Chicken and other Asian cuisines. We visited on a Saturday afternoon and it wasn’t busy.\n\nWe got the Nashville Hot Chickwich, Thai Sweet Chili Chickwich and Truffle Parm Fries. The chicken sandwiches hit the spot, and each sandwich portion size was just right for 1 person for 1 meal. The fries served as a nice and flavourful accompaniment.\n\nTheir drinks menu isn’t extensive, but they still have a decent collection of alcoholic and non-alcoholic drinks. The waiter who served us was prompt and polite.\n\nI’ll be back here whenever I’m in New York and in the area."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGNnZ2Z1dREAE",
+            "text": "This place is so cute and welcoming. They cook the food fresh and serve it to you. The chicken is very crispy, but lack a bit of flavor. I didn’t really like how they ask you for a tip after you already pay. In my 30 second video, I rate the food all the food I got. Check this place out, you’ll really like it for a night out with a friend or yourself."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxdHM3cGRnEAE",
+            "text": "finally tried this new place called chick chick which opened recently in the neighborhood. tried the wings and the tenders (got a different sauce/dip - soy garlic and korean sweet gochujang which were actually both pretty good with each…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNWb2M2eGF3EAE",
+            "text": "If you want the best fried chicken in New York City, go to Chick Chick on the Upper West Side!\n\nThis spot, opened by Jun Park, who runs Jun Men Ramen Bar in Chelsea, has become one of our favorite spots for dine-in, takeout, and delivery.\n\nI don't know what they do to the batter and chicken, but it's perfect. Crispy, crunchy, full of flavor, and not too greasy.\n\nPlus, the sauces are to die for. You have to try the Korean Sweet Gochujang.\n\nIf you're gonna go to one spot on the UWS, go to Chick Chick!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4NThHVHJnRRAB",
+            "text": "I could have sworn I wrote a review after our first visit. This is now our third time eating here. In this case I am way over due on it. First I have to say, DON’T SLEEP ON THIS PLACE, everything we have eaten here is beyond delicious. You wanna Guy Fieri it and go to flavor town, then look no further. We tried something new this time. I may have to come back and write a second review on behalf of our first two visits. The fried rice is so many flavors, the smokiness of the Chinese sausage with the pickled kimchi, the fattiness of the egg yolk is just everything you need, salt, acid, fat. How everything compliments each other is something everyone needs to experience. The chicken wings, I mean, you want sauce and crunch? They know what they are doing here. The Gochujang is the perfect balance of sweet and spicy that won’t kill you. And the customer service is always 10/10. Everything has been a 10/10."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHemVQMk9BEAE",
+            "text": "5 stars for the Nashville hot fried chicken sandwich, which is great fusion food: American-style chicken sandwich with the crispiness of Korean fried chicken and Nashville-inspired spices. (It’s not real Nashville-style hot chicken… we get excited every time, but for some reason no one does it right with the oil sauce—but that’s almost beside the point.)\n\nWe also got the chicken wings with soy black pepper sauce. The sauce was cool, but the chicken meat was tough and tasted like it had been overcooked or reheated or something. Maybe just a bad batch—they clearly know how to make fried chicken."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURldHBianNBRRAB",
+            "text": "The fried chicken was really good!! The truffle parm fries were the best. The chickwich was yumm. We also had the ramen which was pretty good too although a bit creamy. I would definitely go back for the fried chicken!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIc19IZk93EAE",
+            "text": "The chicken is delicious but they’ve changed their menu from selling biscuits at $4 to selling hot honey bread at $11. Imagine my surprise at receiving the exact same thing, just at 3x the price!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsNktpbUF3EAE",
+            "text": "Amazing fried chicken! We had our last meal in NYC here with friends and it has become one of our most memorable meals! We got a mix of fried chicken, wings and tenders, all with different sauces. Paired with pickles, slaw and the Chick Chick fried rice, the meal was fantastic!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqbnNyWkNBEAE",
+            "text": "Literally the best chicken sandwich I have EVER had in MY ENTIRE life.\nInsanely crispy and light, absolutely amazing! The sweet potato fries were also wild, beyond flavorful and soft.\nNothing in this restaurant tasted oily or felt heavy, everything was absolutely delicious and flavorful.\nWe listened to k-pop (I feel like it was black pink’s greatest hits?) and the staff was very friendly. I appreciated the philosophy and vibe of the open kitchen.\nLiterally I want to bring everyone I know here."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR0dnFqckxBEAE",
+            "text": "Wow wow wow. Randomly came in here for takeout once and was so satisfied with the flavor of the half chicken we came back for a full sit down meal. We had the whole fried chicken, half Nashville hot half sesame soy, excellent excellent. The truffle fried rice was spectacular! The spot is cozy for the amount of ppl that go in but it was worth the brief wait. Great attention and service too!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3NGNhRmdnRRAB",
+            "text": "My boyfriend had the Upper West waffle and was very impressed. I had the wings and was also very pleased—not too much breading and not greasy. The staff is very friendly :)"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtX3N6eHhnRRAB",
+            "text": "soo yummy! Chicken was tender, skin was crunchy, and filled with juices inside -- house fried rice and kimchi slaw were delicious too. 5/5 would recommend for a fried chicken craving! staff were nice"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1bjRES0hREAE",
+            "text": "My rating: Fire🔥\n\nAmbiance: Just above Average 🙃\nThis I like that this restaurant has a sitdown area but it seems like it doesn’t work. Inside are slightly small booths along the walk that dont fit much of anyone. The tables aren’t that wide so its hard to eat if your order multiple items. They do have an outdoor dining but if cold, not so ideal. I do love how you can see them making the food behind counter. Its very Hibachi style kind of.  I was looking like they getting down back there lol.\n\nService: Fun/ Attentive 👀\nMy server was really fun to have as he was making jokes and gave me the dos/donts of menu lol He kept coming to see if the hot chicken took me out yet but I was good! Service here is very good. I also like how u can pay in front or at table. Lost art lol\n\nFood: Tasty/ Hit the spot 😋\nThe Honey biscuit was my favorite because its so soft and well seasoned. It taste like homemade biscuits from Grandma lol. The Ramen had great taste, but I would have love more Ramen but it was goodness! Last but not least the chicken sandwich was bigger than my hand and held my own. Very crispy and a great kick to it. Not too spicy but ull break a sweat. Will be back for chicken strips that are sixe of ur body lol"
+        }
+    ],
+    "reviews_count": 80
+}

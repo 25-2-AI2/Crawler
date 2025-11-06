@@ -1,0 +1,432 @@
+{
+    "name": "Gai Kitchen",
+    "place_id": "ChIJT_0oqlpbwokR6wjYsXzMWL8",
+    "grid": "MN2",
+    "address": "51 Mott St, New York, NY 10013, USA",
+    "rating": 4.6,
+    "user_ratings_total": 566,
+    "phone_number": "(646) 861-3798",
+    "reviews": [
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25nMlQxQkdOa3BtVW1oTlJpMUdhMEl4U3pWR1dVRRAB",
+            "text": "The restaurant deserves my enthusiasm. The cuisine exceeded my initial impression. This spot has remarkable qualities. Employees here clearly explain daily specials. I'll be back here for sure."
+        },
+        {
+            "date": "2일 전",
+            "language": "id",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OdGMxb3RiRlJWTFRjeUxWcDNhMkZSUXpWWU1rRRAB",
+            "text": "Sang bagus"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWTGVIRnllams1U0hwUFdtOXNXREJ5WDFkRGJYYxAB",
+            "text": "delicious 🔥🔥🔥"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBMWNUUklURVF3WmxkYWRUTnROMnhTTkhreFZWRRAB",
+            "text": "Really tasty and convenient Hainan chicken rice!\n\nThe spring rolls were also amazing - better quality than your usual spring rolls"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOd1pGUk1NMWQzY1hWcVdYa3hTbXhOTFdNd1UwRRAB",
+            "text": "Small eatery for a quick bite. They are a bit skimpy when it comes to the amount of chicken they give you, but the food tasted good at least."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOWlNHRm5VbmRIUXpFNGFWTnhZbDloVm1KRVlXYxAB",
+            "text": "1) main dish was not hot (warm not to say almost cold). Appetizer was burning hot\n2) no restrooms. I couldn’t wash my hands\n3) I pointed at “crab Rangoon for 3,70$” and said “only one piece please”. I was given 4 and charged 7$. Not nice\n4) food is mediocre at best\nWon’t come back. Don’t recommend"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xacFpUYzNZVzlCU21kVFZGVllWVWx2TUhSYVFsRRAB",
+            "text": "Sometimes when my drifts off during a work meeting, i find myself thinking about how good the good the rice tastes and how they’re able to serve the steamed chicken for so cheap"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21waVJVTnRVWGhKVEV0ZmFrcHlOR2x3Y1hWNFIyYxAB",
+            "text": "The staff was nice. However, the food was not good and the drinks were terrible. I regret speanding my launch money here."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poWWFGWlNTRU0yTWs5WFJIbEVabU4zVlZwd2JYYxAB",
+            "text": "I only had the cream cheese crab rangoons which were really good. The were overpriced in my opinion. $8 for 4 but they were very tasty. Didn’t try anything else so I can’t say how the other food was. The Rangoons definitely satisfied my craving."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5cFJFaHZXR2hvVm1OMVYxOTVNREowYm5GM1lrRRAB",
+            "text": "Best hainanese chicken for the best price!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwcVZHNHhaSFo0UkVkdU5qbE1XalYyVlVVMlZrRRAB",
+            "text": "its ok"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twblFuWTNSRTh3Y3padldubE5hM3BNUm1SeVRFRRAB",
+            "text": "Normally the chicken here is delicious but not this time. Dry and burnt. Feels like last nights leftovers. Never again"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkMVNYVjZUa0oyVTFKTk4zbHNlRlpuUVc5SFRuYxAB",
+            "text": "Wonderful food and lovely staff. Sometimes you can see local influencers dining in too! I saw a youtuber when I was getting my chicken rice haha, which also proves how good this place is"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wcldpMDFPR1J5VFhWV1FrZG1SMHBOWW5scVpHYxAB",
+            "text": "Hay que vivir la experiencia, muy concurrido"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aSlYySjFRbEozUzBKSlNYTlZkVkF0TlZWVVRtYxAB",
+            "text": "I love coming here for the Hainanese chicken over ginger rice, it’s the best in Chinatown. Definitely will get a bang for your buck here!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZMFkwbFFiMFoyU1MxUVFXbFNTbXhaWTJwWk9GRRAB",
+            "text": "Ordered roasted chix w. side red curry & scallion pancake. Every dish is delectable."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aa1l5MXZURVI2WlcwMmNWVldUblJMZEd4UFJFRRAB",
+            "text": "good food"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wdE5EWkpVbU5VWWsxbGMxSnZia05ZUm14NllYYxAB",
+            "text": "This place is extremely affordable and the chicken is nicely made. My favorite was the fried chicken meal. The skin was crisp and the meat itself was juicy. The roasted chicken comes in second and was nicely done. The charred parts weren't rock hard, and had overall had a good amount of flavor.\nOnly problem I had was the chicken cartilage but that's normal.\nThe rice lives up to its name and flavor, it was extra gingery and had ginger pieces. Personally, I am not a fan of ginger and would just get the plain rice next time but for customers who like that extra spice, def get the ginger rice.\nTheir fries are amazing too. I'd love to comeback to try the chicken wings and curry puffs."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twQ2FESk5hRmg2UjJnd2RXRXdha3RLUW10YU1GRRAB",
+            "text": "The Mixed Steamed and Roasted Chicken was delicious. The cashier was polite and friendly. The restaurant was spacious with lots of seats and tables. For $10.5, this is a great deal. Recommended!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3NGQyOTVVMnBsYm05dmEwZEZjbnBoYUhRdFMxRRAB",
+            "text": "A little clean shop serving Thai-style Haianese steamed and roasted chicken, fried chicken, spring rolls and more. Very healthy, but wasn't as flavorful as I expected (I like the SIngaporean versions better I guess!). The ginger rice was very strong ginger.\n\nI really liked their soup, though it was very heavy on the white pepper (which I like, others may not)."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25veFdtUktiamhZWlhkclVUVmxkVkZRU1VKVWFWRRAB",
+            "text": "Chicken and rice was alright, very tender. Really loved the chive cubes, freshly fried , crunchy and flavorful. As for the fish cakes, it’s very lemongrass forward, not my thing but if you’re into it , they are also freshly fried and have a great texture."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKeldsQlhjRnBZUVc0eWFWbzBSMWRmU2tsd1dGRRAB",
+            "text": "After we placed the order on the machine #128. We waited for almost 30 minutes. Everyone behind our order already got the food, up to #138. We went to follow up with our order, the lady looked at my husband like he’s crazy. No apologize at all. Definitely not coming back and not recommending it to my friends."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0TFprY3Rla1pXYlRCSU9VTlRaV3RJZFVsMlJYYxAB",
+            "text": "The Crispy fried chicken meals was mind blowing. It's crunchy and savory whilst also only giving out clean pieces of chicken. No nasty fatty bits. The rice and red curry worked together like prime Kobe and Shaq. Just a slam dunk meal. The surprise winner was the pink milk (which I believe to be bubblegum flavored) it worked really well to quench the sweet heat that you get from the chicken and curry. The little table and chairs were cute and supplied lots of space for other hungry shoppers."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWSVpqbHZOV1ZqWVVSU1RIaElSR2N6YW5jdFkxRRAB",
+            "text": "Gai Kitchen serves up the most flavorful Hainanese steamed chicken and Thai-style roasted chicken over ginger garlic rice for such an affordable price!\n\nThis fast-casual spot is cozy, budget-friendly, and will teleport you to the streets of Bangkok with their simple yet authentic menu."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWVVgySXdVV1pKVURGVVpuRmZSMlphYjFsaldYYxAB",
+            "text": "Dropped in for just a snack and got the Crab Rangoons which for some reason I feel are so hard to come by in nyc. These were great! The filling was smooth and had nice flavor, and the dough was very very crispy which is what makes or breaks a rangoon for me so I was happy about that. My only gripe was that the amount of sauce was sooo small and definitely not enough!\n\nAlso had a Thai Tea which was not too dense and rich, it was more of a refreshing and lighter, yet still creamy thai tea which was exactly what I needed in the moment so it hit so well."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21waldsOWhZeTAyTkZSQ2RtOXBWM0ZpWHpOUGFXYxAB",
+            "text": "I stopped here for lunch and found the experience to be average. While the food was acceptable, the selection was quite limited. The roasted chicken had an unusual flavor that did not quite meet my expectations. It is a convenient option…"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psMGFrWjZNVFZyT1hCSGQwVndiM0ExZUZCaWRsRRAB",
+            "text": "Liked this place a lot and ordered takeout here multiple times because the chicken are very tasty. But this time I found two hair in my food  (I stopped eating so idk if there were more). They also forgot to put the coke that I ordered in the takeout bag. 😞…"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0T1dFNXBNVlJPT1U5dVZYaHdRazFOYmtjM1owRRAB",
+            "text": "Im pretty disappointed. I ordered garlic wings with fries. I came all the way from Brooklyn. It took over 30 mins to receive my food while they were serving others who odered after I did. I was still forgiving because things happen. I got home and ready to eat only to see my wing still had feathers on it. I lost my appetite and won't be coming back"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2OEtqMWtnRRAB",
+            "text": "CHEAP EATS ALERT!! You can get a hearty bowl of delicious hainanese chicken rice starting at $6.5 in Chinatown. Gai Kitchen offers thai style hainanese chicken rice and appetizers with most items under $10.\n\nMy boyfriend is a self-proclaimed hainanese chicken expert. He approved their chicken rice and said we should visit more often. Given how affordable and tasty the food was, we’ll definitely come back.\n\n＊Roasted Chicken Ginger Rice (L) $9.5*\n＊Hainanese Chicken Ginger Rice (L) $9.5*\nSmall starts at $6.5 while large is only $9.5. They don’t skimp out on the amount of rice and chicken while keeping it affordable. Their chicken was tender and the sauce on the side further enhanced the flavor. The ginger rice was fragrant and delicious.\n\nWe added Red Curry ($3.75) to pour on our rice. It wasn’t spicy and had a rich coconut milk taste.\n\n＊Chive & Scallion Pancake $4.5*\nThe pancakes came in 6 pieces, served in mini cubes. We didn’t know what to expect but it turned out to be our favorite appetizer! It had a crispy and charred outer, while the center was as chewy as mochi.\n\n＊Spicy Wings $10\nI am obsessed with thai zabb seasoning so I was excited to try their wings. It was spicy with a hint of citrusy note. The chicken skin was perfectly crispy while the inside was still juicy.\n\n＊Thai Iced Tea $3.95\n＊Pink Milk (Nom Yen) $3.95\nThai iced tea was great here. Made of sala syrup and cold milk, thai pink milk was described to taste like strawberry milk. We thought it looked and tasted like Pepto lol."
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmd3RqOXB3RRAB",
+            "text": "as someone with experience in the industry, let me be clear: serving food at the wrong temperature isn’t just lazy—it’s a safety hazard. food that’s meant to be hot but arrives cold puts customers at risk of foodborne illness. that’s not a minor mistake. that’s negligence.\n\nwhen i brought this up, i was given the excuse, “i just took it out from the rice cooker.” that’s utter nonsense. if it came out cold, then your holding process—or your rice cooker—is failing. either way, it’s your responsibility.\n\ncold rice. room temperature chicken. no apology. no corrective action. just brushing it off as “how it’s meant to be.” if that’s the standard you’re proud of, it’s honestly embarrassing.\n\nwhat’s worse? the food used to be much better when this business operated from a food court. now that it’s a standalone shop, the quality has tanked, portions are noticeably smaller, and the crab rangoons are literally empty shells.\n\nif you’re planning to eat here, expect cold chicken rice, excuses, and disappointment. this place clearly lost its standards—and its respect for paying customers."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyeE5iSjNRRRAB",
+            "text": "Food is great, I ordered one large steamed and one large roasted hainanese chicken with ginger garlic rice. Each dish came with half a cup soup which was flavorful and hot. Ginger garlic rice was really good ! The steamed chicken included a spicy dressing, but the roasted chicken had more of a savory dressing. The portions of the chicken to rice ratio were off. I understand sometimes photos would not be an exact match to the real thing, but the chicken portions did not look “large/8oz of chicken”.  Ordered a Thai tea and spring rolls as well and those were decent. I ordered a “son in law egg” which was supposed to be to be runny inside, but the egg I received was just a soggy overcooked dry egg for $1.90. That egg was not worth it. My total was $28.60 for two people, so it is more of a cheap quick and easy - order and sit type of eatery. If you pay in cash there’s a discount. The atmosphere was a bit awkward as there was no music, so any conversation in the store can be heard by someone else on the other side of the store. Overall the flavors are there for the chicken dishes, but the portions could be bigger."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5Mk5uQ1h3EAE",
+            "text": "Food was delicious and staff was very helpful. The price is affordable too! Chicken was tender and juicy. My son really liked their pink milk. Fish cakes were yummy and a little bit spicy but tolerable."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzLUxtQkl3EAE",
+            "text": "enter this no frills shop to surprise your taste buds. the Hainan chicken is silky and flavorful and mostly bone free, an unexpected and wonderful surprise. the ginger rice coupled with the delicious sauce rounds out the flavors well. for 6.50 for a small plate, it’s more a way to decide whether this place is for you - an introductory serving, so to speak. I will be back for more.\nI also enjoyed their pink drink, made with sala syrup."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsT2FVZ3lRWEJPVFhwbmRGZERTSFJEZFZscmMyYxAB",
+            "text": "Really enjoyed the large fried chicken meal! 🍗 The chicken was super crispy and juicy, and the portion size was more than enough. Rice and veggies balanced it out nicely, and the sauce was a great touch. Definitely worth it if you’re hungry — I’ll be coming back for sure!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkN01ldUxBEAE",
+            "text": "Discover a culinary gem at Gai kitchen in Chinatown inside the Mott Street Eatery. Their Hainanese and Thai style chicken is so tender , juicy and flavorful - all at an affordable price. Don’t miss their enticing appetizers, including fish cakes , chive pancakes, chicken wings and more. Stop by for a delicious and budget friendly experience that will leave you craving more."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRbzlXTVlREAE",
+            "text": "Cheap, fast and tasty meal. Got the Haianese chicken with ginger rice. Meal just tastes very hearty, simple but delicious. The pink milk also caught our eye, tasted like medicine BUT in a good way?? Really refreshing."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURsbU9iQ2lBRRAB",
+            "text": "It's a stall in a food court setting inside the Mott Street Eatery just north of Canal Street.\n\nGai means chicken in Thai. So you can pretty much guess chicken is their specialty. Actually they pretty much have 2 main dishes to choose from: Hainanese chicken (steamed) or Thai chicken (roasted).  The latter looks much better though taste-wise they are comparable.  Neither has strong taste and rely on the sauce the comes on the side.  Chicken are cooked perfectly, tender and juicy, and expertly cut with skin still attached and bones removed.  You have a choice of white rice or ginger rice.  Definitely go for the ginger rice because for me it's the soul of the meal here; it's what defines Gai Chicken and the reason I would come back again.  So good!\n\n2 sizes. $5.99 for small and $8.99 for large. The latter also come with a small cup of broth.  We've always ordered the large during the 2 visits so far.  There is in fact a third dish, the fried wings, but the main dishes have been so good that we couldn't skip.  Maybe next time!"
+        },
+        {
+            "date": "7달 전",
+            "language": "vi",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRd1pHdFFnEAE",
+            "text": "Ngon! Ngon! Ngon! Nhấn mạnh 3 lần cho biết nó ngon, bổ, rẻ nha. Cơm gà Hải Nam ngon, gà Thái ngon. Đừng mua gà rán, khô lắm. Bánh cua ngon nha. Thai milk tea cung ok nè. Quán phục vụ dễ thương, đồ ăn ra nhanh. Nhớ trả bằng cash sẽ rẻ hơn nhiều bằng thẻ nha."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xseExVUlpiRTl4YjIxUFRscGxTMkZuT1hObWNHYxAB",
+            "text": "My wife and I were very dissatisfied with our experience and the quality of food. The food was barely lukewarm, leaving us concerned about the overall safety as we wondered if it had been sitting out for an extended period of time. Employees didn’t seem to care when alerted nor did they offer up any reasoning. Dishes in question were the Hainanese Chicken with red curry and ginger garlic rice."
+        },
+        {
+            "date": "5달 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJT041Smk4cFpmTmRREAE",
+            "text": "202505\n小份雞飯付現是$6.5 非常便宜！也蠻好吃 還可以選薑飯"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqbnJmeHp3RRAB",
+            "text": "Love that they provide a small portion option which is very much needed everywhere to prevent food wastage (and very friendly pricing)!! The rice was served at the right temperature and very fragrant (ginger rice), the steamed hainan chicken was very tender with good flavors (did not taste like frozen chicken) and it was boneless, and the chilli went very well with everything. The only (small) downside was that there’s no soup that comes with it. Please support this place and I’ll definitely be back again! The pink milk was also an interesting drink."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wTldteHlkVTVZUVVkMk9XTTJVM2hTWTJObVRGRRAB",
+            "text": "The chicken had too much fat on it both the fried chicken and the roasted chicken.  It also had stuff on it that should have been removed when the chicken is washed/cleaned prior to cooking.  The staff were not friendly/helpful.  They did not know what was in the green sauce, this is an issue for me when it comes to food allergies.  I ate some of the fried chicken but threw out most of the order.  It was gross."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREbnBfYkx3EAE",
+            "text": "Wife really likes the Mixed Steam and Roasted Hainanese chicken with white rice. The chicken goes well with the sauce they provide. Spent only $10 cash. They give complimentary soup in a cup which is really good. Would recommend to try."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2OU5HX2Z3EAE",
+            "text": "Easy - fast - tasty.\nDon’t expect much for aesthetics but the food is great and the staff is friendly.\nGreat for a fast lunch (especially if you have jury duty and are unfamiliar with the area)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURiMk5hRVl3EAE",
+            "text": "It’s actually my second visit here. The Thai chicken is delicious and reasonably priced, aroi mak mak! The egg yolk in the son-in-law eggs should be melting, and I think they could improve that. The Thai tea has a lot of flavor and was nice."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEdmVfUDRBRRAB",
+            "text": "Order on the kiosk. Wait for your number to be called. Chicken cooked nicely. Ginger rice is ok. The soup on the side is a win win. Most side soups are boring. This soup taste fresh and nicely seasoned. The side spicy tamarind sauce for me is the best part!! Been here a few times. Mix chicken rice for $10."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxaE1fYVBBEAE",
+            "text": "🙌 Chicken is juicy and flavorful. SOLID lunch for less than $10 (chicken rice was about $6). Selfishly - I think they should raise their prices just a little bit (I want them to stick around for a long time to come)."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfMXR6NWlBRRAB",
+            "text": "Cheap & Delicious.\n\nThe roasted chicken dish was awesome! I got the small thai style roasted chicken with ginger rice. It is only $6.5. Bring cash to avoid the credit card fee. Fyi if you don’t like ginger then go with the white rice option because there are chopped ginger hidden in the ginger rice. The chicken itself is already tasty, and when top with the sauce, it’s chef’s kiss.\n\nThe small size might look small, but it definitely fill you up! It is perfect for those who want to do food crawl in chinatown since you won’t be too stuff to try other food around the area."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SWFptTjNUaTAxYkVacGQwWkhZMk5TWWpkWVJIYxAB",
+            "text": "Overall mediocre to bad. Ordered the Thai style Hainanese chicken and scallion pancake. Chicken lacked chicken flavour and the sauce didn't do much. Avoid the pancake. It's very greasy, deep fried chunks. The flavour of the pancake could be described as fried. That's all. No other distinctive scallion flavour.\n\nPretty disappointing.\n\nOtherwise service was fine and the place looked clean. Wouldn't come back though."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJT21xLWFkMWVTN3RnRRAB",
+            "text": "The food portions are abysmal because 5.50 for one chicken puff is absurd levels and the chicken over rice is the diameter of a paper towel roll I know 6.50 for one small is well going to be small but not bounty paper towel small if you want cheap food just go anywhere but here."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205d2VrdFhaR1pLTlRBMU5XVlFNbUV0VTBsbllsRRAB",
+            "text": "When they first opened, it was decent steam chicken. Its not better than the Eim spot in Elmhurst but its good for chinatown. But went subsequent times for the steamed chicken and it wasn't good.  Chicken lacked flavor.  Wanted to give it one more try with their roast chicken instead, and it's was bad.  It was really dry meat and lack flavor as well and on top of that, ginger rice was hard.  Maybe its leftover rice and chicken since I went when they first opened but that would make it worse if they did served that.  Unfortunately this place misses. Better going to Elmhurst or 3 roosters"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SU1QzcFZPSGQwYUd4VldqWjJiR1J1ZVMxZlVWRRAB",
+            "text": "The best thai chicken rice in New York! So cheap and delicious! The atmosphere is clean and a lot of space! Perfect must to try and eat here!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3aUxpa1RBEAE",
+            "text": "Love this place. Always on the list as one of the places to get food from whenever we are in the area. I’ve come here once or twice just to get food too. I usually get a few orders at a time either for the family and friends to bring home or to bring to work. For the price, it’s hard to beat. I liked that they have pictures of the food up on the screen/TV. I like to know what my food looks like before I order it. I’m a visual kind of a guy :-)\nMy kids love the pink drink and the watermelon slushie. My wife and I usually get the Thai iced tea. As far as food, we like everything, we mix it up but our favorite is the steam chicken with ginger rice and  comes with cucumber, have to get the sauces with it. My co workers and friends who tried my food from this place always ask where this place is located. Staff is pleasant to deal with. Friendly,. I’ve always gotten smiles.  Dont remember a time where it wasn’t pleasant.\nDefinitely a stop for us."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toR1lVUlRUMjVHUmxGaFEwZHJNblZLV2s0MFJuYxAB",
+            "text": "Pretty delicious but for the price the box sizes are extremely small even compared to the other local places"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSZzlIdkFnEAE",
+            "text": "I'll never forget when I was in Mexico City and we had a tour guide at the pyramids of Teotihuacán. He mentioned he had never left Mexico but put so eloquently \"I have not been around the world, but the world has been around me.\"\nI often find myself replaying this quote in my head when I am in New York City.\nGai Kitchen is a fantastic example. It is located deep in the heart of China town in a food court setting with folding tables and cheapish chairs, with much of the signage being in Mandarin. To me, this no frills set up shows a strength of character.\nI look around and see the most diverse group of people in this place, a campus photographers wet dream.\n\"The world is around me\" the hero thinks to himself...\nAnyways my roommate (former USC Basketball rotational player) and I, both got the Thai Style roasted chicken as a small only runs $5.99 with a large being $8.99. True inflation buster pricing. I got the small, as I am currently going for the rockstar skinny look.\nThe plate was delicious, with the ginger rice really being the X-factor. 1000x better than the bland chicken and rice that I cook for myself at home. At this pricing they may be seeing me every day..........."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6eTc3bUtBEAE",
+            "text": "New location same great food.  This one is on Mott St as well but below Bayard St.\n\nThe Fried Tofu is great as well as their Chicken.  I love it with the Ginger rice.\n\nNo bathroom at this location as of 6/4/24."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvenR6Z1R3EAE",
+            "text": "Great place! Very friendly staff, delicious food, and very clean.  We tried Hainanese Chicken, Fried Chicken, Roasted Chicken, Ginger Rice, and Spring Rolls. All were delicious! This hidden gem packs a lot of flavor into a tasty meal that won't break the bank. Definitely worth stopping in!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSURlN0pZRRAB",
+            "text": "Keepin it real out here in CT\nGlad they have another version of this in a convenient location, usually would have to go to Elmhurst so this is kinda amazing. Food court is well lit and service is great. That original chicken dish is amazing as usual, def will go back again"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201VFFqUnNXRFU0ZFVjd1R6SktPV1F5YW5kMVpFRRAB",
+            "text": "I went here as a black person minding my business wanting Tea and Curry. Immediately as I walked to the kiosk to self order a pink haired worker told me “Sir, just so you know, we are all out of fried chicken tonight”\n\n1. I work in food services, you wait for someone to ask for an item before you tell them you’re out\n\n2. You did not restate that to any other customers\n\n3. I don’t even like fried chicken, I wanted curry. Do you walk in McDonalds and they tell you they’re all out of ice cream?\n\nIt was a strange, unhinged interaction."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvenVpNnRBRRAB",
+            "text": "I ordered a small Thai Fried Chicken meal with a Thai Iced Tea for takeout ($14 total, there was a small fee to use card, so it would've been cheaper if I paid cash.)\nThe server was very friendly, and the wait was hardly 5 minutes! Excellent service. The food itself was absolutely fantastic in flavor and just what I wanted. Went really well with the Thai tea. The small was a little smaller than I expected, but overall my only qualm is that there could've been more rice included in the bowl. Still, filling and satisfying - Would definitely recommend and will be going back!"
+        }
+    ],
+    "reviews_count": 60
+}

@@ -1,0 +1,635 @@
+{
+    "name": "Burger Village",
+    "place_id": "ChIJRbp8aGhbwokRdld3no39YYo",
+    "grid": "MN1",
+    "address": "120 Church St, New York, NY 10007, USA",
+    "rating": 4.6,
+    "user_ratings_total": 1447,
+    "phone_number": "(646) 476-7570",
+    "reviews": [
+        {
+            "date": "1시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaNWR6RkhOMEpzUmtkUmVXUmxWbE52Vm1oUlZWRRAB",
+            "text": "Good sized menu. Clean! Vegan options. Really like this place."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwemNsaGtOM3BxUTFsUlIwdEtYMVY0U1ZKdWJGRRAB",
+            "text": "Excellent service, friendly, awesome food !"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGbU5FZEtXbFZPU3psR01HOXZhVGx1Y0Voc1UxRRAB",
+            "text": "Food is amazing!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twNVMyNVdPRmxPVEVzNFUwdGZWa3BaVTB0bE1IYxAB",
+            "text": "Excellent experience including delicious handmade meals."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kVldHbFZNVzlEZFZWT09VZE1hMlZxYnpKaVRHYxAB",
+            "text": "Great place, great environment,  great choice of Meat. Got the Elk while the wife got the regular beef. The atmosphere is well lit and inviting. Staff seems very pleasant. Can't wait to grab the bison burger next time! Thanks, see y'all soon!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paR2RtdFVVVTlLV1hWRVVGWnNTbmx6YzA5TlZrRRAB",
+            "text": "Really tasty burger and the service just amazing! Diana is the best there!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5QmExcEROME51ZDNORGRtWkthVWhJYURkMVRuYxAB",
+            "text": "Organic food 👏"
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKc1ptRldWVVpZVjFSa2IyWm9WM05yVVZkbVpsRRAB",
+            "text": "Very good 👍🏼"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tORVEwRlZjblEyVEZFd1ltNWtSV3gxWVZBME9WRRAB",
+            "text": "The people are very nice, the food is great and healthy."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOZmNGbDFlRVpyZDNCbFZGZGtRWEZQY0RoelZtYxAB",
+            "text": "Great burger place. Lamb burger was phenomenal. Fantastic service and a quaint atmosphere. You wouldn't realize you were in New York City if not for the pot smell wafting in at times from the street."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGM1p6VnhMV2h5VVhsTFpWcFlhRGd4TFVSWVNWRRAB",
+            "text": "amazing food. great burger combinations. lots of vegetarian options. delicious delicious, I will come back when I'm in the area."
+        },
+        {
+            "date": "2주 전",
+            "language": "nl",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21VdFVIbzNRblJHWTFOa1ZWb3hkR1JqY1U1R1VVRRAB",
+            "text": "Heerlijke hamburgers, frietjes, bier en milkshakes!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WaGJYTm5NMmhCYWs1SGFWRnhVV0Z3V1dseFYzYxAB",
+            "text": "Excellent is all I can say"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paamFscHFYemxoVnpSMFRWQk5UVmR1Y21GQ2RGRRAB",
+            "text": "Great food, great personel and amazing customer care. Would recommend 100% come here if u hae the chance"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SbFZtbFZabkJhTjBRM1RIaFNiMFpaT0dWM2NXYxAB",
+            "text": "Sam was so nice an fast"
+        },
+        {
+            "date": "2주 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaS1JXUkxZMjQ1WHpabWMxVjZhMmxtYkVOelQwRRAB",
+            "text": "Cibo buonissimo e servizio eccellente, Diana è stata super cortese e veloce"
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sa1gxcGxkbHBVYVRWd015MTZkM0ZXTmpWeU5VRRAB",
+            "text": "Came back again and wasn’t disappointed. Food came out in a timely fashion, my server Abby was great and attentive, and I’ll definitely be back to try more items on the menu."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOVmJHOXFhemx4YkZGMmQzRnRjMmh1U1VWUlNHYxAB",
+            "text": "Great experience and definitely a place i would recommand. As a belgian i tend to be picky on french fries and beers and let me tell what a great surprise i got. They propose two different french fries (one classic and one seasonned that i loved) and you can definitely tell they are freshly homemade. Shout out to the cooks for daring to propose seasonned french fries cuz it feels good to try something new and innovative ;) they had quite a nice selection of beers too. My girlfriend had a cider cuz she can t have beers with gluten and that one was perfect. I tried the bloody orange pale ale and once again what a pleasing surprise cuz i haven t tasted once as good as this one.\nBurgers are really tasty"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poaFRVRklOVTFMUW5kRk9IaHNUbG96U1ZBMWIxRRAB",
+            "text": "Really good food, great service!!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21waU9FOUViMFZOVUMxZlgxZDVObUl5TldSS0xWRRAB",
+            "text": "Clean nice place. Economic."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21nMlNtaE1RVWR3YWpWTlMwbzNUR1p3WVhWSGFFRRAB",
+            "text": "Good very good"
+        },
+        {
+            "date": "4주 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKTlRXVXpNbDlxTkU5c1ZFaEtUMUI2U0hSRGJtYxAB",
+            "text": "Sehr nettes Personal toller Service sehr gut erklärt\n\nGroße Auswahl Regionalregion Bio frischgebackene BUNs\n\nDie Burger hier sind einfach fantastisch! Saftiges Fleisch, frische Zutaten und eine perfekt abgestimmte Soße – man schmeckt die Qualität bei jedem Biss. Sehr empfehlenswert!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKb2JWbFpaR3hvVVZSRlNWVmxUVmg1YjFoUFdIYxAB",
+            "text": "Ok where do I start?! Idk what’s better the amazing food or the immaculate service. Elise was very warm and welcoming from the door making the experience even more magical with a bubbly attitude and perfection in her craft. The food was amazing as well, my dad ordered a burger and loaded fries which didn’t survive for pictures lol. I had garlic Parmesan chicken wings and tots and boy when I say the flavor was there omg definitely top 5 in my book. A new fav of ours will be back, definite recommendation to come here if not for food for the comfort.\n\nPs - Give Elise a raise 😎"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJMmRrcHlkWGRPU0RkaVYwcGtlSGN0UnkxMWJsRRAB",
+            "text": "Previous diners have been quite thorough. You'll notice the thoughtful design right away. The staff is pleasant and works efficiently. Burger Village sources products worth using. Visit this place right away."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSMWJFcHpkRE5zWnpsWFYybEhXa1Y0VHpObVRGRRAB",
+            "text": "It was fairly good. But significant overpriced for a couple of burgers and fries to share."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZeE9WbDNXRFpoTjNwMFJFTnNNWEZVVEdnM2NrRRAB",
+            "text": "Liked the burger, and nice staff,good for relaxation and a good burger"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWR1UyMXpaekZrVFRWSVUxTlpTRzFEUkRSRGIzYxAB",
+            "text": "Everything is  fantastic"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205SFJuWkxOVmxwWlVNd2MxOW9iREJ4U1ZWTlNuYxAB",
+            "text": "The waitress, Diana, was super friendly and very welcoming. The service was fantastic, and the food was delicious."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tabFlXVnhjRFpIZUVkelEzcEZaek5CVFU0M2QwRRAB",
+            "text": "Great food great service"
+        },
+        {
+            "date": "1달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxbmVWYzBhVXhTYkhsaWMyOXhXbnBIVlZaVmRsRRAB",
+            "text": "D’excellents burgers service très sympa par Dighaa je recommande !"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CU1FuTmFhMFpyWXpkTVZHRkhYMU5aVkRoM1IxRRAB",
+            "text": "A five-star experience."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0WFJuSTVaak5HYlhZMlkwTjRjbWxKT1ZGTlYwRRAB",
+            "text": "Awesome burger... Elk burger was delicious. Staff was excellent."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kcGIxVnRVV1ozYkd4Vk9VRlVZVkEyVFRCUGJtYxAB",
+            "text": "The food was great. We had Bison and Salmon burgers with fries. Loved the fresh lemonades. But I want to shout out Ana! She was our server and was super sweet and we enjoyed our conversation with her. We were visiting from Georgia and she showed the service and hospitality that was beyond welcoming. She was PERFECT! Wishing you the best Ana!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KaFpEUm1MVUUzYkc5NWRXWmtUR05ZWVZodVQwRRAB",
+            "text": "My appreciation grew with each course they served. The service stood out, our order didn't take long, and all items tasted delicious. The dish had fresh elements but needed more volume. The staff demonstrated both kindness and problem-solving. They've created dining nirvana here."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKbGVHZHRSRlZqTjNreGRYSnBhRGxYTkVzMFdrRRAB",
+            "text": "Had the shredded beef tacos and they were amazing!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GaFJrUjFOMlZLUW1WblRqaDBZemxxYlRabldFRRAB",
+            "text": "Very satisfied with the whole process."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCWWVGVnhWbGsxU3psQ1REbDRURU5ZYTI4d1NrRRAB",
+            "text": "El sándwich de pastrano al estilo NYC muy recomendable.\nDiana, nuestra camarera, super amable y atenta."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kcFRURjBkR0V0U20xNUxUVjFZbWMxUlV4d2VVRRAB",
+            "text": "Excellent burgers.  Places is clean and you can sit to enjoy delicious food."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SSk1teHdRMWRCTmkxQk9FMWxhM2RxZW5GdVkxRRAB",
+            "text": "Great service"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1dk1ITXplR3hZVmxOYVNsQnRTalYwUVU0ellVRRAB",
+            "text": "The burgers in NYC are absolutely amazing – juicy, fresh, and full of flavor! The atmosphere is very welcoming, and the service is top-notch. I would especially like to highlight Amir, who served us with great professionalism and a warm smile. He truly made our visit outstanding. I highly recommend this place and will definitely come back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ob2VWRnJjMDFvT1VoNlZIZ3hNa3hmWDJsQ09VRRAB",
+            "text": "Amazing service, Roshna was attentive and caring. Cant wait to eat here again!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWWFFVbENUVE0zV1hoa1oyYzBRWGg0Ukd4U2NtYxAB",
+            "text": "Nothing has been bad, but nothing has been particularly good either. Everything has been average. All in all, it's been the most average, three-star experience in a while."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGTlNUZHpkSGhTV1UxeGVESXdhRmhPUTBwSloxRRAB",
+            "text": "Burger bun was old on a Monday lunch , most likely left over from the week end. The portions are small, expect the bun that makes it look big and lacks of flavor, meat patty was flat and did not taste meaty."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GRlpHTkpVSFpXWlZWamJsTXlXbEJUUVUxVU4yYxAB",
+            "text": "Una de las mejores hamburguesas!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGWFRUWnZUMk5xVjBkQmVrTnFNakJOZWtrd1lsRRAB",
+            "text": "Tasty and good"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKbk5HT1h3EAE",
+            "text": "Update 9/7/2025- Original review from 2023. No response from management yet- If you are going to advertise a lunch special, then honor it.  I came with my grandchildren and had anticipated $15 Burger, fries, and soda.  A sign outside advertises the special as well as the menu.  When the check comes I get told they don't honor it on a \"holiday\""
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205WmRDMUVXa05MVm05cU1HVk1jVlk0TUVoUUxWRRAB",
+            "text": "Friendly staff, big portions and tasty food."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SUFJFOUViME5ZY1RKTlFrZE5hWHBUUmxjMmFIYxAB",
+            "text": "That burger was the best gluten-free burger I ever ate. Very clean, very delicious and the atmosphere was also pretty well. Loved it, hope I'll come see this place again."
+        },
+        {
+            "date": "1달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsRk9EVXhSbEJCWWtOTlNtUmFNSEJXTVVGU2JYYxAB",
+            "text": "Sehr zu empfehlen, danke! Alle waren sehr nett zu uns."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psaGFsbENPRFUxT1ZGVlJUTnZTVWd0VjBwZmRsRRAB",
+            "text": "I came one time and came back with my wife on her birthday and we had a fabulous time.\nI had the Bison burger and my wife had a green bowl salad.\nBoth meals were scrumptious, prepared well and very tasty.\nThe staff is exceptional with excellent customer service and whatever they didn't have knowledge in, they found out immediately and answered all of our questions.\nThey're always smiling and so pleasant.\nA definite 5 stars!🖐🏾\nWe are coming back for sure!🤸🏾‍♂️"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUROazYyamt3RRAB",
+            "text": "인테리어 너무 예뻐요! 염소 치즈 샐러드는 맛있었지만, 햇볕에 말린 토마토는 좀 시고 낯설었어요 😂 서비스는 정말 휼륭했습니다. 친절하게 메뉴 하나하나 설명해줬어요. 어니언링 맛있고 짜요."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREajR5NlRnEAE",
+            "text": "직원들도 친절하고 버거도 완전 맛있었습니다! 안에 좌석도 많고 음식도 빠르게 나옵니다."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxdzR1T2tnRRAB",
+            "text": "깔끔하고 조용한 식당입니다\n6달러 어니언링 필수! 맛있어요\n런치세트 가성비 넘쳐요 넓고 화장실도 깨끗해서 추천"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMczdxclB3EAE",
+            "text": "여기 진짜 버거 너무 맛있고 분위기도 되게 좋구 직원들도 친절해서 조아용 😄🥰"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGekxXQlZnEAE",
+            "text": "서버가 친절하고 버거도 맛나요\n분위기도 좋고 실패 없을 식당"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWXzUyMnl3RRAB",
+            "text": "재료에 자신있고 어느고기로든 버거를 만들수 있는곳임. 베지 옵션도 있고.\n맛은 한국인 입맛에 딱 맞고 건강한 맛도 있음 (야채 빵 다 퀄리티좋음) 이렇다해서 고기가\n별로가 아님. 고기 수준급이면서 굽기조절도 가능함. 이런버거면 건강도 생각하고 맛도 생각해서 맨날 먹을수 있는 맛임. 뉴욕버거중 꽤나 높은수준맛임.\n그리고 양파링도 맛있음."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taT1FqRk9ibTFrUWpWNk0wUk9lSEp5Tm1KRVptYxAB",
+            "text": "Great spot for some local burgers, sides, other sandwiches and beer! They even had a pastrami sandwich (new on menu), which was really good but perhaps a little heavy on the mustard sauce. All in all a great atmosphere, busy place but with good service. I recommend although not cheap due to location. Good selection of beers and the friendly waitress let us sample some before deciding."
+        },
+        {
+            "date": "2달 전",
+            "language": "ja",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjd2QwRkJaR2RzUTAxbmVqQk5XbEUxWkdab2FGRRAB",
+            "text": "ふと立ち寄ったバーガーカフェ。\n素朴な味で美味しく、店員さんのサービスもよい。価格も安い。店内はファミレス的な雰囲気ではあるが、特に気になるところはない。\nチェーンのよう。全体的によいので、日常使いに最適です。"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VORHoyOV9iX3JudTl3RRAB",
+            "text": "I’m a professional food critic and this is some of the best food I’ve ever had definitely come here for whatever occasion. It has the best chicken sandwich ever. Yummy food but kid tenders small. I love the big juicy meat inside the buns love it Anthony. Great customization options, great vegan options for others! I’ve never salivated so much in my life. Thank you"
+        },
+        {
+            "date": "4달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSMlpHSlJVblZqVlhGbU16SlRSWEIwV0VwUVdGRRAB",
+            "text": "Wir waren heute spontan am Abend dort essen und wurden, trotz einem fast leeren Restaurant - Super freundlich empfangen. Unser Kellner war sehr aufmerksam, zuvorkommend und hat uns sofort bei der Karte weiter geholfen. Das Essen kam sehr schnell und war hervorragend. Sehr lecker.\n\nHervorzuheben ist absolut der Service. Auf eine bessere Art, kann man nicht freundlicher sein. Ganz lieben Dank!"
+        },
+        {
+            "date": "2달 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sRU5taElkRXBMYldZd2QyeGlabkU1TkZsaFIyYxAB",
+            "text": "It’s a really cozy and cool place, I liked the atmosphere. The staff are very nice and respectful, and overall they provide good service.\n\nThey also have a good variety of beers.\nFor vegetarians, there are several options available on their menu.\n\nОчень уютное и классное место, мне понравилась атмосфера. Персонал очень хороший и уважительный, в целом обслуживание на уровне. Ассортимент пива тоже неплохой.\nДля вегетарианцев в меню есть разные варианты."
+        },
+        {
+            "date": "2달 전",
+            "language": "fr",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKUVFsWlBUSFJ1VGtGT1F6RnJSblJtUzFOSGRrRRAB",
+            "text": "Très bon accueil. Burgers bons ( pas exceptionnels non plus mais originaux).  Sauces bonnes également. Frites excellentes !!! Bons cocktails 🍸.  Le happy hour dès 15h est très apprécié( attention pas le vendredi).  J’y suis allée deux fois et je recommande."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJT0lsb2FzcGJpZTlBRRAB",
+            "text": "Very good burger with some interesting options.\nWas sitting there for almost 10 mins without any service until the hostess saved the situation. Service was great once my server showed up. Great team work."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210SFpqVjZjWGhtUkVSUE0yVnlNVWxpTVc5MlpVRRAB",
+            "text": "What an amazing spot for a group happy hour, especially as the restaurant is surrounded by overpriced bars in Tribeca. HH runs from Monday to Thursday 3-7pm with specials such as $6 margarita, $5 draft beer and other drink discounts. Our server, Diana, was really friendly and constantly check-in on our group of 11 with prompt services on drinks. We also ordered bunch of appetizers to share - the wings were delicious with unlimited sauces, the waffle fries and cauliflower tenders were fan favorite as well. We also tried the burgers, and they were very juicy and tasty! This is going to be our new favorite spot in Tribeca."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCRlFuaFBUbGQxTWt0M1RVWTROak4yVWtkTlozYxAB",
+            "text": "Had the beef burger and was very impressed. Definitely the best burger I’ve had in a long time. They also had a lot of burgers with meat substitutes. Service was great and the wait for food was only 10 minutes. Would definitely recommend."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KbFVURlRkMGhKTFhwVVdIVlBObEp3VDNCamFuYxAB",
+            "text": "The burger was tasty, but for the price we expected a little more. The service was also good, but also there the lady was coming way too oft (at least 5 times while we had food in our mouth) while we were eating asking if everything was okay. Overall good."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvejhQNWVREAE",
+            "text": "Insane amount of burger combinations.  Quick and friendly service. Unfortunately,  there was nothing special about the food. I would say mediocre at best. But reasonably priced in the middle of downtown makes it a good tourist destination after some sightseeing👍🏿"
+        },
+        {
+            "date": "5달 전",
+            "language": "pl",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJbXdsN242eVktU1VBEAE",
+            "text": "Dobre burgery bez mięsa a ceny są przystępne. Możesz sobie wybrać kilka pozycji i dołożyć sobie extra dodatki. Pani nas obsługująca była bardzo pomocna i przyjazna. Naprawdę warto tutaj zajść jeśli nie jesz mięsa.\nPs.\nFrytki są ze skórką mi smakowały ale nie każdy lubi w szczególności dzieciaki."
+        },
+        {
+            "date": "6달 전",
+            "language": "nl",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJMC1QZ3NnRRAB",
+            "text": "Na een museumbezoek waren we opzoek naar een eettent. Op google was deze dichtbij dus why not. Ruime zaak. Het was nog rustig (16uur). De bediening was zeer snel en vriendelijk en legde alles goed uit. Je kan kiezen uit het soort vlees: rund ,lam, buffel, rendier,kalkoen,zalm. En al het vlees is biologisch en zonder antibiotica en hormonen. Daarna kan je de topping kiezen. Wij kozen de california en de my deer. De burger waren groot, medium gebakken op een brioche. Lekker vlees, pure smaak. We hadden ook normale friet en zoete aardappel friet. Dit kwam in een emmer(tje). Niet die mini emmers van Nederland. Je kan makkelijk 1 emmer delen.  De zoete aardappel leek meer aangebrand  en was donker van kleur en minder zoet en luchtig zoals ik het ken. De curry bij de friet was erg lekker. De lemonade en ice tea waren ook lekker. Het was een goede stevige lunch!"
+        },
+        {
+            "date": "4달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GVE5HOUxYMFF3WDA5RFEyWXhhMHRUVldwM1NYYxAB",
+            "text": "Wir haben uns spontan dazu entschieden hier zu essen.\nWir wurden sehr freundlich empfangen und gleich bedient.\nIch hatte einen Beef Burger und kann ihn bestens empfehlen. Zum Nachtisch hatte ich einen Cheesecake mit Schokoladensoße und war sehr zufrieden damit .\nDie Preise sind völlig in Ordnung, das Personal super freundlich und hilfsbereit- daher kann ich     Burger Village mit gutem Gewissen weiterempfehlen…\nGerne wieder 👍"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxR2FYcGhkMEY2WmxoR1dWbHpTemszV25KTlpVRRAB",
+            "text": "🥗🍔 VEGAN BURGER HEAVEN in Tribeca! 🍔🥗\n\nWho says finding veggie-friendly spots in the US is tough? 🌱 I just discovered @BurgerVillage in Tribeca, and wow—it’s a game-changer! 🙌\n\n✨ Tried their Falafel Veggie Burger and it was absolutely mouthwatering 🤤 (10/10 recommend!). They also have Black Bean Burgers + other amazing veggie options that make it super easy for vegetarians/vegans to enjoy a proper burger night. 💚\n\nThe vibe? Chill, cozy, and perfect for hanging out with friends & family. 🍹 Plus, their happy hour drinks are such a steal—you can’t miss it!\n\nThe best part? They’ve got multiple locations in NYC & across the USA 🚀, so you’ll never be too far from your next plant-based burger fix."
+        },
+        {
+            "date": "2달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25reFUydDRVbmxJZVVWdldISXlkRnBzZURSc1drRRAB",
+            "text": "Une très belle découverte ce soir, à 6 minutes du 9/11 memorial.\nBurgers, NY cheese cake, vanilla milkshake, bière, pour un très bon rapport qualité-prix.\nProduits et service vraiment très bien.\nMerci à Amir M. pour ces conseils et sa patience (C'est bien la première où on me propose de goûter deux bières pour choisir). Le service meriterai 6 étoiles.\nJe recommande sans souci.\n❤️🇫🇷"
+        },
+        {
+            "date": "4달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OT2VVSmtSbWhUYmtKQ1ZrczNTRloxTWtoa1kzYxAB",
+            "text": "Sehr leckere Burger und Pommes! Ist zu 100% einen Besuch wert. Service sehr sympathisch.\nVillage Beef mit Brioche Bun und Village Falafel Sandwiche mit Multi-Grain Bun."
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPSGlrYlNlOHNudTJ3RRAB",
+            "text": "Nos encantó la de bisonte con jalapeños PICAN PICAN pero los puedes quitar. Karen fue super amable. De las mejores hamburguesas de NY"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNILWU3TzVRRRAB",
+            "text": "10/10 recommend!!! You must try the falafel & waffle fries 🤌🏻🤌🏻🤌🏻\nThere is a men working hard at the door to call us to enjoy the burgers. After a couple days passing buy the door and getting invited by him, I gave a try. OMG what a great decision! The waitress was very kind, food was delicious, very clean and the atmosphere is so familiar. I love it ❤️"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQd3QyZTdnRRAB",
+            "text": "Arrived as a party of 6 to celebrate a colleague's birthday.  Was able to get a table in the back without a problem.  Nice, bright, and spacious. The service was great and attentive.  Plenty of beer options. Opted for the lunch special. The burger seemed small & came with fries, probably 1/4 pound precooked but it was still very tasty.  Everyone in the group was satisfied."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOWHdvT0xlczZ5d2tnRRAB",
+            "text": "It was really delicious!\nI had a gluten-free plant-based burger and I am very impressed. The selection is huge, there's something for every preference, especially for allergy sufferers like me.\nTotally friendly staff!\nI would come here again!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRelpXSjNBRRAB",
+            "text": "The Loaded Fries were Amazing. I ordered the crispy chicken sandwich,  but it was not what what I was expecting,  so they kindly switched it out with the Beef Burger which was Delicious. Great staff, very friendly."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3OUpyU1BnEAE",
+            "text": "Great place! The burgers are incredibly juicy and delicious, and the buns are fresh. The atmosphere is cozy, the staff is friendly, and the service is quick. I’ll definitely be back and highly recommend it to everyone!"
+        },
+        {
+            "date": "7달 전",
+            "language": "pl",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRLTd1WWd3RRAB",
+            "text": "Doskonałe hamburgery, idealne frytki, pyszna domowa lemoniada, pikle smakowały jak domowe ze słoika od babci. Produkty najwyższej jakości, z ekologicznych dostaw. Obsługa bardzo sympatyczna i komunikatywna, ucięliśmy sobie pogawędkę na temat pochodzenia produktów w restauracji. Miejsce bardzo klimatyczne, typowy amerykański klimat. Bardzo blisko WTC, w sercu Manhattanu a mimo to ceny przystępne. Polecam."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NMVYyOUJXRTkyVVdsZlVtcHlaMjFEUVZOSE9YYxAB",
+            "text": "Pretty good burgers and seem to be a healthier and use more mindful products. A bit pricey, but as most of the healthy things in this country, you end up paying more, because most of the time unhealthy=cheap, healthy=expensive."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfNTlpUjFRRRAB",
+            "text": "service was amazing, they were respectful and knew everything about the menu, making it easy to navigate when asked questions about it. the food came out quickly, and even the single serve appetizers were filling. me and my friend came, very impressed, would recommend to eat at if you’re in the area."
+        },
+        {
+            "date": "6달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURveHFPOWV3EAE",
+            "text": "Un’ottima scoperta nel cuore di New York! Gli hamburger sono davvero buoni, preparati con ingredienti di qualità e grande attenzione. Si sente la differenza.\n\nUn grandissimo punto a favore è il personale: gentilissimi e simpatici, davvero sopra la media. Un ringraziamento speciale a Diana, che ci ha servito con una disponibilità rara: ci ha aiutato nella scelta dei panini e ci ha seguiti con attenzione e gentilezza per tutta la durata del pasto.\n\nIl locale è piacevole e ben curato, perfetto per una cena tra amici. Il prezzo è coerente con la media di New York: noi abbiamo speso circa 130$ in 5, e ne è valsa assolutamente la pena.\n\nConsigliatissimo!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5dmZPQ3FnRRAB",
+            "text": "We were seated as soon as we arrived. It is a spacious dining area, service remembered us from a previous visit. They are extremely friendly and helpful. Food came out quickly and was as ordered. Payment was also quick. We will 100 percent return."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wNVIyRndaMDlEVTNSYWRVdFNORXh1VlhCVVgwRRAB",
+            "text": "I came with my family. Amazing food and great staff. Speedy service. All around great place to visit. Our waitress Sam was amazing and attentive. Each of us tried a different burger and had an order of fries and onion rings. The drinks were amazing. The Rum Punch was like an island in a glass. The Classic Margarita was made with love. Give it a try!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCQmFVaFNRMWQyWWpWYWJFcEVPRFZvU0ZSUmNYYxAB",
+            "text": "This place abuses customers. I left a small tip for a pickup order and both my burgers were just patties with buns. Don’t order from this nasty place!"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3NmZURld3EAE",
+            "text": "Excelente restaurante! Comimos las hamburguesas de carne de bisonte, súper deliciosas! Para compartir mitad aros de cebolla y patatas dulces, también riquísimas. De postre unos batidos que estaban espectaculares. El servicio rápido y muy amable con especial mención a Adriana que fue nuestra camarera y estuvo muy atenta en todo momento. Imprescindible si visitas o estás en NY!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1N3VpQ2JREAE",
+            "text": "Burger Village is a great place with a wide array of choices, including a special focus on Vegan and Vegetarian options.\nTheir Cauliflower tenders were incredibly crispy with the tangy dipping sauce adding a burst of flavors to each bite.\nTomato soup was a classic, it had comforting homemade taste, creamy, rich and perfectly seasoned.\nWe tried the Village Veggie Burger and the Spicy Vegan - Signature pair. The Burger was nice, the toppings and sauces complimented it. Cocktail and Shakes' options were great too.\nOur experience was elevated by the exceptional service. The staff was very courteous and polite.\n\nIn conclusion, Burger Village is a must visit for Burger enthusiasts and those looking for diverse options. Don't miss their array of innovative burgers, beverages and scrumptious sides to compliment your meal"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNOcThTZXFnRRAB",
+            "text": "Great location, amazing staff and super delicious food. Couldn’t recommend more. ⭐️⭐️⭐️⭐️⭐️\n\nUnfortunately I have the name memory of a goldfish (sorry! 🫣). The young woman with the cute beanie recommended me a great combination of toppings for my bison-burger. Which, in combination with the giant portion of waffle-fries, was too much for my big appetite.\nThe burger was perfectly cooked and the waffle fries… 🤤 I’ll 100% visit again, when I’m in NY again."
+        }
+    ],
+    "reviews_count": 89
+}

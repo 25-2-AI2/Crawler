@@ -1,0 +1,712 @@
+{
+    "name": "La Grande Boucherie",
+    "place_id": "ChIJ58OtM8pZwokRbd6DT6gcVys",
+    "grid": "MN5",
+    "address": "145 W 53rd St, New York, NY 10019, USA",
+    "rating": 4.6,
+    "user_ratings_total": 8449,
+    "phone_number": "(212) 510-7714",
+    "reviews": [
+        {
+            "date": "4시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pacVVDMUdYM1ZGVGpKaE9YTnVZbUZ1U1hVd1NHYxAB",
+            "text": "Rodrigo took excellent care of us. We shared the Beef bourguignon, French onion soup, and Caesar Salad. All three dishes were excellent. And for dessert we shared the Mont Blanc dessert. It was divine with the black currant filling and decaf coffee. Rodrigo made sure we had extra plates and dishes to easily share our meals. At the end he gave us a recipe book from the restaurant. Rodrigo, the food, and atmosphere made for a fabulous experience and we can’t wait to be back!"
+        },
+        {
+            "date": "10시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKR1pEbExZa0poWldOMlJrWmhVMVZDV0VFMmFYYxAB",
+            "text": "Classic French bistro"
+        },
+        {
+            "date": "11시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCVFNIcFBhbTVJTlZGQlZVaFlOaTEyY0V0VFRIYxAB",
+            "text": "Had an absolutely delicious lunch experience here! Katie was next level wonderful - such attentive and kind service! The oysters and steak frites are sublimely good - 10 out of 10."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wcU0yOXNha1pQYVVaUlYwWnZlbFZSVW1KS2JtYxAB",
+            "text": "Classic French Brasserie Vibes in the Heart of NYC\n\nLa Grande Boucherie captures the energy and charm of a Parisian brasserie right in New York City. The décor is stylish and inviting, with an elegant yet comfortable atmosphere. Seating inside is recommended during colder months, as the covered patio can get a bit drafty.\n\nThe restaurant was lively and bustling with guests from all walks of life, which added to the authentic brasserie feel.\n\nWe shared the 48oz Tomahawk Steak, and it was delicious. It was cooked as requested, tender, and full of flavor. The presentation and quality were excellent, and the portion was ideal for sharing.\n\nLa Grande Boucherie also has a great bar and cocktail selection, perfect for enjoying before or during your meal.\n\nOverall, it was a great dining experience with delicious food, great ambiance, and good service. Highly recommended for anyone looking for a vibrant French-inspired meal with a steakhouse flair in the city."
+        },
+        {
+            "date": "1일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwTExXeHBRM2hhZVdSSFNVVjBUMVJ5WHpZdE1FRRAB",
+            "text": "Prostacio tuvo un gran servicio, se mostró muy atento y nos detalló las diferentes bebidas que tenía, dándonos recomendaciones de acuerdo a lo que nos gustó\nLo recomiendo ampliamente y seguro volveremos"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjelFuVmZiMk5oYTFwV1lXUXpVWEZUZWtkc1gzYxAB",
+            "text": "Brunch dreams come true! My friend Katie and I had the best time at La Grande Boucherie! The eggs benedict were amazing and the chocolate mousse was pure perfection. 10/10 food, service, and vibe. Definitely coming back!"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SVU0yWkpkVFpJYUhKaGVXbGFRVFpqUzFvemMwRRAB",
+            "text": "Beautiful brunch spot in NYC. My friend Katie and I had a fantastic meal, she tried the snails for the first time and she loved them! 😊 Great ambiance, friendly service and perfect food. Highly recommended!"
+        },
+        {
+            "date": "1일 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkNFNqTTFiVzlNUlVOc2IyRjNkVUpVYkRCSFJFRRAB",
+            "text": "Ambiance 1900 à la française. Service, décoration et plats au top. De la vrai cuisine française on y croirait."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkNVFscEpVWEJJY1VOYU4wVlhZbEkxT1ZoUU4yYxAB",
+            "text": "Terrific Saturday night dinner with out-of-town friends\nGood MIdtown Manhattan location behind Hilton Hotel\nAuthentic French decor--feels like you're in Paris!\nGreat menu selections & delicious entrees\nOur servers Debbie & Ed are fanastic--so pleasant, attentive & helpful\nGood value-MERCI BEAUCOUP!\nWe'll be back!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGMU4wSnBSV3hVUmtkcldHMWxReTFrUVc5TUxWRRAB",
+            "text": "My partner and I just had dinner here for our first wedding anniversary. We had our wedding dinner in a private room here the year before. For our anniversary, Andres was our server and was the perfect amount of attentive without being overbearing. He brought us out two glasses of champagne, a dessert, and a coffee table book about the restaurant on the house at the end of our meal. We obviously already liked this restaurant and we love the food and the atmosphere, but Andres really made our first anniversary as special as our wedding!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pock5sbHNaVXh0UVVWMlYycFVUVXh2YmpWWkxVRRAB",
+            "text": "Atmosphere was fantastic. Food was good. Service was terrible."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4VE5GWk9lV05VWkhNMVRESkxUakpaYjE5V01GRRAB",
+            "text": "The shirt is not good quality. It doesn’t match the price they charge.Disappointed"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBeFFTMUpMVVE1VDNSU1IxQXphRFV5VTAwM1lXYxAB",
+            "text": "We had such a wonderful meal last night at Le Grande Boucherie. Our server, Daniela, was excellent. The restaurant is beautiful and the food and cocktails were superb. Our entire party was very impressed.\n\nIt was my mother in law’s birthday and the staff was so attentive to her the entire meal. They brought out a dessert with a candle and helped us sing to her, which was so nice. Daniela and the restaurant also gifted her a beautiful book about the history of the establishment. Thank you Daniela and Le Grande Boucherie for a fabulous evening."
+        },
+        {
+            "date": "수정일: 3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5OWNTem9RRRAB",
+            "text": "Stoped for a glass of wine in this beautiful spot , definitely stopping for a full dinner the couple next to me had dinner at the bar and everything looked fantastic"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poTk9HeEJNbVF5V2xoTWVEbGtabWQ2YlRkUk1uYxAB",
+            "text": "My first time in NY, you definitely should try it, cocktails, service and music are set to have a wonderful time, don’t miss to order a phoenix drink"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaRlZ6RTRVMVoxZWtOc1RuRjFTbTlEZW1wR1pWRRAB",
+            "text": "Elena was super kind. She is very proactive and fast."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWRlYxcHpkbEpJYldGRExXOXNOR1JOZFhRNGFYYxAB",
+            "text": "Always a great time here. Great food and delicious drinks. Shout out to Bench & Alena"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGcU1HSlJNa013YzI5UVIzWmlVRGhGY0MxVU0yYxAB",
+            "text": "Stopped by for a quick dessert, Jonathan  was my server and he was Amazing, we're both from DC and he was a great conversationalist. Lovely food!! Would recommend"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoWFkzWk1jSFpmVXpod1pXUTVSMlp2YkdwaVNtYxAB",
+            "text": "Sophia our server gave us such an amazing experience for my 21st birthday. The food was 11/10 and her service topped it off completely. This was our first time visiting and will definitely come back biased of this experience! Thank you Sophia!!!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214cVNWRXdNWFZOVTBRd1UwcGFWMVpVZFc4NGQwRRAB",
+            "text": "Carlos was amazing! Excellent food and over the top birthday service."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGcGJtUmhUa3BKWTAxSU1pMVlhR1YwYm5wVlNGRRAB",
+            "text": "Had a special birthday celebration for a friend. The brunch was delicious - special plugs for charcuterie board and eggs Benedict.  Sanja S. was attentive and went the extra mile to check if there was any gluten-free options for crackers or breads, which there were not.  Still, she gets an \"A\" for effort."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25rNVZsbzRNbkpNVkVKWldEUnhhVVZQY2xCU05HYxAB",
+            "text": "We had an amazing birthday brunch for my 4 year old niece. Namik was the absolute best server! He was very engaging and attentive. He even surprised my niece with a Boucherie cookbook for her birthday! A great experience!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xock4wNVFWSGxrTUZrMlJUaDFaMkZ6YTJSRFJuYxAB",
+            "text": "Service was excellent. The Norwegian Benedict was delicious, and the French toast was tasty and perfectly crispy."
+        },
+        {
+            "date": "3일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxWmJ6UnFZbUZmWW5JME9XMVRka1ZSTFU1Mk1YYxAB",
+            "text": "Excelente la atención de Andrés. El queso de cabra delicioso, así como la ensalada y la carne."
+        },
+        {
+            "date": "3일 전",
+            "language": "uk",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGRVkweFdVRE10ZDBndFNqRlpaVWhUYm5ObGRVRRAB",
+            "text": "Мені було не смачно. Обслуговування повільне. Людей надзвичайно багато, тісне сусідство з іншими столиками. Але більш вразила майже спільна з чоловіками туалетна кімната, яка ще була занадто тісною."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKRVoxSnlNR3RpVUhRMllVWTRUVFl5TkhSa1pHYxAB",
+            "text": "First meal in NYC - stumbled across this fabulous restaurant via reviews and was not disappointed. Setting is brilliant - interiors are stunning and the service and food did not disappoint. Great croque monsieurs and a very varied menu that would suit most. No notes at all!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjdFZVdGhhekJ5TVV0Q1FrUjRTRU5GVkRNeVMzYxAB",
+            "text": "Hubby and I have walked past this restaurant many times and thought the architecture was beautiful so we decided to make a Friday evening reservation for a date night. The food was fine (not extraordinary for the price) and the server was attentive, but this place is one “tight squeeze” once you enter. You can barely walk through the “aisles” without bumping into other patrons or servers laden with food/drinks (we actually heard crashing plates and glasses on 2-3 occasions) The noise level was deafening and we wound up shouting through the entire meal. I couldn’t wait to finish our meal so we could leave. Overall not a very pleasant dining experience."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGUlFtZFVlbFZDWlZjemVWWmFVVVY0TTBGZk0wRRAB",
+            "text": "Perfect dinner with friends and family."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swMFgyUlBjMU5ZY0ZKeU1tcHJNbTQ0UTJob05tYxAB",
+            "text": "Great atmosphere!!\nCroque madame was a bit dry but ok"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKNFZEbDRUbDk2Y2xGRVVHeHBjRWR2T0dReFRFRRAB",
+            "text": "Our experience at your establishment was flawless. The dishes were of excellent quality, and the atmosphere was particularly enjoyable.\nI would like to highlight the professionalism of our waiter, Nino, whose attentiveness, courtesy, and efficiency greatly contributed to the success of our meal.\n\nI highly recommend your restaurant, especially thanks to Nino. ⭐️⭐️⭐️⭐️⭐️"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkMmVVSjNNbkpZZWxSbk4yYzFYMXB4ZVhwNVpFRRAB",
+            "text": "Bench and Valentín were amazing at the bar. The place is beautiful and good food!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1R09UaHpWbmRyVDFONVNUbEJhakJmV0VnMWVWRRAB",
+            "text": "Coucher de soleil was spectacular.  Excellent ambiance.  Alana and Omar are the best!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sMGNtZFJWa1ZuVEZwcllWZFhhMk5TWDJ0alVVRRAB",
+            "text": "Bench & Valentine have a great recommendation on the cocktail. It turns out a fantastic try."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aVUxYQkJRblJwUVMxQmRFaElSM1ZaV25oUFMzYxAB",
+            "text": "Omar was a wonderful host and bartender. Highly recommend grabbing a drink before dinner"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwNGJuRllSVmswVGpjeWJIWlJiR2RRUTFaVFdHYxAB",
+            "text": "Great appetizers and atmosphere. Attentive bar staff."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5NU9EVXRPV2QwZWw5M2VWRlBlRWcwUVVoVk5tYxAB",
+            "text": "The experience was truly magical! The food was superb and truly resembled the French dining experience. Bench and Valentin provided amazing service and we are happy to come back to the bar again. We recommend this place for anyone looking for great food and service."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCVmNISlJSVzkwTldKWmJsQTJORlJDWVZGVFlWRRAB",
+            "text": "Perfect location and “green hour” for a few drinks post Central Park stroll. Alena at the bar was fabulous!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oWmNrcExZbVphYXpnMU1IQlFXSGN0U2xGNmFYYxAB",
+            "text": "As a french visiting New York, I was very happy to find this restaurant which offers a great selection of dishes and drinks. The food was really good and it felt like home. Waiters were very nice and helpful, special thanks to Nino who was amazing all night long. I will definitely come back on my next trip !"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wMlQwMVNUbVIwTm1kRGNXZEtYMmhJUkd4c1NIYxAB",
+            "text": "I loved it. Great and affordable food, lavish setting, super crowded and noisy. Great for kids"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKNmIyTTNWSGQ1YTJFelFXMUpkbTVmVG5CT2VYYxAB",
+            "text": "I came to dinner tonight with my friend. She said the food was delicious, and she was right; it was excellent. Nikola served us and was very attentive to everything. The food arrived quickly, the cocktails were delicious, and she was always checking if we needed anything else. You have to come to this restaurant; the prices are good."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkSlMwZEdSRWR1UzFwck9UZHNUa1pXWTFsT2JFRRAB",
+            "text": "Everything was exceptional, the warmth and care shown by the host team. Renata and Shumaya always giving us the best options to enjoy our girls night. The food was absolutely delicious, nothing I could beat anywhere else.\nOur server was Nikola and he always took care of us, present and providing options so we had the best experience.\nOne of the best plates you can get, the mules. It was delicious !!! MUST GET IT, overall I will come back"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaSlkya3lhMmRXYm10VU4zRlBUWFpVT1dScFZHYxAB",
+            "text": "Excellent place, Excellent food and excellent staff, especially our service Dragana was amazing. ⭐️⭐️⭐️⭐️⭐️"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGaGFuVXRVWEV5YjJzM2NraEJOamw0WkVKUVJHYxAB",
+            "text": "It is my 3rd time at La grande Boucherie for green hour Prostacio & Valentin always very attentive at the bar, excellent service and drinks. Steak & frites best dish here!"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sblNrWlNhMlJzYjJGQ1pFdGpWVTVWWjNaaGRtYxAB",
+            "text": "La Grande Boucherie is honestly one of my favorite places! I’ve been coming here for about three years now, and every single time the experience is amazing. The whole team is always so friendly and welcoming.\nMarta, the general manager, is absolutely wonderful, she always takes time to talk to everyone and makes you feel at home. Prostacio and Valentin and the rest of the bartenders are super nice and professional.\nI always have a great time here, and I’ll definitely keep coming back again and again!"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSYVJteEdXRmRZZFhWU1VXeEhhemRhZVZWUGJuYxAB",
+            "text": "Good French food in a very lovely location tucked away in midtown Manhattan"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOUk4yUnZjMVpvTlZWa2RYcDVjbEEzZDFwelVGRRAB",
+            "text": "I love their brunch better than dinner menu. Definitely visit for brunch and lunch"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNd1RXMUxVSFl3TUY5MVIySjZNVlpLVFhZNFYwRRAB",
+            "text": "The service here was impeccable. Rodrigo made sure I was well taken care of. My meal was delicious as well. Will be back!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCa1RGbExXbU5GWWxRM1RIVkdTRkJDWVdOSlIwRRAB",
+            "text": "The staff makes you feel valued in a space that feels good to be in. Their team handled everything expertly. The employees are noticeably kind, food tastes good, and portions satisfy. The pricing is fair and meals show freshness. The price structure matches the experience."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsdE0wazFjalYwWkhSZlNsTjJVR3N4VUhsWWNYYxAB",
+            "text": "The food is great. The service is excellent. Valentin made us feel special and welcomed. Thank you!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGR2RHZFpWMDVuZURSclUxWnpSVlZtY2xneFRHYxAB",
+            "text": "---\n\nI fully respect your beliefs and sincerely understand your perspective. However, from our point of view as Muslims, we believe that Jesus (peace be upon him) is one of the greatest prophets and messengers sent by God, but he is not God Himself.\n\nWe believe that he was born miraculously to Mary (peace be upon her) without a father, and that he performed many miracles — all by the permission and power of God, not by his own power. His mission was always to call people to worship the One true God, who has no partner.\n\nIn the Qur’an, God clearly states this:\n\n> “The example of Jesus with Allah is like that of Adam. He created him from dust; then He said to him, ‘Be,’ and he was.”\n(Surah Al-Imran, 3:59)\n\nThis means that Jesus’ creation without a father is not impossible for God. Just as He created Adam from dust without a father or mother, He created Jesus by His command “Be,” and he came into existence.\n\nWe believe that God is the eternal Creator, unlike His creation, and He does not take human form. At the same time, we hold Jesus (peace be upon him) in great love and respect, believing that he is a noble prophet among the resolute messengers, and we follow his call to worship God alone.\n\n---\n\nIf you want, I can also make a slightly more concise and smooth version suitable for sharing in a respectful dialogue with Christians. Do you want me to do that?"
+        },
+        {
+            "date": "2달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oaFNVcFVWMWN0VnpseWNFVXlUbTFMWDBGT05GRRAB",
+            "text": "Dorji가 내 테이블을 담당해줬는데 그는 매우 친절하고 전문적인 직원이다.\n메뉴는 모두 맛있었으며 전반적인 분위기와 서비스에 매우 만족한다.(특히 달팽이와 바게트빵이 매우 맛있다.-꼭 추천)\n달팽이 요리 소스에 바게트를 찍어먹으면 천국이나 다름없다.\n다음에 재방문을 꼭 하고 싶다."
+        },
+        {
+            "date": "5달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLQ3MtZkdSa3Z1V2JnEAE",
+            "text": "정말 멋진 레스토랑입니다. NY STRIP(WITH BONE)와 와규 브루스게타 그리고 레드와인을 주문했는데 다 훌륭한 음식이였습니다. 인테리어도 너무 좋았구요, 특히  DRAGANA씨의 훌륭한 서비스덕분에 좋은시간 보낼 수 있었습니다."
+        },
+        {
+            "date": "1달 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSSVVrWmhVR3h4YUhSRmJXRkphRk5sUm05cVZVRRAB",
+            "text": "영어가 짧아 의사소통하며 약간의 실수가 있었습니다. 다른 식당에선 스틸워터와 스파클링 워터가 기본으로 제공되어 똑같이 주문했더니 에비앙 탄산수를 가져다 줘서 물리고 '레귤러' 워터를 받았습니다.\n아무튼 음식을 주문했고 식사중 '돌'로 추정되는게 나왔습니다. 돌 씹을때 느낌은 다들 아실테고, 이야기를 했더니 잠시 후  지배인?매니저? 분이 나오셔서 케이퍼 였을거라고  말씀을 해주셨는데 입에 있던걸 씹어보라고 할 순 없어서 알겠다고 하고 디저트라도 가져다 주겠다고 했지만 이미 배가 불렀고 시간도 늦어 그냥 나왔습니다. 진짜 케이퍼라면 그 정도로 구워질 수 있는지 의문이고? 돌이라면 제 치아가 안깨져서 다행이고..암튼 뉴욕 여행 강냉이 털릴뻔한 에피소드 :)"
+        },
+        {
+            "date": "10달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmc2VLd3BRRRAB",
+            "text": "분위기도 좋고 사진찍기도 좋고 음식은 최고입니다. 모든 메뉴가 빈틈없이 맛있었습니다. 뉴욕 여행에서 두번째 방문인데, 브런치 먹기도 야식에 술한잔 하기도 좋습니다. 세번째 방문도 고려중입니다!\n저희 서버는 Mr.Bench 였는데, 친절히고 유머러스해서 식사 내내 즐거웠습니다."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYem9IY19BRRAB",
+            "text": "힐튼호텔 옆에 있는 프렌치레스토랑인데 맛있어요! 직원들도 다 친절하고 인테리어가 예뻐요. 뉴욕 여행 중이시면 한번쯤 가보셔도 좋을 장소!"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4dDVXeER3EAE",
+            "text": "분위기는 정말 좋습니다! 디너에 갔는데 가격대도 생각보다 비싸진 않았고 양도 괜찮았습니다 개인적으로 맛은 소호에 있는 발사자르보다 맛있었어요 어니언수프도 짜지 않고 담백했고 에스까르고도 무난했습니다 스테이크 둘다 잡내가 나지 않고 매우 부드러웠습니다 폰으로 주문할 수 있어서 편했어요!"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUbVBUdW1BRRAB",
+            "text": "Brunch하러 갔어요\n월요일부터 금요일 8시부터 11시\n양이 엄청 많고 맛있어요\nContinental은 $32에 오렌지주스, coffee, Tea 선택 와 계란 ( any style ), 야채, 빵   나오는데 egg fry가 잘 어울릴것 같아요\nFrench toast인데 berries 와 maple syrup 잘어울려요\nCoffe는 좀 별루\nkusmi Tea를 사용하네요"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyNE16RnpBRRAB",
+            "text": "맛있고 분위기도 좋아요 . 프랑스 보다 맛있는거 같아요\n\nALINA was very nice and provided us great service. food was amazing too!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNscXVuOXB3RRAB",
+            "text": "브런치다운 브런치가 먹고 싶을 때 가시면 좋은 곳이예요. 그냥 브랙퍼스트  주문하시면 커피나 차 포함 29달러예요. 물론 여기에 텍스와 팁이 붙기는 하지만^^;;;\n느긋한 브런치 즐기고 싶을 때 가시면 정말정말 만족하실 거예요. 에그베네딕트도 좋고 가성비로는 브랙퍼스트입니다^^\n저는 차를 주문했는데, 티백과 따뜻한 물 주전자로 주니 좋았어요~\n무엇보다 장소가 진짜 이뻐서 기분전환에도 딱입니다^^"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCMDd2SWpRRRAB",
+            "text": "타임스퀘어 근처에서 편하게 프렌치메뉴를 즐길 수 있는 곳 입니다. 내부도 잘 꾸며놓았는데 단점은 옆테이블과의 간격이 굉장히 좁아요.\n그래도 음식도 맛있고 직원분들도 친절하시네요.\n에스카르고, 버터넛 스쿼시 스프, 버거, 크로크마담 다 맛있었습니다."
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyOGE2aFRBEAE",
+            "text": "점심시간이라 매우 복잡합니다..\n미스크착용을 권장하지안앗습니다.\n많은 손님중 마스크착용은 없더군요..\n가격비쌉니다..\n사람이 많아서  분이기을 느끼기 어렵습니다..\n음식은 대체적으로 짭니다.."
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURabjdyOGZnEAE",
+            "text": "Filet mignon을 시켜서 먹었는데 아주 만족스럽고 부드러운 육질에 감탄스러웠음. 다소 비쌀 수 있는 가격이지만, 후회는 없었고 뉴욕의 물가와 음식의 퀄리티, 서비스 등 생각해보면 오버 프라이스라고 생각하지 않음. 담당 서버가 추천해줬던 60일 숙성 드라이 에이징 스테이크는 특유의 육향이 잘 느껴지는 민족스러운 스테이크였고 레어로 먹는걸 추천하고 싶음. 그래도 난 내가 시켰던 Filet mignon이 가장 만족스러웠음."
+        },
+        {
+            "date": "6달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZbU83TDRnRRAB",
+            "text": "다시 방문하니 더 좋아요! Ozzy 아저씨 엄청친절하고 윙크도 잘하세요! ㅇ.< 식당은 예쁘고 식사는 맛있어요! 오리요리 추천👍 그리고 꼭 크림브륄레를 드세요👍👍"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPdTdMQ3hnRRAB",
+            "text": "홍합요리 라비올리 스테이크 모두 다 맛있었어요! 개방감 있는 공간이에요 미리 예약하고 가시는 거 추천드립니다:)"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNob18yWDJRRRAB",
+            "text": "어니언스프는 조금 짜서 아쉬웠어요. 스테이크는 보통이었어요.\n바테이블에 앉았는데 다소 정신없는 분위기라 아쉬웠습니다.\n내부는 화려한 인테리어라 좋았어요."
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtNF9yNWF3EAE",
+            "text": "전 좀 별로였습니다. 저는 아무도 아닙니다. 실내 좌석 테라스 좌석 크게 구분이 없는 쇼핑몰 로비에 있는 레스토랑입니다. 주변 소음이 엄청납니다."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUNXJ2aHhRRRAB",
+            "text": "이렇게 짠 음식은 해외여행 통틀어 처음인것 같아요 양파스프도 짰고 샌드위치에 심지어 샐러드도 짰습니다 대신 분위기는 너무 좋아요"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1LVozQXJ3RRAB",
+            "text": "스테이크 굽기 적당하고 맛있어요😍 에스카르고는 전혀 짜지 않고 맛있었구요! 쫄깃한 식감보다는 부드러운 식감이니 참고하세용…"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHNmNlNTlBRRAB",
+            "text": "런치 먹었다\n아웃도어 테이블로 예약햇다 아웃도어가 더 밝고 예쁘다 여기는 치우는 사람 따로 주문 받고 서빙하는 사람 따로 따로 잇어서 너무 복닥거리고 정신 없긴했다 ㅡㅡㅋㅋ\n서비스가 좋기는 한데 너무 가식적인 표정과 행동이 부담스러웠음(억지로웃는 표정)\n음식은 전체적으로 만족\n식전빵과 나오는 버터가 정말 별미\n마담/시저샐러드/에스까고/어니언숲\n이렇게 먹엇다"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5dzZESzZRRRAB",
+            "text": "We love  in the bar. He is so kind !!🫰🏻🌹 and 여기 바 분위기가 너무 좋고 바텐더도 친절해요재방문 예정입니다"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4LWZIUGx3RRAB",
+            "text": "음식너무 맛있고 직원분들 엄청친절해요\n다시가고싶은 찐 분위기 맛집이네요.\n강추~~"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMyNnBpRDZRRRAB",
+            "text": "프랑스요리가 입맛에 이렇게 척척맞을수가!! 스테이크에 불맛이 살아있었어요"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREbDdxU3h3RRAB",
+            "text": "분위기 좋은 레스토랑인데 가격은 정말 비쌌다.\n메뉴 이름들이 프랑스어여서 당황했지만 메뉴 설명은 영어여서 대충 때려맞춰서 시켰다.\n음식들 다 맛있고 직원분들도 정중하고 친절했다"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxbUliQ1pREAE",
+            "text": "너무 맛있어요. 다시 방문할거예요."
+        },
+        {
+            "date": "4달 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wRmRYaHdNMlk0YUVrd2JYWmxRbTFNUkRCd2EwRRAB",
+            "text": "고급음식과 분위기는 좋고 친절합니다"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5dzRENjFRRRAB",
+            "text": "너무 친절하시고 맛도 훌륭합니다. 다음에 뉴욕에 방문한다면 꼭 다시 와야겠어요!"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURldExING5BRRAB",
+            "text": "매장내 분위기도 좋구 음식도 맛있었어요\n무엇보다 직원분들이 친절하셔서 좋았습니다"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCdWRqWjBBRRAB",
+            "text": "음식은 괜찮았으나 웨이터(kelvin)가 상당히 불친절했다.  적은 돈을 지불하고 방문한게 아닌데 서비스는  평균 이하였다. 스테이크를 먹었음에도 굽기는 어떤지 음식은 어떤지 확인조차 하지않았다. 첫 미국여행이라 좋은 기억만 남기고 싶었는데 그렇지못했다. 웃기는건 우리한텐 이렇게 무례한데 직장동료한텐 미소를 보이며 대한다는 점이었다.  정말 비추천하고 싶어요~  돈은 돈대로 쓰고 기분만 안좋아졌거든요.\n한꾹뿐뜱 여깅돈고 ^^"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtLU11SjVnRRAB",
+            "text": "음식 맛있다는 소문에 갔는데 양파스프도 맛은 대충이고\n테이블은 왜이리 작은지, 넓은 레스토랑에 작은 테이블이 가득.\n음식을 다 놓을수가 없어, 먹으면서  그릇 정리를 해야했어요\n$144.64 (한국돈 200,000원 이상), 2명이서 스톄이크와 연어와 양파스프  3종류를 시켰는데 스테이크는 그냥 괜찮은편, 연어요리는 싱싱하지 않음. 음식은 대충인데 왜 이리 비싼지!\n비추천."
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPNVpHdGlnRRAB",
+            "text": "와인과 소고기 스테이크의 맛이 최고입니다. 감자튀김도 짜지않고 고소한 맛이 좋았습니다."
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHczhHeDNBRRAB",
+            "text": "프랑스 요리  종류  다양하고, 종업원  친절함.  다만 자리가 비좁은  단점"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCcS1uLUlREAE",
+            "text": "무난무난하게 점심 먹을만함. 공간 인테리어는 너무 감성 넘침."
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtcTlUMTJ3RRAB",
+            "text": "분위기넘죠쿠음식도넘맛나요!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwcWRHdDhRRRAB",
+            "text": "알폰스무하 느낌"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtaklhRlVBEAE",
+            "text": "가게가 이뿜"
+        },
+        {
+            "date": "1달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsU2RFbE9VMUpHUkZadFdFOURjRlpaVW14blNWRRAB",
+            "text": "Nous avons découvert ce restaurant par hasard et qu’elle chance d’avoir pu y dîner. Le lieu est très beau et la décoration ressemble à une brasserie de la capitale française. Le décor et l’ambiance est chaleureuse on a l’impression de se retrouver à la coupole à Paris.\nLe service est à la hauteur du lieu et nous avons la chance de rencontrer RENAUD chef de rang et qui c’est occupé de nous avec un grand Professionnalisme et cela fait plaisir de rencontrer quelqu’un qui s’implique et qui est passionné par son métier. Pour le vin nous avons été très bien conseillé par HIPPOLYTE le Sommelier de l’établissement car nous avons pris sur ses conseils,le champagne Lallier. Un champagne excellent pour un très bon rapport qualité prix. Les entrées et les plats sont copieux et de très bonnes qualités. C’est le meilleur restaurant que nous avons fait lors de notre séjour à NYC. Merci a vous deux pour votre accueil et votre professionnalisme car vous êtes deux passionnés et cela se voit que vous aimez votre métier. La cuisine est excellente et digne d’un grand restaurant français. Les plats proposés sont des traditionnels de la Gastronomie française mais ils sont pleins de saveurs et gourmandises.\nSurtout n’hésitez pas à réserver dans ce restaurant que vous soyez en couple ou entre amis vous ne le regretterez pas.\nNous avons passé une excellente soirée grâce a vous et nous reviendrons lors de notre prochaine visite à NYC."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkV01XOHpVR2hQTFdZdFMyMTBNV1U0TTI5WGFIYxAB",
+            "text": "very cute brunch spot!! i love that the staffs are very interactive and sweet. we came as a big group for a bday celebration and they gifted our bday girl a restaurant book + icecream with a little candle:)\n\ni had the eggs norwegian and it was sooo yummy and filling!! some of my friends had to pack food home afterwards. the restaurant’s kinda open space so lighting was very natural, cute interior as well.\n\nmight wanna come back at night because i’m sure it’ll look even better"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kelZIcGtja0kyZUZNdGFFSlRPVEJ2YkZWWlMxRRAB",
+            "text": "Lovely service!!!!  We came in as a party of 4 right before the restaurant opened and didn't have to wait.  Coffee was excellent.  My croissant was amazing - extremely flaky and buttery.  Egg omelet was good but we could take a bit less goat cheese.  Others in our table enjoyed their egg benedict.  Service was excellent.  Beautiful space!!!  Highly recommend!!!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5ZlkxSTFRbVZZVkVWQ1ZUZDJUSEp5Umt4NVdIYxAB",
+            "text": "La Grande Boucherie is more than just a restaurant; it’s a truly magnificent experience. Stepping inside feels like being immediately transported to a grand, bustling brasserie in Paris, complete with stunning architecture and an incredible, lively atmosphere.\nThe ambiance here is second to none, making it a perfect spot for a special occasion or an impressive business dinner. The decor is opulent, yet the energy keeps it from feeling stuffy.\nThe food lives up to the setting. As expected from a world-class French steakhouse, the steak (as seen in the photos) was cooked to perfection—richly seared on the outside, incredibly tender, and served with a deeply flavorful sauce and beautiful accompaniments. We also thoroughly enjoyed the lighter fare, such as the beautifully plated salmon dish with fresh toppings and a vibrant olive oil drizzle.\nThe service was impeccable—attentive, knowledgeable, and delivered with the polished professionalism you’d expect from a fine dining establishment.\nFor anyone seeking an authentic, high-quality French culinary experience in the heart of New York City."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toMlRscDVUMW96YTFGUlVrdHRjalZVT0hkZldYYxAB",
+            "text": "Daniela was our hostess and she was amazing! She was professional, friendly, knowledgeable, and extremely attentive to our ‘halal’ diet. She made sure to recommend us the best things on the menu, which were fit to our restrictions/ cravings.\n\nThe ambiance was beautiful; it reminded me of the time I went to Paris. She gave us the best table upon request and made the space super cozy for us.\n\nWe spent our wedding anniversary here; it was definitely the right spot to come to. We will definitely be coming back again! 5/5 recommend to every body!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSUU5rNVFiMnhyVDNSSlQxa3dhSEZCTlcwdFpGRRAB",
+            "text": "My wife and I made reservations for brunch celebrating 20 years together. We were seated quickly, the food was delicious and quick and the service was top notch. Namik recognized our anniversary from the reservation, spent some time with us after our meal chatting about the city and thanking us for dining with them. We had such a great experience!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oSU56QkJXblYxTnpkV2RsWlViVVYzUVRWUmIwRRAB",
+            "text": "My experience here was overall good. The food was decent, though not particularly impressive. I tried the duck after seeing many recommendations, but it ended up being my least favorite dish as the sauce tasted a bit like herbal medicine and the meat was dry, though my boyfriend enjoyed the flavor. The other two dishes were nice. The real highlight was the atmosphere. Spacious with high ceilings, plenty of greenery, and a bright, airy feel as sunlight streamed through the glass. Worth a visit for the setting alone."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OSmVHdHhhM1ZLTkUxNWVWcG1OekZoZEhFMmVVRRAB",
+            "text": "This was my first time visiting New York and one of my first choices of food I chose to come and eat. I was hosted by Bench and Omar and I will say I was sincerely pleased at how much attention and care they had for each one of their…"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSV1drTk9WM1ZKWm1nNFZFeE9kWGxMWVVORGIzYxAB",
+            "text": "The truth is I really wanted to like this place. My friends wanted to go last time we were here. There was a 45 minute wait and we decided to go somewhere else so next time they visited, we went.\n\nFood- however the food fell relief flat and this was Across The Board. I got the steak sandwich that felt strangely not fancy. The only thing good was the escargot and that was just drenched in butter and super oily. No one seemed to really enjoy the food, but we enjoyed the group that we were with together just not worth the price and none of the drinks were they stand out either?\n\nAtmosphere – the atmosphere here is cute. It has great outdoor seating indoor seating. It’s a nice French experience. It’s beautiful. I mean, I can see why my friends really want to go. However, the atmosphere does not replace the food. Spent way too much money. Here won’t go back it’s not on my list But if you just want a nice atmosphere go for it.\n\nMy biggest issue is how slow the service was. I drink more because the service was so slow and I think that’s kind of their plan. This is probably why there was a long wait in the original first place. This is on my new list but if you go and you enjoy it all you.\n\nMy friend did order the lobster pasta which I tried, and it was delicious. It was probably the best thing on the table. We all agreed."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WbFRIWlFTMlpWWld0a1lXMDNTVE5vV2tobU1uYxAB",
+            "text": "The food was phenomenal, with large portions. We ordered a steak and were surprised by how big the piece of meat was, along with a generous portion of fries. We even got a dessert at the end because it’s our anniversary. The atmosphere was fantastic. We have no words for the staff… Our server was a girl named Kate, and we were truly impressed with her. So positive, smiling, polite, and she gave us great food recommendations. All in all, we highly recommend this place and can’t wait to come back!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KeU4yRklUbVpDVlRJdFpWOVZhVGhpVUdKcWRsRRAB",
+            "text": "Amazing food. 5 star service. Our waiter was very knowledgeable, and professional. He did a great job taking care of our table. The food is amazing. I loved the onion soup and pate de champagne. La vie an rose cocktail was very well done and very refreshing. Good desserts also. This restaurant is great for special occasions, and brunch with friends. We celebrated a birthday. The atmosphere is authentic and very cozy. You feel like you are in Paris. Definitely be back ."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWT01tbHlVMTlZTW5sT2FIQmxMV0ZmUmpocVJGRRAB",
+            "text": "Nestled into an alleyway that is large enough to be a street, aptly named 6 1/2 Ave, lies a massive French bistro. Once passing through the main entrance, you notice the decor and lofted ceilings which are about as grand as the food offerings inside. The menu can prove challenging to diners not familiar with French cuisine, but luckily the wait staff is incredibly patient and knowledgeable to accommodate the unique palette of each guest.\n\nWe started with an excellent wine recommendation from the sommelier and navigated multiple courses of some classic dishes and other modern interpretations. Throughout our experience, an army of staff quickly whisked away plates and silverware to replace with fresh sets. I found it especially entertaining to witness the table transform from one act to the next. Our meal ended with a trio of desserts that ranged from average to spectacular. While there are a lot of places to get your Parisian fix, this bistro leaves a lasting lasting impression with it's grandeur and French flavors.\n\nBelow is a breakdown of what I ordered, along with my thoughts. Asterisks (*) indicate items I especially enjoyed and would recommend ordering again.\n\n*535 Marsanny Red Wine ($90) - Light, fruit-forward, and approachable, I really enjoyed each glass. As dinner went on, the wine seemed to open up and taste better.\n\nHeirloom Tomato & Fennel Salad ($24) - Fairly simple and straightforward. Would've been improved with brighter olive oil and some flaky salt.\n\n*Les Escargots ($32) - Anyone intimidated to try snails should not miss this dish! The texture is reminiscent of shrimp and of course you can't go wrong when cooking in garlic butter.\n\n*2pp Cote de Boeuf Pour Deux ($185) - I believe the name of this dish roughly translates to steak for 2, and let me tell you this could easily satisfy 4. The meat is seasoned perfectly and the bone marrow adds a deep richness. Don't miss this one!\n\nLobster Linguine ($52) - I would skip this one and try another main. The lobster was slightly overcooked and the dish lacked a bit of flavor.\n\n*Mousse au Chocolat ($25) - I don't think there is a single negative  thing about this dessert. It's unctuous, chocolaty, and the components all synced together perfectly!\n\nCreme Brulee ($16) - Probably one of the more underwhelming versions I've had. While the presentation was lovely, the custard was lumpy. It could've been an off night, but this didn't do it for me.\n\nBasque Cheeesecake ($18) - The slight sourness of the cheesecake paired well with the sweetness of the creme fraiche and berry coulis. Overall pretty one-dimensional."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pJd1NrNVRkVmRHYm5SdE5rWnpRMk5QTWxsMmEyYxAB",
+            "text": "We had an amazing night at La Grande Boucherie! The bar experience was fantastic, with great service and attention to detail. The escargots were the highlight of my meal - the best I've had in a long time! The striped bass was also delicious, especially with the creamy avocado puree. We're already looking forward to coming back soon!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZNGVuQmZjM28xU1dwelRGcFpkMXBOYnpKQk9YYxAB",
+            "text": "Went there for brunch first thing after touching down in New York — had the most amazing time, I went back the very next day just for the Lady Daisy 🌼 The duck breast dish & Le’s Croques Madame were delicious as well!\n\nGreat atmosphere and incredible service! 🤍Namik and Jeny took such good care of me; it already feels like a home away from home."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NelF6aEpPRGxIYzJ0MlYzTkZXa2g0TlZOc2JXYxAB",
+            "text": "This place is what happens when Paris and New York decide to show off. The moment you walk in, you’re hit with that classic brasserie glamour, high ceilings, stained glass, and so much charm it almost feels unfair to every other restaurant trying to pull it off.\n\nThe food? Solid across the board. The smoked salmon toast was perfectly balanced, the granola looked like it came from a lifestyle magazine, and the cappuccino actually tasted as good as it looked. Even the eggs and potatoes felt like they had been auditioning for a role in a French film.\n\nService was polished but relaxed, the music was just right, and you can tell they actually care about the details. It’s elegant without being stuffy, indulgent without being heavy.\n\nFive stars, no question. If Paris had a brunch love affair with Manhattan, this would be the result."
+        }
+    ],
+    "reviews_count": 100
+}

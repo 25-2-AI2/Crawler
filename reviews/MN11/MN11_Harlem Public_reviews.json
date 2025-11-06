@@ -1,0 +1,614 @@
+{
+    "name": "Harlem Public",
+    "place_id": "ChIJ1bpep2L2wokRjaoBxorAv1Q",
+    "grid": "MN11",
+    "address": "3612 Broadway, New York, NY 10031, USA",
+    "rating": 4.5,
+    "user_ratings_total": 2201,
+    "phone_number": "(212) 939-9404",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxSE9VSk5NRGQzTWpaRFdDMUtWR2RoV1U1M2RXYxAB",
+            "text": "Phenomenal spot which I’m glad is doing well after reopening, love their food and neighborhood feel."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WeWNuTjJhVkF5ZGxKamRtbExWSFZKZWt4NFNtYxAB",
+            "text": "I love fish tacos. It’s perfect"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKU0xYRmZWR3hpUW0xamRtcElNRWw0ZEhWNWNWRRAB",
+            "text": "Me tocó realizar mi celebración de pre-cumpleaños en este Pub. No fue random, fue compartido y recomendado por uno de mis más queridos colegas de La Gran Manzana y henos aquí, con un hambre de lobos dispuestos a devorar los manjares que ordenamos.\nPara empezar, ordenamos un draft de Guiness y esto motivó al apetito ir en crescendo. Llegaron los coliflores empanizados para despues, sorprendernos con unas hamburguesas de tamaño, descomunal en cuyo Top se encontraba un chicharrón de queso parmigiano perfectamente sellado y yo creo eran casi 400 g de carne, carne  deliciosamente preparada. Las papas a las francesas deliciosas. Es justo ahí donde empieza el problema, o te olvidas de la dieta y le entras macizo, o no regresas más, nunca ahí. Resultó todo lo contrario, una verdadera delicia y una invitación a repetir cada fin de semana. Así es que, si por alguna razón andan en esas coordenadas, no dejen de visitarlo.\nDebo agradecer las atenciones de nuestros amables meseros, quienes siempre estuvieron atentos a cualquier necesidad. Congrats guys!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wdlZuUkZUbEZEVVVvM2VuQjZNMkpxTmxkeVYyYxAB",
+            "text": "Harlem Public is my go-to spot in the neighborhood. The cocktails are delicious and reasonably priced ($13-17), they have a good selection of beers and ciders which are also well priced (~$7), the music and vibes are great, and the staff are friendly. Also their tater tots are addictive. They usually have sports games going on the TV, and indie music playing in the background. My only criticism is that most of the burgers need a little more acidity. If youre getting food and drinks you can expect to spend around $30."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tORlNITkpZM0l5UlVkUU1sQkVYek5UZVdVME5GRRAB",
+            "text": "Been coming here for years now and I enjoy the atmosphere, staff and menu. Great brunch spot; HIGHLY RECOMMEND the Fork and Knife fries."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201RVFXbEZiR0p1Um5aQ01YVlpVamRqVlhwS1VuYxAB",
+            "text": "Best burger, brunch, and beer place in Harlem, no contest."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OTWVUbFdVVlIxWTI1c1ZHTTFiRFpoUWtsb1QwRRAB",
+            "text": "Girls night out ."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGcGJrZEVZVzExTFVka1JYVnFRekF6Y210UGQzYxAB",
+            "text": "Excellent service and good attention from its employees, the dynamic and joviality of the bartenders, Cody is very funny and gives his all to his audience."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxblZtbEhSbkI0VkhCMmVrTTNlVGxxUjNCeWNHYxAB",
+            "text": "Harlem Public has hands down some of the best burgers. Me and my friends always get the peanut butter burgers and they are amazing. It's not what you would expect but the combo truly works. Also tater tots are delicious."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5eFRuQlBkblpGTkdaSGEya3dSemM0T1MxTGVYYxAB",
+            "text": "Strains for Life by Styles P\nRight down the street. Food 🥝 was amazing too!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GM1UzTjFVRmxmVm5wRWVtOU9RVzFOY1ZsWlZYYxAB",
+            "text": "The quality was a genuinely unexpected find. Their food consistently delivers satisfaction. The service personnel showed remarkable consistency from start to finish. This restaurant has a nice feel to it. There are zero issues to report."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNd1VWWkZXbmhGYUhsVE0wRjFibU5sVVdSRE5sRRAB",
+            "text": "Can you came here with some people who live in the area that highly recommended it. hands down fantastic!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwdGRqZHlaMGd4YjNaWk1sRktZM0l6VlRabE1VRRAB",
+            "text": "Have been coming here for 5 years but the past 5 or so times I’ve been here the fried chicken sandwich has been so bad I can’t justify coming back. Service is usually very good."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Gd1RHZHRiRjlzZWt4ZkxURXlkVkl3Y0RKWGFWRRAB",
+            "text": "Fun ,relaxed atmosphere with friendly service and decent food"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5VWJtTTJRMlZrV1VWSlNEUXdUWE51Ym5nemJuYxAB",
+            "text": "Dined recently in July 2025 at this cozy local restaurant in Hamilton Heights with friends that live around the corner and absolutely loved it. The menu was creative but the food was perfectly prepared and delicious and the cocktail and beer offering was fantastic. We sat outside on the terrace and the atmosphere was buzzing but so relaxed and fun and the wait staff were super friendly and helpful. Hope to visit again the very next time we're in town!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wZk9HcHlZemRmWVVOc2RuWndaM2RDU0hGSlpXYxAB",
+            "text": "From the moment we walked in, the vibe was welcoming and lively. But what truly made our visit memorable was Talaya — she was amazing! Her energy was warm, her service was top-tier, and her recommendations were spot-on. Every dish she suggested hit the spot perfectly.\n\nThe food itself? Incredible. Every bite was flavorful, fresh, and cooked to perfection. You can tell they care about quality and consistency.\n\nHands down, this was some of the best customer service we’ve experienced in a long time. If you’re in Harlem, Harlem Public is a must — and if you’re lucky enough to have Talaya as your server, you’re in for a treat!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKRVRuZHhVMGR1TWpSSk5rMDFSRkF3WVdkQmVWRRAB",
+            "text": "We went for happy hour and the Strawberry Marg. was very good and the Cuban sandwich as well. The only thing about thus place is that the bar was very busy, so we had to wait a little for our drinks, also the mac and cheese wasn't too good. It was a little bland for our taste."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210VGFIRnRjMnhtV0ZrMFNIWjZXbWhvTFhKdldHYxAB",
+            "text": "Good food!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aMmJ6RktXRGRNWldaVFh6SjFNbGR6YUZGTlYxRRAB",
+            "text": "Was closed no longer in service"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sdGFuUlZla0ZHUzNwMlpsRjZjM0p5ZVU0MmJtYxAB",
+            "text": "Nice staff, always! The food is always great, burgers are outstanding! Great vibe!"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvNjh2SmN3EAE",
+            "text": "Didn’t try the food but based on\nMy guests expressions, they were not impressed. Had the pop rock margarita and it taste like a basic strawberry margarita. The staff were kind and the place was buzzing with folks."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLSHh4T3FIX1lEbkt3EAE",
+            "text": "Always a good vibe with games"
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaa1lfSnVBRRAB",
+            "text": "Loved the Parma crusted burger!\n\nWent back a year later and everything was great!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvczduZnR3RRAB",
+            "text": "can usually get seated quick, friendly staff, great food, great drinks, can't ask for more.\n\nour go to is an order of chicken chunks, some tots, a mezcal lavender mule, and a purple rain."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvNXBQQUNBEAE",
+            "text": "Great spot"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvbHNlZTVRRRAB",
+            "text": "Loud."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvb3FxZE53EAE",
+            "text": "Went on a Saturday night so the place was PACKED! Still had a fun time and my craving was fulfilled. I used to order from them a lot when they still had a spot a Northend which was MUCH closer to me than this location but craved their Poprocks marg and tater tots so much that I figured to take the trip and def worth the trip!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJNTRYV0RREAE",
+            "text": "Service and food was great!!! Will be back😁"
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJd0t6bldBEAE",
+            "text": "Excelente ambiente y muy buen servicio !!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJekl2MTJnRRAB",
+            "text": "Peanut Butter Burger!!! Their beer selection is really good  one of the few places with Nitro milk stout and they switch up the selection often."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3cGNYRlV3EAE",
+            "text": "Was on the way out the city. Decided to stop and grab some food a little later in the night around 11 pm stumbled on Harlem Public. Great atmosphere, great music, great service. Grabbed some wings and fries. Awesome wings, good size wings, crispy, really good sauce. Only let down was the fries bunch of little pieces, might have been because we were there a little late. But overall great experience. Will visit again."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRdjl6OWx3RRAB",
+            "text": "Really good burgers and apps, get the loaded tater tots"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRcDl5U1pnEAE",
+            "text": "The food here is INCREDIBLE and so is the service, but just know that it’s very loud inside depending upon when you’re there.  Great neighborhood spot, definitely worth a visit!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRa1BERHhBRRAB",
+            "text": "This place opened my mind to new possibilities, like peanut butter on a cheese burger.  I usually order online, love the food.  A hidden gem in Harlem"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRdm96R2tnRRAB",
+            "text": "Super friendly service and a great atmosphere! The food is delicious, and the portions are huge! Definitely great value for the price.\nA solid spot, highly recommend!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnc0tpRFpREAE",
+            "text": "Great food,great service. This place is a definite vibe."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnd2JlbDB3RRAB",
+            "text": "Place was nice, food was decent, service was terrible.\n\nI myself work in the service industry and never saw something like it. Our server Stephanie was communicating with us with \"head movements\" and \"mhmm\" not a single word from her, not a single welcome or thank you for coming, or here's the check."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnMXVUby1BRRAB",
+            "text": "The staff is great and the food is amazing their chicken chunks, wings, burgers, drinks, and most of all the fried avocado is amazing."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBbE9qbHB3RRAB",
+            "text": "We ordered 3 burgers and they were fine but one was not at its temperature. We ordered a dorito quesadilla order, it was very tasty, I recommend it. In delivery the colors were cold but if you eat on the site it would be better."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBaUs3aXFnRRAB",
+            "text": "We really had a great time having lunch here during our vacation in NYC.\n\nThe waitress was super friendly with us, the service was fast (we were in a bit of a hurry) and the food was delicious.\nAlso, it was next to the Hispanic Society, which we were planning to visit just after lunch.\n\nThey don't accept reservations, but we didn't have problems to find a free table.\n\nThank you!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBOFpuR1BBEAE",
+            "text": "I love this place. Nice vibe, nice people and very nice food."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBbXFUcHpBRRAB",
+            "text": "The service was excellent and the atmosphere is great. The menu is lacking and I was severely disappointed they removed my favorite item, the big tot energy! Bring back the big tot energy please!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBbXJDd3BBRRAB",
+            "text": "Great service, great food, disappointed by the removal of the big tot energy!! Need the big tot energy back asap plz!!!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfcThiN0p3EAE",
+            "text": "Awesome place to hangout and get a few drinks. Small, yet cozy. Staff very attentive."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmOWRYY2d3RRAB",
+            "text": "Fantastic burgers and apps! Their patty melts are some of the absolute best. Would highly recommend them for good and drinks - fantastic beers and cocktail specials!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmLXJ6c0FnEAE",
+            "text": "Drinks were good ."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2cFliVVJnEAE",
+            "text": "I just tried to place a delivery order, and the site must be down because I tried 3 separate cards to pay, and they all received an error. Then I called, where I was greeted with an answering machine stating they don't take orders over the phone,  and that if anyone \"has an issue,\" send an email and someone will get back to you. Is it that inconvenient to answer a simple phone call for potential customers? I'm so annoyed, terrible customer service. Will be taking my business to a restaurant that actually cares to interact with it's customers."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQMkxDOTBnRRAB",
+            "text": "I’m not sure how to rate Harlem Public. I wanted to like it, but of everything our table ordered - a burger, a loaded grilled cheese, mozzarella sticks, wings, fried cauliflower, Caesar salad, and fried pickles, the best was the wings. Nothing had any flavor. We were pouring and pouring salt on our food. I ordered a burger medium and it was more than well done. But I our server was excellent and took the burger off."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQX05YMWd3RRAB",
+            "text": "Best burgers in NYC! The fries are amazing!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzaDZTQ0ZREAE",
+            "text": "Creative menu, quality food, friendly staff!"
+        },
+        {
+            "date": "1년 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYb3IyREF3EAE",
+            "text": "12 anni fa la mia prima volta ad Harlem Public.. ero in vacanza ed abitavo proprio li vicino.Lo considero un posto magico che ha inspirato il menu’del  locale che apri’subito dopo il viaggio a Roma, la mia citta’.\nCosi ogni anno che vengo a NY, il mio primo pasto deve essere li!\nIl cibo è ottimo, questa volta ho preso il burger cajun: divino.\nSelezione di birre sia alla spina che in bottiglia/lattina, ottima.\nMenzione speciale per lo staff, negli anni ( questa è la settima volta che visito la citta’)mi ha sempre accolto alla grande!\nCi vediamo ad Agosto!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURib3RYbVVBEAE",
+            "text": "This was a nice little spot for a casual dinner. They have a decent selection of craft beers on tap and a good menu of pub food including some creative burgers. I got the peanut butter. My first time having peanut butter on a burger but have to say, along with the ample bacon, it compliments it quite nicely. Nice big beefy burger as well. The tater tots are quite good too - nice and crunchy. I’d come back if in the neighborhood"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKMUpPdVFnEAE",
+            "text": "I love this place. Such an amazing safe neighborhood feel. The good is always comforting. I’ve had the Parmesan Burger before and loved it. Chicken and Waffles are super. I had the Grilled Cheese and chicken chunks on my last visit and both were top notch bar food choices. I go here about once a month.\n\nI usually get to see cute Price when I’m there who is super charming and welcoming. I forget her name, but the female server that’s an actress is mad sweet and easy on the eyes. 😻.\n\nThis place is LGBTQIA friendly. And a great first date spot with no pressure and you won’t feel guilty about picking up the check."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6MnNQVzJRRRAB",
+            "text": "Finally came here for lunch and we were the first people there (they just opened) and immediately was greeted by Alley and I knew right away she was going to be a great waitress!\n\nDrinks were on point! (I’m picky) lol and the food was good too I got the loaded grilled cheese! If you like comfort food and genuine service this is THE SPOT!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMyb2JmT3l3RRAB",
+            "text": "I randomly came here one day after work. The service, the food and the drinks were great. My puppy tagged along so I sat outside to eat. I ordered the purple rain drink and the chicken tenders. My bf and his friend ordered burgers. Yo, the…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREc1ppSFd3EAE",
+            "text": "Stopped for a burger during brunch time and the place was filled the whole time I was there. The turkey burger was good and I was looking for a good turkey burger for awhile now. You can customize your burger or order one of the speciality ones from the menu. I ordered a turkey burger with white cheddar cheese and lettuce with fries. They also have sweet potato fries. Harlem Public has bar vibes so it's real down to earth and laid back. The staff was always moving around and open to give suggestions if you're trying to decide what drink or meal you want to order. They also have tons of appetizers. I ordered the mozzarella sticks which were really yummy and had a good cheese pull. I thought they were a little overpriced but Harlem Public is a cool spot. I'd go back."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvdmJIVktBEAE",
+            "text": "Pretty far place for those living outside Manhattan but I would definitely recommend it if you’re around the area.\n\nI got the popular peanut butter signature burger and the fried chicken thigh. Both really tasty but I’ve had better fries, esp the sweet potato fries.\n\nThe place is pretty packed but has a lively vibe to it. Remember they have brunch on weekends until 3 pm; and theres a 1 hr gap until the kitchen is ready for dinner again at 4 pm."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDZ1pXWUJnEAE",
+            "text": "So we decided to come to @harlempublic on a last-minute idea, and you knew the Bodegafatboys were gonna order something delicious.  Anywho we've been here numerous amount of times and decided to feature one of our favorite places which is Harlem Public! The food here never disappoints portion sizes are great and the combinations they offer with these meals are slightly unheard of. (I'll give you an example of what I mean below) What I love about coming here with the crew everyone always leaves out here with a smile. I've never had one bad experience here at all great tasting food, cheap drinks! Despite eating here during a pandemic we have to deal with outdoor dining so mostly everything is served in a plastic solo to go Tupperware. It's unfortunate you won't get to see these beautiful dishes presented properly the way the chef intends you to see his creations. Overall regardless if it's in a too-go plastics food still tastes top notch and will always support this local business.\n.\n.\n.\nSo here are the food menu items we ate before and what's in them.\n.\n.\n.\n.\n1. Maple butter fried 🐔. Crispy fried thigh, brown sugar bacon NY cheddar, drippy egg on maple butter brioche.\n\n2. Honey Sriracha wings\n\n3. Dorito Quesadilla. Chicken breast, Dorito cream cheese spread\n\n4. Mac & Steez Chorizo\n."
+        },
+        {
+            "date": "1년 전",
+            "language": "ca",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5dEoyOG9nRRAB",
+            "text": "Va ser una cerca a maps el què ens va portar a aquest bar tan chulo. Érem una colla gran, ens van muntar unes taules a la terrassa, tot i ser hivern, no vam passar fred.\nÉl què més em va agradar va ser l'hamburguesa de pollastre. Però,  tot estaba molt bo, tant les aletes, l'amanida, les hamburgueses o el sandvitx.\nEl millor del local a part del menjar, va ser l'Amy (no sé com s'escriu el seu nom), la cambrera què ens va atendre. Es mereix un augment de sou. Cuideu-la molt perquè us fidelitza el client.\nAmy,  thanks for all, never change you, we never forget your attention.\nEm va encantar la forma de servir l'aigua de l'aixeta, com si fos licor."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaZzY2aXVBRRAB",
+            "text": "An amazing neighbourhood spot, with hangover brunch food, awesome cocktails, and a fun feel. We’ve come many times and it’s a really great experience. The service is at times slightly slow, but servers are friendly, and the food is excellent."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRc0lmaTFBRRAB",
+            "text": "Came on a Thursday and was the first customer as they just opened. Excellent service even as it got busy. Food was fast and tasted great. We got a lemonade, a special of the day, cheese curds with ranch dressing, and burgers. The burgers…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKMHFUVHZRRRAB",
+            "text": "The first time I visited (4 years ago), I tried the peanut butter burger and was sold. This time I went for the \"Wake and Bake\", delicious as well. The hamburger is meaty. My friend had the \"Hot Fried Thigh\". It wasn't too spicy, more on the Buffalo chicken side. I really liked that one too."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMOXMtcnd3RRAB",
+            "text": "My vegetarian girlfriend’s favorite restaurant serving a completely vegetarian burger. Personally, I appreciate their creative burgers (peanut butter, for example), but I mostly come here given it’s a good compromise when looking for a good burger that has vegetarian options."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNldTRLMHhnRRAB",
+            "text": "Excellent food and service. The avocado fries shocked me, really was a hit with my wife and I. My parmesan crusted burger was delicious. The drinks are very good as well."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXeXJlcjVRRRAB",
+            "text": "First time at this place. Had a great meal at this place. We were able to sit outside ima beautiful day. Server was great even though it was busy for a weekend lunch. I would recommend this place. We debated on getting an appetizer and the server suggested not too since it was busy and our food came pretty quickly."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHdnNhSGZREAE",
+            "text": "We had a great time here. The atmosphere is so nice and friendly, everyone here is so patient and takes our order with care.…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURVd2ZuTk1REAE",
+            "text": "I have been fantasizing about this place for the better part of a year. Their Instagram photos are amazing and entice you the way they should. The challenge is managing expectations. Their pictures should resemble how the dish is served and they don't. I had been looking forward to the chicken and waffles but after I saw it served to the table next to me was immediately disappointed. I went with their breakfast poutine because I didn't have any expectations for it and it was decent. On balance the place is super average. I've had better brunches. I would try it again for lunch but now that I know everything isn't as advertised, I'd lower my expectations to avoid disappointment. In the end, it's just ok. I found the prices fair value, so that is a plus. Look at my images to see their photo of the chicken and waffles and what is actually served. Also, their syrup viscosity is strange. Like a liquid gel instead of actual syrup."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkalpHUmdRRRAB",
+            "text": "Just wanted burgers and a drink. Googled and found this place. It was perfect! Parked 1 one block away and there was no wait. Very casual atmosphere and the food was great."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNvaXFPdzVnRRAB",
+            "text": "This place was amazing. Crowded but not bad for a Saturday night. The wait wasn't as long as I thought it would be. Had the Mac n cheese with chorizo, Honey Sriracha wings, Fried Thigh Sandwich and the Wake and Bake Burger and it was all…"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPOGREZ25RRRAB",
+            "text": "This was my first time eating at Harlem Public and I can say it lived up to all the buzz. The Jive Turkey burger was delicious. The burger was juicy and flavorful and the sweet potatoe fries was spot on. I had to wash the meal down with a Lavender Margarita which hit the spot. Oh and I can't forget the fish tacos which was a great appetizer. I was truly impressed with the food and the service was great. Can't wait to go back with friends and try more off the menu."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZNnJLdTFRRRAB",
+            "text": "Came here twice.. one for brunch one for dinner. Both times we received exceptional service. The food was amazing. For brunch we had chicken and waffles and mimosas. The mimosas were ok, I would have preferred a more orange juice taste..…"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSaTRYQkJREAE",
+            "text": "The jive turkey burger is to die for! And the sweet potato fries are wonderfully crisp on outside and pillowy sweet on inside. I've gone twice now and ordered the same thing 😁. Excellent service,  and the cocktails are pretty unique and delicious"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNza09PallnEAE",
+            "text": "I really like this place. I’ve been here on a few occasions and think this place makes really great signature cocktails and most of the food is great. The burgers here are really amazing, I had the peanut butter burger which is great for…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURrMktESVZBEAE",
+            "text": "The branded stamp on their burger is what made me come check out this spot. I was curious and tried the Peanut Butter Burger. It didn't taste bad, but it was nothing special about it. The drinks here are very good. This is a cool spot for lunch, but the metal chairs are kinda hard to sit on."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNheFpmUUlnEAE",
+            "text": "Wings were good but a little over cooked for my taste. The loaded grill cheese is dope definitely a must have. The drinks are on point also"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNGdWVPenBRRRAB",
+            "text": "Nice place.. right up the blocks from where my grandma live. Our waitress was nice and quirky, good vibes.\nThe food was good, but was overhyped on tiktok. The hot fried thigh is dumb good w/ sweet potato fries!! Lemonade was fine. The dorito quesadillas was by far the best thing that we’ve gotten off the menu omg 11/10 yummmyyy.\nThe bathroom was dark and the toilet barely worked.. but good for the halloween time ig ! overall 8.7/10 good place !"
+        },
+        {
+            "date": "3년 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1N09PcXdBRRAB",
+            "text": "Всё что готовят в этом кафе вкусно!!! Мы были в первый раз, нам понравилось! Обслуживание 👍🤗 класс! Горячие сочные бургеры, салат с жаренным авокадо и запечённой куриной грудкой, в меру сочный картофель фри (не пересушен). Приятные и улыбающиеся официанты. Этому заведению можно поставить 5+!!! Все что вы увидите в меню (фото) также будет и в тарелке!\nEverything that is cooked in this cafe is delicious!!! It was our first time, we liked it! Service 👍🤗 class! Hot juicy burgers, salad with fried avocado and baked chicken breast, moderately juicy French fries (not over-dried). Pleasant and smiling waiters. This institution can be put 5+!!! Everything you see in the menu (photo) will also be on the plate!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4XzhUTHRBRRAB",
+            "text": "Buzzy place and you may have to wait for the waiters quite a bit. Solid choice of food. The avocado fries are surprising. The prices are reasonable. Good choice of mocktail at 6$ each. Atmosphere is friendly and always a lot of customers from the neighborhood. Washington heights represent."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1enZ1bXpnRRAB",
+            "text": "Been coming here for years. Since the free popcorn days. I was so happy the burger was amazing because the last time I came (2018) it wasn’t good. I ordered a bacon cheddar burger with guac. It was so juicy. No ketchup was needed. I would’ve liked more guac though."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDX1lLU3RRRRAB",
+            "text": "Kick butt burgers, and possibly the best tater tots you’ll ever have in your life. Wish there was an option to order non alcoholic beverages on the contactless menu but you can just ask for some cups of water, so no biggie. DELICIOUS food and a very friendly staff. The waitlist uses Yelp which has real time updates and we even sat earlier that quoted.\n\nEDIT: Chickens bits, avocado fries and vegan patty melt are awesome too"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtdjR6eUZREAE",
+            "text": "I mainly came for the wings after having a craving and reading the reviews. The honey sriracha was good, had the right amount of hot kick to it while still being flavorful. I don't think they were worth the price 8 for $16. My friend got the vegan burger and said it was delicious and the patty didn't crumble. The best part were the sweet potato fries. The wheat bear in tap was meh, stout definitely was better. The service was ok, I think I'd come back again when I don't feel like venturing out too far. The atmosphere was also romantic and cozy with a real fire place in a corner."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHdnJYR21BRRAB",
+            "text": "Service was far below average. We ordered beers 2 beers and we didn’t see that until 5-10 minutes after our food came. They also brought the food. Didn’t bring utensils. My wife ordered the Parmesan burger, bread was stale. I order the…"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnOEtXekRnEAE",
+            "text": "We were lucky enough to grab a seat outside on a particularly nice day. The Avocado fries are soooo good. The fish tacos were pretty good. But their beer menu is the true treasure.  Staff was friendly and I really like that I can buy the staff a beer, who work hard to please customers.  This little spot is a new fave"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3OVlxTURnEAE",
+            "text": "This place truly gives you the vibe 😌 of a true Irish pub! I don't eat meat, so this was a true vegan burger 😋! 10/10..... My espresso martini was delicious as well!"
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURVLVBMekR3EAE",
+            "text": "Harlem Public is one of my favorite bars in upper Manhattan. They serve a great dinner and brunch. I especially love the blue cheese grits which says a lot because I don’t even like blue cheese. Definitely go if you’re in the area!"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR3b0pYRW1nRRAB",
+            "text": "I like to stay in the local Harlem area to try new restaurants it sometimes return to a restaurant I have enjoyed in the past. This is one of those places,the service is good,the food and cocktails are really good. I love the peanut butter…"
+        }
+    ],
+    "reviews_count": 86
+}

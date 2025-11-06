@@ -1,0 +1,621 @@
+{
+    "name": "Red Rooster Harlem",
+    "place_id": "ChIJFcYLJw32wokRnP5A9xO9JqM",
+    "grid": "MN10",
+    "address": "310 Lenox Ave, New York, NY 10027, USA",
+    "rating": 4.4,
+    "user_ratings_total": 7463,
+    "phone_number": "(212) 792-9001",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSUFlVeHZiMmQ1YjJoTlIwVXdiMUI1ZVZGR00yYxAB",
+            "text": "Soul food, live music, and vibe unmatched. Take the train. There is no parking."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxTGEzbGpUbWR3TnpaT2JGcFJNMGR4VG1kWU1sRRAB",
+            "text": "The place is so fun, the food is delicious, and the live music is going to put you in a great mood."
+        },
+        {
+            "date": "5일 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aelJGWmtOM05oVUV4R1ZqRk9SamxGZGxoaWNFRRAB",
+            "text": "Soirée musicale magnifique . Plat excellent  !"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kR1dETTNaR1p1WDBFMVVqSTRTVWM1VlZocGRXYxAB",
+            "text": "The atmosphere of this spot is unmatched. There's live music with great decor. The problem is the food. Mac and cheese was good but the chicken was dry and was clearly under a food lamp. If only they made the chicken fresh to order, it would elevate this a bit higher."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxc1FXcE1abEZPUkY5YWRFOUVTV0ZXUkhkVVFuYxAB",
+            "text": "Wonderful event!!  We loved it.  Food was amazing!!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aV1EyZ3dabFU1YmxSMmIwZG9lVGxzTWxWWWRHYxAB",
+            "text": "Stunning interior and yummy food!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwMWVHOVdjVmh1V0V3eU5FOUtVbHBXYjNSNlNHYxAB",
+            "text": "Great dinning experience.\nAfter visiting Red Rooster the last time I was in NYC, I had to come back.\nEventhough, I think the food, service and stemming are great, I was a little dissappointed with the food this last visit.\nI can't really put my finger on it, but it just didn't seem as well flavoured as my previous visits.\nStill worth a visit - I know I'll be back."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKVFpsRnpOblJwTFd4NFJWaFZVazA0WTJnNFNYYxAB",
+            "text": "The new renovation they have done is awesome. The food and music is just like the old times. Love this place."
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkS1lUQXRZak5SYUMxMGIwMDBUSFJ5UVhsNk1tYxAB",
+            "text": "Wouldn't be leaving this review if this weren't a Marcus Samuelsson restaurant that cost $80 for lunch for two, but the seasoning and cooking was off. Was really excited about the shrimp and grits but it had no flavor. French fries were too salty, oily and undercooked. Waiter wasn't attentive. Felt a little conceited and didn't meet expectations."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwMVVYVnpiVkV4VjNSWFlXMURNMXAxTTBKaE0yYxAB",
+            "text": "Had high expectations but tbh the fried chicken was a bit of a let down. I think London 100% beats NYC for fried chicken."
+        },
+        {
+            "date": "2주 전",
+            "language": "sv",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Zd2IyeEZkMDFHVEdoR1lrcDJMVmhRVlV4cVdVRRAB",
+            "text": "Väldigt härlig atmosfär. Vi var där på jazzy sunday. Bra musik. Åt bla Yardbird, rejäla portioner! Något torr kyckling."
+        },
+        {
+            "date": "2주 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1aGRWOHpaVWxZUm00d1dWVXdjRGxCUmtKaFRHYxAB",
+            "text": "Io e la mia ragazza abbiamo prenotato un tavolo a cena fi venerdì sera.\nVolevamo approfondire la cultura musicale locale: e siamo rimasti completamente soddisfatti!!\nIl locale è elegante quanto basta,il personale disponibile e gentile (servizio velocissimo!!), il cibo squisito (abbiamo preso due burger), e quella sera la musica beh…quello che cercavamo!!\nQuoto e consiglio altamente il Red Rooster!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOcFpIQmxOek16ZVVGNWRUbDFTbVJzZDJGVlpWRRAB",
+            "text": "Fantastic coffee and delicious biscuits!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5aVozVkdkME5aVGpKc2RYZGFiR0ppTldOVVpGRRAB",
+            "text": "Highly touted Harlem institution lived up to its reputation. Great service, very generous portions."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWaVRFeHlOM2RyV0VaTmRVZElPRmRUZWxBM2FsRRAB",
+            "text": "Food was amazing, drinks as well. Big portions, great service ✨"
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCeVlUbG5NR04zTVMxV1pqbDBYMWxpTTJsTVFuYxAB",
+            "text": "Gran ambiente y una cocina con fusiones muy bien elaboradas. Muy buena.experiencia en Harlem. El Salmón de 10!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGcVdVVnVOblI1WW1STE1HcEROREJOVFMxWFpXYxAB",
+            "text": "My husband and I met a friend for brunch on Sunday. The hostess were great they were able to allow us to wait in the lounge for the arrival of our guest. The place is beautifully decorated and the atmosphere warm. Once we were sested we quickly ordered our meal, I ordered a series of appetizers. The hush puppies and corn bread was delicious.  But the chicken and waffles I and my friend ordered,  tasted old. Not good at all. The cost of what I spent on this meal was NOT worth the price of admission. I will not be back."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOZldVRlZRM1JLZWt4SU16WmFhbTFLYlVReVNtYxAB",
+            "text": "We only stopped for a drink and chat, atmosphere great, band plays evenings, we were lunchtime sadly, decorated beautifully, friendly staff and well worth popping in, dishes served to other people looked and smelt lovely!"
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taVVF6aEtWVzE2V2xkWGFHZHpTbVJmYkRoSVltYxAB",
+            "text": "Increíblemente Wonderful!!! Fuimos a comer el día que visitamos Harlem. Allí me comí una de las mejores pastas de mi vida con lobster, espárragos, langostinos. Un brioche de langosta también con unas cervezas!! Pasamos un rato genial!!! La música espectacular y la atención exquisita ❤️ Harlem y Red Rooster en Mi Corazón siempre, Volveré!! Saludos desde las Islas Canarias en España 🫶🏽"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4MlkxQkRMWE5OUjBwRGIzTmpVa05JYURnNFlXYxAB",
+            "text": "My wife visited NYC and decided to try some of the restaurants that are associated with celebrity chefs on Food Network. We were very excited to find Red Rooster Harlem is associated with Marcus Samuelsson and had to try it out.\n\nUpon entering we were greeted with a live jazz/blues band, and my son absolutely loved watching and listening to them! The colors and decor made me feel the Harlem of old. We were seated quickly and our server was very attentive to our needs, especially with a 1 year old and 3 year old, providing us with a high chair. The table was wobbly and chairs felt loose, and if I were 100 lbs heavier man I think it could have broken the chair.\n\nThe food unfortunately was mixed. We tried corn bread, ox tail with rice, shrimp and grits, and fried chicken breast and thigh. The good: ox tail was very rich and tasty, and the grits were creamy and buttery. The okay: the cornbread was a bit hard and really nothing special on its own, but the butter that came with it helped elevate the taste. The bad: the shrimp was overcooked and semi-rubbery, and the fried chicken was dry and over fried. The batter wasn’t amazing either, a lot fast food fried places do it better. Even after getting a replacement it still wasn’t that great.\n\nAll in all the experience was mixed, and made me wonder if my expectations were too high. Food prices are fairly high, so perhaps I am justified in expecting higher quality and more sophistication in flavor."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toVmRETlRORmszVDBkMUxUTlpaSE5GY1UxTExYYxAB",
+            "text": "Recomendado por Elvira Lindo. Buena comida un poco cara."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKWlFYVnhURkpJTjJwT1FWOWZWRXhGVG0xaVFXYxAB",
+            "text": "This was our first time there and it was great,I highly recommend this restaurant, we enjoyed everything,especially the atmosphere ♥️ we all had the oxtails, DELICIOUS."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OaGIyWTVZMTg0UzNsSGVVbG9aRlIzTVd4eFIyYxAB",
+            "text": "I was impressed 👍🏽 the food drinks our bartender Ryan and the live band was priceless ❤️"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWSlUzTjNRM3BoZERCaVVEWlZXbmhaV25odVNsRRAB",
+            "text": "Best soul food experience!!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wcGMybFFWemx6TkhoRGVsUTVNUzFITjBGcFQwRRAB",
+            "text": "Don't sleep on Red Rooster. I've lived in Harlem for 20+ years - originally from CA and live down the street from the restaurant. I've seen Red Rooster evovle over the years. The vibe they have now is really nice. Great drinks, amazing food that is consistent. Really nice live music and a great ambiance - what's not to love?\n\nMy local harlem friends might argue that it's a little too touristy but IMO it's a great mix of Harlemites and visitors. Don't sleep on it and check it out."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paV2RXNTJPWGxxVHpSWGFVMVZTamhZT0VjNFRVRRAB",
+            "text": "The food was amazing….especially the cornbread, hush puppies, greens, chicken!\n\nWe mentioned it was our anniversary and they made it so special with a drink and dessert! Every employee exhibited EXCEPTIONAL customer service!\n\nI’ll be back next time I’m in Harlem! Save some banana pudding for me!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWWWNVVlVhVTVsY0c1VlkxWkRjRXhCVHkxeWNrRRAB",
+            "text": "The food was absolutely delicious!!!\nA band was playing with different singers, which was really nice. Also the actor Keith David was there and he took pictures with us as we were celebrating my parents 65th anniversary"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsbWVHVlhVWE5ST0VWTmFqbHhjeTFCYUU1WWVYYxAB",
+            "text": "The music was way too loud to carry on any conversation without yelling. The group that played the music was monotonous. Although it sounded good for the first 10 minutes, then each piece sounded the same."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tScGRVOW5WVWxRVDJsb1FsQXRaSEZCWm5GVmVFRRAB",
+            "text": "Coming from Australia, red rooster means something quite different to this experience. We love this place.\nService was fantastic. The atmosphere was very cool and we really enjoyed the food."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0emEwWldaV2M1T1hGSlZYaFBXWFpCU0VOVk9GRRAB",
+            "text": "A fabulous restaurant, beautiful decor and great live music."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2prMFJUbDNRbHBQWmpkTGVucENaR1EyVFZCTldtYxAB",
+            "text": "Oh my! A true gem! ✨\nI discovered an absolutely wonderful place: the food is exquisite, the cocktails are delightful, the atmosphere is amazing, the décor is stunning, and the service is simply impeccable.\nBe prepared to be transported by the live soul-Jazz music performances in the evening.\nI’m so glad I found this spot and I highly recommend it!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GaVZXaFpOV1I2V2xGZmVuTTRNVk00T1hKRU0xRRAB",
+            "text": "Photographed a private dinner here and the food and entertainment was amazing. Great place for soulful intimate events."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWclNIaDJNMWszTVUxdGIyUjFTR1ZRVkUxNVNGRRAB",
+            "text": "Outstanding. Great food, great vibes. Loved it."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aRlEySXpjVVpEZWpCc1kwaDBVbWxtWWpRM2VFRRAB",
+            "text": "I actually have 2 experiences with dining in this establishment ❤️ it was good food the first time was my birthday my daughter took me here ℹ ordered a burger with seasoned fries delicious the portions were amazing  ℹ wish I tried the yardbird (chicken) because we had the outdoor experience with the patio  servers were great  ℹ enjoyed the experience The was second time was when my mom died and my aunt ℹ met her and we decided to to go here  so my aunt had the yardbird and it good ℹ can’t remember what I had but I would definitely recommend it was a relaxing place good vibes and good service ❤️🫶🏿"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sRWNYVjVaVXhDUmxsSFJDMXBibVJIV2pGTFkzYxAB",
+            "text": "Enjoyed a great dinner with love music. Would  go back next time I'm in town."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsTk9VTmhYMkV4VEVkTk0yaFJlR1JsWmpkbFFsRRAB",
+            "text": "This place was an entire vibe! From the delicious food, tasty cocktails and vibrant music scene, would definitely be a stop when visiting NY again!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsaE4yVk5hamRyTTJGU04ybzVRM05yVjA5RFFsRRAB",
+            "text": "Great atmosphere for any occasion."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SQ1owaDNaR0l4YWxCdlQxQTVRVVl0ZERJeFYwRRAB",
+            "text": "This place is hands down top tier! I wish they could bring the same vibe and food to DC. I can’t say enough about my wonderful experience at this restaurant. The staff were amazing! The food was delicious! The LIVE music was excellent (the singer even came over and said hello to us.. wow!) the ambiance was everything! I would go back to NY just to go to Red Rooster. I don’t know that I’ve enjoyed a restaurant like I did RR in years. Who ever the manager or the owner is, they are on to something. I consider myself a classy lady. This checked and exceeded all of my boxes. I was pleasantly surprised… I’m going back. Very Soon! Consider coming to DC. I would support you"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwQlRXbzFaWEo2YVdGa2VrdFlRekp2UVhNNWQyYxAB",
+            "text": "Vibes were lovely, they had live music  servers were attentive. I was so excited for the food but it was not good😅 4/10 on food 10/10 on atmosphere."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kU1ozWXpOblJEVmxkdWQxTmxaMXB5Wm5SWlRIYxAB",
+            "text": "We loved this place. So cute inside and we loved the outside seating. We tried to have a little of everything and we were not disappointed. We had corn bread and deviled eggs for appetizer, so yummy! We had a piece of fried chicken and it perfectly cooked, crispy on outside and moist on inside. Dinner was Mac & Greens as well as Jerk Salmon bowl. Salmon was cooked perfectly, Mac & Greens heavenly!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3d05HSkZVMkY1YkZwblpHSmZTSGc1UVVsSGIyYxAB",
+            "text": "Hands down my favorite meal in ALL of NYC. Get the steak sandwich and the deviled eggs. You won’t be disappointed."
+        },
+        {
+            "date": "2달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCdmIyUlhSMFYxUlVKZlZETnlhRkZZVTNReWVYYxAB",
+            "text": "Un restaurant remplis d’histoire, une décoration chaleureuse.\nLa nourriture est bonne et le personnel est accueillant."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkNlUxSnFRbkJvUlZsRmVXRTJOSE5LYkhWWGMyYxAB",
+            "text": "Absolutely great service!"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQxanR5aGdnRRAB",
+            "text": "실비아를 가려다가 대기도 많고 한국 사람도 많길래 레드 루스터로 갔어요. 할렘을 소개하는 미국 그림책에 나와서 알게 되었습니다. 들어가니 전부 현지인들이었고 맛도 좋았어요! 다만 양이 무척 많았습니다. 치킨은 배불러서 거의 남겼고 나중에 사진으로 보니 너무나 아쉽네요ㅠ 가격대는 조금 있는 편입니다. 맥주도 맛있고 메뉴도 맛있고 맥앤치즈에 야채가 들어간(?!) 메뉴는 레드루스터에만 있다길래 시켜봤는데 고소하고 맛있었어요. 콘브레드도 따로 시켜야하지만 진짜 맛있으니 꼭 꼭 시켜야합니다. 담당 서버도 친절해서 좋은 시간을 보냈습니다."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNscXE3Qk9REAE",
+            "text": "직원 진짜진짜 친절하고 잘 생긴 분이 계셔서 팁이 하나도 아깝지 않았어요^^\n네 명이서 다섯가지(메인은 2개, 에피타이저 1, 사이드 2) 시켰는데 다 맛있었습니다.\n뭘 드시든 꼭 collard green이랑 같이 드세요.\n초록색 야채인데 맛이 ... 새로우면서도 뭔가 익숙한 맛입니다^^;;; . 무얼 드시든 다 잘 어울리는 사이드에요. 건강에도 좋을 거 같구요.\n치킨 꼭 드시구요~!!!\n가격, 맛, 양, 서비스와 분위기까지 다 만족스러웠어요^^"
+        },
+        {
+            "date": "8달 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnMGFTOWxnRRAB",
+            "text": "분위기가 좋았습니다. 저희는 치킨2조각에 간단히 먹으러간거였는데 맥주한캔이 치킨에 비해 너무비쌌어요."
+        },
+        {
+            "date": "4년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2MkxlNGl3RRAB",
+            "text": "기대한 것에 비해 맛과 서비스가 훌륭하진 않았다.\nUptown guac은 guac이 신선하고 맛있고, 튀김도 바삭하고 좋았다.\nCorn bread는 딱딱하고 살짝 over cooked 상태같았다. 이 메뉴때문에 온것이였는데.. 촉촉한 단짠버터맛이 육즙처럼 담겨있을 줄 알았는데 전혀 기대한 식감이 아니었다. 하루지난 카스테라빵 같은 맛이었다.\nShrimp grits의 새우는 통통하고 신선하다.\nYard bird chicken은 겉바속촉이 잘 되어있으나 하나는  속이 덜 익었는지 살짝 비린내가 났다.\n전체적으로 좋았는데 downtown에서 거리가 멀어 이 음식을 먹으려고 가기엔 조금 수고스럽게 느껴졌다."
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPaFl1ZHJnRRAB",
+            "text": "Excellent food and service! Our favorite was the yard bird and heirloom tomatoes😋 Will definitely visit again!\n\n직원, 공간, 분위기 모두 힙하고 음식도 존맛탱! 강추합니다"
+        },
+        {
+            "date": "7달 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRNmIzeFd3EAE",
+            "text": "1. 할렘 소울푸드 먹을 수 있다\n2. 주말엔 재즈 공연도 함\n3. 할렘 별거 없었음"
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSUNzdGZkShAB",
+            "text": "아침부터 웨이팅 줄이 있으니 반드시 예약을 해야 한다. 모든 메뉴가 평균 이상의 맛을 제공하는데, 특히 Yardbird 치킨 메뉴가 시그니쳐급 메뉴인 만큼 반드시 주문하도록 하자. 매장이 좁고 사람은 많으니 약간 불편할 수 있으나, 충분히 참고 즐길만한 식당이다."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21saWQwUTRPUzFwY1hFek5uQkVUM1ZKWDNRdE5tYxAB",
+            "text": "Saw this place on the food enthusiast show “Worth It,” and decided to give it a try while in town.\n\nThe ambiance is fun, the food is great, but it was the service that was particularly notable. Our water was never empty, the food was served quickly, and while we were never ignored, our server didn’t hover. The table next to us dropped a fork on the floor and a manager was there within seconds to take the dirty from the patron and provide a clean one.\n\nThere was entertainment there that night. It wasn’t A-list, but their set list was great. Only complaint, they were out of three of the beers on the menu, which happened to be our first three choices.\n\nOverall, a fantastic experience, and a nice night out."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2trM0xXbDNUbnBWTm5WbGFHaGlOVWR6U0haNE4zYxAB",
+            "text": "A time was had at Red Rooster. Came in just in time to have happy hour. The hostess, the bartenders, servers and the chef himself, were all wonderful people. The fried chicken here is FLAVORED, and very juicy. The chef confirmed they brine the chicken, which explains it all. My fried chicken breast was everything but dry, and every bit of delicious. I had a 4 of the happy hour drinks. My favorite was the pink round drink I forgot the name of. The drinks were definitely doing their job. You have to sit at the bar to be able to have a drink at happy hour price, which I wish it would’ve been applied to regular tables. The vibe here gives the tv show “Girlfriends”. The decor here is beautiful and the live music was very refreshing. All women band, and they were great, and I was very entertained. It started to get packed around 6pm and it was a Thursday night! I’ve walked past this place so many times and finally came in. Definitely didn’t regret it, and will be coming again."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pselR6VmtTM0ZyVTFWTGNrMUNiVGRyUzFOeE5WRRAB",
+            "text": "I came here on a Wednesday night for drinks and the live band was phenomenal. The singers voice was so ethereal. One of her slower songs had me so emotionally invested. I loved it. I danced all night and the drinks were tasty. The decor is to die for. I highly recommend!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQV0xoTGFSb3ZPc01BEAE",
+            "text": "We visited the restaurant for Sunday lunch and were really impressed. The staff was very friendly, service was quick, and the food was absolutely delicious – some of the best fried chicken I’ve ever had. The portions are huge! Overall, a great experience. The Yep! Chicken and Waffle and Wild Wild Wings were especially amazing. Highly recommend!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwU1pWbEtNazVRY1RKa2QxRnBTREV3TmpSQ1VHYxAB",
+            "text": "Live music on some nights.  Waiters are amazing.  Open to any questions you have.  They go above and beyond.\nWas with a big group and we shared appetizers.  There was nothing to complain about besides I wanted more."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkTFZsSTJXVGhLT0VwbVJrazBSMmcwTlZZeWRFRRAB",
+            "text": "Great place I didn't know it was bought out by someone else…Its been a year to date since Ive been here. I can definitely notice the subtle changes. All in all it still has its warm charm and live performances. We went on Saturday,  Labor Day weekend. They opened the side/lounge area where the \"Russian tea room\" sofas and tables are located which invited more of a \"home-y\" feel. This is a great place for a 1st date if you are looking for a casual but lively ambiance to enjoy your company."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5Tk9WTTRNM3B6T1hwcFUwMHhlbU5NYzIweE9WRRAB",
+            "text": "I loved the ambience and the environment, it felt great just walking inside. This was on a Saturday afternoon for brunch and the dj was playing great music. My food was excellent, I got a chicken thigh with a side of grits. The wild west wings and deviled eggs. The service was excellent as well.  Very nice restaurant. The chicken was great. Nice location. There was no wait and wasn't overcrowded.  Next time I will hang at the bar."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKalNfS2pZNkpHYktREAE",
+            "text": "Great brunch with live music too.  The grilled tomatoes were amazing.  The fried chicken was great too.   I will be back.  The sweet tea was not too sugary.  The mac n cheese was excellent."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGc1VXWXRSbEJtZVV0RU1tTnpXSFJEWWw5T1UzYxAB",
+            "text": "For our trip to see Gypsy, I started thinking about what else we could do while in the city. With only 24 hours, options were limited. We had already locked in Melba’s for Saturday lunch, but Sunday before hitting the road? That was easy - Red Rooster. I’ve been a fan of Marcus Samuelsson for a while and had wanted to visit his restaurant, but since we rarely get to New York, it just never happened. This trip, though, it was on.\n\nStill recovering from the energy of Gypsy and Times Square, we managed to get up and ready for our 11 a.m. brunch reservation. The drive didn’t take long at all - so quick, in fact, that we arrived about 40 minutes early. Parking was also a breeze (thank you, Sunday street rules).\n\nFrom the outside, you’re welcomed by the glowing Red Rooster sign, Moulin Rouge style, with a cozy covered patio. Inside, we were greeted by a young man whose personality was as bright as the sign outside. The space itself was gorgeous, though I didn’t get to take it all in right away - we opted to sit outside since it was such a nice day.\n\nFrom my seat, I caught glimpses of the interior: chandeliers trimmed with rooster feathers, eclectic décor with a punch of sophistication - very much Marcus Samuelsson’s vibe.\n\nFor food, I ordered the red velvet pancake with walnuts, bacon, and scrambled eggs, plus a side of creamy stone-ground grits. My mom went classic with the chicken and waffles. When the plates arrived, our first thought was, “We need a bigger table.” But we made it work, and honestly, I was full before I even took a bite - the plating was that good.\n\nThe only hiccup was my eggs being a little too salty, but that was quickly fixed with no fuss. My second plate was perfect. My mom, meanwhile, didn’t say a word - she just enjoyed her crispy chicken and soaked in the atmosphere.\n\nOnce again, way too much food, and once again, no complaints. Takeaway trays saved the day.\n\nBefore we hit the road, I slipped inside to visit the restroom and finally got a full look at the space. Absolutely stunning. Every corner of the design felt intentional, stylish, and alive. My favorite spot was the parlor - it had this vibe of community and creativity. You could imagine people sipping cocktails, maybe smoking cigars, closing deals, or just enjoying each other’s company.\n\nI loved everything about Red Rooster and I’m so glad we finally made it happen."
+        },
+        {
+            "date": "5달 전",
+            "language": "it",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VPYnM5TUxteXN5cjlnRRAB",
+            "text": "Siamo stati venerdì sera, senza saper che ci fosse musica dal vivo.\nMolto bella l'atmosfera e molto bravi sia cantanti che i musicisti della band.\nCucina americana, prezzi un po' alti per la qualità del cibo, buono l'hamburger e il pollo fritto.\nDiciamo che l'atmosfera e la musica sono sicuramente il pezzo forte del locale.\nPersonale gentile e disponibile.\nDa passare se in zona al venerdì per vivere la musica dal vivo."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kMFUwOXFTV3hNWjNkNmVWY3lMWGMzYWpWWFozYxAB",
+            "text": "Arrived with a party of nine & a reservation for only 6. They were able to sit 3 but in a separate area away from the other party.  This room was pretty much empty , so we asked if we could all sit there so we could be together since it was our 40th Class Reunion dinner. Our request was denied.  I definitely understand the error was our fault, but you had room for ALL of us in this other room, really....\nFood was fast, hot & delicious\nLive band"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSeFVFbFNNa0p5VVVRek1WZGlURms0VkROaFNYYxAB",
+            "text": "Outstanding food and customer service. Beautiful dishes, great atmosphere, excellent chefs/kitchen staff, and wonderful servers/hosts. Visiting Red Rooster has been a goal for over 15 years from when I used to work in restaurants as a line cook. And I live on the west coast. It more than exceeded my expectations. Looking forward to my next opportunity to come back."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201NGFIVXdRMEo2VkdvMVQyUTRhekpLVkRoQlpuYxAB",
+            "text": "This spot has a vibe! We came for the great food, which we surely had, but didn't know it was going to be such a cool fun chic lively atmosphere as well. Loved the live music! And the food was fantastic, a slight modern touch on traditional soul food."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4cmJEUkJWRjlmTVhZMFRYbzNRMlJIU0d4MU1GRRAB",
+            "text": "This was a food bucket list place since we're familiar with Marcus from being on Chopped and other cooking shows.\n\nWalked into a small jazz band which set the tone. Food was amazing, wait staff was great and the drinks are top notch. Will definitely be back."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOTFVXTlVlSGhWWXpCS1lsbFNaSGsxVlVSbmFGRRAB",
+            "text": "Elevated soul food with a side of live jazz.\n\nCame here for a last-minute Sunday brunch reservation. We arrived around 11 a.m., and the place was surprisingly quiet. Most people seemed to be holding out for later tables, and by the time we were leaving, we saw why. Live jazz kicked in at noon, and the vibe instantly came alive. Unfortunately, most of the food we ordered felt a bit overpriced.\n\nCornbread – This is the one I’d come back for. They cut it right before serving, so it stayed fluffy and moist, with a roasted tomato–corn butter that added just the right sweet-savory tang. At $9 for two pieces, it’s steep but worth it.\n\nFried Chicken – Priced by the piece ($8 thigh, $9 breast), so obviously we expected perfection. The skin was shatteringly crisp and dusted with their signature “chicken shake” seasoning (garlic, cinnamon, etc), but the meat was a tad overcooked. My favorite part of the dish was the sauce, which tasted like a spicy tomato-based béchamel sauce that was so addictive.\n\nShrimp & Grits – Classic setup with okra and a savory chorizo broth. The okra’s stickiness actually worked really well. It bonded everything in its rich, dense mucilage. Still, the price was a bit ambitious.\n\nMac & Greens – Two solid components, better apart than together. The sharp cheddar-parm base plus savory greens ended up blurring into a heavy, one-note bite."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQblo3WWlBZzlhMFV3EAE",
+            "text": "The restaurant was clean.  Bathrooms clean.  Great music (Jazz Band).  Amazing food and Awesome Customer Service.  The overall vibe and atmosphere is a 10!  My family and especially my Niece who graduated from NYU felt so special.  I definitely recommend it!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KV04zbElUMW96VW1Oc1JrdG9UWFZXYnkxM1ZVRRAB",
+            "text": "Must have the fried chicken!  Crispy and tender, not greasy.  Perfect fried chicken!The shrimp and grits, bucatini Piccadilly, Cesar & ceviche and collard greens were all delicious.  Jazz for Sunday brunch."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvejRqV3hRRRAB",
+            "text": "We dined at Red Rooster’s for the first time and we were instantly captivated by the decor and the idea of a real person selecting the music. The onboarding was smooth and seamless.  The staff were professional and pleasant and their uniform is colorful and impressive.  The server was very knowledgeable and personable, she left half was through our dinner.  This was not good at all. The replacement was amazing , though.  Our appetizers were yummy! We had the crab cakes and fried chicken, both delish! The crust on the crab cakes was light and crunchy and it was filled with crab.  Our palates were in heaven.  The service overall was great! Our entrees were equally delicious. I loved the Mac and greens, though I would have liked a bit more greens. The steak frites was the best dish, personally. The meat was tender and juicy and it was done right! The fries were crispy and not overdone. Desserts were phenomenal— I had the red velvet, which was rich creamy and decadent.  We had such a great dining experience, Marcus ought to be proud!! We will return."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SSVp6UXdNMDg0VmtkbWVuUnJPRWN5VVZsQ09XYxAB",
+            "text": "We were welcome with a beautiful smile from Z at Red Rooster. She also accommodate us with a great table. Our waitress Sylvia, also greeted us with a beautiful smile & we felt welcomed. The atmosphere was inviting & relaxing. We eat lunch while listening to live Reggae music from Brooklyn Night band. We felt we were transport to Jamaica. We would definitely go back to the Red Rooster again."
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwNXYtcWpRRRAB",
+            "text": "One of the best food experiences in NYC! Red Rooster serves incredible food with rich flavors and a true sense of soul. The atmosphere is vibrant, the music adds great energy, and the service is warm and welcoming. Every dish was a hit—especially the fried chicken and cornbread. A must-visit spot for amazing food and live music!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWWmRYQTVNWGh2TlZKdlprVnBUbUZGYkhKUVVIYxAB",
+            "text": "Catfish was amazing,  collard greens perfectly seasoned,  apple pie perfectly baked,  might be homemade ice cream. Love 10/10 recommend. Kevin Oliver Jr, on the sax was a true gift."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0cxOUhEbWJPdllBEAE",
+            "text": "This used to be one of my favorite spots but seems like the quality has declined. We thought that we might have to order at the bar because no one came by for 20 mins after we were seated. We got the chicken and waffles… the waffles were great but the chicken was burned underneath.\nSad that the quality hasn’t held up from years prior. Great drinks and the staff was friendly when we had interactions with them… but probably won’t be coming back, especially with how expensive it is for the quality. I’d say if you come here definitely sit at the bar and enjoy the jazz— the atmosphere is amazing!"
+        },
+        {
+            "date": "4달 전",
+            "language": "pl",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KWE0wNVVVa1ZhUWxaaVYwSkJaRUZwY1djMmIxRRAB",
+            "text": "Super klimat , piękny wystrój , muzyka na żywo, wzorowa obsługa. Ale jedzenie jest tak bezpłciowe, tak bardzo zwyczajne  że aż mi smutno. I czytam opinie innych o tym kurczaku na gofrze jaki to on nie jest pyszny…a smakował jak zwykły kurczak z gontem"
+        },
+        {
+            "date": "4달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxYWFFMDJWMmhVUm5KT1ZFVXRMVkpFVVdoNVFVRRAB",
+            "text": "Tolles, authentisches Ambiente, sonntags gibt’s nachmittags bis abends Jam Sessions. Essen ist ok, wir hatten den gebackenen Blumenkohl und die Bucatini mit Fisch. Service freundlich und aufmerksam. Das beste ist die Musik, richtig cool."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvMk5fOU53EAE",
+            "text": "Unfortunately I wasn’t able to try the food here. My experience was strange and very unprofessional. I finished a walking tour and proceeded here for lunch. I wasn’t addressed by the server yet the table next to me who came in 5+ minutes after me (different race) was immediately greeted by the server.\n\nThe hostess comes to my table and explained that the server saw my bottle of water so she “assumed” I was already being helped.\n\nHow so? I still had the menu in front of me.\nThe hostess (who was nice) proceeds to tell me that I need to put my water bottle up. I’m not putting my water bottle on the floor and unbeknownst to them. I usually order a couple drinks to try when I’m enjoying lunch/dinner.\n\nI took this as the last sign that my business was not needed or wanted. I left and found a delicious Jamaican spot a couple blocks down that was 1/3 of the price and I’m sure just as delicious.\n\nI doubt if I was the same color as the “other table”, this would have been an issue."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsUllYZFVUWEZPUjA5dFgwcGxiMHR1VWtSMlpHYxAB",
+            "text": "Stellar all around! The food, service, and vibe were on point! I had difficulty deciding what I wanted to try first, so multiple visits will be needed. I sat out on the cute patio, which was a very nice space. I had some of the best Deviled eggs ever, I've tried plenty in different cities, and these are top tier. I also ordered  a hibiscus drink & the meal meatballs with mash thst I am still thinking about days after. Everything was prepared perfectly. Red Rooster will be obe of my go-to spots wherever I am in NYC."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJRGh5YTdCdWJMQklBEAE",
+            "text": "Atmosphere was amazing. The live band was great and the food was really good as well. The waitress was really knowledgeable on all of the menu items and guided us to something we really liked."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQaXRDVG93RRAB",
+            "text": "Red Rooster Harlem, owned by celebrity chef Marcus Samuelsson, is a charming and vibrant restaurant that embodies the cultural richness of Harlem. The fried chicken was, without question, the best I have ever tasted. Its perfectly crispy skin and exceptionally juicy meat, complemented by the house special hot sauce, deliver an authentic southern experience. The shrimp and grits, though elegantly prepared, fell slightly short of the bold, rustic southern flavors I had hoped for. The deviled eggs and apple pie, however, were spot on—so delicious that they left me eager for another visit. Overall, it was a fantastic dining experience, and I highly recommend it."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOVDA4cEcwa0pyWkVnEAE",
+            "text": "I asked the waitress if the bucatini was large enough to share. She said it was perfect for that,  and it was! Lots of shrimp and crab in a lobster sauce, so delicious i had to ask for another piece of bread so i could properly sop it up. We also split a glass of sangria. Perfect complement! Highly recommend!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNndnFLYm1RRRAB",
+            "text": "I've been to Red Rooster twice now and it will be a regular on my trips to Harlem. It has some of the best soul food and the environment is light, great, and fun. You feel like you're in the historic Harlem and the food is like you're in the heart of the South.\n\nThis was my first visit for Sunday brunch. Reservations are highly recommended as it gets crowded quickly.  The live band added to the overall atmosphere. The food, however, makes it worth the stop, with or without music.\nHighly recommended the cornbread. Good warning: it's closer to pound cake than to what we think of as cornbread- and that is a good thing. It comes with 2 slices .\nThe Mac n greens combo of macaroni and cheese and collars greens is DELICIOUS. I'm going to try and make this at home.\nThe fried chicken is super tasty and the pieces are big .\n\nYou will not leave hungry. In fact, it's more likely that you will not be able to finish your food. You should leave with a full stomach and big smile.\n\nThis is a must visit when in NYC, even if you weren't planning on going to Harlem."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRdkphb1RBEAE",
+            "text": "Great atmosphere with live music, busy and lively with great and friendly service. The chicken tower was big and delicious, the lamb was delicious while the lobster 🦞 well, below average. Nevertheless, great place definitely recommend. Was my 1st time and hope to return one day."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGbFYwSlZabkZrWkhrMmFuZDNWalUyTVhCak0zYxAB",
+            "text": "This is an exceptional restaurant in terms of food and service.  The one you feel good about tipping over the 15 percent.  Go there and enjoy yourself."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkc1RYWk9RWFIwUm5WT2IwMWFaSGt4ZVhoNVUyYxAB",
+            "text": "This was delicious. It has such a chill vibe and good eats. Best mashed potatoes I've had and a delightful ceviche salad. Highly recommend checking it out."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214bFRHSkpYMVozZEROeWFHOUNiMGR4YTA1cUxXYxAB",
+            "text": "Yes sir!!! If you’re in Harlem you must stop by and catch a seat and dig this place! Omg! Every we Ordered was 😋😋😋.From the shrimp and grits to catfish and beans to the chicken and waffles, and the salad we had killer!\nMan I can’t wait to go back oh and by the way the drinks are 🔥🔥🔥too.\nI had the cheese burger with fries 🔥🔥🔥them shoe string fries are Soooo good the burger had two cheese combo which made it 😋."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJcU4yNFA5Nl9Ua1lnEAE",
+            "text": "Our group of six dined on 22nd of May. The server and service was immaculate. Our table was well attended to with great recommendations for menu choices and our glasses topped with water.\nWe chose the Chicken Tower that came with three sauces (honey, hot, ketchup), the Pan Fried Catfish, Mac and Greens, Roasted Asparagus and the Creamy Grits.\nThe chicken was the best fried chicken I've had and would recommend at least trying a drumstick and thigh for how tender and moist they were. The initial crunch of the skin and flavour that followed was fantastic.\nEverything was delicious, if we had to recommend a side it would be the  Catfish.\nThe bathroom amenities are also kept very clean."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3dTZPOHBBRRAB",
+            "text": "Celebrated my sister’s birthday & reserved a table for 10. Well, 11 showed up & it was no problem. There was a set menu for a large party, but some guests wanted to order off the regular menu, but they agreed to the set menu & no one had any complaints. Food, service, entertainment, all very, very good."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210MFpVMTRUbkp3ZW5CTFdGaERUMU41T1d4VFExRRAB",
+            "text": "Disappointing Experience – Overrated & Overpriced\n\nI dined at Red Rooster Restaurant on August 23rd with my two kids, and unfortunately, the experience left much to be desired. From the moment we arrived, things were off — there was no hostess at the door, and despite the restaurant not being full, we waited a while to be seated. Once seated, instead of promptly taking our order, our waitress seemed more focused on setting tables than tending to us. I ordered the catfish with black-eyed peas, but what arrived was underwhelming — a large portion of black-eyed peas with a catfish fillet just placed on top. It looked more like something thrown together at home than a $26 restaurant dish. Visually unappetizing, and definitely not worth the price. Sadly, this experience reminded me of why I stopped coming here in the first place. I had hoped things had improved, but it seems not much has changed. Red Rooster, please do better — your reputation deserves better than what we experienced tonight."
+        }
+    ],
+    "reviews_count": 87
+}

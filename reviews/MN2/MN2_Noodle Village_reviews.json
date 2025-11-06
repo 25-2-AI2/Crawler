@@ -1,0 +1,628 @@
+{
+    "name": "Noodle Village",
+    "place_id": "ChIJk31a6yZawokRCP9vIx0Us18",
+    "grid": "MN2",
+    "address": "70 Mott St, New York, NY 10013, USA",
+    "rating": 4.2,
+    "user_ratings_total": 1873,
+    "phone_number": "(212) 233-0788",
+    "reviews": [
+        {
+            "date": "23시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214c2JGQkNWMnhLYmtNMlNWaHdXWEF0ZUVGcFNFRRAB",
+            "text": "Loved the soup dumplings, in particular! Bathrooms are down a flight of stairs."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFelpXbHBSbFJ4U1ZkNk1tUmlSbFJuUVZoR1ZXYxAB",
+            "text": "My sister and I were craving wonton noodles. We came here Saturday 11/1/25 it was so good we came back on Sunday for dinner. We had so much food, but mainly I wanted to try the claypot rice and it did not disappoint. Everything we had was very good, the service was excellent and the prices are very reasonable. I’m from San Francisco and have had a lot of excellent Chinese food and this place is up there in quality."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0UE4wTnNaRzgxUXpaMVZVTkZWWEZRU0Rsa1FsRRAB",
+            "text": "Great food! Amazing customer service! I got the chicken with ginger and scallion noodles and the pork soup dumplings and both were so yummy! Everyone who works here is so nice and if you pay with cash there’s a 5percent discount :)"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xUE5WaGtOWGRwV2xVNFRWSnpNa1owWW1KWk5YYxAB",
+            "text": "Authentic hong kong noodles and dumplings! Price was just right and the staff was very friendly, wanted to get to know us !! Every meal comes with black tea the noodles are served in cute bowls. Great place to try out."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214clEwZGhjbEZUUjJSdFQyaFJjRFZJTkRWQlExRRAB",
+            "text": "Thank you for this meal."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsZmRtTTVOV0ZZTVhwVVdVdGtSbGg0Um05clRuYxAB",
+            "text": "Try this restaurant in the Chinatown.  You won't regret."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ScE4wZE5SVlExZVVGd1UxZENSRWxOTkU0eFVVRRAB",
+            "text": "Delicious food, probably the best soup dumplings I’ve had.  The place looks beautiful too.  I’ll be coming again.  :)"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwckxVVk5TMG95TUdGTlVUTTRXRVpNTVdGQ1NHYxAB",
+            "text": "Awesome food, very tasty.\nNice and clean space with a good service.\n\nHas Shrimp and egg with noodles, dumplings and the steams bread bun. Everything was delicious."
+        },
+        {
+            "date": "4일 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tacGFUWk9Ra1kzUlRRdFZqUXpWWFIzWWpsMlJIYxAB",
+            "text": "Ristorante accogliente gentilezza cibo buonissimo"
+        },
+        {
+            "date": "4일 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ab1VXWkVVMlp4U1ZsVVpIWjFWbE5ZVGt4a01FRRAB",
+            "text": "cibo buonissimo, servizio eccellente, cameriere eccezionali simpatici e molto carini e cordiali"
+        },
+        {
+            "date": "4일 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SUFJFdHdOR0ZNWHpjM1pETkhYMHBUVGpWdlZrRRAB",
+            "text": "cibo buonissimo! ravioli e noodles fatti molto bene! anche il personale super simpatico e disponibile"
+        },
+        {
+            "date": "4일 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xM1ptdFBlakpEUTFKSGIyZDZaVzlQYmxKeWJtYxAB",
+            "text": "Siamo stati benissimo!\nEravamo in 10 e abbiamo mangiato tantissimo, sia i noodles che i dumplings erano buonissimi!!\nLa proprietaria molto cortese, simpatica e cordiale!!\nSuper consigliato!!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tRMVRrUlZkVkZDWVhsSWNVeDVTWGMxVlU5S1VsRRAB",
+            "text": "I always come here for their Wonton Noodles! There's a whole shrimp inside, not just minced shrimp. I also sometimes order the uncooked wontons to take home so I can cook them myself. The staff are always so friendly!"
+        },
+        {
+            "date": "1주 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21acGFVWTNhbVpZUzNOQ1ZFaFZTM2xTYWtoak5YYxAB",
+            "text": "음식은 맛있음\n나는 팁 몇프로할지 말한적 없는데 계산서에 팁 포함금액이라면서 30% 높여서 계산함"
+        },
+        {
+            "date": "1주 전",
+            "language": "zh-Hant",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toa2VHTmljazF1Ym5WUFIxaHNiRWRhY1Zsc2NrRRAB",
+            "text": "不錯，但味道可以再有進步空間"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFMVRFczBXWEJXWDA5bFRHTnVWR2RJU1VJMlZXYxAB",
+            "text": "Noodle Village was a fast and delicious experience. The staff was super friendly and Henry hooked us up with everything we needed. I definitely will recommend this spot to friends and will surely return for another great meal!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5Rk9VMXNja3B5TUY4MmJrbHBlR2xwWldkUE1WRRAB",
+            "text": "I love Noodle Village!!! They’ve relocated to a new spot on Mott St. All their food is good but the best menu item is totally slept on!!\n\nGet the braised beef brisket & steam rice roll w. curry sauce in hot pot (under Appetizers). Your stomach will thank you! 🍜"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wcU9EbElaakpWYVVGRWIydFhZbXhFTkhwSWFFRRAB",
+            "text": "Best wonton noodle in the town - it was not disappointed"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oVE1sRjJlalZFVmpWU1NGZEZPVVZ5ZVhGMVExRRAB",
+            "text": "Love this place! Thank you for the good food and wonderful memories!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204NVdGZHRlV3RSUkZkT1REbGZRVWRSUjFwTWFHYxAB",
+            "text": "the food here is good and reliable. the waitstaff were very friendly and were even willing to accommodate a birthday celebration (cake cutting) in the restaurant."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SQ1owcHRiMWhXZEZSd1pIRmlZMXA1WWpoVlZVRRAB",
+            "text": "Service very good :) helped us to celebrate a friend's birthday!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ReFdYcE5ORzB0ZFZsaVJtSlNXVzVHWWxkaE0yYxAB",
+            "text": "The food and service is good!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VNVducFhjRTFaTVVoUFRGSlJYMkZNYlVKcGRtYxAB",
+            "text": "Good"
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psb1VrMUxabWxCTkhaQ04yeHlVRlJHV0hBNVgyYxAB",
+            "text": "Taste of yummiest local street food into restaurant setting like curry port skin and squid - superb service from our favorite waiter Henry; he even found my lost Maui Jim sunglasses 😎!! He introduced to me the delicious ginger egg white with milk custard. Top-notched service."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GNmRITm5YMWhqZUVwMWJVdFRkbk0wUVV0bmRGRRAB",
+            "text": "Henry is the best who served us. He is ultra energetic and amiable. Food is always yummy."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4MlZraGtlRU01ZDNKclUyTmtiMHRDWm5kaGFVRRAB",
+            "text": "I’ve been a fan of Noodle Village since their previous location, and I’m so glad they’ve reopened in this new, bigger space—it looks great and feels even more comfortable. The food quality is just as amazing as before, maybe even better!\n\nThis time I ordered the steamed crab and pork soup dumplings, Chinese broccoli and yau choi with oyster sauce, shrimp and pork wonton, deep-fried fish skin, and shrimp and pork dumplings. Everything was fresh, flavorful, and perfectly cooked. The soup dumplings were juicy and full of rich crab flavor, and the wontons were soft and tasty. The deep-fried fish skin was super crispy—such a great snack to start with.\n\nFood came out really fast, and the service was friendly and efficient. If you love noodle soup, this is absolutely the place to go. I usually order their homemade fish ball and sliced fish noodle soup, but it was sold out this time (it’s that good!). If it’s available when you visit, definitely order it—you won’t regret it.\n\nOverall, this new Noodle Village location keeps everything I loved about the old one, with an even better space and the same amazing food. Highly recommend!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WM1RsVkNXWEpIWmpNNFZ5MTJWRXBoY0hKaVMwRRAB",
+            "text": "Wantons was briljant, ramon so so"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCbGExSk1PSGMxVEhKNU9HeGZhVmxvUWxkTmJFRRAB",
+            "text": "PSA: Please beware of this restaurant and the shady waitress. Please read your receipt carefully. There is already an 18% service fee added on top of your bill. No extra tipping is needed. Silly us tipped way more than that!! Food was truly mediocre. My friend and I ordered the classic wonton noodles; we wanted vegetables, so we paid $3 extra for each bowl. There were literally 4 pieces of vegetables; it was such a scam and ripoff. We could have bought a whole bundle of vegetables with $6! I understand that NYC is expensive, but seriously you can't be generous with the portion? Also, we thought the vegetables would be served on the side on a plate, just like how traditional wonton noodle shops would serve them with a dollop of oyster sauce. We are truly disappointed at the dining experience; we definitely will not visit this place ever again. Unfortunately, though it seems a bit harsh, this restaurant has been blacklisted by us. If I have the option to give this place a zero star, I would."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKUGJrSmpjSEY0TWtWVE9VY3hWRnBQZGtaWmJHYxAB",
+            "text": "Henry was our water, fantastic waiter, polite, humorous, made our visit that much more enjoyable.\n\nThank you for the great atmosphere Henry"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsUFZFcFFVVXA0Y21JeWJIb3RaSFpFZUUweE1rRRAB",
+            "text": "best meal of my entire life. you have to get the mushroom congee and the black sesame dessert"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsSWMyNTRZeTFNVjFoMVMxWlFlbkJsV2xwb2QxRRAB",
+            "text": "Vert good food"
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQeHBLcjl3RRAB",
+            "text": "Authentic congee from Hong Kong cooking and taste like home.  Sorry Mom, maybe slightly better here with the super thin skinned crab meat dumpling with tasty soup fillings. 🤩.  I think the owner and chef just figure out the best soup dumplings they would love and share them with patrons 🤣.  Excellent and tasty wonton and brisket-tendon soup noodle and piping hot clay pot flavored rice.  The rice is special with a crispy layer of slightly burnt rice at the bottom of the pot.   That's the good stuff.  Both crunchy and yummy.  And it goes well with left over noodle soup and beef tendon sauce 👍👍. Dim sum items are great too. Very homey hearty meal items. Staff is excellent 😇. Totally worth the trip 🤩. Be patient to place order and it's worth it. The place can get busy 🤩"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paNGJtbDFMV1pmZEV0R2NsUk1lbGxWV1RSNlFrRRAB",
+            "text": "Good food and fast service. Real Hong Kong style foods 👍. There was a waiting line but the manager handled beautifully and no long waiting. For me, a line meant good restaurant. A little waiting was worthy.…"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WM016TkhWMmxMT1ZwUGNtZGllVWxOYld4YWFuYxAB",
+            "text": "Super chill and nice place. The service was amazing and the food even better! As soon as we sat down, we were met with tea and menus ready for us to go through. When we were ready we just flagged someone down and put our order in. The food came out with in 5 minutes which is super rare these days. The restaurant was super busy but that didn’t even matter, the food still came out hot and fresh, what else could you ask for?"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5aGFWVjJWamRuT1VOR2EwZ3lURmhPZWtOMlNYYxAB",
+            "text": "Noodle Village was awesome! We had the Shanghai Pork Dumplings and the Shrimp and Pork wonton soup, and it was to die for! And the service was quick and very attentive and friendly! 10/10 would recommend!"
+        },
+        {
+            "date": "2주 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FMFNXdE1VMkpITWxKSll6TjNSa3hJTkc5amVYYxAB",
+            "text": "非常好吃，性价比很高！地理位置非常好！"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5UlpraGhSemQyZVZFeFkxbFhOR0pRZVZOa2NXYxAB",
+            "text": "Workers were all super friendly and nice. Service was very fast. Food was delicious and at a good price. Will definitely be going back."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twZk5tWnpZV3R1TUU1VFFUSkxRbGh4V1ZSTk9YYxAB",
+            "text": "Loved the food amazing service and very clean and very nice love the mini aquarium the turtles are so cute five stars 100 percent would go here again if you’re in chinatown come here"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOMVEyOURWVUZCUWtWSFNtVXhja1ZPZVc1VlpHYxAB",
+            "text": "The pork soup dumplings were absolutely incredible, veggie spring rolls and chicken fried rice were very good."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205cWJFRmhNMFpSUm5Gd2JrczNTMWMyWVZrd1JYYxAB",
+            "text": "If you’re a tourist - definitely a good place to visit. If you want to do the “touristy” thing as a NY-rker- also an option.  The food here is good but nothing to make you go “wow” about. It’s really very comparable to many other good dim sum/noodle places around the are. The restaurant is more of a touristy attraction due to its size and cleanliness, as well as the turnaround, which can be a downside - the food all came out at the same time so our noodle soup and fried rice (which were both yummy) came out with the crystal dumplings and an appetizer wontons and so were both cold, a turn off to be honest. The staff are very friendly and. Are able to communicate with customers (another reason for tourist attraction). Overall, not a bad experience and a yummy dinner."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJM2RFZDNhbmc1WnpGdVFrWXdhVGRJVlhRd05IYxAB",
+            "text": "Have been visiting this place over 10 yrs. Now they have 18% tips on the bill? always pay 15-18% tips but not comfortable it is mandatory. Not going back anymore."
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSRVNtcEhaVjh4VmxSeFozTnRXbGMyYzFwelZtYxAB",
+            "text": "Rico! Buen servicio, atienden rápido. Comida variada"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214bVRrSm5hMDF0VUZkSGVXbFdNbTFmY0VvM1prRRAB",
+            "text": "Clean and good food!!!"
+        },
+        {
+            "date": "3주 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KdlpFSjNSQzFtTnpsRU1FNXlSbVZ4YWtaV1NFRRAB",
+            "text": "超好吃，很符合大眾口味，服務也很好，上菜很快，餐點新鮮，環境乾淨！！！"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taeGJ6QlZUWEF6TFZWV1kwMU9TbUZhVUZaT1RtYxAB",
+            "text": "The food here is authentic and delicious, it's very probably going to be a trendy spot that you should go to to say you where there before it got cool."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pObVpqVllUSFJVWlZGblFrazRNVGR2TmxsbmMwRRAB",
+            "text": "Clean place . Great prices . I was unable to receive services due to the color of my skin. At first she thought i was a ubereats . Once i said i wanted a table she then jump. I was not rude I was not drunk I was not high and she told me a straight lie that they were about to close at 9:20pm on a Saturday and the website says 11pm. The restaurant is damn near packed. She said they sold out of everything. You can go if you want but I go where my money and skin color is accepted."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paV2NtVmhhMkpUVHpsT2VYWlRRVVJaVUdWT1JrRRAB",
+            "text": "Great food, great environment, great workers"
+        },
+        {
+            "date": "4주 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Zd2VGWlZjM0JtVXpNM2VGSm9UelZLYlhsR2RYYxAB",
+            "text": "真心好吃! Authentic taste from Hong Kong! 一定再回訪！！"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toTGFtbzRUbEpEWjBSaVozZzFWVEZZZDBkWlZsRRAB",
+            "text": "One of my favorite spots for hotpot and soup dumplings. They moved locations so glad I found them again"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WeFdXTTVZM05tWWxVemJVWTViblU0T0c5NExYYxAB",
+            "text": "I tried this place with my new friends, and the service was great and delicious. Would definitely recommend it to my other friends."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXa2MyOGdBRRAB",
+            "text": "Made a visit here per friend of friend’s recommendation.\n\n-Chicken Congee: limited amount per day, but congee itself doesn’t have type of texture I like, and also one here tasted bit blend. However, the chicken inside of it was very juicy and well seasoned. So overall bit confusing menu.\n-Soup dumpling: disappointing as soup inside was not hot at all\n-Hot pot rice: Nothing very sophisticated but I liked it a lot. Hot stone plate makes the rice very crispy and work so well with meats.\n\nOverall it wasn’t bad and I might make another visit probably for trying out noodle.\n\nUPDATE AFTER 8 MONTHS:\n\nhot pot rice lingered in my head and wasn’t able to find it from other more-conveniently located places so revisited.\nhot pot rice가 한국인 입장에선 돌솥비빔밥 비슷한 느낌이 나서 괜찮습니다. 재료의 다양함 같은걸 따져보면 잘 나온 돌솥비빔밥에 견줄바는 아니지만 그래도 잘 양념된 고기랑 누룽밥이 같이 꽤 맛있어요.\n\nAlso tried out the wonton noodle soup. Noodle’s texture is somewhat crispy, so it wasn’t expected but enjoyable. However the soup was bit off for my palate because it had some weird fishy smell. Overall ok for me but not recommended for those who are sensitive to smell.\nWonton noodle soup에서는 기묘하게 홍어 삭힌 향 같은게 살짝 나서 냄새에 민감한 분들에게는 비추합니다. 면의 식감은 꼬들꼬들과 바삭함의 중간쯤에 있었는데 꽤 괜찮았습니다."
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4a0lybDlRRRAB",
+            "text": "음식 매우 맛있어요"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ac1dGcDFWbkp3VDBWRmMycExTa2R4UVdWMVgxRRAB",
+            "text": "Reliable place for a standard Chinese meal. Nice clean, new spot with a relatively organized wait system. They give you a number and you wait until it's called. We were a party of 4 and waited ~ 15 min.\nWhat we got:\n\n- Wonton Noodle Soup: Standard, tasty, and a good value!\n- Mixed Meat Congee: Paired it with an additional piece of Fried Dough on the side. For me, the dough was a bit sweeter than and not as savory as I liked, however, it was still nice to pair with the meal.\n- Fried Mantou: Like a deep fried sweet dough - perfect as a traditional app or for after the meal to curb your sweet tooth.\n- Pork Soup Dumplings: Really enjoyed them here! The skin isn't thick at all, which was perfect.\n- Curry Fishballs: I'd SKIP - it was simply 2 small skewers of 6 fishballs for $11! We were expecting a bowl of fishballs with curry sauce, which is how it traditionally is.\n\nOverall, l'd return for another yummy, casual meal with great staff (English speaking) and a solid meal!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WWExVTk1kR2RXVjNBeVRYZE1SWEF6UVRRdGQwRRAB",
+            "text": "It was a pleasantly surprising dining experience! The staff were so friendly and helped me choose my dishes keeping in mind my dietary restrictions. Very fast service. The food quality is 10/10. We had ordered the shrimp dumplings, egg and chicken fried rice, beef curry Ramen. Will be definitely visiting again."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSNmRWOUtTbG81Um1nM01Gb3dXSFpFUldScVEyYxAB",
+            "text": "Late review\nWe visited here end of july\n\nFirst time trying the place for dinner, it was very packed and crowded so we were excited to find out how the food were. We had the beef brisket noodle and scallion pancake\n\nWe were not happy with the service, they rush you to leave and pay. Our daughter was still\nObviously eating and the server asked if we are ready to leave and ready to pay. Yes its crowded, but at least be respectful.\n\nThe noodle soup was not all that, we were expecting for a better flavor but we were disappointed, the beef was super tough.\n\nMy husband had the shirmp dumplings that wasnt pictured but he said it was ok.\n\nThe scallion pancake was not flaky, it was thick and dense and i didnt see a trace of scallions.\n\nI wasnt able to check the bathroom as we were ready to leave due to the poor service.\n\nThis is our first and last visit to this restaurant."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFMGFVdHVOMmsxTWsxTGJYVmpkSHB0UVZKUGVYYxAB",
+            "text": "4 stars for 4 reasons\n\n1. The curry brisket was really good! Def worth a try! Meat was soft, tender and flavorful. Crystal shrimp is good ( not the best:), the pork soup dumpling is GOOD! Fatty, flavorful and packs a punch!\n\n2. The pricing on the items are about average.\n\n3. Nice staff\n\n4. Food came out really quick considering how busy they were.\n\nMinus 1 star for 1 reason\n\n1. Fried rice was just ok! Bland, no umami, and dry,  just not good.\n\nBe prepared to wait about 15-20 mins."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Sa05rdHBiVXhFTWxoU1VTMVNURXQwYW5WU1dFRRAB",
+            "text": "Had a delicious dinner here when I was visiting NYC and not feeling well. Noodles with chicken and veggies, and a wholesome yummy broth. So good. I liked the no frills vibe - just good food served without silly waits or pomp.\n\n@herslowjourney"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GSlJEZGlVRmxvY0ZWcldISmZlbTFWZEdneFdsRRAB",
+            "text": "This is my favorite restaurant in Chinatown. It's super clean and the staff is so good. The food is exceptional!! I always get the chicken Lollipop, which is always so fresh and crispy. Another thing I always get is Shrimp Dumplings, sooo good and fresh. Love this place."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxU05rOUdjRFV3ZWpFM1VtdHVjMWt3YTI5cVRYYxAB",
+            "text": "No Frills place to satisfy your Wonton Noodles cravings! Love their noodles texture! Don't sleep on their Beef Chow Fun either . Service is quick and friendly. Worth a visit!"
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VLdVgwOHlZaS0tYUN3EAE",
+            "text": "Best\nVery clean, good noodles and food. They noodle is made very balance and does not feel heavy/greasy at all. The noodle is the star of this place I have to be honest\nThey serve hot tea when you walk in\nThey condiments have soy sauce and ref vinegar which I really enjoyed\nBad\nI think the portion is … not very generous, but its partially because of the tax and everything else so you cant complIn. A bowl of noodle barely satisfy you 😭😭 its too small\n\nI think I can visit here on special occasions, other than that… it might not worth it."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Kb2VUTmxjRUZLYlVSaGNsUkdXVkkwZUdRemJuYxAB",
+            "text": "The #5 ($12.95 plus tax) had wonderful dumplings and wonton. I just wish the noodles (I chose ramen) and the broth were of the same quality and not just bland components of the dish. I was seated promptly but it took a long time to get the bill. There is a 5% discount for cash payments. The contemporary decor reflects the changing face of Manhattan’s Chinatown."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CUlMwMVRYMWd5VG5SRmVsVmtNRUZVWWtJNWMzYxAB",
+            "text": "Possibly the best Hong Kong style clay pot rice and beef brisket in NYC, approved by a Hongkonger.\n\nFinally checked Noodle Village off my list, and I can confirm they’re serving very authentic Cantonese dishes. I went on a weekend and the place was packed, which says a lot about how good the food is.\n\nPortions were generous, and prices were super reasonable. We spent around $50, and the food could’ve easily fed four people.\n\n＊Chinese Sausage Clay Pot Rice 臘味煲仔飯 $16.50\nThey really didn’t skimp on the meat – we got lap cheong, (臘腸), yun cheong (膶腸), and cured duck (臘鴨). The whole bottom turned into a layer of golden crispy rice. Just a heads-up, the soy sauce is quite salty, so don’t pour too much.\n\n＊Braised Beef Brisket& Tendon 原汁牛腩/牛筋 $16\nBoth the brisket and the tendon were incredibly tender. The sauce was rich and savory, perfect over a bowl of white rice or noodles.\n\n＊Shrimp & Pork Wonton Noodle Soup 鮮蝦雲吞河粉  $10.75\nThey are best known for their congee and wonton noodles. The wontons were on the smaller side, but each one was packed with fresh shrimp and pork filling, wrapped in a thin skin.\n\n＊Steamed Rice Roll w. Peanut Butter & Hoisin Sauce 混醬腸粉 $7.50\nIt had just the right amount of mixed sauces (unpopular opinion: too much sauce kind of ruins it for me lol). The steamed rice rolls weren’t the smoothest I’ve had, but they definitely hit the spot and satisfied the craving."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aV1FUWnpWMHRTUmxndFRXYzNWRWw2U1doak5GRRAB",
+            "text": "The food was delicious—a tasty curry beef brisket noodle soup. It came in two separate bowls, allowing you to savor each dish separately. However, we were seated at a table that was missing a chair, so I had to move one myself. Also didn’t get a refill on our tea, but paid attention when I was done to take the food away. Note there’s a slight discount if you pay with cash."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VLckRnY1hDMmVfMTJBRRAB",
+            "text": "This is a newly renovated place in Chinatown where we find all the traditional dishes both new and old.\nThe beef Chow fun and steam vegetables with Oyster sauce and the Egg custard pudding.\nThe old dishes like the hot pot rice and all in this new ambiance and new renovations."
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNNWNIQmZNekEyVWtaamVXZGxaMmg0WWt4bFltYxAB",
+            "text": "No fuss Cantonese restaurant, nice clean bright interior and good service. Love the booth seating, very Hong Kong cafe style.\n\nI tried the lemon tea and it's not as bitter/tart as it should be traditionally in Hong Kong, BUT I think if they made it how it supposed to taste, most people would complain that it's too bitter/tart, SO, I don't expect them to sever the almost non-existing Hong Kong population. It was a big nice iced tea  :)"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OWFFYcGtlV0UzVVRCd05HRlVhRzgwVGtkMWNtYxAB",
+            "text": "This restaurant moved to this new location recently and the service is now very poor. Despite it not being busy, it took nearly 20 minutes to place an order by getting a server's attention. However, the small portions of food came out quickly and were mediocre."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQREk3cUNsa3B1Sll3EAE",
+            "text": "Ambiance (5/5): There a few large booths and main floor dining area. The restaurant is brightly lit, clean, and low volume. The front has a huge tank with cute little turtles and fish!\nService (5/5): Our party of 3 was seated immediately upon entry at 7:30pm on a Thursday. The default is a cup of hot tea! The server was efficient and confirmed every dish when I ordered. The dishes came out lightening fast one after another.\nBy far, the pork and crab soup dumplings were my favorite but the group enjoyed the noodle soup the most.\nPork & Crab Soup Dumplings (5/5): The dumplings come in 6 pieces and were very plump in size! The inside was filled with a savory soft mixture with umami from the crab and just the right amount of soup. The exterior skin was not too thick and did not puncture when picked up. This is a superior soup dumpling in taste and size.\nEgg Noodle Soup w Beef Tendon (4/5): The beef tendon pieces were tender but not that many pieces with actual meat. The noodles were great with a bounce and soaked up the savory beef soup.\nBeef Chow Fun (5/5): A classic flavored dish. The beef pieces were large and extremely tender. Personally, I needed some additional chili oil from the table spice rack.\nSpicy Pork and Shrimp Wonton (4/5): The wonton pieces were large and had a whole mini shrimp in the middle of each. Personally, I did not think there was enough sauce but it was tasty."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3bE1yRlJnEAE",
+            "text": "The place was already bustling when we arrived around 11 a.m. We ordered wonton soup, soup dumplings, and hot pot rice. The wonton soup had a fresh, delicate flavor, and I especially enjoyed it with a dash of chili oil. The sausages in the hot pot were a bit salty, but they paired well with the rice. The rice at the bottom had a delightful crispiness to it. The soup dumplings had a soft, chewy exterior, and the flavorful broth inside was delicious.\n\nI also had fun watching the turtles at the entrance, though they seemed determined to escape!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3cExDdFlREAE",
+            "text": "It’s always a challenge to pick a breakfast spot on a Saturday morning in Manhattan’s Chinatown—there are just too many tempting options. We landed on Noodle Village, drawn in by its bold claim of being “The No.1 Noodle/Porridge in NYC.”\n\nThe space feels newly refreshed—bright, clean, and casual, with a friendly vibe. We appreciated the service too, from the tea promptly brought to the table to the staff decked out in “Keep Calm Eat Dumplings and Noodles” shirts that perfectly set the tone.\n\nWe ordered three dishes to share: the steamed crab and pork soup dumplings, shrimp and pork wontons in broth, and a hot pot rice bowl topped with assorted cured meats and broccoli.\n\nThe soup dumplings were plump and juicy, with a nice burst of savory broth and a hint of sweet crab flavor. The skins were slightly thicker than some other spots, but still very enjoyable. The wontons were comforting—pillowy soft, generously filled, and swimming in a light, clean broth with a nice hit of scallion. And the hotpot rice was a highlight: served sizzling in a cast iron bowl, the bottom layer of rice developed a delicious crispy crust while the combination of meats added rich umami flavor.\n\nOverall, the food deserves a solid 4 stars—reliable, flavorful Cantonese comfort food in a chill setting. Definitely worth a stop if you’re looking for something hearty and satisfying in Chinatown without the long lines."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvcUktODBnRRAB",
+            "text": "For some reason this section of Mott Street is exploding with noodle shops. In addition to 1915 Lanzhou Han-Pull Noodle which I have frequented 3 weekends in a row, just 4 doors down is Noodle Village, next to it is Maxi's Noodle 3, and I saw today that Wonton Noodle 1978 will be opening shop soon in the same block!  Why? The latter 3 even serve the same Hong Kong style noodles!\n\nAnyway, I've tried Maxi's in Flushing, so we stepped into Noodle Village instead for today's visit.  The decor is new and clean, very current and modern though I feel a slight mismatch to what it serves. Space is big, but the way they arranged the tables made it feel cramped.  There is a bona fide waiting area.  For 2 people, we got seated rather quickly.\n\nWe had to order a Shrimp Wonton Noodle Soup $10.75,  just so we can compare apple to apple. We also order a different dish we've never had before: Sliced Beef w. Ginger & Scallion Noodle Soup $12.95.  We waited for 20 minutes and our table was still empty.  The table next to us just made their order. I grabbed hold of their waiter and complained. He checked his tablet and said, you've waited 18 minutes, not quite 20.   I was in awe!  3 minutes later, our dishes finally came!  What's really upsetting was, within the first few bite of our noodles, the table next to us got theirs.  So they only waited 5 minutes while we had to wait, ok, 18 + 3 = 21 minutes!  Our order somehow got lost in the queue.\n\nAs for the dishes, the scallion beef was refreshing.  Broth was delicious. I mean I love scallion. And they didn't skimp on beef.   The shrimp wonton noodle, on the other hand, has the smallest serving size I've had in recent years. Wontons are also smaller.\n\nOverall a worse than expected experience.\n\nPS. 3.5% discount for paying with cash"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJUGV4bzIxd04zUXBnRRAB",
+            "text": "Absolutely delicious food. Xiao Long Bao were perfect texture/thickness of the dough and flavorful soup. the Veggies are well cooked. Rice cake beef pot was also on point.\nQuick service. Highly recommend!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xnM1YxSkZWRlp6WmxKQmIxUTVWVUpvWDNrM01VRRAB",
+            "text": "Good affordable meal, restaurant is efficient however there were some times that it took really long to get a dish that people who sat down after my group got before us. My noodles took a while to come out but the flavor was as on point and they packed it with a lot of tendon."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsS1NqZzRVMDU2T1Zwa1EybDZMVk5TVUZKRlIwRRAB",
+            "text": "Great dinner service! Our wonton noodles were delicious and the broth was airy, clean, and filling. We also got the crispy scallion pancakes, soft yet crunchy yau choy with a yummy oyster sauce, and the fried bread with condensed milk which was soooo delicious, a highlight of the dinner! The bread bits were perfectly fried and warm and doughy inside, a perfect pairing with condensed milk.\n\nWe were seating right away, our food arrived quickly, and staff were super kind and attentive. It was also easy to order via tablet and split the bill. Definitely coming back soon!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paRk4xOXNYM2h2WmxrM1pGQXlTRFZPVWtsaGRuYxAB",
+            "text": "Very neat looking spot in chinatown that captivated me with its looks and diverse menu. The menu truly has something for everyone, I opted for beef meatball noodle soup and chicken corn dumplings.\nThe dumplings were great! Crispy outside, juicy inside and full od flavor, acomoanied with a great dipping sauce.\nThe noodle soup was great too, but I wasn’t a huge fan od the consistency of the meatballs - they were very compact and chewy. The flavor overall sas great, attentative service and very reasonable prices. Would come again"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKcGFWUmhiRWw1VEhKRmNXOVFOMVExWDBaTlFtYxAB",
+            "text": "If you’re craving authentic wonton noodle soup this is the place. You can also choose your own noodles. From udon to rice noodles to egg noodles. Friendly staff and clean!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2dDd5cTd3RRAB",
+            "text": "We’ve been coming here for years now-the food has been pretty consistent and generally very good.  Service is cordial and polite.  But why 3 stars when everything is 4?  Well on our most recent visit here a week ago, they charged $0.50 for packing your leftovers to go (patrons next to our table).  That’s just insane and rubs me the wrong way.  $0.50 is not much but just not right for paying customers who can’t finish and want to take leftovers with them (this is not a buffet).  This has us seriously considering not to go back."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VMbUNxdmJocmJXLXBnRRAB",
+            "text": "Food is good, smaller serving compare to other noodles restaurants. Clean and nice place. The downside is I waited almost 30mins for my beef stew wonton noodles soup even it’s not busy."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KYVozaEtWMWQyY1dWTlFuTjJVSGt5UWxoaFNVRRAB",
+            "text": "In New York, an old restaurant can surprise you. I haven’t been back to Noodle Village for years and while I wasn’t looking, it has been renovated, and transformed into this chic, modern and cool-looking hot spot but I’m glad the food still tastes the same delicious and homie. I also got to experience the staff’s Cantonese aunties’ style of attentiveness when responding to them in Cantonese. But what’s up with Peking opera faces on the utensils? Peking and Canton are two distinct cultures. You can fool the westerns but not me. It’s nice to have a filling delicious dinner in Manhattan for under $50 (tips included), which is increasingly rare these days."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSQlVHWlRWWEE1VDNSUWEwRm1WVXMwWjJWb0xWRRAB",
+            "text": "🍜 70 Mott Street in the heart of New York's Chinatown. Noodle Village is known for its authentic Cantonese cuisine. This location occupies a prominent and accessible storefront. Suitable for all group sizes. ★★★★★"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvemZ6UG13RRAB",
+            "text": "Noodle Village – New York\nHad the chicken ramen at Noodle Village and it really hit the spot. The broth was super tasty, not too heavy, and the noodles were just right. Chicken was juicy and flavorful too. Chill vibe inside and the service was quick. Definitely a good spot if you're in the mood for a solid bowl of ramen."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYenB6VVdBEAE",
+            "text": "It’s busy place, they don’t take reservations but they do their best to accommodate you. We went on a busy Saturday night with a larger party and they did their best to get us seated together but it didn’t happen. It didn’t affect the enjoyment of our meal, we loved the freshness and quality of the food, the options and overall value. It’s not high end; it’s down home and so good. Noodle soups came out piping hot and flavorful.\n\nWould definitely visit again without hesitation. Service was really good too."
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKdWJlYUp3EAE",
+            "text": "The spring rolls were great, I wish you could get 3 instead of 2. The service was also very quick and the restaurant was nice and small. We had the shrimp and beef wonton noodle soup, it was fine but all the wontons were shrimp which they should make known that its one or the other, not both. Also had the sliced beef noodle soup with ginger and scallions which was good but the ginger was a bit overpowering. We otherwise left very full but a bit underwhelmed."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25reVFrRk9lazA1ZWxwVGJ5MDJkVmxJYmxCaFgxRRAB",
+            "text": "The food was great and the staff were quick and attentive. I came at 8pm and it was quite crowded. The restroom is downstairs and could be cleaner."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5dFdtTm1WbFl5WWpOdFdsRk9ZWGREWW5WT1RrRRAB",
+            "text": "I’ve been coming here for years and usually love the food and service. However, some servers can be a bit inflexible about seating. We recently came for weekday lunch when it wasn’t busy and requested a larger booth since we always order many dishes. Thankfully, the tall lady server was very kind and understanding , she truly knows how to make customers feel welcome (this review is for her!).\n\nI understand saving big tables for large groups, but when the restaurant is half empty, a little flexibility goes a long way. Good service isn’t just about bringing food to the table ,  it’s about creating a warm ,welcoming experience that keeps customers coming back and builds a great reputation."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmeDlMNTFnRRAB",
+            "text": "Really loved the food, all of them were delicious. I ordered the wonton, shao mei, fried crueller, congee, beef chow fun, and pan fried dumplings for $70. The portion was big so u could share them with friends. I would recommend u to eat the dishes with the chili oil, it was delicious and not too spicy (but don't add too much, so u could still enjoy the real taste of the food). The service was fast, and the waiters + waitresses were kind and friendly. They would regularly refill ur tea 🫶\nMoreover, the resto was clean and they didn't use MSG."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJdi1INEVREAE",
+            "text": "modern chinese eatery which resembles those cha cha-tangs but with a different menu. they do a incredible take on the soup. dumpling, and the peanut rolls, and a really legit Hong Kong iced tea, only wish the wonton noodle soup was hotter otherwise incredible value and excellent service, just definitely worth it"
+        },
+        {
+            "date": "1달 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwNE5HbzVVakpWVlhrd1FsOXVVRU5oVVY5S04xRRAB",
+            "text": "老闆店員服務超級好，一直幫忙倒茶！還提醒出去沒有洗手間可以上離開前先上完再繼續行程！"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kTWMwVkNVMmt0WVhGMVFtY3lZbWQ2U3psWlEwRRAB",
+            "text": "Stopped in for lunch and did not disappoint.  Tried their chicken wings & curry beef and will return."
+        }
+    ],
+    "reviews_count": 88
+}

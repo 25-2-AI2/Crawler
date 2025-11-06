@@ -1,0 +1,614 @@
+{
+    "name": "Osteria Carlina Tribeca",
+    "place_id": "ChIJbZWna-NZwokRlEJVbtLTLgI",
+    "grid": "MN1",
+    "address": "11 Varick St, New York, NY 10013, USA",
+    "rating": 4.8,
+    "user_ratings_total": 560,
+    "phone_number": "(646) 370-4929",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OdU5IaHVkbHA2ZWxoZmRub3pWbHBoUzNseFFuYxAB",
+            "text": "What a lovely evening we had. Food was delicious and service couldn’t be more attentive. Our server gave us great recommendations and the drinks were excellent. Raul was like a hawk attending the entire restaurant, but he especially made us feel comfortable and special. Thank you Osteria Carlina!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205b2JHRlFkM05mVTJ4bWRucDROM0ZhUlhOeFpWRRAB",
+            "text": "Incredible food and service!! I dined at the bar and Rei was a fantastic bartender/waiter and Raul the manager made me feel welcome and well taken care of from the moment I walked in. Had the pumpkin ravioli with white truffles paired with Chardonnay and it was the perfect decadent fall meal! Will definitely be back 💫"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKTWVqRktjbkpHV21oc1dtNVNTMWd3V25KQ05WRRAB",
+            "text": "I had the most amazing time here! The cocktails were delicious and the staff did an amazing job at helping me pair wine to fit my dish. Special shout outs to Rei the bartender (a true magician!), Raul the big boss (hot to trot, and so welcoming) and my waiter Gui (delicious, kind, funny).\nI’ll definitely be back for the food, drinks, and staff!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkUE5VSmtRMjlYVVRKb2VGSkdlRVJvZUZGaWExRRAB",
+            "text": "Amazing experience! Food was beyond expectations, first time trying From the north of Italy he was impressively good, fresh, tasteful and unforgettable. Service was very attentive and careful that we had a Perfect Experience, it felt like it since we walked in the door."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SSmRtUnRSMU5YVkRsWlMwMVFTRGRJT1VwaVZrRRAB",
+            "text": "The staff were kind but the manager seemed to be rude / racist. I felt uneasy around him.. Since food in nyc is competitive, service plays a huge part in judging a restaurant. When the higher ups have bad practice / energy towards certain customers, I don’t feel good about the restaurant overall.."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGVU4zVkxVVVl4TTJkck9GOVNUaTAzYm5WWVdGRRAB",
+            "text": "Amazing food\nHighly recommend"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kRmVuVTFTa3hJVUVOQ1pGRk5VWFJTVW5ONmFrRRAB",
+            "text": "Great atmosphere and amazing food from Piemonte! Highly recommended."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jNVduUjFVVEYzUjBac05HMTJZbk5KZGtOck0xRRAB",
+            "text": "The food was delicious! Appetizers were absolutely amazing and the staff were friendly. So happy we found this spot!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201VmIwVnNXbXMwWDNwVFZtaFZRM294WkZGbWFWRRAB",
+            "text": "Food was good, service wasn’t so great, not much space—felt too tight. Super loud and uncomfortable."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21jMGQxQTBNRkp5WDIxU1ptZHRUR2xNVTNONGFXYxAB",
+            "text": "The place exceeds expectations!\nVery good cooking. It‘s over the edge."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KVWVsY3pPWGRSVVRKcVVtUmxkM0pNVm1kNU4yYxAB",
+            "text": "Orchid was absolutely amazing!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pRemRtaEVOM2wxZUY5MVRqRjFXVW8wV1dwVlRtYxAB",
+            "text": "We went outside and decided to enter the restaurant, and it really was one of the best experiences I had ever had. Thanks to the waiters for the excellent attention."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxa1RFOUtaR0ozTm1wRVoySkJTR2hCYkVFM1ZuYxAB",
+            "text": "This was the restaurant that impressed me the most, the service, the waiters, OMG!! thank you Raul and Orqui! Thank you for everything!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoeU1scEhWemREUm1selMwUlVObkZTY1VSTlIxRRAB",
+            "text": "Absolutely fantastic Caesar and bolognese! Staff were cordial and welcoming. Live jazz was lovely."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SNFJFZzVkbFppUW1zM1VFRjVUSEJ0YzJob1lYYxAB",
+            "text": "I feel genuine pleasure eating here. Their menu items are outstanding & truthfully, all my selections have been delicious. Employees bring laughs, warmth, and attentive care. Seeing the employees smile adds to the pleasant atmosphere. All elements were impressive & I'll definitely be back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVd2QwbG1hSGxDUmtsT1lXTXpWV0puZGtSSFJIYxAB",
+            "text": "Wonderful evening eating delicious food at the bar. The highlight was our bartender Reed! The lamb ragu pasta was a standout! Highly recommend this gem of a spot in Tribeca!"
+        },
+        {
+            "date": "1달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SVlVUaDRTbU5EYkZkNmF6RkVkbWN5Y0ZGQk4wRRAB",
+            "text": "Un’esperienza davvero speciale!\nAbbiamo pranzato da Carlina e siamo rimasti entusiasti. Le pappardelle al ragù erano semplicemente eccezionali, uno dei piatti migliori provati a New York: sapori autentici, pasta perfetta e condimento ricco e avvolgente.\nIl locale è accogliente, curato nei dettagli e trasmette calore italiano. Un ringraziamento particolare al titolare Moreno, persona squisita e molto simpatica, che con professionalità e passione sa mettere a proprio agio i clienti.\nConsiglio questo ristorante a chiunque voglia vivere un’autentica esperienza italiana a New York. Torneremo sicuramente"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCRFFsaFZhVUphWW5kbFh6VmhaSFJKU3psS2MxRRAB",
+            "text": "Great pasta.  I have been craving for pappardelle with meat dish and this place hit the spot with the Pappardelle lamb ragu.  Excellent freshly made pasta, lamb was tender and flavor was on point!\nLovely ambiance for a date or business meeting"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tselpITjFjMFp5WmtOeE5UZDJURVJxYmxoMlVVRRAB",
+            "text": "excellent service, everything delicious"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ocVpWTkxNVXRpVUZReFlYVnZhbTV3UW14TFFWRRAB",
+            "text": "Incredible food, vibe, and service. Couldn’t recommend more highly. 12/10!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xodFpEZE9SMUJNVWtRNExUTnFkRmRhUzIxblJsRRAB",
+            "text": "This place is great!"
+        },
+        {
+            "date": "1달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaeGFIWkZNbTA0UldkSmRVMXhOblJMVlRocGIwRRAB",
+            "text": "Da italiano ho scelto questo ristorante menu ambiente e personale sono il top. La carta dei vini è selezionata. Tornerò presto"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsNFRuWllkVlYwZDJwNmQxUkRVMG8wVUd4NFpWRRAB",
+            "text": "Every time I’m in NY and I’m in this area I end up here. The food and service it’s outstanding. Also great location."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pORFRUTXdZeTE2Um1oWFltMU9TbFJTVFZvemJuYxAB",
+            "text": "Deliciosa comida y una gran atención. El lugar es hermoso y el sabor remarcable!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psQ1lrTnVhRk55YTFsUU0xa3dia013WjJGVk5XYxAB",
+            "text": "Amazing food, atmosphere and service! Valeria and the whole team were so kind and attentive to making our friends birthday so special."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxU05GVndaVk5UZUdaWU5VbEpTSFJsYUhFM2RrRRAB",
+            "text": "I think I ordered the wrong dish. Appetizers were good and others liked their entrees. I wasn’t a fan of the squid black ink pasta."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GNU1GOUZSM2RSUVVOUlZtcFFPVmxQYW5aa2FIYxAB",
+            "text": "Great Italien food.\n\nNice staff"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25admVGRnpjMHBSTVZaWk5FZHpWRXRHYUVOS1ltYxAB",
+            "text": "Excellent food, ambience and service"
+        },
+        {
+            "date": "1달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KSFJraE1jRTFDWVV0bU4xQmlMVTF6TjFNemRIYxAB",
+            "text": "Ottima cucina e posto bellissimo !!\nPersonale gentilissimo !!"
+        },
+        {
+            "date": "1달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201VFVFTllWbmR3T0ROTGFtcGhWamRrVURWSVNGRRAB",
+            "text": "Cucina italiana di ottima qualità con un servizio impeccabile .\nCamerieri preparati e gentili con uno chef e un caposala molto preparato.\nGianfranco. S."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JMlMzcEdOa3BuUjNST01UWkxaakZrYzJnNWFtYxAB",
+            "text": "Lackluster and tasteless pasta. Staff and space ❤️"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFNWFrVjBSbmR0Y0dSUGNVeG5SRk40ZFhoU1FrRRAB",
+            "text": "Wonderful experience on a Saturday night with my daughter. We had the gnocchi and the Bolognese and both were superb. Cute restaurant ."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tORFJYSjJhVlpWVGtaeFIwWnJhRll0WkVWbVFuYxAB",
+            "text": "Such a great spot to host dinner party! Staff went above and beyond to make night so special and personalized, not to mention the food was delicious! Excited to come back soon"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFM1pTMUlia1pLVW5wbE1HdHhNWEpwZEVWMmFFRRAB",
+            "text": "Lovely evening. Delicious. Wonderful and attentive care from Raul and Orchid. Great patio."
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sbVIxaDNkbmhVZG1saWVIbDZaemcyV2xCVVFsRRAB",
+            "text": "Sono italiano e cercavo un ristorante che mi facesse sentire a casa. Ho cenato con la mia famiglia in questo splendido e pulito locale. Esperienza eccellente!!! Abbiamo mangiato benissimo perché i prodotti sono italiani ( si sente la differenza). Lo consiglio vivamente. Promosso con lode!!!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SYVoyUk5iMjVZTjNvNGMzWkxVSGs0UmtwRlRWRRAB",
+            "text": "Loved everything"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KVmFYaEdSRTE2UlRRM1duUTRVR2xVWXpkVWIxRRAB",
+            "text": "Great neighborhood spot for authentic Italian! They had an unbelievable zucchini lasagna."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Rd0xVaDVRVTVzT1hFelNsUmplbWw1WkRKclgzYxAB",
+            "text": "Stumbled upon this hidden gem and are truly glad we did! Food was incredible…vibe was cozy and friendly…and the staff went above and beyond! Highly recommend if you’re in Tribeca! Make sure you try the Lou Ferrigno cocktail, Insalata Carlina, gnocchi and end with a build your own espresso martini! You will not be disappointed!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oc1lrcENVa0V5VWtaVE4ydEhUWEpuWTA5TmMyYxAB",
+            "text": "Absolutely incredible food and ambiance!"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxd2ZucDN3RRAB",
+            "text": "Great service and amazing food as always. Always very accommodating. Highly recommended"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25BMFQyZFhXRU5aTWpZMFlrVnJSVWRsV21kVE5XYxAB",
+            "text": "Excelente la atención y  y los tragos estaban increíbles! Volveremos de todas maneras, Muchas gracias"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toaVRERlhVVmx2T1haTWRFSmpXVWszV2xkeGNIYxAB",
+            "text": "The host was fantastic and the food…AMAZING!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SNmQwVnRObTlyUkZZNWJXNXhhRTlUZFUwd05IYxAB",
+            "text": "Service food and atmosphere all an A+"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNM2FrRk1iR2gzTm05U1VHNDFUM05JVkZwRExVRRAB",
+            "text": "We had such a lovely evening here tonight! Rei was super attentive and friendly and the food was delicious. A real cozy gem with incredible ambiance. Will be back for sure!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0MFVtZGZTalYyTURkSVRqTk1PRFZ5WW1OcmRXYxAB",
+            "text": "Raul, Guillermo, Vincent and Valeria treated us like family while we were here. The hospitality spoke more than the food even did. And by the way the food was incredible. Yes this is a real review and i am no bot. Live right down the street.  Please come on in and support this incredible!"
+        },
+        {
+            "date": "3달 전",
+            "language": "hr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OalVIZGxZekoxVWpOUVVsSTJNRmRuVTBwSGVFRRAB",
+            "text": "Lovraki"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCTkxVWnRUWGd0V1VWQ1NuaGtiMUk0YjJkWWVXYxAB",
+            "text": "Good experience. Italian style confirmed"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205UU1Gb3hOVWgzYTFOcFRIQlJVVEF0YVZWTU5sRRAB",
+            "text": "The best part besides my perfectly cooked rack of lamb was the SERVICE! Amazing...Everything is ON point! Highly recommended."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2prMllVaHJiRGxHUW5FNGFEZFlUVmgxVW5aNVlrRRAB",
+            "text": "Have been in NYC for 4 years, this place is the most underrated for sure"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SVlZFdDJjelpxTld0YU1XTmFlalpWUVZkWFJVRRAB",
+            "text": "Great food, drinks and service.  Snapper and bolognese were delicious."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200eGRURldaRzVSWDA5M1NIbHJkbm94Wm1kWVZXYxAB",
+            "text": "What a great restaurant. I was in Tribeca for a private screening filming and wanted to eat prior. Being a foodie and from the Caribbean I want the best of the best and this restaurant was a 10/10. The space is beautiful, the staff are professional and ready to be of service. The playlist was great and towards the night it picked up. I had the oysters as the appetizer followed by  the red snapper filet . Amazing! Perfectly flavored and complemented by the spinach and mushrooms. I can’t wait come back again.the manager Raul was great and made sure I was having a great experience . This is how a dining experience should be. 🌹🪄"
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQT0d0SjZfNk1LeXJRRRAB",
+            "text": "🗽🇮🇹🇮🇹🗽 Fantastic Experience!\nThe food is absolutely delicious—made with top-quality ingredients and full of authentic Northern Italian flavor.\n\nOur server, Valeria, was wonderful. She guided us through the menu and wine list with such care.\n🫒🥖 We started with house-made focaccia and marinated olives, followed by a traditional battuta di fassona from Piedmont—fresh, tender, and perfectly seasoned.\n\n🍝🍝🍷🍷 For mains, we had the mafaldine ai funghi and the agnolotti stuffed with slow-cooked short ribs and pork shoulder in a butter-sage sauce—both were incredible. The wines Valeria recommended, Barolo and Brunello di Montalcino, were perfect pairings.\n\n🍰🍸☕️ We finished with the giandujotto and a fun twist on dessert—make-your-own espresso martini.\n\nManager Raul was also very attentive. You can feel the passion and teamwork from start to finish. We love this place and can’t wait to come back.\n\nlove this Place!!!!\n\nRecomendadisimo este lugar si quieran comer una rica pasta, buen vino, tienen pescados también. Para mí esta entre los TOP Restaurantes de NYC🗽"
+        },
+        {
+            "date": "4달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sU09GaDZWM293TjI5Rk9URk9UbGhpVEMxb1oyYxAB",
+            "text": "Cena fantastica e ambiente incredibile, come essere in un ristorante di alto livello in italia!! moreno il proprietario, simpaticissimo, welcoming e socievole. il barman al bancone amichevole e professionale, é stato uno soettacolo durante tutta la cena. ambiente elegant and cozy, cibo strepitoso e uno dei tiramisú migliori che io abbia mai provato! tappa fissa ogni volta che vengo a new york!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJaWNmSDN3RRAB",
+            "text": "Excellent meal from start to finish. Very refined, and surprisingly light and delicious. Flavors are classic but also unique, and pasta was cooked perfectly. Portion size is great. The giandujotto dessert was also probably the best dessert I’ve had in years. Also Barbara, our server, was so kind, friendly, and attentive. Definitely will come back."
+        },
+        {
+            "date": "5달 전",
+            "language": "pt",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPYnJzS2JGMk9ELWpBRRAB",
+            "text": "Comer bem é sobre a mesa posta, a montagem do prato, os ingredientes, a harmonização com a bebida certa na taça correta. Além disso, comer bem é indissociável de estar em um ambiente acolhedor, como na Osteria Carlina Tribeca. Raul e sua equipe — como o competente Vincent, que nos atendeu — fizeram tudo com maestria: desde receber - a mim e minha esposa -,  acomodar, sugerir os pratos (que aspargos incríveis!), até a forma atenciosa de servir a comida e o excelente Sangiovese que escolhemos para harmonizar a jornada. Por fim, um tiramisu incrível, acompanhado de champagne. Não consegui chegar ao limoncello — vou ter de voltar. O local entrou na minha lista de favoritos em NYC."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5V1dFNUNlalJqTlMwMk1USlNVV3RGZURGS00zYxAB",
+            "text": "Phenomenal meal. Staff/service and food were some of the best we have ever had in the city. Fresh pasta and fish galore and standouts were definitely the house made focaccia and steak. Shoutout to the singer and pianist. This place hasn’t been infiltrated by influencers so a 10/10 for me LOL"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WVU1uRnZUamhuTjJOVE1ISnNha3h4TlU5VVJrRRAB",
+            "text": "Exquisite! Delectable! Impeccable service! I sat at the bar with one of the best bartenders in the business - Rei! His recommendations were spot on! The people I met were tremendous and kind. I will come back in a heart beat! And I did before I left NYC and Kenneth was terrific and the food was delectable again!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKUDRsWUR1dHNPaGNBEAE",
+            "text": "Hands down the best service we’ve ever had. Coming from the restaurant industry ourselves, we’re not easily impressed…but Raul blew us away! Incredible cocktails, fantastic food, a warm and welcoming atmosphere, and Raul made it ALL unforgettable."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvLUtTSGh3RRAB",
+            "text": "Five stars for this fine Italian establishment! I had a magical birthday dinner at Osteria Carlina Tribeca, thanks to a surprise date from my boyfriend — and everything from the food to the service was outstanding.\n\nWe were warmly welcomed and seated by the manager, TJ, who was a knowledgeable and gracious host. Our server, Vincent, was incredibly kind and attentive throughout the night, with additional support from Felipe who made sure we were well taken care of.\n\nWe started with a bottle of bubbles and warm, melt-in-your-mouth focaccia fatta in casa with whipped butter. For appetizers, we had the Polpettine Langarole — perfectly prepared — along with the Insalata Carlina, a bed of delicious greens, and their special risotto balls, which my boyfriend couldn’t stop talking about!\n\nOur mains were the Tajarin alla Bolognese, beautifully balanced in flavor and salt, and the Involtini di Pollo, served with a rich wine reduction that I’m still craving. We ended the night with a classic tiramisu, paired with an espresso martini and a Sergio Leone cocktail — both expertly crafted by Kenny, the amazing bartender.\n\nEvery dish was thoughtfully executed (thank you, Chef Ivan!), and the entire team made my birthday feel so special. Grazie mille to the Osteria Carlina Tribeca crew — I can’t wait to come back and explore more of the menu!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZNXV1aE13EAE",
+            "text": "We stopped in last minute, no reservation and they were able to seat us at a great outside table. We were served by Ricardo who was phenomenal, every recommendation he had was spot on. We had oysters, a salad, the bolognese and the lemon pasta and it was to die for. If your looking for a great meal and a great ambience this is the place!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNUDhrWXJ2em9Ic1B3EAE",
+            "text": "Our server Rodrigo was amazing, He made us had a great experience. The food was delicious and the atmosphere was very pleasant."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxNGJUQm1SbkZEUzJOUE4wUjFPV3cxYTA1bWNIYxAB",
+            "text": "i’d characterize this restaurant as blissful. the atmosphere is upbeat but cozy, caring, and comfortable. the italian wine selection is intentional and well thought out.\n\nthe pasta … chefs kiss. fresh pasta. full of bold flavors. this restaurant is a true italian romance with food. i highly recommend the tagliatelle. the bursts of lemon make what could be a heavy dish, light and refreshing. especially in the summer heat.\n\nyes, you’d come back for the food. obviously. but you’d also come back because of the people and atmosphere. even for a cocktail at the bar before a night out."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2Mjl2WXZ3RRAB",
+            "text": "Authentic, northern Italian food in an incredible ambiance. I don’t drink and was suggested the “phony Negroni”, absolutely incredible and exactly like a true negroni. Special shout out to Rei who served us at the bar. He was absolutely phenomenal! Knowledgeable, attentive and kind. 10/10 experience."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKSGhsSXk4d01lUHVRRRAB",
+            "text": "Such a wonderful experience at Osteria Carlina! This spot truly feels like a hidden gem in Tribeca. The food is fantastic, the atmosphere warm and inviting - and Raoul, the manager, is exceptional! He goes above and beyond to make you feel welcome. Can’t wait to come back!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pVeGQxaEZaVUZsVERoNFdIQldWbk5NVDJsV1pWRRAB",
+            "text": "Did not have food, but bartender Rei, was fabulous! Was very entertaining and definitely made the atmosphere 10/10! Definitely recommend coming in and having a Sergio Leone (or Phony Negroni if you don’t feel like having alcohol)."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmajY3Xy1RRRAB",
+            "text": "My girlfriend and I came here for Christmas Eve and it was nothing less than spectacular. Of course the food is amazing but the real star of the show was the service; particularly our server Nelson. Food highlights were the in season whiter truffles and their dessert. Nelson provided exquisite service during the entire meal.\n\nWe were promptly seated for our reservation and the staff was so on point. We were ushered to a very cozy table for two at arguably the best table in the restaurant. We ordered our cocktails and really fawned over the menu before making our selections. We started with the risotto with white truffles and the presentation of the risotto and of Nelson slicing the truffles table side was a super nice touch. We shared a hanger steak with two glasses of wine that Nelson recommended and the flavors of the shallot reduction were enhanced by the Nebbiolo that Nelson recommended. After two shots of Limoncello were downed, we moved to the Giandujotto for dessert with espressos. The dessert was heavenly. We will definitely return and will always ask for Nelson. Thank you for such a wonderful Christmas dinner!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3Z1kyMS13RRAB",
+            "text": "Fantastic experience from the service to the food. We ordered the peach and burrata appetizer and it was out of this world along with their take on a Caesar salad. If you’re in the mood for truffle as well, this is your place! We will definitely be back."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYOTRLTHhBRRAB",
+            "text": "I had a great experience at this restaurant. We sat at the bar, and the food was amazing. The atmosphere was really nice, and we appreciated that they didn’t rush us. Rei, our waiter and bartender, was fantastic and made the night even better. I’ll definitely be back!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsdk9GSnRlR3BUWHpCTmFrWnZablpoTTNGYVNHYxAB",
+            "text": "First, the ambience and atmosphere is top notch. It’s cozy and romantic. Second, the menu shines. I say get a few things and share between the table to get to try the array of flavors they have to offer. Third, the hospitality. Raul, the servers and wait staff are so kind, warm and attentive. This is the type of place you go to once and it becomes a regular spot. This is what hospitality is about."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMdzRpcER3EAE",
+            "text": "A totally charming and intimate Osteria in west Tribeca. You can't go wrong here with the pastas which are superb. Also there is a very nice bar to either enjoy a drink or have your meal. The menu has a large selection of interesting pastas and mains with lots of seafood choices. Also decent vegetarian options. My friends didn't love their deserts but I thought the Olive Oil Cake was quite good."
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvamVpNnh3RRAB",
+            "text": "Meraviglioso!!! Son tornato in Piemonte per una sera, gli stessi gusti di casa ma con l’eleganza di un ristorante di lusso! Tagliata di manzo eccezionale come anche i primi! E finalmente un espresso come si deve! Consigliatissimo!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOV1c1ZDc3NDRqdmVREAE",
+            "text": "Food was amazing. Perfect recommendation for a solo diner. Would love to come back to share the apps. Raul & Valeria were very hospitable. Can’t wait to come back."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKV1RUZFdXWFZIYXpOamVERm5TblJqVGpGeVRHYxAB",
+            "text": "We had a great experience here at this wonderful cozy Italian restaurant in Tribeca. The staff went above and beyond and made my birthday so special. Raul was so attentive and made our experience the best we ever had. Guillermo who delivered our courses always had a pleasant smile. I recommend over and over again! And let’s not forget about Kenny, best drinks in town. =)"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2OHJMU3pBRRAB",
+            "text": "I wish I could keep this place a secret but they are deserving of their notoriety.\n\nThe atmosphere here is very intimate and cozy. The dim lighting and small space make the dining room feel like you’re eating at home with family. This goes for the service as well with everyone being welcoming and jovial.\n\nBread service and the imported meats plate served as plentiful appetizers. For main courses the Agnolotti (braised short rib stuffed ravioli almost) will surely be the best pasta you will ever have. You will be thinking about it for days. The chicken Valdostana is a great as well if you are looking for something with more protein and don’t mind herb forward dishes.\n\nPair all of this with a wine bottle of your choosing to really feel like you are dining in Italy.\n\nClose out your night with limoncello and biscotti’s as your desert.\n\nBonus tip: the famous firehouse from Ghost Busters is across the street!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMd3ZMakxREAE",
+            "text": "The reviews must be from friends and family because the food was bland, tasteless, beyond disappointing. Presentation is much better than the execution. I don’t like to write negative reviews, but these reviews are so far off reality and it’s just not right to recommend this place as a 4-5 star restaurant when the food is so bad. Oh and the wine is even worse. The wine list is outrageous. We opted for a Super Tuscan at $160 and it was horrible. We left the majority of the bottle and could t get out of there fast enough. We actually enjoyed the Stracciatella with spring peas and herbs, served with homemade focaccia. It would’ve been nice if they offered more that two tiny pieces of focaccia for all that cheese. The lasagna and fried chicken were horrible, and they were the two dishes our server was adamant on us ordering. Never again."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIdXNtUWhBRRAB",
+            "text": "Ostreria Carlina was everything I expected it to be. From the warm welcoming, the accommodation of all of our needs and the delivery of spectacular food service and friendly hospitality. I can’t wait to return and tell all of my friends. A special thank you to Nelson and Raul; the best!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5aFJrSmtaM2M1ZUVSVWFHOHdVSGhmV1d4UFRHYxAB",
+            "text": "Our experience was fantastic, Raul set a great tone from the start and Vincent did a great job. The food was very good and the atmosphere was great for a Friday night dinner on the terrace. A great place for a dinner with your significant other or an aperitif with a friend visiting the city. A quality experience!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxaWJPNlV3EAE",
+            "text": "Very classy, cozy, and exemplary service. Chef prepared cuisine is delightful.  No one in NYC makes Tiramisu like in Italy, but this place is so close. Clean and keeping true to Turin toots. (Been there and awesome.) Moreno has lead this wonderful new place in Tribeca following the success of West Village and Brooklyn.  Marvelous and true to Turin."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEZzRYcC13RRAB",
+            "text": "Beautiful and chic restaurant, incredible and knowledgeable service (including a wonderful sommelier), and outstanding food and drink. Definitely a must visit for a fine Italian meal in a beautiful environment.\nP.S. The Filetto Di Manzo (Beef Wellington) is a wonderful main dish."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRX0lhOGRnEAE",
+            "text": "I was in Tribeca and I stumbled into Osteria Carlina and am so glad I did. Hospitality, ambience and food was superb. I thank Kenny and the rest of team for being so welcoming. Raul the manager came by a few times and made the evening so special. I highly recommend and will be returning with friends and perhaps with colleagues."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkMU8yYXZBRRAB",
+            "text": "Great place to relax and drink wine, the wine menu is awesome. We had the meat appetizer with Burrata, the bolognese, and the tiramisu dessert, all were super good. Highly recommend the Barolo by the glass. We got lucky on Super Bowl night and had live music next to the bar, some quiet jazz to round off the evening was nice."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyMTZuakJBEAE",
+            "text": "Perfect for a relaxing evening. But also there was a large group celebrating a birthday so you can go both ways. Raul and the whole team were incredible ! Sidewalk seating was perfect for my service dog.  I really enjoyed the gazpacho and risotto."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURsa19UUHJBRRAB",
+            "text": "We also tried the Tribeca location.\n\nFine  dining Restaurant\n\nThe food is of the highest quality, and authentic Italian, Impeccably cooked, the products are top, and selection of very high quality wines.\n\nThe service is excellent, 5 stars, polite staff and excellent attention to the customer.\nthe location is elegant and welcoming.\n\nHigh profile restaurants.\n\nSommelier, extremely knowledgeable\n\nthe owner is very kind and attentive to satisfying customers' needs.\n\nHands down the best Italian restaurant in NYC\n\nDefinitely future Michelin star"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURsNi1tTXdBRRAB",
+            "text": "Quite a gem. Great small restaurant - they only have maybe 10-12 tables . Service was outstanding. The lasagna was really good. We want to come back and try some other options.\nThey just recently started opening for lunch. Small and likely under the radar. Recommended."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCM1JUVXRjRUoxYzNSQlRqUkdNbVpJZUdoUFprRRAB",
+            "text": "Delightful ambience , excellent food snd excellent service ! We really had a great time. Rodrigo , our waiter recommended the best wines for us. We had the fluke cruder and the oysters as well, excellent. Thank you Osteria C!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4eXVycGJ3EAE",
+            "text": "Exciting new restaurant in Tribeca serving northern Italian cuisine. We got the pizzetta, beet carpaccio, agnolotti and mushroom risotto, all of which were delicious! Service was outstanding to say the least! Everyone on their team was warm and seemed to genuinely care about making sure we were taken care of and having a great time. Thank you to Moreno, William, Anna and the entire waitstaff for being so attentive, courteous and thoughtful! We need more restaurants like this in NYC."
+        }
+    ],
+    "reviews_count": 86
+}

@@ -1,0 +1,656 @@
+{
+    "name": "Andrews NYC Diner",
+    "place_id": "ChIJRdi1GaxZwokR3vmYZ_GDcSM",
+    "grid": "MN5",
+    "address": "463 7th Ave, New York, NY 10018, USA",
+    "rating": 4.4,
+    "user_ratings_total": 8369,
+    "phone_number": "(212) 695-1962",
+    "reviews": [
+        {
+            "date": "7시간 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoV1ltOU9TalZNYldZd2QxaGhVR0p0TUZrNU4zYxAB",
+            "text": "Ottimo diner trovato per caso. Insalata di pollo ottima così come l’omelette. Consigliato"
+        },
+        {
+            "date": "11시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wWmJHWXllbkJaWkRkWVptRklibFYzVVRSQ1ZsRRAB",
+            "text": "Very busy for Sunday breakfast but seated reasonably quickly-very organized.   I ordered pancakes & eggs & my husband got an omelet-it was all delicious.  Staff was very friendly.  Seated next to us was a man from Australia who needed directions & the manager/owner (???) not only gave him verbal directions but printed out which bus transfers he would need-so friendly & helpful.  Great place to eat and great staff."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21scU1HMVVkblpTVWsxWFdUbGxYemMwTXpCSVJXYxAB",
+            "text": "Amazing tasty pancakes & hazelnut coffee.\nLarge variety of food option.\nDefinatelly must go. Very good customer service by Charmayne."
+        },
+        {
+            "date": "4일 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psVlVUVnpkbnBaZURGUGNFeDFORVZLUzNWMk9FRRAB",
+            "text": "Schön amerikanisch. Flotte und nette Bedienung und der Nutella French Toast ist mega lecker."
+        },
+        {
+            "date": "6일 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wWGVraHBkMFJWU0VwV2MzVmpSRlp0TjFkbWRXYxAB",
+            "text": "Cucina americana nel centro di New York, anche questo non è solo per turisti anche gente e lavoratori del posto vengono qui, ottimi gli spaghetti con meatball e la New York cheesecake, simpaticissima la cameriera..una saluto dal tavolo di italiani di qualche giorno fa.."
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxR2VqSk9XRzF1Y1ROdFlubEZVVTFVYWpsNWMzYxAB",
+            "text": "Classic American diner experience. The pancakes were the best!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GeGF6ZHJVR2gwUXpGS1JVVmpSMWhuZFZaa0xXYxAB",
+            "text": "Great spot to slip into with a great range of entrees. Absolutely loved the Spaghetti + Meatballs and the House Salad was fresh and DELICIOUS. Will definitely be back,"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWM09IWnBOV0ZYUkd4MVZHcHZORWRGUTFSNk1HYxAB",
+            "text": "A wonderful cozy stop on a brisk NYC morning!\nWe stopped here for an easy breakfast/brunch.\nWe got seated immediately and were warmly\ngreeted by Charmaine who was so kind and brought us hot coffee within moments! Food came out quick and was delicious.\nAtmosphere was cozy as we are midwesterners who love a family style diner.\nA+ for food, service & atmosphere ⭐️"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOc1JIbE5XSFZtWldsRE16Tm1hREpGUjAxWmVuYxAB",
+            "text": "There was quite a long queue when we arrived which meant a bit of a wait. Larger groups which came in after us also got seated first, which was a little annoying. However the food and service was very good. I had the pancakes, which were light and flavourful. The cheese omelette also went down well with the others in my party."
+        },
+        {
+            "date": "1주 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SeFJrSmxiVEo2TWpGbVdDMVhaa042WlVaRVZIYxAB",
+            "text": "Hier kann man sehr gut traditionell amerikanisch frühstücken."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSc2JXdzRla1ZHTkhwSGVWZ3ljek5yVGtoNGFFRRAB",
+            "text": "Clean, quiet and a nice break after a busy day in NYC. Food was reasonably priced and tasty (I stuck to the breakfast menu even though it was dinner time). Staff were exceptionally friendly and attentive. Glad I stopped in!"
+        },
+        {
+            "date": "1주 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCNE9FRTJRV1JTTVRnNWFEWnJaM2REYmxVelMwRRAB",
+            "text": "Notre cantine lors de notre séjour. Nous avons prit nos petit déjeuner ou goûter presque tout la semaine. La nourriture est très bonne, le service très bien et les prix raisonnable. Nous avons adoré venir et goûter quelques plats offert par la carte très diverses.\nAdresse a garder!"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21obFRWZHBPWFpEVXpJeU1FOVFkM2N5TWpFek9GRRAB",
+            "text": "Muy buena opcion si te encuentras por la zona de Broadway y Times Square. Muy recomendable y muy buena comida."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WWE9IUkdWMFpMWkhCdVVVOXljMXB4VUVKQlZsRRAB",
+            "text": "We stopped at this cute diner for a quick bite before a concert last night. The atmosphere was cozy and friendly. We ordered grilled chicken with avacado on multigrain and a chicken cheesesteak panini.\nOur food was delicious and hit the spot!\nIf I could give service more than 5 stars, I would. I had lost my ring and when they noticed me walking around scanning the floor, several of the staff helped look, and eventually, they found it! So grateful for their caring and helpfulness!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kWFNTMXpTR05YYUMwNU1reHVPWGgzTWs4NWVsRRAB",
+            "text": "Came here for breakfast on the first day of your trip, excited to try one of the diners in town. This place was a bit of a disappointment. The food wasn't bad, and you got a good bang for your buck, but I just wasn't impressed.\nThe omelet was a little overcooked, the potatoes didn't have much flavor and required salt and pepper, and the service was only OK. We never got refills for our water."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xS2JHWnZjemgyUVhoV04zQm5SRmwzV0VFNVNrRRAB",
+            "text": "Ok"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poU1JtaGxUSE5wUVU1RkxXdERVbXN6VDFndE5HYxAB",
+            "text": "Location was very close to our hotel. The food was good. Pancakes, French toast, eggs, bacon, greek yoghurt was all yummie. It was a good start to gain energy for a long walking day . Staff was friendly. Regular coffee refill (as usual) - Cappuchino was good as well"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4T1VDMXNVMVZGYjFsM1RYb3paMVU1YW01NFpIYxAB",
+            "text": "The berry pancake combo was delicious!"
+        },
+        {
+            "date": "2주 전",
+            "language": "nl",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWcGNFUk9Xa3hHY1VOQmNuSklTMkV0TlZKRmVHYxAB",
+            "text": "Matige droge burger die je zelf in elkaar moet zetten. Salade, op zich goed gevuld, maar alles in een bak gegooid, dressing mag je dan zelf doen. Niet voor herhaling vatbaar."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWRFRFZHhTR2xJTjFGSVYxaDRkRk5EZEVGeE5XYxAB",
+            "text": "Good food; great, friendly service😊…"
+        },
+        {
+            "date": "2주 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSUE9GcE9SSG8zWDJzNU1FVmtiVmc0YUVoVFJtYxAB",
+            "text": "Top Service, top Essen, super Ambiente! Wir würden wieder hierher kommen."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjd1QwRkhRWFo1V0hselJqQnVkMkpUWVRKQ1JVRRAB",
+            "text": "Great food, the chicken cordon bleu panini was so good and the strawberry cheesecake was 10/10. Highly recommend!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taVU1EQk9WMDFhUjFaTmNsaHhWa2g0TW1WVldFRRAB",
+            "text": "Not good burgher, fries with Chilli yum!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pONVJXWkhkM0JMUTBzeE4yNW5WeTEzTlhOZlgyYxAB",
+            "text": "Had breakfast items at about 2pm.  Waitress told me it came with home fried potatoes.  She came back with french fries and stated that they were out of home fried potatoes. I did not appreciate the substitution without asking me first.  She also said they were not serving decaf coffee because it was after a certain hour.  A ridiculous rule if true.  Do right by the paying customer (which by the way it is nyc prices so it ended up being a very pricey omelette since i did not eat the french fries) specially for simple requests.  Food was just so-so.  I don't think waitress was on her game and it was not even busy at the time.  I can't recommend and certainly will not be back."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CcmRXRkRWMGRDWVhjNWRreEtYMlJETm5OWFVXYxAB",
+            "text": "I was in Manhattan from UK Sunday 12th October '25, and had my first US diner experience in Andrews NYC Diner. It was everything I expected and more! Great food, great service and a wonderful experience"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FeFdtVjVPVzR3YkZGdE9HNHlRekpYTlRGS1owRRAB",
+            "text": "Love this place. First came here back in 2016 and returned in 2025. It used to be called Andrews Coffee Shop, but is exactly the same as I remember. The French toast with Crispy bacon is fantastic."
+        },
+        {
+            "date": "2주 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkSFlrOVZZVE0zY2s1UFpXOVZSWGR6VVZkU1pHYxAB",
+            "text": "Dîner classique mais très bonne nourriture, portion généreuse et prix correct.\nLes WC etait très propre malgré le nombre de passage.\nTrès bonne adresse pour quelques choses de simple, rapide et typique des US."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxVlNEVXhSMm94UnpkMmFqZFZhMmQxU1V3ME9XYxAB",
+            "text": "On a cold wet Monday there was nothing better than coming here for late lunch/early dinner. From the super friendly and welcoming staff, to the nice old school booths and great food ( big portions) and cold beer, what more could you ask for. Highly recommend a visit."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKaVlXMXJRV0pVWTA5M1dGQlFRV3hPUW5oS1pYYxAB",
+            "text": "Had a lovely and fulfilling breakfast here. Great service as well. 💯👏"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aNVVHaG5NbE5QTWxZeGFHSlZXazFuWVVKWFkxRRAB",
+            "text": "Best comfort food in New York."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taMVJGQmlTV3BRY1ZSMlZ5MHhkblp5Y0hkV1VFRRAB",
+            "text": "Turkey club was cold cut turkey,  not fresh roasted, and it's expensive"
+        },
+        {
+            "date": "3주 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psNGJWVllXbmRVYjFScVFVSm9NVzl0VjJ3MVZtYxAB",
+            "text": "Super leckeres und großes typisch amerikanisches Frühstück. Der Kaffe war sehr lecker für amerikanische Verhältnisse.\nWir hatten an beiden Tagen ein Combo Gericht ( Select Combo/ Waffel Combo/ French Toast Combo)\nDie Mitarbeiter sind sehr nett und das Ambiente war toll.\nIch würde jeder Zeit dort wieder essen."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoMFZ5MTZjalJwYmt4NWJWRTVVbm94UzJ3MVNIYxAB",
+            "text": "Ample space and reasonable price.\nStaff were attentive and fast service."
+        },
+        {
+            "date": "3주 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paWlFYQm5hamxPWm1kT05HMURhRlJzU21Kd2JuYxAB",
+            "text": "Sehr gutes, preiswertes und vorallem authentisches Diner. Waren 2x da, jederzeit wieder. Absolut empfehlenswert und freundliche Angestellte."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvek5UVjVTMFJOYkdWVFJFbFhOMFpOUjFGWVMwRRAB",
+            "text": "Great"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGQmNrSldia1V6YUVOcU1XbGxXUzFCYkdWMVkwRRAB",
+            "text": "You get a ton of food for the money, but that's all the good in this place.  Terribly overcooked omelette, flavorless French toast."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psTVFXbFpTbTVCU25oTFRYbFRaVFJqYVdoMmJHYxAB",
+            "text": "Thank you.  My wife and I wanted to experience a NYC diner, and you delivered.  Good service, good food, and that sassy cup of diner coffee. Perfect."
+        },
+        {
+            "date": "4주 전",
+            "language": "fr",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxa1gzaENlSEV4Y25GQlkyNXZTSGRJVGtwSU5GRRAB",
+            "text": "Si vous vous mangez des gaufres ou des pancakes c'est une adresse avec un bon rapport qualité prix avec l'ambiance diner's"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGM1VUSm1XVUpNT1VRdFZ6bFJNMlJsWkZBNUxVRRAB",
+            "text": "Food was alright and the service was a little slow. Overall a decent place to have breakfast."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paSVNsTkRRMFJuWm1aNU4wRTNWVlo0YTAxRGRFRRAB",
+            "text": "I didn’t really enjoy this place. The potatoes were not tasty, the server we had was rude/rushed. The eggs came undercooked. The whites were raw. They cooked it again but it wasn’t tasty. I ordered the steak & eggs. I ordered the steak medium rare. It came well done. I didn’t bother returning it again."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ob1dWWXRNRTlMVlVWaVJIVTVRbGRTVHpKQlJFRRAB",
+            "text": "This is a New York \"diner\" experience.Not to be missed."
+        },
+        {
+            "date": "4주 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxTlkxVjZjV1JtZFhkWU0xOXFXVXBTYTFWMGVYYxAB",
+            "text": "Bon petit déjeuner typique us"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201NGRrZFlhbDl0ZURWVlNrcFhjRFpXVkU1aVVGRRAB",
+            "text": "A typical NYC diner. Just what you need any time of the day."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oQlRtWnBlRGwxYzJwUE9UaGlSR1kwTWxsMFkwRRAB",
+            "text": "The service was great – our waiter was very attentive and made sure we had everything we needed. The food was fine, just what you’d expect from a classic diner, nothing particularly special but satisfying. One suggestion: the restroom could use some attention – a hook on the door and better cleanliness would really improve the overall experience."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GVE5WOWplRWRGTm14dVdUbFljM2RZTlVjNVVVRRAB",
+            "text": "We might just have been waited in by NYCs best waitress. Daniella is a credit to the company. The food was fantastic,"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkb2RsVnhVUzAwWlVJd1MwTllMV1JUUTNGdFpIYxAB",
+            "text": "The food is amazing, ecspessially the pancakes. The staff is also very nice."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KZmVrbzNaMkpyTUdGVVgzcG9hWGRDUlVrM05HYxAB",
+            "text": "Andrews NYC Diner, nestled in the heart of Midtown Manhattan, offers a quintessential New York diner experience. With its extensive menu and warm ambiance, it’s a go-to spot for both locals and tourists seeking comfort food.\n\nFood:\nThe menu boasts a wide variety of options, from classic American breakfasts to hearty sandwiches and lunch specials. Patrons frequently praise the generous portion sizes and flavorful dishes. Favorites include the French toast, omelets, and burgers. While some dishes might lean towards the traditional side, the overall quality and consistency make it a reliable choice for a satisfying meal.  ￼\n\nService:\nService at Andrews NYC Diner is consistently highlighted as attentive and friendly. Staff members are known for their efficiency and welcoming demeanor, ensuring that guests feel valued and well-cared-for during their visit.  ￼\n\nAtmosphere:\nThe diner exudes a classic charm, with its retro decor and bustling energy. It’s a popular spot, so expect a lively atmosphere, especially during peak hours. Despite the crowds, the staff manages the flow efficiently, and the vibrant setting adds to the authentic diner experience.  ￼\n\nOverall:\nFor those in search of a hearty meal served with a side of nostalgia, Andrews NYC Diner delivers. Its combination of flavorful dishes, attentive service, and classic diner ambiance make it a standout choice in Midtown Manhattan."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoeWQwTjRPVlJCZVZwUlozWkVTV2hvTURKVFYxRRAB",
+            "text": "Andrews NYC Diner provides comfort that makes you want to stay. Workers display exceptional pleasantness and helpfulness, with rapid dish delivery. You can taste the care in fresh preparation. The setting continues to enhance my meals. This quality of service gets my full recommendation."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JdFdrRlFObGhRUmxReE4zWlJTMlJXTmw5dk1XYxAB",
+            "text": "Great food, decent sized dining area, and friendly and quick service."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sd2QzUjBaMHhzVjNSUVVHTlhlSFpqYkVORWJVRRAB",
+            "text": "Andrew's NYC Diner 35th 7th Ave. Average typical diner, prices are high for 90% of product, pancakes were adequate, dry. Eggs and potatoes were also adequate. Very bland. Very disappointed. Today was a miss probably depends on who cooking in the kitchen. It\nSHOULDN'T MATTER, FOOD SHOULD BE DELICIOUS NO MATTER WHAT COOK IS IN KITCHEN. YOU MUST PUT CARE WHEN SERVING THE PUBLIC."
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZZ3BPQU5nEAE",
+            "text": "전형적 미국식 펫한 아침, 전 걍 그랬어요\n오믈렛은 내가 한게 더 맛있을듯...그래도 저렴했어요!\n\nDesayuno tipico americano, buena experiencia.\nPero como desayuno para el día y día no es demasiado sano.."
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQwLWFmMUVnEAE",
+            "text": "뉴욕 35번가 근처 미국식 아침 먹기 좋은 곳입니다.\n특히, 음식이 짜지않아 입맛에 맞고 서비스도 좋습니다. 한국인보다 외국인 비율이 90%이상입니다."
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURzNGJuVTJ3RRAB",
+            "text": "미국 아침식사를 할 수 있는 곳. 서버들이 매우 친절한데 맛은 그저 그렇다. 팬케이크 너무 찰기 있고 질겨서 잘 안썰린다."
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3dElPX0N3EAE",
+            "text": "오믈렛 많이 안짜고 좋아요:) 맛있어요! 필리 치즈 오믈렛 추천!"
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzLU52a3d3RRAB",
+            "text": "아침을 간편하게 해결하기 아주 좋은 곳이다. 다른 식사 메뉴들도 꽤 괜찮아보였지만, 아침 식사에 관해서만 얘기해보자면, 합리적인 가격으로 간편한 미국식 아침 식사를 할 수 있는 곳이다. 아침 콤보를 시키면 소세지, 햄, 베이컨 중 택 1 + 프렌치토스트, 팬케이크 중 택 1, 스크램블에그 이렇게 나온다. 그냥 맛있다. 아침 먹기가 애매한 숙소라면 강추한다. 직원들도 매우 친절했다."
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwcnUzQm9RRRAB",
+            "text": "미국영화나 드라마보면 나오는 엄청 친근한 식당있죠. 뉴욕에도 있어요 ㅋ 뉴욕치고 저렴하고 양많아요. 사진은 안찍었어요. 매우 지친상태에서 들어갔는데 1인 1메뉴는 많아서 남겨요..타코가 양이 진짜많아요.. 라자냐먹었는데 반밖에못먹었어요. 집에서 해먹은 느낌 ? 많아서 남긴거에요. 친근한맛 ㅎ"
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNc0wtTkRnEAE",
+            "text": "전형적인 미국식 아침 식당입니다. 오믈렛, 팬케이크, 소세지를 파는 곳이요. 맛은 특별한것 없지만 서버분이 친절해요ㅎㅎ 아침시간에 가면 줄 엄청 서있지만 생각보다는 금방금방 줄어들어요."
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURrNjducnZnRRAB",
+            "text": "아침 먹으러 가서 치즈오믈렛 시켜 맛있게 먹었어요. 특별한 맛은 아니지만 괜찮은듯. 그리고 서버분이 연세가 좀 있으셨는데 너무 친절하셔서 기억에 남네요. 문제는 화장실. 기다리고 있으니 지하로 가라고 안내 받았는데 그냥 안갈껄 그랬다는 ㅠㅠ"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURveDZlYkpnEAE",
+            "text": "친절하고 서비스가좋다! 가벼운음식도 즐길수있다"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5bmFURkZBEAE",
+            "text": "조식 간단히 먹기 좋아요.\n분위기는 시끌, 대기줄 있음"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNVeFBfeGh3RRAB",
+            "text": "고전적인 미국식 아침. 팬케이크는 살짝 느끼했으나 전반적으로 좋았음 :)"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwblByVDNBRRAB",
+            "text": "커피가 맛있어요!"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNvMnRmOWx3RRAB",
+            "text": "아침식사가능! ^^ 맛남!!"
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzaGJfT0hnEAE",
+            "text": "좋아요"
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBcV9xSUxnEAE",
+            "text": "조식 굿굿"
+        },
+        {
+            "date": "3달 전",
+            "language": "it",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GM1pXWkJlbkozTWpoc1IwTXlOek5oZUZCcGFVRRAB",
+            "text": "Classico diner newyorkese dall’atmosfera autentica.\nIl rapporto qualità-prezzo è onesto, perfetto per una colazione o un pranzo veloce senza spendere troppo.\nIl servizio è cortese e attento, con il sorriso che fa sempre piacere.\nIl cibo? Senza lode né infamia: semplice, un po’ anonimo, ma fa il suo dovere.\n🌟 Punto extra per il refill gratuito del caffè – dettaglio tipicamente americano che conquista sempre!\n\nUn posto da tenere a mente se cerchi comodità, gentilezza e un conto onesto nel cuore di Manhattan."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwaVlUQkJNVXRqTVZkUmVEY3llVkpHYm1kWFQwRRAB",
+            "text": "What a classic American diner ! Prices were good and food was exceptional! Ordered the strawberry pancakes and request Nutella and my server was able to do it right away, my mother bought the ham and cheese omelette and very much enjoyed the potatoes on the side. Very fast paced environment but not lacking in customer service whatsoever, lovely warm environment !! Thank you :)"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkUmFWTjZSWGhGWVZkTE1YcG9lSGs0VmtVNVprRRAB",
+            "text": "I wanted comfort food. So when I saw they had roast beef and mashed potatoes I was excited and wanted to give a try. It is thinly sliced roast beef, reminiscent of cold cuts, they fried. For some reason, probably to make it look like more food than it is, but white pieces of bread is at the bottom of the bowl. As I’m cutting and eating there’s a strange texture and it white bread so I have even less of the cold cuts type fried meat. Bland broccoli and lumpy but somewhat flavorful mashed potatoes.\nI ordered a ginger ale, they were hot, I asked for a cup of ice to go. They were going to charge me for the cup of ice. I protested and he found another can of another ginger ale brand that I don’t usually drink but it was cold.\nThe host was dismissive but the server resolved my soda issue.\nAnnoyed and disappointed. I should’ve ordered at my normal place."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oQlZrOWlibXBITmxGelpYQlFhRlJYUmxSbFJsRRAB",
+            "text": "We went on our last morning to this spot for a very nice breakfast. Our Server was Agnes and she did a tremdously good job. The Hot chocolate was very good and the pancakes were on point, my daughter totally enjoyed.\nThe Hot chocolate was very tasteful.\nOverall I can recommend this place for their nice options and attentive service. Conveniently located as well.\nI'd precisely rate it 4.7/5."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GU05uaFJPSEYxZFVaMVVWWnplbUpQZGpKRldrRRAB",
+            "text": "Ok, hear me out. This place was our lifesaver during our time in NY.\n\nWe were in a nearby Hotel (Kixby) and when we wanted something good and affordable, we came here. In the week we were in NY, we came here several times.\n\nThe food is amazing, portions are fresh and huge and of course delicious. Staff was amazing and kind!\n\nAnd anytime we were there the tables were filled well but we always got seats without having to wait.\n\nWhen I return to NY, I will definitely come back here. And I can only talk good and recommend this place to anyone who is there!"
+        },
+        {
+            "date": "3달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toTlpIcDBWV0oyV21sSGNqaDFja1ZvZVVsdmFVRRAB",
+            "text": "siamo andati a colazione alle 6:07 quasi nessuno seduto, c’era la musica e l’aria condizionata, temperatura perfetta.\nabbiamo mangiato in 4 serviti in pochissimo tempo e con attenzione, passano spesso per controllare e per i refill del caffè.\nda italiani con standard di colazioni molto più minime ne abbiamo prese due uguali e poi divise, che è la giusta quantità.\nnon abbiamo speso tanto, una 20$ a persona circa, ma ne valgono più che la pena, FAVOLOSO!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xodFh6ZGtZMDlXYTFwRGR6QllNRm8xTjFZek1HYxAB",
+            "text": "Andrews NYC Diner was about an 8 min walk from our hotel, which worked because we wanted somewhere close. We were seated right away and the server was quite funny. A middle aged lady with an accent! The food came quickly and was delicious. I don’t recall the price but I know it was cheaper than Carnegie, which we visited a day or so prior. Definitely recommended."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5d2QyTnJURUZJWTBOVFNDMUdOemRQUjFoYUxYYxAB",
+            "text": "Great diner. Had breakfast here twice during our stay, Charmaine served us both mornings, and was so nice! Food was amazing, will definitely be my first stop the next time we're in Manhattan"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvNVpQeFp3EAE",
+            "text": "I am not a breakfast person, but i ordered a garden omlette. It came with potatoes, and there was nothing left on my plate  when I was finished! The food was amazing, it was packed in the diner but the line moved very fast. Staff was nice. We are visiting from Maryland Overall, 10/10! Thank you!!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twcVpuUjVVMUI1V1VZMFREQTJRM0pWV2pSaUxXYxAB",
+            "text": "Really enjoyed this diner. The atmosphere was bopping lovely and busy full of locals and tourists, staff were friendly I enjoyed watching them have banter with the regular customers. Breakfast was 100% pancakes lovely and fluffy, and the refill coffee was good."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSd1pYUlZjVjk1YW5FNU1YQm1OSE5yWnpoeloxRRAB",
+            "text": "We we’re seated fast and the servers were friendly. The prices were good for the city center and the portions we received. The pancakes were fine."
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZMk5XRnNPRE5TUkV4eWEyVm5RalJyU3pCb1FWRRAB",
+            "text": "Un típico merendero americano, como se ven en las películas o las series, si tienes oportunidad debes ir! una carta con gran variedad, hay combos muy bien servidos y muy buenos. La comida en general tiene muy buen sabor, el personal es muy amable."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKRGx2dnJ0bjRPbmtRRRAB",
+            "text": "here's a restaurant where you're always welcomed, always well seated and where the portions are generous. Friendliness and kindness are the order of the day.\nWhat a pleasure to savor the dishes at Andrews, we went there because it was highly rated, and I must admit I've been there several times and never been disappointed so far, and I'm counting on them not to."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GelN5MUliRUZVZUVablNWSlhiMGw2WWpSRk9GRRAB",
+            "text": "Your basic Denny's from the West Coast but w/ NY attitude. We ordered Meat lovers Omelette & Pancake Combo. Food came out quick, but really never saw the server again. Best thing was their Potatoes."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvd2NpQmRBEAE",
+            "text": "Stepping into Andrew NYC Diner feels like time-traveling straight into the heart of classic New York—but with a cozy, neighborhood twist that makes you feel instantly at home. Nestled on a bustling corner, the neon sign glows like a beacon for locals, night owls, and food lovers alike. The moment you walk in, you’re hit with the comforting aroma of sizzling bacon, fresh coffee, and something sweet baking in the back. It’s a sensory welcome that says, you’re in the right place.\n\nThe booths are plush, and the menu—oh, the menu—is a love letter to diner culture. I ordered the Andrew’s Special Burger, piled high with crispy onion rings and a smoky house sauce that I swear could fix a bad day. And let’s talk about the pancakes: fluffy, golden, with edges just crisp enough to hold the butter like a secret. One bite and I was a kid again, grinning with syrup on my face. What truly sets Andrew NYC Diner apart isn’t just the food—it’s the vibe. I didn’t just eat there—I felt part of something timeless. And as soon as I stepped out onto the sidewalk, I knew I’d be back. Probably sooner than later."
+        },
+        {
+            "date": "3달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210QlUxRmZXa1Z4VWxwaWVHSktiR1ZvZG5vMlRWRRAB",
+            "text": "Franchement, on a super bien mangé, j'ai pris le menu maxi et c'était conséquent, omelette, 2 saucisse, 5 bacon, 2 pain perdu, et 2 pancakes et avec tous ça, café a volonté.\nEt une super service au top 👍🏼"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkeVVsVTRRMEl6VTFCYU5sOTZObGxCUVdFd1MzYxAB",
+            "text": "My dad and I went here for breakfast, and it was ok! Good quick service even whilst busy. Food was nothing to write home about, but the broccoli and cheddar omelette was very good! 👍"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4VlluTm5VekpmTldsbWJISjBTR2RCVWpjdGNuYxAB",
+            "text": "Our recent experience at the establishment was highly positive. The event was flawlessly executed, and the culinary offerings were exceptional. It presents a favorable dining option near Times Square, providing value within a reasonable budget."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kUWRXdG9WVUY2UTJkMk5scDFhVU4xUlRGMmVHYxAB",
+            "text": "Incredible diner that they very nicely named after me, given my Google Review Expert Contributor influencer status. Forever grateful. Great hats and aprons. Very nice."
+        },
+        {
+            "date": "6달 전",
+            "language": "it",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJd19YeW53RRAB",
+            "text": "Cibo ottimo, pancakes buonissimi e ambiente tipico americano!\nLa cameriera maleducatissima dopo 30 minuti che eravamo lì , mentre le chiedevo un cucchiaino per girarmi la medicina nel bicchiere e mentre il mio ragazzo è andato in bagno, mi ha caldamente espresso di muovermi che dovevamo andarcene perché c'era coda..\nPremetto che di coda c'è ne fosse ma avevamo appena terminato i pancakes e come detto appunto il mio fidanzato si era recato in bagno... Seconda cosa il cucchiaino non me l hanno portato!\nVeramente maleducata e con brutti modi..."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnbmFtM3BBRRAB",
+            "text": "Classic diner feel in the middle of the bustling city. We were seated right away and our waitress was so nice. We ordered the omelettes with potatoes and toast. Everything was delicious but my potatoes in particular were kind of burnt. The omelette was great though and I really enjoyed the toast. Very reasonable prices. Great spot."
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214TVRXUmZUbGhqY2s1bVh6SXhRMW8xUmxCc2RYYxAB",
+            "text": "No se como calificar este lugar, pero hablaré de la experiencia! Desde que llegué nadie se acercó para preguntar nada, solo era yo pero se preocupaban por atender grupos grandes!! Pensé pedir para to go, pero al final de unos 10min (que estuve esperando alguna atención) me ofrecieron una mesa!! La server no era muy carismática pero supongo que por lo busy fue así el servicio! De todo lo que quería comer, terminé con otra cosa que fuese más rápido para ellos porque si así como me atendieron, sería la comida …. En fin… un lugar que yo no volvería…"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsdWFYQmxTVkZIUms5cVFsbERXbGhNTTJkeVgyYxAB",
+            "text": "Another nice diner in NYC and this one is not too far from Times Square - they are quick and the food is delicious - my favorite was the skillet, nice and clean establishment - one of my friends order the pancake platter and if you mind, it’s not a problem but I don’t agree with the eggs being served on top of your pancakes — not sure if they are attempting to preserve dishes but I recommend they do not plate the food in this way —every single person that was seating nearby requested for an additional plate and removed the eggs off top of their pancakes."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3bVlyNy1BRRAB",
+            "text": "A delicious, classic American breakfast with a great price-quality ratio—exactly what I wanted to try on my New York trip! I had the Breakfast Sampler, and it did not disappoint.\n\nThe only downside was that our server looked extremely tired and seemed eager to get us out as quickly as possible. I get that it was early, and maybe they had a long night before, but it was a bit of a shame considering how great everything else was.\n\nThat said, the food and overall experience were definitely worth it. A solid recommendation for other tourists looking for a proper American breakfast!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsVFkwZ3pZVnBvWDJKdU9TMHpTMTlLWWtwVVdGRRAB",
+            "text": "The place is cozy, the menu is amazing for breakfast, the staff are friendly, the food was really tasty and the prices were reasonable. No waiting was needed to be seated"
+        },
+        {
+            "date": "2달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25JeFdWTktWMW8wWTNOTldtNDJZMGxKZWtocmQwRRAB",
+            "text": "Unser erstes Frühstück in New York und es war lecker 😋 🤤. Die Bedienung war sehr nett und zuvorkommend. Kaffe wurde immer Nachgefüllt und er Schmeckte auch gut .Alles in allem können wir es nur weiterempfehlen. #Frühstück #NewYork #Essen #Erfahrung"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCVE5YaDNVV0pVUWw5VU4wRjRjazVUZDBwRmExRRAB",
+            "text": "The chicken fingers had a sour taste and didn’t taste well at all, we informed the waiter and also told the manager when paying, we didn’t eat. The fries were like they have been sitting all day. Manager did not care what we said, I did tell two customers on the way out not to eat the chicken fingers because something tasted horrible with them. I still tipped the waiter his share but I will never eat at this place again."
+        }
+    ],
+    "reviews_count": 92
+}

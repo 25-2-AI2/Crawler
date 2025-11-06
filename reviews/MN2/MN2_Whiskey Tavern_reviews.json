@@ -1,0 +1,551 @@
+{
+    "name": "Whiskey Tavern",
+    "place_id": "ChIJPezLOSdawokROjWJSsqLdZg",
+    "grid": "MN2",
+    "address": "79 Baxter St A, New York, NY 10013, USA",
+    "rating": 4.6,
+    "user_ratings_total": 2133,
+    "phone_number": "(212) 374-9119",
+    "reviews": [
+        {
+            "date": "30분 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GT2FYcFFSR3RCTkVOQmFtNU9ia1EzTnpSQmFIYxAB",
+            "text": "rude staff. weak drinks. over priced. not worth the visit."
+        },
+        {
+            "date": "35분 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGa1dtMTJTWGhNYzBoM1h6Qm1VMHhJV21sUmIwRRAB",
+            "text": "The manager lady was exceptionally rude."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xaGJGVXROMmhLT1VoSlJtTnpORTg0V0Rob2RIYxAB",
+            "text": "Do you want more 5-star Google reviews? Best of all, they’re free! We can provide as many as you need to help your business reach the top of Google Maps. Contact us on Telegram: @gthisjpeg"
+        },
+        {
+            "date": "3일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCU09IVjBiUzF2VGs5eE5rd3lObDkxVmpWNFYxRRAB",
+            "text": "Si visitas NYC no puedes dejar de pasar por este peculiar Bar… es maravilloso, un trato excelente y buena cerveza."
+        },
+        {
+            "date": "4일 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kWFdtcFNVamwxUm5BNVp6ZHhjM013V2pocGEzYxAB",
+            "text": "Wir waren nur kurz dort um etwas zu trinken. Das Personal war sehr freundlich und ausmerksam.\n\nWürde sagen ein besuch wenn man in der Nähe ist lohnt sich."
+        },
+        {
+            "date": "6일 전",
+            "language": "nl",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCNWJVWjBXbkEyV25wVWFUUTBUMEl6WVVJMmRYYxAB",
+            "text": "Toffe tent, geweldig barpersoneel 👌🏻\nDikke aanrader!"
+        },
+        {
+            "date": "6일 전",
+            "language": "nl",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aaU1TMXlUbU5YUkV4Q1ExVnVRV1pvYTFWWE1rRRAB",
+            "text": "Zeer gezellig! Ik zou hier zeker weer heen gaan als ik weer in NY kom!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xacE1FRjJkRmh4VjJ4NGRWRjVSbko2UVZsYVpuYxAB",
+            "text": "The customized banners with your names truly make this place unique and the quality of service makes your stay here memorable. In addition to our banner, our server, Maya, had a party popper for us on a special occasion. And they even have a working photo booth. This place is a true NYC treasure."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poeVZWbHBRblpSTVhCNGMwaEJRblJKU210dlQzYxAB",
+            "text": "Fun, cool place to meet up with friends! Nice touch when making reservations\nThey went above and beyond by creating a postcard-style printout of our event. The music is solid, ranging from classics to current pop hits.\nExcellent service! Brian is the man! Also love all the clips and memes of the owner around the bar."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKdlJqUklabXhsVVRSa1VFb3hVbU5zY2t0V1RXYxAB",
+            "text": "This bar is so friendly and great for groups! They went above and beyond to host our high school reunion party. Will be back"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjNVJYVkJPVFozYVV0RmMzQTRTVEl5TkhSVGJrRRAB",
+            "text": "Fun laidback atmosphere in Chinatown. So friendly you will want to return"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwR09WOTBlVnB0YkRCU2NrRjZZMGhaTlROamNtYxAB",
+            "text": "The staff at this establishment is phenomenal! They go out of their way to make every single patron feel so special! I HIGHLY recommend this bar for anyone passing through Chinatown NYC looking for a warm and intimate place for a brew. We stumbled across this place out of pure chance, and I couldn’t have asked for a better place to have a drink. The cute little signs they print out with your name and reason for coming in are such a nice touch that add a welcoming and warm vibe. Our reason for coming in was a stop on my 30th birthday tour of NYC and they gave our whole party complementary shots paired with a (pretty suggestive but hilarious) candle for me to blow out (pause) and our bartender/server made a huge announcement to the crowd wishing me a happy birthday. The attentiveness and warmth the staff provided made for such a special moment. Thanks for making our night, Whiskey Tavern! I wish I could give more than 5 stars!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ZNFlYSlVVRk5HUVU5bU1teHpUVFZFVWtOUmVHYxAB",
+            "text": "Decent spot with strong drinks. Good communal vibes and birthday celebrations."
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURVelBfaEhnEAE",
+            "text": "It's a standard fun drinking establishment except that they serve awesome food. My favorite is the bowl of bacon. Genius!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxNmNqTklabXB1YzJrNFIzVlhXa0ZaVWpoS01HYxAB",
+            "text": "Really fun place and they make you feel like you’re the most important customer in the place. Be sure to get a koozie!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wcVNXaDRkVlI2WlU1blVsUjBjVTkzYTJSQlgyYxAB",
+            "text": "Whiskey Tavern is a great spot with a fun, easy vibe. The bartenders are friendly, the drinks are solid, and the beer-and-shot deals can’t be beat. Little touches like the name banners make it feel extra welcoming. Always good music, good people, and a good time."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GcFgwWjJWVEJwTkZwMlRHTlFWMnhwYzI0Mk0yYxAB",
+            "text": "Great!!! Above and Beyond Great!!! Super Great Service and Fun Atmosphere! Food Tasty and Great Prices! Guinness is Flowing! We Love it Here."
+        },
+        {
+            "date": "3주 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sSE9IZEhUMkZoV2tSYVVIaFZiM2RVZUdwWlpXYxAB",
+            "text": "Très bonne endroit"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOa1pXSk5lWEJaWjFCdlZsVkNVek5SYTI1VU1uYxAB",
+            "text": "This is a great bar to watch New York football great atmosphere great food and they show appreciation to their customers! Bars like this are a gem and they are rare today. I will be back! Go Giants!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CTGJEZE1Xazl0YjFwR1NuTktka2xVZEVRMFVFRRAB",
+            "text": "I loved the energy of the place and the fact that the bartender, I forgot the guys name was so warm and friendly. Would definitely go back again."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFeVZXbzRRVjlhTldwMU5rSlFlV3R0U1RSaWEwRRAB",
+            "text": "This place was incredible, Alex was awesome and even made us a sign after a long week of work. Couldn’t recommend this place more for drinks and people!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oSE5tdExlRFZvTUVWakxVTlpWbVZKYlVKeGVrRRAB",
+            "text": "Classic Irish pub nestled in the heart of Chinatown. Great place to grab some drinks. Shots seemed a little watered down, but I'm sure they're just trying to make sure that you're hydrated"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsRmFYVXRhVU5GZEZsV1lsOXNOVWszUkV4RFIwRRAB",
+            "text": "Funnn little dive bar in Chinatown. Our drinks and food were great, and service was friendly and fun. Had some top40 and hip hop hits playing and Sunday football. Fun little vibe!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201VlRWRTROazVJVDNvelZtaGpWRWxHVEZCRGEwRRAB",
+            "text": "Show Alexandra is definitely on point. She is amazing. She’s sold out the box. She has gone above and beyond customer services on. I don’t even know like 1 million made me feel very welcome. This is my first time I will be recommending this place. I will be returning. The music is popping, but she is the Star tonight."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xc0xXOTVTMkZwWVhaUWJHcDBUekp4Ym1KMFpGRRAB",
+            "text": "rachel was such an incredible waitress !! she was so funny & welcoming & was so knowledgable about the menu. amazing drinks & fun music. they even have a photo booth !! come here just to see rachel !!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oQlJuVmpNMUk0ZEZSeVMzTjVZM1V4TWtaTlZXYxAB",
+            "text": "Incredible service! Amazing bartenders"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0T2RFMTBXbmxIT0hKNlUzbEdWV05KZVU1SmJuYxAB",
+            "text": "The perfect bar."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wRE9XbGtUVm8yVlMxSWMzVlpjWE0zWTNaNGRIYxAB",
+            "text": "Whiskey Tavern is a true dive bar in Manhattan, and it’s awesome. It always has the right vibe. The bartenders are some of the best, super friendly and attentive. They even print out little banners with your name if you’re sitting at the bar or get there early. Such a small touch, but it makes you feel welcome.\n\nDrink-wise, they’ve got everything you’d want from a proper dive: great beer-and-shot specials, picklebacks, obviously whiskey, and even koozies to keep your beer cold.\n\nIt’s good beer, good music, good people, basically everything you could want in a dive bar. Places like this are rare in the city now, and Whiskey Tavern is one of the few still doing it right."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGRWFVOHhZV2c0VFdkZlgzbzRVMnM1YnpFd2RFRRAB",
+            "text": "Great atmosphere and great crew!"
+        },
+        {
+            "date": "1달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOdFJ6ZzJaRjlDUkhGeFluZHlZVTE0T0VORVJFRRAB",
+            "text": "Sehr nette Kellner coole Location mit gutem Preis Leistung Verhältnis schön zum Fußball schauen"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOTVZEVllTR2hoVm1WcE1FSmlOM1ZmTkdsM2RWRRAB",
+            "text": "Great place!! We came from Dallas and was walking looking for a bar, this place was just what we were looking for!! Such friendly people!! Bartender was great!! Such friendly service!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWbFdrOW1RMHN6V2tWb05FVktOemd3VmtwWmJYYxAB",
+            "text": "Great food and service. Make you feel the most welcomed"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5dExWSk5kSEIxYmpOZmVGZDJjMEUwU1hOUGVFRRAB",
+            "text": "This place is so amazing! Would totally return!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213NVZtczBaSEZ6YVVSbVVGZEdNMlJRVUUxRWIyYxAB",
+            "text": "It was our first time in this area and it was so welcoming and friendly to be here! Our drink came very fast and the service was incredibly nice."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5WGFtRkVSalp6Ym5VMWJXaHdWVzloVW1FMmFGRRAB",
+            "text": "This place is rad. Food was great. The service and staff are amazing. If you’re looking for a cold beer and great bar food come on!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taNlJGUjBablkyV2tGQ1prNUxjUzFGYjJGdFRuYxAB",
+            "text": "Legit the best dive bar. I’ve been coming here for the past 6 years, and never once have I had a bad time. Best servers and best value drinks"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xcmFGVlRjRmxZV2xaV1ZHWnRWaTFsVjI5dWFWRRAB",
+            "text": "Great atmosphere! We went straight after getting our Domestic Partnership at the nearby Manhattan Courthouse and the way they celebrated my now wife and I was really special."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoVGVURlRkVm81WTFCelpHOUJURUoxUjNsWWJuYxAB",
+            "text": "Whiskey Tavern rules. Great bartenders. Fun dance floor. Frozen margaritas rock"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sM1ZscE1SRzFIYWxSbFEzZHViRGRQTlRSS01uYxAB",
+            "text": "This place had all the vibes! Best night!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOWGVrUnFOM1JWV0ZVNVVVbFdOemxyU2twaVlWRRAB",
+            "text": "I have never wanted to review a bar so much, my husband and I went to this bar after having a bad day and we were welcome by Colin who was an excellent bartender. We went on a Sunday and they had eight dollar pickle backs and $12 wings. Both were very good. I felt like they are prices were pretty reasonable for the city, but more than anything. It was extremely welcoming. The vibe was so fun and relaxed. Unfortunately, it’s pretty far from where I live, but I would definitely go back and recommend this place to anyone. I think it’s especially cute for couples as they create personal signage for You, and were actually having an engagement party on the day that we were there as well."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GaGNVb3pVa0puUldOcVZGaEpVa1Z0VjJkRGFGRRAB",
+            "text": "Colin put a lot of effort into being personable and friendly drinks were cheap and the atmosphere was fun."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCSldUWmFUV0pKY1d0TGFHUlVNakZXUmsxb1dtYxAB",
+            "text": "Absolutely fantastic service"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kd09YcG1NalZOVlVVeU56WXhNRnBhZEVKWkxVRRAB",
+            "text": "Met my expectations. Very efficient and helpful team."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4R2NtdGZiVWxITFVKTGNGQnRPRVZaVkhGQ1VVRRAB",
+            "text": "We went with a group for an afternoon drink before a concert. It was 6/7 mind you. Not even crazy into the night. The guy at the door asked for our ID and we gave them and he started asking us for our passports. We thought it was a joke but he was dead serious and we, native New Yorkers, were very confused. We ended up leaving because ofcourse none of us carry our passports but it was a very odd experience so I would watch out w this establishment."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kU1Z6TnpWRGhoTlV0MVdWRkRla281VGxaS1EzYxAB",
+            "text": "No joke, best bar in town.   The staff if phenomenal.   It is all fun and good times.   They treat everyone like a long lost friend.   The prices are the best you will find in NYC.   If you are in the area drop in and have a good time!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214bk5UY3RhMmt6VEZOVGJsSTVNSFp3YzB0VlFrRRAB",
+            "text": "Food is great. Staff is amazing. In the grips of a very reasonably priced pitcher, and a dying phone, the owner himself provided the power to continue our contact to the outside world. 10/10. Would drink here again."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWbVdVUmpiRGx3VTBaYVRrZFdRbGRqY1d4SmMxRRAB",
+            "text": "Best bar in the city! Super friendly and fun bartenders"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taSVpFZzFNbVV5VDJaaGRUQkpMWGd3UzNsaU9XYxAB",
+            "text": "Stopped by whiskey tavern to kill some time before my flight. Had a great time, the staff was all extremely welcoming and made it feel like I was a neighborhood local🫰…"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213dFdrWktibFpaWmpVMFRHSjViVmxaVW1rMExWRRAB",
+            "text": "Perfect dive bar --but with a solid rosé -- and really fun place for a big group/party. Highlight was the bartender, Allen, who was an absolute delight from the beginning to end of the night."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GNWJsRmlaRVJrTjJSd2RUaFJiV2RzYlU1cVdrRRAB",
+            "text": "Staff is awesome! Reasonable prices, especially for the city."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJOXAzQVdnEAE",
+            "text": "Went for the cheap drinks and had a really good time. It felt very homey and comfortable. Everyone  seemed friendly and it gave a nice sense of community for a bar! Love the taco Tuesday deals and the photos of staff and customers all over the establishment."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRNHVXZEhBEAE",
+            "text": "From the moment we walked into Whiskey Tavern, we knew we were in for a great night. Alan greeted us, asked for our names, and made a point to refer to us by name throughout our entire stay. SUCH a thoughtful touch that made us feel truly welcomed. His attentiveness was next level; every time our drinks got low, he was right there offering a refill, and if we didn’t have a drink in hand, he made sure we had water. He was an absolute angel from start to finish. We come from San Diego, where the service is very lax, and he is truthfully the best bartender we have ever had.\n\nChristine was also a fantastic part of our experience, adding to the incredible atmosphere with her energy and hospitality. Let’s talk about the music; DJ Color in the Lines set the perfect vibe, playing the best tunes all night long. We ended up staying for hours, having the absolute best time.\n\nWhiskey Tavern is the kind of place that makes you want to come back again and again. Amazing service, great people, and an unbeatable vibe, 10/10 experience! We wish we lived here :(\n\nTill we meet again."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzanN6U2l3RRAB",
+            "text": "Found this place by chance after crossing the Brooklyn Bridge. Amazing atmosphere, good vibes, happy hour deals are perfect, food is INSANE. Not only is the NFL playing but also they have movies on. Staff are so friendly and welcoming! Defo one of my fav bars in NY - we went back several times during our vacation < 3 They deserve all the tips !!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmNmFxV1VBEAE",
+            "text": "TLDR: Whiskey Tavern is a fantastic find with exceptional service (especially from Rachel), perfect ambiance, and surprisingly great wings. A must-visit spot for both locals and business travelers looking for a genuine NYC bar experience.\n\nFound this gem during a business trip to NYC, and wow - what a perfect spot to unwind after a day of meetings! The moment you walk in, you're greeted by this wonderfully balanced atmosphere: warm lighting, comfortable seating arrangements, and an impressive setup with sports on TV that doesn't overwhelm conversation. The space is thoughtfully laid out with plenty of options - whether you want to perch at the bar, settle into a cozy corner, or gather around the back tables.\n\nThe Service\nRachel absolutely made our night! Her attention to detail and genuine hospitality elevated the entire experience from great to exceptional. As someone who travels frequently for conferences, it's refreshing to find staff who can read the room so well - knowing exactly when to check in and when to let conversations flow.\n\nFood & Drinks\nThe wings deserve their own paragraph - they're not just bar food, they're properly executed bar food. The drink selection is impressive, and each cocktail was crafted with precision (something my analytical mind particularly appreciated). The price point hits that sweet spot where you feel like you're getting more than what you paid for.\n\nAtmosphere\nThe available board games and cards add such a wonderful touch, making it perfect for breaking the ice with colleagues or meeting locals. The music sets just the right tone - present enough to create atmosphere but not so loud that you can't have a proper conversation about your latest research or project.\nFor anyone seeking a reliable spot for good drinks, great food, and genuine hospitality, this place delivers on all fronts. Whether you're a visiting professional or local New Yorker, Whiskey Tavern offers that rare combination of quality and comfort that makes you want to return. Definitely earned a spot in my \"must-revisit\" list for future NYC trips."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3eDkyMkZBEAE",
+            "text": "We rented out the back room for our engagement party and had a BLAST! The service was amazing, the staff was beyond kind, and everything went off without a single problem. We ordered sliders, wings, mozzarella sticks, chips and dip, veg and dip, and tater tots, and everything got demolished by guests. By the time anyone’s glass was empty, our server was there to ask if they needed a refill. Plus, they even made decor of our faces to decorate the space. Can’t speak highly enough about our experience!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRNG9IaER3EAE",
+            "text": "Allen, Christine, and DJ Color-in-the-Lines (aka DJ Crayola) made our night truly unforgettable. Their energy and hospitality turned a great experience into an incredible one. The bar, drinks, and food were fantastic, but the amazing staff made it all the more special. Allen even surprised us with a personalized welcome sign at the bar—a thoughtful touch that meant so much. Cheers to everyone at Whiskey Tavern! This was one of the best nights I’ve had in NYC. Thank you!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYLUo3VVhBEAE",
+            "text": "I happend to find this place and I can’t explain how happy I am that I did! Everything about it was just such a vibe! The music! The bartender Allen! The food! The inside atmosphere! The spicey pickle back shot! They really have a good thing going on and I will def be back! Allen is top tier such a happy soul he likes his job and you can tell! I got the appetizer sampler and everything was fresh breaded and fried no frozen box stuff I was impressed crispy crunchy delicious!  Cheese pull!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuN2RteS1BRRAB",
+            "text": "We came across this bar while our friends went to get their marriage license and stopped off for a drink afterwards. The staff there were really friendly and welcoming, so we decided to stop there again for one drink after the wedding the next day. On our arrival they made such as fuss of our group we ended up spending hours there, they made the day even more special. The bar staff are amazing people, especially Colin and Alex, the atmosphere and people there were also amazing. We had the best time and would definitely recommend visiting."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GdlNtUkJSMWRMUVZKalNYcHNiV1pEUkRWdlIzYxAB",
+            "text": "We recently visited, from Philadelphia ,while on a trip. We were in the neighborhood visiting the Banksy Museum. Right off the bat I felt like this was my kind of place because of all the Pride decor. Our waitress, Alex, was so personable and sweet! The atmosphere here is so incredibly welcoming. Our food was delicious. My son, husband and myself felt like regulars in a bar we had never been. I highly recommend this place and will visit again in the future."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNWajVDc09nEAE",
+            "text": "Really great atmosphere, especially at Christmas! Food is good and cheap. If you're having a birthday party here, they're gonna make sure you have a great time!\n\nBe careful tho, our drinks were SUPER strong."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQyNXQ3UXRnRRAB",
+            "text": "Had fun time. Decent nachos. Server Brian was very good.. reminds me of my bar back in Michigan before  I remodeled it 6 years ago. Good to find a neighborhood tavern style bar in the heart of NYC. In town for 6 weeks for trial of the…"
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VMTFlwTENENkliUVFnEAE",
+            "text": "I hosted a special event here, and I was truly impressed by the manager's kindness. They reserved a section of their outdoor space just for us and even treated our group to a complimentary round of picklebacks to mark the occasion. If you're planning an event, I highly recommend this place. They offer pitchers of beer, which is perfect for groups, and an incredible selection of liquor to choose from."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJbjlhbVBBEAE",
+            "text": "Is this the best bar in Manhattan? Maybe. The girls on the taps are awesome, music is good, and they make you a personalized sign…So yes, maybe? Drink here now."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLbmYySnV1eHR2bUNnEAE",
+            "text": "I was visiting from out of town. I had a blast here. The bartender was awesome. He made a customer drink for wife that’s not a big drinker. They have great drink specials. The Photobooth was a nice touch also! If I’m in the area again, I’ll make a trip here!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5OS1MU21nRRAB",
+            "text": "I almost never leave bars a 5 out of 5 stars review but let me tell you how amazing this bar was !!!!!! Our server Brian made sure we were always okay with drinks and food even while it was so crowded! It was honestly so impressive and this is coming from a bartender. My boyfriend brought me here while it was the Oscars night and the vibes were immaculate! They had amazing specials for it and they have even more amazing specials throughout the week. If you’re looking for a good time with good people you should come here! I will definitely be back and i will bring as many friends as possible! T"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMLS1vNWktN0lYbHpBRRAB",
+            "text": "The atmosphere here is fantastic, and the food is both delicious and affordable. If you're celebrating a birthday, they'll ensure you have an amazing time! Just a heads-up, though—our drinks were incredibly strong."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvMDRMSVRBEAE",
+            "text": "Must try pub in NYC. Ended up there on a rainy Saturday with a group of friends and had an amazing time. The gentleman behind the bar was amazingly welcoming and made sure we were well taken care of. We loved the fact we got our names on a printed sign, nice touch!! Place has tons of seating, huge drink selection and the perfect atmosphere for some good times. Overall highly recommend stopping in and grabbing a quick one at the bar, or make it a couple. Keep up the good work Whiskey Tavern!!"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKb0piTjB3RRAB",
+            "text": "What a great pub! Superb atmosphere, great bar staff and a local feel. Great music. Would recommend as a must pub to visit.\n\n________________\n🌏Weight Loss Motivation Blogger.\n🔥Impressive Weight Loss. She Used This 1 Easy Trick!\n⭐Dr. Stunned At Patient’s Dramatic Weight Loss With This\n\nInstagram👉 @slims_pro"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFdFMwTm1kMjFVZG5sVmVISmtlSGN5VlV4ck4yYxAB",
+            "text": "Fantastic place for cheap strong drinks and good whisky! Can't recommend it enough, the staff are very friendly and eager to help and the drinks are fantastic. Amazing happy hour deals as well! Also try the pickle backs!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJamZTazBnRRAB",
+            "text": "Great place! Definitely visit if you want to feel special and welcomed!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUa0lyZUtREAE",
+            "text": "If a bar is one of the highlights of a New York City vacation, that says a lot about the bar. The Whiskey Tavern is one of the coolest and most authentic bars I've ever visited. Friendly people, good food, delicious beer and all at good, fair prices! An absolute recommendation for every NYC trip! PS. Thanks Colin 🤙🤙"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUd05EQV9RRRAB",
+            "text": "I had a special event here, and the kindness of the manager blew me away. They reserved part of their outside space for me, and even gave our group a free round of picklebacks to celebrate. I highly recommend having any event here. They have pitchers of beer, which is great for groups, and of course an amazing selection of liquor to choose from."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxM1pqSUtBEAE",
+            "text": "Appetizer combo was good, though instead of fried pickles, onion rings would’ve been a trifecta. Drinks reasonable price. Wait staff nice people. Sat outside in the street seating, watched the baseball game from TV setup inside at the window."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSM1psTnRVM2xRWW5kWFNVSk1hVGRTV2tSQ1luYxAB",
+            "text": "I didn't eat, but what I saw looked great, Such a fun place! They hit every demographic market at this bar,  great fun, Amazing Bartenders, Shout out to Colin and the ladies. Pure fun and great prices!"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMcm44cFRUOGVfU3RnRRAB",
+            "text": "This place has a fantastic vibe.The food is both delicious and affordable. If you're celebrating a birthday here, the staff goes out of their way to ensure it's a fun and memorable experience."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWSE0wWnNlWGRTY1hvNWVFMXRiR05zVldsRU5sRRAB",
+            "text": "Colin made our son's birthday magical.  The kindness they gave to him and \"us\" his parents went above and beyond.   We will never forget the fun we had there."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPN1BEX3hRRRAB",
+            "text": "What a gem in Chinatown. My friends got married and we stopped for some food and drinks and they made such a fanfare with bells and cheers when we got in!!! And a welcome drinks for the just married 😄 Great finger food, great selection of…"
+        }
+    ],
+    "reviews_count": 77
+}

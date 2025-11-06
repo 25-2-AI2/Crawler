@@ -1,0 +1,579 @@
+{
+    "name": "Pylos",
+    "place_id": "ChIJfZrQSJ1ZwokREBcOmNf9lew",
+    "grid": "MN3",
+    "address": "128 E 7th St, New York, NY 10009, USA",
+    "rating": 4.6,
+    "user_ratings_total": 818,
+    "phone_number": "(212) 473-0220",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCelN6VkdSRk53ZEVveWF6ZHlSbkpwVm5ORldsRRAB",
+            "text": "Greek Cuisine That Will Steal Your Heart ❤️\n​Stepping into this Greek establishment in NYC wasn't just a meal; it was an absolute revelation... hands down, one of the best Mediterranean dining experiences I've ever had in the city. Every element, from the first bite to the moment I left, was pure gold.\n​The baked feta wrapped in crisp black sesame and served with a side of sweet marmalade was stunningly complex and a perfect balance of salty, savory, and sweet that you’ll dream about later. The dolmades (or tolma) in their bright, rich lemon sauce are a must-try. They left me desperately in love with them 😁 and instantly planning my next visit. Even the simple things shine, like the old Greek salad, served in a truly huge portion, it’s refreshing, authentic, and amazing.\n​Beyond the fantastic plates, the experience is enhanced by the generous spirit of the house. The wine pours are legendary and truly, a \"glass\" is more than a glass in volume! Most importantly, the service is excellent. Host Tamara is fabulous, greeting guests with warmth, and the entire staff makes you feel like family.\n​If you’re looking for fantastic food, generous drinks, and impeccable hospitality, go go go.\nI will absolutely be back soon!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsMmFHUnRVMmhvYW5rMFpIcHVlWE5yUkhNeFluYxAB",
+            "text": "Been a very long time since I had been there (pre-Covid). I was a bit disappointed. The food wasn't nearly as good as back in the day. The meatballs used to be heavenly. Now they're mealy. The halumi was lukewarm. The quality of the spreads just aren't what they were. On the good side, the lamb shank is still excellent. Best octopus I've had in a while. The staff were very attentive. The wines are very reasonably priced. The tables are a bit packed, but it wasn't crowded when I was there (it might be less pleasant when full)."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsNlMzcFlSbUprZDFKU1JVWmlNbUpxTUhOMlZIYxAB",
+            "text": "Great service, great people, great food! Love the Greek salad and lavraki!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OWmRYSTBkR1JFTUhFemVFSk1hRUZQYWxneGIwRRAB",
+            "text": "We had a great time here. The food was delicious! When we were the restaurant was pretty empty so the staff were even more so attentive. The ambiance was exactly what I needed for a day after work to be wined and dined."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkb1JHeFZVVUYwV2tKdFVEZDRRemd6U0hCRldHYxAB",
+            "text": "I spent my special day here and had a blast. The place shows design intelligence. Workers display warmth without any hint of attitude. Everything arrived well-prepared with good flavor. This spot should be your urgent destination."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205ak1VcHVjM1UwTm1Wa2VtUllUbUZOUW5sc2NsRRAB",
+            "text": "We had the Grilled Branzino and Salmon with pistachios. Both were amazing and delicious! Staff were pleasant and accommodating. Will definitely be back again. 10/10 recommend!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paQlVteFVTMnhwWHpoRVkzaHJiRW80WkRkMVRVRRAB",
+            "text": "Elegant atmosphere with friendly staff. Lamb shank was excellent. Pistachio crusted wild bass was a little salty on outside and a little tasteless on the inside. Arugula salad was basic with isolated elements (more of a DIY salad). Restaurant was mostly empty but we were told to sit at the bar because we didn’t have a reservation."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkSmQwMWFTbXRTWlVwbmJVRXRhakl5ZERnM1lWRRAB",
+            "text": "Always a great experience at Pylos. Tamari was so sweet and friendly and made our visit to Pylos extra special. Will be coming back soon for sure."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25vemNFbEdTRzU2VkdGelNUSnhVMHBTVkc1eVNsRRAB",
+            "text": "Best real savory Greek food in town"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25RMVgyaHZXbmRxUlY4eWFVY3hNMDVEWTJGMWJsRRAB",
+            "text": "food is good. moussaka is so delicious 😄，but host ask us hurry to order(Last month)"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwUWNWUnhWbHBxYzBjeU4yMWZNbUk1TUROekxXYxAB",
+            "text": "Food was just Ok - they also forgot to bring us one appetizer. Pretty restaurant but otherwise meh"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsSGFVZGxWMnRvYWpST2NIVkJhakozTkU1RU1WRRAB",
+            "text": "Delicious food, friendly staff, great vibes!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SWE9VSkNUamxJV0ZsbVRsbEZaR1pTYkdWVk4zYxAB",
+            "text": "We decided to try Greek food for the first time for our dinner date and stumbled upon this restaurant - and it turned out to be the best decision we could have made.\n\nWhen you walk in, you’re greeted by the host with a warm smile and seated immediately. Our first impression was that the place looked phenomenal - the clay décor on the ceiling, the wine bottles, and the vibrant colors all contributed to an amazing ambiance. It felt both cozy and welcoming.\n\nThe service was exceptional. Our server gave us excellent recommendations for both food and wine, clearly speaking from expertise. As first-timers, we found their guidance incredibly helpful in deciding what to order, and they made sure our glasses were never empty throughout the entire evening.\n\nThe food itself - besides looking like a painting Apollodorus himself could have created - was absolutely delicious. We had the roasted red pepper stuffed with whipped feta, which was creamy and perfectly spiced. We also enjoyed the saganaki and the htapothi scharas (grilled octopus), which were my personal highlights of the night. Everything tasted fresh, was seasoned to perfection, and transported us straight to Greece with every bite.\n\nThank you so much for such an exceptional experience! We will definitely be back to try the other dishes on the menu."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBMFlYWlJZMjl4VUhSRldXUm5jamxUYUZZeGRtYxAB",
+            "text": "BEST GREECK CUISINE IN TOWN."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Jd1JWTjNaMVJNWlZWZlJrWXlhR0pKYkRRM2NFRRAB",
+            "text": "Great Greek! Simply marvelous from start to finish. Enjoyed a terrific restaurant week prix fix menu selection with friends."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aVGRFTktSVGgyV1hWNFdVaERhVXR0Y1VWTlVGRRAB",
+            "text": "Delicious greek food! Dorado grilled and octopus!"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNjaWNtZmJBEAE",
+            "text": "Fantastic Greek restaurant"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWc2RqbGZaV052UkhsYU9IUlViSGRwTW1KNE5HYxAB",
+            "text": "Love the neighborhood! Love the restaurant! Always happy to come back again and again, fresh fish and salad just like I love!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOV1kyeEpjRUZQUVhKUmQwZEVMV1ZpZWpJdE1XYxAB",
+            "text": "Great place great service amazing food keep up the good work ♥️🩷"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21vNFpUbHdUaTFIZDNCZlpGTkpTV3QxU21wRk1sRRAB",
+            "text": "Very good food, great environment, not loud at all, good service, a bit expensive though"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkVFZuRkhiVWhRT0VGVVNHZFVNbVpoZFhvMmFsRRAB",
+            "text": "Great service. Interesting selection of food. Loved the whole fish. Unique wines. Slightly corporate atmosphere."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVeFgwTjFjVlZwT0d4UFRtcHpaMG90VkY5VFpWRRAB",
+            "text": "Excellent food with good portions. Everything was wonderful from appetizers to the main course to dessert"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnM3JfdjF3RRAB",
+            "text": "The best Greek restaurant in the city! Great food, I recommend Greek salad, haloumi, fried zucchini and lamb. At least, that's what I tried - and I know how Greek cuisine should taste like. Great for the dates and small family gatherings. And get some Greek wine with it - the server recommended the red from Santorini - Sigalas. Couldn't be happier with the choice. We'll be back very soon!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VObUZsLUtfMUpIRWxnRRAB",
+            "text": "I love this restaurant and have for years.  Over the span of perhaps 8 to 10 years I've consistently always had a great meal and when I venture to the east village make Pylos my go to.  In particular their Moussaka is not heavy - a perfect balance of flavors.  Highly rec!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQRy0yNW5Oa2VUM2V3EAE",
+            "text": "Everything is delicious. Greek salad, branzino, and baby lamb chops, fried zucchini and eggplant, pots on the ceiling, warmth and charm -- it's all excellent. Best Greek around."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VQV2puTUh0dnBpazZ3RRAB",
+            "text": "Only wine and beer.  Food was decent but pricey."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvODc2YnB3RRAB",
+            "text": "Went here on my 1st date with my husband. 8 years later and the food is just as delicious!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvc0pTRG5RRRAB",
+            "text": "Food was great, but I was incredibly disappointed by the service. The wait staff was not attentive, and they were rushing us through our meal and removed our plates without confirming we were ready. I would not go again because it felt like an unwelcoming environment."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJbExQREFREAE",
+            "text": "The octopus and beef pastry appetizers was delicious. The spritz drinks were also very good and refreshing. But the lamb entree was lacking seasoning. The overall cost of everything was not worth it tbh"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJdU1hRWR3EAE",
+            "text": "This place is incredible. If you want an authentic Greek experience, this is your place!!!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJNFBpQ2ZBEAE",
+            "text": "Fantastic!\n\nThe food was terrific.  We split the Maroulosalata salad, which was huge and easily enough for 4 people.\n\nMy wife had the pork shank, wow!  Exploded with flavor.  My wife’s friend had the Pastitsio.  I had the sirloin steak.  All were so delicious.\n\nOur server appeared to be confused at various points during our visit.  I expected problems, but thankfully none occurred."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJaXR2TGhnRRAB",
+            "text": "Very cool hole in the wall type place that I will definitely come back to. The lamb shank was phenomenal!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3bnFxaS1BRRAB",
+            "text": "Inedible. Worst greek food I ever had  no flavor. Saganaki awful. Soup gross. Want my money back"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3MDZtOEd3EAE",
+            "text": "Me and my s/o came here for our anniversary and were delighted with our meal. Delicious Greek food and wonderful service from our waiter Tamari. Would go again and would recommend"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3ek9IdHJBRRAB",
+            "text": "Our favorite restaurant in NYC. The vibes is romantic. The food is divine."
+        },
+        {
+            "date": "7달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3NE5fMlFBEAE",
+            "text": "Me encantó, fui para mi cumpleaños y aunque estaba lloviendo nos gustó la comida y el servicio. Gracias!!!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRbU5YbGZ3EAE",
+            "text": "lovely"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnN0xfQmlBRRAB",
+            "text": "The lamb shank tasted like nothing.\nThe worst I have ever had.\nVery Very disappointed"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURneU9uMHN3RRAB",
+            "text": "Great menu, nice deco and very good service."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnbHBiSWp3RRAB",
+            "text": "Excellent food and service. Looking forward to returning"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfNUpQRHBnRRAB",
+            "text": "Well we made a reservation for 830but did not get seated until 9 due to poor host managment. Then tried to order the chicken but was told to order the special only for the chicken to be raw..then basically asked to leave after sending it back...never coming back"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfcDluRjlRRRAB",
+            "text": "We had an exceptional group dinner here last night. For large groups, you are served a prix fixe with cold and warm appetizers, entrees, and dessert. There was more than enough food to go around, and every dish was fantastic. The wine menu also features some exotic whites and reds, which may be difficult to find elsewhere. Very reasonable pricing too.\nOur server was very friendly and took care of everyone at the table. We had several people with food allergies, so that was very important. We will be back!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfa01YQ2Z3EAE",
+            "text": "It's a nice restaurant. The appetizers were delicious and tender. Squid was juicy, octopus too! The potatoes with lemon were very interesting!  Two different fish were also very tasty and the leg of lamb was very interesting.  I recommend it, it's delicious!"
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYanN5T1FnEAE",
+            "text": "Frequent customer of delivery.\nThe moussaka and avgolemono are the best.\nEverything else is pretty tasty.\nThe salads are too small and expensive."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2b3EtVHN3RRAB",
+            "text": "This restaurant has the most unique and Greek vibe I have found outside of Greece. It’s a long, cave-like place that feels cozy and homey thanks to the large kitchen island like bar. There is quiet electronic music playing in the…"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2N0xPR0tBEAE",
+            "text": "Exceptional !! delicious food, fantastic service and the welcome for my son's wedding was impeccable, next time I am in NYC, I will return without fail. Thanks to all the staff for making this night perfect"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQeHNuWmZBEAE",
+            "text": "The first thing I noticed at Pylos was that their beautiful clay pots ceiling was covered with protective net. I’m all for safety, but it did take away from its looks.\nThe food is great though not ground breaking. The fried zucchini and mezze trio were great, the Greek salad was a little too cold and felt like it was chilled in the fridge for too long.\nFor a Greek option in the east village I would definitely recommend Pylos."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQeXQzZFNnEAE",
+            "text": "Lovely wait  staff, the food was overpriced for what  it is. The lamb shank was fantastic! Loved every bit. The Greek salad and the pasta with shrimp and scallops were decidedly average."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQd2Nfbzd3RRAB",
+            "text": "All our dishes were delicious. We started with a grilled octopus that was just perfect with the capers, and then we ordered a branzino and one of the best pork I have ever had.\nIf the Napoleon is available on the dessert menu, please go for it!\nGreat servers and friendly staff."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQZ2FQZDdBRRAB",
+            "text": "All the dishes we had were delicious. The appetizer meat balls were so light and fluffy. The pistachio fish was cooked perfectly. The little lamb chops and eggplant were some of the best we've had. And the service was super friendly and knowledgeable about the wines. We'd totally come back!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzNHJxVkd3EAE",
+            "text": "What an amazing find! Search for a good place to have lamb chops got us here but we had no idea we were in for an absolute treat. The meatballs and  moussaka as appetizers and lamb chops for main course was an experience for the taste buds. Everything was fresh, plentiful and delicious. The Galaktobourekakia was the perfect end to an amazing meal. Not to forget...the friendliness of the staff and pleasant ambience makes it an ideal spot for a special meal. We will be back!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoM2VhS0dREAE",
+            "text": "One of my favorite restaurants in NYC and for me certainly the best Greek food in NYC. I’ve been going for more than a decade and it’s still delivers consistently great quality. It is a relaxed and more causal atmosphere with amazingly authentic and sublimely executed dishes. The octopus, lamb chop, the trio of dips, the whole fish, hummus, the halloumi cheese, and the baked pasta are highlights for me. The octopus especially is cooked to perfection. The wine list has a good selection of Greek wines. The service is very personable and attentive."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQydmREUExnEAE",
+            "text": "An exceptional greek restaurant upscale but reasonable priced. Fresh ingredients and unique sweets. I have been in many  greek restaurants and pylos should ranked at the top 3. Brunch is $18. We had lunch 3 appetizers 4 glasses of wine 2 Main dishes Entry 3 Brunch . 2 desert around 70  per person includes tip and tax.\n\nRevisited pylos in June 24\nStill one of the best greek restaurant around. Great service as well."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGMWNfOFlnEAE",
+            "text": "Pylos was the perfect choice for a large gathering of friends and family! The service was outstanding, shared appetizers wowed everyone, lamb shank won the night, and the desserts left us deeply satisfied. All the reviews I read were right - the best Greek food in Manhattan!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSUNlMmV4OBAB",
+            "text": "Food: 3.5/5\nService: 4.5/5\n\nWe ordered the most popular entrees but I wasn't really impressed.\n\nLamb chop: the grilled flavor is nice but doesn't have too much seasoning\nLamb shank: it's braised and falls off the bone. The sauce probably has some balsamic vinegar which is interesting but it doesn't go into the meat - might be better if the shank were marinated longer.\nWhole fish: nice and has char grilled flavor. It's fresh but is a pretty standard entree compared to other Greek restaurants.\nGreek salad: like it. The feta cheese is very nice and generous portion.\n\nOverall I think it's a place for Greek food and wine that won't stand out but good enough. Reservations highly recommend especially for Friday and weekend."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkcHZyYWNBEAE",
+            "text": "Ooooppppaaaaaa! Yummy Yummy Yummy... what a nice treat! Loved this place. Love the decor, loved the service & loved the food and wine options.\nMy only 2 complaints are that the tables are very small, especially when you want to try all the appetizers and also I felt that food was a little too salty. Other than that, I can't wait to come back & try more! Highly recommend ot & I promise you won't be disappointed! Apheresto!"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQyMlBYYVd3EAE",
+            "text": "I've been wanting to visit Pylos for 4 years and I finally got the opportunity last week. We got in at 10 pm on Friday and they still took us in. The food came out super fast, and the servers were very nice. The proteins were excellently…"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzdXIyQVJnEAE",
+            "text": "El lugar es hermoso, la comida increíble , pedimos un risotto y lamb . Fue perfecto para compartir con otra persona ( las porciones son grandes ) . El vino tiene muy buen precio y es delicioso . 100% es un lugar al que volvería"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURldGNIa1JREAE",
+            "text": "Food is very fresh and delicious. Waiter Alexander was super helpful, generally, all the stuff was very nice. The patrons looked classy, place looked classy. Dorado fish 🐟 was excellent."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXc09MYmxRRRAB",
+            "text": "In my opinion, Pylos is one of the best Greek restaurants in Manhattan.\nFor appetizers, as expected, we ordered a Greek salad which was excellent.\nThe eggplant with zucchini and the artichoke were special.\nThe main courses were very good, particularly the salmon and lamb chops.\nThe Greek desserts gave us a sweet finish to a wonderful meal.\nHigly Recomended."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMNGRYejF3RRAB",
+            "text": "Authentic Greek food, excellent customer care. Restaurant week menu is on point and costs only $45. Our male sever was very pleasant and helpful to us. Overall a great place to visit!"
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMta2NqTHFRRRAB",
+            "text": "Mi primera experiencia con la comida griega y me ha encantado. Nos atendieron de primera y las recomendaciones sobre la comida y el vino, excelentes, acertaron en todo, en especial con la musaka, que estaba deliciosa.\nEl lugar es muy bonito y con mucho encanto.  La noche que estuvimos se llenaban las mesas continuamente por lo que es mejor reservar"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSeHRyUV93RRAB",
+            "text": "Very good food, amazing service.\nLamb chops, lamb shank were great.\nAppetizers were also pretty good.\nPlace is not huge and fills up quick."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUROa3JQTWxnRRAB",
+            "text": "Stopped by here with friends for my birthday dinner.\nFood and service were excellent! Lamb chops and Grilled Octopus I had were absolutely amazing!\nPlease keep in mind they don’t have cocktails or beer, just wine menu.\nGreat cozy place with delicious food, would highly recommend."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYbUtlQW5nRRAB",
+            "text": "All the food was exceptional. Greek salad, feta, lamb, sea bass. Small tables, close seating. Attentive and kind staff."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsMS1tZExREAE",
+            "text": "The grilled cheese with grape is a must try ..perfect to drink with white wine ! I also tried the sea bass with pistachios, very impressive, the only thing I think it’s could be better is the temperature of the sea bass dish, when it’s ready to serve, I feel it’s not warm enough for eating, but we took it all anyway !"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPcWE2c1RnEAE",
+            "text": "From the time I walked in and was greeted by a nice hostess til the time I Left everything was  great. Good lunch grill octopus was really good. My waiter had the best beer pour I’ve seen in a while. Espresso was also really good anèri…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxeDY3TTlBRRAB",
+            "text": "Food was exceptional. One of the Best Greek food I have had in recent past. Would highly recommend this place. Lamb chops were amazing. They also have decent selection of Greek wines."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1b183NzlRRRAB",
+            "text": "Some of the Best Mediterranean food in the city!\nThe branzino is always well cooked, def a staple here. Lamb chops are standard and generally well cooked.\nThe cheese apps are also on point."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXc0pIV0lREAE",
+            "text": "Great upscale Greek restaurant in LES. Stylish with great service. All the food was amazing. I had the grilled octopus and pistachio crusted striped bass. The bass especially was SO good served on an incredible bed of zucchini and pesto. They also have a great selection of Greek wines. I’ll be back."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQxNzZPUkp3EAE",
+            "text": "Mediterranean restaurant in New York City. Great menu, delicious food, great service. Place is cozy, clean and good service! Parking is a bit of a challenge."
+        },
+        {
+            "date": "1년 전",
+            "language": "pt",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREcXVmb1VBEAE",
+            "text": "Daria 5 se não fosse Michellin e tivesse preços compatível.\nPedi vieira sobre leito de rúcula e feijão,polvo grelhado com molho balsâmico,batatas assadas,uma espécie de moussaka e peixe grelhado com crosta de pistachio e supostamente molho pesto de pistachio.\nDe sobremesa mousse chocolate com ouzo.\nNotei um sabor acido em todo prato\nPode ser excesso limão ou vinagre,não sei.\nComida boa ,mas não inesquecível e cara"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCZ3RqTjNRRRAB",
+            "text": "I’m surprised it isn’t harder to get a reservation here. The food and service more than hit the mark and the ambiance, including the tasteful terracotta pot ceiling, did very well to set the mood for a date night.\n\nWe started with the poikilia and pita, which was not only a great appetizer, but also served as a unique way to incorporate Grecian flavors into other parts of the meal as we used these dips with some of the other appetizers.\n\nThe octopus was next, which in my opinion is maybe the most accessible form of octopus I’ve ever had. It was good, but I couldn’t help but think it tasted like a hot dog, which threw me off a bit.\n\nWe also ordered the meatballs, which were cooked to perfection and scrumptious, especially when mixed with the poikilia dipping sauces.\n\nFinally, we finished with the pistachio crusted stripe bass. This dynamic dish absolutely blew our socks off. This is a must order."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNob0wtcjZRRRAB",
+            "text": "Did the prix fixe menu for restaurant week. It was great! The food was beautiful and executed so well (e.g. the crispy things were crispy and not soggy). And the service was very informative and accommodating when we were navigating the wine menu. The serving sizes are substantial, so we really felt like we were getting our value’s worth."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMwa2NHLVVnEAE",
+            "text": "Took my family here for dinner the first time, really enjoy the foods. Lovely atmosphere, the place is cozy & seatings are comfortable. Friendly staffs & excellent service. Will definitely come back!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNpX0xMbEtREAE",
+            "text": "Came for lunch in October 2020.  We ate inside, which was quiet and the decor was nice.  I liked the pots on the ceiling.  I had the mousakka and it was good!  Complementary bread was also served.  My only wish was that the mousakka was 20% larger, but otherwise everything was great."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZcHAyNDFRRRAB",
+            "text": "I absolutely love everything about Pylos. Food is amazing, ingredients are of high quality, all served in an aesthetic way. Staff is really nice and helpful, wine is great. Amazing place on the New York culinary map."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnNXFMZ1R3EAE",
+            "text": "Great greek restaurant in the East Village!\nLiving in Astoria, i tried some of the best greek restaurants ever but this can compete.\n\nFood was good and fresh, branzino was great, spinach were excellent but a little pricey (10$ for a side of spinach)\nAlso we waited an hour for our food to come, got there at 9.30pm, got our food at 10.30pm.\nThe set up and design is super cool.\nMenu has a variety of option.\n\nOverall good experience, i would definitely go back to try more!!!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaLTlQdFJBEAE",
+            "text": "Delicious authentic Greek food. Loud guests at the restaurant though. Service was great and attentive."
+        },
+        {
+            "date": "수정일: 5년 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNXzY3eVlBEAE",
+            "text": "Localino molto gradevole, propone una cucina rustica greca davvero buona. Il progetto del locale è veramente apprezzabile, molto curato ed in perfetta armonia con la città e con le origini del locale. Il menù propone una scelta sufficiente…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsMmZEeTR3RRAB",
+            "text": "Incredible food. 10/10 would recommend. Ordered several entrees and appetizers and everything was amazing. I would recommend the salmon."
+        }
+    ],
+    "reviews_count": 81
+}

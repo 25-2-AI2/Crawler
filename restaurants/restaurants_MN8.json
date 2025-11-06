@@ -1,0 +1,482 @@
+[
+    {
+        "name": "Water & Wheat Upper East",
+        "address": "1379 3rd Ave, New York, NY 10075, USA",
+        "place_id": "ChIJD2aQK95ZwokRtipR7To1S84",
+        "rating": 4.7,
+        "user_ratings_total": 336,
+        "phone_number": "(646) 484-5054"
+    },
+    {
+        "name": "La Pecora Bianca UES",
+        "address": "1562 2nd Ave, New York, NY 10028, USA",
+        "place_id": "ChIJ9YlInwlZwokRDb-WWDZkU1s",
+        "rating": 4.8,
+        "user_ratings_total": 2106,
+        "phone_number": "(212) 300-9840"
+    },
+    {
+        "name": "Up Thai",
+        "address": "1411 2nd Ave, New York, NY 10021, USA",
+        "place_id": "ChIJfQ5BQMBYwokR7CxrwWOFFjw",
+        "rating": 4.7,
+        "user_ratings_total": 6675,
+        "phone_number": "(212) 256-1199"
+    },
+    {
+        "name": "Piccola Cucina Uptown",
+        "address": "106 E 60th St, New York, NY 10022, USA",
+        "place_id": "ChIJZdSBiO9YwokRWADMuEN-b64",
+        "rating": 4.6,
+        "user_ratings_total": 2150,
+        "phone_number": "(646) 707-3997"
+    },
+    {
+        "name": "BLUE MEZZE BAR (ZOI)",
+        "address": "1480 2nd Ave, New York, NY 10075, USA",
+        "place_id": "ChIJYwKGx6lZwokR05rPsphAWVE",
+        "rating": 4.6,
+        "user_ratings_total": 1579,
+        "phone_number": "(646) 718-3609"
+    },
+    {
+        "name": "Crave Fishbar Upper East Side",
+        "address": "1462 2nd Ave, New York, NY 10075, USA",
+        "place_id": "ChIJ39p8pu9ZwokRrVZUR4REV00",
+        "rating": 4.8,
+        "user_ratings_total": 66,
+        "phone_number": "(212) 688-8886"
+    },
+    {
+        "name": "Bua Thai Ramen & Robata Grill",
+        "address": "1611 2nd Ave, New York, NY 10028, USA",
+        "place_id": "ChIJq6o-8btYwokRAnPeXDLe9bM",
+        "rating": 4.8,
+        "user_ratings_total": 9082,
+        "phone_number": "(212) 879-7999"
+    },
+    {
+        "name": "da Adriano",
+        "address": "1198 1st Ave, New York, NY 10065, USA",
+        "place_id": "ChIJU0dUbtNZwokRvLMgVDaVuA0",
+        "rating": 4.8,
+        "user_ratings_total": 284,
+        "phone_number": "(646) 371-9412"
+    },
+    {
+        "name": "Uva",
+        "address": "1486 2nd Ave, New York, NY 10075, USA",
+        "place_id": "ChIJxYXIbL9YwokR7A8e89BZgGA",
+        "rating": 4.3,
+        "user_ratings_total": 2024,
+        "phone_number": "(212) 472-4552"
+    },
+    {
+        "name": "The Penrose Bar",
+        "address": "1590 2nd Ave 2nd floor, New York, NY 10028, USA",
+        "place_id": "ChIJE1SK5LtYwokRH1APiOrZNq0",
+        "rating": 4.4,
+        "user_ratings_total": 2363,
+        "phone_number": "(212) 203-2751"
+    },
+    {
+        "name": "THEP Thai Restaurant",
+        "address": "1439 2nd Ave, New York, NY 10021, USA",
+        "place_id": "ChIJz6VeesBYwokRNBYu4Sar8lw",
+        "rating": 4.7,
+        "user_ratings_total": 5475,
+        "phone_number": "(212) 899-9995"
+    },
+    {
+        "name": "Heidi's House by the side of the road",
+        "address": "308 E 78th St, New York, NY 10075, USA",
+        "place_id": "ChIJE9I-Pr9YwokRQh5-2GjSd-A",
+        "rating": 4.6,
+        "user_ratings_total": 417,
+        "phone_number": "(212) 249-0069"
+    },
+    {
+        "name": "JG Melon",
+        "address": "1291 3rd Ave, New York, NY 10021, USA",
+        "place_id": "ChIJORutA8BYwokR6obC5YpaamM",
+        "rating": 4.2,
+        "user_ratings_total": 3754,
+        "phone_number": "(212) 744-0585"
+    },
+    {
+        "name": "Mission Ceviche",
+        "address": "1400 2nd Ave, New York, NY 10021, USA",
+        "place_id": "ChIJEXPLsaFZwokRggZzIVKeiPM",
+        "rating": 4.6,
+        "user_ratings_total": 3524,
+        "phone_number": "(212) 650-0014"
+    },
+    {
+        "name": "Isle of Capri",
+        "address": "1028 3rd Ave, New York, NY 10065, USA",
+        "place_id": "ChIJpRVGV-9YwokRHnDd6TD7qxQ",
+        "rating": 4.5,
+        "user_ratings_total": 532,
+        "phone_number": "(212) 223-9430"
+    },
+    {
+        "name": "Adria",
+        "address": "1556 2nd Ave #2S, New York, NY 10028, USA",
+        "place_id": "ChIJKT6YWABZwokR_373GJTMZOs",
+        "rating": 4.8,
+        "user_ratings_total": 78,
+        "phone_number": "(646) 386-7703"
+    },
+    {
+        "name": "Boqueria UES",
+        "address": "1460 2nd Ave, New York, NY 10075, USA",
+        "place_id": "ChIJYwAAe79YwokRAzRYCHUFTJY",
+        "rating": 4.6,
+        "user_ratings_total": 2071,
+        "phone_number": "(212) 343-2227"
+    },
+    {
+        "name": "Avoca",
+        "address": "1678 1st Ave, New York, NY 10128, USA",
+        "place_id": "ChIJDe3ctJVZwokRE3GOfnRJQtI",
+        "rating": 4.8,
+        "user_ratings_total": 1734,
+        "phone_number": "(212) 202-0140"
+    },
+    {
+        "name": "Meijin",
+        "address": "1574 2nd Ave, New York, NY 10028, USA",
+        "place_id": "ChIJx1q8UrlYwokRjOmzO2_-otA",
+        "rating": 4.7,
+        "user_ratings_total": 1967,
+        "phone_number": "(212) 327-2800"
+    },
+    {
+        "name": "Hoexter's",
+        "address": "174 E 82nd St, New York, NY 10028, USA",
+        "place_id": "ChIJJWByn_BZwokR9IC-3PtPPuk",
+        "rating": 4.4,
+        "user_ratings_total": 174,
+        "phone_number": "(212) 288-1777"
+    },
+    {
+        "name": "L'Osteria",
+        "address": "1219 Lexington Ave, New York, NY 10028, USA",
+        "place_id": "ChIJBRyejVJZwokReyLI3g24DLU",
+        "rating": 4.7,
+        "user_ratings_total": 343,
+        "phone_number": "(646) 524-6294"
+    },
+    {
+        "name": "Sojourn Social",
+        "address": "1708 2nd Ave, New York, NY 10128, USA",
+        "place_id": "ChIJl78kIRlZwokR0Pz-hGyp5VQ",
+        "rating": 4.7,
+        "user_ratings_total": 428,
+        "phone_number": "(212) 537-7750"
+    },
+    {
+        "name": "Serafina Fabulous Pizza 79th (UES)",
+        "address": "1022 Madison Ave, New York, NY 10075, USA",
+        "place_id": "ChIJj7xBzZVYwokRZ9y7hcx3III",
+        "rating": 4.3,
+        "user_ratings_total": 2368,
+        "phone_number": "(212) 734-2676"
+    },
+    {
+        "name": "Pascalou",
+        "address": "1308 Madison Ave, New York, NY 10128, USA",
+        "place_id": "ChIJaZdHxaNYwokRC5nuEnKTBeM",
+        "rating": 4.4,
+        "user_ratings_total": 467,
+        "phone_number": "(212) 534-7522"
+    },
+    {
+        "name": "Nightly's",
+        "address": "1496 2nd Ave, New York, NY 10075, USA",
+        "place_id": "ChIJi10u8kJZwokRH-oXTMn-uVA",
+        "rating": 4.3,
+        "user_ratings_total": 210,
+        "phone_number": "(212) 597-2248"
+    },
+    {
+        "name": "Flex Mussels",
+        "address": "1431 3rd Ave, New York, NY 10028, USA",
+        "place_id": "ChIJt901K7xYwokRDN0HETz2x3s",
+        "rating": 4.5,
+        "user_ratings_total": 1143,
+        "phone_number": "(212) 717-7772"
+    },
+    {
+        "name": "Casa Cruz Upper East Side Restaurant",
+        "address": "36 E 61st St, New York, NY 10065, USA",
+        "place_id": "ChIJ48VsHFNZwokRgSjsT_HiU0U",
+        "rating": 4.1,
+        "user_ratings_total": 402,
+        "phone_number": "(212) 970-8983"
+    },
+    {
+        "name": "Le Botaniste",
+        "address": "833 Lexington Ave, New York, NY 10065, USA",
+        "place_id": "ChIJXbvPKe9YwokRroLArCwh2LY",
+        "rating": 4.6,
+        "user_ratings_total": 1144,
+        "phone_number": "(917) 262-0766"
+    },
+    {
+        "name": "Cafe d’Alsace",
+        "address": "1703 2nd Ave, New York, NY 10128, USA",
+        "place_id": "ChIJ4Q06IbtYwokRcV8iHlJky_M",
+        "rating": 4.7,
+        "user_ratings_total": 2600,
+        "phone_number": "(212) 722-5133"
+    },
+    {
+        "name": "Masseria East",
+        "address": "1404 3rd Ave, New York, NY 10075, USA",
+        "place_id": "ChIJfUbyZ75YwokRMi96wHTiLBA",
+        "rating": 4.7,
+        "user_ratings_total": 317,
+        "phone_number": "(212) 535-3520"
+    },
+    {
+        "name": "Bigoi Venezia",
+        "address": "1415 2nd Ave, New York, NY 10021, USA",
+        "place_id": "ChIJgdnYQcBYwokRDEGzKagrEfE",
+        "rating": 4.8,
+        "user_ratings_total": 775,
+        "phone_number": "(917) 262-0680"
+    },
+    {
+        "name": "Uva Next Door",
+        "address": "1484 2nd Ave, New York, NY 10075, USA",
+        "place_id": "ChIJ1wvzHWRZwokRD8U6_Yc3lQA",
+        "rating": 4.4,
+        "user_ratings_total": 274,
+        "phone_number": "(917) 472-7921"
+    },
+    {
+        "name": "Chez Fifi",
+        "address": "140 E 74th St, New York, NY 10021, USA",
+        "place_id": "ChIJCZ6-33tZwokRIika4HJVD-o",
+        "rating": 4.2,
+        "user_ratings_total": 115,
+        "phone_number": null
+    },
+    {
+        "name": "Osteria Nando",
+        "address": "1589 2nd Ave, New York, NY 10028, USA",
+        "place_id": "ChIJnxd0SbpZwokR2K_m8Ng42_g",
+        "rating": 4.5,
+        "user_ratings_total": 349,
+        "phone_number": "(212) 731-4355"
+    },
+    {
+        "name": "Botte UES",
+        "address": "1606 1st Ave, New York, NY 10028, USA",
+        "place_id": "ChIJI43xgLlYwokR9H-LXHs36gc",
+        "rating": 4.4,
+        "user_ratings_total": 323,
+        "phone_number": "(212) 207-0052"
+    },
+    {
+        "name": "Pil Pil",
+        "address": "265 E 78th St, New York, NY 10075, USA",
+        "place_id": "ChIJh-ZRBb9YwokRSMkUC8lETk4",
+        "rating": 4.4,
+        "user_ratings_total": 1293,
+        "phone_number": "(855) 681-6614"
+    },
+    {
+        "name": "Bohemian Spirit",
+        "address": "321 E 73rd St, New York, NY 10021, USA",
+        "place_id": "ChIJZd1h-MBYwokR0Ek-F4_Sep8",
+        "rating": 4.5,
+        "user_ratings_total": 658,
+        "phone_number": "(212) 861-1038"
+    },
+    {
+        "name": "Bocado",
+        "address": "1293 Lexington Ave, New York, NY 10128, USA",
+        "place_id": "ChIJBadnurxYwokRFkgZg97zTNA",
+        "rating": 4.3,
+        "user_ratings_total": 1189,
+        "phone_number": "(212) 289-9004"
+    },
+    {
+        "name": "Avra Madison",
+        "address": "14 E 60th St, New York, NY 10022, USA",
+        "place_id": "ChIJK_nYHfBYwokR03Tv5S3dW1s",
+        "rating": 4.6,
+        "user_ratings_total": 2601,
+        "phone_number": "(212) 937-0100"
+    },
+    {
+        "name": "Shake Shack Upper East Side",
+        "address": "154 East 86th St, New York, NY 10028, USA",
+        "place_id": "ChIJE1mdlLxYwokRhrdJXmG9Y_8",
+        "rating": 4.3,
+        "user_ratings_total": 5106,
+        "phone_number": "(646) 237-5035"
+    },
+    {
+        "name": "Luke's Lobster Upper East Side",
+        "address": "242 E 81st St, New York, NY 10028, USA",
+        "place_id": "ChIJ8YYpur5YwokRW4TXrqxT-1k",
+        "rating": 4.3,
+        "user_ratings_total": 846,
+        "phone_number": "(212) 249-4241"
+    },
+    {
+        "name": "Match 65 Brasserie",
+        "address": "29 E 65th St, New York, NY 10065, USA",
+        "place_id": "ChIJraJ9su5YwokR7iKyqGteG58",
+        "rating": 4.4,
+        "user_ratings_total": 889,
+        "phone_number": "(212) 737-4400"
+    },
+    {
+        "name": "QUATORZE",
+        "address": "1578 1st Ave, New York, NY 10028, USA",
+        "place_id": "ChIJ8XDAKr9YwokRHkja-tYpvOY",
+        "rating": 4.3,
+        "user_ratings_total": 216,
+        "phone_number": "(212) 535-1414"
+    },
+    {
+        "name": "Pastrami Queen",
+        "address": "1125 Lexington Ave # 2, New York, NY 10075, USA",
+        "place_id": "ChIJRdfQLr5YwokRPG1c3y-4zJ4",
+        "rating": 4.1,
+        "user_ratings_total": 1687,
+        "phone_number": "(212) 734-1500"
+    },
+    {
+        "name": "Ravagh Persian Grill",
+        "address": "1135 1st Ave, New York, NY 10065, USA",
+        "place_id": "ChIJcQpUZcJYwokRaQR_s0f6qAg",
+        "rating": 4.4,
+        "user_ratings_total": 1276,
+        "phone_number": "(212) 861-7900"
+    },
+    {
+        "name": "Orsay",
+        "address": "1057 Lexington Ave, New York, NY 10021, USA",
+        "place_id": "ChIJmxNuRpVYwokRHEkGRQ_trfc",
+        "rating": 4.3,
+        "user_ratings_total": 902,
+        "phone_number": "(212) 517-6400"
+    },
+    {
+        "name": "Eli's Table",
+        "address": "1413 3rd Ave, New York, NY 10028, USA",
+        "place_id": "ChIJ641tYr5YwokR2FJhVvTFCtc",
+        "rating": 4.4,
+        "user_ratings_total": 98,
+        "phone_number": "(212) 717-9798"
+    },
+    {
+        "name": "Lusardi's",
+        "address": "1494 2nd Ave, New York, NY 10075, USA",
+        "place_id": "ChIJVdduFL9YwokRGn2EFWZDLBs",
+        "rating": 4.6,
+        "user_ratings_total": 316,
+        "phone_number": "(212) 249-2020"
+    },
+    {
+        "name": "Le Bilboquet",
+        "address": "20 E 60th St, New York, NY 10022, USA",
+        "place_id": "ChIJdQhd5e9YwokRCqi-NNF8vkU",
+        "rating": 4.2,
+        "user_ratings_total": 786,
+        "phone_number": "(212) 751-3036"
+    },
+    {
+        "name": "Antonucci Cafe",
+        "address": "170 E 81st St, New York, NY 10028, USA",
+        "place_id": "ChIJmQKjfr5YwokRxETZofFe5hc",
+        "rating": 4.5,
+        "user_ratings_total": 412,
+        "phone_number": "(212) 570-5100"
+    },
+    {
+        "name": "Supper Club By Le Petit Parisien",
+        "address": "355 E 78th St, New York, NY 10075, USA",
+        "place_id": "ChIJ3fa7yrhYwokRQJLZKpT1uig",
+        "rating": 5,
+        "user_ratings_total": 85,
+        "phone_number": "(917) 262-0910"
+    },
+    {
+        "name": "Aunt Jake's",
+        "address": "1555 2nd Ave, New York, NY 10028, USA",
+        "place_id": "ChIJKffayQBZwokRbiyJa4TZAIw",
+        "rating": 4.5,
+        "user_ratings_total": 469,
+        "phone_number": "(917) 261-5040"
+    },
+    {
+        "name": "maman",
+        "address": "1424 3rd Ave, New York, NY 10028, USA",
+        "place_id": "ChIJAx5HgFlZwokRcWUfz5VxS0w",
+        "rating": 4.2,
+        "user_ratings_total": 716,
+        "phone_number": "(917) 675-7667"
+    },
+    {
+        "name": "AOC East",
+        "address": "1590 1st Ave, New York, NY 10028, USA",
+        "place_id": "ChIJx0CjgrlYwokRhIETr-qxrZQ",
+        "rating": 4.3,
+        "user_ratings_total": 378,
+        "phone_number": "(646) 998-4220"
+    },
+    {
+        "name": "The East Pole",
+        "address": "133 E 65th St, New York, NY 10065, USA",
+        "place_id": "ChIJbY3-ye5YwokRWOG8XH8DqSw",
+        "rating": 4.3,
+        "user_ratings_total": 554,
+        "phone_number": "(212) 249-2222"
+    },
+    {
+        "name": "Zabb PuTawn",
+        "address": "1584 1st Ave, New York, NY 10028, USA",
+        "place_id": "ChIJ5-uwd7lYwokRW-Ib5rBBL-w",
+        "rating": 4.7,
+        "user_ratings_total": 420,
+        "phone_number": "(212) 988-8800"
+    },
+    {
+        "name": "Dallas BBQ",
+        "address": "1265 3rd Ave, New York, NY 10021, USA",
+        "place_id": "ChIJOZSQmepYwokRGyoFV_YPkbU",
+        "rating": 4.2,
+        "user_ratings_total": 3569,
+        "phone_number": "(212) 772-9393"
+    },
+    {
+        "name": "Brasserie Cognac Upper East Side",
+        "address": "963 Lexington Ave, corner of, E 70th St, New York, NY 10021, USA",
+        "place_id": "ChIJt1jhrutYwokRMG84lxydIuQ",
+        "rating": 4.4,
+        "user_ratings_total": 529,
+        "phone_number": "(212) 249-5100"
+    },
+    {
+        "name": "Tang By Mr Sun 唐",
+        "address": "1442 3rd Ave, New York, NY 10028, USA",
+        "place_id": "ChIJBbw5N5lZwokRNPlNOvCQFaw",
+        "rating": 4.6,
+        "user_ratings_total": 183,
+        "phone_number": "(646) 590-2910"
+    },
+    {
+        "name": "Fumo Upper East Side",
+        "address": "1626 2nd Ave, New York, NY 10028, USA",
+        "place_id": "ChIJoROsW35ZwokRMylDdu4EwQo",
+        "rating": 4.3,
+        "user_ratings_total": 320,
+        "phone_number": "(646) 429-9887"
+    }
+]

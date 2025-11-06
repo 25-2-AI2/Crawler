@@ -1,0 +1,663 @@
+{
+    "name": "LOS TACOS No.1",
+    "place_id": "ChIJsdNONuFbwokRLM-yuifjb8k",
+    "grid": "MN1",
+    "address": "136 Church St, New York, NY 10007, USA",
+    "rating": 4.8,
+    "user_ratings_total": 2931,
+    "phone_number": null,
+    "reviews": [
+        {
+            "date": "6시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ORmIwMUdNblZEUWxKZlRtczRkWFp0U25oSlRHYxAB",
+            "text": "Became my comfort food 😍"
+        },
+        {
+            "date": "9시간 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWVGQyTlpNV2RoZDFnNE9XSk9hak15UmxwSlJFRRAB",
+            "text": "Definitivamente unos buenos tacos con sabor a casa!\nEl costo me pareció elevado. Pero no excesivo.\nLas salsas están de poca madre, y tienen limón verde!\nTienen buen personal y cada quién sabe hacer su chamba, pero el taquero es grosero y eso no gusta.\nLa próxima vez me aseguraré de formarme en la fila de otro taquero para que toda la experiencia sea 5/5!"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oVFoxVkROV1ZtZFMxaFMwRmZTVm80VHpSSlpHYxAB",
+            "text": "Best tacos in NYC"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sVFdWUmFiMkZTTkdaSFkzVmFZak40YVdWRFIxRRAB",
+            "text": "Pretty good, I'd probably give this 3.5 stars if i could.\nPros: adobada pork is the winner here, it's very good and worth returning just for that alone.  All the food is clearly fresh and made with intent. Good side bar avail with extra toppings\nCons: cost is too high for what you get.  i like a bit of crumbled mexican cheese on my tacos which is not standard here. No beer. No bathrooms. Guac is too blended into a goo for my taste.  And the steak and cactus tacos are totally forgettable.... mostly bland."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CcFJIaERTSE15UVVWR1NFNUZORGR3Y2xsMVJtYxAB",
+            "text": "Fantastic food. Can't wait to be back on nyc to do it all again."
+        },
+        {
+            "date": "1일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poTWRsRlhUMGt5VkdnMWJtNUVWVkZyWW5oR1JWRRAB",
+            "text": "Delicioso!!! Autenticos tacos mexicanos… el sabor muy rico y aunque estaba lleno, la atencion muy buena… super alegres y amables"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCaGJVUmxSbFI1V1UxQ2JrcG5SR3BGVDNOSWMzYxAB",
+            "text": "I was shocked by how good the adobada, guacamole, and fresh salas were (I would say you can akip the pollo asado and maybe even the care asada though they are good too). Ive heard so many negative things about the Mexican food in NYC. Im so glad I had an excellent experience 😋.\n\nThe restaurant was abaolutely spotless and the staff was all excellent too. I hope to come back sometime."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSdmJVeDBhVGR4ZVdGNGJrbHpVVUptUm14UlVsRRAB",
+            "text": "Amazing as always"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KZk5HZE5VMVJIVVVOVFpXVnNMVmQzVURORWRHYxAB",
+            "text": "Brilliant! Loved it."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKbGJGSlNZekZCWVVGNVlrcE1kMGRtVkRoUWRFRRAB",
+            "text": "BEST TACOS I’VE EVER HAD. if you’re visiting New York City, this place it’s a must try!! everything is so good, starting with the staff and the tacos are freshly made with handmade tortillas. The workers definitely deserve a rise because they’re doing an AMAZING job!!!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kRWJqRnlMV0pNYUZkYWNrZHVhbFZZYVhGSGRVRRAB",
+            "text": "Simply amazing tacos. Don't sleep on this spot"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poVWRGRlZRVlJrV1RoR1NuWXRYMUYyTUc0dFgzYxAB",
+            "text": "By far my favourite go to for delicious  tacos...etc  in NYC , freshly made with fresh ingredients ."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21obmR6TlRiVTVLV0RSSFdYSkxWVWc0UVc0elNVRRAB",
+            "text": "great"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KWk9FaE5UMmxITURkMFZGRnVaVzVqZUhSdVJVRRAB",
+            "text": "Never thought fast food could be so delicious!\nThis is part of a chain of fast Mexican food places.\nService is super fast and friendly.\nThey are always busy but still get your order right and with a smile!\nFood is made right in front of you and is simply delicious!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGMVdFNWZWMGhrTVZwdmVXaDFOV1ZqY0VOUFlWRRAB",
+            "text": "Must hit taco spot"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GVllta3hURXRJUnpsWVh6WjZlbGhJWWtGMlNGRRAB",
+            "text": "AMAZING tacos!! Was recommended by a friend and thought it would be overrated because I hear about it all the time but tried it on my trip to NYC and it was probably the best chicken taco I’ve ever had."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205SVltcGtVemxHWlRORGQwYzBSRFJNZUd0R2IxRRAB",
+            "text": "They made everything so simple."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OalEzQmxPV2w2VVZrM1Fsa3pVMUk1Y25CdGEyYxAB",
+            "text": "The best tacos in the New York area if you have had tacos and are not sure if the flavor is authentic to mexican taste i highly recommend you to stop here and enjoy authentic mexican tacos with great flavors chiles toreados salsa Verde and salsa roja."
+        },
+        {
+            "date": "1주 전",
+            "language": "iw",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kbE1HbDJXakkzYlUxZlExbGpZV2xoYzBSaVVIYxAB",
+            "text": "מעולה"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKRFFYcENSRWM1Y0ROcE9HZE9VMmd0UjBaalNHYxAB",
+            "text": "Amazing Food, quick service"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taZlFVaG5hbFZJWm1wWFFVdFBiVGRwWTFORmJWRRAB",
+            "text": "Great food and quick service."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tadFZUUlZkVlV4TVhoUmExZFZRV1JqTTIxRk5WRRAB",
+            "text": "No vegetarian breakfast burrito available"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGcVZWaEZibnB0Wm0xM2JVNVlTV0ZKWDBWeWVrRRAB",
+            "text": "Los mejores tacos y quesadillas que comimos en Nueva York.\nLocal limpio, personal amable y atento y comida espectacular.\nPoca más que añadir.\nVolveremos sin duda en nuestro próximo viaje."
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psVFpuZFZRa1ZJTmtWT2VXWjJWV2hrUkU1Sk5FRRAB",
+            "text": "Amazing food!!!! Alexander V. nos trato brutal y estuvo muy pendiente a nosotros. Volvería de seguro💯"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1eFNqZHZhMnRHTVRaaE9VdFVSakl3TVdoSlZtYxAB",
+            "text": "Just to small for me excellent  everything else !!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCTmRVZHplazVTTlZObk1WTTNkbEpvVWtWR2JtYxAB",
+            "text": "I’ve been wanting to try them till today\nThey weren’t wrong about how good and tasty\nPrice is worth it fr\nThis is for sure my fav no1 spot for tacos"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Jd1h6TlVlRmg2VEdkR1YxVlNla0V0UlhwV09WRRAB",
+            "text": "Los Tacos was our best meal of the trip. The adobada pork quesadilla may be the best Mexican food we have ever had and I am from AZ and eat a lot of Mexican food. This restaurant makes me like NYC."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWRFUycExlbTl2YkVoU1JVNXFkVGxXTTJoUVUwRRAB",
+            "text": "the chain is probably one of the most authentic tacos i’ve tasted here in nyc, however the price point is horrendous 😵‍💫, it’s around $6.50 for ONE taco after tax and if you’re a broke college student like me, that’s not exactly the best deal. i’ve never been to los tacos before so if you’ve never been there before, keep in mind u get ur ticket —> give it to one of the preparers/chefs—> they ask you if you want a corn or flour tortilla and what toppings u want —> wait until they hand you yours! it was also a pretty chaotic environment. overall, i would say they’re GREAT tacos, however there is definitely cheaper options in the city"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sweVF6TjVXV3hzYVZKMWJtVjBjMHRTTVVkYVYyYxAB",
+            "text": "The tacos here are delicious."
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURhdXRXdGlRRRAB",
+            "text": "Best taco I’ve ever had, would travel back to new york just for their tacos."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsRk1ETm1lbHBZTFVnek5sVk5jRlp6VlRaYVRWRRAB",
+            "text": "Wow, what a flavor explosion. Had the pollo and adabado tacos with the works. So fresh, made right in front of you, and old school Coke in bottles. YUM! Get in cashier line, take receipt to grill line, and hand it in. Boom, and momentarily you'll have a  fiesta in your mouth!"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KM2RYWkNTVGxwVkdOTlNXNUViMXBZTTI1cWRGRRAB",
+            "text": "Burrito and empanada of adobada. Simply delicious !!"
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GUWJ6RmlMWFUyZHpad1NtMURaRUZ6V25NdGMyYxAB",
+            "text": "Great food and service. My favorite was the pork tacos. It gets a little busy but the food is worth it!"
+        },
+        {
+            "date": "3주 전",
+            "language": "de",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOV2NuSmFWMXBoYUd4U2NVVlBVRWhJVW5wcU9GRRAB",
+            "text": "Ganz nett für einen schnellen Snack zwischendurch. Das Personal ist freundlich und tatsächlich wird sehr effizient gearbeitet. Erst bestellt man an der Kasse und gibt dann seinen Zettel weiter an die zahlreichen Mitarbeiter hinter der Theke, die einem dann schnell den bestellten in meinem Fall eine Hühnchen Quesadilla fertig machen.\nGeschmacklich war es sehr lecker. Aber schon nicht günstig für so einen Mini Snack auf die Hand. Kann man dennoch weiter empfehlen."
+        },
+        {
+            "date": "3주 전",
+            "language": "nl",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOdE9GOVNjRVJrWDNBeE0xWTBSM2RaWjNsWWVYYxAB",
+            "text": "Ik heb hier voor het eerst in mijn leven taco's gegeten, en ik ben zo blij dat dit mijn eerste keer was. Dit zal me altijd bijblijven als de eerste en de laatste keer."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xeE5FNXZVR2gxZEdSaFYwNHhUbk53VTNSSGJFRRAB",
+            "text": "Most delicious carne asada tacos I’ve ever had! Great soda too!"
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOTmR6STNabEZWWlZCSFFtZGhVemRNU1VZek9XYxAB",
+            "text": "Los mejores tacos de NY, personal muy eficiente y el mejor sabor. Recomiendo pedirlos con tortilla de harina!"
+        },
+        {
+            "date": "3주 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xNGJWRTJjM1p0TmpRdGVGUkpTV1pYUkVjMFgyYxAB",
+            "text": "Самый вкусные такос 🌮 Очень рекомендую!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21obWMySlhWMWhwVjBSQ1UyNUlOQzFDUWpOVFFtYxAB",
+            "text": "Best tacos in town! Great people serving, you can feel their joy. I highly recommend the cactus!! It’s fast food, so asking for atmosphere is not fair ;-)"
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSMmVFVkVWRlZxZWtsWk1VaHplVUYwT0RGSFMwRRAB",
+            "text": "Ricos tacos, muy autóctono, al ser los tacos comida de paso o “rápida”, no esperen un menú con variedad de platos, es sencillo pero con rico sabor. Suele tener bastante gente, pero el que está cerca de Wall Street estaba super bien, nos atendieron rápido."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paNlUyWmhUSEJKY0hNemEwZFRjV2RoWWtJdFVIYxAB",
+            "text": "This was absolutely amazing. We were craving Mexican, and this place delivered. Excellent service, delicious food, amazing horchata. Line moved very fast, we waited less than 5 minutes for our food. 10/10 would recommend!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxbmJrcHBOQzFaZFdsU2RHaDBlVkUxVEVGVmJXYxAB",
+            "text": "Great authentic flavor! If you haven't tried the nopales (specially as a vegan option), this is a great place to do so :)\nMust try the tamarind fresh water!\nQuick service too!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kQ2JteHJiRkI0YUc0NGNsVldkMlp2WVRjek5IYxAB",
+            "text": "The best tacos in NYC period!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wM1dISlhhaTF0YWpsTE0yUnBUbFoxYlcxdmNGRRAB",
+            "text": "2 tacos. Food was good. Salsa was flavorful"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4UU0zTjZXbmhtTkVwS2JVeGlXVzlKYUROT05uYxAB",
+            "text": "Wonderful tasty tacos, it is very worth it."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xa01rc3hWRlJsV0hSSmEwTktVSG90T0hSS2VIYxAB",
+            "text": "Unreal scran"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paRFYyOU5lR1ZqVm1kQ1pWTndTMHR2V0RWa1EzYxAB",
+            "text": "My absolute FAVORITE!!!!!!! So so so so good"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKcU4yRjFOMWQ0YTNadVdXa3pka3hPVERKeU1WRRAB",
+            "text": "Quesadilla steak was fantastic. My favorite!!!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CVFptOVBkRTlLVkZwYWRUVXdWMlJFZDJZM01GRRAB",
+            "text": "Truly happy with how things went. I liked it here."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GS01GRlBXV2RXYlVSSVRqSjROVE50WkdkU1IzYxAB",
+            "text": "Tacos 🌮 were delicious 😋…"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3djd5OFJ3EAE",
+            "text": "뉴욕에서 가장 유명한 타코집입니다. 전 여기 지점을 여러번 오게 되는 것 같아요. 손님이 많지만 직원들은 정말 친절하고 신속합니다. 매장은 깔끔하고, 서서 먹을 공간도 충분합니다. 맛있으니 보이면 꼭 먹어보세요! 추천이요!"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkOGZxellBEAE",
+            "text": "의자는 없지만 가방걸이도 있고 금방 먹어요. 직원들 친절하고 맛은 당연히 좋아요.\nI’d like to especially thank to all crew members who worked around 1 pm today. Not only were they welcoming, but also extremely patient for tourists to feel comfortable. I’ve come to love downtown, and you guys were a part of it. Thank you again."
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSaTltWTdRRRAB",
+            "text": "멕시코 음식은 맛도 좋지만 건강관리에 유용합니다. 다운타운에 위치한 로스타코스는 뉴욕에 분점들이 많이 있습니다. 해피데이즈를 연상시키는 실내 장식도 맘에 들었지만 아보카도가 듬뿍들어간 요리에 행복했습니다."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3cU5HdFd3EAE",
+            "text": "줄서는거 별로지만 생각보다 빨리 주문했고 타코 맛있음. 두개정도로 끼니해결 옥수수보다는 밀가루가 더 맛있는듯하네요"
+        },
+        {
+            "date": "2달 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0MlZ6UnRjUzFQTlVsRGJXUm5lbWcyVDJkS1UxRRAB",
+            "text": "음식은맛있고 서비스도 인색하지않고..\n다만 장소가 협소하고 서서먹어야하고 ..\n아이들이나 몸이불편하면 추천하지않습니다."
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1OGFpS1RREAE",
+            "text": "Caren asada 먹었는데 맛있었어요! 주문할 때 음료를 챙겨서 함께 계산해요. 주문지를 받아서 음식 만드는 사람한테 주면 빵 선택하고 토핑 선택하는 시스템입니닷! 저는 잘 몰라서 토핑 everything 했는데 고수가 있었어요ㅠㅠ 고수 못 드시는 분들은 꼭 No Cilantro하셔요~ 아 그리고 서서 먹는 식당입니닷!"
+        },
+        {
+            "date": "4달 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201YVZtMUdZM3B4T1RsVGRUWTBWbTFGVEVwUVExRRAB",
+            "text": "타코는 맛있음 가격은 비쌈 탄산음료 크기가 너무 작음"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYbXJ5RzdnRRAB",
+            "text": "주방이 정신 없이 돌아갑니다. 신선한 흥미를 느끼기에 충분합니다. 타코도 맛있습니다."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuLVBpZllnEAE",
+            "text": "개꿀맛 타코\n안먹고 미국을 뜬다는건 있을 수 없는 일\n\n밀또띠아에는 고수가 안들어가고\n콘또띠아엔 들어간다.\n\n빼달라고하면 빼줌"
+        },
+        {
+            "date": "4년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2bHYtZkhREAE",
+            "text": "카렌 타코(스테이크)\n진짜 맛있어요. 택스까지 다 해서 5불 조금 넘게 주고 샀고\n점심으로 딱이었어요."
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURldXBUZDd3RRAB",
+            "text": "맛나요 ㅎㅎ 고수 빼달라 햇어용"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ad1ExSkRhM2RMWTBsUmIxUmtkR2cwWVVGaVUwRRAB",
+            "text": "We ordered tacos, a tostada, and chips and guac. Food was delicious. Everything was fresh. Well flavored meat (we had asada). Guacamole was creamy and super good. A nice salsa selection at the salsa bar. Service was amazing especially for how busy they are. Food comes quickly and the staff is welcoming and friendly."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xa1YxOUNNRkJpTVVKSFRqaFNaWEZ2VGxOaVpXYxAB",
+            "text": "This is one of our favorite stops in NYC! The food is exceptional and we have not had one bad experience. The best taco is the pork one but you can’t go wrong with any of their selections."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSelUyVlpZWE01UjNkcWFWUmFaV3h0TTBWU2VtYxAB",
+            "text": "Los tacos estaban bien ricos! Eran de carne asada, los pedi con tortilla de harina y maiz, les recomiendo mas la de maiz. La salsa roja esta bien picosa pero muy rica! Hay mucha gente pero si despachan muy rapido. No hay donde sentarse pero si hay mesas donde se puede recargar uno para comer."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJUHBsNGk5aTlmTHdRRRAB",
+            "text": "5 Stars 🌟 must visit if in NYC, they have many locations to choose from.\n\nGreat food, great people, fantastic location.\nAbsolutely worth the wait.\nTacos prepared fresh in front of you.\nChicken, Beef, Cactus.\nFlour or Corn options.\n\nFive Stars, will return for sure."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaVVMwNWhWV0Z6V1ZGRFdFVmpjbkZXT1c1V2EyYxAB",
+            "text": "( chorizo )breakfast burritos they sell on a cart outside the place, $6 or $7 i forgot but no tax and its filling and delicious. They have 3 options i tried the veggie and the chorizo, will get bacon next time. The sauce it comes with is spicy and smoky.\n\nCorn tacos is my usual choice of tortilla and their quesdilla is alright not as cheesy as I hoped but very delicious ice horchata, very clean space and spicy sauce."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCS01qWXlNMFJuYURnelYzRjNTRFZxVDBOU2RYYxAB",
+            "text": "One of the best taco places in the city. Been here twice and left satisfied both times. My favorite is the pork taco, but the beef and chicken are good as well.  Check it out if you are in the area. FYI, there is no indoor seating."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psSWEyeDRjMGxxUlROc1FtSk5NRjgyWm1KUk5GRRAB",
+            "text": "LOS TACOS No.1 serves authentic and flavorful tacos, and I tried the pollo asado (chicken), adobada (pork), and carne asada (beef) — all were excellent. A big plus for me is that they offer wheat flour tortillas, which is great if you’re not a fan of corn tortillas.\n\nThe staff are friendly, though service is minimal, as the spot is more about quick, casual dining. The atmosphere is simple and lively, perfect for a quick bite in the area."
+        },
+        {
+            "date": "6달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZbHNDU3N3RRAB",
+            "text": "Abbiamo voluto provare questo ristorante attirati dai prezzi esposti e dalla quantità di gente che mangiava di gusto all’interno. I cibi sono preparati con ingredienti freschissimi e molto saporiti, il personale molto gentile che ti spiega qualsiasi cosa tu non capisca. Ottimi prezzi. Unico neo le porzioni abbastanza ridotte (tacos e quesadillas). Altamente consigliato!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twUVowaEdTMG95YVVzMFptSmpNek5ITWtOd2JuYxAB",
+            "text": "The service is fast, the tacos were great, and the tortillas were freshly made … will definitely be thinking about these again. Highly recommend!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214Rk9GRjVUR00yUkZOdlJ6TnRZazQyY25CR2RHYxAB",
+            "text": "Was in the area for work and figured why not! Well I was pleasantly surprised that although the line was really long….the wait wasn’t. I had the chicken tacos which were very tasty. The food was fresh, quickly prepared and did not disappoint. Stop in for a quick bite to eat. Just a side note.. there are no tables just high tables to stand and eat at."
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKelZsbENZa0pJYTJSVGNYWnpSMjlpY1hGWVVFRRAB",
+            "text": "Did a day of biking then headed to Los Tacos No. 1 on Church street.. I ordered the Carne Asada Tostada and the Pollo Asado tacos! The service was so quick, very helpful staff and speedy. I also got a plate of grilled onions and jalapeños, quac and chips as well as a horchata!! Piere Z. was very helpful putting in my order and making sure it came out perfect. They had a great salsa bar with many choices to pick from.. Was soooo fresh and tasty. Will be back for sure.. good eating!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SS1JHdHhWVVU0VW1ScVVWRTRRMFl5T1dGR1kzYxAB",
+            "text": "I can’t get enough of los tacos, what an amazing meal, the tacos on the plate with pulled pork and nopal was supreme. Their Mexican Coca Cola just added to the magic. This place should deserves their 5 star rating. On top of it all, staff was so friendly and nice"
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psM2RrUkZWRmRzTVVKSFRqUXpURmRCWTIxeGNtYxAB",
+            "text": "Una cadena de tacos muy recomendable en Nueva York, tienen gran variedad y buenos precios. Podrás ver como cocinan los tacos en su cocina abierta. También tienen quesadillas, te recomiendo pedir la quesadilla especial que es una auténtica delicia. Come a buen precio, además no tendrás que esperar mucho."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wVE1XUjJhVGRrYm5OUmRYVXRTMFZhUTBST2VtYxAB",
+            "text": "Good tacos priced decently. Loved the steak in the taco. Pulled pork was nice too. Guac and chips on the side were good. Overall highly recommended!"
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGR01GcFpkMHBqTFVReFRGaHlZV2REYkc1WU9FRRAB",
+            "text": "Los Tacos No. 1 🌮 en NY son mis favoritos, ¡no hay otros mejores! 🔥🤤 El sabor auténtico mexicano es brutal 🇲🇽💯. The tortillas, the meat, the salsa—todo está on point 👌. Y el servicio siempre es de primera, rápido y amable 🙌. Always worth the wait. ¡Un must si visitas NYC! 🗽❤️"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLSHV0b1gyLWJMYUpREAE",
+            "text": "When I was searching Tik Tok for places to eat on my visit to New York, Los Tacos came up multiple times. Me being from California and me nominating them as best place for tacos I wasn’t looking to add this to my places to stop. After getting off the train and heading back to the hotel, there it was… on the corner with a little line, but not too long. I took that as a sign to try it out. It was a small setting with no seats, just standing room and chest height tables to eat. You could the workers in the back making fresh tortillas and cooking meat. I ordered one steak and one chicken taco but asked not to include the guacamole since I’m allergic. Off to the side there’s options for other salsas , and toppings. I must say I was throughly pleased with my choice of stopping in. Food was fresh meat was tender and seasoned salsa was hotter than expected , maybe ask to get it on the side if you don’t like hot…other than that 10/10."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrdFpUSnhabmN4ZDBwc1RVVXlWVlZsVURkZmJrRRAB",
+            "text": "The service was fantastic! Such kind and accommodative staff. I had my luggage as I just flew in and a staff member saw me struggling with my plates and offered to help immediately. I asked what was spicy in the taco just out of curiosity as I didn’t expect it. The lovely staff member Emilly immediately offered to make me two new tacos without the salsa as that was what was spicy. BEST TACOS EVER and ever better service!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvcnJIS1ZBEAE",
+            "text": "We came from Chicago and had to visit this spot! 100% worth the hype and recommendations. We had to wait in a line outside before we can get online inside but it moves pretty fast. We absolutely loved the tacos and the atmosphere was whole vibe itself. There is limited eating space but people quickly eat and leave. I highly recommend this spot and would come back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5RmJFZENTRWxYU25Oa1MwMXdSR3hXVGtwcVlXYxAB",
+            "text": "The absolute best tacos I've tried in NYC,I tae the tacos so forgot to take picture its low key pricey but we'll worth it fresh hand made tortillas fresh guacamole fresh meat.The real Authentic taste of Tacos..workers have the best attitude very welcoming."
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOSVJWbEpOMnhvUzFNNGJIWXpaVmsxV21KV1ZHYxAB",
+            "text": "Su comida es muy buena, los tacos van desde los $5 a los $10 si ni me equivoco, es para comer parado, pero todo pasa muy rápido, es agradable y una experiencia algo diferente a los que estamos acostumbrados por lo menos en mi país RD, por el sabor vale mucho la pena probarlos 👍🏽"
+        },
+        {
+            "date": "3달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSdFVHZEpSWFp2TjFjeWRFWlZkVVZuUWpaUFFXYxAB",
+            "text": "Les meilleurs tacos que nous avons jamais mangés ! À faire absolument à New York. Les tacos sont faits minutés avec des produits frais et savoureux. Il y a un petit peu d’attente mais le service est très rapide. Il y a des tables hautes sur lesquelles les tacos peuvent être dégustés, sinon prendre à emporter. Le guacamole est incroyable !"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJbVBxaE5BEAE",
+            "text": "Honestly SO delicious best tacos I’ve ever had, wish they had birria. They don’t have seating but there’s a couple of tables and places to stand and eat and a self serve sauce station.  muy ricooooos . My favorite were the carne asada. I tried carne asada, pollo asado, and adobada which is basically al pastor. All of them 10/10 and very filling."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Sb05uRTJPRTlSZEVsUllsWnVSM2x5YkdOTFVVRRAB",
+            "text": "An Unforgettable Taco Experience at Los Tacos No. 1!\n\nI had an incredible experience at Los Tacos No. 1 during my trip to New York. The food was absolutely amazing—easily some of the best tacos I’ve ever had. But what truly set this place apart was the staff. Not only were they incredibly friendly, but they were genuinely happy to be there.\n\nIn a city that can sometimes feel rushed and impersonal, the energy at Los Tacos No. 1 was a breath of fresh air. It was clear that the staff took pride in what they were doing, and that kind of positivity is contagious. My hats off to the entire team and especially the manager for maintaining such a high standard—not just in the food, but in the overall experience.\n\nIf you’re in NYC and looking for delicious tacos served with a side of great vibes, do yourself a favor and stop by. I’ll definitely be coming back next time I’m in town!"
+        },
+        {
+            "date": "5달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNS3NySmFzaXZ1bTRBRRAB",
+            "text": "Une cuisine incroyable avec des aliments frais et savoureux. Des sauces piquantes très goûteuses à rajouter soi-même en libre service.\nUne carte de qualité et un super service.\n\nNotre coup de cœur nourriture sur New York, c'est une adresse à ne pas manquer!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvNWE3WURnEAE",
+            "text": "Had a great experience at this cozy Mexican restaurant in Tribeca. I ordered the pollo asado taco along with some chips and salsa, and washed it down with a Sidral Mundet Green Apple soda. The food was absolutely delicious — the chicken was juicy, well-seasoned, and packed with flavor. The chips were fresh and crispy, and the salsa had the perfect balance of heat and freshness. Solid 5 out of 5 for the food.\n\nThe service was just as impressive. Staff were friendly, quick, and made me feel genuinely welcome without rushing me. Another easy 5 out of 5.\n\nThe only slight knock was the atmosphere — it was clean and casual, but nothing particularly memorable or stylish. I’d rate the vibe a 3 out of 5.\n\nStill, the food and service more than made up for it. Definitely a spot I’ll be coming back to whenever I’m craving great tacos in Tribeca."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxTlp6TllYMlV3U1Zkc2REbDVMWEZRZGtaQlRtYxAB",
+            "text": "We got the adobada at Los Tacos No. 1 and it did not disappoint. Juicy, flavorful, and packed with that perfect grilled pork, there was some crunchy charred part and that made it extra good. Definitely something you want to eat right away, the meat is so juicy it can soak through the corn or flour tortilla if you wait too long.\n\nProbably not first-date food unless you want to impress them with your skills in slurping taco juices and trying to finish it all in one bite. It's that good.\n\nThey provide lime and salsas on the side if you want to add a little extra flavor or texture. I went with some lime and pico de gallo, and it hit the spot."
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kVFdXSlhhVzlHTmtWUFpEWTNVRVJQU1dZNWNGRRAB",
+            "text": "Definitivamente los mejores tacos que he comido fuera de México. Tienen trompo y lo típico de cualquier taquería, hasta una salsa que “si pica”. Súper recomendados."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pjNVRuTnBWalkzU1haVGVrUllXSEZaWjNkeWFGRRAB",
+            "text": "everything we tried was absolutely exceptional! best tacos in the city. service was quick and friendly and loved that they had accessible sauces and toppings! 12/10"
+        },
+        {
+            "date": "4달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psa1JuRlBZVTlaWVV4YVdscFFPVlJ2TWtOTlFWRRAB",
+            "text": "Sehr leckere Tacos. Frisch und schnell zubereitet mit einer mexikanischen Würzung. Für jeden der es etwas schärfer mag ist der Saucenstand zu empfehlen."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WV1JHTnhXbk10TVRKNFZucFVWbE5MZUdkT1dVRRAB",
+            "text": "We liked the tacos and didn’t have to wait for a long time. However the sauces were too spicy for our taste."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKU1dWZE9UVXBITm5sUFkycFpXVlZZUlRCbmFYYxAB",
+            "text": "I stopped by Los Tacos on Church Street yesterday and had a great experience! The food was fresh, flavorful, and made with care. The tacos were packed with delicious ingredients and had that perfect balance of spice and texture.\n\nThe staff was friendly and welcoming, and the service was quick even during the busy lunch rush. You can tell they take pride in what they do. I’ll definitely be coming back soon—highly recommend if you’re in the area and craving some real, tasty tacos!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmcW82WW1nRRAB",
+            "text": "It’s amazing.\nFast service, a lot of staff cooking and cleaning.\nThey don’t waste time at all.\n\nTacos were excellent, fresh and good flavor.\nI wish the tacos could be bigger portion.\nIt’s pricey for the portion they served."
+        }
+    ],
+    "reviews_count": 93
+}

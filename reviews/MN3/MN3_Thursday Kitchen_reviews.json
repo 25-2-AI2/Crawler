@@ -1,0 +1,593 @@
+{
+    "name": "Thursday Kitchen",
+    "place_id": "ChIJVyFicJ1ZwokR2oIygOmovWw",
+    "grid": "MN3",
+    "address": "424 E 9th St, New York, NY 10009, USA",
+    "rating": 4.6,
+    "user_ratings_total": 1374,
+    "phone_number": null,
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoMFZEWktSVlJHTUdoUmVYSXlSVzR0YlZoR1JWRRAB",
+            "text": "Amazing food, crowd, service, and ambiance. The Yuzu tonic was exceptionally good, and the flavoring for all the meals was strong but not overpowering. Great place!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0Mk5ETXRibDlXUjBReFlqVXdObXREZGxwelVtYxAB",
+            "text": "Nice environment, easy to talk to my buddy for his birthday. The service was very casual but the place really shone with the flavor. Small but powerful portions that are good to share. The steak is a must try"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1UVIzcFdiVXBuY0ZOTWVVeEVaSFk0T1doR1RYYxAB",
+            "text": "This place is a hip spot in East Village. We found some dishes to hit better than others. Our favorite dish was the steak. The noodles were also great."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0alkyOXpMVk01Y2psMVYxb3lOalpoZURGWGJFRRAB",
+            "text": "Very fun vibe that makes it a great night out or date spot - food is good but not that amazing. Still worth checking out but the wait can be long - about an hour for 2 people."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kVFoyVnpTV050TTI1eFZFZE9SVE10UlZCb2MzYxAB",
+            "text": "This place is fantastic! Every dish we got was delicious, the wine was great and was a generous serving. Highly recommend the Mac and cheese, the popcorn chicken, and the asparagus."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205NVgwbFRNbFl6VHpSU1J6RTNUMWwyU21sVFNIYxAB",
+            "text": "We loved it! We got 5 shared places and 1 dessert along with sangrias. The staff was very considerate and let us dine in late as well. 10/10 recommend"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2cF9lVFZnEAE",
+            "text": "It’s goated because it’s walk in only so you know you can go on a Saturday and wait 30 min-1 hour to be seated - I would take this over an incredible restaurant that is literally impossible to get a reservation at (which is pretty much every good NYC restaurant). This is probably my most visited dinner spot in NYC because it’s an easy walk in in EV.\n\nThe food itself is phenomenal. My favorites are the edamame dumplings and soft shell crab. The popcorn chicken is the best bang for your buck. The steak is good too but I haven’t had it recently. I don’t think they have a liquor license so they only have soju cocktails and Asian beers.\n\nVibe of the place is great. Staff are friendly and do what they do well. It’s always crowded and pretty packed without feeling uncomfortable."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oSU9WOTBhREo0TjI0elgwcEdWbTA0Yms5dlpuYxAB",
+            "text": "The food was very tasty, we had chicken, steak, edamame, spicy noodle and a desert. The food potions are ridiculously small and yes overpriced for what you receive, because I cook a variey of food it would be nothing to duplicate what we had.  If anyone is vising NY I will recommend Thursday very light lunch snack the food is not heavy at all."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sUVoycE1NalZRYVdvMFJYTjFkWE5VUkhwbVIzYxAB",
+            "text": "Absolutely incredible! will be going again"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1bFVHbFNVRlpNTjFKU1FtZERaRFJPWkVaQkxVRRAB",
+            "text": "Girlfriend got sick and the only good things were Mac and cheese and chicken"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWcVoxVm9aRVJxTjA5cWNuaEZaR3d3UkMxSFlrRRAB",
+            "text": "Extremely average food. We ordered the edamame dumplings, steak, fried chicken, noodles, and the ugly potatoes. All were not memorable."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxaVlVNHRRVzE0WWxGa01WSnNUa3BZTUhOdFVXYxAB",
+            "text": "Went for my birthday with my wife and every single bite was incredible! Vibes were immaculate and service was as phenomenal. Will be coming back as many times as I can!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCb1EzZzRXV0Y2ZEdNd01VeENaV2hsYm5WWVkxRRAB",
+            "text": "Great time!!! Good vibes!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOU1pFeFpZMU42T0daaU16SnZTM2syYlc5MU9FRRAB",
+            "text": "The food was bad, there is a tomato dish that just raw tomatoes piled up, we didn’t touch it. I think there is a hype and maybe we ordered wrong stuff but I didn’t like it"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkZmRXa3diMFpuZUZWaFNWbFNZM0Z0UjFveFdIYxAB",
+            "text": "Food, service, drinks all spot on. Had food night"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKVFNFWkVOemxsTkhWSlozQnZORmxwVkhCc00yYxAB",
+            "text": "Food is good. disposable drinkware and gauche single use lightup cocktails are a joke at this price point though"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSM1VIRTNXak5MZGpKa1Myb3llbTFtT1Rkb1VuYxAB",
+            "text": "Really enjoyed the food here but the night was completely soured by the hostess coming to us at the end of our night saying “there is another party waiting for our table” and “we ask you to please respect the other people that are waiting for this table.” Completely uncalled for - we had just paid literally minutes earlier and were never told we had to leave by any specific time. We hadn’t even sat for 90 minutes! Unbelievably rude and just totally ridiculous, will not be returning."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CS1JsZFhia3N0YTNKQlYwc3dhMVk1UmtGc2RWRRAB",
+            "text": "Edamame dumplings and paella were *chef’s kiss*"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKc05HUkJaVFpQYlVWT1UwRkdXR0ZGUzNGV09IYxAB",
+            "text": "Outstanding food! Each dish was interesting and delicious."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5QlYxWjFTVkZZVUhselgyazRhVE4yUkUxeE4zYxAB",
+            "text": "The mac, dumplings, crab, potatoes, and popcorn chicken were excellent. Service was efficient and nice"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25JdFRFSkhOVGxWVFUxWWIxWnRRa3hMVUU5T1kwRRAB",
+            "text": "Amazing experience at Tuesday kitchen.\n\nThe place is walk in only but we were lucky and got a table for four after 10 minutes of wait on a Saturday night around 8 pm.\n\nThe menu only contains small dishes. We got almost all the dishes in the menu. Everything was truly great. The ones I liked the most were the beef noodles and the mac n cheese. They are truly amazing. The one I liked the least was the fried crab but it was still pretty good just a bit plain compared to the other dishes.\n\nService was also very good, waiters were very nice. The atmosphere is dark and nice too.\n\nOverall I’ll definitely try to come back just hopefully get lucky again with the wait time."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvMVgzWnpUamt6U0U4NFVtbHRTMUV0UjFOS1YyYxAB",
+            "text": "Was walking in for a quick drink, didn't realize the food was the real star of the show. The Steak was 10/10, cannot wait to try the grits again."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwMlYydEJXVEJSV1hKb1NUbFhRMFkzUlZWSlltYxAB",
+            "text": "This place is a total hidden gem. I went early in the afternoon and got a table right away, but since it’s small, I’m guessing if you go later in the evening you might wait 15–30 minutes. The staff is super friendly and the vibe works best for small groups.\n\nI tried the edamame dumplings first, they were fine, but probably not something I’d order again. The truffle mac and cheese, though. Unreal. Creamy, cheesy, and basically swimming in a glorious cheese pool. It comes with broccoli, which gives it a nice little crunch, I actually wish there was more of it, but honestly, it was perfect either way. 100% a must-order.\n\nI grabbed one of their non-alcoholic drinks too, it comes in a pouch with a little light at the bottom. Super fun touch.\n\nI didn’t get the Korean popcorn chicken, but other tables did and it looked amazing. Pretty sure that’s happening next time."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCeU9Hc3lWMmt4TmxaWlVHZFFXVUpwWWs1V1VuYxAB",
+            "text": "Service and food were great. Highly recommend the popcorn chicken and the dumplings"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoSFoxTk9XVjgzYjFaclkyRm1SMTlLVmxSdVpFRRAB",
+            "text": "My favorite spot in the city"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xZmVVMXBiRFpOTm5oYWRtOURia1Z3Y1U5VVlVRRAB",
+            "text": "Great korean fusion spot. The truffle Mac and cheese might be one of the best I’ve ever had. Noise level was very high though, it felt like I had to yell to talk."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5UVptNHdlVlF0TlZsNVZrNUZPVWhMYm1sRlQzYxAB",
+            "text": "Food was great. Loved that it was tapas style. However, it does get very noisy in there."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGaVlWWmZjM0kyY2xWNU1WTXRjREJGYTB0eFMzYxAB",
+            "text": "Very interesting fusion Korean with Spainch and French. It was very surprising, however, that they could make it taste like Korean a lot, unless many other fusion Korean. walk-in only. This is a tapa place so portions are small. 2-3 dishes per person maybe needed."
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kTlZFTTVOM0Z0UTBkTExWOUthR1YwTFRKUVptYxAB",
+            "text": "Thursday es uno de esos lugares que solo conocen los locales y que los turistas que buscamos salir del circuito típico apreciamos mucho.\nLa cocina es una mezcla de comida asiática con un toque mexicano. Son platitos ideales para pedir varios y probar. Los mini (realmente mini) tacos de tuna, ricos. Pero los aplausos se los llevó el Korean popcorn chicken, me voló la cabeza. Con un side de arroz, hubiese sido perfecto.\nEl ambiente del local es el punto débil. Jamás había estado en un restaurante tan ruidoso. Todos gritaban y parecía un verdadero gallinero. La experiencia en general se vio afectada por esto (acústica a mejorar); también por la larga cola para acceder a un único baño, unisex y compartido con los empleados."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCUVZrbEJNVzlKV1ZoMGMwRkxTM1l3YVUxaVNVRRAB",
+            "text": "Amazing taste, atmosphere and service 👌"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMQ29zcnlUeHBQRkh3EAE",
+            "text": "such a great spot! we went on a wednesday around 7 pm and there was no wait (this place can get pretty busy on the weekends) you must try the popcorn chicken and steak, but honestly everything on the menu looked fire… definitely going to return to try more!!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJX2lwSTdod2Rid2VBEAE",
+            "text": "This is definitely not a korean restaurant and the fusion lacks a lot on the real korean spices, unfortunately. The best dish on the menu turns out to be the mac & cheese with truffles..\n\nWe had edamame dumplings (alright - not amazing), tuna tacos (alright as well), aspargus (missing a korean spice flavor) and the mac&cheese (the best dish).\n\nI think its one of those “hype” moment restaurants in NYC. Expensive and not worth it, to be honest."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOZTg3cHp4NWYyVzNBRRAB",
+            "text": "Great suggestions, awesome food. Would definitely go back!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZak1HSnl3RRAB",
+            "text": "food is great but too noisy"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNveDctV3lRRRAB",
+            "text": "Food - 3/5 average tasting food that you can get at a food court\n\nPrice - 5/5 me and wife ordered 5 things plus a beer and paid a smidge over $100, cheapest date night we’ve had in a while.\n\nVibes - no score on this since its subjective. College vibes, plastic cups, light up drinks in a bag, loud music."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJXzhUalhREAE",
+            "text": "Perfect from start to finish! Friendly and attentive staff, delicious food and great value for portions. A favorite of ours!"
+        },
+        {
+            "date": "6달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJN3VQekdBEAE",
+            "text": "Bedienung war unglaublich freundlich und aufmerksam. Essen war exzellent, spannende gerichte und gutes ambiente.\n10/10 recomend!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJeVBPRXF3RRAB",
+            "text": "Wow! My boyfriend & I spontaneously came into this spot last night and I am so happy that we did. The food was extremely delicious and so memorable.\n\nWe got the asparagus (garlic heavy and so delicious) plantains (the portion was so incredibly small but so yummy and Im a goat cheese hater) tuna tacos, and the steak was the star of the show. The glaze on that steak was superb with the grits *chef’s kiss* they sent us chicken on the house (thank you!) it was a great addition to our meal.\n\nIf we are ever in the area again, we would def wanna try more plates. My only qualm was the plastic water cups💭"
+        },
+        {
+            "date": "6달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJd01uVE13EAE",
+            "text": "Sehr leckeres Restaurant und netter Service"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJMy1YYWZREAE",
+            "text": "Great food, service and drinks! Shared 6 tapas between 2 people and it was the perfect amount. Wait times can be a bit long on weekends, plan to put your name/phone down and go to a bar to wait. Had to wait 45 minutes to get seated."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJaF82LUhREAE",
+            "text": "Small plates that are incredibly tasty, loud atmosphere, but totally ok since the food is amazing. The steak was the best!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJX2Q2bjV3RRAB",
+            "text": "The food was delicious. Two dishes will be filling, but if you haven't eaten three will do, and you won't be disappointed. Pretty trendy, it can be packed and was on the noisy side."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJN01QQXZRRRAB",
+            "text": "Insanely delicious food! 10/10 every time. When I lived closer to Thursday Kitchen I’d go regularly. Now that I live farther I still like to visit when I’m in the area.\n\nGreat, amazing food and solid service. The quality speaks for itself. Great options across all my visits:\n- Edamame dumplings\n- Seafood paella\n- Lucky noodle\n- Truffle mac and cheese\n- Korean popcorn chicken\n- Steak\n- Duck empanadas\n\nThey try to fit a lot of people in a small space so the tables are nearly glued next to each other. You won’t have privacy for your conversations but it may not matter because you’ll be occupied with the delicious food and drinks!\n\nPrice-wise, it’s probably more than you’d like to pay for the portion sizes… but since the food is truly that delicious it’s a splurge worth going for once in a while. Enjoy!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJcktuV0F3EAE",
+            "text": "The food tasted wonderful, but the portion sizes were criminally small. I spent $70 and left hungrier than I came in."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJOEp1bnpBRRAB",
+            "text": "Overall rating: 4.4 - 4.6\nPrice: $66 w/ tip\n\nI’m so torn about this rating that it has to be range. When I walked by during the week, the place was empty. So I understood why they only do walk-ins. However when I arrived on Saturday at 6, it was crowded! I was the last one to get a table but not sure if “table” is the right term. Maybe a makeshift table. I was seated next to the door and it was freezing. And being so close to the door, I had people waiting literally next to my seat. I’ve never felt so unseen as a solo diner. Items I ordered:\n\n- plantain: 4/5 good\n- Edamame dumpling: 5/5 great, but wish there was more portion\n- Tuna tartar taco: 1/5 not worth it\n- Popcorn ice cream: 1/5 I don’t know why I thought this was literally popcorn ice cream. No, it’s popcorn on ice cream.\n\nUnfortunately, I found myself at another fusion spot without realizing it. The service was okay. Not the best, not the worst. The seating was my biggest turn off & likely won’t be coming back. If you’re going with a group of 3 or more, I recommend."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3NXZqYWFREAE",
+            "text": "The truffle mac and cheese is to die for!! Also loved their lucky noodles! Honestly can’t go wrong with anything on this menu. We ordered the steak and chicken as well which were both great too!! No pics of the dishes because we instantly filled out plates before we could think of it. These dishes are designed to be shared and are appetizer sized by the way"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3azl1VVVnEAE",
+            "text": "Okay I love Thursday Kitchen and there's no denying the food is delicious. Go in person, cannot recommend it enough!!!\n\nBut DO NOT ORDER TO GO.\n\nThis photo may not show it but look at the size of my hand... I have a normal sized hand. The amount of grits they offer in the to-go is smaller than the sauce container. Less than spoonful. For the price, it's crazy."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnOFllLVFBEAE",
+            "text": "I literally don’t come to NYC without coming here. It’s my favorite restaurant in the world. Worth it to fly here just for this. No reservations which I love. Salivating just thinking about the edamame dumplings and steak. Love this place so much."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnaXZyZkZBEAE",
+            "text": "One of the best restaurants I’ve been to in Manhattan. The food was fantastic and reasonably priced for the portions, quality, and neighborhood."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnN19pTjNRRRAB",
+            "text": "I love the variety here! Good service, fun drinks, and an entirely tempting menu."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUROcjVYXzJnRRAB",
+            "text": "I like Thursday Kitchen so much. It is one of my favorite restaurants in the city. Since the portion sizes are small, my friend and I ordered Cheese Macaroni, Kimchi Rice dish, Asparagus dish, and steak. However, we should have asked for all the dishes to be served at once. The asparagus dish would have been perfect with the steak, and we couldn't stop talking about the kimchi rice as well. I know this is a typical Korean way to have a meal. The asparagus sauce had a taste of Ssamjang, and the steak sauce reminded me of the Korean Galbi sauce. Maybe that's why I kept thinking of having them all at once. But the macaroni is surely an appetizer thing. 김치빠에야와 스테이크, 아스파라거스 너무 맛있고, 조합이 너무나 좋은데 따로 나와서 너무 많이 아쉬웠어요! 물론 다 맛있지만 더 맛있게 먹을수 없었어서 슬펐습니다 ㅠ 다음번에는 같이 달라하려구요..가능하길 바라며..ㅜ"
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURneHItTy1BRRAB",
+            "text": "Had sunday lunch here. I heared this place is very raising Korean foods place in NYC and it is. All of foods was very delicious and beatiful. Different flavors mix and mach well. I could enjoy lots. I had lots of dishes and it was well good. Will come back again. Song’s R - Truffle mac & cheese, short rib rice.\n\n이스트 빌리지의 핫한 한국 음식점, 셰프가 트렌디한 한국 컨셉의 음식들을 준비하고 있음. 모든 음식의 예쁘고 맛깔남. 트러플 맥앤치즈, short rib rice 맛이 참 좋음."
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNNd1piMVJBEAE",
+            "text": "여행하면서 처음 웨이팅했어요\n혼자 다녀서 테이블바에서라도 바로 먹었거든요\n인기많아요 실내분위기 접객도 매우 좋았어요\n검은색옷입으신 여자매니저분이 정말친절했어요\n따뜻함 느꼈습니다\n\n우나기타코,트러플맥앤치즈 먹었는데 아이디어도 훌륭하고 구현한 결과물도 정말만족하면서 먹었습니다.\n\n캐주얼한분위기 한식터치원하시면 꼭 방문해보세요"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYbzliaGRREAE",
+            "text": "맛있어요! tuna taco and steak 😍"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwMHBTejdnRRAB",
+            "text": "한 달에 한 번은 꼭 가는 식당. Dumplings, eel taco, gnocchi, steak는 꼭 먹어보길."
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVbXZMOXZ3RRAB",
+            "text": "트러플 맥엔치즈 ... 한국에 와서도 계속 생각나요 ㅠㅠ"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBNUpUU0N3EAE",
+            "text": "Really delish Korean tapas type restaurant. The edamame dumplings were perfect entities. The tomato salad cheese thing was very fresh. Solid vegetarian options. The deconstructed tacos were really yummy too.\n\nIt’s a quaint little restaurant. Great lighting, very cozy. Not too busy for a Monday night.\n\nThe touches were very nice… however… they do water in a plastic cup. Which is crazy I think? For a $40+ meal.\n\nI didn’t think the tapas were that exceptional - I could make something like it at home - but they were nice, in a nice atmosphere.\n\nTruffle Mac n cheese was homey."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIeVl1aXZRRRAB",
+            "text": "Recently came here for the first time for a date night and we absolutely LOVED it! I appreciated the server we had who explained the concept of the restaurant to me (since it was my first visit) and i appreciated the servers that followed who instructed us on how to get the most out of each dish. The soju cocktail I had was delicious and the dessert at the end was amazing! Wasn’t a fan of the seafood paella, but my favorite dish by far was the Korean popcorn chicken! Felt a little rushed towards the end, but it’s a small place that sees a lot of traffic, so I understand the time limits.\n\nWill definitely come back another time and try the other meals we didn’t have!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmMjhhTXNnRRAB",
+            "text": "I can’t believe it took me three years to discover Thursday Kitchen—hidden in plain sight all this time! And yes, I went on a Thursday—how fitting! Top that off, we got a table without a wait, though by the time I left there was a long line outside (picture 2). Rain or shine, this place draws a crowd for a reason.\n\nNow let’s talk cocktails—oh my goodness. Glowing soju cocktails at $15ish, they’re a steal for their strength and the vibe they add to your night.\n\nWhere do I begin about the food! Truffle mac and cheese, creamy and decadent, with every bite more indulgent than the last. The gnocchi? Pillowy perfection that melts in your mouth. And the dumplings—let me just say, ‘delicious’ doesn’t even begin to cover it. Add crispy fried chicken to the mix, and you’ve got a spread that feels like a greatest hits album of comfort food, each dish an absolute showstopper.\n\nThe best part? The sharing concept. This isn’t just a meal; it’s a bonding experience. Every dish we ordered became an excuse to laugh, rave, and—let’s be honest—fight over the last bite.\n\nHere’s the deal: Thursday Kitchen doesn’t take reservations, and they won’t seat you until your entire group is present. So if you’ve got that one friend who’s always ‘five minutes away,’ plan accordingly. But trust me, the walk-in-only policy is worth it."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwdHAzOTBBRRAB",
+            "text": "went with a group of 5 people, walked in when they opened, got seated immediately! we were advised to order ~3 dishes per person since they’re tapa style, which we did.\nwe got soft shell crab, truffle mac and cheese, steak, kimchi paella, tuna tartar taco and most of their dishes to try. my fav was the steak and truffle mac and cheese! came here for the soft shell crab and it did not disappoint. would recommend the adult capri suns as well!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfM2NTRDJ3RRAB",
+            "text": "It’s a fun spot for dinner before a long night out - loved the soft shell crab and KFC here. Drinks remind me of caprisun which are sinfully addictive. Space is cramped and walk ins have a long wait but if you get lucky, you’ll have a great time here."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2NEtDZUNnEAE",
+            "text": "Please get the edamame dumplings!! The best thing I’ve had there. Service was quick, and the food was pretty good. Took one star off because my friend didn’t like her truffle mac & cheese and I wasn’t a huge fan of the lucky noodles, but I will definitely go back and explore more of the menu. Nice atmosphere, but it gets crowded and loud quick."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNadjhubVJ3EAE",
+            "text": "This place is amazing! When we came it was crowded but we didn't wait a minute since they have availability at the bar. Service is very polite, helpful and even being crowded they are on the point. Food is amazing. I don't know how to put nice words for the food. The menu is small so you can have more plates and share food and in that way you can try as much as food you can. Truffle\nMac and cheese is very differently prepared than regular one.  Tuna tartar- delicious. Chicken as well. Pop corn ice cream WOW. Definitely worth visiting this place"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSdExmbm1BRRAB",
+            "text": "Love this place. It was my second time dining here.\nPopcorn chicken 4/5💛 really nice flavor, love the sweet glaze and the chicken is juicy and on point\nSoft shell crab 5/5💛 really nicely cooked. The inside is soft and juicy and outside is crispy. The only reason is not 5 is because it’s lacking a bit flavor\nKimchi paella 2/5💛 didn’t really like the fishy taste. The server told us that but wanna give it a shot anyways😿\nDuck confit empanada 5/5💛 really surprised us, love the white sauce combination and the filling is super yummy\nAngry potatoes 4/5💛 pretty crispy\nTruffle Mac and cheese 1/5💛 a let down for me, I love truffle flavors but I can’t taste any and  the Macaroni is super soupy\nEdamame dumplings 3/5💛 a bit disappointed as well, the filling is not enough. I think the corn dumplings from Mokyo is much better.\nGnocchi 5/5💛 my fav dish among all! Love the sweet gocchujang sauce."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtNU1PdUZBEAE",
+            "text": "Good food and vibe but not worth the hype! The truffle Mac and cheese was the best thing to me but none of my friends liked it, they felt it was more of a soup and too heavily relied on the truffle flavor. The general Tsos chicken and the steak were the crowd favorite for sure, highly recommend those dishes. The soft shell crab literally tasted like nothing but oil and the noodles were covered in raw onions and Mayo which was definitely not my thing. The gnocchi was pretty solid and the tuna tartare tacos were pretty good too. The empanadas were just ok. And the tomato salad was decent. Definitely worth a try but I would go out of your way to eat here for a special occasion!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzellhT293RRAB",
+            "text": "Great Korean tapas experience at Thursday Kitchen. In total we got 9 dishes, here’s what I think:\n\nHeirloom tomato - do not recommend, they’re just whole tomatoes with a tiny bit of indistinguishable sauce\nEdamame dumpling - 9.5, flavorful, unique, great texture\nUgly potato - 7/10 crispy and tasty, but cheese was too bulky and hard\nChilaquiles - not very Korean but absolutely fantastic, highly recommend.\nSoft shell crab - tasty, but have had better\nKimchi paella - do not recommend, it just didn’t hit like I expected, and I had to do a lot of work for my shrimp\n\nTruffle Mac and cheese - 10/10 highly recommend so light, cheesy, and truffly and im not even big on Mac and cheese\nKorean popcorn chicken - very tasty and perfectly moist chicken bites\nSteak - perfectly cooked, tasty, both greens and grits were delicious"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwMkxhNl9nRRAB",
+            "text": "Baseline, I think the food here is all pretty solid. Feels like a nice date spot with good vibes. But there was no real standout dish for me, and I ordered the more popular items on the menu. The capri-sun alcohol drinks also felt a little too gimmicky for me. But with all that said—I’d still come again to try the other items on the menu."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGcjlqQUxBEAE",
+            "text": "An interesting Asian fusion tapas spot! The tuna tartare tacos were the highlight of the dinner – finely cut tuna with a perfect yuzu aioli pairing. The truffle mac and cheese, crowned with a slightly burnt cheesy top, won my friend’s heart. The Korean popcorn chicken, while tasty, leaned more towards sweet and sour Chinese style than Korean flavors. The kimchi paella was decent, but missed the crispy rice bottom and robust seafood taste. Overall, fantastic food!\n\nOne caveat: the timed dining felt a bit rushed; 60 minutes to finish it all was a challenge for me…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwLVluRUVREAE",
+            "text": "Really yummy tapas for a reasonable price! We loved the tuna tartare tacos and heirloom tomatoes! The textures and flavors for both of those dishes were 6/5 stars! The chilaquiles were also a nice addicting snack. Steak, kimchi paella, and truffle Mac and cheese were also solid. The edamame dumplings were amazing flavor-wise but the texture was just mush because the filling had the texture of baby food which felt really odd. I’d skip on the capri-Thursday drinks. The lychee reach rich tasted surprisingly alcoholic and it didn’t really pair with the food.\n\nWould definitely recommend this place to anyone. The inside starting filling up around 6 on a Sunday night but the outside still had plenty of tables open at 6:30."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPMHJ5bE9nEAE",
+            "text": "We were seated super quickly and the service is really speedy as well. Staff are nice and our waters were always kept filled. The menu items are small and very expensive but really good. The edamame dumplings were the only item that was actually worth it, and maybe the kimchi paella."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1ek9PekNREAE",
+            "text": "The girl I started dating called this “her favorite place” so she took me to try a few things. I was seriously impressed. The kimchi paella was good, the steak was fantastic, the Korean popcorn chicken was also awesome, but the best things were the gnocchi and the dumplings. The dumplings have such an incredible flavor that is enhanced by the citrus truffle oil. It’s seriously outrageous. Lastly, the gnocchi. It was so good that if it were socially acceptable I would’ve sipped on the broth. Outstanding place."
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXZ2I3amxRRRAB",
+            "text": "Great gem with delicious fusion food (Asian with a mix of other cuisine like Spanish). The meals always deliver and are very tasty. Also their prices are good and not outrageous, which is a definite plus.  This place is usually very popular so get there early if you can. Really love their truffle Mac and cheese, edamame dumplings, and the steak. But everything was delicious."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5N09QSWlRRRAB",
+            "text": "My new favorite Korean place! Korean right? Anyway let’s talk about how amazing is the mac n cheese, every single bite was glorious. I also had the popcorn chicken, kimchi paella and steak. All of them delicious. Our server was very charismatic and nice. Last but not least, great atmosphere."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhZ00zTG13RRAB",
+            "text": "AMAZING experience at Thursday kitchen!!\nWent with some friends and was so looking forward to it. And what can I say: they delivered.…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4OU1pLU5BEAE",
+            "text": "I was recommended to Thursday kitchen by a good friend. I came with 2 other friends a bit before 6PM when the restaurant just opened.\n\nFood: We ordered almost one of everything. We absolutely loved the truffle Mac & cheese 9/10. Unfortunately most of the other dishes were pretty disappointing, including the recommended edamame dumplings. 3/10\n\nDrinks: the capri were quite fun and have a light inside 6/10\n\nAll in all we dropped a couple hundred and honestly the food was overrated. I probably would not come back again."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURWcHRIdUR3EAE",
+            "text": "This place was not bad. I wish the menu had more straightforward descriptions about its items, for example the gnocchi in spicy and sour sauce was essentially a gnocchi tteokbokki. It has an innovative spin on Korean flavors and ingredients, however I found the execution not the best. Tuna tartar had dill in it but it was not listed as an ingredient on the menu."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpLWZYQXZRRRAB",
+            "text": "The food at Thursday Kitchen was amazing.\n\nWe came 30 min early, because a friend told us it's getting crowded and they have a first come first serve policy.\n\nFirst we ordered their cocktails which are tasty and strong. They have different varieties you should try. Once the food came Wer felt like being in heaven. Each dish was amazing. They do a great fusion of the Korean cuisine with different other cuisines.\n\nThe service was all the time friendly and helpful. It was all over an amazing experience and recommend everybody to have eaten here at least once."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4M3R5d0dnEAE",
+            "text": "underwhelming and overpriced—save your time and wallet and don’t fall into the hype trap.\noverall, the food at thursday kitchen is not actively BAD—but it leaves a lot to be desired. went with a group of friends for thursday dinner and ordered the gnocchi, steak, edamame dumplings, tuna tartare tacos, korean fried popcorn chicken, kimchi paella, and the bread pudding. the best thing was easily the edamame dumplings, followed by the bread pudding; nothing else was impressive at all (details below). the service was fine, though a bit on the slow side—and there were big gaps in the timing of when the tapas came out. this would be fine if it was relatively consistent (im not expecting everything to show up at once), but it was like we were eating one dish every 8 minutes and then at the end, 5 dishes all at once. finally, the price per portion just adds salt to the wound, which is why i feel like this place is not worth the time—there are SO many better restaurants to eat at in new york, or even Just in east village, that will offer better flavors, portions, prices, etc. compared to thursday kitchen.\n\ndish breakdown below:\n\ngnocchi: this dish has ddeokbokki inspired flavors, which leads to disappointment when you realize how PUNY each gnocchi is—meaning you get about 1 satisfying chew before the piece is completely chewed through in your mouth. on a similar note, the ingredients ratio is way off, with the gnocchi swimming in the sauce (it looks like a soup when it’s served), and about an equal amount of onions as gnocchi in the dish. dont get me wrong, i like onions, but come on.\nsteak: one of the better dishes for sure, but nothing that makes it special\nedamame dumplings: again, probably the most delicious thing we ate! only complaint is the portion size, even with it being a tapas dish.\ntuna tartare tacos: tasted fine but felt very in-cohesive with the rest of the meal. the tuna filling alone also was very mediocre; the tacos were saved by the dipping sauce (which should never be the case with raw fish :( )\nkorean popcorn chicken: yummy, but over priced for what it really is (just like a sweet and sour chicken dish)\nkimchi paella: this one made me sad because there was SOO much potential with this dish—but again, the flavors were not cohesive at all. you had the very fishy taste from the seafood and then it just felt like they smacked the kimchi in there for fusion purposes—the dish had no flavor body, it needed something more savory in there. also, -1 star for the uncleaned shrimp 🤢.\nbread pudding: objectively delicious, actually no complaints here (but sad that an uninspired dessert was the best part?)."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCdnJyYURBEAE",
+            "text": "I absolutely recommend this place for a dinner with friends. We got the paella, soft shell crab,Mac and cheese, asparagus,dumplings, noodles,  pop corn chicken, ugly potatoes, steak and empanadas . My favorite was the Mac and cheese, steak, popcorn chicken, noodles, and the paella. Every dish was so well done and had tons of flavor. The Mac and cheese was creamy and cheesy but had the perfect burnt cheese on top with the truffle oil that shines. The steak is cooked perfectly and served with a sweet honey sauce that taste perfect with the crunch kale on the side. The service was amazing they were so attentive, friendly and helpful. The chef even gave us an extra empanada to accommodate the group. The food was very affordable and well priced. I recommend coming with lot of friends so you can share and try lots of the dishes. We also had the strawberry, yuzu, and blue drink which were all very fairly priced I preferred the strawberry but all were equally as good. Come early to skip the line and come hungry!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNabmFQT293RRAB",
+            "text": "If you're lucky enough to make it here on a Monday or a Friday, Thursday makes it feel like the weekend.\n\nGot the chance to try Thursday Kitchen out this weekend as apart of a tour de food with my sister, thanks to her suggestion. The atmosphere is cozy and warm. You as the customer take the main stage, the architects knew this, the staff knows this and if you have half a brain you'll be able to figure that out by attending. It's tight, cramped even. So much so that by even standing in line for the bathroom will open your eyes to how much your presence is missed at the table - and an impedance to those who aren't!\n\nThe food is great, it's a homage to more cultures than it isn't. I had a half bottle of Man's Mountain sale to wash it all down and I wish you the same. We had the corn salad, which was great! It will wake you up, a big refresher for stale conversation, a dish that will have you pleasantly surprised with the small walnut crumbles inside.\n\nThe Tuna Tartar Tacos were so mid I can't recommend it. I can't stress this enough. If they were to beef up the shell to a fried milk bread in place of the taco shell, they would have yet another banger item on the menu. Alas, we have a starch that hinders the tuna from getting into your gullet.\n\nWe followed that up with the Truffle Mac n Cheese. It's a powerful dish. Personally I love me some Mac and cheese. I also will lose my mind at the mere essence of truffle in my direction. If you are anything similar to me, you gotta grab this bad boy. The menu said there is broccoli involved in this dish, I couldn't see or taste it - but I'll take their word.\n\nLastly, we snagged the Steak. It's ok. The sauce is amazing. The greens were serviceable. The winner of the dish? THE FETA GRITS ON THE SIDE. Please god let me get that recipe, I'll become friends with anyone I whip that up for.\n\nGrab yourself in a line asap."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQxOWJQNzhnRRAB",
+            "text": "A cozy spot in East Village, Thursday Kitchen differentiates itself from the many Korean restaurants in NY by serving Korean-style tapas and juice box drinks in a casual environment. It’s a fun spot to share good food and try a variety of flavors.\n\nAll the tapas we tried were great. My two favorites were the edamame dumplings with a delicious creamy filling and the lucky noodles with good bounce and a kick of spice. The dishes all leaned acidic though, and some could do without the squeeze of yuzu/citrus.\n\nThe service and atmosphere were both solid. The space is a bit crammed though and there is a scent of truffle that fills the restaurant. It smelled good but perhaps they need a bit more ventilation.\n\nIt's relatively easy to walk into and overall a good pick if you're looking for something more unique than BCD Tofu and more casual than the contemporary Korean spots in the area."
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNM2ZfS1pBEAE",
+            "text": "***No reservations. It is best to arrive 20-30 mins prior to opening to ensure you get a seat. The place fills up very quickly for dinner.\n\nI remember reading about their Adult Capris originally and thought that was an interesting idea and that was what made me visit. They are soju infused drinks that each have a different flavor and come with a light up ice cube. Thursday was the first place in NYC to have such a drink and it is their most popular draw in addition to the great food.\n\nBut then I was floored by their menu selections. This is a Korean fusion establishment where Chef Kay offers dishes partly based upon her travels. The menu is divided up into four parts. I have tried every single dish during my multiple visits so I will mention / highlight some outstanding recommendations.\n\nVEGGIE\n\nOne of the newer dishes that was not there during my original visit is the NOT SO PLAINTAIN (pan seared sweet plantain, Korean chimichurri, honey ricotta, roasted pistachio and dried cherry). This was recommended by the manager when the menu was updated and they kept it on ever since. This was inspired by a trip to Spain and is most certainly one of my favorites.\n\nThe EDAMAME DUMPLINGS (steamed, citrus truffle oil, green pepper, parmigiana) are very unique in that no other restaurant or establishment offers it.\n\nSEAFOOD\n\nThe favorites are the EEL TACO, KIMCHI PAELLA, TRUFFLE MAC & CHEESE and the SOFT SHELL CRAB. Each dish has its own unique look and flavor that is aire to please.\n\nMEAT\n\nThe top choices here are (but not limited to) the STEAK (served with sautéed kale and feta grits), POPCORN CHICKEN, LAMB MEATBALLS and DUCK CONFIT EMPANADAS. Certain dishes like the steak take at least 20 mins to prepare as each dish is made to order.\n\nSTARCH\n\nThe LUCKY NOODLES are spicy and the GNOCCHI offers up Chef’s version of the popular pasta.\n\nDESSERT\n\nI always save room for dessert. Hands down the POPCORN CARAMEL ICE CREAM is a personal favorite that has always been on the menu. Salted caramel with popcorn will have you licking the plate clean.  The newer items include an EARL GREY FLAN (with a dried apple crisp) and BREAD PUDDING.  Chef originally had the classic flan which was so perfect and delicious (inspired by her travels). She then elevated and differentiated it by adding the Earl Grey into the equation. The flavor activates your taste buds immediately and is not overbearing at all. This is one of the more unique desserts that you would see on any menu.\n\nWhenever friends visit from out of state or country, I always recommend Thursday. Everyone that I have brought has had a wonderful experience.\n\nThe staff always provides an excellent experience even though the place gets packed (they recently added a menu extra table in front of the bar I noticed on a list recent visit). They have a system where the servers consistently check in on you. Everyone is always so pleasant and welcoming.  Chef Kay is usually busy in the kitchen. Sean is on the floor helping customers and making sure things are running smooth along with Bernard the manager.  The servers and bartenders all do an excellent job (I apologize as I do not know everyone’s name)."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoNHZLcVZBEAE",
+            "text": "Thursday Kitchen, where Korean, French, and Spanish influences collide to create a tapas-style dining experience. The drinks and tapas are playful but be warned - it's pricey and there's a long wait on Thursday nights.\n\nFor drinks, we ordered the Ruby the GF and Lychee Reach Rich cocktails, both made with soju, but tasted like juice with a splash of alcohol. They looked pretty, but we wouldn't order them again. Ruby the GF was subtly citrusy with a grapefruit twist, while Lychee Reach Rich was sweet and mango-y. Just skip on the drinks unless you want an overpriced fruity juice box. They were both a 3 out of 5.\n\nWe started with the Duck Confit Empanadas, which were crispy and fried to perfection. The duck was spiced just right, and the dill creme fraiche balanced out the richness of the empanada. It was love at first bite - 5 out of 5.\n\nNext up were the Edamame Dumplings. These little guys were bursting with flavor thanks to the truffle oil and creamy truffle and cheese filling. The edamame undertone added a nice touch, and the citrusy flavor rounded it all out. Too bad it only came with 4 small pieces. 5 out of 5.\n\nThe Truffle Mac & Cheese was the epitome of comfort food. The gooey cheese, flambeed on top, was the perfect amount of creamy, but it was also very heavy. We had to take a breather after a few bites, so we gave it a 4 out of 5.\n\nThe Lucky Noodle was made with hand-torn flat noodles, which was the perfect vessel for the tangy, creamy, and spicy minced beef. The result was a burst of amazing flavors - 5 out of 5.\n\nThe atmosphere was a little loud, but the service was top-notch. All in all, Thursday Kitchen was a great spot for a night out with friends. We left feeling satisfied and cultured, even if our wallets were a little lighter."
+        }
+    ],
+    "reviews_count": 83
+}
