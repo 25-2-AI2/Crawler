@@ -1,0 +1,502 @@
+{
+    "name": "Gyu-Kaku Japanese BBQ",
+    "place_id": "ChIJGU71_hFgwokR5sr2hL0toaA",
+    "grid": "QN7",
+    "address": "40-52 Main St floor 2, Flushing, NY 11354, USA",
+    "rating": 4.7,
+    "user_ratings_total": 2206,
+    "phone_number": "(347) 542-3653",
+    "reviews": [
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wc2ExVktabTExVEV4eU56aFZWMFJTVkZWeWFuYxAB",
+            "text": "Food is fresh and seasoning is good. Wait staff are attending to your needs."
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNveFltcmdBRRAB",
+            "text": "getting their beef sukiyaki bibimbap today! awesome vibes and my server Selina is super chill and speedy 🔥"
+        },
+        {
+            "date": "3주 전",
+            "language": "zh",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GMmRHbEdWMUpJWXpGR05FWkNkWGhKVUVadmVVRRAB",
+            "text": "加完税和消费 人均80多刀   95%的肉都是碎肉 调味腌制肉，吃不出来原有肉的味道，日式bbq都是原切好么，欺骗消费者，牛舌最差限量，带冰碴上来的，同价位烤肉法拉盛最差！ ！\n总结炸鸡和炒饭做的比烤肉好！"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGdFNFWjNkVzV0UW5CT2NVTkxaRmxxVUU1YVRVRRAB",
+            "text": "i loved my experience at this place! food was top-notch and our server was amazing :) definitely coming back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25weVJHMXZVRVpJT0hsMVRYTXdaVlpPVEd0UVFuYxAB",
+            "text": "Great food great service :)"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBMGJ6ZG1kbTFoYW5CNU5WRkpNSEpqZUVwSmFYYxAB",
+            "text": "This place was great! The food was tasty and the staff were very nice and helpful. I would definitely come again!"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oVlExVnlSRzVGV25GQ2NUUmpkWGhzYURCVkxYYxAB",
+            "text": "The food was average, service without a smile, and hygiene questionable—like giving dropped chopsticks back to customers. On top of a 90-minute limit and a forced 20% tip for five people, it’s hard to see why anyone would return."
+        },
+        {
+            "date": "1달 전",
+            "language": "zh-Hant",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4MmNrVnZPRWhyU0c5UWRGOVFkRTF3Y0hwRk0xRRAB",
+            "text": "本來挺好吃的\n今天去肉變得很不新鮮\n叫了牛舌跟他說很不新鮮可以不要或者換一盤嗎\n是給我們換了 但是從呦嘿變成半呦嘿 腥味很重"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQVDE1dE9qOUstUEt3EAE",
+            "text": "Delicious food and great service!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWNlptZzRkRmw0T0ZkdGMxRlRkSGRIY2tVMlgwRRAB",
+            "text": "Food was excellent. The servers were very good at bringing your order and specifying how long to cook each dish. They also came back and forth frequently to make sure you were fine and serving you again and again."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GblJqWnlkbVE1VDBadmIzSnpjVzAwUkRoTE1sRRAB",
+            "text": "I visit this restaurant as often as I can. Love it here"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xob1RWVkhhbnBFU21OWFYzbHRReTB6WVV4UFRIYxAB",
+            "text": "Went with a group of 6 for a friends birthday. We ordered the feast. David was our server. He went above and beyond telling us how to best grill the meat, constantly clearing our quickly emptying plates, getting my buddy Sake for his birthday and one of my friends has Celiac and Gyu-Kaku is very Celiac friendly and David did an excellent job accommodating for this."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCamVHWldUblZxY1drdFNGbGhOMXBNTlROTGJrRRAB",
+            "text": "David, our waiter on Thursday night, was excellent. The whole system from seating to dessert was incredible. They moved plates, brought food, and answered our questions with what can only be described as the politest pit crew in the world. Will definitely go back. The food was incredible, I never wanted for anything, neither more water or more napkins. That was exactly how a dinner should be."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sTFQxYzFVbDlJYmxZeE5qSnNkSEpNUkd3MVNYYxAB",
+            "text": "Not worth the hype.  This was my second time there.  Two of the Wagyu menu items were not available.  The first thing the waitress said to me was there is a 90-minute table time (I was not ordering the all-you-can-eat menu which I know has a 90-minute limit on time), so it was pretentious, unsettling and unnecessary to say that.  I order the $55 Wagyu.  It contains no sides so I ordered rice and broccoli with it.  The plate came with 7 small pieces of Wagyu, cut in irregular triangular bits which makes it hard to cook evenly.  One piece was so fatty and tough I could not chew it and has to spit it out."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2todlFqZHJVV1J2Vm5reVptZDRkRXBSTUdVMlVFRRAB",
+            "text": "Love this franchise, consistently have been coming to this specific location of Gyu-kaku for years now and haven’t been let down to this date yet! The staff is very interactive and engaging, to include the knowledge of the menu with personal recommendations. Quality and freshness is also something that consistently keeps me coming back, fun for a date, with your family or even a simple lunch."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoRlRYZ3pZWGhJU0haNFJEUmpiMjkwVkVOcVpsRRAB",
+            "text": "Gyu-Kaku is a fun, interactive dining spot where you grill your own meats right at the table. The marinades are flavorful and the set menus offer great value. Perfect for group outings or date nights. It can get a little smoky and loud, but that’s part of the BBQ vibe. One of the best tasting meats in Flushing!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsT1NrUk1TRFUzTlVaeVVtZENMWGhNUVMxUFNGRRAB",
+            "text": "I loved my time at this restaurant today. Our server, Palm, gave us excellent service and truly made our experience so much more delightful. The food was great and we left extremely full. The s’mores here were a fun dessert experience as we were able to toast the marshmallows at our table ourselves. I can’t speak enough about how much I enjoyed my time here today."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKNVluZDFRbk5oVDNwb1VtZGhTWEpVU3kxU2IzYxAB",
+            "text": "I am very disappointed in meat quality. Mango Tango cocktail was horrible. I didn't enjoy the meal at all. But the service was attentive and friendly."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNveGVIWXJ3RRAB",
+            "text": "Their $20 lunch plan was super affordable and our server Sean was so nice! 🔥🔥🔥 i love their free ice cream ☺️☺️…"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psd1lrUmFVREExZFRCVFltWnJSM2R5U0VkTVZYYxAB",
+            "text": "I absolutely adored this place! I went with my best friend for lunch and had the best time. From the food to the service, everything was amazing, especially their lunch deal- it was so worth it. I highly recommend this place to anyone who’s in the area for lunch."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxRlZVaHdUakJ2VW5aZllVZEZZVXB5Y1ZacFVuYxAB",
+            "text": "Came here for a solo lunch around 2:30. It was so busy there was a wait I almost went elsewhere but decided to walk around and wait. When I came back I missed lunch special but tbh it didn’t matter I just ordered a la carte and it ended up being less. Shout out to Steven for suggestions and to the hostess Ava for being the literal sweetest and getting me in. Will be back !!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201U2JVOUVNazR5TVZnMWJHSkRNMlF4VFZKSFIyYxAB",
+            "text": "Love all Gyu-Kaky locations, this one was as good as expected."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210MVFtdFpVRkpZUmxOR2FrMW1iMmRpTUhocllrRRAB",
+            "text": "Great place located on the second floor.  Once you're seated they take about 15 minutes to explain the 7 menus.  It's too much.  We ordered from the Restaurant Week Menu. They give you a lot of food for the price.  Rice, salad and soup comes with the meal.  You choose an appetizer, vegetable, combo set (protein) and dessert.  It's very filling.  We had the Eggroll and friend dumpling.  It was crispy, moist and hot.  The protein doesn't look like much but with everything else, it's enough.  Proteins were marinated.  Very easy to grill.  Everything was delicious.  Only disappointment was the s'mores.  It was hot enough I give good char marks on the marshmallow.  It couldn't melt the chocolate so it ended up dry.  It's seems to be a popular place because it fill up at noon. It's a nice lunch option."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210NmRrODNiMUpKY0hReFoyaG1aVEJ3TlVZNWVHYxAB",
+            "text": "We had this at 2 AM in NYC after the Blackpink concert in Citifield, and it was a fantastic experience to enjoy BBQ that late. The service was great; everyone was friendly and happy, even while working late hours. The food was so good that I forgot to take a picture at first! 😂 I will definitely come back for more. 🥩🥓💯\nI love their happy hour, the food is good and affordable, and their service is the best. 🙌🙌"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzdGIzRndiazFTTW1jM1ZqWk1kM0U1VGprdFJHYxAB",
+            "text": "The food was great!\nAlso the set meals are so reasonable!\nRecommended"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWMFYydGxRWGxqVTFRdFluUjNUbUo0YW1sMGRsRRAB",
+            "text": "Called for a reservation they told me walk ins only right now and the wait will be 15 minutes. I told the lady I will be there in 10 minutes\nWhen I arrived with my pregnant wife up the stairs this guy named Alfredo told me an hour wait and still tried to justify the hour wait after I explained to him I called.\nHighly unprofessional."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZMmJIUk5ja2x5V0dkVlpXaDNWSHBMYmpoU1dtYxAB",
+            "text": "Been here numerous times. Even left a 5 star review before. Service has been great especially recognizing many familiar employees. This time a total disappointment. Got there at 2:50pm. Lunch ends 3:00pm. I asked if lunch was available. Guy said no with a smile since there’s a wait and my earliest available time is 3:15pm. And tbh, he is super friendly. I questioned him as I saw many many tables available. He said there are only 2 servers. I told him fine. No problem. Let me order right now and you do not have to seat me until 3:15pm. He said he can’t do that. Gyu-Kaku, you got some stupid policy."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4NFNHTk1ZbGREYm1WTmR6aExWMnRmYURVdFRrRRAB",
+            "text": "Ke the lead server was excellent. Thorough knowledge of  what is gluten free (seemed like most of the menu), and even brought out the miso soup base to check some ingredients with me.\n\nGreat attention to detail. Lunch prices very reasonable. Food was excellent. Overall great. Perfect service. High integrity place."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkT04wNTNPRjloY1ZjMU1ubEtSbVUyUm04NGRFRRAB",
+            "text": "Yummy"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsVlRYUjRibTA0ZW1sTGFERjVNMnA2WWpCU1drRRAB",
+            "text": "Great food! Amazing customer service. Will definitely visit again!!!"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzODZibUR3EAE",
+            "text": "Service is always fantastic and the quality of the meats is consistent! Sean was a very attentive and great server!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBMmRFRXlSVzUyWlZwSGFrZDVVRk5YUlY4NE0xRRAB",
+            "text": "I had ate here years ago and did not find it anything special, however after going back recently I can see the improvements. The food was great and came out quickly. Service is great as well. They operate off of small plates/serving's with an all you can eat option that is timed. I would definitely go back and refer to a friend"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyeDVlWlpREAE",
+            "text": "Always a good time, parking can be a little dicey but it's definitely worth the literal MEAT FEST I have everytime I come here. They have a great rewards program as well thru their app. You can get a nice percent off your check or an extra food item for your rewards points. The staff here are the best attentive and always moving. We've come here at closing time and gotten EXCELLENT service and that says a lot."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPRDdncy00NDdpUjFBRRAB",
+            "text": "Our server has good customer service and the food was really good."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sYWQzTmZWVEZxVGxCdVdVOXFUWEZMUmt0T1JuYxAB",
+            "text": "Service was a little slow that day but we were rush to leave."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMX3FqWnZHXzVqR3RBRRAB",
+            "text": "Service was great and food coming so fast.beef was fresh.really enjoyed the admosfer"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNVFJyYTJ0MTdxWVF3EAE",
+            "text": "my favorite bbq restaurant!！！"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQalBnT3ZLOFB6RHR3RRAB",
+            "text": "We came to Gyu-Kaku to celebrate my mom’s birthday, and it was perfect from start to finish! The service was excellent—our servers were friendly, attentive, and kept everything moving at a great pace. Even with the 1 hour and 45 minute dining time limit, we never felt rushed. We had more than enough time to enjoy each course and even wrap up with dessert.\n\nWe ordered the Gyu-Kaku Feast, and the food was incredible. My personal favorites were the Yaki Shabu and the Harami Skirt Steak! Every item was fresh, well-seasoned, and arrived in a timely manner.\n\nThis was such a fun and memorable way to celebrate a special occasion. Gyu-Kaku absolutely delivered with delicious food, exceptional service, and a great atmosphere. We’ll definitely be back!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQQ0w4OHUxMnBUeG9RRRAB",
+            "text": "The salad dressing was addicting and that’s just the start. Great food, service, experience. Fun date night!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQZmp4SXlxOXNmTVpREAE",
+            "text": "Outstanding service! Andy delivered top tier customer care. The meat was flavorful with high quality cuts"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVNzRTVF9RRRAB",
+            "text": "Flushing 메인스트는 건물2층에 위치해있기때문에 쉽게 지나칠수있는 식당이지만  눈여겨본다면  쉽게 찿을수있다.\n일단  식당에 분위기는  깨긋하면  크게부담스런운  인테리어는 아니였다 .\n가격도  너무 비싼가격은 아니였고\n음식의양도 생각많큼 적은양은 아니였다 무엇보다  후러싱에있는 식당들이 요즘 직원들과 언어소통이 조금 어려운점이 있었는데 이곳에 직원들은 언어소통이 원활해서 더욱 편하게 식사를즐길수있었다.\n음식이나올때마다  설명을잊지않고 해주는것도 만족했고  자주자주  테이블에 들려 확인해주는것도 괜챦은것같았다 .\n음식가격은  사람들차이에따라 비싸다고 생각하겠지만  개인적으로 여러종류에 고기를 먹을수있다는것은 개인적으로는 만족할만한 가격이라고 생각했다\n자주갈수있는곳은아니지만 특별한날엔 기분좋은식사를 즐길수있는듯해서 추천할만하다 ."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLT2lyWl81NjhETmN3EAE",
+            "text": "I came here on a Friday night. The wait wasn't too long it was around 10 - 15 minutes. I got the restaurant week special. It was pretty worth it.\n\nThe food was really good, it included a lot of appetizers as well as 3 meat dishes.\n\nThere is a buffet but on Fridays and weekends they don't do it after 3pm.\n\nDefinitely a good restaurant."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJbW9mUzJRRRAB",
+            "text": "If you're looking for a fun and tasty BBQ experience in Flushing, Gyu-Kaku is a solid choice. We grilled up a nice mix of shrimp, squid, and shishito peppers — super fresh and cooked perfectly on the grill. The marinated meats were flavorful and tender, especially the beef cuts — juicy, rich, and went great with their dipping sauces.\n\nThe atmosphere was cozy and lively, perfect for hanging out while cooking your own food. Service was friendly and fast, and everything came out in good time. Definitely a spot I'd come back to for a chill meal with friends!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmb1lLcm1BRRAB",
+            "text": "We went for the weekday lunch special and it was really busy for a weekday but then we found out that they only had two servers on duty and that’s probably why the tables weren’t turned fast enough. Good thing we had a reservation. With that said, the servers did really well, not as attentive as they normally are but not bad considering the circumstances.\nThe food was still really good, they rearranged their menu a bit which made it much easier to understand, showing the upcharges better. Now we can see how four people ordering $20 lunch specials can walk out spending $170 not including tip LOL.\nI still say the bistro hanger steak is my favorite and I really enjoy their salad because the salad dressing is so good.\nOverall, a really enjoyable meal."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPZjktdl9IbmJmNjBBRRAB",
+            "text": "Right in the heart of Flushing is Gyu Kaku and they honestly never disappoint. It’s the kind of place where you grab a mega beer, fire up the grill, and just vibe. Tons of choices of appetizers, veggies, and juicy cuts of meat. The staffs here are super friendly, efficient, and on point with swapping out your grill when it gets too charred. One staff here, Ke, stands out outstandingly with his great smile, attentive service, and since the first date at Gyu Kaku years ago, he’s still here with the same energy. If you’re into bold flavors, their spicy sauce is straight up addictive. I could dip anything and everything in it. Their super fresh meats marinated to perfection unlocks all the umami magic once it hits that fiery grill. Save room for a slice of that Lady M which is like putting a cherry of top on a sundae. Come visit Gyu Kaku if you’re looking for some delicious BBQ!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvaGVpVGxBRRAB",
+            "text": "My server Selina was amazing. Sweet and professional.\nEthan was the manager tonight. Amazing, kind, and professional as well.\nVictoria brought us to the table. Very kind and hospitable in nature.\nAmbience is great and everyone was lovely. From Benny who brought the drinks to Alan remembering us and welcoming us back.\n\nI’ve been here a million times and will be coming back again forever."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLcmRoTTZhd1BESWdBRRAB",
+            "text": "So many delicious options for a great price—it was $15 for two servings per person! I went in a group of four, and it was perfect. They also have a really great throwback playlist!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnN0pqQ2J3EAE",
+            "text": "I went with my friend to have a galentine day. The place is beautiful and they have amazing service. The person that helped serve us was Enlin he was great. Very nice and had a great attitude. We got the $95 for 2 people\ndeal and some food was better than others"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRdWZMSWpRRRAB",
+            "text": "Busy 2nd floor location. Not wheelchair accessible.  Good meat selection. You can order a la cart or by group for a set price. Overall good food and great dining experience.  You have 90 minutes for bbq."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzMGJIbFlnEAE",
+            "text": "Nice spot located on the second floor.\nHappy Hour is a HIT with great tasty food.\nMiso wings and the black pepper wings are really good. The calamari is on point also.\nThe Japanese karage chicken with the sauce is a must have.\nI sat at the bar and enjoyed the company of the other patrons. I’ll definitely come back."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMenBpRWN3EAE",
+            "text": "My favorite JBBQ! Have visited a few times now. The food is incredibleeee. So many options and they come out very quickly. I love that we can cook some of the food as well. It’s a very cute concept. The staff has always been very friendly and provide quick service. Drinks are good too."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuaFBxSk1REAE",
+            "text": "Great reprieve for a cold beer and soju after an afternoon of walking around flushing. Had a friend come meet us here at the bar space. Great little area for a catch up of friends, drinks, and food. Kevin behind the bar was so kind and fun! Amazing service! We had the best time. Cold mugs of Kirin, Soju, and lite bites made it a perfect late afternoon hang for us!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkcE16RGFnEAE",
+            "text": "Fantastic experience. all the food was so good. the meals for 2 or more people are definitely worth it you get a lot of food. staff was very friendly and during happy hour they have cheaper prices. great spot for a date night"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkcnI2R3lBRRAB",
+            "text": "This place is amazing place to go to. The waiters are super friendly (especially Mr.Victor and Mr.Palm) and the food is out of this world !!! So if you want to try a new experience you should totally check it out. We will definitely visit again by my son DSN"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwanV2elJ3EAE",
+            "text": "Today was my first time going here and this was an absolutely amazing experience. I highly recommend this place. They made accommodations for us since we did not make reservations. They were extremely friendly. Literally everyone was friendly. The food was amazing, changing my entire outlook on Japanese food. It was overall a fun unique experience. $80 for 2 people was very reasonable for the quality."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5aHNISkdBEAE",
+            "text": "Delicious food the staff were amazing for every event I totally recommended. The place is clean is awesome. Staff are so nice and polite and multiple. You feel welcome."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyNktXYmRREAE",
+            "text": "We had a fantastic experience at \"Gyu-Kaku Japanese BBQ\" all you can eat in Flushing, NYC on the 4th of July. The variety of delicious, high-quality meats and sides was impressive. Our server was exceptional, providing attentive and friendly service that made our meal even more enjoyable. Highly recommend for a great BBQ experience!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNOaUphNUVnEAE",
+            "text": "This Flushing location is beautiful, homey, and the service and staff are wonderful. Don’t underestimate the portions here, you will leave stuffed and satisfied!\n\nThey have AYCE option that is only available Monday-Thursday but have prefixed and A la carte options for the weekends as well. The food is delicious, fresh and their line of cocktails are great too.\n\nWe came in for my husbands birthday and enjoyed every minute of our dinner. Keep in mind to make reservations ahead of time, it is strongly recommended and they only have a 15 minute grade period to arrive. They will call you 10-15 mins ahead of time as a courtesy, which is great. Parking is very limited due to being smack in Main St -43- but there are parking garages around if you must drive. The LIRR is 2 minutes or less around the corner and plenty of busses and the 7 train if it doesn’t run into any issues.\n\nWe will definitely return here again to try the rest of the menu!\n\nEnjoy!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmNGZ1RmJBEAE",
+            "text": "Amazing food! I love their ponzu sauce! Highly recommend their pork and chicken. I have been here countless times because it is my favorite BBQ place by far!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5bTg2bUdBEAE",
+            "text": "I recently had the pleasure of dining at Gyu-Kaku Japanese BBQ, and I must say, it exceeded all my expectations. From the moment we stepped in, we were greeted warmly by the staff, who guided us through the interactive dining experience with enthusiasm and expertise.\n\nThe ambiance was inviting, with modern décor and cozy seating arrangements perfect for enjoying a meal with friends or family. What truly stood out, however, was the delicious food. The menu offered a wide variety of high-quality meats, seafood, and vegetables, all perfect for grilling to perfection right at our table.\n\nEach dish was bursting with flavor, showcasing the freshness and authenticity of the ingredients. The marinated meats were tender and succulent, while the assortment of sauces provided the perfect complement to enhance the taste.\n\nOne of the highlights of our dining experience was the interactive grilling process, which allowed us to cook our food just the way we liked it, adding a fun and engaging element to the meal.\n\nOverall, dining at Gyu-Kaku Japanese BBQ was a delightful experience from start to finish. The combination of excellent service, inviting ambiance, and mouthwatering food made it a memorable evening that I can’t wait to repeat. I highly recommend Gyu-Kaku to anyone looking for a unique and delicious dining experience.\n\nHope you find this review helpful! Let me know if you need any adjustments."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2d04yd3RBRRAB",
+            "text": "Such an awesome experience every time I eat at this restaurant. The customer service is amazing, staff are friendly and always helpful. There are so many options to choose from, our group usually orders the six person option. Lots of different cuts of beef, pork, different style of chicken and shrimp. I recently tried the cheese corn and it is DELICIOUS! The entire experience was fun and it all the dishes are flavorful and nicely portioned. The bill can easily hit $400 for a group of 6 but it is worth all the money spent. The green tea crepe and the lava cake are probably my most favorite items on the menu. The pesto/garlic shrimp when cooked right are delicious. I highly recommend this restaurant if you truly wish to experience Japanese bbq. Get the frozen mango sangria and thank me later 😁😁"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4OU51eDdBRRAB",
+            "text": "Was there for Lunch today with my friend. The service was FANTASTIC and EXEMPLARY. My waitress Selina is a Mega-Star and deserved to be promoted/given a Salarly BUMP. The trainee NICK was also very attentive and competent. I will GLADLY go back again. HIGHLY RECOMMENDED A++++"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsd3Z1T3JRRRAB",
+            "text": "Nice atmosphere, fresh food and friendly staff. The seating is NOT for tall people but we made it work. Overall the experience was a good one. Will definitely return!! Thankfully we reserved a table, even though the entire party wasn't on time; We were seated after about 15 mins, offered drinks and a menu to look at. I gave 4 stars because we had issues with the grill that our trainee waiter couldn't figure out. The food that was supposed to take 2-3 mins each took about 10-15 mins. Towards the end when we ordered dessert, another waiter came over and fixed it. We were compensated with money off the bill. Oh and let me not forget if you have 5 or more in your group, 20% gratuity will be added automatically. They received a nice $75 tip from our party of 6. Please call and reserve a table to save yourself the hours wait."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtN0pUaFJREAE",
+            "text": "Came here on a Sunday night and loved the experience. The wait was about 30 minutes. When I got in, the layout of the restaurant looked so nice and clean. The table was laid out nicely as well. Our waiter approached us quickly and was very kind and enthusiastic, which is always a plus. We ordered the Meat Lover's BBQ combo, as well as some pork belly, ramen, tuna poke nachos, and spicy tuna volcano. The food came quickly and were all delicious. When it came to grilling the meats, it didn't take long at all, and our waiter came by every 5 minutes to change the grill for us. The sauces were amazing as well. Finally, the s'mores for dessert was a really fun experience. The only downside of the restaurant is that it was a little expensive, but the price was comparable to most Korean BBQ restaurants that I've been to. If you get their app, then there are some rewards that you can redeem after acquiring points. Definitely would recommend this restaurant and come here again soon."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDcGJYa05BEAE",
+            "text": "Been coming to this location a lot more lately and it has definitely changed a lot, for the better. Staff is a lot more attentive than when I’ve first started going.\n\nI will say though, when it’s busy, you’ll know it’s busy. Went yesterday 3/24 and waited almost 30 for dishes to start coming out. Considering it’s timed dining, it makes a difference.\n\nWe did the all you can eat two weeks ago and the wait for dishes to come out was very frustrating.\n\nRegardless if it’s the all you can eat, a la carte or pre fixe meals, the food is always good and fresh.\n\n***\nOlder review\n\nI love this restaurant, just not this location. Doesn't offer the ambiance of the other locations I go to. We sat for 10 minutes before they remembered to give us the card to scan and get the menu. Incorrect orders were bought over as well a rice dish that was burnt and crispy. Think I'll just continue to drive into the city even though this location is fairly close to me."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNMnZtempnRRAB",
+            "text": "The food is definitely good and so is the service. The only disappointing part was waiting time is too high. We almost waited for 1.5 hrs. However, the happy hour is even better as drinks price went almost half the price. The downloading of…"
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxek1qOXhBRRAB",
+            "text": "It's my go to whenever I go to Flushing. My older sister introduced me to this restaurant and I was amazed. The meat was fresh and delicate. Also the vegetables were sweet. My favorite sauces are sweet soy and spicy. Even went here for my 21st birthday. Coming here again brings back memories."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURodWZhZjBRRRAB",
+            "text": "Food was exceptional. The quality of meats was amazing. We got one of there meat combo for 2 people and added the A5 Wagyu Beef. The A5 was so tender and melt in your mouth. Definitely would recommend it."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYdDVENXNBRRAB",
+            "text": "The food is so awesome, and the ambience is so great! Our server, Won, is so accomodating, kind, and attentive. She is the best! You can request for the sauce to be removed if you want plain meat! Their service is so superb even if it many people eat here. Way to go!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNOLU5iUDhBRRAB",
+            "text": "Gyu-kaku has always had great staff and near perfect service time, I only say near perfect because they have an amazing flow of customers regularly. It's to be expected with an array of food selections that aren't over bearing when deciding on choices as well as friendly help from the staff. I can only say I'd recommend the packages and sit down, get ready to eat, and leave with a full belly."
+        }
+    ],
+    "reviews_count": 70
+}

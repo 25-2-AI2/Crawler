@@ -1,0 +1,19 @@
+{
+    "name": "allissgeovadeli",
+    "place_id": "ChIJM4z089tpwokRYubCKVUNxEY",
+    "grid": "QN13",
+    "address": "7-09 Beach 20th St, Far Rockaway, NY 11691, USA",
+    "rating": 4.7,
+    "user_ratings_total": 3,
+    "phone_number": "(347) 230-4551",
+    "reviews": [
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOcVRFdEdjaTFJYUc5UllXRXpXRUpoTFdGRE5rRRAB",
+            "text": "Great customer service and some good food."
+        }
+    ],
+    "reviews_count": 1
+}

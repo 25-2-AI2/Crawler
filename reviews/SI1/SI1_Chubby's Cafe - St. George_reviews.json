@@ -1,0 +1,481 @@
+{
+    "name": "Chubby's Cafe - St. George",
+    "place_id": "ChIJ5bmjBwBFyoAR0zHolA5msok",
+    "grid": "SI1",
+    "address": "188 N Bluff St, St. George, UT 84770, USA",
+    "rating": 4.7,
+    "user_ratings_total": 551,
+    "phone_number": "(435) 216-7071",
+    "reviews": [
+        {
+            "date": "20시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wV1NWQTNaa3MxZVZCeU9FeFRhbmRrUWtSMmVGRRAB",
+            "text": "Best food ever! Thank you Chubby’s for amazing experience ever time! 🤩"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoVFEzcHpPVjlOVDNZMlRVTnNVMkoyU0RkdmFIYxAB",
+            "text": "This is a really cool place to eat at. The food was amazingly delicious. If you like fried chicken, you will love Chubby's. I only wish there were one near me."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWZlpFNVJVVk5qVTNaeGVXOXpha3BZUjNWR1FtYxAB",
+            "text": "The food is amazing!!"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ac1ZIaE1hMlJKVUZkNE9WQnZjMGQyZWpsV1ZHYxAB",
+            "text": "Food is great! Love the burgers and fries!"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xRNWJUaFpURWRYT0dWT2FGZDJRbDlKY2pSMFIwRRAB",
+            "text": "Chubby’s is one of the best eating establishments in southern Utah. The owners and management are great. The food is fresh, delicious, and will make you want to return again and again!"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5dWVVeHVaRzU1ZDFKMWNWbFpka1ptVDJ0MWJIYxAB",
+            "text": "Chubby's has been the best since 2014"
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KU1NubEtSM2xZUVRjd1EwbFNSUzF2U201elUwRRAB",
+            "text": "My daughter and I stopped by to quickly grab a quick bite and go. Not only were we pleasantly surprised to see a clean, open area restaurant but there is some sort of a fast food ordering to it as well. Great quality of food! Excellent service! And the decor even had a nice road trip feel! Look forward to going back."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1S04zQk1jMHRHU2pkS09WWm1aV1ZwWVZGRVRHYxAB",
+            "text": "Great food and choices for the money! Service was friendly. Highly recommend."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwMllsRnVhSHB2TFRBMmIyVXhjR0l6UW1oMWFrRRAB",
+            "text": "We came as a family for the first time and really enjoyed it! Fun atmosphere, good food! I ordered the chubby’s cheesesteak, I’m a bit of a cheesesteak snob so I was looking forward to it. the meat was delicious! Truly so good. The bun which was basically a hot dog bun? It left a lot to be desired. If this sandwich came on a good sturdy hoagie roll? It would be divine and rank up there with an authentic Philly steak."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZeWNFTnFObkpOVW5aM1VGWkZUalpWTFZaTVUyYxAB",
+            "text": "Excellent!!! Friendly and professional!!!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNd1RtazRhbUZ3V21oRWEwSk1NWFJFZVVoQ1FrRRAB",
+            "text": "Great food ! Great Staff."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25BNGExODJjMTlJWms1SlVXb3llbWxRVERaS1owRRAB",
+            "text": "Good food!!! The workers are all so nice!!!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psd1dFdExWM0I1TkhkelZEaGxkVlowY0MxVGJFRRAB",
+            "text": "Great burger wonderful pudding"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WM04xVm9Nekp6UW1JM2NtVkZlbVJ3U2xnNWIyYxAB",
+            "text": "Best service. Best atmosphere. Best food! Try the hushpuppies with the jalapeno ranch, the baked beans and the Texas sheet cake. Chefs kiss!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OaU1GQTNRbXBrUlRGblNGWnZiMUZvYlRCd1FYYxAB",
+            "text": "Take a step back in time for great burgers and other faire. Order at the counter and they bring the food to the table.  Great flavors and a 50's motif."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoZkxUQndaMnd4UW5GVWIweExRbEZWY0docmVGRRAB",
+            "text": "Chubby's cafe has the Best pastrami burger in town. The mas & cheese was great.  I'll be back for more good food this week.  The cooks and everyone did a great job today for lunch.. Thanks!!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twSFNGUlJVMmRCWm5WRFIzRnJiRko2VUMxd2JsRRAB",
+            "text": "We are on vacation from west valley, ut. We loved this place Tonight!! Gotta eat and enjoy here."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kelUzTlBiVmxuVjJnMGNVUkNObmxUWDB3MGFHYxAB",
+            "text": "Chubby’s Cafe never disappoints! We tried the Chicken Cobb Salad and the Cranberry Apple Chicken Salad, and both were absolutely delicious. The ingredients were incredibly fresh, and the chicken was perfectly cooked — juicy and flavorful. The Cobb Salad was hearty and satisfying with all the classic fixings, while the Cranberry Apple Chicken Salad had the perfect balance of sweet and savory with crisp apples, tart cranberries, and a light, refreshing dressing. You can tell everything is made with care. Highly recommend for anyone looking for a fresh, healthy, and flavorful meal!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xobVUwZGlSMGcwWnpKM2MzbGxjMjF2WTJGQmVHYxAB",
+            "text": "Great food, serve properly, at reasonable prices, the best beer, bed, fries I've ever had, and the taste burgers, anywhere"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KVE9YSmFPV3h0T1hwV1oyaGpVMUEwTVRWeExYYxAB",
+            "text": "There are many  unique features to look at as well as to taste, the owner engaged me in polite conversation, telling me some of the backstory of its eclectic decor. I bought one of the T-shirts that they offer."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaeWFuQXRUamRaVFZCUFVUQkNjRUZSYW1sWFluYxAB",
+            "text": "Fun place to have a good burger! I had the pastrami burger. Very tasty."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSVmFrSjFkVUZEUkVkZk9HeFBUVzAzUkRCUU5IYxAB",
+            "text": "Down to earth place while family best burger in STG love the people and the crew owner is great guy too love the food berry comforting"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxR2NrdHVjV2RxT1U5SVpFNU5iVTF5VXpKd1dGRRAB",
+            "text": "Chubbys is great food, great service and I love it. The service was awesome, the guy gave me a free root beer float because they had a problem with our order. My kids loved it."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKNlpIVnJRazUyZWt4NGIxODVObXRQUm5VeWFWRRAB",
+            "text": "Good food. Surprisingly good, kinda sneaky good. A little packed but, if the food is good. They will come 🙂 so no surprise there. Delish delish burgers. Super easy to navigate."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxVVRYSmZlVkJqY1dSQlRWWmpaMmhGY2pkbWVGRRAB",
+            "text": "Absolutely loved my experience at Chubby’s Neighborhood Cafe! From start to finish, it was perfection. The food was delicious — every bite was bursting with flavor, and the presentation was on point. The sides were just as amazing as the main dishes, full of personality and taste. The atmosphere was warm, inviting, and made me feel right at home. Staff were friendly, attentive, and added to the whole experience. Definitely a spot I’ll be coming back to — highly recommend to anyone looking for an exceptional meal in a great vibe!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GRWNVbFdkeTFFUjNoQ05HMDVZa1EwZDBwVVkwRRAB",
+            "text": "Good shakes"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVNVEwNXZhWGxtYjNOdVYyTnZkMVp2TVVKVUxWRRAB",
+            "text": "Wow… Flavor Explosion in my mouth. Really nice setting to eat. I kept looking at all the cool stuff. Had the Pulled Pork, Oh My it was Huge. Tender and tasty, Peach Cobbler was Fantastic, Utah Burger and Beer Batter Fries were Awesome. Topped it off with Scones. Place had friendly staff and super clean inside. Great space for groups. Will be back soon."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214Tk1WUktWSGRrVFRSbE5YVldiV2QyT1V0YVZHYxAB",
+            "text": "I have had good hot fries on occasions but last time they were cool. Burger is good but not great. Cheese stake with beacon was excellent."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0a1pHVjNhMkpLVWtsWmNubFdUalJ4TFMxSmFHYxAB",
+            "text": "This was my first time ever going. I was told about the cheesesteak and that it was excellent. Turns out they use horseradish mayonnaise on it and pepper. Jack cheese. Well I don't do spicy and I don't do horseradish. I'm not sure. I guess I was expecting a Philly cheesesteak. It was just too spicy for me. The fries were rather ordinary. So not bad. Not great. Everybody in our party enjoyed their food well enough. I think I would return because there are other things on the menu. I would give it a try again. The staff was very nice at this location and extremely helpful. Lots of upgrades offered. So just be careful because everything costs."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KblZuRnhRVTg1T0Y5UmFqbERjalZ2YVU1YWVtYxAB",
+            "text": "Great experience, great team, loved the food, and LOVE LOVE LOVE how clean it is."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sSlNEZE1iRTFvVDFKTGVreEhOSEZETW1ob1EyYxAB",
+            "text": "Food was delish!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWQllYZFRiMXAyZWxSelNtMVFjelZrYTJ0d2NGRRAB",
+            "text": "Nice place. Plenty of room. Food was really good."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSNk16QktjRGwyWlhsM1NYUjBlSGhmUjA1VlUzYxAB",
+            "text": "What a fantastic place with delicious food! I had a hard time deciding what to order, but ended up with the cheesesteak and it did not disappoint! Additionally, my son didn’t realize he ordered something a little spicy so he was sad, but Aaron found out and went above and beyond to take care of my son. It meant a lot to me. We will definitely be back. Also, Chubby’s sauce is really good.\nThanks, Aaron & team!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WR2REQnZjWGxRYjJSUFNFcE5TR1phWmpaUmFVRRAB",
+            "text": "For sure one of the best burgers in town. I was surprised how quality the meat was when I came here for the first time. They also have really good French fries. The buns are also really good, they seem to be different than other burger buns, but they are very delicious. Highly recommend"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Sc2JUSmZSbkJPYTNoZlp6Vm9TbmhJT1hFMFJIYxAB",
+            "text": "I came here on a whim, currently in St George for work.\nI couldn’t find a place near me, so I decided to try Chubby’s. Originally I showed up for the A1 Steak Burger but they didn’t have it anymore. So I tried to Hawaiian instead based on a review, and not going to lie… I really enjoyed it.\nIt was quite delectable and savory.\nDefinitely would recommend eating here."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxNloxUmtWeTFTYkRkd2EyTnZiVXhUVFhrNFdsRRAB",
+            "text": "$10 for a tiny pulled pork sandwich no drink or side included. I won't go back. Philly cheese steak is tiny. Burgers aren't large either. One positive- no chance you get chubby eating here, but you leave hungry  Food is bland. You can get bland calories at fast food."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGblpIbEtSbTFDUldWVlNHTnNjM0kxUkhGTWNFRRAB",
+            "text": "Food was fast and yummy! Great staff and environment as well! Fs will be returning!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4bFRFZFZUMnhtTUVsRFZXMDFXamRsYWtrelRtYxAB",
+            "text": "great place. so cool looking too"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxMFpURmtOVlJpV210dE0wcG9TVXhFZVRaYVVXYxAB",
+            "text": "Great atmosphere if you like cacophony of sounds accented by concrete floors. Not a place they could take my wife to. However I will be going back because the food is very good."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaa2VHYzBjVTl5TFUwd2FHdDVibVpWYnpSTlRIYxAB",
+            "text": "A very fun place to visit. The scones are amazing!"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4WFgwcERYMGswTkU5cWVYZDNTbEo2VG1wT1ZXYxAB",
+            "text": "Chubby’s Cafe in St. George is always a treat. Their beer-battered fries are perfection, crispy every time.  While they’re famous for their burgers, I somehow always gravitate to the buffalo tenders, this time the spicy five-piece, though the sweet version with a little kick is also a winner.\n\nWe showed up just before 6:00 p.m. and ordered without a wait. But by the time our food came out, the line had wrapped through the whole restaurant.  Pro tip: arrive before 6:00 if you want food quickly, otherwise bring a chair, a good book, or possibly camping gear.\n\nNow, about this visit: after finishing my meal, I got back in line to grab a burger for my wife (nursing a migraine back at the hotel).  That’s when I discovered that in St. George, line etiquette is apparently more of a suggestion than a rule.  A couple ahead of me generously allowed about ten of their friends to cut in front, multiplying the line like loaves and fishes, but with slightly less holiness.  Then another couple wandered up, saw the crowd, and just sort of… grafted themselves into the line like a long-lost cousin at Thanksgiving dinner.\n\nWhen we got close to the register, one of the line-cutting MVPs actually turned to the original couple and said, “You go ahead of us since you were in line first.”  I nearly lost it.  I wanted to say, “Actually, there were about twenty of us behind you who were in line before you.  But sure, go ahead, math’s not for everyone.”\n\nTo be clear, this is no fault of Chubby’s, the food and staff were awesome as always.  Just a friendly PSA: if you visit during the dinner rush, watch out for St. George’s Olympic Line-Cutting Team."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201S2NXVXRZMmc1Wm10TFNubDVhblZQT0hOTFVtYxAB",
+            "text": "It wasn’t bad! Tasty but I wish the food would come out hot. The burger and a lot of the fries were just on the warm side. I didn’t get food poisoning or anything thankfully and it was tasty like I said. I’m just not sure if I’ll be back again or not anytime soon."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKSEYwOWFFc1pfdktBEAE",
+            "text": "The wife and I were in the mood for a burger. We hadn't been to Chubby's Cafe before, so we gave it a go. There is definitely a wow-factor walking in. Lots of eye-catching decor. The place is family friendly, and there is plenty of seating with a reserved area upstairs. The line was short on a Saturday afternoon. Our order was delivered to our table shortly after ordering. Nothing overly exciting. The burger was good, but not great. Middle of the page. Frys were meh. Coleslaw was good, better than most places, not runny. It's worth trying if you haven't been. We'll likely come again and try other items. Thanks for lunch, Chubbys!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3aXQ3Zml3RRAB",
+            "text": "This was my first time in this restaurant. I had the Utah burger, beer, battered fries, and Shared, a cinnamon scone with the table. The burger was excellent. It had a potato bun that was thin, but not too thin. It was great because there wasn’t a ton of bun and it didn’t overwhelm the burger. The burger was cooked perfectly and the fry sauce was delicious. The scone, which didn’t seem like a scone that I’ve ever seen before, but it was delicious. They’re deep fried with cinnamon and some type of frosting on it. The establishment has a lot of charm to it, and the people were really friendly and helpful. Definitely coming here again."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJaWJIQnJRRRAB",
+            "text": "Pretty average food (what we’re tired) at reasonable prices. I should’ve tried the burgers.\n\nIt was packed in a Wednesday evening so we were in line about 20 mins. I wanted a pulled pork sandwich but they were out. So I got a strawberry salad. It was loaded with grilled chicken, nuts, mandarin oranges, bacon, and red onion. I got blue cheese dressing. The dressing was not very flavorful. It was good but I wouldn’t order it again.\n\nNo salt or pepper on the tables. Self serve on drinks and sauces, including fry sauce.\n\nMy daughter got the kid’s meal and liked the mac and cheese. The fries are good but super salty. She got a mini cookie dough shake which was her favorite thing. I appreciate that they have minis.\n\nYou seat yourself and get a number and they bring your food to you. Lots of big tables that can seat a crowd.\n\nTotally full from the salad."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOYU0yeHNSemwyYm1sRFNTMXllSEZxY1hwQ1dWRRAB",
+            "text": "I can't say enough good things about this incredible place. I've been going here fairly frequently throughout the year, trying something new everytime I can, and I have yet to have a bad experience! This place has the absolute best food in St. George. I find myself comparing other restaurants to Chubby's when I'm trying to decide where to eat when my wife and I go out. We come here because the price to quality of food ratio is UNBEATABLE! Everything tastes amazing! The staff are inviting and polite! I appreciate the atmosphere and vibe the owner has put forth with the decor and layout. My favorite order is the Chubby Deluxe with a side of beer battered fries and a nice cold agave cream soda they have on tap. I can't wait until its time to go back again!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqMU9IQ3BnRRAB",
+            "text": "It is officially open as of 4/15!!\n\nTotally blown away by this spot! I came in with no knowledge of what they offered and was so impressed! It's like a diner/sandwich/fast casual spot mixed with a southern spice and flare. Lots of great sandwiches, burgers, fries, po-boys, etc... There's still lots of stuff on the menu I need to try and I'll definitely be back.\n\nI ordered the Buffalo chicken sandwich and it was probably one of the best buffalo chicken sandwiches I've ever had. Crispy, but the chicken was juicy. The spicy sauce had a good buffalo warmth spice, but not too much and mixed perfectly with the lettuce, tomatoes, purple onions and the blue cheese. It does come with quite a bit of blue cheese and so just a heads up there if you don't like that. I did feel like it helped to cut down the acidity of the buffalo sauce and brought in a zing and creaminess to bind together the overall sandwich. It's messy but so, so good. It did take a bit longer to get my to-go order but I'm actually totally good with it if it means the quality is like that every time. The bun on the sandwich was top notch too!\n\nI did get a side of the beer-battered fries and those 100%! Definitely get those with their Chubby's Sauce. It's an elevated honey-mustard sauce with a southern twang and sourness. Finger lickin' good sauce! Definitely a highlight as well. Good beer-battered fries are hard to find so this was a treat! I did also get a side of coleslaw (always a sucker to try a new coleslaw) and it was so-so. Nothing special about it. It was creamy, acidic but seemed like a traditional, normal cabbage coleslaw. It did have some celery seeds sprinkled in, but other than that it was pretty basic.\n\nThey do have some in-house hot sauces to try (another thing I'm a sucker for) and the jalapeño sauce was amazing! Added a smoky, medium level spicy and flavor to the sandwich and fries.\n\nThe restaurant was super clean. Great service. I was glad to see quite a bit of people there during lunch hours.\n\nPrice was mid-range. I think my chicken sandwich was $10 but it was really big and the fries for the portion and cost of $3.49 was a pretty good bargain.\n\nYou gotta check this place out if you want a solid burger or sandwich, some great fries, and a good chill vibe. The business calls itself a neighborhood Cafe and I couldn't agree with that description more! It felt friendly, local (not corporate) and the service was great. Excited to see this addition here!\n\nI think aside from the service and quality, the niche this brand carves out compared to the other sandwich/burger shops is there is bigger variety of options but it has all the classic Cafe/diner options. It nailed the sandwich and fries I got, so I'm excited to come back and try some more food!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aemVVOUJOREZDVDBaR1QyVmlZV3RmYTFWcmRuYxAB",
+            "text": "Ok I have been here multiple times each time food has been great, service wonderful, they have plenty of gluten free options."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURULTZfa3JRRRAB",
+            "text": "This place is an “order at the counter and we will bring your order out” type of restaurant.\n\nThat being said. They really need to try one of their own burgers. We ordered 3 different burgers, 3 sides, and two desserts.  On all burgers, the entire bottom bun was one big sloppy soggy mess. It was kinda gross. It felt like they soaked the bun in the pickle jar. They didn’t even attempt to moisture proof the bun with mayo.\n\nThe peach cobbler was undercooked and bla. The banana pudding was as advertised.\n\nThe one good thing here were the fries. They were good, light and crispy."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYd09UZ3dnRRAB",
+            "text": "Great first time experience. Friendly staff. Food tasted great. Basic menu is on a large board above/behind the counter but the printed menu has it with a description of each burger or sandwich. Beer battered fries were the best. Burgers were just the right size for me but some might say slightly smaller than what they're used to (I had the Hawaiian burger) [[EDIT: We went back the next day and the Hawaiian burger was larger than it was the first time ]]. It's a must-visit when you're in the area. I'll definitely come back. Not on Sundays...they're closed. :)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqeHYyUUp3EAE",
+            "text": "We went today to try them out, overall pretty good. My wife got the Utah burger, I got the Chubby Deluxe, and the kiddo had the grilled cheese and scone.\n\nThe grilled cheese was ok, very basic with cheap cheese and cheap bread. The Utah burger was an average burger, again not a lot to write home about. The Deluxe was definitely the better burger (got it Chubbys way), it was good but not $11+ good. The beer battered fries were really good, but such a small portion and for almost $4 a bit underwhelming. The cinnamon scone was the highlight of the meal, really good, but again not worth $4.\n\nAfter reading other reviews I was expecting more, the fry portions were small, and the prices weren't actually that great. I mean just a fry and drink it's $5.29. if the burgers came with the small fry it would have been a better value.\n\nOverall 3.5 out of 5 but I'll round up until I can give them another try when they're not so busy."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6Z3NtM0h3EAE",
+            "text": "It’s a fast food sit down restaurant. When you enter you’ll order your food at the counter and then they’ll bring it out to you. The beer battered fries were meh, but the regular fries were great - crispy but still soft in the center. The scones are what you should come here for.\nThe bread on both the sandwiches and burgers are really good. We even have a member of our party that requires Gluten Free options. They have a GF bun and a monster cookie that’s GF. I had a half salad and it had a ton of flavors and was tasty. Overall we were satisfied."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuNTVHbHBBRRAB",
+            "text": "Wanting lunch on the drive from Las Vegas to Zion National Park and happily tried out Chubby’s! One of the best hamburgers I have ever had! You order in front and they bring to your table! Lots of fun hamburger 🍔 options! Made to order and quite delicious! They have several bbq and fry sauces available! Great place for families or travelers! Lunch came pretty fast! Excellent!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRN01tMzBRRRAB",
+            "text": "This is \"THE PLACE\" if you want a delicious burger or sandwhich. The location in St. George does not disappoint. We tried several items from the menu and each one hit perfectly. Mouthwatering chicken strips made to perfection. Juicy, and flavored filled golden crust. A philly cheesestake they consider a \"go to\" item here which I for sure did not expect to be as delicious as it was. (P.S. try it with their habanero counter sauce and a bit of Chubby sauce). We had the Bacon Ranch burger and again a homerun. Very juicy, fresh Angus beef, topped with the works, cheese, ranch, and Bacon strips. Once our family was done, we went for a small Chocolate milkshake and again, spot on! The ambience is truly unique and special. Filled with wall entertainment all around.  They sell bottled sauce and shirts for memorabilia but the top memory was the full stomachs and satisfaction of not leaving a crumb on our trays. Till next time Chubby's.\n\nOh, the service. Top class, they listen, care for, and appreciate their customers for sure!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wdk4wcGpTVlZvZEdoRVNVWkJjVWxJY25OU2JIYxAB",
+            "text": "too much money, $.50 a bite.\nAt least a hour later... edit my review, your business card for leave a review is a lie. Cute. I went to your website exactly as it is listed because my flip phone will not text without me getting their App so I could not do the text which is actually what you want, and must have in order to, reward me some free scones for the review, so; I don't possess the babysitting patience needed to make my phone text without their App, and I really don't need to go through, all the hogwash. I went to your website address and there was nothing on there for a review needless to say proof that I did this one. Not even a clue about a text being needed. I tried to text you back but couldn't handle the attention wanted by my phone texting ability. You need to update people somewhere about the technical incorrectness on your card. And I need to deal with my beautiful Flip Phone when trying to text with it. Thanks."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkYVQwZFpkWFYzVkdReGJHdE5URlUxZDA5eExWRRAB",
+            "text": "This place is awesome! Love the rustic down home vibe. The owner introduced himself and was very polite and kind. The food was amazing. Best Cheesesteak sandwich I've had in years! The beer battered fries were crispy and hot with a lot of flavor! Staff was happy and having fun while working. I love to see that! My sister got the chicken Cobb salad. She absolutely loved it! Will definitely recommend and come back to this place! Way to go Chubbys!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvMF9Dc0hREAE",
+            "text": "I have to give a shout out for Chubby's Cafe! We went in last night and had a wonderful experience! The atmosphere was beyond expectations, it was quiet enough to have a conversation, and the food was exceptionally tasty! I ordered the habanero mango chicken sandwich and my wife ordered the blue cheeseburger with beer battered fries and coleslaw and scones. I was a little skeptical about the coleslaw, so the owner dished up a small serving for me to taste before I committed to purchasing, which I thought was super awesome of him! I ended up getting it because of how good it was. All food was very tasty, warm and to be honest, the pricing was very reasonable. And a shout out to his young staff! They were all very friendly and very helpful and you could tell that they actually liked working there! We had gone to a new establishment in town a couple of weeks ago that will remain unmentionable, however it was located over by The Dixie Center, and our experience here at Chubby's was tenfold better! If you're wanting a modern Cafe experience with modern savory American food that is not going to break the bank, you need to head over to Chubby's, right next to Hurst Ace Hardware on Bluff street! This is the place dine at! We will be back for sure!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psU2MybHdkM281WDBwQ1F6VjNjWFJITjJaMFVFRRAB",
+            "text": "Ordered a Swiss mushroom burger and beer batter fries. All was great except for the piece of lettuce with a little darkness on it, in the trash it went.\nStaff was very nice and as I stood and waited for my takeout order I watched the personable little gal up front who takes the orders. She greeted everyone with a smile and very helpful. She is a quite the employee to have."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUMm9PNnl3RRAB",
+            "text": "Very cool atmosphere. Really good food. I had the Jalapeño ranch deluxe burger. It was super good, lots of flavor, lots of cheese and hot off the grill. I also had the beer battered fries and they were really good. The second visit I had the mango habanero chicken sandwich and it’s was so good! Once again lots of flavor. I also tried the Mac n cheese and it is very good. The also offer a gluten free bun."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnTUR3NTZSeBAB",
+            "text": "Wow, wow, wow! Food was fresh, hot, and fast. So good! The atmosphere is awesome. Great place to take the family, office, date night, etc. There is something for everyone!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqcC1TMl9nRRAB",
+            "text": "3/5 on food. Strawberry salad was delicious with the raspberry vinaigrette. The cheesesteak chubby sandwitch was ok, not great. Beer battered fries were crunchy and good with fry sauce"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNdFZrdGhTWGgwZWpVeFdrNW1UbVl3WVhwcWFIYxAB",
+            "text": "Wow we stumbled upon a gem here. The gluten free bun looked better than regular! They were really careful about my hubs gluten allergy while allowing me to thoroughly enjoy my own glutinous meal. Super yummy and the hot sauces my gawdess. So good."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oclgwUjNaRXRvVkhWR0xXeFlka1ZSZHpSUWFuYxAB",
+            "text": "Chubby’s is our family’s favorite burgers and fries in town, hands down. Great quality and great tasting food. The people are always friendly and quick, even when they’re slammed with customers. I can’t say enough good things! The only suggestion I have is that they open a second location on the Washington side of town ☺️"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJd2ZpY213RRAB",
+            "text": "I ordered the Chubby Deluxe burger, double beef patty with bacon and cheese. It was served fresh and promptly to my table. Very tasty!"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGNWFXZENWRVV0VGt0eGQwcHJiMjlpUms1YVpVRRAB",
+            "text": "Fantastic food, casual and fun atmosphere. Too many yummy sides to pick from, but the scones and beer battered fries are personal favs. The \"Little Cheeseburger\" on the menu leaves room in my appetite to enjoy those without being entirely too much food."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUbktpbzBBRRAB",
+            "text": "Love this place!!! They just opened and they have amazing food!! I got the habanero chicken sandwich and my daughter got the blt.  So much bacon!\nGreat fries, we tried the beer battered and the regular. Lots of dipping sauce choices 😋 Beautiful view, very quick service and they keep the place really clean. Would give more starts if I could."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBOTZQNmRBEAE",
+            "text": "Great atmosphere and high quality food for the price. We love the fries and the burgers are much better than some of the other local stops in St. George. Must try the scones and beer battered fries. Will be back!"
+        }
+    ],
+    "reviews_count": 67
+}

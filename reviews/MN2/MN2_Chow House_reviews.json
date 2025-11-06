@@ -1,0 +1,607 @@
+{
+    "name": "Chow House",
+    "place_id": "ChIJ8z3tH5JZwokRU1hSLFhRFQA",
+    "grid": "MN2",
+    "address": "181 Bleecker St, New York, NY 10012, USA",
+    "rating": 4.6,
+    "user_ratings_total": 1035,
+    "phone_number": "(212) 837-1021",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201MmVXUnZUM1ZoTWtwd01XRnVVVll5UkhaTFltYxAB",
+            "text": "Loved the food here! The flavors are rich and authentic, with just the right amount of heat. You can really taste the Sichuan vibe in every dish. The portions are big and the prices are super reasonable — totally worth it!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wdFFVeDNaR2gxUXpCaWIybGFiMjFvYUdwUWVWRRAB",
+            "text": "The servers were so kind and nice"
+        },
+        {
+            "date": "1주 전",
+            "language": "ja",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCVVFtWmxTM0JCVURSRFRHNDBVMnN0YlRnNVMxRRAB",
+            "text": "美味しいな食べ物、すごいなサーヴィス👍"
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OeFdqUlFlWGhmYzB0NlNsWjFiVFoyWWtOeVdWRRAB",
+            "text": "I love their hot soup"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ReVNsQm9XRTh3VEV3eVlYcHdkM0JZU1dKV2VrRRAB",
+            "text": "Delicious and big portions. I come here all the time!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGMmQzZzVZbXRzVDAxMWVtbEZSVE4yT0dWbVVFRRAB",
+            "text": "Great food and service! The wonton soup and the soup dumplings were absolutely great!"
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBNWJHWlZYMVJ3WlRKd2FVZ3pOMTlHVlcwMFVGRRAB",
+            "text": "I love chow house yummy"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4ZlExTjRjVE13Tm1kT1Fta3RTVlpOTFZWNFExRRAB",
+            "text": "SO good! I had the bokchoy and mushroom dish. The baby bokchoys were so juicy and delicious. Great ambience and super friendly staff. My boyfriend had the three pepper chicken and he loved it."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsb1dEVndabUpyYjNCUmVHRTJaelZOUTNVNWIyYxAB",
+            "text": "Had the pickled fish soup and sliced pork. Soup was 10/10 but the pork was oddly sweet"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvMWNGQlJkR0ZwUzJSRWRqTnVVRlJGZURCSVNWRRAB",
+            "text": "This meal induced extraordinary visions and spiritual experiences due to the exquisite tastes conveyed to my mouth by the stunning brass-topped chopsticks. The meal was suffused by an atmosphere of joy and intense pleasure. I will dream of this meal with a smile on my face for months to come. I am a different woman because of this experience. Bravo!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCclZWRXpUMlJDWjBWRGRsaHpMV3BaYXpaWlkwRRAB",
+            "text": "Their meals combine good ingredients with sensible pricing. You get good value from their generous portions. The employees are wonderful and make you feel welcome. You'll notice the freshness, good seasoning, and proper cooking immediately. Chow House 德悦轩 embodies the perfect compact dining concept."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5cVEwTjFkRU5NY1dGRmJWSkxTRFppYUc1cWJIYxAB",
+            "text": "The exact restaurant concept I wanted has arrived. Employees showed exceptional flexibility and gave great care. This spot presents a fresh aesthetic approach. I didn't think the meals would be this good. This spot is a gem. I'm planning my return to try more dishes."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKZmJVZDRPRFl0ZVZwWWMzWXRiMVYyUTJ4eGJuYxAB",
+            "text": "Loved it from the moment I stepped inside!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Ka2FYVndXRlZtU3pCYWIxQklVVmgxUmxsSExYYxAB",
+            "text": "Amazing quality food. Spicy. Delicious. Piping hot. Some of best Szechuan in the city. Cannot miss. Definitely get the Szechuan spicy dumplings !!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paTmFGZDFjMDlqZFhwV1NFaDZRelpLYkhwR2FuYxAB",
+            "text": "Picture speaks for itself! Good price and decent portion"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKbVNGaHFNbXhrVmtSWlpFOVpRamQyWWxObmEwRRAB",
+            "text": "Hands down the best Chinese food I’ve ever had. The cumin lamb is to die for"
+        },
+        {
+            "date": "1달 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wT056aDJOa0l0ZWxoQlVIVkJTVlpLU1VVMGFXYxAB",
+            "text": "好吃！\n尖椒炒蛋一定要点！！\n每周中午都来 NYU学生还能打折！"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tReU1uTllRMEpOUm1oMFpWWm1NSGQzWjJOWldFRRAB",
+            "text": "Best Chinese Ive had in nyc"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CTGNXNWxPRVpZTjNRemJubHlSa1p0TXpWblVsRRAB",
+            "text": "Terrific.\nSecond time we've been here. Second time we followed the waiter's recommendation, and it was a great experience.\nIt's definitely worth it, and even though it's hard to go to the same place twice with so many options in New York, we'll definitely be back."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pVMlltaFlRMVpMYkdvdGRtVlZXR0pyWDFkWmQwRRAB",
+            "text": "Great \"Soup Dumplings\""
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tscFdFaHBkakpLU3kxRU4zTjVXVUpOYkhaUFRFRRAB",
+            "text": "Nice foods!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKeGNERjVibk5yVlRCZmRGY3dPRkU0YVZKMVMxRRAB",
+            "text": "very nice ambience for a nice dinner and delicious dumplings and wontons!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GSlVXNUVSVmxFVEZBdE1ETkpiMVZpTFhSSmRWRRAB",
+            "text": "The spicy wontons are delicious !!!!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25keWJFTlRRVVU1WW1oSlMyVjNVMHRhZUU5c1NFRRAB",
+            "text": "Delicious food, beautiful presentation and pleasant decor.  (I had the bok choy with mushrooms.)"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWaWFVTXRTVXhTWTFaTGNreDBUVFZvZUhONFlsRRAB",
+            "text": "The food here is great, a hidden gem that is usually not busy! The cold appetizers, like the Sichuan cold noodles, the mungbean noodles, beef tripe, were amazing! Other food is great as well, I come here every time I am in the area. Can’t go wrong, reasonable prices with reasonable portions~"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taSlFXeFBURW8yTjBocGNXbFZVV0ZJVFdKck4xRRAB",
+            "text": "So delicious!!!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOUFQxZENWWHBTVEdaZlgwODFjMHhtVXpaVVNHYxAB",
+            "text": "great service and vibe!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5SmJubFVjMWx4V0ZCR2VITmpOMUZMVFVWWVozYxAB",
+            "text": "The best mapo I’ve ever had (and I’ve had tons). Eggplant in garlic sauce is the best.\n\nAmazing for big groups or just a couple people. So great for the price too!!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4NFlrcEpjeTExUW5CclJHTmxZVXhsVWtSeE9XYxAB",
+            "text": "Very well maintained facility, received food quickly and had a pretty good price to offer during lunch time. Would stop by again"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paUFUwWjROWFI1UzFVMVJYbEtVVEl5ZEROamNtYxAB",
+            "text": "AUG2025 - GREAT FOOD!\n\nthis was our first visit... and we finished everything... three main dish,  1 vegetable and rice all around.\n\nTotal with tip was around $90. For 3 people. We thought this was a good price for what we revived.\n\nPortions were good size.   The"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kVk16STFXVXhmYnpodlQxUk5TWGxvVTNCTFRYYxAB",
+            "text": "Amazing place. Great food, great energy, and amazing service. Came here with a party 4 and nearly tried to order the entire menu. Great sichuan food - the cold appetizers weren’t that spicy but were very flavorful (would prioritize over the hot appetizers). We really liked the soups, very classic chinese taste and big portions for sharing. I’d recommend the west lake beef soup. All of the entrees were chef’s kiss - i really enjoyed the seafood. I think the tell of a good restaurant is how well they cook their vegetable dishes. The cabbage and cauliflower were so flavor - not too oily, perfectly spicy, huge portions. Highly recommend if you’ve been looking for an above par chinese restaurant with authentic flavors!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tONlUyazRlbWd6UzBKclVXeEdaM1ZKWDNrNWJYYxAB",
+            "text": "My father and I come here a lot. I’m happy my old guy have something to eat for his sensitive stomach. And the service is great."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FM2FGWlljMVJ3VDFrM0xVeEVhalpwTkU1Q1owRRAB",
+            "text": "Great atmosphere and location!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wUVoxTlRhbFpLYVhoWFRXUXlZMDUzT0VrMVVGRRAB",
+            "text": "Going to cautiously give five stars since two of the dishes were quite tasty (cauliflower, pork belly) even though one fell short (spicy wontons). Flavor was definitely there for all the dishes, but the spicy wontons felt like they were cooked from frozen. Credit where credit is due: absolutely loved the flavor of the cauliflower and the pork. Couldn’t stop shoveling each of those two dishes into my mouth! I think this place is certainly worth a try, but just might pass on the dumplings."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKdk1VMWxibmhPUlZFM1RUUjVNR0pwYzNkUVgwRRAB",
+            "text": "Very vibey service is awesome!! Food is great!! I recommend"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Gb2NUaHhOSGRYTm1OdGVIVjJaVXh6U2xvMFdsRRAB",
+            "text": "Exceeded my expectation. Wow. Perfect place for date, family and just casual dining."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGRFdISldaRUZuVkhONVRVZFpMV3hPUWpFMlUzYxAB",
+            "text": "I ordered the crispy beef but I was wondering where the beef was because I only tasted the breading. I ordered some pork dumplings but the meat was still red and had a raw texture."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSSFJGaHBTVTlIYkVsVE1FVm1lR1E0ZUZkRmVYYxAB",
+            "text": "Really good food"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxd09HMWZPVlIxZGxScVFsUXpabEZqVWkxNGNFRRAB",
+            "text": "Really great food, service, and atmosphere. Would recommend for anyone looking for solid Chinese food."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoaFFYQnRSV054VEZJNE4xZFVVVEJmYW01b1MyYxAB",
+            "text": "Stumbled across this place one day & loved my experience so much I came back! We were seated immediately and had our food at our table very shortly after ordering. The food & service is great! I’ve come here with friends & solo & would highly recommend!!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOTVgyRnVja1Z6VjFob2FIbDFSa2c1VTJ4WVgwRRAB",
+            "text": "Excellent service, large portions and great atmosphere, would recommend for dinner."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SclpuSldUbVJVYkRWaE5sbE1UVGRoVDNRMWExRRAB",
+            "text": "Delicious! Favorite mapo tofu in the city."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOWFowZDVOVGM0UjFwTGJXSTNOekl3UkV0UFFVRRAB",
+            "text": "Only rating so that I can have a free cucumber in spicy and sour dressing :)"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCTU9FVjJieTFoWkVOdU0xaFpORkJoTURnM09GRRAB",
+            "text": "Good service and good food!"
+        },
+        {
+            "date": "3달 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSNllYUjRhbkp1VDA5NE16aDJXbmhDV214eFpYYxAB",
+            "text": "好吃"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwMGNHNHRhMms1YTFKSVZFRTFPVnAwUkc5cGNGRRAB",
+            "text": "Delicious!! Love the soup dumplings"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oTUxVVnFTbUkzWlVwUU56aG5Ua05GTjB0TGRFRRAB",
+            "text": "Really enjoyed the food and service here. Will return!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twMWNHNXZZa2hTWW1KS1oyRk5ibU51U1hwQ1kzYxAB",
+            "text": "They have delicious appetizers (highly recommended the shrimp dumplings and the scallion pancakes)! The lunch special is super affordable and filling! The brown sugar rice cakes are a great savory dessert! The portions for the standard menu items are fine.\n\nAtmosphere is amazing! Super comfortable seating with large tables :)"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OaFNYbE5SRkJKTjJsUWRsbE5RVk5EVEVkdmIwRRAB",
+            "text": "Great Szechuan food that also comes out fast. Is on the spicier end in New York. Excellent service as well."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xJd1ZYTjBjM2QzWmxnd1NHeFZWM1Z4TFV0Qk1rRRAB",
+            "text": "great food!! came quick, delicious, and fairly priced. will come again."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkdExMVzlRRRAB",
+            "text": "솔직히 음식이 입에 맞지 않았어요. 너무 짜고 기름져요."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvMXRuLTJnRRAB",
+            "text": "We had an amazing meal here! The pickled cabbage fish soup was rich and flavorful, with super tender fish slices. The braised beef with tofu had just the right amount of spice and was full of comforting, savory depth. And the spicy smashed cucumbers were crisp, refreshing, and perfectly seasoned. Everything was well-balanced and delicious. Highly recommend!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvck92N1BREAE",
+            "text": "Some of the best Sichuan food I’ve had in the city! Delicious and spicy but not overpowering, I was thoroughly impressed not only by the quality, but by the service and price point too. The sauce for the Sichuan dumplings may have been one of the best I’ve ever had in my life!  Definitely worth a stop by."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wNE1VeEdZbVJWT0U5YWJIVnhkVTV5TVhGME9YYxAB",
+            "text": "We had a fantastic dining experience at Chow House. We tried the Szechuan chili wontons, Mapo tofu, and beef in chili sauce, and everything was absolutely delicious. The flavors were authentic and well-balanced. The service was excellent, we walked in and were seated within 15 minutes. Our waiter was friendly, attentive, and welcoming throughout the meal. The ambiance of the place was cozy, making it a comfortable spot to enjoy our food. Highly recommend for anyone craving great Szechuan cuisine!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJMzRfdGFRcFlPVkpREAE",
+            "text": "Good Sichuan style Chinese food right near NYU. Standouts were the Sauteed String Beans + Sliced Pork in Garlic Dressing. Some dishes weren't 100% authentic (Braised Fish Filet with Tofu) but still had good flavors.\n\nGreat ambience and quick friendly service. Would come back again!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3eUxiWlZ3EAE",
+            "text": "This is a solid spot for Chinese food! We went there on a Saturday night without a reservation. Pleasantly, the wait was about 5-10 minutes. The ambiance was cozy and the service was friendly. Plus, our food came out really fast — almost all at once, even though we ordered a lot. Definitely a good place if you’re craving Chinese! I’d come back to try more dishes."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJbnFodG1OaGRQN2Z3EAE",
+            "text": "Chow House is a good Chinese restaurant located close to the NYU campus in Greenwich Village. The restaurant offers well priced food, especially for the area, along with high quality. The staff are nice and the environment and atmosphere felt fitting to the food. The restaurant also offers a 10% discount for those with NYU cards so make sure you remember to show that when you are paying your bill."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSeE0yOWtNbU5tWnpCeGMyc3RSbGxRYjFGTFYxRRAB",
+            "text": "This is an amazing restaurant tucked in a small street. Very unexpected but the food was delicious and authentic Chinese! Highly recommend this place!\nThe waiter who took our order was funny and kind !"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMR19nTWFEaTVQUnFBRRAB",
+            "text": "Loved this so much!! Hot and Sour Soup was the best I’ve ever had!! Crispy spicy beef was awesome, walnut shrimp was amazing! Service was prompt and efficient!! Will definitely come back!!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJMGFtajN3RRAB",
+            "text": "Spicy flavors reign at this Sichuan restaurant with classic dishes done well. Loved the spicy chicken and chili fish broth - both had a good kick and were well portioned. Would come back!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvOGFIaEF3EAE",
+            "text": "We had a good meal here! The  fish soup was rich and flavorful, with super tender fish slices. The beef with pickled cabbage had just the right amount of spice and was full of comforting, savory depth. Everything was well-balanced and delicious. Highly recommend!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214SWJYVkdiWEUyVmpZMlRtbGtXazltVGpsNE9YYxAB",
+            "text": "The 3 pepper chicken here is my meal multiple times a month! It is my absolute favorite. The menu is great , Tony and other servers working here know the food and are amazing , and their recommendations are always spot on too!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3dFBQckJBEAE",
+            "text": "Good enough Szechuan restaurant around SoHo area. The dishes were tasty but two out of three tasted too salty at the end (chongqing chicken and stir-fry beef). Speaking of sodium overload 😖.\n\nOtherwise it’s very solid option!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnajhEYjNnRRAB",
+            "text": "Each dish was very solid and very authentic. The service here was excellent and the vibe of the restaurant was great. I liked their salt pepper shrimp and but I would not order the duck again."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VObkk4N2ZSdGVMU1RREAE",
+            "text": "The atmosphere is amazing and the staff are very nice. The menu is organized well and the dishes were delicious."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxdU51aGFnEAE",
+            "text": "Place is a bit small but the food is definitely authentic and delicious. Advice is to be there with everyone on time.\n\nHere for a birthday celebration and I wouldn’t suggest that for a big group. The place is small and everyone would have to crowd in a little. The restaurant is well decorated with simple furniture and Asian theme.\n\nFood can be hit or miss. Most of the dishes are good especially their spicy chicken and Peking duck. I would say it’s Szechuan food and they use really good quality. I can sense they don’t hold back on spice and quality used.\n\nService is good and attentive. We didn’t feel rushed as we were last group to leave."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGLWV6cGR3EAE",
+            "text": "After Church, My Chinese friend who wanted to take me and another member of the church out to explore of Chinese food. She picked Chow  House to be the place to hanging out. I love Chinese food but with my friend, she shows me different type of Chinese food so from now on I have more knowledge when I go to Chinese restaurant.\n\nFrom starter, we have dumpling soup that stuck in a dumpling. Sauteed Snow pea leaves was terrific! Duck with bun is good. The oily dish is my Chinese friend idea. She just wants to show us the food that is common for Sichuan people. I don't really like it because it is too much oil. Lamb with dried chili is okay, a bit too much chilly and salty. Coconut water in can is too milky, I thought it will be clear and lighter.\n\nRestaurant has good seating and wonderful decoration. Service is also nice and friendly."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmbHRmV0h3EAE",
+            "text": "I really appreciate the Asian style service: good observing but not too disturbing. The beef noodle is chewy for both noodles and meat. The flavor is really strong and spicy for me, Asian. I'll probably try prix fixe 合菜 with friends next time. The decorations and background music fit in really well."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQxMWFxM0JBEAE",
+            "text": "Great food (just need to be a bit more consistent), okay service and always make you feel like eating at a Chinese aunt’s house (compliment).\n\nThis is my go-to Chinese in West Village. When to had Luna New Year dinner here everything was great but the fish was a bit stinky which was a bummer because it was the main dish. Shrimp with peanuts was surprisingly good and not too spicy as it looks, will definitely add this to my go-to menu.\n\nCan’t go wrong if you want something quick and yummy in the village!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNScDhIb1l3EAE",
+            "text": "One of the best Sichuan restaurants in the city located in West Village near NYU. Dishes came out fast and piping hot. Delicious flavor, variety of combo, and very reasonable price. Staff was courteous and the service was great. Highly recommend Chow House. Will definitely be coming again."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMM3FQekNBEAE",
+            "text": "We placed a large online order on their user-friendly website. The delivery arrived before the promised deliver time and this was something good. It stayed warm in the aluminum containers. The food is delicious. So far we’ve placed two large orders with them and will continue to do so. This restaurant is excellent!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKUzB4c0d4bE1mQjBBRRAB",
+            "text": "Super authentic Chinese food! Such a pleasant surprise! We ordered the chili fish filet, scallion beef, shredded potato! Scallion pancake, highly recommend!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvMGV1VUVBEAE",
+            "text": "Wow this was a delicious meal! Really liked the Chongqing chicken and the braised fish in chili oil. Pictured here as empty plates bc we ate everything 😅"
+        },
+        {
+            "date": "1년 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURudWZuZ09REAE",
+            "text": "最近有幸光顾了这家餐厅，真的是一次难忘的用餐体验！从进门的那一刻起，就被它温馨而雅致的氛围所吸引。服务员的微笑和热情让我感觉宾至如归，他们的专业素养和对菜品的熟悉程度令人印象深刻。\n说到菜品，每一道都堪称精品！我特别推荐他们的招牌菜重庆辣子鸡，色香味俱全，每一口都能品尝到新鲜食材的鲜美和厨师的匠心独运。而且，菜品的分量也恰到好处，既满足了味蕾，又不会让人感到负担。\n环境方面，餐厅的装修风格很有特色，既保留了传统元素，又融入了现代感，非常适合和朋友小聚或家庭聚会。音乐的选择也很到位，营造出一种轻松愉快的用餐氛围。\n最后，我要提的是这家餐厅的价格定位非常合理，性价比极高。吃完之后，还有一种意犹未尽的感觉，已经迫不及待地想要再次光顾了。\n总之，这家餐厅无论是从服务、菜品、环境还是价格上，都给我留下了深刻的印象。强烈推荐给每一位追求高品质用餐体验的朋友！"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCZ04yckxnEAE",
+            "text": "The food was really good. Very tasty and the dishes got served quickly. The quality of mains is really large so be careful when ordering.\n\nWe started off with the sichuan spicy dumpling and the Dan Dan noodles. Both very tasty.\n\nFor mains we had the Chongqing Spicy Chicken and the Braised Fish in spicy chili broth. The chicken was crispy on the outside and soft and juicy on the inside. The fish was tender and melted in the mouth.\n\nGreat value for money. NYU students get a discount when they show their IDs."
+        },
+        {
+            "date": "1년 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMaWI3bWVBEAE",
+            "text": "Amazing Chinese food! The staff is very friendly, the decor and ambiance quite good.\nMany special dishes very tasty and only found there!\n实在太好吃了！环境很好，服务也超好！"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJLUtTakxREAE",
+            "text": "I really liked the food ! Fast service and huge portions. Recommend getting a reservation to get seated right away. Great spot for large parties !"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIaHJmUTNRRRAB",
+            "text": "Wow, what an amazing dining experience at Dragon Palace 🙌🏻. The spicy eggplant and beef chow fun are my absolute favorites, and I can eat them any day 🤤. Friendly, prompt service, food was delivered on time. Very good lunch specials suitable for local college students! Dragon Palace - It is a very genuine Cantonese place right in the heart of town 🏙️. The har gow was perfectly crafted and tasted just as good as at the Dim Sum Palace 🥟. We passed by to have a quick dinner before going to a concert 🎶. We were seated within 10 minutes, and food even came quicker. The flavors just threw me back into the dishes of my childhood 🥢.We ordered shrimp har gow, stir-fried bok choy, and beef with broccoli 🥦. Literally, these shrimp har gow were from the gods 👼. Thin yet strong skin wrapped around the juicy filling of shrimp inside perfectly. Rich flavor and on-point texture made every bite a delight 😋. My only regret was that I didn't get more of it. The beef with broccoli had this really great savory flavor with tender beef. It really went well with the steamed rice, and I just scraped the plate clean 🍚. The stir-fried bok choy tasted deliciously garlicky in texture 🧄.Overall, I am quite pleased with the meal I had at Dragon Palace and would greatly recommend this to the Chinese food lovers in the vicinity 🥡."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiMGNTc293RRAB",
+            "text": "We had a lovely experience at Chow House. Great service with that little extra that makes you feel special. Also the food was truly great. Will visit again, and I strongly recommend this restaurant as it offers great value for your dollar."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRanNtZ1RBEAE",
+            "text": "Really delicious, went for a friend’s birthday and received free ice cream. My favorite dish had to be the crispy beef with the pesto fried rice. Served was kind of passive aggressive."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR0czZfX3h3RRAB",
+            "text": "i ordered their sichuan spicy dumpling, hot and sour soup, sautéed garlic bok choi, and crispy chicken (chicken cubes stir fried with red chili pepper). each dish was prepared well and had authentic flavor profiles. the dumplings had a silky soft skin with a well balanced ratio stuffing. they’re also sweet with a slight kick (not spicy). the chicken dish was cooked very well. the meat was crispy on the outside but had an extremely juicy and tender texture inside. the dish packed some heat but i personally love spice so it didn’t bother me. they have many other dishes i’d love to come back again to try (dry pot, braised beef silken tofu, salt and pepper shrimp, etc). highly recommend for some spicy szechuan cuisine!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnMXFLWi1RRRAB",
+            "text": "Food very fine. Generous portions. Spicy cucumbers excellent. Fish with pickled vegetables excellent. Varied choices, which was fun."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2djZIdE5nEAE",
+            "text": "Amazing dumplings and other Chinese food for a reasonable price. The staff is friendly and attentive. It was easy to walk in and get seated for dinner. The design and atmosphere are great-cozy and stylish, making it a perfect place to enjoy a meal!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWSVVFSnFSMGt4UTJkYVpVODRVUzFEVERBeWVuYxAB",
+            "text": "Stellar place .\nAuthentic Flavors, hands down worth the reservation or wait time to get in."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNacDZLbkJREAE",
+            "text": "Well done, Chow House, well done. Authentic cuisine, expertly prepared.  Twice Cooked pork, done the right way. You can see the leeks from the photo with none of that Americanized garbage many places dump into this otherwise elegant dish.  It could have used a touch more spice, I’d ask for it spicier if that’s the way you like it. The spicy crispy shrimp was spicy, whew, that was awesome. Big shrimp.  Big flavor.  Peanuts.  Initially, I was scared of the deep fried dried red pepper, but they turned out really tasty and crunchy, not as spicy as I had originally feared. Pork fried rice, expertly cooked.  All in all, if you live downtown and like authentic Sichuan food, this is your place.  Bravo!"
+        }
+    ],
+    "reviews_count": 85
+}

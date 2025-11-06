@@ -1,0 +1,537 @@
+{
+    "name": "Fonda",
+    "place_id": "ChIJ33jKIg1bwokRxQnVW6HnuHs",
+    "grid": "MN1",
+    "address": "139 Duane St, New York, NY 10013, USA",
+    "rating": 4.6,
+    "user_ratings_total": 223,
+    "phone_number": "(917) 261-6950",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOd2J6aGtYMjQ0Vm05S1FsWk9MVkJGUjJKaWVYYxAB",
+            "text": "Excellent place to have lunch or dinner. Service was great and the drinks were amazing. I would come back!!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poaVNWY3lOSEZ3UlhoWGRVWm5XRkJHYlZZM1VIYxAB",
+            "text": "Drinks and food are amazing!! Their seasonal flavors and authentic dishes make me go back again and again. The ambience is incredible to enjoy spectacular drinks and food.\n\nI recommend trying the specials and some of their staples, like the flautas and street corn."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCc01ETTBSakZpTkRaQ09GRkRiV0p0YUdKUldGRRAB",
+            "text": "My go-to spot for everything.\nYou truly can’t go wrong with Fonda. It’s perfect for any occasion: upscale without being uptight, beautifully designed, and very reasonably priced considering the quality and flavor of the food. And the food… it’s fantastic!\nAs someone born and raised in Mexico, I come here whenever I miss home cooking. Everything I’ve tried has been delicious, but please don’t miss the zarape de pato. It’s absolutely delectable.\nI brought my [Mexican] mom here while she was visiting. She was skeptical. She lives in Mexico, so what could a Mexican restaurant in the U.S. possibly offer her? Well, she’s now obsessed. She mentions that zarape at least every few weeks, still trying to replicate the sauce, and regularly tells me I should go have some.\nSo yes, it has my full endorsement. And my mom’s too, all the way from rural Mexico, a place known for its incredible cooking."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201NVRGZFRYM1ZxU1RaSU56UTVVbnBuTFZJNFJtYxAB",
+            "text": "Amazing service, definitely recommend it. I love the food and the drinks were great. I’m definitely looking forward to birthday dinner here."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toUWIxcGZjMXByVlRaWE9Vc3lUMHRHUVhCc2MzYxAB",
+            "text": "Attended a friends birthday party and from the moment I got there the service was amazing. From the appetizer to the main course and the drinks, everything including the atmosphere was wonderful. Had a great time would highly recommend to anyone. Thank you all and see you soon."
+        },
+        {
+            "date": "3일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWWGRWVk5hRkZMWlV0U2FIWk9aamRKYzNGT2FtYxAB",
+            "text": "La comida estuvo espectacular, el servicio fue excelente y los tragos aun mas. En general tuvimos una experiencia muy agradable. Definitivamente volveremos."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psNlpEbFhWVGh2VldJek9WaEdiSEZqTTJsVVkwRRAB",
+            "text": "Love this place- good food, excellent service."
+        },
+        {
+            "date": "3일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Wd1gzQnVVRzR5WkRGWGN6Rm1aeTFzZDNneFNtYxAB",
+            "text": "Fui a comer ayer y todo excelente , comida muy rica, servicio excelente y el personal muy atentos , en general 100 en todo"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OT1VuUnpiMEZ5ZFhoSFExQmFNMVJDWkVJMFEwRRAB",
+            "text": "The best restaurant in Tribeca. The food was delicious !! The service was excellent!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214MFpsRkVSRGt6TWxGNVkwSkdiSGx0T0VoRlNFRRAB",
+            "text": "The price point matches the care put into the food. The portions satisfy completely at affordable rates. Adding to its excellence, the proprietor is extremely friendly and detail-oriented. The dish featured uncommon components yet came efficiently. Other options miss what matters."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sWlRrMUpRMEZxU2t0UVFuUjZUbkJZUzJ4RVlVRRAB",
+            "text": "For those that know a good enchilada, this is the place for you! My wife and I went there at 8pm on a Tues and it was busy but not too busy. They were able to seat us without a reservation. I ordered the chicken enchiladas. The enchilada sauce was amazing. It was zesty and tangy, but not too spicy hot. The chicken was moist and flavorful. Far too often the chicken can be dry in enchiladas, but not here. My wife had fried plantains with cheese and crema. She also liked her plantains. My wife loves tamarind aqua fresca and they had it here. The service was friendly and prompt. We had our food quickly. The price was reasonable."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aa2VGUXlSVWxOY1dSQmFraEJSV2MzU25GZmQzYxAB",
+            "text": "Best frozen margaritas!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poQlgwMW5lR0pQZUVsTlRWTjNOMHRGWTNsV2RGRRAB",
+            "text": "Fonda is awesome! The food is fresh, flavorful, and full of that true Mexican taste — the tacos, guac, and margaritas are all spot on. The vibe is lively and colorful, and the staff are super friendly and quick. Perfect place to grab great food, good drinks, and chill with friends."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0alRXaHpUVk5ZYkRWblRYWlhSVEZhZERsNVkxRRAB",
+            "text": "The food is nice and authentic"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sSk5raHBZVWxSVWxwWU16VlhVVzlYUms1cFFrRRAB",
+            "text": "If you’re craving authentic Mexican food with a modern twist, Fonda is the place to be. From the moment we walked in, the vibrant, yet cozy atmosphere made us feel like we were dining in a neighborhood gem. The restaurant has a warm, inviting vibe with colorful decor that’s not over-the-top, but just right to set the mood.\n\nWe started with the guacamole with tortilla chips, and it was absolutely divine—fresh, flavorful, and with just the right amount of spice. For the main course, I had the enchiladas verdes, which were fantastic. The chicken was juicy, the sauce was tangy and rich, and the dish was perfectly balanced. My friend opted for the mole chicken, and it was a winner too – the mole sauce was rich and deep, and the chicken was cooked to perfection.\n\nThe margaritas were also a highlight – refreshing, not too sweet, and served with a salted rim. They really know their way around cocktails at Fonda. The service was friendly and attentive, and we were made to feel welcome from the moment we walked in.\n\nOverall, Fonda is the perfect spot for anyone craving authentic Mexican flavors with a contemporary edge. It’s casual, vibrant, and the food is absolutely top-notch. I’ll definitely be coming back for more!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GWExXNUxYemhxTmtGclMxRjFUbTlWVXpoTGFsRRAB",
+            "text": "Sorry, but I must warn other taco lovers that these are not good tacos"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Zd1Z6VklTSFJEV0hKNE1HbEJZWGxpTjBaeldGRRAB",
+            "text": "The nicest servers ever, delicious food, and great vibes!!"
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxV1FuTm9RbUpJUjBrelVqbDVhMWw2Y3pkWWRFRRAB",
+            "text": "Muy bien todo, el manager es el mejor."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGM2EycG5jbmN3TWtwNVVHcE5aSEpJZFdnMVYwRRAB",
+            "text": "The staff are INCREDIBLY NICE AND SO SO SWEET. One of the best service I’ve experienced. They truly care and are warm. Thank you so much to the waiters and staff for the very tasty food and being so kind. The proportions were good for the price. We will be back!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMU01vZURFdW9iWmlnRRAB",
+            "text": "Delicious, authentic Mexican cuisine, good prices and lovely atmosphere."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLdnFoTmJ5MUtmQkdnEAE",
+            "text": "Great spot for both happy hour and dinner! As we have enjoyed the other location in Chelsea, it was great to welcome this establishment in Tribeca. Birria de res was an interesting spin! The guac was tasty, and I’d recommend getting the spice on the side. HH all night Monday and Sunday; 4-7 p.m. Tuesday to Friday."
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZb2E3N2ZBEAE",
+            "text": "Fonda is a delightful Mexican restaurant that offers a warm atmosphere and vibrant decor. The menu features authentic dishes bursting with flavor, and the service is attentive. Don't miss their signature tacos really good must order"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnNnRiT2xBRRAB",
+            "text": "Food was underwhelming but service and general atmosphere was great. Their guacamole is a must!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBbzZ6QktREAE",
+            "text": "Great food with great ambience"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfcDRPU2tBRRAB",
+            "text": "We've been going to Fonda for years and love it.  Last night we almost had a lousy experience but NO!  The management went above and beyond to make everything work perfectly for us.  I was very grateful because it was my birthday.  We all enjoy the food- my favorite is always camarones adobado and it was delicious as usual.  My son loves the fried plantains and they really are they best of anywhere we've eaten.  Thanks Fonda for continuing to be a reliable, fun, delicious place for our family!   ***I can't seem to to get the individual star ratings to change- they should all be 5 stars!"
+        },
+        {
+            "date": "9달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmX3RPSG13RRAB",
+            "text": "Chingon, simplemente buen servicio y comida por arriba de lo regular."
+        },
+        {
+            "date": "10달 전",
+            "language": "es",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmdzR6VUlnEAE",
+            "text": "El taco campechano me decepcionó. Lo mismo con el de pescado o el pastor. El guacamole estaba muy rico, si bien los totopos no parecían caseros. También me gustó el queso con chorizo pero, desde luego, este local no vale lo que cuesta."
+        },
+        {
+            "date": "10달 전",
+            "language": "es",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmd19pYnBnRRAB",
+            "text": "El guacamole y el queso estaban muy buenos.\nLos tacos eran decepcionantes. La tortilla estaba seca aunque quizá no tanto como la carne.\nSalimos pagando 140$ por guacamole, queso con chorizo, una orden de pastor, una de campechano, una de pescado (este último sin comentarios), un mojito y otro coctel.\nLa oferta de tacos en la ciudad es demasiado grande como para acabar en este local."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmaXIzbXVBRRAB",
+            "text": "This place has great food and drinks, the bartender Gael recommended me the chicken flautas and the pastor tacos. Both were delicious, I also had the crema de elote and the esquites, just i little disappointed on the esquites but I asked for some tahin and lime and that help a lot. If you’re going to drink ask for a spicy cucumber margarita, they are amazing"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2d3VfLUd3EAE",
+            "text": "Fonda serves the best Mexican food!  We love the enchiladas de mole and the carne asada, but the best is the tortilla soap.  Very nice atmosphere.   The service has always been consistently good.  Highly recommend!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQMmRDeUt3EAE",
+            "text": "Definitely one of my favs! From the hibiscus margarita to the mole chicken enchilada or the shrimp mosquito - it’s perfect!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzeGFXa193RRAB",
+            "text": "The queso fundido and their signature drink are a must. Love the music and energy.\nOur server, Mer, was lovely. Will definitely be coming back."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzdy1YYXNRRRAB",
+            "text": "Delicious mexican cuisine!\nWe wanted to come for pre dinner happy hour drinks but unfortunately they only serve these at the bar. Margaritas and draft beer selection were tops. Food was also without fault, great flavours and good portion sizes. Can recommend the Beef Carne Asada! Our servers were all so friendly and helpful. Thank you!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuMTlEZ0FREAE",
+            "text": "The atmosphere is nice. The service is extremely slow. I have sat for 20mins but I still did not get a cup of water even I mentioned it many times. The foods came late and not that good. It’s close to where I live, but I don’t think I will be back. The best thing probably is that the food is cheap."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNucFlxRUdREAE",
+            "text": "Excellent group dinner here. Really enjoyed the guacamole and ceviche. My mojito was spot on. We will be back."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIbC1IcVlnEAE",
+            "text": "Some of the best Mexican I've had on the East Coast. Represent, Fonda. Please come to DC!\n\nThe mocktails, nachos, pineapple upside down cake, churros, and flan were EPIC. Literally reminded me of my childhood. So nostalgic!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIanNhOXBnRRAB",
+            "text": "Came here with some friends and we had a great time! Our server Rosa was super friendly and we got some delicious margaritas (I would recommend getting the margs on the rocks over the frozen margs). Chips and guac are to die for"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIOEs3OXdBRRAB",
+            "text": "One of the best Mole Negros I have ever had. Warm friendly people."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIeW9qOXV3RRAB",
+            "text": "My food was cold. The waitress never showed up to check how our meal was going. At the end I let her know and she faintly apologized. I used to like Fonda and go to its other locations but the level of service and attention to quality seems to have faded. It sucks because I’ve spent a lot of time and money there but I definitely won’t be going back to this location."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3ei1UQ2xRRRAB",
+            "text": "Not a lot of great Mexican in Manhattan, but this place is AWESOME!! Great drinks, great food. The sauces are where they shine !"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3al8yMWd3RRAB",
+            "text": "I have been here quite a few times and the service is great, Food is excellent, great place."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3ck42QnhnRRAB",
+            "text": "INDEED, Great atmosphere,  Greater service,  Great food."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURicjhuRHlnRRAB",
+            "text": "Guacamole was decent, but the chips were hard and tasted like store bought. Mole sauce was pretty good, but the chicken was terribly dry and overcooked. Doesn't seem like they care what they put on the plate."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGcDZ1SkhBEAE",
+            "text": "Love editing a prior review for a positive!  Red snapper was perfectly crisped and flavor was balanced with just enough citrus notes.  New host (and/or manager) this evening and the service is very friendly and welcoming - perfect."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiM01QTjBnRRAB",
+            "text": "Fonda staff could not be more welcoming and accommodating! Food us delicious and the atmosphere is lively, but you can still hear each other"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyXzZmN1p3EAE",
+            "text": "What makes a restaurant a place you can to come back to? Food, service and atmosphere? If so, then Fonda has everything you are looking for. The food is flavorful, brought on time, and with care. What I mean is…the enchiladas de mole de Oaxaca are divine; the mixture of sweet and savory are perfection. Start with the sopes if you like toasty flavors and beans. Or try the empanadas de Mar if you love seafood and hearty goodness. I love the enchiladas Souzas but I grew up with this dish in Mexico City and they are as close to Samborn’s signature dish as I have ever had. The carnitas Fonda are spectacular. Soft and perfectly cooked pork with delicious onions and peppers in green chili sauce. I was in heaven. Not too spicy so you’ll eat more and more. If Juan is working (usually Sundays) you’ll get excellent bar service, superior to many pretentious places in Tribeca. I can’t say better things about Fonda because you have to try it to believe me. Their Happy Hour specials are so good you’ll plan your week around it. Salud!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURydU4zdWJREAE",
+            "text": "I was disappointed by everything, even the Margarita, which is hard to ruin. Guacamole was bland though we'd asked for medium/hot. Food looked fine but was tasteless except for the quesadilla I requested (not on the menu), which was good. I wouldn't recommend it. And it's loud. Two TV's were going the entire time. The decor looks a bit chintzy. My husband and I, who generally love Mexican food, found it hard to pick dishes as the menu looks large, but felt limited. Service was fine, but I'd go elsewhere."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMN2YzM29BRRAB",
+            "text": "Fonda restaurant offers a delightful culinary experience that beautifully blends traditional Mexican flavors with a modern twist. The vibrant and colorful ambiance sets the stage for a memorable dining experience. The friendly and attentive staff enhances the overall atmosphere, providing excellent service from start to finish.\n\nThe menu at Fonda boasts a wide array of delectable dishes, from flavorful tacos and fresh ceviche to mouthwatering enchiladas and decadent churros. Each dish is expertly crafted with high-quality ingredients, resulting in rich and authentic flavors that leave a lasting impression\n\nOverall, Fonda restaurant is a must-visit spot for anyone looking to enjoy a taste of Mexico in the heart of New York City. With its inviting atmosphere, flavorful dishes, and attentive service, Fonda is sure to impress even the most discerning food enthusiasts."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMMlltOFJnEAE",
+            "text": "Excellent food. For starters guacamole was delicious, tailored to our spice level, homemade corn chips- amazing!!!  It just got better. We were all eating off each others plates. Cannot recommend highly enough"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6c01lclJBEAE",
+            "text": "FLAT OUT RACIST. I have been to the other Fonda in Park slope and loved it. I even celebrated my anniversary there and when I got my masters degree. I went to this location today and my partner and I waited 30 minutes before getting up and leaving. No one had even come to our table and greet us or pour us water. I flagged down the hostess and a food runner to ask for the server and they said mhmm but no one came. The host was sooo grateful we took an outside table bc their inside was full and it was hot so no one wanted outside and they didn’t even bring us water.\n\nAnd honestly all this was annoying but we were ok with continuing to wait because we love the food and drinks. But during our wait, they sat 2 other tables outside next to us, served them water, asked for their drink orders and kept filling their water…\nEveryone seated after us was white. I am Chinese and my partner is Black. He also is disabled and uses a cane to walk. One white woman with her young daughter actually flagged the host down to tell her that we hadn’t even been approached but tables after us had and that we were going to leave (we were getting up at this point). I was right by the host trying to tell her that we were leaving because of the wait and she would not talk to me and continued pouring the waters for the other tables while the white lady was trying to tell her I was behind her trying to speak to her. I am beyond disgusted with this place and will never go there again. Also telling everyone else I once recommended this restaurant to that they employ racist ppl and don’t deserve a dollar of our money."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwNlpPWDF3RRAB",
+            "text": "NYC is full of great restaurants and this restaurant is amazing! They have indoor and outdoor seating and we decided to sit outside! The menu has plenty of good options and they have separate vegetarian menu!…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURadHR5bzFBRRAB",
+            "text": "A lovely find in the heart of Tribeca. Authentic Mexican food with a modern touch, we loved the food the atmosphere and the super friendly staff of this place. The birria dish with warm tacos and crab cakes were our favorites from what we’ve tried. We will be back for more :)"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPdDRmUzF3RRAB",
+            "text": "The kitchen was open to making dishes vegetarian. Great atmosphere and service. Great alcoholic and non alcoholic drinks. Food was good as well.\n\nI wish there was more light in the restaurant, when we were there's around 4 PM it felt kind of dark but definitely not a deal breaker in any way.\n\nWe had been to the Chelsea location last year and this one in Tribeca felt markedly better, at least in terms of service."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSNUo3TXFBRRAB",
+            "text": "Great Mexican in TriBeCa. Food is consistent. Staff are super friendly and accommodating. Plenty of tequila options if you’re a tequila lover. Fun space inside and outside if it’s a nice day. Enchilada (chicken) suizas is tasty and has a nice acidic kick to it. The better half had salmon con manchamanteles and loved it. Guac to start a classic and the empanadas del mar we’re yum. All mains come with rice and beans. Can’t really go wrong here if you’re looking for a staple local Mexican"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlMXRlX2xnRRAB",
+            "text": "Very welcoming chill vibe. Attentive service. Great happy hour! Dishes were quality and good portions. Go by their recommendations, which were the best. Chicken mole entrée which wasnt recommended was least favorite though portion was very generous. Good black beans."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxb2J2WWh3RRAB",
+            "text": "Fantastic place and food! We loved every dish we ordered - camarones adobados, seared salmon, quesadillas, guacamole with chips and the lovely signature margaritas. Super attentive service, what a great find!!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPOEttUVNnEAE",
+            "text": "What a great first visit we enjoyed at La Fonda last night! First off, all the staff was super friendly and offered great advice about the menu (there were so many entrees that looked good, we needed some steering!).\n\nDrinks: Hibiscus frozen drink was gorgeous to look at and just delicious. S. Blanc from Mexico was another good pick.\n\nMade to order guacamole to start was a must! Huge chunks of fresh avocado and you could choose your spice level.\n\nEntrees: The grilled  red snapper special (difficult to find this fish on menus) and  Camarones Adobados (shrimp over spicy green rice and black bean sauce, which I requested to be less spicy, thanks!).\n\nFresh blue homemade tortillas (I woke up wanting these badly!). Thank you for offering these. Just mouthwatering!\n\nDessert: We were too full, but next time it will be the choc. tres leches cake, in case you are wondering).\n\nNote: everything had a complex flavor and you could taste the love put into cooking the dish!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEX19QQ2Z3EAE",
+            "text": "The atmosphere at Fonda is great. Their Mexican food was fantastic and loved their margaritas (tamarindo and the pineapple). I enjoyed the grilled fish tacos too. I would definitely visit here again!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlN3A3RmJ3EAE",
+            "text": "As Mexican person I had not found good Mexican food around New York until I got to Fonda ! The food is more than great! Is like in Mexico and for sure this place in Mexico would be as good as in here ! I totally recommend this place bc the…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPMXVXNHd3RRAB",
+            "text": "I am fond on every FONDA restaurant in NYC and I am particularly fond of FONDA TriBeCa. Fonda’s new space is contemporary while capturing the color and magic of the discerning Mexican modern design. FONDA’s food is delicious. We ordered our favorites: Guacamole, tacos al pastor, the outstandingly scrumptious  “zarape de pato “ and fell in love with a new one for us, “sopa de tacos”. Roberto’s Santibanez’s “sopa de tortilla” has been a staple at our home through his cook book, but after delighting in Roberto’s “sopa de tacos” , we are rethinking the tortilla soup. It’s a joy to eat a perfect size flauta with the perfect crunch that melts in the mouth with the yummy green caldo. For main course we had the outstanding carnitas and the mouth watering “mole negro” with duck. Cocktails were superb. I have a new favorite, the spicy margarita. I strongly recommend the scrumptious desserts accompanied by a shot mezcal.  The service was personal and outstanding! We can’t wait to go back. Thank you Marco and Roberto for this AMAZING Fonda location! 💓"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURsdFl6ZDN3RRAB",
+            "text": "Lip smacking delicious. So packed with flavor. Manager and waiter are so friendly and its a warm atmosphere all round. So excited to visit again!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPM3BLcWlRRRAB",
+            "text": "Amazing restaurant, one of the best mexican food I had in NY. Good quality  and fresh ingredients deliver simple traditional mexican dishes with a very refine and sophisticated flavours. Congrats to the Fonda chef! Thank you for the best mexican tacos meal I had in years."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURodTktVVV3EAE",
+            "text": "The food was great, the coffee also was very good the only problem is that they take a little to long on serving the plates. The coffee was a little cold for my liking and we ask for some cream for the coffee and but the time they bring it I was almost done with my food and coffee."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSd2QyT19nRRAB",
+            "text": "Ordered the vegetarian Enchiladas and the Guacamole!\nThe Gauc was amazing, spicy and had the right flavour.\nEnchilada were meh! My other friend ordered the chillequella which was soggy and under whelming.\nAll in all it was an okay experience however the ambience was energetic.\nMay go again for the guac!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKdGZ5ay1nRRAB",
+            "text": "New favorite Happy Hour spot. The Rosalita was great! The flautas and guac were seasoned deliciously. The taste of the freshly made tortillas and chips was excellent!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPMnBEMnpRRRAB",
+            "text": "Excellent service  and food. Very clean. John the manager is friendly and professional.  Our server was the best. Can't remember his name but his brother works there too."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURScGZXdWxnRRAB",
+            "text": "Great food (but very spicy), the place is lovely with great atmosphere (a bit loud music). Perfect service"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSazduOHdBRRAB",
+            "text": "Love their guacamole appetizer!!! The Taquitos San Andres (Pork Carnitas) were delicious as well. I highly recommend Happy Hour (bar only)."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6eC1QamJBEAE",
+            "text": "Absolutely love how this place looks! The decor is very lively and the staff are extremely sweet as well! Loved the Tacos (especially the chicken) and the Margaritas (special mention for the Spicy Blood Orange and Tamarindo). The entrees were fantastic and the desserts were a good end to our dinner!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNOd3RfdHpRRRAB",
+            "text": "What a lovely neighborhood gem. Interesting menu with unique twists on traditional Mexican foods. Molé was spot on. 😋 We tried 3 different margaritas, all great. Portions are plentiful. Staff friendly and super accommodating. We'll be back!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCc3V2WjdRRRAB",
+            "text": "I had the best time there. Tacos and margaritas are so good, I could have it as my diet for the rest of my life.\nIf you like it spicy, dont think twice - go.\nAlso, they are very approachable if you reserved for less people than your party is, or if you are making it late.\nThe atmosphere is great, too."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSb2V6aDRRRRAB",
+            "text": "The food was really. The drinks was okay. A very modern spot. Great restaurant to chill and enjoy the ambience. The staff was attentive & friendly.\nThe downside about this place the tables was small. So my cousin and I kept kicking each trying to stretch our legs."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkeDdfaGdnRRAB",
+            "text": "Hands down the best Mexican food in NYC. First time dining here and it was beyond excellent. Started with the guac, which was outstanding. Entrees included Pollo Norteño, Carne Asada Taquitos, and Tortilla Soup with salad. Do yourself a favor and order the chicken, you will not be disappointed. Perfectly cooked and seasoned, cubed and served on a cast iron plate with  cheese, onions, and warm tortillas. The sauce is a showstopper, a little spicy but you can't stop eating it. Melt in your mouth brownie with ice cream for dessert. Definitely worth a visit if you're in the mood for a great meal with excellent service in nice atmosphere."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6Z2FYbnlBRRAB",
+            "text": "1st time here and it was awesome. We were a party of six and at the end of the meal all plates were completely empty. It is also the 1st Mexican restaurant I have been to where the majority of the wine list are Mexican wines. The wine list is short, but does it really need to be long? Both reds and whites were enjoyed by the group. Lastly, their Queso Fundito con Chorizo might be the best I have ever had. Most Queso Fundito is oozing with grease given the nature of the ingredients. I have no idea how they do it here, but there was no visible liquid grease in the dish!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPbDc2MW1RRRAB",
+            "text": "Came here for lunch when I was visiting the city with a friend. The atmosphere is very cozy and inviting. The food and drinks were amazing. I had the birria and it was so tender and flavorful. My friend ordered guac and said it was one of the best she’s ever had. The margaritas were so refreshing and perfect. The service was fantastic too."
+        }
+    ],
+    "reviews_count": 75
+}

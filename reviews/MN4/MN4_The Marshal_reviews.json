@@ -1,0 +1,565 @@
+{
+    "name": "The Marshal",
+    "place_id": "ChIJs9RGG1JYwokRi3KuI3Lzr88",
+    "grid": "MN4",
+    "address": "628 10th Ave, New York, NY 10036, USA",
+    "rating": 4.5,
+    "user_ratings_total": 852,
+    "phone_number": "(212) 582-6300",
+    "reviews": [
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCcFRuQnVZM2xvV0hFeGFWSnFaVVIzVGw4elFXYxAB",
+            "text": "Best food we’ve had in whole NYC. Will be back for sure!"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVdGJXeHNSMVpTYjFoMldWTldNbGcwT0ZOQ2NVRRAB",
+            "text": "We found the seating to be very tight and uncomfortable. We also found the restaurant extremely claustrophobic. We were not able to hold a proper conversation due to the closeness of other dinners."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SemRrWjZXRmt6Wm1RMVh6ZHlWbEE1V1VwYVNsRRAB",
+            "text": "Nice little spot with wood-fired oven meats and pizzas."
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNNGFuZElVRWRUVUU5RGMxbDRNbE00ZVRsV1NGRRAB",
+            "text": "I was so glad I chose The Marshal for dinner with friends on our weekend in NYC. Everyone in the group raved about their food. The atmosphere is very old school...a tiny space packed with locals."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4UVMyeDNPSFpvYjBGQ00yTjZWSGRTV2xaWlUxRRAB",
+            "text": "I took my parents here for a late lunch (2pm) and it was PHENOMENAL! We got the seasonal Autumn pear salad and the seasonal autumn pear pizza (we love a theme) and everything was absolutely delicious. Well balanced flavors, not overwhelming, perfectly filling. And the espresso martini is also amazing. I will be coming back to try their other pizzas!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKWGVFaEtPWFZvWDNOWGJUUXhURFJCY1UxTk5tYxAB",
+            "text": "My husband and I sat outside for a late lunch here around 3PM on a Saturday. It was difficult to choose what to order because the whole menu looked so good. The mushroom gnocchi was great and my husband loved the burger. I hope to try more of the menu next time I’m in the area!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CelFYUnRTemxLWVd0d2FEUnNlVVUzVkU5V2NXYxAB",
+            "text": "Very quaint, and cozy. The food spectacular, the service top notch. The owner Charlie is very attentive, personable, and friendly. The staff follow his lead. The food was served hot and delicious. The waitstaff was outstanding. The desserts were decadent and delicious. This now our NYC go to restaurant. Thank you Charlie and staff for an awesome experience."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWWVgzVlRNamhDU2xaTmNYazBia2hDV21OWE1HYxAB",
+            "text": "The food was fantastic, the atmosphere was great and the staff were wonderful. I cannot  wait to go back!"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrd1REVnBWUzFUTm10d2JYaDJSRGh0Y3pBeGJIYxAB",
+            "text": "The Marshal es un lugar increíble para desayunar en Nueva York. Todo viene directo del farm a tu plato, con ingredientes frescos y de primera calidad. La fritanga fue espectacular, llena de sabor y perfectamente cocinada. El ambiente es cálido, con ese toque rústico que te hace sentir en casa. La atención muy amable, el unico detalle es que no tenian cafe espreso , solo americano . Sin duda, un sitio que vale la pena visitar y repetir cada vez que vengas a la ciudad. ¡Altamente recomendable"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214eFVteDNlVWxPWDA1dU5HaGxkSFZWZGpoa1RtYxAB",
+            "text": "Farm to table, you can't get better. I highly recommend the fall squash soup.Theo was a great waiter."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205b1EwbG1WalJTV0RBMVRXbE9ZbDl2U1Y5Wk9GRRAB",
+            "text": "Great food, locally sourced, was a real treat. Don’t pass the opportunity by!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kT1dYaG1VRVpwU2tsWk9Hd3pNVWROV210a1NYYxAB",
+            "text": "Super delicious Farm to Table dishes! The salads were superb as well as the mains. Coffee was good too :)"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURzdW9uYUt3EAE",
+            "text": "Good service and great entrees! One star deducted because the potato chips made us feel like we we're eating at a corner store Bodega."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIcnFyREJBEAE",
+            "text": "The staff, the Owner  (Charlie) the all make us feel at home! ...and the food!? Ya! Don't miss The Marshall.\n\nThe Fall menu has arrived!!!! Do NOT miss the delicata squash salad! The squash is warm, walnuts, dried cranberries... Yum Yum Yum Yum Yum!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214Zk0zcHJWVVZQVjFZNVRXOUhNalYwZDBSNGIxRRAB",
+            "text": "\"Nothing happens here fast.\" Was my husband's opinion. The staff was friendly, but less attentive than I hoped for. The food was \"good\", but my sirloin burger fell to pieces and had too many distracting flavors. My husband's ribs were \"fall of the bone\" tender but lacked a good smoky flavor. The music was loud and the place too narrow for comfort."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKTVJGTmpNRU53ZURsUFpscG9iVlJST1ZOa1ZtYxAB",
+            "text": "Food amazing! Service bad from beginning to end. Waiter never came to table until we finally asked, he had an attitude the entire time, staff almost seemed annoyed by people.\n\nWill give another try but service is as a miss!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sMGQzQjBXRXRxVkZoa05sbFhaVjlTVmpGV2RtYxAB",
+            "text": "Quaint small place great menu choices. Loved the deviled eggs, corn Pizza, Mac and cheese. Our server, Taria, was wonderful. Also, the kale and sweet potato au gratin was terrific."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCRWRXeEZNVEp0U1ZwRFIyNU5hRkZuV2pKdmJrRRAB",
+            "text": "I suggest this place often to people visiting and have been myself many, many times. It's the perfect spot to get a farm-to-table delicious meal and cocktail before a show or if you are just in the neighborhood. It's a few blocks away from the hustle of the theater district so not touristy but close enough you can walk over and make it to your show. The service, food, beverages and atmosphere are always impeccable. Their menu changes with seasonal items but can attest nearly anything you choose is  delicious. It's small but I think adds to its perfect NYC charm. Highly recommend."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21nM2RYRXhTelZhYzJsM05VVnFjM2w0U1dOd2FVRRAB",
+            "text": "There were rotting greens in the salad. After this was mentioned to the waitress, she said she would “let them know,” but there was zero follow-up. No apology, no offer to replace the salad, nothing."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201U1RqbG1hVTB5ZUZsdVNXTm5SaTA0TjJGcmJtYxAB",
+            "text": "Came here for brunch and they sat us outside because we didn’t have reservations enough tho inside was only half full. I get it’s a small and cozy spot. Amidst all the noise and pedestrians eyeing our food on the smallest of table ever, we enjoyed our lunch. I really wanted to try the “world famous meatloaf” but they initially gave me the wrong menu, and they don’t serve it during brunch/lunch.   The smoked duck breast pizza and short rib hash was decent, nothing out of this world."
+        },
+        {
+            "date": "1달 전",
+            "language": "no",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WRVdWaEtkbmh2UkZGbE5XeGFaelZmVEVSalpYYxAB",
+            "text": "Hyggelig bevertning og nydelig mat!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsa2NHTmZhMW96TVRaSVZtVmlhbmRFVWtwWE1YYxAB",
+            "text": "We popped in for dinner after a day of walking.  The head chef and owner happened to be there and was absolutely lovely. He had great wine recs, and my sister and I thoroughly enjoyed the cacio pepe pizza.  We had the fudge dessert and goodness it did not disappoint!  Highly recommend this lovely restaurant for a bite to eat!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsMVUzaFdUME5FYlVwclZVZE9YemRoYmtad2RrRRAB",
+            "text": "Very good pizza and the burrata.. omg, so good"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210UE9YUlhXVE5EYld4UGJGUTBORVJ0WkVVMGEzYxAB",
+            "text": "Great experience! The waiter was very friendly and the food was delicious — it’s rare to eat this well in NYC."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214ZlJGQlBUMVpWTFZWa2NFcHJWMVJyTTBwTE1IYxAB",
+            "text": "The signature meatloaf was dry and tasted crumbly, and the server dropped off our check before we finished eating. Rough for a date night spot :("
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOa1NFaFdUVEYzWWw5NFJWRTVlRjkwZVdRMFIzYxAB",
+            "text": "Cooler day in Manhattan allowed us to eat outside.  Traffic, both pedestrian and vehicle, did not disturb us at all.  Easy walk to theaters after lunch."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KQ1MwRmFibEpJTjJoRll6VlpUV05KVUdNeE1YYxAB",
+            "text": "The deviled eggs are great. They happily served the duck prosciutto topping on the side for the vegetarian at our table (who would have happily eaten a dozen deviled eggs if it was socially acceptable). Our server also cheerfully subbed thinly sliced duck breast for bacon on the peach-arugula-mozzarella-bleu cheese pizza. It was a heavenly sweet/umami bomb. The shrimp scampi pizza was just as good. Anyone who can serve a perfectly cooked shrimp is worth their weight in shrimp.\n\nThe eggs plus two $18 lunch specials (a 10-in pizza and a small tomato and greens salad) plus the eggs satisfied three adults, which is why we\n\nThe virgin drinks are maybe an acquired taste, but we'd happily stick with tap water and go back again and again and again, if only we lived in the city. Sadly, The Marshal will have to be a tourist spot for us. Definitely going back to try the roasted carrots, mac-n-cheese, and mushroom truffle pizza."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psc1ZVeEhiSEpMZGxaVmIxWkVZbFJVVUdSeFZXYxAB",
+            "text": "Small Holdings wine dinner was fantastic!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ObExVRTRhRWx1YkRWTFVWbFhia2RZYTFBM1kwRRAB",
+            "text": "I used to live near this restaurant & I’ve got to enjoy their brunch. My favorites were their biscuits & homemade jam. It’s a small but cozy restaurant so I recommend to make your reservation ahead of time."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZdFdGRkRURXd5UjJ0dmJHRnBkak5EVnpacE9VRRAB",
+            "text": "well just stop by after the Intrepid\nI would say good spot\neasy to reach\ngood atmosphere\nclean and cosy\ngood helpfull service\ngood local beers\nand tasty pizzas"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvMUxVMXplbHBOY25kb01sQktiM1JpTm1oeFJWRRAB",
+            "text": "Quality seems to have fallen off significantly. Used to be a massive fan of their gluten free pizzas but our most recent order left much to be desired. Our pizza was missing multiple ingredients and the cheese was applied as if we were rationing during war resulting in a pizza that was nearly 50% crust."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toR2VVNU1UblIxVFZWVFVrTXdRak5PVEhNMmVuYxAB",
+            "text": "Great food and cocktails. Perfect for a farm to table lunch or dinner moment. I strongly recommend and I plan to be a repeat customer."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNeGJVOXJOa3Q0VFRKamVsSm5Ta3hHZFcwdFZXYxAB",
+            "text": "+Get $25 off through the link on my profile!\n\nOnly got to try a couple of drinks and the deviled eggs because I was in a rush. Both were good! I enjoyed the potato-filled deviled eggs. Note that the menu became more expensive than earlier in the year, with the smaller portion of deviled eggs at $14. Would’ve loved to try the entrées and if i have the chance, I’ll return."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paaWNWUlhZM0I1ZFVaR09HUlFlbW90WmtkUWQyYxAB",
+            "text": "The pizza, wine and peach cobbler were outstanding."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOQk4ydENSMDF3VHkxblRrMUtZV0Y1ZHpsd0xVRRAB",
+            "text": "Waiter was great and knowledgeable. Food was fantastic. We had the Corn pizza, trout and lamb shank. Really excited to see a place actually have a lot of local products."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201TlIxRjBURjlZZWxCUFdVRnZjelE1YmtoS1gzYxAB",
+            "text": "The food was good, we got a pizza and that was excellent but our entrees didn't impressed us. Short ribs were good, but everyone can make short ribs. My salmon was just ok. Very small place, nice ambiance."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21salJHaHhZakpGTTJkUE1FZ3daMTlYVDNsRWNuYxAB",
+            "text": "A little tight with the seating but still decent. Definitely worth stopping in before a show they ask you if you are seeing one and what time it starts to accommodate you. Food, service and cocktails all were very good!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGMFgwbzBSbEF6YzAwekxYZEhOM3BLV2xCRmVtYxAB",
+            "text": "Great food and service, reasonable prices."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGTVMxOU5aMFJTUVRBMU1taEpabXByWm5GV2VGRRAB",
+            "text": "The Marshal was great.  The food was delicious - fresh and well prepared by Chef Charlie and his staff!   Had a great sit-down convo with him about his sources for his ingredients and great vacation spots.  What a charming host!  A must-do locals place!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0NWIxZDVNM2N4UjNsWFZtTlhNUzFDT1dsNFduYxAB",
+            "text": "Came here right before seeing Wicked, very close to Broadway with a reasonable walk. Let’s start by saying when we first sat down, the waiter tripped and accidentally spilt a Coke all over me. You will notice though that my star rating is still at 5 stars, so that should say something about my experience here.\nOur waiter was SUPER nice. He totally made it up to me and sent us a free dessert at the end and checked on me multiple times.\nThe food we got was incredible, all of it really but  especially the Mac and cheese with bacon, and the dessert which was like a maple s’mores or something omg it is so good. Get it.\nOverall I would return. It was a great experience, small but nice restaurant with great location."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GNVoyTkNVVXhtZGtsRk4yUnJUbVJDV0VGMVVrRRAB",
+            "text": "Great local spot!  Amazing cocktails - delicious thoughtfully crafted plates and pizza.  Locally sourced ingredients, attentive service and a great vibe.  Dawson crafted a wonderful custom cocktail (bees knees) and the Negroni was exceptional.  We will be back!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210eVJrcGZVak14TFZsbllWRTNTQzFoTTJSUWJrRRAB",
+            "text": "Some of my favorite pizza in the city."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwV1lWQlBObU56V0dSM1ZuVjBaWFkxY2xoRU5FRRAB",
+            "text": "The place is incredibly small. Service was slow, my corn chowder soup was warm instead of hot so it got cold really quick. The food was good though. Small portions. Didn't like the watermelon drink I had."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OeWNGUm9OVUV6TVdSU2RqbDJXSGxsVnpNNGEyYxAB",
+            "text": "The food was very poor and overall disappointing. The lamb shank was tough and seemed to be very old. Certainly not fresh. The meat should be falling off the bone as they advertised. But not the case at all. The chicken was dry and the mash that came with it was disgusting. I thought they were off. We mentioned these issues to the waiter and he just stood there. And then walked away without saying anything. We added a note to our online reservation that there was a birthday. They never did anything or said a word. So they clearly didn’t read their own reservation notes. What if we added that we had allergies? Plus, this restaurant is extremely overpriced. The table beside us also had issues with their food. We eat out regularly and will not be going back to The Marshal."
+        },
+        {
+            "date": "3달 전",
+            "language": "en-Arab",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oMWNtVmZTMmhoUTJOTlpGQlJhM0EyTnpNMmRIYxAB",
+            "text": "بجنن"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0dGVrdGZiMjlsYm5WZmVHZE5kbEkzZEcxU2VrRRAB",
+            "text": "Great food and service!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210R2VIZEtXblpRVWw5aVRGZ3lXRWw2ZEc1WVluYxAB",
+            "text": "One of the best dining experiences I've ever had - 10/10. Delicious, quick, friendly."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JdFYyaDZkSEEwTTNCcVQzWlZWbDg1ZEVwSk9HYxAB",
+            "text": "Good Food, very friendly waiters, beautiful ambient and good food"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Nd1QzQTJPV2x1ZDFveFIweHZkVmR2TTB0ZmVsRRAB",
+            "text": "Let's put last, first. The starters were so good that at the end of our meal, we decided to definitely come back just to have the starters along with their dessert wine from the Brotherhood Winery. We've had the good fortune of going to this local winery on numerous occasions. Their wines are some of the best\n\nIf you're a deviled egg lover, the devil eggs would easily steal the show. Somehow, the chef was  able to cram a half dozen egg yolks into three half whites. The deviled eggs had tons of flavor.\n\nGreat steelhead trout, and there's nothing like a good pizza topped with smoked duck breast.\n\nGreat dessert, Maple Marshmallow Smores😋\n\nLove the narrow, cozy, intimate space."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5VldEWjNkSEpLTjFaR1lXdG5jekJ2VFZOSFgyYxAB",
+            "text": "The marinara sauce was the best I've ever had!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VOMjV6Y0dENnY3b19RRRAB",
+            "text": "It was very noisy when we were there. I understood kids were being kids, but in such a small space, the noise got very loud. Their chicken salad had too much dressing. The pizza was too soft to get picked up. Otherwise, everything was fine. The waitresses were very friendly."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvMmFiNzR3RRAB",
+            "text": "If you're strolling through Hell's Kitchen and in need of a bite, The Marshall is the spot to unwind. This cozy little restaurant offers a laid-back vibe, where reservations aren't necessary—even your furry friends are welcome! Yup, we enjoyed our meal right on the sidewalk with our pup by our side.\n\nMeeting my partner here for an after-work dinner was a solid choice. The deviled eggs were a tasty start, but the ribs were the real MVP—so tender they practically fell off the bone. Seriously, don't miss out on those!\n\nWe also tasted the meatloaf and pizza, rounding out a nice meal. The atmosphere was relaxed and perfect for just hanging out without any fuss.\n\nWhile The Marshall is a delicious stop, it's not without its quirks, earning a solid 4 out of 5 stars from us. Whether you're in the mood for a hearty meal or just want a casual hangout, it's worth popping by. Enjoy!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3cmZENEJ3EAE",
+            "text": "We chose here for something different.\nThis place gets Super Cramped and loud with seating for around 30 people.\n\nApple barrel drinks were good. Deviled eggs were great we ordered it without the pesto... don't see how that compliments the dish to begin with. Husband was happy with clam chowder but pricey at almost $20.\nI had the burger, I agree with the other review on here about the consistency issue. The taste & texture is NOT a hambuger &  they say its all beef. It taste and feels like something is mixed in the meat (like white bread & milk) to make it bland & mushy. I asked the waitress & she said all beef...its not great I've had better veggie burgers...Sweet potato fries were cold. Suggested tipping on the bill goes up to 30% 🙄👎\n\nEveryone else in the restautrant ordered pizzas. If we come back I would try that & the lamb shank."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tObU4xYzNXVXh3TjBwWlRIRTVMVTg0T0RoTGRuYxAB",
+            "text": "We were going to nearby Signature Theatre's Eurydice (fabulous!) and needed a place to eat c. Hell's Kitchen. The Marshal looked spacious and pretty online. In fact, it's far from spacious--a long, narrow corridor of completely packed tables. Very noisy. Very intense. Red-brick walls. Retro lighting fixtures. We felt we were in 1960s LA. But we ordered two salads--one double kale, and one with red & golden beets--and they were both sensational. Plentiful, healthy, delicious. What more could one ask for? Well, a little quiet would help."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ3VxT2Z6eElMUnZRRRAB",
+            "text": "Came to this place on a Tuesday evening and made sure to make a reservation because it’s hella kitchen and everybody eats out around there. It attracted me because of the Farm to table aspect. I got the Braised Lamb that came with Puréed parsnip and turnip. The lamb fell off the bone, was okay in terms of seasoning but the purée really brought it home. The broccolini and the sweet potato fried were cooked in the wood fire which I can appreciate but the sweet potatoes needed a little more time. I would come back to this place again and would recommend for anyone in this area."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2a3UyNlVnEAE",
+            "text": "My husband and I went to The Marshal for Thanksgiving lunch, and we absolutely loved it.\nWe had the special Thanksgiving 3 course lunch for $85 per person.\n\nWe chose the Beet Salad, and Brussel Sprout Salad for the first course. Both were very tasty and a very reasonable portion.\nWe both had the turkey for main course, and it was delicious. Generous portion and the turkey was perfectly cooked.\n\nThe pumpkin pie and apple pie for dessert were also amazing, with the apple pie being the major stand out. I would love some more of that pie!\n\nThe staff were friendly and attentive, and the service was prompt.\n\nOverall, we loved our lunch and would definitely return."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3MXNqSHhBRRAB",
+            "text": "The Marshal's Famous Wood\nFired Meatloaf is so delicious! But the chicken breast was too tough. Except our service staff who seemed to be in a bad mood, the atmosphere in the store was warm and the other staff were friendly."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzaEpUNXJBRRAB",
+            "text": "Came in for lunch been wanting to try The Marshall.\n\nHad pizza pepperoni lunch special.  It was not crispy so we weren't impressed.  7/10\n\nThe salad it came with was very good and tasty and fresh. The salad i would eat again. 10/10\n\nOrdered a side order of meatballs.  I love meatballs but these meatballs were not good at all. At a strange aftertaste. Like a gamey taste I'm not crazy about that. 1/10\n\nThe burger wasn't great either it was meatloaf texture. 6/10\n\nI'm giving 4 stars because the staff there are so friendly and service was very prompt and good.  10/10\n\n❤️❤️❤️❤️❤️❤️❤️❤️❤️❤️"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOelBsOEdBNk4tUWZREAE",
+            "text": "My friend and I had a delightful meal on the night of the 13th. Our server was kind and efficient, and the food was excellent. We will be returning!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuN1lUYUZnEAE",
+            "text": "Excellent food. Each dish needs it's own glowing review. Impossible to say which is better. But cheese stuffed chicken had remarkable rich flavors. Cod was excellent too with intriguingly melded flavors. Will need to revisit to sample the fantasy pizza again. Loved it."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIenJLaDFBRRAB",
+            "text": "A little gem in NY. Food was absolutely delicious and it is all locally sourced. The ribs were fantastic! Juicy and tasty! It was our last night in NY and we couldn't pick a better place. Paula has been very friendly and helpful. If you don't know what to choose, follow her advice! Great place!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2dEluajlRRRAB",
+            "text": "This place is a local favorite for good reason. Stopped in tonight and the atmosphere was chill and warm. Staff is always so friendly (and sexy!). Had the deviled eggs, and they are truly my favorite in NYC. Then the meatloaf which was absolutely delicious. Highly recommend!!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvczduQzZnRRAB",
+            "text": "Tiny little NYC restaurant with big flavor. The apps are phenomenal. Deviled eggs, burrata and mac & cheese are a must-order. Perfect dinner spot before seeing Little Shop of Horrors Off-Broadway at the Westside Theatre."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKeU15ZTNBdHEzSEh3EAE",
+            "text": "BEST pizza ever! Very small but very quaint. The food is amazing and the staff was so friendly."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSak82a0lREAE",
+            "text": "Always a fabulous experience. ⭐️ The staff is super pleasant and the food, which all comes from the brick oven, is out of this world. The pizza is always a dream come true and the buratta is an amazing leveled-up breadstick app. True gem in Hell's Kitchen and always going back for more. The drinks are good to the last drop, highly recommend the pear inspired cocktail. 🍸"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2eTdmdWlBRRAB",
+            "text": "⭐⭐⭐⭐⭐ (5/5 stars)\n\nThe Marshall - Fantastic Farm-to-Table Dining Near Times Square!\n\nGreat spot for a pre-theater meal. Delicious plates including standout deviled eggs, creamy burrata, and mouthwatering ribs. Intimate setting with elevated farm-to-table cuisine. Conveniently located walking distance from Double Tree Hilton Times Square. Highly recommend for a quality dining experience in the area.\n\nPros:\n\nDelectable menu\nConvenient location\nExcellent pre-theater option\nAbsolutely perfect dining experience!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMM2NhdUlnEAE",
+            "text": "Cramped if you're doing anything other than sitting motionless, but atmosphere is really nice nonetheless, and everything else about the place is fantastic. My husband loved his Bloody Mary, although it wasn't spicy enough for me. Mimosas were delicious. French toast was good, buttermilk biscuits and short rib hash were delicious, but far and away the star was the baby back ribs from the starter menu. Absolutely gorgeous sauce. Be careful, though, because practically everything comes on really hot cast iron skillets and in those close quarters, it's easy to burn yourself reaching for your drink."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYei16T3RnRRAB",
+            "text": "I just happened to find this place by googling a good farm-to-table restaurant near my hotel while in town for a business trip. I had the beet salad for a starter and the stuffed goat cheese chicken for dinner. They were both so delicious and fresh! I finished the meal with their chocolate fudge and ice cream dessert. The waitstaff was very friendly. I would definitely come back the next time I’m in town."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQenUyVXVnRRAB",
+            "text": "Last night I had the pleasure of dining at the Marshall, a culinary haven known for its creative flavors and unique presentations. Upon entering, the ambiance enveloped me in warmth and community as we were promptly greeted with refined bravado of Americana. As the evening unfolded, behold the visual cacophony of flavor 🙏🥰 (ask for Dawson from Kalispell) At the end of the evening, I found myself reflecting on the exquisite journey of taste, The Marshall had offered, an experience, undoubtedly worthy of reverie! Namaste 🙏"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMyNGZqRHRnRRAB",
+            "text": "Excellent pre-theater dinner. We had the barbecue baby back ribs and the two kale salad. Followed by the smoke duck breast personal Pizza. Service was prompt and friendly with recommended this to friends already. Edit: Re-visited for one of their wine pairing dinners.  AMAZING.  Learned new wines and had a great evening."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqbzhDWGtRRRAB",
+            "text": "Loved it. A neighborhood favorite. Staff were awesome. Chatty, tightly packed seating. You're obligated to talk to the people next to you. Great cocktails and locally sourced comfort foods. American style food at its best."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwdzliQ0xBEAE",
+            "text": "I ordered a BBQ ribs to go on lunch at 11:30am, thanks for opening at such an early time, giving me opportunity to try this dish. The girl is very patient and friendly.\n$17 per order and contains 5 ribs, taste good and tender. Price is fair enough. If I have chance, definitely will come back and try more dishes on dinner time or brunch time."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURweXREZjdnRRAB",
+            "text": "If you want an exceptional meal that is prepared with the values and principles of sustainability, then this is a must when you are in NYC.  I have taken a couple of groups here over the last couple of years and it is always a highlight of our time together.  Charlie, the chef, is super conscientious about the ingredients and impact he and his restaurant have on our future and you can sense that with every bite you take.  Everything I have tasted here is off the charts with flavor.  Appetizers we’ve had include: Farmer’s Market Salad, Wood OVen Mac & Cheese with Bacon and Baby Back Ribs.  For our main courses we have tried all sorts of pizzas including: Three Meat, Margherita, Mushroom & Homemade Pork Sausage, Vegan, Summer Peach and Farmer’s Market.  The dessert we chose - the Chilled Chocolate Fudge with local Bee Pollen and Honey Comb with Vanilla Gelato was outrageous.  There are a lot of choices in NYC, but this will be my go to place to wow people I dine with.  If 6 stars were an option, The Marshal would be more than worthy!"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNndjVYXzRnRRAB",
+            "text": "Super cute and cozy restaurant. There are not too many seats in the restaurant so be sure to book ahead. We went on a Tuesday and it was busy. Really liked the deviled eggs (comes with crispy dehydrated carrot chips!) and bacon slab…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlcUlUSVpnEAE",
+            "text": "If you are in NYC this is a must go. The food is absolutely delicious and the staff is amazing.  Noah was our server and he was very informative and down to earth.  A fabulous experience from start to finish.  The Burrata and deviled eggs were out of sight. Also the pizza with the arugula and prosciutto was delicious. We finished off the meal with a blue berry cobbler.  All the food is fresh and you can tell they really care about the food that ia presented. Thank you for the wonderful dining experience."
+        },
+        {
+            "date": "1년 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqeE5EN1NnEAE",
+            "text": "Excellent restaurant avec une cuisine américaine qu'on ne trouve pas à chaque coin de rue.\nLes prix ne sont pas donnés mais on en ressort satisfaits au vu de la qualité.\nLe service est hyper chaleureux ce qui contribue à une expérience positive."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNodzhHcm53RRAB",
+            "text": "Had a wonderful lunch today! Staff was welcoming and professional,  including Charlie,  the owner.\nEnjoyed a Rose cider, a hard cider, and a margaritas pizza and Farmer's pizza. Both were delicious and wonderfully served.\nLovely interior as well!\nWill definitely make this a \"go to place\" every time we visit NYC.\nI highly recommend The Marshall!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDMU5xSzF3RRAB",
+            "text": "So this is my second time come to this restaurant. First of all, if you don't know, let me start off by telling you that this is a FARM TO TABLE restaurant! Literally everything on the menu, comes fresh from local farms & dairies!!\n\nI started off with the caprese salad and chili maple glazed wings. They were great. For my entree, I had the three meat pizza, and let me tell ya.. it was OUT OF THIS WORLD. I love pizza and this is definitely one of my favorites now!\n\nStaff was super friendly & I can't wait to come back again :)"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4ck5laUVBEAE",
+            "text": "We had truffle pizza and cauliflower side. Pizza was good but cauliflower lacked seasoning. Harissa could not be tasted at all. I would suggest sticking to other known appetizers and sides. Service was excellent."
+        }
+    ],
+    "reviews_count": 79
+}

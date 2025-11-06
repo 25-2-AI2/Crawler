@@ -1,0 +1,621 @@
+{
+    "name": "Pershing Square",
+    "place_id": "ChIJBRoSgwFZwokRUSh30OTrJ6A",
+    "grid": "MN6",
+    "address": "90 E 42nd St, New York, NY 10017, USA",
+    "rating": 4.2,
+    "user_ratings_total": 4674,
+    "phone_number": "(212) 286-9600",
+    "reviews": [
+        {
+            "date": "9시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCMFYzWnBWSEJzZFc5Vk5WTkJUVEExTWxNMVoyYxAB",
+            "text": "Nice restaurant, pleasant attentive staff"
+        },
+        {
+            "date": "1일 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twNmJrOTJUbTF6WW05WllXeHhUekIyYjNwRFZsRRAB",
+            "text": "Super Frühstück, aber nicht so günstig.\nDennoch ist es eine schöne Atmosphäre. Tlw sollte man einen Tisch reservieren. Ab 8 Uhr war es sehe voll."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25rMU0zaG5MVVJwZEhwVVduRlhjR1YyTFdjelVGRRAB",
+            "text": "Great place to eat and visit grand central station opposite. Food was not cheap but then neither was the quality of the food and service - so we felt it was worth the money and experience. Lovely cozy and old world feel but very busy and fairly noisy. We manage to time it right with a visit around 830 as it was starting to fill up by the time we left. I would recommend and visit again should we get the opportunity to visit NYC again."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pscE5GOWFOVEowYjBkdlVsWmhXR0ZSUW5GeE4yYxAB",
+            "text": "We decided to try this restaurant for breakfast after hearing a recommendation, thinking it might be a worthwhile splurge. Unfortunately, it turned out to be a big disappointment from start to finish.\n\nRight away, the prices raised eyebrows — a single Belgian waffle was around $24, as were the pancakes and omelette. Even a small cup of orange juice or coffee was $10 each. Still, we figured the quality or portion sizes might justify the cost. Sadly, that wasn’t the case.\n\nWhen the food arrived, the portions were surprisingly small. The omelette was a basic single-pan size, and the pancakes came as a small stack of three or four. Worse, the quality didn’t match the upscale pricing. The eggs over medium were cold and overcooked on the outside, clearly from a griddle that was too hot, and even after being sent back, they returned warm but still burned. The pancakes looked nice at first but were doughy and undercooked in the middle — again, a sign of rushed or uneven cooking.\n\nFor such steep prices, the food was plain, poorly prepared, and nowhere near the level of quality you’d expect. Honestly, the Dunkin’ Donuts across the street could have provided a better breakfast for a fraction of the cost.\n\nOverall, the experience was disappointing and not worth the premium price. If you’re looking to spend a little more for great breakfast food, you’re better off taking your money somewhere that actually delivers on flavor and quality."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CYVgyTTJUV0pPZFZWYWRsQmpSbDlQVDJkQk5VRRAB",
+            "text": "I was really looking forward to a nice breakfast, but my experience here was pretty underwhelming, especially for the price. I ordered eggs that cost $22, and they arrived cold and frazzled, as if they’d been sitting out for a while. Unfortunately, the rest of the food didn’t make up for it. The pancakes were doughy, the toast was hard, and the waffles were dry—none of it tasted fresh or worth the high cost. Even small details were disappointing; the napkins felt like thin pieces of paper. On top of that, both the food and drinks were noticeably overpriced for what you get.\n\nOverall, this meal felt like poor value for money. If you’re considering coming here for breakfast or brunch, I’d recommend looking elsewhere for better quality and a fairer price."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCRE5scGFVV3huYzFCbWFWTnVRazFtYjNsR00wRRAB",
+            "text": "Honestly I can’t put it into words so I’ll make a haiku:\nEach bite terrible\nAnother disappointment\nDo not recommend"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSVFNuaE5OVFJDYW5aTWVqTXdkR2MzTTNST00zYxAB",
+            "text": "Convenient place near mid town for a standard meal. Lots of space so should be easy to get a table. Good options on the menu and food was prepared quickly. Food and service is above average. Cool place for tourists who want to get the “diner” experience."
+        },
+        {
+            "date": "1주 전",
+            "language": "de",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KeGRIcEdWWHB4Vm5KdmMyVk1SMUZJZVY5TVFVRRAB",
+            "text": "altes Chatme ist schon toll, aber Massenabfertigung und viel zu überteuert ... haben in einen kleinen Bäckerei fast neben an viel leckerer gegessen und preiswerter"
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "pt",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxb2F1MVZnEAE",
+            "text": "Excelente lugar. Sempre que passava em frente achava que era só um café. Ao entrar.. que surpresa.. comida muito boa, com um preço meio caro, mas... vale pela experiência."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paRWJXWm1VbkV4Ykd3dE1sTnpObTlZZHpkcmJWRRAB",
+            "text": "Among the best dinners we had while in NYC, which is saying a lot. I had the NY Strip (of course! 😆) and my wife had the duck. The service was also excellent. Thank you Jonathan!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aak9YVlpjVWxMYmtJd01FbFRTVFJ1UVRkUVJrRRAB",
+            "text": "Nice location. Nothing special about the pancakes. Waiters demanded high tip. That left a bad taste.."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20weVFrWjBSR2xsZG1kc2RraGllVXhuU2s4dFRsRRAB",
+            "text": "I just wish it wasn't cold in the atrium because of the low ongoing air conditioning. It's already 50 degrees outside. I shouldn't be warmer outside then I am inside. But other than that, it's still nice to sit inside away from weather conditions. Just wished it was warmer."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkaVNrUXdkWGhEVG1ocWJFNW1hQzA1Tm1aUGEzYxAB",
+            "text": "Great place for breakgast before you head out to NYC."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOWGFtOXBYekk0WVc5aVdGWXdXVTgxYlRkcWVXYxAB",
+            "text": "I meet my friend here every time I come to NYC. Our tradition we have been doing for over 10 years. Their Benedict is really good."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSUVdVdHJRVUUzZG5OelNVMXZaMkZJTFZoa01uYxAB",
+            "text": "Great place for breakfast and coffee. Good location."
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5SlZtMUNUMU5LVURCRFIwdFZVekJ4TUcxcU5YYxAB",
+            "text": "Linda opción para merendar y hacer un descanso si estuviste de recorrida todo el día. Precios acorde al lugar y comodidad en la que se encuentra"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25reFpEazRXVkJNU1VKcU1HUnFhMDR6VFZKS2JVRRAB",
+            "text": "Wonderfull place for a breakfast! Soooo nice and the eggs 🥰."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25vNVlrNVJRak5sVkdGS0xVWmZWalZXVW5WQ1JtYxAB",
+            "text": "Came in the day before for a take away coffee which was really good. Decided to return as I'm craving a sit down meal after traveling. At first the eggs where under cooked, they fixed it but left me with over salted dry and chewy bacon. Go for the coffee but skip the rest. It's priced to highly to be bad."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sYVQzUmliMkYyVEVwbkxVeE9TM293WVhKc1UwRRAB",
+            "text": "She's pricey... but the MUST stop for a Bloody Mary."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvNFdtNDFYMmgyUlZWaFJtUnphRTB0TlZGTWJsRRAB",
+            "text": "Fabulous place for breakfast a bit on the expensive side but the food was so good including the coffee and the grapefruit juice, the service was also amazing!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25obFFWUlRWWHBaTVVwSWJWRlVhekptWjBScGNWRRAB",
+            "text": "Stopped at Pershing Square for dinner and had a NY Strip with mashed potatoes and a glass of Riesling. The steak was cooked perfectly and topped with a rich red wine sauce. The mashed potatoes were creamy and just right. The staff was attentive and quick, and they made sure to check in to see if everything was to my liking, which I really appreciated. The atmosphere was great, intimate, moody, and not too loud."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoek5XSkZkVVJIWDFWdllXcGtUV2w1WWpObVdFRRAB",
+            "text": "Ordered the omelette, not overwhelmed by the food quality.\nExtremely noisy restaurant when it is busy."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWVVpESjZkSEpsYkZWMU9YTXlORU5OUTNVd2EyYxAB",
+            "text": "Decent place right across the street from Grand Central.  Limited menu but some decent choices."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5VmVuQk9TbGxGY1RoamQzWlJTSGwzZDBNMVkzYxAB",
+            "text": "Amazing service from Elvis the manager will return"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkbmIwbHVObXRHTmtkSmVGTllNRnBqYkUwd1gwRRAB",
+            "text": "Great location right across the street from grand central. Food is great, great for large groups too."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SS1ZqTk5MVkJ6T1dkZmFFODVUWGsyVjA5TVUzYxAB",
+            "text": "Food was.ok, nothing delicious, but the staff was super friendly and I like the restaurant vibes, other than that it's expensive for what it is..."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwU2REZG1VREJrUzJWcVVHMW1Wa1poV1ZGc1IzYxAB",
+            "text": "Good spot for breakfast"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KaGEwcDNkakJqVWpjemJrbHdVRTlYYzBGVlIyYxAB",
+            "text": "Extremely disappointing and concerning experience. During our visit last week, we ordered one round of drinks for four people and we wanted to pay shortly afterwards. The waiter joked, “I won’t charge too much,” but then processed two unauthorized charges on my card — one for $90 and another for $72 (where only one should have been taken).\nWe had only one bill and one payment, so these extra charges are clearly fraudulent.\n\nI’ve tried several times to contact the business via Instagram, their website, and direct messages, but have received no response at all.\n\nThis feels like deliberate misuse of payment information, and the lack of accountability is unacceptable. I strongly warn others to avoid going to this place & paying by card here due to serious concerns about honesty and transparency.\n— Valérie Kerstens"
+        },
+        {
+            "date": "3주 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrMk1UbFRjVkJpTUdZMlluRnpNazE1Vld0UmRrRRAB",
+            "text": "호스트에게 뉴욕에서 처음으로 인종차별 당함\n들어오자마자 안쪽에 자리 겁나 많은데 문 바로앞 통로 자리줘서 자리바꿔달라니까 자리에 무슨 문제있냐고 자리 왜바꿔달라하냐고 따짐ㅋㅋ 그래서 걍 바꿔달라해서 결국 안으로가긴 했는데 그마저도 종업원 통로쪽줌..\n귀찮아서, 고의아니라기엔 먹으면서 계속 봤는데 백인들은 계속 안쪽, 중앙쪽 좋은자리줌ㅋㅋ\n\nexperienced my first case of racism in New York from host. As soon as I walked in, even though there were plenty of empty seats inside, they gave me a spot right at the entrance in the walkway. When I asked to change, they aggressively questioned me, like “What’s wrong with this seat? Why do you want to move?” Eventually, I insisted and they did move me, but only to a seat next to the staff passage.\nIt would’ve been easy to dismiss as them just being lazy, but while I was eating I kept watching. Every white customer got seated in the good spots inside, in the center."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21STVQySlFRM2RNWmpORE16Qm5kekJCTWtKcGVFRRAB",
+            "text": "Too overpriced! How are eggs benedicts and French toast close to $30? I would understand if they were exceptional but they are average at best.\n\nI guess they get a lot of customers due to the location but even though I'm staying within walking distance I won't be coming back"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KNFlreG1WV1ZTVnkxUFVXWjRSVGxVVjBWSFkwRRAB",
+            "text": "Wonderful attentive friendly inclusive customer-oriented welcoming services delivered by gracious Server Ms. Lenka & Manager Elvis & the busboy (Sorry didn’t get your name). My third visit here at Pershing Square & each time magnificent tasteful artistic decor, spotless & breakfast I ordered so delicious & lovely to view. The corned beef was home-made! Thank you Lenka for our conversation. Pershing Square was packed, a culinary hub across from iconic fellow hub Grand Central Station.  Grateful to you ALL!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3M2JqVjRVVFZ0YWtkaWNrZEpTR05IU1ZwVWRGRRAB",
+            "text": "Prices are incredibly high here because of tourist pricing. Taste is okay but nothing special. Lots of seating, and it’s mostly a business clientele. Service is functional and efficient."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25rMFVsWkNNbUZ5Y0dSVk1GcDVYMkZ3VXpKQ1kyYxAB",
+            "text": "I guess it’s a NYC classic and the location is great. Lovely servers who let us sit a long time. But lunch has limited options that are pricey and not such generous portions."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOa1dDMVZNbk5HYldkWlVVbHNjSEowY3pGV1prRRAB",
+            "text": "Great service! The food was good, but I didn't like the hot chocolate. It should be thicker!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKbFlXSXRiMHhxVDJKNWJtdE1XWEZUUVhCZlFtYxAB",
+            "text": "I was walking around Grand Central area one day and walked in to this area. Lots of people sitting, standing and passing thru from and to Grand Central Station.  A very busy area. Restaurant on one side and coffee station on the other."
+        },
+        {
+            "date": "1달 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoeFYyeHZWMkpsT1VsemJXeFlTWFphTlRsTlpGRRAB",
+            "text": "호스트가 좌석 배정할때 인종차별이 있습니다."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pRMFQyRXlVSGxaVmtOb1pqUk5jelZ2WHpoSVlYYxAB",
+            "text": "Very nice .. i like being there"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oemNGOVRaRE0zVlU1UVkwOVNMVWxaWkdsTFYwRRAB",
+            "text": "We arrived as it was due to open at 7am. There are two doors and the lady who came down to open them could clearly see us standing at one set of doors but for some reason decided to go to the other set of doors to open them first which felt very rude and in polite. I asked for some Tabasco sauce. The guy walked away and never returned. I asked another staff member for some Tabasco who promptly returned with a different brand of hot sauce showing just how slack the service is here. The corned beef hash that we ordered was greasy and hard to chew and the eggs were not cooked as requested. They also forgot extra items that we ordered. Just a complete shambles all round."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GVFNuaGhYMHhyT0dvNGIxWmhURXRXVkVkblRIYxAB",
+            "text": "Delicious food, amazing, friendly staff! I had the pancakes which were delicious, but what I truly loved was how friendly the staff was! Customer service 5+"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kUmNXVTRWMk51TTJWRlZFMXJOVVk1TUcxRFEwRRAB",
+            "text": "A classic breakfast, lunch, after work drinks spot for NYC's media elite. If these walls could talk. Great location directly across from Grand Central."
+        },
+        {
+            "date": "1달 전",
+            "language": "it",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKQkxWUkhlbWhSWlZsRFV6ZGZjbVJ3V0hGTWIxRRAB",
+            "text": "Ottimo il servizio il cibo in un ambiente molto curato"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1TFprc3pkRUpaUldSYVdVdHNlbVJxVGxObWRFRRAB",
+            "text": "Love this place! Food is great"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sTFpWSmthamhSUlRKUFNub3pNVUU0V0d4alZIYxAB",
+            "text": "This restaurant has my endless affection. Their service personnel operated flawlessly. You can taste the freshness, perfect seasoning, and proper cooking in every bite. This spot maintains hygiene without feeling sterile. I suggest trying everything they serve."
+        },
+        {
+            "date": "2달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oNlpuSjFWbnBrWDBNMk5tWlRXamxuUTNGMlRHYxAB",
+            "text": "Einen wundervollen Martini genossen. Der Barkeeper war super aufmerksam und sehr unterhaltsam. Während ich das schreibe habe ich direkt wieder Lust vorbei zu schauen. Sehr cooles Lokal!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oNFJUQkZOalJEWW5vMFZVUnpka2hQU0UwdE4xRRAB",
+            "text": "Long-time breakfast/brunch spot that I never miss. The blueberry pancakes are just delicious! I also had the Eggs Benedict and hubs had a waffle with bacon and eggs. We both found the food prepared with care. Service was friendly and responsive to any special requests.  Nice location when you're near Grand Central Station. Have been here many times and always look forward to going back."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WNmJqVk1kM1EyZHpKSWJYUmlhSFExUTJKSVIyYxAB",
+            "text": "My favorite breakfast & prosecco place! 😊Perfect service!…"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "pl",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJMlVUSTFaVW80YVY5d1RWUndOblZwVWpnMGRXYxAB",
+            "text": "Przepyszne śniadanka."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3ejZHYnVBRRAB",
+            "text": "Always a pleasure dining at Pershing Square. Excellent food, friendly and attentive service, and very relaxing atmosphere."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOSk4wdFZNVzQyWVRCcllYUlpTM1EwWVdGd09IYxAB",
+            "text": "Walked by this place for years and always wanted to stop by! Quintessential authentic old school NYC style inside which I love. Staff was attentive and friendly. Haven’t tried the food - will have to stop by and give it a try."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pObWFuQnRlRXRYYzJwSGJrb3hjMWhzZG0weFkwRRAB",
+            "text": "Yes, go.  We just stopped by to have a snack and a drink.  The service was attentive, and the bartenders knew what they were doing.  It was a great start to our evening."
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoNHBMYUFnEAE",
+            "text": "가족과 함께 그랜드센트럴 매디슨역까지 오늘이 3번째 외출이었다. 우리는 기차 뮤지엄 스토어에서 아들의 장난감 기차를 사고 이곳에 들렀다. 우리 부부는 오랜지 페코 홍차와 IPA 맥주를 시켰고 빠른 서비스를 받았다. 나는 홍차 주전자에 추가할 따뜻한 물을 달라고 했는데, 홍차를 또 갖다 주었고 이것은 따로 계산에 포함되지 않았다. 내 아들은 뉴욕 딸기치즈케이크와 오랜지쥬스를 오더했는데 정말 맛있게 먹었다. 오랜지쥬스가 맛있었으나 9.50불이면 좀 비싸게 느껴졌다. 티백을 티포트에 우린 홍차가 5.50불이고 홍차잔과 함께 나온다. 난 홍차에 추가하려고 설탕과 레몬을 달라고 해서 웨이트리스가 친절하고 빨리 서빙해 주었다. 전체적인 인테리어와 분위기가 편안한 조명으로 따뜻한 느낌이았고 오랜 세월이 느껴지는 소품으로 세련되지 않아도 깨끗했습니다. 찻잔이나 주전자가 깨진 부분이 있었던게 좀 소홀하게 느껴졌다. 다음에는 브런치를 먹으러 오기로 했다. 우리 테이블을 서빙해준 웨이트리스가 너무 친절했다."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREekkyM0F3EAE",
+            "text": "에그베네딕트, 프랜치토스트, 팬케익이 좋습니다. 엘비스 라는 직원이 재미있고 친절해요."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR0cjVfM1NREAE",
+            "text": "아침식사하기 좋은 곳. 친절해요. 그렌드센트럴 바로 앞이라 접근성이 좋아요."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUaDR2SkdBEAE",
+            "text": "음식,서비스,분위기 아주 좋습니닷 맛있게 먹고 갑니당"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSURUaDYwdxAB",
+            "text": "맥주마시며 이야기하기 좋은곳"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4a3RMeFFREAE",
+            "text": "맛있어요! 공간도 멋있어서 한번쯤 들를만 합니다"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlOWItR2dnRRAB",
+            "text": "가성비 좋은 분식집 같은 곳인데 분위기 또한 매우 굿 👍"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURta003cUhBEAE",
+            "text": "라비올리 환상적인 맛"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNWbE5XRnJ3RRAB",
+            "text": "커피가맛있는곳 의외의 로컬맛집"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCMUtHal93RRAB",
+            "text": "팬케이크가 정말 맛있었어요!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kUk9HSjFSWEl6TkV0ek1VVlJVRWRHZVV4b2VrRRAB",
+            "text": "My first time at Pershing Square and I was not disappointed! I ordered the fettuccine pasta with vegetables in a pesto sauce for lunch and it was amazing. The portion was generous and I ate the whole thing! Food baby! The service was great. As a matter fact, we had several servers and they were all very polite, friendly. Decent prices too. My entreé was $22.  The only thing I didn’t care for was how loud it was!  Overall, I highly recommend Pershing Square for a business lunch, out with friends, maybe not a first date if you want to talk and get to know each other."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214c01VNU5ZVU5YYzNKaFpVUk9MVTExYkdocE1FRRAB",
+            "text": "Beautiful space and great service. I’ve been here for breakfast several times because I often have morning meetings nearby. Today came for lunch with my wife and we had vegetarian chili, avocado salad, and creamed spinach to split. The chili was frankly awful. Just a lot of canned tomatoes and overcooked onions with chili powder. The salad and spinach were great. The service was wonderful as always and the space is beautiful. So, while this is not in my top 100 best restaurants in NYC, I do recommend it—especially for breakfast."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPdWNxNTZmNnRTYmJ3EAE",
+            "text": "Good quality breakfast in the Grand Central area. The location is ideal for a business meeting or catching a good meal before or after traveling. I ordered the poached eggs with quinoa and lentils, and it was just the right healthy and filling meal I needed. The restaurant is pricier than most breakfast locations but it also offers a high class environment and service. I enjoyed my visit."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvb1pIYWtnRRAB",
+            "text": "The food and service were amazing.  This restaurant never disappoints.  This is a wonderful brunch spot in NYC that is just steps away from Grand Central Station.  My 7 yr old daughter loves this spot!\n\nYou can also grab lunch and dinner here, too. It works great for a quick lunch if you only have a little time in between meetings."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4dFpIaDFkWGRmTFdscll6QTBVR013VWkxaGRGRRAB",
+            "text": "Little expensive. However, its a beautiful brunch spot. The food was presented beautifully, the staff was pleasant, and I love that someone from the kitchen brings your food to you personally."
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "ja",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VMX3JsbzJwLWZLYVFnEAE",
+            "text": "奥のダイニングテーブルはスーツを着た人や朝ミーティングをする人に任せて、手間のカフェテーブルに座りました。朝7時過ぎ。\n\nオムレツは具を3種類選べて、マッシュルーム、トマト、ソーセージにしました。使っている卵は産地にもこだわり固くも柔らか過ぎずもなくて丁度良い火入れ、厚みでした。どちらかというと白っぽいですが日本にはないタイプで美味しい(^^)  それに、サラダかポテト、トーストがついて$22なのに$24になってましたxx\nコーヒーはお代わり自由でチップ入れて合計$40…高過ぎます泣. そのため⭐︎3にしました\nご馳走さまでした"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VMVERxczNVeWJDZ2dnRRAB",
+            "text": "A beautiful and classic American restaurant nestled in the heart of the city, right across from Grand Central—one of the true gems of Beaux-Arts architecture. The atmosphere is truly unique, making this spot a must-visit. I had the classic burger, which was delicious. Definitely recommended!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmaWEzbDhRRRAB",
+            "text": "I’ve been here a few times while visiting NYC. I’ve enjoyed both breakfast and lunch. The menu options are vast, including several vegetarian options. The food is always delicious and the staff always friendly and welcoming.  The service is quick, so you don’t have to wait around forever for your food even with a party of six people.\nI love the location and the restaurant has a very cool vibe.  Lots of windows and a large bar area, high ceilings and bright colored walls. A fun place for all ages."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOS3NyT2JJcHBLbmxnRRAB",
+            "text": "Stopped by Pershing Square Café on Friday afternoon for a quick snack and coffee. We ordered a cappuccino, hot cocoa, and a chocolate croissant. The drinks were warm and comforting, and the croissant was fresh and flaky.\n\nThe café wasn’t crowded, making it a peaceful spot to relax in the midst of the city’s hustle. The ambiance was charming, with its classic bistro feel right across from Grand Central Terminal. ￼\n\nService was prompt and friendly. It’s a great place for a quick break or a casual meet-up. Highly recommend if you’re in the area and looking for a cozy café experience."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25jeVMxOUZZbGxKU1VGSWJFcEVjbEpTTWpSelEzYxAB",
+            "text": "Visited Pershing Square for breakfast with my sister, and the experience was quite disappointing. The host at the entrance seemed unfriendly and gave off a very negative vibe, making us uncomfortable. He appeared completely disinterested in tourists like us, but was noticeably more polite and welcoming to people in suits. We were directed to a table that hadn’t been cleaned, and when we pointed it out, he didn’t respond well. Unfortunately, the food didn’t make up for it — the Eggs Benedict were overcooked and lacked flavor.\n\nHis ( host) attitude completely ruined our day in the morning itself. Wouldn’t recommend this spot to tourists — especially if you’re looking to start your day with warmth and good food."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3dEtINWtRRRAB",
+            "text": "Great place for brunch!  This place is literally across from Grand Central!  The food came pretty quickly and was delish. Highly recommend chicken club sandwich and chicken pot pie.   Why did i give service 4 stars.  One our waiter came by once to ask if everything was good and then returned later to say because of shift change he wanted to introduce the new waiter taking over.  The bathrooms were disgusting per my friend and we got there at 12.  Another customer complained and they were cleaned.  I don’t use public bathrooms too often so not an issue for me.  Over all was a good experience."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKek4ydGxjMWRMUldGSGJYRXplV2RsVkcweldIYxAB",
+            "text": "We visited when the AC was broken, but the food was still good. My only complaint is that for my party of three they automatically added an 18% gratuity and then listed suggested gratuity and a spot to write in tip on our credit receipt. Gratuity by its definition should never be automatically added by the restaurant without prior warning. I think this was a violation of NYC regulations to apply automatically to a party of 3."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnbkk3WVZnEAE",
+            "text": "I’ve gone several times but this last time was meh\nThe kitchen was very slow, the food took a lot of time to arrive, the order of my husband arrived with the wrong item and had to wait a lot, his food came after I’ve almost finished mine. I must highlight that the servers had a good service, only the food was very slow.\nThe hot chocolate drink is a must! Would return for the chocolate drink but not for the food.\nThe place had a good atmosphere"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0UFZFc3dhRTlzVWpCS01tTnNjMGhtTTNCbWMwRRAB",
+            "text": "Mixed experience.\nA big thank you to the waiter who took care of our table. He was as warm as could be and gave excellent advice. But before he helped us, his two female colleagues simply ignored us. It’s not very pleasant to see them deliberately avoid eye contact and the calls from my family, just one meter from our table.\nThe kind gentleman served us and even got scolded by one of the women, which I didn’t really understand, given that he was the only one running around and actually taking care of us. 😅"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzOWYzVGxBRRAB",
+            "text": "Classic New York layout and atmosphere here. Wonderful service. Serves plenty of business-goers for breakfast before they begin the day around the buildings and also those looking for a quick shot of coffee. We had breakfast here and in particular the eggs set - was well done overall though nothing too fantastic I would say. Very American style and a good decent one at a pretty reasonable price. Alfresco dining also available. It can get pretty noisy indoors as well due to the morning crowd. Located within Grand Central Terminal and very visible once you exist via 42nd Street. Heard their waffles are great too; will be back to try in the future and maybe for lunch!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsYU9VMVRVbVJNVUV4bFJsQk1TRFZMVjNwRVZHYxAB",
+            "text": "This is a great restaurant, we came here twice during our stay for breakfast. It isn't cheap, but the service was excellent and the food delicious!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvcFpmV1F3EAE",
+            "text": "The location is so beautiful. You cant get more New York than that! . I loved my tender and deliciously fresh Waldorf salad. Staff is always so attentive and elegant."
+        },
+        {
+            "date": "9달 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfeW8tMTJ3RRAB",
+            "text": "非常不起眼的靠近中央車站的大大寶藏店，入口是非常絢麗50或是60年代感的巴士入口，進去後整個餐廳別有洞天。服務員會詢問要吃午餐還是下午茶等等，我們是選吃早午餐，應該是菜單會有所不同。金額算是偏高，且一切都非常的優雅，服務員的送餐以及桌邊服務都很棒。法式吐司很好吃，如果需要蜂蜜可以再多索取。"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJNnI3NmJmdHItWENBEAE",
+            "text": "Had a Great lunch here. Place is always hopping giving it a nice vibe. Staff was very attentive and the Cobb and Waldorf salads we had were excellent."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR0dDVXUXdRRRAB",
+            "text": "The location is prime with plenty of seats. I heard a lot of good things about this place, however, my experience wasn’t great.\nThe service was super slow and forgetful. They brought us breakfast menu and then we realized there is also a brunch menu and asked for it. It took forever until the brunch menu showed up. we were there around noon. I don’t know why they didn’t bring the brunch menu in the first place, I also asked for the lunch menu which never showed up on the table. I asked for the steak to be medium rare however, it came well done. I’ll give it another try next time since everybody talk good but as of now it’s 2.5 out of five for me by the way they also made mistake with our drinks. My bloody Mary went to my friend and her tomato juice came to me."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURuODhTQ2dBRRAB",
+            "text": "I’ve been dining at Pershing Square since it opened in the late ’90s, and it’s still one of my go-to spots, even now, when I no longer live in the NYC area. Conveniently located across from Grand Central Station, I find myself stopping in not just when I have a train to catch, but whenever I’m in the area. The menu may be limited, but I see that as a focus on quality over quantity. They always have a great wine selection, and the service is consistently attentive. Sure, I could go to ‘fancier’ places, but what keeps me coming back is the welcoming staff, the excellent food, and the attention to detail that Pershing Square is known for. I truly hope they’re around for as long as I am."
+        },
+        {
+            "date": "10달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmcHZxWUxnEAE",
+            "text": "Pershing Square ofrece una experiencia única 🌟. El servicio es excelente, el ambiente súper acogedo, y el lugar está impecable. La comida es deliciosa 🍴, preparada con gran calidad y atención al detalle. Es un sitio perfecto para disfrutar en familia o con amigos. Sin duda, un lugar que recomiendo visitar.\n\nPershing Square delivers a unique experience 🌟. The service is excellent, the atmosphere cozy, and the place is spotless. The food is delicious 🍴, prepared with great quality and attention to detail. It’s the perfect spot to enjoy with family or friends. Definitely a must-visit place!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OR1VYVklkVlJ3TjNkaFJHeHVaa0ZwTld4S1JYYxAB",
+            "text": "Cute spot, nothing fancy per say but beautiful. Food was okay. I got the veggie chili and my friend had the chicken with mashed potatoes. Typical American style food. The ambience fits being across from grand central."
+        },
+        {
+            "date": "10달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmd2VfOE9REAE",
+            "text": "Très bon restaurant à conseiller. Salade bien composées. Il y a aussi des burger mais pour changer la salade est top! L'omelette a l'air succulents. Service rapide. Tout bien."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnXzViYVJ3EAE",
+            "text": "First time coming back here since covid pandemic. The level of service, quality of food, and the speed of service are phenomenal. This will always be a go to location for us when traveling to New York. Highly recommend the turkey burger. It's fantastic!!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2OGJXWXRnRRAB",
+            "text": "It’s a restaurant that is a waste of money and loss of feelings. Usually in the morning, I like to eat here because it‘s easy and comfortable. But recently, I’ve had a very bad experience. Ordered a medium- rare steak, but the meat is very tough and very difficult to cut. Moreover, I forgot the Airpod at the store and called back and forth to get a rude and disrespectful answer. That don’t have not here. Why didn‘t you treat it? And I myself opened the GPS location and found that the staff in the store was the one who took it. In addition, the answer I got was from the Host and manager. I will not forget this experience."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNib29haTVnRRAB",
+            "text": "It is one of the fastest serving restaurants in New York City. I enjoyed the NY Chicken Pie and some fries. I was seated without any comments about my short sleeved t-shirt, and the waitress didn’t take too much time to attend to me nor too fast. It was the same situation with serving the food and the check."
+        }
+    ],
+    "reviews_count": 87
+}

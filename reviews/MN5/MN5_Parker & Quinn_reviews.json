@@ -1,0 +1,663 @@
+{
+    "name": "Parker & Quinn",
+    "place_id": "ChIJD5cnWqpZwokR8h2yqOtN4h0",
+    "grid": "MN5",
+    "address": "64 W 39th St, New York, NY 10018, USA",
+    "rating": 4.5,
+    "user_ratings_total": 2525,
+    "phone_number": "(212) 729-0277",
+    "reviews": [
+        {
+            "date": "12시간 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxZlUxcDZjMGxMUVdWd05DMXJNekU0UW1sdmFHYxAB",
+            "text": "Food was delicious, service was good  but 62 for a breakfast was too much 🤷🏽‍♀️"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25STVJFSkpaMVZWVlVWRVVEQXpjbWxVVHpOMVgwRRAB",
+            "text": "Walking in the spot looks super chic. I love the laid back vibes. A great place to hang with friends and the food is amazing. Max the manager has incredible attention to detail and took such great care of my friends and I. I highly recommend this spot!!"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWWWFVdzJSMFpKWlZGTk5UQnpRbEE1YkZkSWVuYxAB",
+            "text": "Excellent and attentive service by the manager, Max! The food  was excellent and the ambience is impeccable."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2todWFHMDFibFpUVTE5dVJqZzRWRVJwYlZCNlQyYxAB",
+            "text": "Great food, solid service and vibes. Decent prices, too."
+        },
+        {
+            "date": "2일 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GVVdtVlVTWGN6Wm1zM2VuSjZhMmhpWlVWMk9IYxAB",
+            "text": "Sehr schön gemacht und hires Essen"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGWmEzUlZNbll4VDNkeVRUbDJjSFpzTFZBeVVWRRAB",
+            "text": "The atmosphere was very cool and the staff was very accommodating and friendly.\nThank you for a great experience.\nSunny was an amazing!!! Sam was also excellent!! We had a great first experience at the restaurant."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GcVlYaEJUM05DWWtNNFoxRnpNVlpWVmtJeVNVRRAB",
+            "text": "Everything was Great! Sam the waitress and Sunny the manager gave exceptional service. I would highly recommend."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aaVoxZE1VbnByTFhCdWRUUnNZMHBuV1ZGaVJtYxAB",
+            "text": "the food and drinks were so good but what made the experience amazing was the manager Sunny - he was amazing!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1UVFuRXpjV3RCZFRGd2FrODBjM05CWlhOYVlVRRAB",
+            "text": "Best place to come spend dinner"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1MlpuQTNWbHAwZUhCNWNYRk1NRlZLV1hab1NtYxAB",
+            "text": "Parker & Quinn never misses. I’ve been here more times than I can count and make it a point to bring anyone visiting the city for dinner—it’s that good. The steak frites are always cooked perfectly, the vibe is classic NYC without trying too hard, and the service is consistently great. It’s one of those spots that just always hits the mark, no matter who I’m with or what the occasion is."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25vd09ITTNVM2xIVlZGbE5sYzVZa05pWkcxdE5sRRAB",
+            "text": "This isn't a place to eat like other places... This is for savoring exquisite delicacies. Nothing like it in NYC. Juan R"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkeUxWOWZObmxCUjFaSlkxQXljRFowVW5KdWIwRRAB",
+            "text": "The food was incredible and the service blew me away! I expected it to be great and everything exceeded my expectations. The salmon had a crispy skin and the risotto was luxurious. My husband loved the French dip. All the flavors were incredible and with such top-notch service, we will be back!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WcFpYRTBSMFZZWTJ4cVZqaExVM0pCYlVSaVJXYxAB",
+            "text": "Great spot to eat and drink. The venue is quite loud so don't go here expecting to do much reading."
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205b09HZzVSWEpZUXpWSFYwOTJRVVZaYW5KUmNIYxAB",
+            "text": "The service was good. Lamb burger is so good"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25nMlRFeGlUVVpyUTJGR1RFNDBaak5YT1hSclYxRRAB",
+            "text": "Delightful dinner after show. Staff was superb. Pasta special was spectacular"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toS1VEVnBUV2RhVkdveGIzTk5NSFJJTUhGMlVXYxAB",
+            "text": "Joey was phenomenal!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOTFdrcGFWbDlXWVVoS1RGOVlURTlFTTJSRGNuYxAB",
+            "text": "LOVED MY WAITER JOEY! Comedic relief annnndddd amazing service! 10/10 experience! Please come here!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5YWRuVmxUR3N6U0hKVGIwdDRTWFZwWnpkbFpXYxAB",
+            "text": "Joey was such a wonderful server and made our bday celebration the best!"
+        },
+        {
+            "date": "1주 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KSk0wVjRabWx3TmpWU2NsTllSRVJCVVhGdVFVRRAB",
+            "text": "Отличный стейк 🥩👍🏻"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sV1JDMWxXVzVRVW5ab2RFZ3hObVZ5UlVSWFoxRRAB",
+            "text": "Good eggs benedict with crispy bacon and fresh veggies. Service was excellent."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1M01WRXRSV3BMYVhFM2VIY3hNQzFuVkVSVmRtYxAB",
+            "text": "Good eggs Benedict woth lean crispy bacon and veggies. Service was excellent"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CeE1rVnJla1o0Y2w5YVJraFhWWFY0VEd0bFFWRRAB",
+            "text": "Really solid breakfast spot conveniently located and reasonably priced."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCR1N5MVRUVTVVY2toeGFsSllaVEExYnpJMGRYYxAB",
+            "text": "Excellent short rib"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sbGVqWnlaWGRFZEVKaFdsOXJSVkp6ZEc5Mk9VRRAB",
+            "text": "We are in town for a girls trip and Parker & Quinn was recommended by our hotel. It was our first NYC stop and it was a great choice!  Food & drinks were very good.  Cody was a fabulous server and took very good care of us!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKcGFVOVFkRGhNVHpjNU9GTlBSV3BIV1c5MVZXYxAB",
+            "text": "Cory has been great, and very patient! Good suggestions and great food and drinks."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjek16Um9VR3BhZUZKYVNIaDNaalIwVlhVNVQwRRAB",
+            "text": "Came by for a drink after work ended up having a few and food stuff is amazing absolutely fell in. Love will definitely be back.\n\nVERY  CLEAN"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjM1JVOW1NM2g1U0dwVmJFUkhWWEpJV2toQmVtYxAB",
+            "text": "Sonny was fantastic! He showed us around the restaurant and jazz bar, and made my brother-in-law’s birthday special. We had a great time!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25vMVVEZEJaMDl0YzNGNVVrbFRSMUJSVDAxU2JWRRAB",
+            "text": "What can I say Parker & Quinn is a class act!\nThe dark and cozy speakeasy vibe is a hit!\n\nI’ve dined here a few times and each every time I’m there it gets better. Last night we seated promptly without a reservation, the hostess warm and graciously sat us, out server Corey was endearing and attentive, loved that!\nThe food is always delicious, flavorful and thoughtfully plated.\nStandout meals are the dry aged Cowboy steak and the Branzino Fish!\nWe also had a side Brussels sprouts which was cooked perfectly.\nMy only critique- the churro cake was more like a gingerbread cake. Was not expecting a ginger flavor profile. It needed more of a short cake with cinnamon flavor notes.\nHonestly above is my least worry as I can’t wait to go back and try other menu items!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paV01XOW1lbkJqV0dGdlpIaFZaV3BuT0VZeVVuYxAB",
+            "text": "Parker & Quinn review:\n\nParker & Quinn offers a chic and cozy dining experience with a focus on modern American cuisine. The menu features thoughtfully crafted dishes using fresh, seasonal ingredients, blending classic flavors with contemporary presentation. The ambiance is warm and inviting, perfect for both casual dinners and special occasions. The staff is professional and attentive, enhancing the overall experience. Ideal for those who appreciate quality food in a stylish setting."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWcVNESnlRMnRWWjB4NVFrSk9USEUzZUhCWU5VRRAB",
+            "text": "Excellent in all accounts - diverse food but good quality. We had the charcuterie board, calamari and a couple steaks, all great.\nMusic was a bit loud at first but the manager accomodated our request so dinner was great."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KelJrRnVUMHg0VFhwalZGVk9hbVYxYW0xb2NFRRAB",
+            "text": "Such a great experience eating here! The food was amazing, the staff was so friendly, and the ambiance is top tier 👌 👏"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSbE5qZFRiMXBTVkZKNWEwWXdVVlpVV0ZrelgyYxAB",
+            "text": "Very good service, polite staff and very tasty food"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwdmMxbzJlVTVuWTJSYWMzVnNSV1o2YVRneFltYxAB",
+            "text": "Best French dip ever  Miso is jus too die for Sonny made sure we were taken care of. Definitely an asset   Roasted brussels sprouts to die for."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swekxVTXROa2w0YjBsemVrbDVPWEp2VjFaNVlYYxAB",
+            "text": "Nice service, good food 👍👍👍"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1SVprUXlhVzVWY0hoWGNGOTJXRmRaYldNelNIYxAB",
+            "text": "We chose this restaurant mostly based on the convenient location in relation to the show we were attending afterward,  but will absolutely go out of our way to return again in the future! Excellent food, delicious drinks, and exceptional service!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201bFdqRkNPVXd0TjFwa09EQTNUMEZDYlRZeFNXYxAB",
+            "text": "We would add more stars if we could.  Atmosphere, food taste and quality, and service were perfection.  We brought our niece to NYC for her 14th Bday to see some shows and sites.  I made a note in the reservation booking, but not expecting anything.  At the end of our dinner, the manager Sonny came over to our table to ask how everything was and if he could get us anything.  We complimented the food and service and thanked him.  10 minutes later he walks over to deliver a beautiful piece of house made cheesecake with a candle for the birthday girl!  What a treat for her!  He said, he comes in every morning and looks at every reservation comments for that night.  10 stars for Sonny!  He made a terrific meal an experience.  Thank you Sonny!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zdFYxcHlWVk13WjJaNlFYVXhaRlpoVGpnelpuYxAB",
+            "text": "What a treat to stumble upon Parker & Quinn! It was an intimate atmosphere and a perfect night for me and my 10-year-old daughter. The kids’ menu was so good (the pasta was homemade and so delicious that I had to enjoy a few bites!), and my margarita flatbread was incredible. Great service from our server and another gentleman (the manager?) who came over multiple times to check on us. I highly recommend you check this out if you’re looking for something away from the hustle and bustle and generic nature of Timed Square. Chef’s kiss!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205QmNua3hWelYxTTA5c1N6SnpabWxhTlc5RmJrRRAB",
+            "text": "Wide selection of menu items and the food was delicious!  Fun, upbeat atmosphere. We would definitely go again during our next visit."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWWVIwcHJjbHBOZFhsSVIweFdiSEUwYURaTlYzYxAB",
+            "text": "Super great waiter. All of our food choices were delicious. Creative cocktail selection. A little pricey but it is New York, right?"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twVFVuRldWbkJtYUhNeFVXRTRWVXh2WDJsSVZVRRAB",
+            "text": "The food and service were amazing! The octopus was tender and full of flavor, and the steak was cooked perfectly. Huge shoutout to Juan — the best bartender! He made us a special drink with Ghost Tequila that was the perfect balance of flavor and strength. Definitely recommend this spot for great food and even better drinks!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psamJUaHFkVlZ6TjFRd01IY3pUWE4yY2xOVFIyYxAB",
+            "text": "Phenomenal experience all around. Tremendous customer service, ambiance and  cuisine!"
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQekxpR3FRRRAB",
+            "text": "Always a pleasure to revisit Parker n Quinn. The food never disappoints and the drinks just keep getting better. That lamb burger, ohh my goodnesss!!!!! I can’t believe how good it is, best in New York by far. I have not been able to lock in a booth for my past couple of visit, but hopefully next time we will be lucky enough. Great staff like always, even with the new additions. !!! Always a pleasure to be back, i cannot wait to return!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wdVFWVlBMV0ZTVERCeU4zTklXako0Y1hZeGIwRRAB",
+            "text": "One of the BEST NYC experiences for restaurants I have ever had! Service, atmosphere, food, drinks, all the above was totally stand out from anywhere else I have been here. Bravo!!!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCVFkwUmhaMkpyWjNKZk0ySm5aV0pLU25kWWVVRRAB",
+            "text": "The most Amazing food and the best service in NYC!!! Highly recommend!!!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5TE1pMXFSV1Y0YWpKVlEzTjRXRFZCVG01RWJFRRAB",
+            "text": "Food was fantastic, friendly and quick service, and nice atmosphere!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WNlZuVlBla2hCZFRKSk9URkVNMGhPVTNBMlowRRAB",
+            "text": "Best French dip I ever had!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sVmNVRk5OMnQyVmtGMVNuQjJhbWxVVkZwdWJFRRAB",
+            "text": "Exceptional experience. Great service. Highly recommend"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poSFYwd3pWVTQzVUdjeFIwaEtYME15U2padlVVRRAB",
+            "text": "Oscar was awesome! Sonny, the manager was absolutely amazing! Treated my wife and I like royalty! A must!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvMVl6bGxNRkJ2VTAxU1RtZDZOMkpaUnpBd1ZGRRAB",
+            "text": "Beautiful ambiance, lovely 3 course menu"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poaFNqSjRiVjl0YVZCQmJDMUxSMUoyTlRBMGVVRRAB",
+            "text": "Mashed potatoes are AMAZING. Corey and Sunny customer service was excellent. 10/10 highly recommend"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3OE9LcDBRRRAB",
+            "text": "아 너무 맛있어요\n혼자 브런치 먹으러 갔는데 웨이터분 쏘 쓰윗하시고 추천해주신 행오버 뭐시기로 주문했습니다(풀네임이 기억이 안나네요ㅠ)\n한입 먹자마자 와우 맛의 향연 대폭발💥\n양도 많아서 반만먹고 포장했어요.\n음료는 cucumber soda 오이음료였는데 신기한 맛이였어요 호불호 갈릴맛, 근데 저는 단걸 안좋아해서 호였습니다.\n\n한가지 좀 걸리는건 가게가 펍 느낌이라 좀 어둡다는거? 근데 그게또 분위기 있는거겠져\n\n암튼 꼭 가보세요 프토하고 오믈렛도 추천해주셨는데 일행데리고 푸파하러 가야겠음"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKcGVuQWtRRRAB",
+            "text": "좀 특이한 메뉴가 있다고 해서 기대하고 갔는데 뭐 그리 큰 기대는 아닌것 같습니다. 우선 램버거는 일반 버거와 다른게 없는것 같았고, 특히 햄버거에 야채가 많이 없었고, 햄버거의 번도 약간 뻑뻑한 느낌이 있었습니다.\n와인은 메뉴가 특이해서.. 품종을 선택하면 그냥 하우스 와인이 나오는 구조 입니다. 다른 메뉴도 뭐 그냥 그랬던것 같아요.\n분위기는 친구들과 대화하기 좋았던것 같습니다."
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURvM3BlVllREAE",
+            "text": "가격은 오믈렛 18달러, 아사이볼 14달러로 그리 싼 편은 아니지만 진짜 양 많고 맛있어요. 전 혼자 두개 다 먹을수 있을줄 알았으나 배불러서 2시간 동안 먹었어요... 11시쯤부터 대기시간 길어지고 10시 반 전에 가면 빠르게 앉을 수 있어요 식당도 청결하고 웨이터들 친절하고 저 아사이볼은 진짜...❤️\n분위기도 좋으니 뉴욕오시면 꼭 들려보세용"
+        },
+        {
+            "date": "1달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWNWFta3RNVlZvTVdoV1RYSXdjVzFTTTBOU1gyYxAB",
+            "text": "먹고 갈 경우에, 작은 접시 하나만 챙겨주시면 금상첨화 일텐데 말이죠^^ 100점 만 점에 10점 더하는 방법!!  ^^. 사장님께 전해드립니다!"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5bmFiYUpREAE",
+            "text": "조용히 브런치 즐기기에 좋은 곳. 과하지않고. 편안한 분위기."
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBMk96VFpBEAE",
+            "text": "분위기 정말 좋고, 음식도 맛있어요. 프렌치 프라이 진짜  굿굿! 서버분들도 넘 친절하시고 또 가고 싶은 곳이에요."
+        },
+        {
+            "date": "수정일: 5년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNJOHA3RC1nRRAB",
+            "text": "여행기간동안 마음에 들어 두번 들린곳\n꼭 가보시기 바람\n오믈렛의 새로운 지평을 열 것임"
+        },
+        {
+            "date": "8년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNnenFmRmd3RRAB",
+            "text": "분위기 좋고 스탭들도 친절"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoeEttNjNnRRAB",
+            "text": "맛있었어요 친절했어요"
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNnNzUyYXhBRRAB",
+            "text": "넘맛나용 두번갔어요ㅋㅋㅋ뉴욕살때는 몰랐던맛집"
+        },
+        {
+            "date": "8년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBMi03bG13RRAB",
+            "text": "ㄱㄱㄱ 다음에 다시 가볼곳"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paVFRFazVNbVZWTm1GMVVHaG9OMGw0VEdaclNuYxAB",
+            "text": "New York City is full of great restaurants and each neighborhood seems to have one or two that will grab your attention.  While visiting the city recently, I was walking near Bryant Park and this bistro caught my eye and I decided to try it.  It turned out to be a great choice.\n\nBeing part of the Refinery Hotel (in the old garment district), you can access it through the hotel main lobby.  Or, you can use another entrance on 39th Street, which is fairly non-descript and almost makes you pause.  However, upon entering you immediately get immersed in the very warm space, and the ambiance is well suited for a casual and cozy meet, or a business sojourn .  The menu is classic American, with a wide and appetizing selection.  Accompanied by some focaccia bread, I started with an outstanding Beet root Carpaccio salad with goat cheese, orange and arugula.  The main course was a Branzino filet that absolutely melted in your mouth; the  accompanying roasted vine tomatoes made the dish just perfect.  The dessert was a delicious Churro cake with Cinnamon and vanilla ice cream and a dash of salted caramel.  It was a very satisfying meal.\n\nTo top it off, my server Cory was just fantastic; very courteous and embodied great customer service in every sense of the word.  I am glad I gave this place a shot, and would not hesitate coming back on a future trip to the area.  The food and the ambiance, especially with the old World charm of the adjacent hotel, makes it a great value; well worth a visit."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SelozVkpaRVppV1ZkV09HbEZVbUpQUlUxT1oxRRAB",
+            "text": "Was taken here for my birthday where my husband paid extra to book a booth! Oh my gosh it was so worth it. The booths are higher up in the restaurant and very private.\nInside the decor is tasteful, trendy and modern.\nService was great! Has a kids menu too! My 7-year-old son loved the special booth we were in.\nWine and cocktails delicious!\nPork chop was divine along with the kids pasta and desserts!\nWe had the best few hours here, felt really spoilt and would definitely return. A touch expensive but so so worth it.\nThe manager came over to welcome us and ask if he can assist in anyway or if there is a problem to let him know and this will be resolved immediately!\nOnly down side is the toilets are part of another building and shared."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOakxUbG5abXh1UjFkbmF6ZFlURlZsTFd0T1VIYxAB",
+            "text": "We had a lovely experience at Parker and Quinn while celebrating a friend’s birthday. The atmosphere was warm and stylish—perfect for a relaxed get-together. The food was well-prepared and flavorful, and the service was attentive without being intrusive. It was a great setting to catch up with friends and make special memories.\n\nOne downside, however, was the restroom. It wasn’t very clean and had an unpleasant smell, which took away a bit from the overall experience. Hopefully, this is something they’ll improve, because the rest of the visit was truly enjoyable."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSYWNHbDRhRzg0ZVVaNFZGVnlVRlppU0ZkbGJWRRAB",
+            "text": "I found this lovely place when I was googling and looking for a brunch place for 7 of us. It was fully booked online but I gave a try and went the place. Turns out they made a table for us! Brunch was fantastic! I ordered French toast and it was amazing. I don’t have pictures for it but avocado toast, smoked salmon on a bagels and omelet looks also great. And they even sang happy birthday song for one of our friend!\nHighly recommended!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLRFU1cFRraTU2MkdnEAE",
+            "text": "Parker & Quinn – A Hidden Gem in Midtown\n\nI had such a great experience at Parker & Quinn during my recent visit to New York. Tucked just off 39th Street, this place truly feels like one of the Big Apple’s best-kept secrets. The vibe is cozy and welcoming, with beautiful vintage decor that gives it a classic New York feel.\n\nThe food? Absolutely delicious. I had one of their juicy steaks and it was cooked to perfection — flavorful, tender, and exactly what you’d want from a good steak in the city. The menu has a great variety, and everything we tried was spot-on.\n\nWhat really stood out, though, was the staff. Everyone was super friendly and made us feel right at home. It’s the kind of place you walk into and immediately feel comfortable, whether you’re there for a full dinner or just grabbing a drink.\n\nIf you’re in Midtown and looking for a great meal in a laid-back, charming setting, I highly recommend checking out Parker & Quinn. I’ll definitely be going back."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sSUxXUlBTbTFKTFZaRFpsSXhaMk5oVDFWaldYYxAB",
+            "text": "My wife and I love this place. We’ve eaten here twice and both times were outstanding. The staff is great. They greet you and treat you like you’ve eaten here every other day since you came of drinking age.\n\nThe restaurant oozes an old school NYC vibe. The food is excellent with some appetizers that could serve as a meal. The ramen shishito peppers are the best we’ve ever had. They make a great burger too. I had a poke bowl special as an app which could have been dinner. It’s flavors were perfectly balanced and could have been dinner\n\nWhile not cheap, it certainly is reasonable and well worth it.\n\nIf I had one small complaint, it’s that they don’t serve their martinis in classic martini glasses. They serve them in the champagne style glass. The decor screams for a classic martini glass. Parker & Quinn is a must. We’ll be back."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWRVJsOUlWMmt6U0ZkeE9HSTRTWEIyU2tOcGVXYxAB",
+            "text": "Fantastic food. Service was amazing. Ambiance was top flight. The grilled cheese and tomato soup is the best I’ve had in years. The french dip was so delicious I questioned what I was eating! I even forgot a pic of the french dip!!! You cannot go wrong here. Sunny and Gary were awesome too, in the area, come here, perfect place for great food and great times."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSVVZtZGpWSFZRWTNkd1UyNHdVbDlCVDA1M2MzYxAB",
+            "text": "The breakfast was delicious. The way they made the potatoes was amazing! Bloody Mary was bloody good. The vibe is giving classy-vintage-diner. And our waitress was warm and friendly. Highly recommend!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKeGMwZFZhVVZ3Y2pGclNHeEJYMjVzVTFGS01YYxAB",
+            "text": "The food and service were great! Everything we ordered was fantastic - the hangover hash, smoked salmon platter, malted waffle, burger, and French toast. Our server Oscar was professional and friendly, and the food came to the table in a reasonable amount of time."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5T1QzVkhWa2xCTjBkRVRrNTZWVGxGY2pOR2RGRRAB",
+            "text": "I went fairly late at night with my mom for some small plates and drinks. We loved everything we had and loved the atmosphere! It was only a few steps from our hotel so the location was so convenient. We shared the grilled octopus and ahi tuna starters and I got a sausage flatbread and she got a cup of tomato bisque. All were delicious but the octopus was a standout for me. The tahini sauce on the tuna was also especially delicious. I had one of their signature cocktails called the Garment District and really enjoyed it as well. Definitely recommend Parker and Quinn if you're in the area looking for tasty small plates and interesting cocktails!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKNkc4S0g2dnBXTnhBRRAB",
+            "text": "We visited Parker & Quinn for the first time on Mother’s Day, following a Broadway show. My son and daughter-in-law made a reservation for us—two moms being celebrated—and the experience was truly lovely. We arrived around 5:00 p.m., and the restaurant was pleasantly quiet, with plenty of available seating. The ambiance was warm and comfortable, with a variety of seating options: tables for one, two, four, and six, along with cozy chairs, benches, and even a separate area suited for private parties. The soft background music allowed us to relax, catch up, and enjoy each other’s company without raising our voices.\nOur server, Dorian, was excellent—attentive, friendly, and accommodating to all of our needs. The service throughout the evening was professional and personable.\nWe started with calamari to share, which was nicely cooked and well-seasoned. For our entrees:\nI had the lamb burger, cooked medium rare—it had a slight spicy kick, which I personally enjoyed.\nMy son had the regular burger, also medium rare, which came with a fresh side salad, sour pickle and onions.\nMy daughter-in-law ordered the spinach salad with grilled chicken.\nHer mother, who is vegetarian, chose the squash flatbread and requested some extra sauces. Dorian brought both Cholula and Tabasco, which she really appreciated as a fan of spice.\nThe food didn’t just taste good—it looked beautiful, too. Every plate was thoughtfully presented, making the meal feel a bit more special. One small note from our experience: the burgers had a generous amount of onions. While it didn’t take away from the flavor for us, if you’re not a big fan of onions, it might be a good idea to ask for less when ordering.\nFor dessert, we shared a churro cake and an affogato (ice cream with espresso). Both were delicious, and the portion sizes throughout the meal were just right—satisfying without leftovers. We didn’t order alcoholic drinks, just tap water, and I enjoyed the espresso with my dessert.\nOne small note: the restrooms could use a bit of attention in terms of cleanliness and upkeep, especially given the restaurant’s location inside a hotel. Still, this didn’t take away from our overall experience.\nThe staff, including the manager who came by to check in, were very kind and welcoming. The atmosphere, food, and service made it a memorable Mother’s Day dinner. I would absolutely recommend Parker & Quinn to anyone who enjoys classic American food with a touch of modern flair. A great post-show dining spot!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VKZmltZjdPemRyQlNnEAE",
+            "text": "I was used to their warm olives and focaccia as starter. Something has changed in the menu, but food was as good as it was. Interesting selection of appetisers, burrata was phenomenal. Burger was neat and well presented. Price was fair and really good for the kind of food they deliver. Pizza was not the best I ever had. But fair in the total."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJdVA4WUw1bzREQXdBRRAB",
+            "text": "The dinner menu is fairly expensive, leaving the flatbreads and sandwiches as the main moderately priced choices. The grilled cheese was delicious, if not ridiculously caloric, as was the tomato basil soup. There’s better pizza in nyc, but again, price. The vibe feels classic dark, moody nyc. It was surprisingly empty for 7:30 on a Monday night in such a prime location, but that made it quiet and easy to talk. The server boxed up my leftovers, which I always appreciate."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5NVpYWmtSV2RYTjJ0bVEzbHZTM2RzUlV0Vk1FRRAB",
+            "text": "We came for brunch. The Eggs Benedict was one of the best I have had! The ambiance is beautiful. Our server was attentive and friendly. I highly recommend!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toTFgyVkxUVjlaUW1GdVRISmFRazlqZEZGSFZuYxAB",
+            "text": "Amazing food and drinks. Servers are attentive and so are the managers. Making sure your dinning experience is up to par. Garment district cocktail is refreshing and delicious"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkTWF5MXVkR2xIV0ZaMlNVVk1ZUzFUTUZWdk9FRRAB",
+            "text": "Lo mejor de Neu York es un exelente lugar para pasar en familia, solo o en pareja, la comida muy rica deliciosa, el lugar es  simplemente hermoso, todo el el personal muy atento, los tragos uuuff de lo mejor, echos por el bartender cristian un tipazo muy atento, respetuoso, servicial, y cabe mencionar que en manageer zoni siempre estuvo muy atento, ya que en pocos lugares se vea el manayer atendiendo, 100% recomendado tiene que vivir la experiencia"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOWVNubEVZMk5oWldOa1JYcFFjWGxMWlhvd2RIYxAB",
+            "text": "Five of us ate. I had ribeye dip and it was incredible. Another person had pork chop and it was best pork chop in a restaurant we have experienced. I enjoyed house salad although it is very vinegary. Pizza and chicken sandwich were enjoyed too. The hanger steak and fries was a disappointment. Service was excellent and it was a busy place. Great location and inside decor was what we were looking for - \"New York casual.\""
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWYU0yOU9iM1ptV0ZwT2JsTTJUUzFyU1dFemNsRRAB",
+            "text": "If you are looking for a cozy bar. Look no further. This place has a great atmosphere and great food. We had two different salads, both were excellent!!!"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJby1YY2RREAE",
+            "text": "Best acai bowl I've had, the coffee was okay. The avocado toast was good, but nothing special, and very pricey. The staff was friendly and the dim pub lighting was different, I liked it, but I missed the daylight."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBaExmRW53RRAB",
+            "text": "Had lunch with coworkers here and I ordered the BLT chicken sandwich with fries (additional cost since it normally comes with a side salad) which was tasty and was informed that it’s their best seller. Coworkers ordered the fennel sausage flatbread, french dip, rigatoni, rib eye, and a burger. Everyone enjoyed their meal. Service was great and the server came by frequently to refill our waters and check in on us. Our food did take some time to come out but was fine given we were just catching up. Would recommend if you’re nearby."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKVlJtOVBZVGhJWWkxWUxXUklVRTVFV21GYU1uYxAB",
+            "text": "My wife and I had such a great experience at Parker and Quinn this evening, visiting from Salesforce SF.  Chad took excellent care of us including dinner recommendations and wine that would go well with our dinner selections.  He had a very busy section but we were never ignored, and the manager stopped by to check on us as well.  Scallops were cooked perfectly as was the salmon, and even the calamari was uniquely prepared and delicious.  Straight up - It's a very lively vibe so not for a quiet evening, but I would highly recommend for an excellent dinner and I'll bring a large work group here as well, as I know they can handle it and it's very close to the NYC office.  We love NY!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psbE1sZFdlV2xpZW1GTFMyeHFaMFJVVHpscVdrRRAB",
+            "text": "Parker & Quinn went above and beyond for my 40th birthday dinner yesterday. I had a small group of ladies with a mixed bag of dietary restrictions - vegetarian, pescatarian, and straight up carnivores (lol) - and everyone was able to find something they wanted and enjoyed. We essentially ordered the entire Small Plates menu (7 items in total) and shared a mini feast. Corey was our server, and he was able to make amazing recommendations with minor modifications that a member of my party requested. Our food came out hot and on time (we had a 7:00 PM theater show to make), and everything was delicious!\n\nAfter the show, we came back for light bites and cocktails via the rooftop bar, but it was closed due to a private event. No worries though - Max at the front of house remembered my group from dinner and made sure to take care of us. A round of champagne, prime seating, and frequent check-ins made me feel like an absolute Queen.\n\nI am so incredibly thankful for the care, thoughtfulness, and quality of service that we received for this very special occasion. It was a first time visit or all of us and I/we will most DEFINITELY be back. Thank you so much again, Parker & Quinn!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWTVZHOXVaUzFGUVRGc2IwcEpUVzV3UjNoWVVuYxAB",
+            "text": "I'd like to share my experience about the restaurant. My son recommended this place as the best for burgers in New York, and I wasn't disappointed! At first, I came for breakfast, and of course, there were no burgers, but it gave me a reason to come back. The next time, I tried their famous burger, and it truly is the best burger I've ever had! Special thanks to the manager, Sal, who was very attentive and friendly. I'll definitely be back!"
+        },
+        {
+            "date": "5달 전",
+            "language": "it",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VNT3lzLXZ4bWN5SzFnRRAB",
+            "text": "Abbiamo consumato il tipico breakfast americano: scrambler eggs con bacon e patate, accompagnate da pane tostato. Caffè americano della Nespresso. In tre abbiamo speso 100 dollari comprensivo di mancia. Non è più così facile trovare la tipica colazione americana. Ambiente old style, veloci e cortesi."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0MVpUTkpSWFZhYVRGMFVGUnlaSHBwYzJ4Q2ExRRAB",
+            "text": "I came here last night, grabbed the calamari appetizer and the rigatoni; they were absolutely amazing. The portions were perfect. The dirty martini was also wonderful! I have more to say about the service, however; while in the restroom I took off my engagement ring to wash my hands, and I forgot to pick it back up. After ten minutes I realized I forgot it, and ran back to the bathroom to find it gone; thank God the staff had found it and reported it to the owner. I was able to get it back, and I am beyond thankful for the INTEGRITY of all the employees. Thank you so much to the team at Parker and Quinn for both the amazing food and FANTASTIC service. We will be back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ScFIxVjVVemRQTURKV2FXTlphbWxxTFhwdmNrRRAB",
+            "text": "The food was exceptionally bland. We ordered the ribs and rigatoni. The \"sauce\" for the meat was broccoli reduced to paste, earthy and devoid of flavor. The meat was skillfully cooked. The pasta was much better, but still lacked the kind of depth of flavor that would keep me happy beyond the first few bites.\n\nI recognize this is absolutely a personal preference. But, I would avoid if you enjoy moderate to liberal seasoning.\n\nThe service was excellent, however. My waiter was happy to switch my dinner to the pasta when he could tell I wasn't enjoying the meat. 20/10 stars"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wQ1IyaENaRE50UjAwdFN6SktWVUZzYkdFNFZtYxAB",
+            "text": "Great place for dinner! The charcuterie board and the aged Burger meat were superlative, Chad a big waiter."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwWVFreE5WVmRPVDJsdWFsRmlhRU0xYmpsMFgxRRAB",
+            "text": "Had lunch here this afternoon before heading to a Broadway show, and everything was perfect. I ordered the kale salad with roasted chicken on the side  fresh, flavorful, and beautifully done. Sonny took care of us and made sure we were in and out in time to make our 1 o’clock theater show without ever feeling rushed. The service was excellent, the food was amazing, and the overall experience couldn’t have been better. Highly recommend Parker & Quinn!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKYlNyWnJGcXVDRWtnRRAB",
+            "text": "Friendly, attentive server and bartender  (Alan). Gave us good tips for visiting around the city\n. Delish food!!!! French dip was outstanding! Spring training drink (Hendricks, cucumber, etc.) was yummy!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzZ3JPTVVBEAE",
+            "text": "Took my friend here for brunch today on a hunch that it would be good. We had reservations for 12:15pm. Arrived on time and was promptly seated. The lady that was our server was lovely. We ordered espresso martinis, mimosas, the hangover hash w/polenta and potatoes was delicious! And the smoked salmon platter. The pork was soft. Juicy and well seasoned. The malted waffles with fruits and whipped cream was superb. I wished I had ordered some to go. Prices was fair for the area and no one rushed us out. Would visit again."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FMGNWWlNSV051ZVVsamRUTmZVMDUwVFVONFJGRRAB",
+            "text": "Very accommodating. Helped me with with a room service issue I had.  Great food!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kTlgzUjBVRUYwU0ROWlNTMU5kbTFuWTJWdk5tYxAB",
+            "text": "The atmosphere was great. The food was delicious and much better than we expected. The staff were excellent. The manager went above and beyond to make us feel comfortable and welcomed. If you are in New York I would recommend Parker & Quinn. Everyone made our dinner enjoyable."
+        }
+    ],
+    "reviews_count": 93
+}

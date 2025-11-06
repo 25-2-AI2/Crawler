@@ -1,0 +1,614 @@
+{
+    "name": "Harlemite Peruvian Cuisine",
+    "place_id": "ChIJr2-1yNH3wokR9jiSn9DRkbQ",
+    "grid": "MN10",
+    "address": "231 Lenox Ave, New York, NY 10027, USA",
+    "rating": 4.7,
+    "user_ratings_total": 440,
+    "phone_number": "(646) 682-7432",
+    "reviews": [
+        {
+            "date": "수정일: 1일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzeXBPOURREAE",
+            "text": "I’m a neighbor next door it’s 38 degrees outside no one is sitting at their outside seat and they still have a loud music on at 10:10PM. A total disrespect to the community."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CZlduZ3daRE52YzJkTlpGOHpVSGQ2TkUxUGQzYxAB",
+            "text": "Excellent service, atmosphere and the food was delicious! We started with Papa Rellena and Calamari, for the main course the  Salmon en Salsa Camarones and Lomo Saltado … Everything was cooked perfectly and flavorful!\nWill definitely come back for more ….."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZeU1FaEdXR281WlVkTmRtTnBVemQwVEd4WU1uYxAB",
+            "text": "My Peruvian boyfriend has been missing the taste of home and we decided to stop by for an early dinner. The food was fantastic, the atmosphere and servers were lovely. We will definitely be back soon!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCbFNqazFlbEpGYmtwd2JFbG1XbWsxU0ZOUlQzYxAB",
+            "text": "Great food! Amazing service"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5MmVGazVObVJvZUMxMGVXOTNYMGhKUW5WSU5WRRAB",
+            "text": "Harlemite has quickly become one of our neighborhood favourites! The food is delicious with generous portions at a great price. Excited to keep trying different things from their wide menu."
+        },
+        {
+            "date": "1주 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNMWVWVTVSVFY0WldkaVZ6QnFaazVWU1daVGJIYxAB",
+            "text": "Très bon accueil, nous voyageons, une très belle rencontre."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4c09DMU1PRkUwVkRkT1pUaG1kamQwWmtWc2JVRRAB",
+            "text": "Best Peruvian’s restaurant in the USA !"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCRVFWSTNjbnBSVWxWMlgzUmlNMFY1VlhSRWNWRRAB",
+            "text": "Beginning of the meal: it's delicious. And the cevice is perfect"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25vNGIzcFhZakV6T0ZkcmNWb3dhazVZTmxkYU0wRRAB",
+            "text": "I ordered the Lomo Saltado via grubhub. I did not expect to get soup. Ive eaten at so many good Peruvian restaurants so based on the picture I thought this meal would be a great choice… I was wrong. The fries were swimming in soup not sauce and completely soggy. I’ve never had soupy lomo saltado in my life. This was extremely disappointing. I didn’t even get the request utensils. In comparison to the pictures advertised my food doesn’t look as good at all."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKVVNsbHNjM0l6ZVdoRVRHcGpkV3BVUlhwbmQzYxAB",
+            "text": "Really good food and awesome vibes!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKWlVHcFdOVzl6VWt0blJHTkVUWGRSVURsRGFIYxAB",
+            "text": "The food was delicious! Great service and amazing atmosphere."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wSWNFMTRWVGQ0Y0ZZd05ETlliWEl4VTNwRlgyYxAB",
+            "text": "Good seafood options and service."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOWU9VdEhWMFpYYW1sS1NrSjFUVkF5U21KeWMzYxAB",
+            "text": "Fantastic food together with a great service and atmosphere. A must go!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21RM0xWRk5SRnB3VTI5VE0xVkNRVWRpY25VM1VVRRAB",
+            "text": "Normally I don’t empty the plate but I ate that place I left no crumbs, I’m telling you, no crumbs found on that plate."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5VU1WUnBVa3BIVms1eWNFNHpOR3BKVVZCbVNHYxAB",
+            "text": "The food, service, and setting was absolutely beautiful!!!!!! I will definitely be returning !"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ONWRqQktPVWczTUZwa2NUSjNZVWhKZFVoNVpuYxAB",
+            "text": "Loved this spot! The Jalea was crispy and flavorful, and the  Tallarin Huancania  with beef was perfectly seasoned. Great vibes, friendly service, and authentic Peruvian taste right in Harlem. Definitely coming back!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFd2NuUjBaRE55VEVkVldubHJkbnBvWDJsM2FWRRAB",
+            "text": "The place is very nice, nice lighting and the service was good from the moment we came in. The food came out very quick and it was delicious plus the portions were great! I would definitely come back here with other people"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGMFRYVkNhMVF0TkVNNGNFbG5iWGQyWTNGa2FGRRAB",
+            "text": "Good presentation and excellent service and food!!!"
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMaktiM1BREAE",
+            "text": "Great service food and drinks"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCcExYUktZWFJrUjJGM1RrOTJZakJCZEZkbGRGRRAB",
+            "text": "lomo saltado is so tender and good! this place made me a fan of peruvian food"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JeE0wTm1kR2h0VDNkbFF6ZGhkMWd5WWxvM2JsRRAB",
+            "text": "Delightful restaurant, happy customers, not too noisy."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSaFgybE9OM1kwU1VWT1VFeEdUVFp1WldSb1gyYxAB",
+            "text": "Great prices, portions, and service! Will definitely be back!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wd1ZWQjFWa2RSVkU1M2NqTTFXVGxZV21GSFprRRAB",
+            "text": "Harlemite Peruvian Food is such a gem! The rice was absolutely delicious, portions were generous, and every dish was packed with wonderful flavor. So glad to have found this spot — can’t wait to go back!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBMFNreDVTMWc0U1VVNVZ6YzFNVlEwTTJ4M1MwRRAB",
+            "text": "This is an amazing restaurant, the food, the vibes, the drinks, everything was absolutely perfect. Highly recommend the strawberry pineapple wine and the tallarin saltado pollo!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5b1VFeGFiR3hJT0dVd1JHeEhUM1ZpY1ZOMlIyYxAB",
+            "text": "The restaurant is really pretty and the food was amazing! Really good service too."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0NFZuTmlSVlJZTm5CR1FYSTBiRmxWVnpNelkwRRAB",
+            "text": "My first vegan meal in NYC couldn't be better than this! We tried all the vegan plates and all were delicious.\nSimple, friendly and professional staff.\nThe atmosphere is also very cozy. You feel at home.\nThank you!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psNU5YTXhkM2hqU0VWMlUycElaR3RuWlhad1ZrRRAB",
+            "text": "We had a delicious meal here on the patio. Andres was our server and he was kind and attentive. We enjoyed the vegetarian options and the passion fruit creme brulee.  My 80yo mom said the food is better and more interesting than the (usually praised) food on the Viking River Cruises she goes on regularly. 😮😮😮. That is high praise for Harlemite!!!! We are looking forward to returning to try the chicken. And maybe more passion fruit creme brulee."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psSFdtUktSbGxPTWxkUmVuSXlSbmhOWmpKNVVYYxAB",
+            "text": "Beautiful place with very tasty Peruvian food."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GWlUxVjNPVXhtT1cxMkxUazFRMUEwVDFVeWNYYxAB",
+            "text": "The lomo saltado and chaufa with beef was 10/10. Highly recommend!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xZd2JuQkVNR3ByVVZweWNEaDZRWGRyY0ZsM09XYxAB",
+            "text": "The food is amazing and tasty! The staff is nice.. food came out promptly"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toR1JtaHFOa1JwVmpGaWNVOHRXVkJ0WDJwUVVHYxAB",
+            "text": "Lomo saltado was good and the purple drink yummmy"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ka1kxaEhUM1ZwZGsxc2NFOTRkVkptYkRaNFpHYxAB",
+            "text": "Great ambiance, delicious food. We had the whole fish with coconut garlic sauce which was amazing! Never had Peruvian beer before; highly recommend it."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KYVFYUjNRMEZDZUc1eVIyUk1UMHMyUlZkbFoxRRAB",
+            "text": "The ceviche was delicious and the chaufa was real good."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Nd1VrWlNZMEV4TWxaV2FWUlZiVVZIZWtwelRVRRAB",
+            "text": "Got the pescado a la choreillana & salmón en salsa de camarones and both delish! Wanted extra sauce so bought an extra portion and had leftovers. Will return!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210b04wYzJUa05ZY0ZWaVUyWTBlVmM1WldwNlpVRRAB",
+            "text": "Great food, great service, I got the shrimp ajillo and it was very yummy."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twYWIzTkhVRGhIT0hOM1gxWTRaVkJZWVZWWmEzYxAB",
+            "text": "I’ve never left this restaurant unhappy. Probably one of the best restaurants in Harlem."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SdmRuQXpVMVJFTkd0a1VHMU1aMVZUV2tsWk1tYxAB",
+            "text": "This restaurant is a real gem! The food was delicious,  the service was wonderful,  and the atmosphere was charged with happiness! I will definitely be back!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CeVVtMHhkM0pSYkd4UGNVUlFXV2MxUWtoa05sRRAB",
+            "text": "Fantastic service"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4MlNsTXphMHBhU0V4QlUxcHZlVmR1UlRGWGRYYxAB",
+            "text": "Great food and ambiance! The taste of the Huancaina sauce is everything! I LOVE THIS PLACE!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aMGVqWnBXREkxWVRoR2NXOXZSRGwxVTIxWmFIYxAB",
+            "text": "Jalea fried fish so fresh and tasty! Chauta Fried Rice was so delicious!  Fresh carrots, scallions, shrimp and tender beef were scrumptious!   The patio in back was private and cute. Nayely was so friendly, fun and made excellent suggestions!   Thank you and see you again soon!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOSWVVRmtZMDgxYlVOWmRXcEtlUzFyYkhCdlJGRRAB",
+            "text": "The fish was amazing! Top notch. The fry was perfect and the meat was very flavorful. What a hidden gem!"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaWGRtYzBUbFZNZEdsamNXMVpaall5V1ZGa1lXYxAB",
+            "text": "Excelente la atención de pablo, muy cálido y la comida deliciosa"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSemNYTmZWek5IWDJJdGFFcE1RblJPY2w5VE1XYxAB",
+            "text": "Cute little restaurant with a lovely little Garden in the back. Food was delish and the staff was really nice! Would definitely come again for a great unusual taste experience."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Cb1RIWTJUM2xIZDA1UVYwMHlZemR6V0hsSE1FRRAB",
+            "text": "Food is good, the vibe is good. Portions are a little be small. Nice place to go."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210Q1ZYaE1WMVpaVDE5MWQzcFFXa2h1YTNGdVFuYxAB",
+            "text": "I ordered the Arroz Caufa special. It was so good! Reminded me of Mofongo, but with soy sauce. The portion was large with a lot of chicken and veggies, and 3 large shrimp. I’d recommend this place in central Harlem!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1a1QxbGhUVTlwTVhaSVMxZGxOamN0TVd3ek1WRRAB",
+            "text": "Very cozy restaurant! Staff was friendly. Loved the food will definitely be back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wSk1FcG5Va2MyUTJSbmRsQk5kMkpvTFdSbWNrRRAB",
+            "text": "We loved the fish. So fresh and tasteful. We will definitely come back and keep recommending it. Gracias al staff x la amabilidad y el profesionalismo durante nuestra cena."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GTFoxOXRaREF0WkMxbE9WWkNZV1J1WVhwb2MyYxAB",
+            "text": "This place is so cute and cozy. The food takes a bit longer but you know they make it from scratch. Waiters were lovely. Highly recommend for a date spot."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWbWNVNURSakZDVTJseWVtVlZValJCY1Vwc1dtYxAB",
+            "text": "We’ve been coming here semi-regularly for a while now and have had the opportunity to sample most of their menu. We have never been disappointed! Their lomo saltado and tallarín a la huancaina are menu highlights for us, along with their ají de gallina bites. But honestly, everything on the menu is fantastic and we have yet to find something we didn’t like. The service is also fantastic. The manager began recognizing and greeting us like friends after our 2nd visit. We had my husband’s birthday dinner here, we brought our own cake, and they were extremely welcoming and did everything they could to make it special, including lighting candles on the cake and singing happy birthday. Thank you Harlemite!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Ca1ppMUNkazFCVGtoWU5FeG9kWFV4ZEhwSVpGRRAB",
+            "text": "The food was fantastic and the staff couldn’t have been friendlier! I tried the traditional ceviche and the lomo saltado—both were absolutely delicious. We sat outside on the back patio, and the beautiful evening made the atmosphere even more enjoyable."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ZeFdqSnVjVGN4ZEdoUlprSlFVV0pRU1ZKcE4xRRAB",
+            "text": "Harlemite is a true gem in the heart Harlem. Arrived without reservation but we got lucky and was seated right  away. The service was exceptional and the food was great. Highly recommended and will definitely return to try different dishes."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0TWFHMUZSV2cxY0V0elEySlpNRVJEUWtRMVZGRRAB",
+            "text": "This is a nice dining jewel for the area.  The food was flavorful and well portioned.  It was served hot and plated nicely.  The server was very helpful with recommendations.  During my visit they appeared to be short staffed with servers so the timing between server visits to the table was longer (though not excessive) than expected.    There's a nice patio space in back in addition to sidewalk seating in front.  The dining room is quaint but not stuffed...it's comfortable."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OamJVRnRRbUozVWtKTE4yUkRkekJ3YjFSaGFuYxAB",
+            "text": "El shrimp tempura es delicioso, dan deseos de seguir comiendo más, me encantó…\nPedí el salmon en salsa de camarones, no me gustó mucho porque le faltó sabor y la salsa de camarones no le pega, queda mejor con salsa blanca o salsa de hongos, además, no fritaron la piel del salmón. Mi esposo pidió una chaufa de pollo y la faltaba un poco de sabor también (estaba como desabrido). Quisiera volver para probar otras cosas del menú y quizás me vaya mucho mejor"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCNFIwMDBPRWx4VTJWaU9GQjRXRkZGVjI1Rk0zYxAB",
+            "text": "Local gem with authentic Peruvian dishes and friendly service. We loved the croquetas, ceviche the Fried rice with chicken, the poor mans minute steak and the spaghetti with lomo saltaro. There is a nice patio on summer nights."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wMk1WUnJjMlpCYkZweVNFbDBVRXd3UW1VdFJGRRAB",
+            "text": "The service was excellent — the waiters were warm and attentive. We ordered the arroz con maricos, and it was fantastic. The portion was generous — there was almost more seafood than rice! It came with six or seven large shrimp, three mussels, several octopus rings, and even a whole baby octopus. The fried rice was topped with lightly pickled red onion slices, which added a refreshing acidic kick to each bite."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPYlYxZlBHaVpYVlV3EAE",
+            "text": "Harlemite Peruvian was such a pleasant surprise—a real hidden gem! The ceviche came in a light, soupy broth that caught me off guard at first, but the flavor was bright and citrusy, and the fish was super fresh. The arroz chaufa (Peruvian fried rice) was outstanding—even for someone who usually skips rice. We liked it so much, we ordered takeout a few nights later, and everything was just as good. The wings were perfectly cooked and flavorful, and the sweet plantains were caramelized to perfection.\n\nAnd I have to mention the sangria—fresh, well-balanced, and not overloaded with syrupy sugar or artificial liqueurs that usually guarantee a headache. You can actually taste the fruit and wine!\n\nBonus points for the garden out back—so cute and cozy. Harlemite is officially on my go-to list."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wcFoxOU5ZaTFKY3pacFVVTldkazlWVW5SbGJXYxAB",
+            "text": "Amazing food! Highly recommend coming here to fulfill your seafood craving.\n\nThe backyard is lovely, and good service overall."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CelJIVlhRbEl4WlRodVJITjBWVU5aVW01VVJWRRAB",
+            "text": "We had the fish and the Peruvian fried rice, both delicious, well flavored. Great ambiance, there is a cute garden out back. Service was great too."
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBem8zSndnRRAB",
+            "text": "Great food! The fish was phenomenal, super impressed! We’ll definitely be back.\n\nUpdating this review to add that my half chicken literally costs less than my usual bowl of Chipotle and that feels like a big win."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xObFlWUjVkalZpZFdoaGNGSjBSREUxVERobk1GRRAB",
+            "text": "A friend told me about Harlemite, so we met for a late brunch in the backyard garden. We started with Red Sangria, Causa Rellena and Yuca, then had Ceviche Harlemite and Tacocho for the main course. Loved the attention to detail - the red tables and well kept backyard, the little pink vases on the table in contrast to the vibrant yellow sauce. The ceviche was a highlight for me - very flavorful and tangy fish and shrimp with a bit of spice and Peruvian corn. Although I didn’t care for the flavor of the sweet potato served with it, the rest of the dish was fantastic. Service was excellent - we never felt rushed and the backyard oasis is a welcome contrast to typical noisy spots. Also, $5 beer specials is unheard of these days. Highly recommend for adventurous eaters who want a quiet brunch with a partner or friends - will be back!!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxbWJqZHVOVTVaY1dKS1ZYRXRZekkwZFVSWU1tYxAB",
+            "text": "As a Peruvian, I’m always a bit picky when it comes to our traditional dishes — but I was blown away! Both the ceviche and jalea prepared by Chef Gabriel were absolutely exquisite and truly authentic. Every bite brought me right back home. Thank you, Chef, for honoring the flavors of Peru so beautifully! 💗"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCdVIyTkplbTl0Y1VOWGNtMWFibXRKUlZSbVltYxAB",
+            "text": "The vibe here is immaculate. The best Peruvian food I’ve had for sure, though I haven’t had much. Nayely was super friendly and made really good suggestions for what we’d like.\n\nWe’ll be back often!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3cXNTZGJBEAE",
+            "text": "My daughter and I had a date, and we decided to eat at this location. The decorations of the location were sleek and clean. We order mussel, the Peruvian rice, and seafood ceviche. The food was okay. It lacked favor, and they took long with the food.  The star of the night was the dessert. We ordered the passion fruit creme Brulee, and it was delicious. The atmosphere of the spot was nice with music in the background, and they also had outdoor seating."
+        },
+        {
+            "date": "2달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWeWRqYzBSWE4wZUdwSlRGZE5WVTlDVVZKWVJVRRAB",
+            "text": "Superbe restaurant de poisson mais pas que, quand vous rentrez, la bonne odeur des cuisines vous invite à aller goûter leurs plats.\nSuper expérience dans un quartier sympa avec terrasse ombragée.\nMerci Pablo, Fred from France 👍"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GMGMwZGpUekppY1UxVU5FSlBjbGN5VG14cllWRRAB",
+            "text": "I had such a great time here, food was soo delicious & flavorful. The atmosphere is vibee, staff was on point attentive & soooo niceeeee."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aVVRuZFpPV2R0WmsxclZVdGtUelJYTkZOSVozYxAB",
+            "text": "Harlemite is awesome! we’ve come twice now for lunch and dinner, and everything is immaculate — from the food to the vibes! highly rec the lomo saltado and chaufa with chicken :)"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ONmEzVmlVRWxDYzE5YVZGSTBXRTQyVG1kUmRsRRAB",
+            "text": "Harlemite is truly a gem! From the moment you walk in, you feel the warmth and hospitality that makes the experience unforgettable. The food is absolutely top notch—flavorful, fresh, and beautifully presented with every dish exceeding expectations.\n\nThe staff is incredible—attentive, professional, and genuinely friendly, making you feel like family rather than just a guest. And the owner is nothing short of magnificent, setting the tone with passion, vision, and a personal touch that shines through in every detail of the restaurant.\n\nIf you’re looking for exceptional dining in Harlem with world-class service and a welcoming atmosphere, Harlemite is a must-visit. Highly recommended! 🌟🌟🌟🌟🌟"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZdE9XQlR3EAE",
+            "text": "Writing this review while I’m eating, the food is great, I had the caramones al ajiilo, which is delicious, the main consists of shrimp in a light buttery and savory sauce accompanied with perfectly seasoned yellow rice, which also has a hint of butter in its flavor profile. The yuca was a perfect addition to soak up the tasty gravy and the red wine sangria was well balanced, not too sweet, two or three might get ya! The half-chicken was very tender and well seasoned, great for a date or just a hang. Great customer service!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKUGNtSkRibTlEVERObFExRmZXVTQwTURneFIzYxAB",
+            "text": "Harlemite is easily one of the best spots in the neighborhood. The food is always fresh, flavorful, and beautifully presented. The space is clean, welcoming, and full of great energy. Pablo, as always, was amazing and attentive—his service makes every visit feel special.\n\nWhat I love most is the warm atmosphere; the staff and people here create a community feel that makes you want to keep coming back. Whether it’s for a casual meal or a night out, Harlemite never disappoints. Highly recommended!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ST1JtVTNVbWwwU3pWRlpreHpjR1JaYm1aWlFuYxAB",
+            "text": "Amazing food and always consistently tasty. Been here several times and so glad we have Peruvian food in the neighborhood now."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3MFFuTTRaVlV5TTFadk0xVk9NVU5OZVRsUVpXYxAB",
+            "text": "We just celebrated my daughter’s college graduation and we are grateful to all the staff at Harlemite, especially the chef Gabriel Vargas…from the moment we met he made us feel welcomed…the food, the decor was to our greatest expectation….I woke up today to read the most amazing thank you notes from our family and friends telling me how great they felt at Harlemite….A little gem in the heart of Harlem….great Peruvian food but most important the most welcoming fun and attentive staff."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQaXIzeVV3EAE",
+            "text": "First Peruvian restaurant ever. The soy sauce shrimp is nice but different than all other soy sauce I have ever had. Food are decent and server is pretty good as well. We have two tables. Kinda odd one get food entirely and the one other got none. It is really quiet and peaceful with the outdoor sitting."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1SU5HNVlVMWt4WW1GdVNsTnlaV0pVWjI1MGJVRRAB",
+            "text": "Love the food and the service here! Staff is always nice and welcoming. The lomo saltado and the pescado are my favorites!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KWFZHbFZUbVk1UlVSU00xWXRYMGx5UTBSWFJrRRAB",
+            "text": "I had such a wonderful experience at Harlemite! As a tourist visiting Upper Manhattan, I couldn’t have asked for a better spot. We started with three different appetizers, all delicious, and then I had the half chicken with fries, which was cooked perfectly. The service was incredibly friendly and welcoming, and the backyard setting is beautiful — a perfect place to enjoy a relaxed meal in the cool shade. Everything about this visit was excellent, and I would definitely recommend Harlemite to anyone looking for great Peruvian food in New York."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25neVR6VjJXVWhHZVhoVVkxUXpZaTFwT0cwM0xXYxAB",
+            "text": "Stopped by while staying with my sister in Harlem. Looked forward to trying this place because growing up in South Florida I got to experience great Peruvian food and miss it now that I live in Texas. The staff and ambiance were amazing but the food was underwhelming. I got a supposedly spicy dish that was not at all spicy and pretty bland. Definately worth trying"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCeGNsSjZPVjh4TlhjMGREWlVXREJCYkc5Nk5uYxAB",
+            "text": "Great food, only thing is portions are a bit small for the price"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSUNaaE0wNRAB",
+            "text": "I ordered the special for the day which was the fried calamari with yucca. Also, I ordered the half chicken rotisserie. I wasn't disappointed with my choices. Delicious meal, decent portion sizes for the price, however, I do wish there was more rice with the chicken. Anyways, the ladies/servers were very friendly and helpful. Would definitely visit again when I come back to Harlem"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Zek9GUjVMVVJzVkhObE1sSkhXVTAwUm5WalUyYxAB",
+            "text": "Had the whole fish with coconut sauce Pescado a la Chorrillana and it was delicious!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ORVZFdEpRbFoxUmxaUlpXbFZTa1JXT1dwMmNtYxAB",
+            "text": "Dinner was delightful. Perfect! Place to socialize with friends and enjoy yourself. The food was phenomenal!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzMW91RGpBRRAB",
+            "text": "Really enjoyed the food tonight. As you can see, I ate some of the dish before taking a photo.  I was quite surprised. ordered the Mofongo and I had never tasted it this way before. I enjoyed it, thank you. Sangria was also good, but make sure that they mix it before serving it. My waiter was cordial his name was Pablo."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3NTdhY2lBRRAB",
+            "text": "The parihuela seafood stew soup was delicious. Mildly hot but delicious. 5 ⭐\nThe mix seafood platter was alright. 3.5 ⭐ Finally, the arroz chaufa mariscos o camarones was good. 4 ⭐\n\nService was good. Staff was very warm and friendly. 4 ⭐"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVeVgwYzRWV1pRVm1wcWRIRkljRlpCVjA1eU5rRRAB",
+            "text": "I have never been disappointed by the food at Harlemite! Gluten free so sometimes Peruvian food can get tricky because of the soy sauce, but they’re always open to adapting to no soy or using potato flour. The back patio Is the perfect ambience with a nice breeze so enjoy your summer day!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREdTZpeXJBRRAB",
+            "text": "A great little spot with good food. The service was really good, and overall we enjoyed everything. The one comment is that the Papa a La Huancaina was very low on flavor, both understated and no real seasoning. The potato was crumbly and the texture was slightly off. The croquetas are amazing, and we really enjoyed all the main dishes."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wRVgyZG5VMXBWYW5ndFlURklSMHd5YUZWMVdWRRAB",
+            "text": "Went with 5 people and we all shared dishes.  Everything was very good, the meat was nice and soft, and the best thing was the sauces that came with the dishes. Happy hour drink specials and outside seating.  The place filled up and is popular. The waiters were busy but attentive."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJdWctYzd1eHJuZHNRRRAB",
+            "text": "Love the service and the outdoor space. The appetizers are soooo good! I hosted a large party and Gabriel and team were so easy to work with."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ONU1sbzVNVEF3UVhsUFlsQk5NRkpwVDNsaGVGRRAB",
+            "text": "Food was good. I ate outside in the back, great atmosphere."
+        }
+    ],
+    "reviews_count": 86
+}

@@ -1,0 +1,523 @@
+{
+    "name": "ZOHO RESTAURANT",
+    "place_id": "ChIJxZRlfgvzwokREiAT0dt29IQ",
+    "grid": "MN12",
+    "address": "524 W 207th St, New York, NY 10034, USA",
+    "rating": 4.8,
+    "user_ratings_total": 270,
+    "phone_number": "(347) 908-0926",
+    "reviews": [
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4a2JWRjFiVWxSWnpaMGIzbE9UeTFWUnpONFIwRRAB",
+            "text": "First time here for a birthday and the food and service was amazinggg!!! The food especially was bomb! The music was nice and the hookah did not burn thank god! Will return definitely!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "lb",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaamVUQllTemx5V2xOUllreHNUV2hQU2w5eU4zYxAB",
+            "text": "Exellent food\nExellent service\nExellent ambiance"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aeVdTMUlRV3RGZWs1T1JrSnFZek5QYnpKME5tYxAB",
+            "text": "Amazing … food was delicious , drinks were great!! Would absolutely recommend!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pJell6SlVSekJIVlV4cmRuVnZWR0ppVFZod2JWRRAB",
+            "text": "Great place you can dance all night"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kweVFtbFRVR2xqVG1SVGVrTmhXRkpMUXpCR1lYYxAB",
+            "text": "This is the best restaurant I’ve been to , the music and s good some Spanish music , the vibe in this place is the best I’m going to come here , the food was amazing"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNR0d0cTdROV8zSXpBRRAB",
+            "text": "The food , drinks and ambience are amazing😍 the margaritas and penne vodka are so good"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvbEo2Vm9nRRAB",
+            "text": "It's a excellent place to go."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvOTV6WGF3EAE",
+            "text": "The food was so delicious and the service was really great, too!"
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvanVYTklBEAE",
+            "text": "Quedé encantada con el lugar, está muy bonito y excelente servicio! La banterder Genesis hace unos tragos muy buenos y es muy simpática se las recomiendo"
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvam9TZnNRRRAB",
+            "text": "Recomiendo zoho al 100% es un lugar tranquilo el personal son de buenas vibras especialmente Genesis la bartender que hace unos tragos espectaculares la comida es súper buenas!!! Les doy un 10 de 10 el Servicio excelente me encanta el lugar!!"
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvOXJ1cUhREAE",
+            "text": "Me encantó el lugar fui con una amiga a comer algo y quedé muy satisfecha con la comida súper rica acompañado de unos ricos tragos que me tomé en la barra que hizo la bartender que se llama Génesis, ella hizo que mi tiempo en Zoho fuese agradable y fue súper nice y amigable conmigo y mi amiga, recomiendo este restaurante si estás buscando un lugar con buena música comunicarme y más que todo buena atención :)"
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvaUtxRm5RRRAB",
+            "text": "Tremendo lugar, fui atendido por genesis y fue muy buena atencion, siempre atenta y chequiando que todo estuviera bien con nosotros."
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvOFB2Mi1BRRAB",
+            "text": "Genesis estaba siempre atenta a nuestra mesa. Excelente servicio Y Atencion."
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJXy1DZld3EAE",
+            "text": "Exelente lugar para compartir un momento agradable. Todos muy amable en especially la bartender Genecis gracias reina 🙏💋"
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJdjktbU9BEAE",
+            "text": "Si desean tomarse un buen trago con la mejor en la bara génesis y amor y servicial valla a este lugar"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJdjRfUEdnEAE",
+            "text": "Great service, food & drinks. I highly recommend trying genesis(the bartender) drinks, especially her margaritas!! Hands down, one of the best!! She’s also very welcoming and friendly."
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJdjgtc25RRRAB",
+            "text": "Muy amable y servicial un 100 para génesis 👍🏻…"
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJdjlmaGpRRRAB",
+            "text": "Muy buen servicio , la comida muy deliciosa y los tragos los recomiendo que los haga la bartender genesis… remiendo 100%"
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJdjd2RVNnEAE",
+            "text": "Me encanta un lugar acogedor un ambiente familiar de excelentes empleados sobretodo la bartender Genesis simpática y brinda muy buen servicio y exquisitos tragos,"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJdl9QUHF3RRAB",
+            "text": "The place is a nice and cool vibe the food is amazing but the best part of that place is genesis she’s awesome she makes the place even better"
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJei1iNGpnRRAB",
+            "text": "Vine para el babyshower de mi amiga del trabajo!!! Amoooo la decoración"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJejRhYmZREAE",
+            "text": "The food is so good 👍  I love it 😀"
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJejlxSkR3EAE",
+            "text": "Mi primera vez en este lugar fui con mis amigas a celebrar el baby shower de mi amiga y nos decoraron la mesa. la verdad si la atención y él servicios nos encantó, sin lugar a duda lo recomiendo, gracias"
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJejhyQWlBRRAB",
+            "text": "Riquísimo!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJel9LeGJ3EAE",
+            "text": "Great vibes 👍🏽 the food is also good & music 💯…"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJLUpmVUR3EAE",
+            "text": "It ok"
+        },
+        {
+            "date": "7달 전",
+            "language": "es",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJc3BHWktREAE",
+            "text": "Bien"
+        },
+        {
+            "date": "7달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3cDhqQzdRRRAB",
+            "text": "Facinada es el mejor lugar para conpartir🤗super en todo el sentido de las palabras😘😘😘😍😍❤️🤗"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3bExteU13EAE",
+            "text": "One of the best brunch spots in Upper Manhattan! The Latin music sets the perfect vibe, the drinks are on point, and the food is absolutely delicious. The service is super friendly, making sure you have a great time. Perfect place to go with friends, enjoy some music, and just vibe. Definitely my new favorite spot. Highly recommend!"
+        },
+        {
+            "date": "8달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURncDdYQ21RRRAB",
+            "text": "Recomiendo"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfekp6U0dnEAE",
+            "text": "I was there yesterday for brunch. The food and service were 10/10. I hope to come back soon."
+        },
+        {
+            "date": "11달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzdTdMWmFREAE",
+            "text": "El mejor lugar para pasar un rato agradable"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzak1udkJ3EAE",
+            "text": "I love this place. Food and service are good. Price is even better."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYODl2RHRnRRAB",
+            "text": "Muy buen servicio, buenas atenciones, y la comida súper excelente!! Gracias a la mesera que me atendió, muy buen servicio de karin !! Recomiendo el lugar al 100 por 100"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYellhVF9nRRAB",
+            "text": "Me encantó este lugar pero lo las satisfactorio para mi y mi pareja fue que la mesera karin porque  nos atendió en nuestro idioma fue muy servicial y amable y nos hizo sentir muy comodo,el lugar también es perfecto y por supuesto que volveremos solo espero que karma pueda volver a atendernos la mejor."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYb0p6VlB3EAE",
+            "text": "I had an amazing experience and Karin was great!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYaWNueUxnEAE",
+            "text": "I love the food, but what we most appreciated was the good attention of the waitress Karin, a person who treated us with great respect, always attentive to our needs, but above all very cordial and gave us excellent service, we will definitely return."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYLXZERzB3RRAB",
+            "text": "Went in on a Wednesday de  serrucho , Brunches are amazing as well. Food is top tier!! The atmosphere is great and that staff are wonderful, shoutout to Karina la rubia for taking care of us. Definitely recommend !!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYaW9PaVFREAE",
+            "text": "Muy buen cervicio excelente me gusto el trato de la camarera Karin casado excelente 🙏"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYc3NmRTh3RRAB",
+            "text": "Great place to eat!  Special shout out to Karin for her exceptional customer service and professionalism.  Would definitely recommend."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYaXJPaXBnRRAB",
+            "text": "Muy buen servicio y la comida muy rica, la Camarena que me atendió karin es muy servicial."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYaXBPYXVBRRAB",
+            "text": "Karin is the best employee"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYaW8zZTdRRRAB",
+            "text": "Me encanta la comida , todo es excelente . Y me encanta el servicio :sobre todo la mesera Karin 👌 excelente ."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYOHUyYXJnRRAB",
+            "text": "Karin La mejor"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYOHBubmpBRRAB",
+            "text": "Is amazing 👍Carin trata a los clientes de una manera más que familiar me encantó."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYOHFTSlZ3EAE",
+            "text": "The personal is excellent.  Karin is one of the best she always paying attention to u  checking if everything is fine. I love the place is one of my favorites."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYOHFMRnhRRRAB",
+            "text": "Buen servicio! Te encanta la comida y sobre todo las atenciones de Karin , siempre muy atenta a todo !"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYOG9ERTBnRRAB",
+            "text": "Had a really good time here last month and the service was out of this world. Karin made our night with her personality and how she kept doubling back to us."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYc3JyR19nRRAB",
+            "text": "La comida excelente el ambiente el sonido todoooo y la atención súper good yo me enamoré de KARIN la rubia 🥰🥰🥰"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYc3VPRGxnRRAB",
+            "text": "Siempre que voy me atiende Karina, muy atenta y servícial, nos acomoda al 100%. Se las recomiendo, amo el lugar y la comida."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1bnFDUkd3EAE",
+            "text": "I was invited to a birthday celebration here and I have to say I'm EXTREMELY impressed with the level of service. I had many helping but only remember one named Nancy. She went above and beyond. The food was good. No complaints here. I will be going back here for sure"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURuck5QTDZBRRAB",
+            "text": "Hermoso restaurante hicieron de mis vacaciones lo mejor, excelente comida, ambiente y servicio\n100% recomendable el mesero Santiago, muy buena su atención.\nVolvería si o si 🌸"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuMGQyR0VnEAE",
+            "text": "Excelente servicio y un hermoso lugar quedé encantada y más con la mesera Karin la rubia lo recomiendo mucho y la comida es 10/10"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGbi1PTDdBRRAB",
+            "text": "Came here for a Christening not expecting much.  I was pleasantly surprised.  Food was delicious, the ambiance was nice, and service was on point.  Couldn't have asked for more."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURabGQtZjV3RRAB",
+            "text": "Karin estaba siempre atenta a nuestra mesa. Excelente servicio!!!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNObWRHZWVnEAE",
+            "text": "A quick visit with friends to celebrate a birthday, and WOW what a great time, we unfortunately  were not there for food, but for drinks and Hookah where we had great table service, atmosphere was upbeat and the DJ was great!\nThe crowd was great, friendly and interacted with everyone!\nWould definitely go again!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKNGUtWEtBEAE",
+            "text": "Zoho is now one of the most wanted to visit restaurant in the heights!!! The prices for the food, drinks are affordable specially now in days!!! I encourage you and everyone to come visit it!!! The owners sometimes there and provide you with the best service and best of services!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR0Z2NYSm1BRRAB",
+            "text": "Buen lugar para beber y fumar hooka tienen buena música, venden comida pero no lo recomiendo mucho para comer rico."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKb2M2MGlBRRAB",
+            "text": "Awesome service great food dj was playin all the hits! Best brunch experience"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKb2VPT2VBEAE",
+            "text": "The best option for food and the drinks omg I love them and great environment also the music….zoho is a place a definitely will recommend 100% ….  Also love the decorations and both to take picture.. this place is a full package"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuc2NfcGZBEAE",
+            "text": "Nice laid back  in the middle of Washington Hight. Great atmosphere  great drinks amazing  food. Karina our waiter took amazing care of us  was kind enough to help  recommended the risotto which was amazing!! my wife  love it I had the skirt steak with mash. Will definitely  be returning and will be recommending this place."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURudU1yOWNREAE",
+            "text": "Muy buen lugar, buena comida, me atendió un mesero llamado santiago, muy buen servicio. Definitivamente volvería a este lugar."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaODd5Rjh3RRAB",
+            "text": "You looking for the new brunch teteo in the heights... you found it.  Food yummy,  drinks great 👍🏾 priced perfect.  The hookah on deck. Celebrate everything,  birthday,  citizenship,  divorce whatever ."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNucFpqSU9nEAE",
+            "text": "This place could be the not-so hidden jewel of inwood.\nThey’re food is great, maybe the portions could be bigger, but for the price I can’t complain.\nThey’re happy hour is AMAZING, I couldn’t believe the quality of food-drinks compared to the price on the check.\nNow, the service is what makes it really special. I don’t love to sit at the bar (I’m more or a table person) but Greymi, the bartender, made my stay be worth a zillio times the check. She’s fun, funny, hospitable, friendly, but not overwhelming, and super professional. I don’t want to sit anywhere but at the bar now! Besides, her margaritas could be the best I’ve tried (and I’ve tried many; I know, a bold statement)."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3bWNmY193RRAB",
+            "text": "Love it here! I come all the time and I get nothing but memorable and cherishing moments! The service is amazing, the food is amazing and decently priced and just the place in general is amazing! I've come many times before and I 100% am coming back❤"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYc3B6UXJRRRAB",
+            "text": "Bueno yo celebré mi cumpleaños en este lugar y el servicio es muy bueno la comida y las bebidas están a otro nivel, aparte que me atendió una muchacha que se llama Karin. Le tuve que preguntar el nombre porque en verdad que me atendió súper bien y a los que andaban con migo. Yo recomiendo este lugar. Este lugar está en los Highs pero parece que estás en otro lado es impecable. 100% lo recomiendo. Lo único que es incómodo es los parqueo pero ellos tienen valet parking y te parquean tu carro y todo….!!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURuM2NHYjVBRRAB",
+            "text": "Muy buen lugar , la comida excelente y lo más importante un servicio muy lindo ,  varias veces me atendió Hayden, siempre amable y con gran carisma  para todo ..lo recomiendo.  Mi mesero # 1"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNucGNqeGt3RRAB",
+            "text": "After moving from Miami I was looking for a place that made me feel like home. I think I found it.\nI met Greymi the first time I came and she just made me feel amazing! Her drinks are sooo good. She really puts loves on what she does.\nIf you decide to come, Fridays are the best day. Great Dj. The happy hour is my favorite of the area . Good prices, great vibe and the service is just great. Greymi is favorite but every single member of the staff is nice and approachable.\nSi te quieres sentir en una vibra latina con las mejores vibras, ven a este sitio. Request for Greymi. You won’t regret it💙✨"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURubnJ6TkJREAE",
+            "text": "Excelente 👌 comida y sobre todo buen servicio, cuando vayan le recomiendo la mesera karin la rubia muy atenta y muy buen servicio."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3eWJHV3pBRRAB",
+            "text": "My experience at this establishment was a bit of a let down, and could have been better.  They seem to have decent food, with a few flaws that hindered the experience. The meal started off with two negatives; one being they did not have any diet soda, the second being no free refills.  I am getting sick and tired of this; the entire experience becomes more negative if the beverage I drink, which also happens to be the most common sodas in the world, is not available.  They also had a bar section, I never seen a place have a bar section, and lack every single kind of diet soda it is unacceptable.  One could say if the food is good, who cares? Well I care.  If I can’t wash the food down with a drink that quenches my thirst, I am not enjoying my meal as much.  The food could have been amazing and I still would have been upset.  Also when I ordered, I asked for diet soda and the man brought me a regular.  That is how I found out so great communication, keep it up (total sarcasm)!   The individual who brought me my drink was not our assigned server, so I felt a bit bad ordering from him but I don’t feel that bad especially after the nonsense they pulled. Had I known this place did not have diet soda, absolutely NO WAY I would have come;  that is a total dealbreaker.    I ordered the mofongo with chicken which was pretty good, but would have been a lot better if I had some diet soda to go with it.  Because I did not, it was alright but not as good as it could have been.  Instead I had Seltzer which was just lame and flavorless.  Need to have sugar free beverage options with some flavors because this almost  ruined my meal.  The Mofongo was pretty good, but there were more cons along with that.  I was interrupted multiple times while eating asking if I was done.  I had to guard my plate because they kept trying to take it when I articulated in English “I am not done with my food” please let me eat.  When we got the check, it seemed like they were trying to sneak charges past us.  One that they did not sneak in was charging 5 bucks for my measly can of seltzer which is a ripoff, but the receipt was mostly in spanish.  The charge for my drink was the only thing I was able to understand because it said Coca Cola which I did not have.  They couldn’t even get that part right.  They added their own additional service gratuity which was more than 10 bucks.  By putting it in Spanish, they thought I would not notice these nonsensical charges.  I have to say this is a first for me and a new strategy to gouge.  Never in my entire career consuming food in this country have I ever received a receipt that is in any other language than English.  I respect all cultures, but here in America I want to see my receipt in English.  Right away I had questions and had to take out my phone to translate what was said on it.  VERY annoying and also makes the experience worse so keep digging I guess.  Overall, maybe this place has options for other people, but the way my meal went it seemed like they never want me to come back;  request accepted.  We were also the only people in the restaurant at the time, so I am not sure why they kept rushing me and trying to take my plate away while I was clearly not done.  Let me eat and let me enjoy my company.... If I can’t enjoy a basic diet soda or a receipt in English, at least let me talk to my companion and finish the food in peace.  A lot to be fixed here, but the one good thing I had to say was the plantains in the Mofongo were quite good.  They have a good dish which is why they get 2 stars, but when deception and lack of other options mixed with some annoying service enters the picture, no thank you.  Best of luck to anyone who goes here and don’t accept any bill in other languages.  Can’t even believe I have to say this."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuN0xXb0V3EAE",
+            "text": "The place its great, the food super delicious, and the service amazing specially the waitress Karin!!\nI love to go on karaoke nights!! I spend a great time  every time i go!! 🙏❤️"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURucmVTZDV3RRAB",
+            "text": "Excelente lugar. Unas atenciones maravillosas. Un joven llamado Hayden tiene un carisma excepcional para atender a los clientes. En verdad me encantó la comida, las entradas, los cócteles."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuLUtxT2NBEAE",
+            "text": "Buen ambiente , muy agradable el lugar y exelente servicio sobre todo la atención de un joven Santiago muy cordial y amable y siempre estuvo con una sonrisa y predisposición 🙌🏼"
+        }
+    ],
+    "reviews_count": 73
+}

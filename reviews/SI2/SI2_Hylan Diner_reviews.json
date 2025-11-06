@@ -1,0 +1,439 @@
+{
+    "name": "Hylan Diner",
+    "place_id": "ChIJb1LyFk5JwokR8JbhQEAy3ro",
+    "grid": "SI2",
+    "address": "2561 Hylan Blvd, Staten Island, NY 10306, USA",
+    "rating": 4.1,
+    "user_ratings_total": 1475,
+    "phone_number": "(718) 668-9200",
+    "reviews": [
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25RNGJ5MU1XVXAxTUROTFp6RldNVGt0UVdkSVJuYxAB",
+            "text": "It's ok"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psUFRuRjZRVkp6Ums1aFpXc3hkMHQ0UjFrNFNWRRAB",
+            "text": "Great. Diner"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tnNE4xTTRhSFpVYmkxbGRtdFlRVlZRUTFkSmJIYxAB",
+            "text": "Service was excellent food delicious big portions always have to take a doggy bag home. Our server Clara is the best very attentive always checking on us making sure if we needed anything.  Customers for life 👍."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkWGFESkZhalYyYjE5dE5rNHdRVVF4ZWs5ak4xRRAB",
+            "text": "My mother and her friend choose this place to catch up at lunch time. Not only did the waitress not follow them to the table to take their order but they were extremely rude and unpleasant. Like so unprofessional. The food wasn’t that great. Very overpriced. Not a happy customer"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sMWJrbEJUR1JtWVVFMFptWkNNRWd5VWsxbU1rRRAB",
+            "text": "Everything was cooked to perfection. Staff made us feel very welcome."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzdl9lM1dnEAE",
+            "text": "Food is good. Service is good."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4Q2F5MUdPR1k1UldoM09HUXdVRlJhZHpsTE1FRRAB",
+            "text": "Came here for breakfast. Food was fresh and tasted great. Nice size portions. Service was attentive and quick. Coffee was nice and hot. Plenty of parking."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213M1MxUkRUM1pqY0VJM1NIcHFOV0pxTjNGamFFRRAB",
+            "text": "Yesterday I came two times to speak with manager about job in this restaurant, both times girls from reception looked at me wrong and say: there is no any manager"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KWk0xaEpWVVpmWXpkbE9XRjRUelpqU1RRdGVIYxAB",
+            "text": "Went to the Hylan Diner for Breakfast. Had the Orange Juice, Pancakes, and Coffee. Food was delicious and the portions were large. Of course got free refills on the coffee. The waitress was very nice and the order came exactly as I wanted. Place was busy, but not overly noisy. Enjoyed this meal very much, and hope to return one day."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4WGFtNHdaME54Y2xGMFlVZFZPUzFvWmpZMVVtYxAB",
+            "text": "Food is always great, as is the service."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ocVIxVTNaazFIT1UxU1owZHFiSGRrUTB4alYxRRAB",
+            "text": "Really good food, served quickly."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCdDRMeWpRRRAB",
+            "text": "Best Diner on Staten Island"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKT1ZHTnBRV1ZXZURKd2VVTk9OMUpWUnpKeWRWRRAB",
+            "text": "The food is AMAZING and large portions. Best blue cheese burger I have had."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0aVVISjNlalpUYm1oRmJuQk1hV1kyTlRaQ1QyYxAB",
+            "text": "amazing"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWQlJUUm9aVmxaYzNCUlVYQk1TRkIzUlVGMGNVRRAB",
+            "text": "Well kept diner with parking in the front. Waitress was attentive and the host in the front was very kind. They have Kids night on Thursday, where they have a costumed performers and balloon artist. Kids eat free that night. Very cool for families."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204eFZHUXRkR2gzVm13MFUwRlVaMWg2Vm5SelIxRRAB",
+            "text": "If I could give zero stars I would , I put it an order for delivery that came out to $68.00 , it took OVER an HOUR & 15 minutes to be delivered ,the food was COLD , one entire meal was INCORRECT , given no receipt. Completely unsatisfied and disgusted to say the least. Wouldn't recommend or order from this diner again. Absolutely unacceptable and a waste of money."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOZmJGSm1UV3B1YkRCc2NrdEhWV0ZzTFU1blFsRRAB",
+            "text": "Had ordered food and chose delivery on 7/13, food arrived fast and was hot and delicious, though I was sadly disappointed in the chocolate chip cookie I ordered, it looked pale and was crumbly like sand, so I will not order it again, otherwise I would definitely give 5 stars for food."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkdU1rRTNUa2REWVdjeFpHWkxiWFY0TkVsNVgyYxAB",
+            "text": "Very good service! Alex is the best server there and was very attentive. Love this diner thank you alex, am no hungry anymore. ❤️‍🩹❤️‍🩹"
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGaGJWVkZiMFJXYXpZeFpFc3dMWFoyTURkb2VYYxAB",
+            "text": "Excelente"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SMFkwOXBjMjU1ZFVGblEySmphMmQyWkZscGQwRRAB",
+            "text": "Excellent all around"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGSmVuTkRNM0ZPYW5jeWNtMW9WMkpCYjNaNWFGRRAB",
+            "text": "Great food."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214dlpFWnRVRVpDYzJWeFltUllUR1ExVkU1ZlFWRRAB",
+            "text": "Friendly staff, and it was a good time, good conversation. That was great highly recommend"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGUE56bGZTVk5aZG1oemMwNTZTRmRUYzFOYVpXYxAB",
+            "text": "Food Was Great,  Service Was Very Good\nI Truely Enjoyed My Meal and Want To Say Thank You So Much\nI Haven't Had Meatloaf Like That In A Long Time\nJust Wear Long Sleeves, A/C Was Over The Top"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPLWU4OWZxcHNQUUlBEAE",
+            "text": "Thursdays they have an animated character to entertain children from 5-8pm . It was great, especially when kids get to eat free with each paid meal."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VOM2Q4ZUxGaExpaWpBRRAB",
+            "text": "I really like this diner. It’s nice and clean. I am going through long covid so my taste and smell has been completely altered since October 2021. I can tell that some things would taste really good if I wasn’t going through this, other than that, the service is excellent. Our waiter Alex was great, he was very personable and helpful. I can’t wait for my taste and smell to go back to normal so I can really rate the food. I do definitely recommend this dinner though"
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWM2EzQkpaV053UTJaNFdsVTJOemcyTkZKNFMwRRAB",
+            "text": "Metro de Nueva York, está hecho una pena, aparte que es un gran lío las líneas, las quitan y las ponen, las estaciones, según hora....tened cuidado."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLYXptdVhqNmI3bXR3RRAB",
+            "text": "First class service and food."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VNM2R0S3Frek1feFl3EAE",
+            "text": "Really expensive for a diner.  $3.50 for a coffee or a soda?  Diner coffee shouldn't be $3.50"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKdll4NENEdWFxNEtREAE",
+            "text": "Beautiful clean place.\nGood parking as well"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZbXVuOVFREAE",
+            "text": "Great place to come with a group of friends, everyone will find something they like on the Hylan Diner menu!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvNHNlM3F3RRAB",
+            "text": "The best diner on this Island"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvODZDS3ZnRRAB",
+            "text": "Amazing and friendly space. They provide for and foster their community!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJODlfOUFnEAE",
+            "text": "I went here with a friend and I liked it! A little noisy for my tastes, but the staff and food were great. Attentive but not overbearing, reasonably priced and delicious. Pancakes for lunch are great."
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkOWU3WnRRRRAB",
+            "text": "food was very good, place was hopping busy, so we had to ask for everything,  bread, pickles. to-go container, napkins, forgotten sauce, however overwhelmed servers were all very sweet and tried so hard."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJNGFfSGR3EAE",
+            "text": "Delicious food, my 2 go 2 is the chicken salad platter minus the tomatoes.. potato salad isnt too great, substituted by yummy cole slaw! Service is okay and atmosphere is very nice and Clean."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJaXNqcHpBRRAB",
+            "text": "Great Greek salads"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJak12RE53EAE",
+            "text": "Good breakfast. Top shelf dinner"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREc29qTHB3RRAB",
+            "text": "Went for dinner and food was ridiculously good. Better than I would expect from a diner if I’m being honest. Penne Vodka with fried chicken was probably the best I’ve had. Better than most Italian restaurants I’ve tried on the island. Service was so fast & so good too! Honestly would return today if I could 🫠🫠🤣"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2MV9UeXpBRRAB",
+            "text": "It only got four stars because of the lack of parking. Breakfast is my favorite and it definitely didn’t disappoint. I’ll be back!"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwM3JLR2Z3EAE",
+            "text": "A beautiful morning with my son in a chic Hylan diner . Very polite, not intrusive and hospitable service will make you feel like the dearest and most respected guest, fresh and tasty food, chic design, clean establishment. It looked like they want to take care of the environment which is very good. We will be back soon , thank you so much."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlbXFUVmRBEAE",
+            "text": "Have been here for breakfast a few times. This was the first time for dinner. Service is good, greeted enthusiastically as I entered and quickly seated by the bar,which gave me the feeling of being in a club rather than a diner. Ordered a Greek salad with grilled chicken and I enjoyed it with the tsaziki sauce,but the chicken wasn't seasoned enough for my taste.   I will be back again to try other dishes."
+        },
+        {
+            "date": "수정일: 7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRcjRXdkJBEAE",
+            "text": "Tried this diner today for the first time for breakfast. Slow service food took more then 30 mins while other tables that arrived later got their food much faster. Same waiter so no idea. I order standard breakfast items waffles, omelette, bacon. Nothing fancy. Not attentive, our party of 6 was sitting for a bit with no food and no one bother to ask, until the manager or owner walked by to all the tables to ask about how was the food. He was a bit surprised and our food came out 5 mins later. He never came back to explain. The waiter was clueless as well. My coffee cup was empty as well no one came to ask for refills.... Diners with no refills OMG. I had to ask for it, took a while as well. Cold coffee with breakfast is not ideal. Table had used plates that they didn't care to remove while we  were eating. Wife's overcooked with a bitter taste. Mine was ok. Standard diner food. At this point we were like let's just get over with this. Usually we would go to colonnade diner on hylan, thought we give this place a try being closer and newer. I'll see how things are or how we felt like coming back here in a FEW months.\n\nUpdate came back and service and food quality was better. I guess it took time to work it out and get good staffs."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNDMVBXTmVnEAE",
+            "text": "Great family friendly atmosphere. Food is delicious. Multiple televisions. Bathrooms are amazing. Wait staff are great and prices are good."
+        },
+        {
+            "date": "11달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQdUxfVVJ3EAE",
+            "text": "Me encantó todo, servicio al cliente, comida etc etc ... volveré con mi familia...los baños limpios, mucho estacionamiento quede fascinada"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNva3VxUkxnEAE",
+            "text": "The eggs were perfect! I ordered bacon and it was a lot!! Not too much, just perfect! The service is always good. If you go in the evening ask for Josephine, she’s the best! This morning I believe Marissa was our waitress, just lovely!"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRanYzNHZnRRAB",
+            "text": "This is a new diner in a familiar location. There have been restaurants here for decades. However, this venue has undergone some nice changes. The building is new and bright, neon signage makes it easy to spot. There is a retro look to the outside. There was music playing in the parking lot, standards, nice. That gave you a welcome feel. The staff was friendly and accommodating and the menu looked great with many food choices including panini, burgers, pastas, salads, and breakfast items. I especially liked that you could order a side of half onion rings and half french fries.\n\nMy food was adequate, but not flavorful and seemed slapped together. I ordered an Italian chicken panini that had no seasoning. Very bland.  My companion enjoyed her food, however, an avocado salad. The server was hard to locate because she was serving another area and didn't seem to be scanning to check on tables. Management needs to ensure there is enough staff. I went on a weekend night.\n\nThe bathroom, nicely designed, was a mess. It had not been attended to with paper all over the floor; the wastepaper basket was overflowing with paper towels and the stalks were generally dirty.\n\nDespite the glitches, I'd go back to give this another try, especially for breakfast.  Maybe it was short staffed, but aside from the wider food selection, I don't see much of a difference between this diner and others in the area"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwallEZ3pRRRAB",
+            "text": "Been to this diner a few times for breakfast. Food and service are excellent. In a world where diners are disappearing this place keeps the tradition alive."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3enViLW9RRRAB",
+            "text": "Staff were very nice but a little behind. Nice atmosphere, not too busy. Appetizers were good but my meat was a little over cooked for me. I don't recommend sitting in a booth if your heavy. It's a tight fit"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDd3ZLVEtBEAE",
+            "text": "Food is fine. Big portion but I rather having good quality than big portion. 2.5 dollars for 1/4 avocado. And the avocado looks like having cancer.\n\nI ordered non caffeinated tea. They don’t have it but still charged me. I asked them to take off from the bill. Then only return me partial. I don’t know understand how they run the business."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ0a012NzRBRRAB",
+            "text": "Beautiful and delicious breakfast dishes. A bit busier than expected on a weekday so parking was not available in their lot and very challenging in the area. We ordered delicious stuffed French toast!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3cE5qQnlBRRAB",
+            "text": "Owner and staff and very friendly and food is always delicious and reliable. Consistency is something that isn’t always reliable on Staten Island l, but Hylan Diner is always consistently good. Price wise might be a little on higher end for a diner, but considering how expensive everything is everywhere it’s not as bad when you would spend the same amount a Chipotle. Go to Hylan Diner and support local business!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2d0p5LUd3EAE",
+            "text": "We were a large family of 18 for dinner. Our waitress and the staff were very accommodating and wonderful. We all had a great meal and were able to enjoy each other’s company or the amount of food and beverages that we shared. I thought that the bill was very reasonable."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM2NUtydm1BRRAB",
+            "text": "Came here for a quick bite.  The parking lot had a few empty spots and the place was bright and spacious inside.  We sat at a table and the first thing I noticed was the noise level was very high.  I felt like I was screaming just to talk to my friend.  The server was very pleasant as we both ordered a cheeseburger deluxe.  I ordered extra onions on mine.\n\nThe server came back with drinks and a small serving of cole slaw.  About 10-15 minutes later our food arrived.  The size of the bun was twice as big as the meat.  The french fries were not golden brown but tasted well.    The cole slaw had sugar in it?  Why was there sugar in it, that's gross!\n\nThe onion I got stunk so I didn't add it to the burger.  My first bite... tasteless, like cardboard.  It's almost impossible I thought to completely screw up a cheeseburger but this place did it.\n\nSo a bit later we ordered dessert.  My friend ordered rice pudding and I ordered chocolate pudding.\n\nThe rice pudding was watery and the chocolate pudding was bitter, not fresh and smelled funny.  Oh boy I thought!  So the check comes and they charged me $0.75 for extra onion?  Are they insane?\n\nWelp, for a tasteless, bitter, non-fresh meal served in a noise-ridden environment I rate this place 1/5.  Never again."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLdXFMVEhREAE",
+            "text": "Update - The only good server doesn't work here anymore he was the young Spanish guy with the spiky hair.\nThis place is the pinnacle of poor service.\n\n24 bucks for an omelet bacon and home fries, Homefries were mush and tasteless, eggs were burnt."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJeU9lVnBRRRAB",
+            "text": "Even though I live in Thailand I manage to come to hylan diner 3 or 4 times a month their food is amazing. FYI if you show the waiter you know the secret handshake they will bring you to the massage parlor that's hidden in the basement"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXdGNpUnJnRRAB",
+            "text": "The hostess was really friendly and nice, first time being here. Had simple take away of side of mashed potatoes and sautéed veggies with added mushrooms. Enough for two people, I have my coworker half."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLcl9XYkR3EAE",
+            "text": "I needed a place to sit to take a conference call... and Hyland Diner was convenient... BEST CHANCE DISCOVERY OF A RESTAURANT E.V.E.R!!!\n\nI was stuck on headphones for my meeting, so my companion ordered... and we were feasted on dinner that could have fed four.\nA half Chicken with Greek salad, saffron rice and so many extras. And the service! Personal and caring.\n\nWorth the trip to Staten Island on its own.\nWhen next in town, expect me there.\n\nReasonably priced to boot.\n\nA wonder."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5eHVDZFZREAE",
+            "text": "I've always thought that Colonnade was the best in the island. I guess that was decades ago. This I say now is the best!"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRMGNEbUxREAE",
+            "text": "Beautiful diner! I love the decor. Excellent service, really nice waitress and the food was good !👍🏼👍🏼…"
+        },
+        {
+            "date": "수정일: 5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzdHR5NlRREAE",
+            "text": "A good place to hangout they are open 24X7 and the service is quick and food tastes good.Its a well maintained place."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURvaUw2cE5nEAE",
+            "text": "The new menu is night and day from the last one. The old menu was actually the main flaw with this place. Heavily pixelated, bad photos of food weren’t appetizing at all. New menu got me salivating. Well done."
+        }
+    ],
+    "reviews_count": 61
+}

@@ -1,0 +1,600 @@
+{
+    "name": "maman",
+    "place_id": "ChIJAx5HgFlZwokRcWUfz5VxS0w",
+    "grid": "MN8",
+    "address": "1424 3rd Ave, New York, NY 10028, USA",
+    "rating": 4.2,
+    "user_ratings_total": 716,
+    "phone_number": "(917) 675-7667",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taak9XbGllRnBXVkZkRWFqbDNPVmxMZFRWNVQwRRAB",
+            "text": "Smashed avocado tartine with smoked salmon & Caitlins breakfast wrap with chicken: both very good. Very good service all around."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWUWFrZENZazFoVlhac1lWQTFhMk5QWW01aFJFRRAB",
+            "text": "This maman lcoation is a mess. Had me waiting over 1 hour for a bacon egg & cheese to-go. While I was waiting, I noticed how other people’s food was just waiting there for a long time before it was served, specially the to-go and delivery orders. There system is chaotic"
+        },
+        {
+            "date": "4일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xYVIzRXRTMFF0YjBKUFNqQmFTRk5LY2tSMmFGRRAB",
+            "text": "Delicioso!"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Ka1VITnJaamw2YzE5Q1JITXpWalUwTm1WelNuYxAB",
+            "text": "Good atmosphere, tranquil and warm. There is an unpleasant smell, probably coming from open kitchen. The counter person was unattentive and refused to help us with our questions. I got the famous rum cake, which was dried on the cut surfaces. The cappuccino was very good, I love the ceramic mugs. The toilet was clogged, there was no toilet paper and the walls were quite dirty in the restroom. This cute spot needs some improvement."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psRVNWbGllVloxUm5Bd1RtVTVOVzlWUjFOcU5sRRAB",
+            "text": "Makes people wait 20 minutes for an iced americano. Baristas casually chat with 0 urgency while backlogs accumulate.\n\nEDIT: I'd give the iced americano taste a 0/5 if I could"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201eU5sYzVaV2RIVFVkc1RrSnpZblJqWkRjNWNHYxAB",
+            "text": "Too crowded on the weekend"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOWU4xZFFaakJ0YkV4Mk1YWm1YMjEwVjFKT1luYxAB",
+            "text": "Gran lugar para sacarte de un apuro si no tienes donde desayunar, o, no sabes donde comer. Son muy amables y te atienden rápido, además de que el lugar es muy muy bonito."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGWlVuVnlSVlIwT0Y5QmVrVTFhemxsZVdaUlkzYxAB",
+            "text": "Absolutely love this place, coffee is the best!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSelJETlBjMVV6TFhGUWRVNXJlbEpEZURsRlJWRRAB",
+            "text": "Had the seasonal iced latte that were good and the avocado toast with salmon, that was delicious. excited to go on the next trip and try more of the menu"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1UVozUkdRbUl5TjFOWFVqWlRWMGxEU200dFkzYxAB",
+            "text": "Came here for brunch and I loved it! Croissant with ham and cheese was delicious, atmosphere was very relaxing and peaceful, and the service was LOVELY. Would come back."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kcWVGRm9NRUZFWkVOb1NFZGtYMWhYZDJaemRIYxAB",
+            "text": "loved the ambiance and customer service was amazing!!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjNFdVMTFPV1pHVkRkTWFqTXRaVEkyV1VFMFpHYxAB",
+            "text": "This was a cute place to have lunch. The chicken salad was delicious."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoMVNYcG5aemRGYlUwMmFrNDFUMHBsYms1dldtYxAB",
+            "text": "Always a dependable neighborhood go to…\nHowever, today was exceptionally better, compliments to management!\nA shoutout to my server GIGI!\n5 ⭐️ ⭐️ ⭐️"
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WQ1EyOVJUWEJZZW5FMVZrSTNOM0k0WjFSVFMyYxAB",
+            "text": "La comida estaba muy rica"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poblMxWnBiMHRxTUU0eWVXcEdRM1pRZUc1RVFVRRAB",
+            "text": "I ordered a small ice latte, and I swear the barista handed me my cup in less than 10 seconds. Blink, and boom — latte magically appears. The big coffee machine was blocking my view, so I hd no idea what went on back there. But I’ve been to this shop enough times to know: a proper ice latte requires at least a mini performance — grind, brew, steam, pour, add ice. It’s a ritual, not a drive-thru car wash.\n\nSo either: He pulled a “pre-made mystery latte” that had been sitting around like a forgotten prop with melting ice, or he hit the espresso button with the previous round’s sad leftover grounds.\n\nThe coffee tasted completely bland, like diluted with water. And excuse me — do I look like someone who’s never had a proper latte before? I’ve ordered here countless times. This was not it. Speechless. Truly speechless.\n\nBTW, I even added tip to this order when I paid. :)"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4M1FXbHFUM1JHYm1rd2IzcHhOR1pKVldWeFdsRRAB",
+            "text": "Very disappointing experience. I waited quite a while to be seated, but since no one came and the staff seemed absent, I eventually took an empty table and joined the long queue to order. When I finally reached the counter, I was told that if I wanted to sit, I needed to order through a waiter — but there hadn’t been anyone around for at least 20 minutes, which is why I had queued in the first place.\n\nWhen I sat down again, another staff member came over to say I had to queue instead. It was confusing and frustrating, especially since many tables were empty and several other customers looked equally annoyed.\n\nI’m a regular customer at Maman and usually love their cafés, but this location had very poor customer service. The staff seemed disorganized and unhelpful, which really let the experience down."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsdFMzRnVNbTVUTmtjNFRXTlNjRVoyWTBONE5sRRAB",
+            "text": "Love this place"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3elF5MVRUMEpETVRaaFRWVTBMWFJpWVU0NFdHYxAB",
+            "text": "Nice place, came here a few mornings for their vegan croissants while visiting NYC"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Kb2REaG9jM2RyU25kYVJuaFNZMVZaWWkxbk5sRRAB",
+            "text": "Daja was incredible. I almost walked out due to disinterest, but she was kind and approached and I'm so glad she did. The drink was excellent! I'll definitely be back."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SQ1RWODVWRGRQVTJFMVZFSkhWRWN3WjI5aGJuYxAB",
+            "text": "Food was amazing. Staff are friendly. Cute place. Highly recommended"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SZlJUSnRWVXBFY1RCS1YwZ3dOWGRRU0dVMWRrRRAB",
+            "text": "Best Belgium waffle ive ever had 🤌🏾"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taSlduTnRXREI0UlZkMVJuaFRVbmMwTWxoNWRsRRAB",
+            "text": "I had a great experience at their branch in the Chelsea market area (close to little island), both in service and quality of the baked goods and drinks. I was excited to go to the UES branches. Unfortunately the experience was very underwhelming; this one on the 80th made a bad matcha and their service lacked attention; folks behind the counter were on their phones for the most part, also the music was too loud diminishing the ambiance."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VMlgzaFBlWFJWWjBsWldqWlhTbU5YWjJFeVoyYxAB",
+            "text": "I’d give it more stars if it wasn’t so hot in there. Can’t enjoy my food or coffee when it feels like a sauna. Went to turn the portable fans on but they didn’t have an outlet to plug it into. With all that trapped heat I’d avoid during summer, but def would be nice during the winter months."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGdmIyYzFNMUl5WW14ZldWQmpZM0ZxYWpKcFNXYxAB",
+            "text": "Great food and good service the best of NYC upper east side"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KQ1dtVnRZMEZ2ZFRKak1uTkJZemhoY3psaVJtYxAB",
+            "text": "Best matcha I’ve had and the ambiance is perfect for a date or work."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toQ1RsaGZhV1J5VkZoRVFuZHRNRU40UmxwdE9FRRAB",
+            "text": "Especially for a chain, the pastries are great (really - I’m a croissant snob and I think these are good - today I had the almond chocolate) and the coffee is good. I like the vibe though it’s a little kitschy. I really don’t like the auto-bot that responds to every comment..🙄"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkeFRYcENka0V3UXkxNWMxSkplREJZZHpocFZsRRAB",
+            "text": "Stopped by spontaneously for brunch on a weekend. Food was flavorful and service was amazing. Loved the decor and overall vibe of this place!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wbU1tWjRORnB3ZUZodWRVaEdkelZWWmpkSFRuYxAB",
+            "text": "The staff are super friendly, I will come back again"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kTGEzUlljR3hqUTNkRlNrNTVaREppU0RWMFNWRRAB",
+            "text": "This café restaurant truly exceeded my expectations. From the moment I walked in, the atmosphere was warm, cozy, and inviting. The staff were incredibly friendly and attentive, making me feel right at home."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201MWNrZ3hXbWxvYkdKZlJHZFVRbGxoUmpkM1FYYxAB",
+            "text": "Best latte ever"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ReGRtdG1XVzFVUXpGcGFESnpaVUY2WlhkTlYyYxAB",
+            "text": "Great decoration and location! The matcha latte wasn’t sweet like the Chai, which I appreciated. However, I didn’t like to get a “take away plastic cup” while I planned to stay at the cafe. I stayed for over an hour and it wasn’t the same just because of the plastic cup. A bit disappointing given it was my first time there."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGbVVuWkJURVpoYTNkMlZrVTFjMEU0YUZjeVFtYxAB",
+            "text": "love the bread and pastries here; creative and unique, e.g. the sesame croissant with salt pinch, very tasty and inspiring, and many others like that"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KbWFtbEpUMWxmYURWUFlqSnJXVWMwWHpCQ1YzYxAB",
+            "text": "I placed a Too Good To Go order and showed up exactly at the time that I was supposed to be there, but the cashier said that it was already gone, and she didn’t understand why and shrugged like it was no big deal. Well it was a big deal to me. I’m pretty sure once I paid for them they should have been reserved for me. I walked 30 minute roundtrip for no reason and now I’m coming home to my family with 0 food. Not only was the cashier rude and said she didn’t know what to tell me, but she made no effort to suggest another item(s) or maybe give me something for free as it was the end of the day and I’m sure a lot of these pastries were going to be thrown out anyway. I even had to say maybe you could give me something for my time wasted and walking all the way here. Nope. Just a shrug and a fake sorry and I’ll give you a refund. Why not just put a couple things in a bag and say sorry? Nope. These people have no brains. They’d rather make a customer unhappy and lose a customer for life. It’s ridiculous. Some entitled service employees who have no idea about customer service and have such little respect for customers who also have very busy schedules. Some think they’re doing us a favor and not getting paid to work. Will never be back here when there are so many better bakeries in the neighborhood who also don’t treat customers like trash."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oZk0wODNTRGxXTkRGYVVHOXpVemRETWt4emRWRRAB",
+            "text": "Really good bakery and breakfast with interesting drinks. Place is packed and loud, be ready for a wait and a lot of noise on a Saturday morning."
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWTmEwNTJVV0ZvUTJRNWFuRkVRMUZpVVc4M1VVRRAB",
+            "text": "Fenomenal lugar para desayunar"
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xJMFpVRmljMHhRYVc1NU5YRTNTV2sxYkRobmNIYxAB",
+            "text": "Maman’s staff consistently exceeds my expectations! Deja is the hospitality Queen, genuinely caring about customers. She knows my order, even though I visit NY three times a year! I love the Passion Fruit Olive Oil Cake in the winter/spring and the Citrus Olive Oil Cake in the Summer. The breakfast menu is amazing, too, especially their avocado toast. Bravo, Maman UES! 👏🏼👏🏼👏🏼"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tneFlWUnhTbDgwVFhoUFFqaE5VbVZTZUU1U1VFRRAB",
+            "text": "This place is great spot for breakfast/brunch..\nJames was so kind and did everything great."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paM2VuZDBiMlpvY1ZkS1dFNVJMWGxSYUdKb1YyYxAB",
+            "text": "James was so great! amazing food and service"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taM2FpMWhaRjlxUkVNemVtMXZOV2xCWWpKSFJrRRAB",
+            "text": "I ordered today via uber wild blueberry caramel iced latte I didnot have a good experience I specifically paid extra for coconut milk & after I tasted the drink I knew It was not now I have a scratchy throat due to this because I only drink plant based only coconut milk they have a good butter croissant I got this under my fiances uber account Shaka colon earlier today 😞"
+        },
+        {
+            "date": "3달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oM1lrVm5UR2htWjJ4R2VVZHNNak5GUm5OUU1GRRAB",
+            "text": "Une très bonne adresse pour bruncher ou déjeuner. La décoration et la vaisselle sont superbes. Le service rapide et agréable et les plats très savoureux, à des prix abordables."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1dlQyTlNNM0JETVROeExWUjJWVlU1VTAxUk1tYxAB",
+            "text": "Best matcha I have ever had"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kc01rVXphMVo2TTBWNVRFUTRRMnA1ZWtKRE5rRRAB",
+            "text": "The food was delicious and fast! Good amount of food for the price. I ordered the Papa’s bowl and the seasonal latte (wild blueberry and caramel iced latte). Everything was so good. The atmosphere was also absolutely splendid"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25salRXNVZNa2wzTUZCR1l6SkhSM2RYTjE5VlFrRRAB",
+            "text": "Delicious for breakfast and lunch with friendly staff. UES location is the best one!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKc1FVaDJkamhqZEVVd1EyNTZhMmM1VnpoRVduYxAB",
+            "text": "James was absolutely amazing! Ordered the pastry platter to share with a girlfriend. Such a cute place with great food."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GMFVscG9UekV6YW1kV05YQnBNWGhaUVc1VGVXYxAB",
+            "text": "We were served by James and he was just the loveliest! the pastries were great and the sample was affordable and a great way to try different options"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Sa1NqZDVTV1ZXTnpsWlVHbHNkVFpyV2tGVU4yYxAB",
+            "text": "Just stopped by excited to try one of their specialty drinks and left ASAP as they don't have AC - in a NYC heat wave. It's literally 100 degrees today.\n\nStuck around long enough to latte with their blueberry syrup (side note - it  was really good)."
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1YU4zUXRNek40TWtKblNIZzBhM3BYTURWNFptYxAB",
+            "text": "This was the first coffee shop I visited here in NY, and I was honestly impressed. My family had each gotten their own dishes, but I had a refresher that was perfectly sweet and my sister and I shared the walnut banana bread, Nutella beignet, and the smoked salmon salad. Everything was super tasty! Big shoutout to James for walking us through the menu and being so attentive. He really made us feel welcome!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGd2NtdGZSVFJNWm0xM1dIaHBNSE5aUkdkYVlrRRAB",
+            "text": "Such a cute spot to eat with so much variety and amazing flavor! A must if you’re in the area!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBemVsVjJObFp1VkZKTGJrczNRbDg0TWt0NVRuYxAB",
+            "text": "Overall delightful. I was pleased with the Quiche Sarah (vegetarian) and the iced tea options. The mango passionfruit beach ball was good but not great, and i was a little bummed that the hot tea list cannot be made iced. Atmosphere is lovely, lots of plants and seating. The AC needs to be improved. Will return!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGeFgxRnFZbU0yVmpOb1JWQllaMlJ0UjNCdFZHYxAB",
+            "text": "Solid cafe on UES with an assortment of pastries, breakfast options and baked goods. We got ham and cheese croissant, I got the GF turkey cobb, and the summer matcha with coconut whip cream and a pistachio matcha latte. GF bread is def hard to get right, I ended up eating it more like an open face sandwich.  Matcha was decent."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBMGF6WE9BEAE",
+            "text": "James is the best. He's served us a few times already, on Sundays. He's just so kind and friendly. The food is so so great. It's not a cheap cafe visit but it's certainly an elegant and cozy spot for your morning and afternoon lates and sandwiches. The honey lavender late is VERY good and no fake syrup added."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJd0xERHZRRRAB",
+            "text": "We had a great brunch here and the food is nice and fresh. I had the salmon tantine and you can taste the freshness of the salmon and the seasoning bagel along with the cream cheese. I also really like the Lavender Hot Latte and the lavender after taste afterwards. Mateas and Toby were very friendly and accomodative to our questions. Would be more than happy to come back!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvenBmaW93RRAB",
+            "text": "Such a cute and aesthetic place! Great assortment of pastries. Service is a bit slow at times. Great atmosphere as well."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkR1VXMDJObmhSZDJGa1RrSjJURTF0ZHpKc1gxRRAB",
+            "text": "Beautiful café! Ideal for a cup of coffee and a pastry- although quite loud and crowded. The kouign aman was a bit underwhelming, but not bad. Quite pricey though!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJenJtUktBEAE",
+            "text": "The croissant is reason enough to pop in Maman, but you’ll want to stay and linger. Though technically a chain, it deftly avoids being cookie cutter. The atmosphere is great of casual get-togethers."
+        },
+        {
+            "date": "5달 전",
+            "language": "ar",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNekRoNG1NbUlhWlh3EAE",
+            "text": "مكان جميل مرة وريلاكس ! اخيراً لقيت مكان صاحي بنيويورك 🙂 فيه اماكن كثيره صاحية بس هذا المكان وافق توقعاتي بنسبه ٧٥٪؜  اخذت ناتي تشوكلت قاسيه شوي ماحبيتها!\nالقهوة لذيذة وقوية! انصحكم فيها!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JdFJFbzRVak5oTFc5QlZYZ3RVbnB2UjBWSFMxRRAB",
+            "text": "I love this cozy French vibes Cafe. I stop by every time I'm in town. Staff is incredibly friendly and accommodating. Love the salmon croissant sandwich."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJel83MDVBRRAB",
+            "text": "Had breakfast and lattes. Brenda's Belgian Waffles topped with seasonal compote, creme fraiche, powdered sugar, and toasted pumpkin seeds. To die for. Smashed Avocado Tartine topped with diced tomatoes,  cilantro, onion, and lemon, served with pumpkin seeds, sea salt and chili flakes on sour dough (added a fried egg) incredible."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMX0tsdDJ5ak83dGN3EAE",
+            "text": "Maman catering is 10/10. The customer service, attention to detail and more than anything, the quality of their products, is exceptional. We have used them for large and small catering needs and they never fail to impress."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmLXVYVy1RRRAB",
+            "text": "Very cute place, everything is very well decorated, from the storefront, to the shop and even the plates. The avocado tartine was great. I didn’t like having to order at the counter and take a number to sit somewhere, are we in McDonalds? Also, the many waiters don’t sit you, you have to go around the place to find an available seat, which is inconvenient when the restaurant is full …"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNneV9UR3NRRRAB",
+            "text": "Fantastic coffee and pastries. I loved the pistachio chocolate croissant. The atmosphere was charming and inviting. The staff are friendly and helpful. I highly recommend this place and I've been to a bunch of coffee shops."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taemEwUlFhM0o1VEdVMGRrbGxNVVJ1VjBob04zYxAB",
+            "text": "Friendly and professional staff. The food came out fast and it was yummy! I would return to MAMAN, especially this location, 1424 3rd Ave."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBaWQyYm9nRRAB",
+            "text": "Yummy spot. So quaint and cute.\n\nThey are not currently making vegan croissants because of a glour supplier issue.\n\nWe did confirm their chai lattes are vegan and completely dairy-free."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHd095QTVRRRAB",
+            "text": "It’s so wonderful to have a legit French bakery in the upper east side. I’ve been here multiple times for takeout pastries and it’s always been delicious - The croissants or flaky and buttery, The almond croissant is particularly delicious using real almond paste.\n\nSo I thought I’d give it a try and dine in for brunch. Place was very busy. Unfortunately the coffee was acidic and not drinkable. The dishes I ordered also fell flat. It seemed like there was only one waiter servicing the outdoors area which admittedly can’t be easy. We were given dirty utensils multiple times and had to request clean ones. The kitchen brought the wrong order to our table multiple times as well. I ordered a dish with the crispy potatoes - they were soggy and I could barely eat my dish. Overall a very disappointing dining experience. BUT - still an excellent bakery - I highly recommend you get the pastries to go."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJeWNpV3V3RRAB",
+            "text": "Love this place! They make the best coffee drinks (pictured: orange blossom caramel cappuccino) and pastries! I tried the overnight oats a few sundays ago and loved that too. Our server was James and he was so attentive, knowledgeable, and nice!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvdllMR29RRRAB",
+            "text": "I had a wonderful breakfast bowl.\nI added smoked salmon.\nJames, my waiter was very attentive.\nThe other staff was also very nice."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURodmVYV2d3RRAB",
+            "text": "Great coffee, food was good but difficult to finda seat.\nSince the restaurant is a walk-in, we ordered and tried to find seat after, which was mistake (we went on a Friday around 12) It took us some time to seat and by the time we're settled, the food came. It was good, highly recommend their classic breakfast sandwich ~ delicious ~\nOverall it was an good experience."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnOHVHcWdnRRAB",
+            "text": "I had a great experience here, Jase in particular was so nice and friendly. I like my latte a specific way and he was able to accommodate me. The coffee was good quality and my faves were the croissant and chocolate chip cookie. Would def come back again!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3eWVtekF3EAE",
+            "text": "There's a reason why this place gets so busy: it's because the quality of the food, along with its presentation, is excellent, while the service is very good.\n\nThe brunch is excellent, as are the pastries. I'm not sure I understand why the rating on Google maps is so low, but from my experience, this is a fantastic place for food, drinks and pastries."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5MUpXUFR3EAE",
+            "text": "Stopped by for coffee and pastries with family. Overall I can recommend this place, the coffee and pastries are both good but not outstanding.\n\nI did really like the decor and the service was friendly.\n\nThe espresso was specialty grade and well extracted.\n\nThe pastries were tasty and interesting."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNneS15WWlBRRAB",
+            "text": "Stumbled into this place on accident but food and atmosphere was amazing ! Enjoyed the coffee and tea- pastries and salad were phenomenal."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqenRXaVRnEAE",
+            "text": "Mamman is a lovely spot for lunch. They have several signature dishes that are good. Highly recommend the avocado smash with Salmon or an egg. Their pastries, cookies and coffee are excellent."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwNmYydWl3RRAB",
+            "text": "I had such a great lunch at Maman the other day! A friend of mine had told me about it so we decided to go together with a few other friends. I found on their website a coupon for $25 off of $75 purchase if you get the inkind app. I figured why not if we were going as a large group we would definitely hit $75 especially because we wanted to try a few pastries. The inside is beautiful and the guy who took our order was SO friendly and patient while I tried to get the $25 discount to go through (it was a little complicated but worth it!). There was a large line stacking up behind us (sorry everyone) but he never rushed us. We ordered 2 ham and cheese croissants (really good although I hoped for more pickle than just one small one on top and maybe more mustard flavor, plus it was a little burnt), the chicken salad sandwich (my friend said it was great and it was huge!), the smashed avocado tartine with salmon added (also massive and my friend liked it). We also got pastries and just split them between us all including: banoffee cruffin (delicious), pina colada croissant cube (delicious and probably my favorite of what we tried), pistachio chocolate croissant (also delicious and probably my second favorite of what we tried), the Paris to new york croissant (this was a little hard on the outside so maybe not very fresh. The inside was good but just too much chocolate for me), and finally the s’mores cookie (this was just a basic cookie for me nothing special and I wouldn’t get it again).  Our food came out quick we had a great time and saved some money! I’d definitely recommend it and go back again!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCczVIYXN3RRAB",
+            "text": "It's a very cute place surrounded by beautiful white flowers and nice antique-style furniture. I ordered a latte ($4.50), cappuccino ($4.50), salmon sandwich ($16) and Normandy apple tart ($6.00). The coffee tasted very good. The sandwich and pastry were a bit dry. The staffs were very nice and friendly. This place also sells their original Mamman cook books, coffee beans, and very cute souvenir. I was very relaxed and enjoyed their coffee!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWLTd6ZmpRRRAB",
+            "text": "Stopped in before hitting up The Met and saw they had an impressive seasonal selection. The pistachio croissant holiday tree is both beautiful and delicious. Flaky on the outside and full of delicious pistachio cream—one of the best seasonal pastries!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWaTV2NzF3RRAB",
+            "text": "This is the 2nd maman location I visited in NYC.  👍😍  I went with friends today  for  coffee & and sweets, and we were really happy to find a comfy corner where we could  enjoy our freshly brewed coffee with tasty sweets. 😋😋  I really liked…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqNHVXRlN3EAE",
+            "text": "You order at the counter for sit down or take out service (at least during a weekday at breakfast). It was busy but they kept it moving! Food was delicious though a little on the pricier side ($5 for 2 slices of toast). Very friendly staff, and lovely atmosphere."
+        },
+        {
+            "date": "4달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwQ1NGRTJUVmR4WTFaYVEycDNZVXQwWmpocVJrRRAB",
+            "text": "Sono a New York per vacanza e girando per la città ho trovato questo fantastico posto, inaspettatamente! Mi sono trovata davvero bene. Ho trovato tutto ottimo, dal cibo al servizio. In particolare, il servizio offerto da Sofia è stato eccellente: gentile, professionale e molto attenta alle esigenze dei clienti. La consiglio vivamente a chiunque cerchi un'esperienza di alta qualità!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJcTZLb0FREAE",
+            "text": "They have a small, barely noticeable sign that says it’s a laptop-free environment… but honestly, this should be posted clearly at the entrance. It’s a dealbreaker for many of us… tried lemon poppy seeds cookies and didn’t like it you can taste the oil .. honey lavender latter was good"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ZMVNWTkVhR1IxVjAxWmNqa3pkV0ZSWm1sVWNVRRAB",
+            "text": "Food is good. Drink is good. They do need more wait staff for weekend brunch hours, only one server covered the whole back area when we dined.\nI was seriously disappointed with the hygiene at this store. The dusty fake…"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJd19TdGR3EAE",
+            "text": "Everything was amazing the Tuna Sandwish was so good, so was the Tomatoe soup,\nThe staff are very welcoming very Kind, our server Daja she was so kind and made sure to take care of us. Looking forward to coming back."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNndC1XSXlBRRAB",
+            "text": "YUM! We came here on our trip to nyc looking for some sweets and coffee in a nice environment that we could actually sit down and relax in - we definitely got that here! The staff was super friendly, they had a free refillable water station, and plenty of seating. All the food and drink came out on the cutest plates and was delicious! A wonderful addition to our day here!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwM05hSk1REAE",
+            "text": "Great local brunch spot! I had the avocado tartine with a fried egg on top and my boyfriend had papa’s bowl with a side of bacon and both were FANTASTIC! So good I forgot to take photos before we ate. The vibe is also very nice with all the flowers and the staff is nice."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtaU9QanBBRRAB",
+            "text": "A decent place but nothing special. Although some reviewers talk about great service, on this particular day the service was absent: had to ask for utensils, had to ask for water after the waiter took our food order and the food arrived without ever coming out with water at all! As for food - prices pretty normal but amount definitely lacking. Egg Ratatouille was over spiced!\n\nAmbiance: 5/5\nService: 2/5\nFood: 3/5\nCoffee: 4/5 (Flat White was great!)"
+        }
+    ],
+    "reviews_count": 84
+}

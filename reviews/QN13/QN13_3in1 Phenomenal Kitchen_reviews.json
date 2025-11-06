@@ -1,0 +1,40 @@
+{
+    "name": "3in1 Phenomenal Kitchen",
+    "place_id": "ChIJA0jlozBnwokRhqirVdfXPlo",
+    "grid": "QN13",
+    "address": "19-33 Mott Ave, Far Rockaway, NY 11691, USA",
+    "rating": 5,
+    "user_ratings_total": 9,
+    "phone_number": "(929) 254-2400",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGb1lYcExNMHhpVjFKSFFqUkJhV1JzV1VRdFEyYxAB",
+            "text": "I love it here"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkb1QzWktUME5FYUdSTlVWQkplVzl5ZFRabVRrRRAB",
+            "text": "3 in 1 Phenomenal Kitchen, and let me tell you, it's legit! The sandwiches are stacked high with the freshest ingredients. I'm talking flavor explosions in every bite! Plus, the staff is super friendly and make you feel right at home. Honestly, it's my new go-to spot. You gotta check it out!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCemQxQmpURUk1YVc0M2ExOXljMmx0ZEc1RFJsRRAB",
+            "text": "They are the best in the area. New and clean restaurant and excellent food."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsUFJFUXRVREF0TUZGNmJWQnljVU5GUnpkRFpVRRAB",
+            "text": "This is the best food that I  have ever tasted in my entire life.They are very clean and they have great customer service."
+        }
+    ],
+    "reviews_count": 4
+}

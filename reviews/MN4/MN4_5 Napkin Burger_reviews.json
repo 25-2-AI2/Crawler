@@ -1,0 +1,705 @@
+{
+    "name": "5 Napkin Burger",
+    "place_id": "ChIJscoCyFNYwokRDMEEfPoNM8o",
+    "grid": "MN4",
+    "address": "630 9th Ave, New York, NY 10036, USA",
+    "rating": 4.5,
+    "user_ratings_total": 7011,
+    "phone_number": "(212) 757-2277",
+    "reviews": [
+        {
+            "date": "4시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOTWNuTmZVSHBQYUdabFdVTkdibXR0ZVVGYVMwRRAB",
+            "text": "Gerardo was fantastic. Introduced us to new menu items and was friendly throughout. We got to meet Mia as well, and share how obvious it is there has been a change in management. Great improvements!"
+        },
+        {
+            "date": "12시간 전",
+            "language": "ja",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toS1oyUkhWbEZJUTJWalpGOWlXbEk1WldWTFQyYxAB",
+            "text": "物凄い美味しいハンバーガーでした。予約無しで入れたのは、微妙な時間に行ったからかも。ニューヨーク来たら毎回食べたいです。"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psd09GTk5iMEY2TlZkbVltaFZSVEZtYUV4WWNFRRAB",
+            "text": "Very beutiful place, The food was delicious, The weiter Jerry was amazing,kind and happy! Rigth bill"
+        },
+        {
+            "date": "1일 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oNlNsOW1UamRmU3kxWlUzUnhjRU5JV2s1aVEwRRAB",
+            "text": "Jerry Topp!!! Super kind and carfully !! Sono italiana e esperienza da provare ! Cibo buonissimo!!!"
+        },
+        {
+            "date": "수정일: 1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pnMVpGaDRZMlJCVkhKVlZFbDNRVjlZTTJwNVZGRRAB",
+            "text": "The variety of menu choices allowed everyone in our party of 7 to choose exactly what they wanted.The food was very good and our server Jerry was superb!"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25BeFJVZElSVmRqZERaS1JtZFRPSGRoVEVKVWJVRRAB",
+            "text": "The wait staff isn't friendly.  The food use to be much better. I had a Patty Melt,  it was soaked butter. The French fries were like saw dust."
+        },
+        {
+            "date": "1일 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBMmJUQkNabkZYYjA1Nk4xRnJaV2xpWWpreVVYYxAB",
+            "text": "Sehr lecker!"
+        },
+        {
+            "date": "1일 전",
+            "language": "ja",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201c1IzbFBUa056WlRWUk9UbE9UbkZLWlZwaWRFRRAB",
+            "text": "オニオンもなにもかもうますぎる。"
+        },
+        {
+            "date": "수정일: 3일 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSbmVFUnpjbXh4TVVWWVdrNVVZWFl3ZEdGRWFrRRAB",
+            "text": "Il miglior pub di manatthan"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsbFMyODJibkJWWlVKcFIzaFlUVFV3TkhabVdXYxAB",
+            "text": "Probably the best burger i've ever had !  Excellent quality beef.  Good choice of beers on tap, very lively atmosphere. A very satisfied customer !"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCdWVVTlRjVmhCZHpKbk1GUktjakpCTW5SeE5XYxAB",
+            "text": "AND STIIL,\nTHE BEST BURGER IN THE WORLD!\nThank you Gio for looking after this evening. The food and service were amazing. Thank You"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSdVVtWklXV0ZQVjJoWlNrNVNUMWhDYVhSaU9HYxAB",
+            "text": "Great.\nThanks"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCTGVISnhUMFpRTkZsYVFXVmZhVGsxT1RaeVNWRRAB",
+            "text": "This is by far the best burger I had in NYC."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SblFscDZTVVYwV1ZGaU0ycGlTM2RqUWtWeE0yYxAB",
+            "text": "Awsome service"
+        },
+        {
+            "date": "1주 전",
+            "language": "no",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tscVdubHNNMWswZFU5TE1VOUNOMk5XY0VoV00zYxAB",
+            "text": "Perfekt sted å spise en ekte amerikansk burger."
+        },
+        {
+            "date": "1주 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWSU5uTmFWRkYyWkdObGIxVk9SbVJ1Y0ZkUk1VRRAB",
+            "text": "Hamburger buonissimi e personale molto accogliente, ci ha servito Hugo che è stato davvero molto gentile e disponibile."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsRGNXOUtlbWw1VTFGaGJFSmpWRmM0YmxKVVRYYxAB",
+            "text": "great burgers but I just want to compliment our server who was top class, really nice person, dont recall his name. We didnt have a reservation, ate at an outside table. Worked out very well."
+        },
+        {
+            "date": "1주 전",
+            "language": "ar",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKa01XUmhOR3BFWVZGclZFcElkSEJpWVcxelMwRRAB",
+            "text": "الطعام لذيذ مررره\nالافوكادو مره حلو وبرضو الترفل\nحتى حلقات البصل\nوالبطاطا الحلوه\nكبير الحجم مره يكفي شخصين الحجم الكبير\nالخدمه تجنن نفسياتهم حلوه\nالاجواء العامه مره مريحه الطاولات بجنب بعض\nانصحكم فيه"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNd1dFdE9ja1UyVVdwaFpHbENPWEl4VEVsaWVGRRAB",
+            "text": "I ordered the traditional ‘5 napkin burger’ but didn’t get the 4 additional napkins with the burger. 🙃…"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KMlUwWnBibWRZWDJaWlZWTnNPRVZFYkZGWlgyYxAB",
+            "text": "Gio was great!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCYVZsWk9XR2M0WDBwNlRWOHRkemR0YTFOWldWRRAB",
+            "text": "Very testy thanks for gio"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5MFZYUlRRakpKVVc1UVJtZGhNSGczWlc1aFZtYxAB",
+            "text": "Gio the best ❤️"
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5dFgwa3hTMTh6T0RCWVJXTkNka0V4VnpneWJsRRAB",
+            "text": "We had a cousin's party get together after many years of not having everyone at one setting.  Roldan our waiter was superb, handling our group of 9 flawlessly.  Cheers to Roldan and the great food here!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ocGRpMTJUbm8xU0dvMk1YQTNUVmh5WkZkUlJHYxAB",
+            "text": "Nice place.  Good burgers, shakes, vibe.  Only gave us one napkin though, so false advertising!"
+        },
+        {
+            "date": "2주 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxUVJVNXZMWGwyZEhSUVgxQjFTbmhzYlhSVFEyYxAB",
+            "text": "Ottimo tutto dal accoglienza al servizio ma soprattutto per il cibo tutto di ottima qualità... invito a tutti di andare."
+        },
+        {
+            "date": "2주 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205M2Rub3RWbXh1TWxsSFJsSkdXWEJuVFdSS1IyYxAB",
+            "text": "Un’esperienza culinaria da veri newyorkesi.\nStaff gentile e disponibile.\nConsiglio la carrot cake come dolce."
+        },
+        {
+            "date": "2주 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210VFdXRm1RMUl6ZWxZMmFFeENaVUpRWVd4NGJYYxAB",
+            "text": "Incredibile service by our waiter Roldan!!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oNlltWnNkbUo1YXpSc1JFdzJVVE5JWTJzd1prRRAB",
+            "text": "Fantastic experience, great food, excellent service. I recommend everyone to come here."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGT1ZtZFhOMTlOVWpGSFEyWldUbmhXVUZKTGFIYxAB",
+            "text": "Excellent food and Jerry was the nicest waiter ever. Will come back."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKSmMxcFhOM051TTBsNlVISjVlRTVCVGw5YWEwRRAB",
+            "text": "Had a late lunch yesterday with my mom and we were both very impressed. Our sever Jerry was attentive and friendly; he and the food runner were both fantastic. So was the food! The burgers were cooked perfectly, and the cheesecake was top-notch- even the coffee was really good. Perfect spot for a burger and dessert."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4SlVWUTFRVXRYWWpVelNFdHNXakJTTkVkNE1YYxAB",
+            "text": "Our server was very nice, but very mediocre food. We returned a frozen margarita because they never said it had a fruit flavor, the mac and cheese was bland and zero taste, old pasta. Burgers were overcooked when we ordered them medium. Salads were dry. Very negative experience."
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkTE9YaDRSR0UzUVY5cGVYVlRVMHhVWTJkVmNsRRAB",
+            "text": "Cute, classic burger/dinner with amazing service and one of the most flavorful and juices burgers I ever had! Their onion ring stack was super light, thin, and crispy.  Their sweet potato fries were very flavorful, fresh, and non greasy. The food comes out fast and their spiked milk shakes were a nice surprise 😊......to think i was mainly going there originally for the tall chocolate cake. Definitely stop here when ever ur in the mood for a great burger n the chocolate cake is amazing at room temp (they serve it clod to keep it fresh)."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKclFXZFdjWHB4VkdsVlIzZE9SRWx5ZW5WdFlrRRAB",
+            "text": "Accidentally found this place while visiting a bakery nearby. Great atmosphere and the service from Jerry was wonderful. Food and drinks were amazing. Thank you!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFeE1GTXRaMGx2WW1OUmFHd3hkbVozUm5WcGJFRRAB",
+            "text": "Jerry made this evening very special for us because of his funny kind of humor. He was respectful and kind. Personally I remember his humerous reaction when I asked for an extra lettuce leaf. The food was big but good (We are from Switzerland so size is not perfectly 🤣). The shakes were also pretty good and I enjoyed drinking it."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSVVJtSndNSG8yY1hrdGRXRkpOMFpRT1ZGMWNIYxAB",
+            "text": "Very taste hamburger 🍔"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WVlIwNDJlR2s1VDNKWVYwRkZZalkxUVdSMGNYYxAB",
+            "text": "Awesome first time experience! Our server, Jerry, provided great l, experienced service! Highly recommend!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkMFNISkdRbEJXT1dSNlNGQXhkMTlHVUVWUlJGRRAB",
+            "text": "I love this place. Great happy hour sliders. Shout out to Ivan! Just wish HH went to 7PM."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tselpWYzBOMnBhVFV0eldYUTJNRlZMVVRWMVEwRRAB",
+            "text": "I had the original 5 napkin burger and it was amazing!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0MlNWTjVXbGRPUjJKSVYzUndTRWxxZVRGcFZIYxAB",
+            "text": "Jerry and the food was great."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwdGVVTm1kRE5TZWpCNFVEZFJWMHh3TkVSVFNVRRAB",
+            "text": "Jerry our waiter was great!!!!!\nThe place we were sitting in was near the door and it was cold"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pscFJrTmhNMHgyU2tOQ2FrNU9ORXhhZEZCSFYxRRAB",
+            "text": "I love five napkin and my server Jerry was so nice and helpful. I'd come back just for him!!! :)"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wS05tZG1aREozY2tac1NTMXhNbnA0WDFkMk5HYxAB",
+            "text": "I did have a chicken breast burger and my friend a turkey burger. Both were ok but not super exciting.\nIt more fast food with sit in option ."
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oQ1dXVnBZVFpPV2pnelV6aGFhR1JGYzBkYVZWRRAB",
+            "text": "Restaurante acogedor, con buen ambiente y precios razonables. El servicio fue excelente, y el camarero que nos atendió (¡en español!) fue encantador. Muy recomendable."
+        },
+        {
+            "date": "3주 전",
+            "language": "zh-Hant",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOT2NHRktlRk5KVlZONk4xSkdhMFJ4VEZGQmIzYxAB",
+            "text": "外帶回去吃，洋蔥醬好好吃，肉排也很厚，滿大一份，麵包皮我覺得偏乾，吃到一半就會膩了，洋蔥圈很酥脆也還可以，服務人員服務態度蠻好的，整體來說滿意👍"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKUlZFMUZjbnBmWHpkTk4wNWpSbnBUYm10dkxWRRAB",
+            "text": "Jerry was a nice waiter 👍\nNice food and it was quick."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKbVlXRm5WelpIZG10dlUxWkZWMVJVYVVOWmFGRRAB",
+            "text": "Amazing food and service! The truffle burger was probably the best burger I have ever had!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsaFRtWmpNVWhpYVVWUmRGVjZaR2t6VlZRMU4xRRAB",
+            "text": "Jerry was amazing!!! I would for sure come here again!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZdE9XTXpXa1paUzBNMlJHZ3dielZhYXpkVWFWRRAB",
+            "text": "I went in before a Broadway show to watch my team play a baseball game. I am incredibly superstitious and Ivan the bartender was so kind and understanding about all my quirks. Kept my soda filled to the right level, left my plate and napkin in the right spot, ect, all with a smile! Then when the game ended, he made sure I got fed and to my show on time! The food was great, and the happy hour prices are the best in the area. I will absolutely be going back!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pka1F6WkZkMlpuVG5reFpUZ3RVbEJ6WmxSNUxYYxAB",
+            "text": "The best bartender and drinks in Hell’s Kitchen! Thanks Ivan!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBMmFUVnFhMVp2V0VoUldrdFpTMUkwWWpnMWQwRRAB",
+            "text": "Great place to sta, drink and have a dinner. We were satisfied."
+        },
+        {
+            "date": "11달 전",
+            "language": "ko",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQbGRxSWN3EAE",
+            "text": "구글리뷰에 평점이 나쁘지 않길래 가족들을 데리고 갔던 곳. 실내 분위기는 적당했고 가격대비 맛은 그저그런 햄버거 가게였다. 사실 구글리뷰에 평점이 좀 과하게 주어진 것 같았다. 아니면 외국인 관광객들이 미국스러운 햄버거를 처음 접하고 점수를 후하게 줬을지도. 가장 실망했던 부분은 고객 서비스 부분이었다. 분명 메뉴에는 계란을 추가할 경우 그 비용이 1불이었다. 그런데 계산서에는 1.5불로 차지가 되어 있었다. 50센트 정도는 아무 것도 아니기에 그냥 넘어 갈 수 있었지만 반복해서 실수하면 가게에도 안 좋은 인상을 줄 수 있어 주인에게 알려줄 마음으로 서버에게 말해줬다. 그런데 뉴욕이랑 그런가 아니면 재방문을 하지 않는 관광객들을 대상으로 해서 그런가 직원들의 태도가 이상했다. 마치 ‘야 이 놈 짜치네’ 이런 말을 마음 속으로 하는 게 보이는 것 같았다. 나는 카드로 계산하고 팁을 이미 지불했지만 50전을 돌려주면 추가적인 팁으로 놓고 나올 생각이었다. 보통 내가 사는 남가주에서는 이런 경우 매니저가 오던지 아니면 서버가 최소한 미안하다고 하면서 돈을 돌려준다. 그런데 계산대쪽에서 자기네끼리 쑥떡 거리더니 형식적인 사과도 없이 쿼터 두개를 띡 주면서 여기 있다고 하는 것 아니겠나. 그냥 너 팁으로 가지라고 말해주고 나오면서 계산대쪽을 바라보니 매니저처럼 보이는 중년 남성이 우리를 계속 째려보고 있었다. 아니 기분이 나빠야 할 사람은 바로 나 아닌가? 음식 맛도 별로라서 기분이 상했는데 뭐 이런 스캠같은 일을 당하고 이런 대접까지 받아야 하지? 우리가 동양인이라서 그런가? 오만가지 생각이 다 들게 만드는 순간이었다. 뉴욕을 자주 가진 않지만 가더라도 여기는 재방문하지 않을 것 같다. 오너가 보게 되면 잘못된 부분은 바로 잡기를 바란다. 메뉴판에서 가격을 고치던 pos에서 수정을 하든. 그리고 직원들의 태도는 꼭 고치길 바란다."
+        },
+        {
+            "date": "4년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURxc3FDbkRBEAE",
+            "text": "Perfect place for the shot and burger. I ordered 5 napkin burger and it was amazing. Their burger patty is awesome. Tasty like steak!\n육즙 가득한 패티의 수제버거. 시그니처인 5냅킨 버거\n가격이 살짝 있지만 그 값어치를 하는 곳!"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4dF8zSnFnRRAB",
+            "text": "파이브냅킨 시그니처 버거는 달았지만 패티는 정말 맛있었습니다 사실 직원분께서 좀 불친절하셔서 초반에 기분이 조금 좋지 않았지만 실수로 주문이 들어간 치즈 프라이를 내주셔서 .. 하지만 이 때도 미안하다는 말씀은 없으셨고 다른 서버분께서 맥앤치즈와 함께 가져다주셔서 살짝 당황했어요 생맥도 맛있었고 메뉴들 다 맛있어서 재방문은 할 것 같습니다 계속 생각나는 버거 맛이에요"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqZ2MzMTFRRRAB",
+            "text": "버거도 맛있고 직원들도 친절했습니다! 시그니처 버거에 감튀 먹었는데 패티도 굽기 정도 선택할 수 있어서 좋았어요 (미디엄 추천)직원들이 친절해서 또 가고 싶어요 뮤지컬 보기 전 최고의 선택"
+        },
+        {
+            "date": "2달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ScGMxZGFVV2Q0Y1U4MVRsTlVkR2xQWkV0RmNuYxAB",
+            "text": "패티가 거의 스테이크급 미쳤습니다 버거도 겁나커서 1인1버거 쉽지않아요 장담컨데 전세계 버거 완탑은 여기입니다"
+        },
+        {
+            "date": "8년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3aDRDR3ZBRRAB",
+            "text": "블로그 리뷰 중에서 뉴욕 햄버거 중에\n개인적으로 제일 맛있다고 해서 가보았는데 햄버거가 아니라 스테이크를 먹는 기분이었습니다.\n\n그만큼 패티 상태가 정말 좋고 맛있었어요!\n\n제일 기본 오리지널 버거 + 감자튀김 + 오레오쉐이크\n시켜먹었는데 감자튀김은 아주 몹시 평범했고\n햄버거 빵이 푸석해서 약간 아쉬웠습니다ㅠㅠ\n오레오쉐이크는 양도 많고 맛있었어요!\n\n전체적으로 역시나 양이 많아서 20대 여성\n2명이서 아주 배불리 먹을 수 있습니다!\n\n가게 분위기도 좋고 자리도 많고 넓어서 평일 점심에는 예약 없이 가도 괜찮을 것 같아요!"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyaDYzcnVRRRAB",
+            "text": "5기본 햄버거로 주문했고 스테이크 굽기는 미디움으로 했는데 정말 맛있습니다☺뉴욕에서 먹어본 햄버거중 제일 맛있네요👍🏻"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUaHNtRk1REAE",
+            "text": "좋았습니다 버거 굽기는 조절은 잘 못하는거 같은데 그래도 유명한값은 하는거 같아요 굿"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4ODY3QS1BRRAB",
+            "text": "시그니처인 5냅킨 버거를 먹었는데 세금 팁해서 26달러 정도입니다. 패티는 굽기 선택할수 있고 미디움으로 했는데 제가 먹었던 버거 중에서 제일 맛있었네요.\n번, 패티, 소스, 카라멜라이즈양파 이렇게 들어있는데 패티는 엄청 두툼하고 소스가 말도안되게 맛있습니다.\n종업원도 친절하고 맛있게 먹었네요."
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBdkxtMWt3RRAB",
+            "text": "맛있었습니다. 패티 두께가 한 2 cm 정도 되더라구요. 점심을 늦게 먹어서 그런 것도 있긴 하지만 딱 버거만 먹어도 식사로 가능하다고 느꼈습니다.\n아마 많이 드시지 않는 여성분은 남기실수도 잇을것같네요\n\n맛도 괜찮은 편이라고 느꼈습니다. 한국에서도 수제버거집 많이 다녀봤는데 그들이 뭘 참고했는지 대략 알 것 같았습니다."
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwdkxpcjR3RRAB",
+            "text": "1. 맛있음.\n2. 서퍼가 매우 친절함.( 유튭보는데 괜찮냐고 물어봐서 놀란건 비밀.)\n3. 페티가 두툼\n4. 생각보다 가격대가 있음.(근데...페티씹는순간 커버됨)"
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNeW9lT3hBRRAB",
+            "text": "가격은 좀 있지만 뉴욕 물가를 생각하면 그렇지도 않은 것 같습니다. 나쵸가 굉장히 맛있었고 햄버거는 다소 짰지만 고기의 풍미가 엄청납니다."
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURVcHZPd0JnEAE",
+            "text": "일반 버거나 치즈버거는 무난하지만...Time out에서 추천한 메뉴,  5 Napkin burger가 다른 버거보다도 훨씬 감칠맛 나는 맛이었음. (카라멜라즈된 양파 소스 덕분에)\n\n그리고 피클이 너무 아삭아삭하고 시원하고 맛있음!"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlXzdUXzB3RRAB",
+            "text": "패티가 맛있는곳\n디저트로 먹은 레몬 샤베트는 너무 신맛이 강함...."
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtd2FtVFZ3EAE",
+            "text": "시그니처 버거 맛있어요...\n그리고 생맥주도 좋구요...\n강추..."
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURROHNQMDBnRRAB",
+            "text": "뉴욕에서 먹었던 버거 중에 젤 맛있었던! The best burger in New york."
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQwcU1MSlJBEAE",
+            "text": "좋은 재료에 실패한 조합\n다른 버거 (5가이즈, 조인트 등)에 비해 확연히 느끼하고 비싸다\n레스토랑에서 썰어먹는 버거."
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRN1B6bmVREAE",
+            "text": "맛있어요. 성인 남자 1명 버거만 먹고 배부릅니다. 버거 14달러."
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBOTdhY2pBRRAB",
+            "text": "햄버거 패티를 웰던으로 할지 미디엄으로 할지 물어봅니다. 대부분 미디엄으로 먹는 듯 했어요. 간이 세긴 하지만 미국의 다른 햄버거보다 짠 정도는 아니고 맛있습니다. 고기+치즈 햄버거가 땡길 때 딱이에요"
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNjeXZpUElBEAE",
+            "text": "버거만 좋아하시는 분은 굳\n어니언링 맛있았어요\n스무디 더럽"
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNX3NQMnVRRRAB",
+            "text": "읹줭잡욜해요 가지믇에옹 :D"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwNl9Lcm5BRRAB",
+            "text": "프론트에 계신 분이 레이시스트 같아요. 빈자리 많은데 15분 기다리라고 해서 비어있는 자리는 예약석이냐 했더니 그제야 그냥 앉혀주네요. 그나마도 문가자리였고요? 저희 바로 뒤에 들어온 백인 커플은 웨이팅 없이 바로 안쪽자리 앉히는거 보고 확신했습니다."
+        },
+        {
+            "date": "8년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBOXZqZnZ3RRAB",
+            "text": "이번에 동부와서 먹은 햄버거 중 단연 최고..!! 시그니쳐 버거와 스윗 포테이토 후라이는 절대 강추!!"
+        },
+        {
+            "date": "8년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNndF82QUdnEAE",
+            "text": "먹어본 햄버거 중에 최고 맛있었음!\n간식으로 먹는 햄버거가 아닌 잘 차린 음식을 먹는 기분"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJMzQydnZBRRAB",
+            "text": "29일 홀로 버거를 사러갔던 늦은 저녁\n바에서 나를 맞아준 여직원은 정말 친절했다\n또 다시 방문 하고 싶은곳!"
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNNczhhenBBRRAB",
+            "text": "와플프라이 맛있어요\n고구마튀김도 맛있어욤\n너무 안 느끼해서 조아요"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMwaHJ1dFN3EAE",
+            "text": "그냥 맛있어요...\n온갖 신선한 재료들은 다 넣어놔서 안맛있을수가 없음...;"
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzazdpdnB3RRAB",
+            "text": "맛잇어용. 고기드실때 야채없이 못드시면 샐러드 추가해서 드세여.."
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURldXBTTVd3EAE",
+            "text": "맛있고친절하시네요"
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3eWJXZkZ3EAE",
+            "text": "줄줄 흐르는 고기 버거를 맛보고 싶다면..."
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNVbmFPTU5REAE",
+            "text": "친절한 직원. 꼼꼼한 관리."
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNVM2MyQTV3RRAB",
+            "text": "생각보다는....어니어링은 맛잇음"
+        },
+        {
+            "date": "1달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJNFYyRjZjek5OUm14aWJYQnlTVTQyYlU4eVZrRRAB",
+            "text": "Sono stata qui ieri, con mio marito. Esperienza fantastica, cibo delizioso, personale super educato e subito disponibile, ambiente molto carino.\nEssendo una persona con molte allergie quando vado in un posto nuovo (sopratutto che non parla la mia lingua) ho sempre un po’ paura di magiare…ma qui non è stato così. Ho chiesto alla ragazza cosa potessi mangiare per via delle mie allergie. Mi ha indicato tutto quello che potevo ordinare (fortunatamente tutto) ed abbiamo mangiato davvero dei panini ottimi. Siamo italiani…abbiamo provato i Mac and cheese, anche quelli hanno un loro fascino.\nSUPER CONSIGLIATO."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkTU5VWmhha1pET1hkcmNURnpiWFpDWVVzMmVVRRAB",
+            "text": "Very good food.  The staff were friendly and offered suggestions.  If you can get an inside table next to the window s, you can enjoy viewing people rushing by.  The Happy Hour Menu is very good.  Prices are typical for this area.  I look forward to eating here again on my next visit to NYC."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KSVQwdG1VbmRJV0hkbWVFUjZiRGhZY0RCSFpuYxAB",
+            "text": "5 Napkin Burger is just the best for that old-school, chill vibe. Seriously, the place is decorated so perfectly, it really sets the mood. No reservations, just walk in how great is that! And the food was undeniably delicious. Especially my kale salad! You can tell they use fresh ingredients because the flavors and spices are just spot-on, perfectly combined. Our drinks were super refreshing too, which is always a plus. And honestly, the service was top-notch! It's exactly what you want when you're hungry and looking for something cozy, comforting, and just genuinely good."
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5d1FUWjJPVmt3UmtkWldtcFZValZvUWtkUExVRRAB",
+            "text": "Uno dei pochi posti dove il servizio è realmente veloce, gli hamburger non trasudano solo grasso.\n\nIn generale la qualità dei prodotti è alta, nessun sapore troppo predominante, il pane è trattato con cura e non sembra aver affrontato una guerra (altra cosa non scontata).\n\nPurtroppo la città è altamente frequentata da gente proveniente da tutto il mondo (con standard completamente diversi l'uno dall'altro) quindi anche locali che hanno recensioni stupende non risultano all'altezza: 5 napkin burger è uno dei pochi locali nei quali le recensioni rispecchiano realmente l'andamento generale del servizio e dei prodotti offerti."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WbE9FbDBkMWhZWVhST05UTnZSelprY21zd2RYYxAB",
+            "text": "A no-frills old school burger place truly delivers. The patty is big and juicy., my only wish is that they came with a side of fries.\n\nWe tried both the truffle mushroom and the classic burger. The truffle mushroom burger was the winner for me.\n\nUnlike other places that serve sad small wings, this place serves up some of the largest and meatiest wings you’ll find\n\nPlenty of outdoor seating, super dog friendly, charcoal approved ☑️"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tacmFYRmtMV1YyZEZwdWR6bEdjMWgzWVRrdGFWRRAB",
+            "text": "Second time eating here and enjoyed it as much as the first time. Great burgers and drinks. We reserved a table ahead of time and just walked in. If I had any complaints, the fries are lacking character but not bad. Bonus points that they are crinkle cut."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sbVRqUjBVMVl5ZGpOUlNqZGtWa2RYTlhNM00xRRAB",
+            "text": "5 Napkin Burger in Hell’s Kitchen is a chill spot to grab some tasty grub. We popped in for a laid-back date night with our pup and decided to sit outside in the summer heat, which was just perfect.\n\nFirst off, the tuna poke appetizer was off the charts—definitely order that! My partner couldn’t get enough of the wings, and the onion rings hit the spot, crispy and delicious.\n\nDrink-wise, the frozen watermelon margarita stole the show. My partner loved it; it’s super refreshing and perfect for a warm evening.\n\nI tried the truffle burger, and while it was good, it was a bit too rich for my taste. No biggie, though. My partner's buffalo chicken sandwich was awesome—packed with flavor and just right.\n\nWe did make a reservation, but there were a few empty tables, so it’s pretty chill if you decide to just wander in. Overall, 5 Napkin's a great spot to hang out, enjoy some good food, and soak in the Hell's Kitchen vibe. Plus, dog-friendly seating is a win!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GamQxVjNXbWhxWm1kMGIwNXlUbkE1UkcxdFNXYxAB",
+            "text": "I have a 5 napkin burger and 5 napkin gold large.\nIt’s absolutely amazing burger, the patty is so crunchy outside and tender inside. Once I bite it, the juicy of meat burst into my mouth, comes with onion which is totally caramelized well.\nAmazing place for burger!\nIt’s my personal favorite burger place!\nI will definitely visit again once I come back to New York.\n\nJerry is a great waiter, it’s great to have him in this pleasure meal. It’s the first time in New York I’m willing to tip."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OdE5WVlVjMnRPVmpCclkyUmpOWEpDYTBkMmFIYxAB",
+            "text": "Stopped in with a friend and everything was delicious! I had the Italian turkey burger with a frozen watermelon margarita, and Katie had the sliders with cheese & bacon fries (which I definitely shared). The drinks were refreshing, the food was flavorful, and while service was a little slow at first, it was worth the wait. Great spot near Times Square!"
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNNeVpHaEVnEAE",
+            "text": "Very tasty food and great service! Burgers are delicious but HUGE; light eaters may want to split one with someone. Decent fries (which you can have loaded if desired), great onion rings, and surprisingly good Brussels sprouts can accompany your entree (we didn't try the broccoli side, but that is also an option). The only drawback about dining in is that it's very loud, making conversation difficult."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLX212ZDJzNVlIeE9nEAE",
+            "text": "When in New York, Five Napkin Burger is the place to go for a burger experience that hits all the right notes. Juicy, tasty, and downright delicious, their burgers are everything you crave and more. The star of the menu? The Truffle Burger—a heavenly creation that’s rich, flavorful, and unforgettable with every bite. The ambiance strikes the perfect balance between casual and trendy, making it great for a quick lunch or a laid-back dinner. Whether you’re a local or just passing through, Five Napkin is a must for burger lovers."
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xadFZsWmFNRXBTUVRKVGQwNDRaR056TUhOd2JVRRAB",
+            "text": "Ci siamo andati , con aspettative altissime, dopo aver visto i video su you tube “ cosa mangiamo oggi “ di Giano  e Francesca . Ottimi hamburger , servizio velocissimo , prezzo qualità eccezionale. Anche le patatine , buonissime ,croccanti fuori e tenere dentro. Abbiamo ordinato  un\n5 napkins hamburger chiedendolo senza formaggio . Carne succosa , cotta a puntino (super buono) ed un avocado burger (purtroppo per colpa nostra ) sbagliando in questo caso l’ordinazione , perché nel menu era chiaramente indicato negli ingredienti pepper jack , che avevamo inteso come un  tipo dì peperoni o salame mentre in realtà è un formaggio al pepe. Facendo notare che non volevamo il formaggio nel panino per intolleranza al lattosio, il cameriere è stato gentilissimo e ha chiesto alla cucina di riprepararlo senza nessun addebito in conto. In Italia chissà se sarebbe andata così. Da ritornare assolutamente"
+        },
+        {
+            "date": "4달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205bmMwTk9OekZCY0dOV01sbE5WbXBCUW1KS2FXYxAB",
+            "text": "È uno dei panini piú buoni di tutta new york. Siamo andati ad ora di pranzo, non c’era molta affluenza e ci siamo subito accomodati. Il personale ci ha subito servito un po di beverage e pochi minuti dopo hanno preso la comanda. I panini sono tutti buonissimi ma qualsiasi panino prendiate, richiedete le loro patatine fritte e i cetriolini vicino al panino, sono qualcosa di spaziale.\nIl conto è stato onesto, circa 70$ + tip per 2 persone."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taTGVHaG1aM0EwUkRoMk5XOVFZVGhTT1ZabU5HYxAB",
+            "text": "The food and drinks were amazing!\nVibe was super chill.\nI had the Avocado Ranch burger at the hostess’ recommendation and it was a slam dunk.\nBest French fries too…perfectly cooked.\nGet the cranberry iced tea…best iced tea I’ve ever had.\nThe service was great and our server Brandon was knowledgeable on the menu.\nAaron was managing/bartending and I blame him for me having to drink the best iced tea ever.\nWill 100% be back again."
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taM00zZHFTMlZGT0dwTGVrRkdNVk5LZVcxb2NtYxAB",
+            "text": "Bel posto in cui mangiare tipico comfort food americano di qualità! Ottimi gli anelli di cipolla fritti e le patate, panini super! Personale garbato e cordiale. Se hai voglia di un buon pasto a Hell’s Kitchen è la scelta ideale!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FNWRqQlpNRUptWHpoTFVteHpWblZsU25WbmRYYxAB",
+            "text": "My go to burger spot in the city! The original 5 napkin burger and onion rings tower are the way to go. They also have great seasonal menu and their watermelon margaritas are awesome!"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJZU92LTcwcTdxcnpBRRAB",
+            "text": "Stopped in at late night happy hour, prices are very fair if you stop in after 9pm. Food came out fast and hot. Service was good but staff was a little over eager to clear, I’d like to eat my pickle before you clear the plates. It’s worth it for a juicy burger. I didn’t love the restaurant layout, everyone’s on top of each other and on display. Other than that great place for a burger and a beer"
+        }
+    ],
+    "reviews_count": 99
+}

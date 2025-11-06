@@ -1,0 +1,558 @@
+{
+    "name": "Albert’s Bar",
+    "place_id": "ChIJTUnFcYpZwokRnDeckKVR3Nw",
+    "grid": "MN6",
+    "address": "140 E 41st St, New York, NY 10017, USA",
+    "rating": 4.5,
+    "user_ratings_total": 414,
+    "phone_number": "(212) 597-9345",
+    "reviews": [
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2padlJqWlRVR1Y0ZWxKSmMxSm1YeTFyUjA5UFFsRRAB",
+            "text": "Enjoyed a couple cocktails here. Great cocktails and music, was disappointed the rooftop was closed. Overall, I would go back."
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kYU5uQTBhM1owUmswNGEzVTNkSFl5YVRVMFYyYxAB",
+            "text": "Sad and pathetic how mediocre NY restaurants think they’re better than they actually are. Albert’s is one of those. Loud, pretentious midtown bros who you couldn’t tell one from the other loudly crowded the place.\n\nThat wasn’t even the worst of it. The food quality has greatly diminished too: the rotten and stinky beer, the $25 burger that couldn’t compete with a Burger King Whopper, and the overpriced salad with chicken that tasted worse than deli chicken. Even worse? I hate when servers hover behind you to see how much tip you leave on that portable card reader. Our server, Lydia, did just that. When she saw we barely left any tip, she shook her head, scoffed, and immediately asked, what could we have done better? When I told her, she fired back a defense for each one. Looking for basic American fare and decent cocktails? Go to The Smith, just a few blocks north, if you’re already in midtown."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkeVUyUk9ha1pVZUVSelNUVlJTVzVzVFhGTWRXYxAB",
+            "text": "Great service, good atmosphere that want to loud but still very busy."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204MFMxQkxXa0p0VFVoNFFVWnZOVFZVUVZZNFoxRRAB",
+            "text": "Spacious but cozy bar with fast bar service and excellent cocktails."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCNlpFTklSbEpTTm01UmIzSmFUM0l6UjJ4dk5uYxAB",
+            "text": "They had a music act just getting ready to play as we entered. Very upscale"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taUVFYTXdNRmxYU2tWNVltcEZkbEpXZERSeFVWRRAB",
+            "text": "Awesome vibes and even better drinks. We were there for pre-dinner drinks on a bachelorette party and Brandon made our experience so special. Highly recommend!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVNFJXSjFSMGMzVTB4Tk9IRjRTbUpxVVRCR1QxRRAB",
+            "text": "Great spot near Grand Central. Not my favorite neighborhood for drinks, but Albert's does nicely."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210ek5qQkdTM2wwVlRJeGMwdGxUVEZQYzFjNE4xRRAB",
+            "text": "Been here twice and enjoyed my time! They had jazz and great drinks. Pricey but it's a cocktail bar. Nice atmosphere and beautiful building."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ONGNrcENjVVJTUTA5NWIyZEdRMDV2Y1hNMlZuYxAB",
+            "text": "Live jazz. Very cool, a smidge too loud."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213eVZHRkRiVTVPU1c4ellUTjBWamRrZGtoMVVGRRAB",
+            "text": "We have hosted multiple birthdays here and cannot say enough good things !! The food, ambience and drinks are absolutely fantastic ! Special shout out to the manager Danny, Alan and Henry for making my husbands birthday so fantastic !! If you’re looking for a good time - Albert’s is the place to be !!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poSVUxTkpkUzFIT0ZkMWJHUm1XR1ZxVVRGa2NXYxAB",
+            "text": "Great option for elevated post-work cocktails in the midtown area. Food is tasty, drinks are delicious. Gets crowded on the first floor, but there are seating options outside (for now) and second level upstairs."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aV016a3RTMnBpUlhGNE9UWnBSMGxUZWxwSGJHYxAB",
+            "text": "Lovely bar with excellent cocktails. The espresso martini is wonderful.\nYou have to make a trip to the loo and admire the tile work."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkcWVrZFFOek01VFhjd2RTMVJOWEV4V0ZCZk1VRRAB",
+            "text": "Stinking attitude on arrival from what seemed to be the manager. Multiple empty booths on arrival but despite asking for one we were refused. Stuck at the back of the bar on a small table. Left before ordering. Will not return due to staff attitudes and have passed our thoughts on to friends and family in New York."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkcE5FUXlZMDFCVlhWbUxYVjVaRVV4VGtaWFJsRRAB",
+            "text": "this might be one of the worst bars I’ve ever been to in nyc. The bartenders are not only rude but served me the worst Hugo spritz of my life. she seemed to have no problem taking men’s orders but seemingly could not hear me or my girl friends. Will never be returning."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoamRDMHRhM2xuVVhORFNuWmFabUY2T0VkeGVXYxAB",
+            "text": "Rudest bartenders. The brunette girl who worked on 10/2 around 6:30 PM was the worst…we tried to ask her where the bathroom was but she just ignored us. We were definitely audible. But when it came to male customers she was nothing but lovely and accommodating. Will not come back."
+        },
+        {
+            "date": "1달 전",
+            "language": "hu",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GQ1RXOW9NR0pEZDJ0MlFWUjVUamRvZFdOaVFsRRAB",
+            "text": "Finom koktélok, hangulatos hely!\nBátran ajánlom!😊"
+        },
+        {
+            "date": "1달 전",
+            "language": "hu",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oeFkyRkdORkV0TmxveVQwZDZSRGt5U25wSVFtYxAB",
+            "text": "Nagyon hangulatos hely, nagyon jó koktélokat szolgálnak fel. Bátran ajánlom ezt a helyet!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CSU0xazRlQzFpZVRWd2MxSmhjMEozUlUxVldYYxAB",
+            "text": "Terrible, horrible service, Got everything wrong."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21veFlqbFRTbGt0TVhOMU4zVmFUVTQxYjFjNVlWRRAB",
+            "text": "Food and drinks always hit. Perfect spot near Grand Central for people who need to catch a train home. Does get very busy so make a reservation if you want a table."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tnNVdqbGxNbXhoYzJobVoxTkxhRlpSU0ZGWGJXYxAB",
+            "text": "Nice bar. Reasonably priced beer.  Lots of space for group, wood, and televisions."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkV1ZYUnFaR2xGYzFBeFlVNXpiWGd3YXpnM2FsRRAB",
+            "text": "Had a great time solo enjoying the atmosphere and the drinks were amazing! The bartender Brandon was so nice and attentive and made the best drinks!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SVE9XVjBOR3hvYURkd1FWTlpjMUpQWW1KRUxYYxAB",
+            "text": "Excellent cocktails"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKUmJtZERWalZIU2xkVlFVSlhNVTVRTXpBMFZYYxAB",
+            "text": "We had an incredible engagement party on the mezzanine level! From start to finish, the service at Albert's was amazing. Highly recommend as a venue for any special events. Thank you everyone for making our night so memorable!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psVldrdDZPV3hDTTNCeVZWbGpSR1pJVkRCVFVFRRAB",
+            "text": "Love visiting here each time I'm in town.  Creative menu, comfortable space, and the team takes pride in their service."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taSFN6TjNTa3RCUldGTU9UZElhMWhaYjBWRFJIYxAB",
+            "text": "In a business trip and found this awesome bar near Grand Central. The bartender, AK, was incredibly friendly, attentive, and knowledgeable. Turned this bar into a new favorite of mine and will be back soon!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WdFgwMUdiVUpCUW1oaFFVNW5SbXN4WHpWdVdrRRAB",
+            "text": "Staff is so lovely and drinks and food are amazing"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkblJ6WjFMVkE1Y3pCMFJGRllVSE4yVWpKUGRIYxAB",
+            "text": "The drinks were not only super tasty but also really cute – definitely IG worthy. Each cocktail had its own little flair, from creative garnishes to fun glassware, and you could tell care went into every detail. Highly recommend grabbing a seat at the bar if you visit!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvMFYyRnFUR1YyVUhocVJucDJNM055Y0ZWc01YYxAB",
+            "text": "Good atmosphere. Abysmal Guinness"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKNmREaHRNVFpxUlVJNGVqZFBNVE5FZW5KaE1rRRAB",
+            "text": "1 star just because I can’t give less. Espresso martini was the wirst I’ve ever tasted. Warm, flat and disgusting. Waitress was really rude and unattentive. Worst bar experience in NY in the last 2 years"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Oa1MyUkNiVTlNY0ZkRmFreEpTMGRqZW1SdFNGRRAB",
+            "text": "Ha. Love the draft.  We had a retirement party there. It was very nice. The space allows good casual group gathering."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GakxVRTVkalIwTmpOMlJIQk5ielJOVFRGQlYwRRAB",
+            "text": "Great place for a drink. The place is huge. Good place to go if you work around grand central and you need a good drink and good food"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ZMFdVbG1Wa1ZhUldOdVRrMTFYMHN0UldaamEwRRAB",
+            "text": "Came in one night while my fiancé was out with her friends, first time in the spot. Was just looking for dinner and a drink to pass the time, but ended up staying around 4 hours. Burger was phenomenal, but it was the cocktails that made me stay.\n\nSpecial thanks to Dandre, Ed, and especially Carly, she knew what she was doing. Every single drink was on point, from the Tea-LC to the Baby Turtle, and I’m for sure coming back for more."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxellsVklTa0pzWTJoa2FWaDZkRGhTT0ZaeWRsRRAB",
+            "text": "Great happy hour bar, and they have the cutest little tiles in the bathroom. Sounds silly, but check them out."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xelpVMXBORzFSU21sTlNGRk9PRWRYUjJ3emVVRRAB",
+            "text": "First of all the bar is beautiful. The food and drinks (I had the spicy pickle martini with blue cheese olives) were great. The service was excellent. All in all a great experience."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCT1ZqSkZjbW80WW1GSGVtdEdNMVJWTlVVME9YYxAB",
+            "text": "Great bar for after work drinks"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGNWREZHhjVUZCVTBoWlJuZ3lWMDVKZEZCMVpVRRAB",
+            "text": "Nicee"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kV1pubFNjWGMwVEVKTmJqUTJRalJhU0cxbmRsRRAB",
+            "text": "I organized and attended a business lunch with 16 guests in the private East Room space.\n\nJennifer, the Event Manager, was excellent to work with and very responsive during the lead-up to our event. She helped worked through a number of small changes and ensured we had a great experience.\n\nThe East Room was a perfect venue for our group - service and food were both excellent, and I would definitely recommend for anyone looking for a private space in the area for up to 24 guests."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wdVoxcEJXakJmWm5CdGNHaHJTRTExVkdSd0xXYxAB",
+            "text": "Took a group of 30 people here for a happy hour. It was beyond our expectations! Sam (our server) was INCREDIBLE, and we were never waiting on drinks. The food was fabulous -- we had everything from the steak skewers to sliders, the spicy (spicy!) tuna wontons, grilled shishitos... all delicious! With such great offerings, it's understandably very crowded, so a little loud if you're inside. For our event, we were on the mezzanine and it turned out great for our group. Will definitely be coming back!"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRZ2ZHRk5nEAE",
+            "text": "😍"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4dmFuUlRZVVZpWjNCNFpuUlFhSFJ1Tkd4MFFVRRAB",
+            "text": "Excellent smash burger with great flavor and tasty sauce. Shoestring fries and spicy cauliflower to start, accompanied by their unique dirty pickle vodka martini. Great combo!"
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21nMmFIQTJibTV3WHpSTVJIb3lVVEkyVjBkM1NrRRAB",
+            "text": "Great atmosphere & drinks. We got the lychee & pickle cocktails - highly recommend!! Their beers are also worth trying ☺️😍"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25JMmQxcHNla2hZTkhKTVVGODVWM1IzV1hSdU0yYxAB",
+            "text": "Excellent Sea Bass…"
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMNS1yUWdnRRAB",
+            "text": "Great service as usual, unlike Peter Dillons..."
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3NDdlUGZREAE",
+            "text": "Fun bar/ casual restaurant to meet friends and grab a bite to eat. Service is excellent and friendly.\nHampton Jitney pickup enroute to Long Island is just outside, and is a nice plus too!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GNGVrSkVWbGhEU1Uxa0xXRmlabmQ1Y0RSd2QyYxAB",
+            "text": "Fantastic drinks. Always a little crowded."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VOZUZtTWZvNTdTdlBnEAE",
+            "text": "Just paid $19 for a wine. When I asked the bartender to confirm she couldn’t keep a straight face. Something tells me it probably wasn’t $19."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKVzBtZjJibXMtX29RRRAB",
+            "text": "Being from the UK it’s an archetypal US Bar, superb atmosphere and food."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOZWJ0SUNKNDREY1JnEAE",
+            "text": "Easily my favorite bar in NYC. Live jazz, fantastic cocktails, friendly staff... What's not to love?!"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwcmZHZ2J3EAE",
+            "text": "Great bar hidden near grand central.\n- very clean\n- very spacious\n- tons of seating (finally)\n- outdoor seating when it's warm\n- great cocktails - loved the pickle martini\n- good prices\n- good beer selection\n\nIt's a humble, clean, and new bar. Worth a visit with friends for drinks!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOdmxsOHJuamZqaGFBEAE",
+            "text": "Such a beautiful spot to cool off with amazing drinks! Carlos is super friendly and can shake a great cocktail!!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvdGJtOHZRRRAB",
+            "text": "Came here after work for a quick drink with a friend and we somehow ended up staying there for about 5 hours.\nGreat food, delicious flavors!\n\nGood draft and canned beer selection. We only did one cocktail and tried the Espresso Martini not our favorite, but the beers were definitely worth it 🍻\n\nOur servers pretty attentive, the crowd was great, music was varied and kept the vibes, bathrooms were clean. Overall great atmosphere and time."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VPampwNE9EOWFfUkVREAE",
+            "text": "I stopped by for a mixed drink and an appetizer and had a great time. The space is perfect for after-work gatherings and company outings, with plenty of room to accommodate large groups and private parties in midtown. It was a fun, welcoming spot to visit between work travels."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJakwtMmdRRRAB",
+            "text": "Grabbed drinks and dinner with a friend at Alberts. The location was perfect since we wanted to meet near Grand Central. I absolutely loved the nostalgic vibes ans the grans bar in the middle. Alberts definitely exceeded my expectations with the two levels, great service and delicious food. I see a lot of reviews for brunch so definitely will be coming back to try it!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZdnBySWd3RRAB",
+            "text": "Absolutely fantastic and a great value. I don’t have a sweet tooth but their French Toast is mind-blowing; $25 bottomless drinks made their stellar mortadella sandwich taste even better. Beautiful space and excellent service."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBcnZYZE5REAE",
+            "text": "Albert’s is an excellent place for brunch! Our server was great, attentive, and quick with our food and drinks.  The menu is not extensive, but it has the essential dishes!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJbFlqZ1lnEAE",
+            "text": "Held my 30th Birthday event at Albert’s and had a great time! They offer different private/semi private event spaces along with different food/drink options. They were very patient with me and all my questions, which I really appreciate! Service was absolutely excellent and they were always there if we needed them! Great vibes in this place and food is always delicious! Highly recommend!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURucnVXT0xnEAE",
+            "text": "The ambience is quite and service is pretty quick.\nWe just had apps here the coconut shrimp was the best. Their spinach and white bean hummus was a unique and tasted pretty good.\nTheir chicken dummies were okay, wasn’t on the palette for me. Good location, give a shot when you are around."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyeVAzdUZBEAE",
+            "text": "We came here as a party of 2 around 4:30pm on a Sunday. We did have a reservation but it wasn't necessary as it was quite empty inside (likely due to our timing). The seating inside includes some bar seating and booths. There is also outdoor seating as well which some patrons enjoyed but it was too hot for us.\n\nWe got seated right away at a booth. We were initially here for just the drinks but got peckish and so ended up ordering some food.\n\nDrinks:\n- Barrel Aged Martinez: SO GOOD. We got it twice! It's a bit alcohol forward but the smokiness balances it great. I also thought it had a great caramel after taste\n- Albert's Gibson: Loved the refreshing Yuzu in this\n- Yellowstone Collins: Super duper refreshing as well\n\nFood:\n- Shoe string fries: Nothing to complain about fries.\n- Albert's Burger: Great burger!\n- Mac n Cheese: Quite a good serving for the price! also delicious\n- Bonus - house made hot sauce: I asked for hot sauce and they gave me this and I thought it was AWESOME.\n\nThe service was GREAT. Super friendly staff and super nice. Explained some things about the menu to us as well.\n\nI would definitely visit again! Perhaps with a larger group as well"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNWM09yUWVBEAE",
+            "text": "Had the best time here on a Friday night! Loved the dimly lit, art deco vibes making it a great date night spot or drinks with friends. Place was buzzing\n\nThe cocktails are a good size and strong! Especially liked the Appletini and tonight at noon drinks\n\nWe shared some apps that were delicious and a great size.. loved the jerk chicken drumstick & Mac n cheese.\n\nWould love to come back after work for a drink!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvMXJtaGt3RRAB",
+            "text": "Never knew this was here but gald we went! Came in the afternoon, decent happy hour. Great vibes and new menu, lots of good options. Service was good, drinks were great, would definitely go back. Shoestring fries > wedges btw. Chicken sandwich, smash burger, everything was good."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMbWF1aUdREAE",
+            "text": "We held our wedding reception at Albert's & they helped make my dream wedding possible! I cannot say enough about the beautiful nature of the space and the staff. This is an absolute midtown gem, and will impress anyone you bring here- family, friends, a date, anyone! You wont find anything else like it. We have been back since our wedding for dinner- you can't keep us away ;)"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VNN1E0Tm03cW8zRzFnRRAB",
+            "text": "I've stopped by here a few times after work, and it's almost always busy during that time. It's a nice bar with the added bonus of outdoor seating. I'd recommend sticking to the martinis or straight spirits. I tried the Antigua Old Fashioned (on tap) and wasn't a fan. That said, the atmosphere here is great, making it a solid spot to unwind."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQeWc3X3J3a1l5aEdREAE",
+            "text": "Great drinks and a great place to hang with coworkers or friends. But make sure you have a reservation - it gets so packed when you try to go here after work without one! I've only gotten in without a reservation on weekdays in the afternoons on days off with family for some lunch.\n\nTruly the most outstanding place about this bar is the fact that all of their food is actually GOOD. It's restaurant-quality food, and not just sloppy bar food thrown together for the sake of there being a food menu. Worth the price point for sure. Get their burger! It's awesome."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURob1lYMjdBRRAB",
+            "text": "Went for grand opening night… this place is such a vibe! Gorgeous bar with high ceilings. Excellent cocktail selection and bar bites served with warm, unpretentious hospitality. Albert’s is just what midtown needs, and I look forward to going back again and again and again :)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5dU4yZjdBRRAB",
+            "text": "Needed a fancy place where a tuxedo and ball gown wouldn't look out of place, but also wouldn't break the bank, to kill time before an afternoon wedding. Albert's hit the spot! Classy place, decor was 1950s jazz themed, and the bathrooms had a hilarious tile pattern (seriously, if you get a drink, visit the bathroom afterward). Wait staff were personable and responsive. We left a 50% tip. Hotel checkout was 11a, and the event was at 3:30p, and they were happy to let us chill on a wintry Sunday."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmM2VDT2dRRRAB",
+            "text": "I thoroughly enjoyed my experience at this hidden gem. The ambiance is calming, and the service is exceptional. Danny, the bartender, was fantastic and attentive to all my needs. You absolutely have to try the mortadella sandwich—it's a standout! This place is definitely worth a visit in this bustling city."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURodTlxbERnEAE",
+            "text": "Beautiful bar with high ceilings, racetrack shape inspired by bars from the 1950s. Excellent cocktail menu with great martinis (loved the salt and pepper, paradise 50/50) and enjoyed a few apps."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VMdjE5YnoxOElHOVF3EAE",
+            "text": "I had heard good things about the burger, so I had it and a cocktail. The burger was quite bland. Tasteless shredded iceberg lettuce, mediocre smash-burger patties, and, most importantly, no tartness to balance out the flavors. The bun was nice. My cocktail was the My Tie. Given its ingredients, I was surprised I did not like it. I don’t know how to describe its flavor other than “not tasty.” I could not finish it.\n\nThe woman I went with had the broccoli sandwich and Curious George. Both of these were better than what I ordered, but she did not finish the sandwich and was still hungry after the meal. I did not enjoy the sips I had of her cocktail either.\n\nA waste of 50 bucks."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNGeFpTMTdRRRAB",
+            "text": "The interior is very nice with vintage vibes. The lycheetini was great and part of the happy hour menu. Shoestring fries were good as well."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMamk1X1dPaWNxZjFnRRAB",
+            "text": "Cocktails are great! Barr staff is on it. Noise level at 5:30 on a weekday is crazy loud and bar stools are at a premium but it’s a big bar so your chances are good.\n\nIf you sit outside, stay away from tables alongside the wall closest to the entrance. Smells nasty along there."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4elBMRVlBEAE",
+            "text": "Albert's Bar is the latest from the team behind The Penrose and The Spaniard. Our server was very attentive in explaining the martini menu for us and giving recommendations based on our preferences. Every drink we had was great, especially the Albert's Gibson, with its hint of onion. For food, we ordered the Forbidden Rice Arancini and Shishito Peppers, which were both fine—nothing to write home about. The drinks are obviously the star of the show. Music and chatter were very loud late at night even though it wasn't crowded (poor sound dampening?), but it's still a gorgeous space with high ceilings and generous space between tables. Overall the vibe is laid back, chic, and welcoming. I would definitely come back."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvcDZDQkZ3EAE",
+            "text": "I don't think you can find a better place in this part of town to host a cocktail reception. We had a pre-event gathering at Albert's with a group of 40 folks and the experience was top notch. Jenn on their events team is incredibly easy to work with on arranging details for your engagement. The on-site staff is also incredible."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvM2E2SjJ3RRAB",
+            "text": "Really cool bar. Prices are high but pretty reasonable for the super central location. Drinks are amazing, and they offer an orange wine, which I really enjoy.\n\nDespite it being quite a fancy bar, they are still showing ESPN, which I like, and the music was awesome. They played the Vaccines and Inhaler, which was really cool.\n\nStaff were so sweet."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKdkw2Z1pnEAE",
+            "text": "This has become our team’s favourite bar! The service was amazing and the drinks were very delicious! Highly recommend the monkfish nuggets, the rest of the food was pretty standard but still delicious. The design of the bar was very classy and the high ceiling was a delight. Highly recommend!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJcjg4T3F2LXRidEl3EAE",
+            "text": "Midtown was in dire need of a great cocktail bar that also serves food - thank goodness for Alberts! Perfect spot for drinks after a meeting/work especially if someone has to run to grand central after.\n\nPlus, the food here isn’t all dainty plates, things you can actually split and enjoy for happy hour. Every time I’m looking for a spot in midtown now, we end up at Albert’s. They also have a sneaky good beer selection for the people that just want a pint after work 😋"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMaW9UNzVnRRAB",
+            "text": "My friends and I was referred to this establishment on Sunday evening - we came to Albert’s and it was an amazing experience..Phenomenal customer service, nice ambiance, great decor including the tile paintings in the bathroom and the wall decor! The food was all freshly made to order, drinks were on point and the desserts was very tasteful - our waiter Allen (I believe his name) handled our table very well - great sense of humor all while remaining professional and accommodating all our requests! We even got to meet the owner for a chit chat as well.\nNonetheless, if you are in NYC, go and visit Albert’s you will not be disappointed - very nice upscale bar/restaurant with great prices! I didn’t post any of the pictures of the inside because it’s worth a visit to get wow’d away in person!! Can’t wait until our next visit to the city because we will be returning to Albert’s!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREanNIcFZnEAE",
+            "text": "I do really love the vibe here. Wonderful addition to the neighborhood. The cocktail program is fantastic, offering very thoughtfully curated cocktails while maintaining the classics.\nThe space is fantastic for events, both large and small."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNbVF3dktoa01TQUVREAE",
+            "text": "Love this place. It’s a chic sports bar with multiple TVs, a healthy amount of space between seats and decent food.\n\nThey don’t always play the sports commentary out loud, but when they do it’s a far better option than the overcrowded, standing room only sports bars."
+        }
+    ],
+    "reviews_count": 78
+}

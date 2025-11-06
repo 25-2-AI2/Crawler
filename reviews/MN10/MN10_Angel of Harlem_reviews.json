@@ -1,0 +1,607 @@
+{
+    "name": "Angel of Harlem",
+    "place_id": "ChIJYSdWchP2wokRg1uEFJMWTQs",
+    "grid": "MN10",
+    "address": "2272 Frederick Douglass Blvd, New York, NY 10027, USA",
+    "rating": 4.3,
+    "user_ratings_total": 2077,
+    "phone_number": "(212) 316-0350",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SYVFUQlJZbG96YURJM1RXeExTMmhpVVRoTGJXYxAB",
+            "text": "I highly recommend this restaurant for Sunday brunch. It was lit!!! The experience was amazing, the music was great and lively and diverse. Absolutely recommend to anyone in Harlem!! Best chicken and waffle!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkVFQzZHFlRjlOTkcxMFkxRnNRMFY0TWtSVVpXYxAB",
+            "text": "Fantastic\nDJ\nVibes"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZMlFtWkxZazlvVUVKcGFYbG5kMnhsTUdKRWJWRRAB",
+            "text": "Great service from the bar team"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwVldsUmFOMHcxVXpOcE5GVTRVWGt6V0RKZlQxRRAB",
+            "text": "Loud and energetic atmosphere. 2 orders of Chicken and Waffles $56 👀\nThen receipt says suggested gratuity of $11.80, then it's added into the bill. Making this meal totally overpriced."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkNlpVMHRlV3R3VVVvM2IwbHVOM1JvVldWa1NYYxAB",
+            "text": "Great good 👌🏾 time and good vibes"
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJaklxWmxnRRAB",
+            "text": "Best Brunch in NYC!!\nBest staff! Unquestionably!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1bk0yMWpXRGxCVURoZk9YbDRWMk5xZVhkMlQzYxAB",
+            "text": "I love Angel of Harlem. Staff attentive and courteous. The food and drinks are everything 😍"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210Vk4yRmpOamxtTUZaRlpHRnhXVmxNYjNJM1JYYxAB",
+            "text": "Brunch is very good. The chicken penne vodka pasta is actually my favorite thing ever. Cocktails are yummy!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KaE4wVTVWRnA1WW5wclRqZG1jR0oxWjIweFJHYxAB",
+            "text": "The hostess and server was extremely pleasant. The music and environment was comfortable and a mature crowd."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoeWJDMTBhM2d6TTFnMWRsVkJiVmcyU21sVlZYYxAB",
+            "text": "Angels of Harlem is definitely a must-visit spot! Old school Thursday night karaoke (which is every other Thursday) is such a vibe—fun, lively, and full of great energy. Another night they host (worth a call to check the schedule) brings a different but equally amazing atmosphere. The overall vibe here is unmatched—good music, good people, and just the right mix of energy and chill.\n\nThe food? Over the top! Everything we tried was flavorful, fresh, and came out beautifully plated. Pair that with the drinks and the music, and you’ve got yourself the perfect night out in Harlem.\n\nIf you’re looking for a place with personality, fun, and flavor—Angels of Harlem is it!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toZldtdzVVbWd3YkRJdFpYVkhOemQ1WkVSWFQxRRAB",
+            "text": "We had a good time!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kWldFcFNSVkZCVWt0VU0ybGFMVnB1YVMxamFVRRAB",
+            "text": "Loved the music and rhe vibe!!\nGoing back soon!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GWVUycDBSa05KUmpsZmVEVjNaMHBmYTBoUldYYxAB",
+            "text": "Skip the chicken and waffles. Waffles are very sweet and the chicken was very mid. The drinks we had (margaritas) were good and the atmosphere is great if you’re looking for good music and vibes.  I would eat somewhere else and then come here for drinks and vibes."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NM1lXZGtYM2cyUWpOeWVVTTVlVXd0ZUdSSmEwRRAB",
+            "text": "I enjoyed myself...haven't been out in a while..💫"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURROHJQZ0NBEAE",
+            "text": "Brunch on the weekends is fun. This is the 3rdtime I've visited.  Staff and bartenders have always provided great service. Reservations for brunch are highly recommended. Live in-house DJ plays great music. Drinks are strong. Food is tasty and hot.  Price-point is reasonable."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzMFpFNWpNRzVCUld4MlZVcHRiREprWldoclJtYxAB",
+            "text": "Fun and busy vibe alot of fun and they kept the drinks going. Had so much fun."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pVNVdVcEliRmxuTldwYVNtNTBVR2Q2V1RRMVJXYxAB",
+            "text": "Service, vibes, and food 10/10"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ocVdYTlRlVWhNU1RoaU9VazJVV294VUZVdFozYxAB",
+            "text": "Live in E Harlem and this place is 100% worth the trip cross town, uptown, wherever you’re coming from. Here for brunch and the food was top notch. It’s hard to speak about the food first because the service and atmosphere trumped the food even though it was quite delicious. All the staff very visually cares about their job and puts passion into what they do. The DJ was outstanding and me and my friends will 100% be back."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKRFdqY3paMW8zTUU5eWNHVk1Xamx4Y1hOUGMxRRAB",
+            "text": "It is definitely a vibe. The short ribs of beef were buussiiinnnn."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1WmNIZGZkMUJXUzJwRWNUbFVValJTV2xFdFYwRRAB",
+            "text": "Shrimp and grits are amazing"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CaVNXdFhRMDVHVEc5S1gxVTFiekZDZFhaRGFVRRAB",
+            "text": "The food amazing. Seriously amazing. The vibes are great and great music. The server was nice. Every beer my partner asked for was out. No worries finally got the Good Angel IPA. Then it was time to leave. Fear lawd. We are talking over 10 minutes to even ask for the check even though we had our plates cleared and no further drinks ordered. And then we asked for the check and they said sure coming right out. Took forever to bring the check. And WTH “suggested” gratuity of 20% but they charged it anyway. BS. Work for your tip. And don’t say suggested if you are going to charge it anyway. And honestly this is a low level casual place. Let’s be real. You show up and do good work you are gonna get tipped. This place the service was basic nothing special and not worth a 20% tip"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toNlEyMVBSR3h5TkY5NmRIWTFUamt6VWpGd1NtYxAB",
+            "text": "Great vibes"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWS1FWSkVRbFZYUkdkTGNGcFRPVkJzZEd4Sk1YYxAB",
+            "text": "Good for brunch"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2podWNURXpVakZTWW0xa2JWUmFMVzg0TldKRVJFRRAB",
+            "text": "I went for brunch with my fiancé this past weekend. He ordered chicken and waffles, which he really enjoyed. I ordered shrimp and grits with cheese. I have went to several brunch spots, where you receive pitcher’s of mimosas or sangria. We were charged $35 each person for unlimited drinks. Individual drinks were served not pitcher sized.\nOur bill didn’t have a gratuity option, they have a set percentage of 26% which is outrageous if you don’t wish to tip that amount. We paid $172 for 2 entrees and 3 drinks a piece. That was outrageous and I would never go back."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkNVZ6WjFjbDlEUnpZM1dFbHJOWFZ0TWw5emRFRRAB",
+            "text": "Weekend crowd with good music and fast service. Menu seems to limited for brunch but still good"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKVWNFbFNUM2hXYVVodGNHMUpiVXhwTWs4eGRGRRAB",
+            "text": "Great food. Great drinks. Fabulous atmosphere."
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpOWJpb29RRRAB",
+            "text": "This is my all time favorite brunch spot when I visit New York. My return home is always delayed because of it lol. Minus that one time the DJ blasted RKelly the week he got cancelled, I love it here. Don’t remember the food as much as I remember the drinks and experience."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGS1NVcG5RM2xoVHpZd1VFcG5TbXBzTFRrMFIwRRAB",
+            "text": "Food not all that good ribs are fatty\nDon’t know how to cook steak and flies in the water. I was over IT"
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psRFRVbHJVWGt3TURkMloySnNNelpPYjJkNVoyYxAB",
+            "text": "Food is average but place is nice looking and the DJ was good. I went on a Saturday and the vibes were dead so ymmv. There was a 20% auto gratuity that was not listed anywhere so I did make a complaint to the department for consumer protection. It must be posted to have auto gratuity. I’m also going to dispute with my bank. My drink was also average. If you’re looking for average food with vibes this may be the place to be. Probably better for Sunday brunch. Definitely not worth traveling for."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSeU1saGxielV0TWtKMVpuZDVjRkZGYVVzMFYyYxAB",
+            "text": "A great time!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2trMFQxcHVWbmt6WVRsRlR6RXhjalJqUTNaSlZHYxAB",
+            "text": "So I celebrated by birthday with ten of my friends and Bernardo \"Gallo\" was out waiter and he was absolutely amazing. He knew what we needed before we needed it. Our drinks were never empty,  our pitchers would be halfway and he would take them to fill it up.  He does it all with a smile on his face and amazing energy.  The food was also great no one had any complaints, the karaoke energy was fun and the hosts were very engaging. Great time id highly recommend and I'd go again!!!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214WWRsbFBkVzFvY3pneVFXTllXVEEyZVVKS05rRRAB",
+            "text": "It was a nice spot with a great vibe. I didn't have any food but the drinks were very good!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGamFrbHBYMngwT1ZCNGJWVlRSbTVTU0dKSlUyYxAB",
+            "text": "I literally got the best service ever at this spot for brunch! Our waiter was attentive and incredible…it’s as if he could read our minds.\n\nThis place is a party. Come ready to sing, dance, and eat up. Brunch was delicious. The guava bbq wings will forever be in my memory. Shrimp and grits on point! The drinks were flowing and the conga line took the party to the streets.\n\nYou’ll have a blast!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21abGJXUndWa2w1WVc1TmRFbEVTemxvTkV4U04zYxAB",
+            "text": "It was sooo FUNNNNN."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWUU1rOW9ObXMwWjNSZmJIVXpTbXAxYUcxV1VYYxAB",
+            "text": "Went here for after work drinks on a Wednesday evening. Atmosphere was definitely a nice vibe and the music was terrific. They can use more than 2 bartenders because it gets busy. Will return to try the food."
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOdXptdkR0dFp2UWRBEAE",
+            "text": "Great experience nice atmosphere to unwind. Went for a fundraiser; which by the way was awesome."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKdTNzdlA3all6bVN3EAE",
+            "text": "Best brunch experience ever!!! Can't wait to go back"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMV2x5clRNclphUzRnRRAB",
+            "text": "The music was amazing. The DJ was doing his job well. However, the music was so loud I could barely hear myself and others talk."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJU1A3NmlZOVBqaE9BEAE",
+            "text": "best brunch ever"
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VOSGJuLUtWN2NEZmN3EAE",
+            "text": "Food was great but one of the worst servers I’ve ever had in my life. Terrible attitude and condescending. Also charged auto-gratuity on a 3-top table."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNakt5TDMwdjh6d21nRRAB",
+            "text": "ABSOLUTELY AMAZING!!!"
+        },
+        {
+            "date": "5달 전",
+            "language": "pt",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJcjV6T09sbk9ud05BEAE",
+            "text": "Wow! Que Lugar maravilhoso! Encontramos na pesquisa e foi uma das melhores supresas de NY na última viagem! Comida divina, ambiente descontraído e muito animado e atendimento excelente! Recomendo com certeza para ter uma experiência inesquecível!"
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzNmFyc1F3EAE",
+            "text": "I think Angels is an amazing local spot the steak is perfectly made and the beef ribs are amazing and the atmosphere is great.  I’m glad they cleaned up the hostess situation, the last one was pretty disrespectful."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOeTAxc0N5azRybldREAE",
+            "text": "Went here with my mom for her birthday! The food was great, the music and service were phenomenal, and the drinks did their job. Will definitely be back!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VPbkJrOWlraVlueWlBRRAB",
+            "text": "After waiting 30 minutes at the bar for a booth and reservations were made prior. We were asked by the hostess to leave the table and Go back at the bar so that they could seat the next set of people. Rushed!!! Food was excellent and drinks as well."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvaTdxVDVBRRAB",
+            "text": "This place is a whole vibe. With 90s/2000s music filling the air, everyone is dancing, celebrating, and soaking in the good energy. The food and drinks are on point.\nEverything hits the spot- it’s a queer-friendly gem, making it a perfect place to enjoy yourself and feel at home."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvNF9yZ0xBEAE",
+            "text": "Brunch is affordable, and It's definitely a great place if you're looking to celebrate, especially if you want an amazing vibe, with a fantastic Dj that plays all the hits from all genres."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvMnFEYlVnEAE",
+            "text": "Food, service , entertainment are all wonderful. I gave it 4 out of 5 because there pretty pricey with the food and especially drinks"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvaXBINzhBRRAB",
+            "text": "My Favorite Place!!!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvcUxmWjBRRRAB",
+            "text": "I celebrated my daughters 16th birthday there with 20 guest.\nThe service was great!\nThe atmosphere was great!\nOur servers (we had two) were great!\nThe DJ was great!\nThe food was great!\nThe drinks were great!\nAngel of Harlem all the best to you and I wish you longevity for your establishment.\nThank you for making my daughters day special. We had a blast and we will absolutely be returning :)"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQNDZ5YmNREAE",
+            "text": "I loved the vibes here. The music is old-school good vibes with a tad bit of newer r&b. Folks were dancing in their seats having a grand time. The wait was 30 minutes for a table of two, but the food was worth it. I'll definitely be back... hopefully at a discount considering I charge for reviews but couldn't resist showing love this this wonderful establishment"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfOWVPNkd3EAE",
+            "text": "This place was soooooooo much fun. We came today for a birthday brunch with a large group of 17 people and they did not disappoint. I couldn’t wait to come and write this review because I was so impressed with the staff here.\n\nDespite us having a really large group and the place being packed to capacity, we were treated with so much care. Our waitress was on top of everything, so accommodating and kept everyone’s drinks filled.\n\nFood here was pretty good and the prices are beyond reasonable for NYC standards.\n\nThis place has a DJ on the weekends and it’s very much a turn up party vibe in here. Please don’t come if you are looking for a nice quiet restaurant. It gets very lit. If you aren’t looking for that vibe you will be annoyed quickly. If you want to let loose and vibe out while enjoying a great meal and good drinks- then this is the spot for you."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUalk2NjZ3RRAB",
+            "text": "Very very good food! Best chicken n waffle I've had in a long time! Just FYI- they charge you $14 for the sparkler on your dessert if it's your birthday. I've never had this happen. Disappointing. Otherwise. 5 stars!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3OWFpSUZBEAE",
+            "text": "This place has one of the best brunch parties & variety of djs. Such a hype spot! The food is pretty basic but not terrible. The service was pretty great considering that there was a party happening at the same time.\n\nI wish there was more space for dancing. But there is ample space at the bar for you to grab a seat. The watermelon froze is lovely & refreshing."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnOGZiTE5nEAE",
+            "text": "I came here for a surprise celebration with a group of 10, and the atmosphere was amazing - the music had everyone in the restaurant singing and vibing, which made the experience even more fun.\n\nOverall, the food was okay, it could use some extra flavor, but it wasn’t bad for the price point in NYC. The drinks didn’t disappoint. If you’re looking for a spot with good food, drinks, and a lively vibe, I’d recommend checking this place out."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYaFlmSEp3EAE",
+            "text": "Angel of Harlem was a nice brunch vibe on a Sunday. We were able to quickly get a table outside. Drinks were right on point. I ordered a mango passion fruit frozen daiquiri and shrimp and grits & my friend ordered the French toast. The shrimp & grits although a tad oily were good. The shrimp were large and flavorful and the grits the perfect consistency."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6bmVpVTV3RRAB",
+            "text": "Angel of Harlem has a unique concept that combines good music, delicious food, a beautiful atmosphere, and excellent customer service. All in one place emerged in a great experience.\nThis is a must go place in Harlem. Especially for brunch. I highly recommend it!\nMy favorites on the menu are: shrimps and grids, calamaries, and nachos. And on the drink menu is the spicy margarita 🍹 😋\nI'm definitely coming back for more..."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtcDgzcE1REAE",
+            "text": "This place was really cute. We got there early when it opened to make sure that we had a spot, they would not seat us until everyone was there. If you don't have a reservation, I would get there by noon because it got crowded really quick. DJ came on about 12:30pm and the place was definitely full by then. The food was pretty good and the drinks were 😋, especially the rum punch. Waiters were very nice and worked really hard getting to everyone, I really think there were maybe only 3 or 4."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIOWI3RVpBEAE",
+            "text": "The food had a beautiful presentation.  The beef patty was great, and the crusted salmon was a little oily but not disappointing. The braised beef was very tender but had a weird sweet sauce that got in the way of making it an enjoyable meal. I usually tip 20%, but the restaurant adding a 20% tip automatically to the bill for two people seemed a little presumptuous. Maybe that was on the menu in fine print, and I missed it."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREeGNXM2tRRRAB",
+            "text": "We had the sliders, beef patty and braised BBQ beef ribs with mashed potatoes and salad. The food was tasty with lots of flavor.\nService was okay.  The host at the front was rude but someone else jumped in and was more welcoming and pleasant. A 20% tip was also added to the bill at the end.\nIn terms of atmosphere- the visit was about 8:00 pm and the music was quite loud. I could not hear myself"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtM2RhaVhnEAE",
+            "text": "The dining experience was great. The ambiance was on point. The food was delicious and the servers were great! For restaurant week I enjoyed the pecan crusted salmon with mashed potatoes and spinach, a brownie (no a la mode at my request), and a glass of Pinot Grigio."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHcU5mbTV3RRAB",
+            "text": "Loved all dishes our table had. Shrimp and grits being the best! The plantain hash was way more than I expected.. and I would totally reorder the kale salad. The rum punch is refreshingly good, and worth doing the bottomless option. But continue to keep your eye 👁️ on the waiter when the crowd grows.. to get your refills. Service started out a little rocky, but definitely got better once we were seated. Loved the brunch crowd and music vibes. Will definitely be back!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIX3MzUGFBEAE",
+            "text": "Love love loved my experience at Angel of Harlem. The ambiance is such a cool vibe. Hip but not trendy and niche cause they've been around for a while. The music is always good, but on this Sunday night there was a dj on the ones and twos.  Mix of old-school and new school trends. Great location on the corner of FDB and 122.  Outdoor and indoor seating. Now for the food , hot fresh and delicious. I ate the Guava BBQ wings that came with thinly sliced plantain chips. Taste better than the chips sold at the bodega. The side of spinach was seasoned well and had a slight kick from chillies pepper flakes. Yummy. Wings were cooed all the way through and the sauce is bomb. My mate got a side of Mac and cheese and the lemon butter garlic chicken entree.  That Mac and cheese was so gooey and moist.  The cheese is stringy and hot. 5 stars for that. His entree came with mashed potatoes and spinach. They didn't skimp on the meal size either. Must go, stop reading and GO!\nAnd follow me so I can continue to gi e you the tea on the eats."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNULU5LbFV3EAE",
+            "text": "The bbq braised beef ribs and the penne alla vodka was delicious. The service was good and I loved the atmosphere. My only complaints were my ribs weren’t hot and the music was a tad bit too loud. But overall this place is a vibe with good food."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLZ0tDZkZREAE",
+            "text": "We had a really good time. This was actually our third time visiting this establishment and wanted to bring some friends with us.\nOur first visit was in January 2019, whereas we stumbled upon this place by accident.\nHere's part of the story.\nWe attended an All Black party on a Saturday night at The Flatiron Hotel in Manhattan, where we stayed overnight. The following morning, we decided to have Breakfast/Brunch at Melba's up the street in Harlem.\nWalking back to the subway, we had stopped at the corner of where Angel of Harlem is located waiting for traffic to pass. Then we heard music, sounds of people having a good time and the windows were rattling from the beat. So we decided to go inside and check this place out. The place was packed. The wait staff was friendly and escorted us to the bar until a table became available, which was over near the DJ. Folks seated in the U-shaped tables invited us to sit with them for the time being. We ended up ordering food and drinks and ended dancing with everyone seated from the DJ booth to the end of the bar, or should I say the whole right side of the building.\nNeedless to say, we walked into the Angel of Harlem at 11am, on a Sunday, and did not leave until well after 5pm that afternoon and had an absolute blast."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNTa3NuRWZ3EAE",
+            "text": "Went for dinner with a  friend (about a month ago).  When you enter the restaurant you get your temperature check as well as someone in your party leaving their contact information in case you need to be contacted at a later time. The…"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBdnFQRGp3RRAB",
+            "text": "Update 2022: I enjoyed my meal, food was good and service was great.  The only con is that we were given outdoor seating in a hot summer day. The  ceiling is translucid and the sun was shinning above us. No windows, so there is no air flow. It was very hot and steamy, hotter than the streer; it felt like a greenhouse. They should add some fans to cool it off a little bit."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNZeU9fQXJ3RRAB",
+            "text": "Went here to celebrate my niece's birthday. Cute little place. Friendly atmosphere as well as staff. It was a long wait to be seated without reservations tho. But once we was waitress was right at our table. We got our drinks. Then order…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNobE82Nmp3RRAB",
+            "text": "Started off kind of slow because we couldn’t be seated due to party  guest not wanting to leave. Staff was very accommodating. Gave us all complementary drink while we wait. Service was exceptional. Food was delicious music was good. Vibe was great people of all ages. Good manager, and Ricardo were absolutely phenomenal very accommodating 10 thumbs up"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBbTR5Tm1nRRAB",
+            "text": "Lively atmosphere! If your looking for a quiet place for evening dinner, go elsewhere. Live DJ makes it a little noisy when trying to have a conversation, and you can hear other conversations around you. The DJ was good though. Drinks were…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXczVldXdnRRAB",
+            "text": "1st time Brunch experience celebrating a birthday it was so much fun. The cocktails were excellent i didn't do the bottomless drinks as others did but my Mezcal Mules were on point. The did a great job keeping the glasses filled for those that had the bottomless drinks. Everyone enjoyed their food, the service was great and the DJ played the throwback hits. I will be back for sure!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1aHRiRmRBEAE",
+            "text": "Very good but bland. I'll explain why. We had two set menus, one with the steak and one with the chicken curry. The stake was amazing, light searing on the outside, but amazing with rice and salsa. Wow. Then my chicken curry looked as tho the chicken wasn't cooked at the moment and the overall taste was bland, nothing flavoursome. Then my mezcal cocktail had chilli flakes that fell from the rim but the frozen margarita was nice. Desserts were served straight after the mains without checking with us first. Nice touch from the bar with a pineapple tequila. Great vibes with a DJ and locals."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwdWJEWXV3RRAB",
+            "text": "The chicken Pattie’s with the sauce they gave you were so freaking delicious. We should’ve ordered more. The tacos where good too just a bit dry and the Mac and cheese was a little watery and didn’t really have much flavor but overall it was good. Now the drinks… we’re strong af 😅 but still delicious. They had indoor and outdoor seating which was nice after a long day at the beach. Would definitely go to try more food."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlLU16ZlB3EAE",
+            "text": "This place didnt disappoint. This place was amazing. The DJ was playing that good music. The servers were excellent. The food was delicious. We didnt wait for our food long. Best Experience in Harlem for Brunch."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR3LS1tVm53RRAB",
+            "text": "Enjoyed brunch on Sunday. Good music, great atmosphere, and good music.  The bartenders are friendly and fast! Highly recommend getting there before noon! Reserve a table in advance if you're planning to attend brunch. Unlimited brunch beverages for is extra $25 with an entree. I ordered a whisky Pina colada, delicious, and French kiss yummo.\n\n10/6/24\nThe music was good and decent crowd. R& B karaoke during brunch hours. The host was great and the dj played the hits. My man ordered the D’ussé colada and he said it was mixed very well. I had Mezcal mule omg it was delicious so I had to get two !! If you like Mezcal I highly recommend trying Mezcal Mule.  The chicken and waffles were enjoyable and the chicken was crispy and waffles were flavorful.  I Will return but I highly recommend reservations on weekends."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1cFBIaVdBEAE",
+            "text": "I've been wanting to visit for some time.  Today was an impromptu walk in. Brunch was being offered.  Food was flavorful and delicious.  The DJ created a throwback vibe with the early 2000's R&B music.  Our waiter Benndito was superb.  Definitely will visit again to check the after work energy."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMya3NqUXVRRRAB",
+            "text": "This place was so so so much fun, I truly loved it! This place is perfect for people from 25 to 45. They play 90s music with a little new school and even some Spanish. The food was absolutely amazing, I had the best mac and cheese and fried calamari ever. The happy hr drinks had very light alcohol but were very tasty.\nYou can find my full video review on my utube channel A_TalkReview and also find other fun things to do in the city.\nIn all I 100% recommend this place for a fun time in NYC and good food."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwb2Nla0lREAE",
+            "text": "First off, TRUFFLE FRIES. Order them as soon as you sit down. I love sweet potato fries and truffle. So this is an automatic hit. The shrimp and grits were outstanding. They truly did great job. The bottomless sangria was the business. The DJ is great as well. Not tooooo loud like other places. Angel of Harlem is a great experience but they do have a time limit for the tables."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKMzlUNHNBRRAB",
+            "text": "Always have such an amazing time. Vibes are great, music is on point, food is A1, drinks were lovely & staff is extremely attentive. I went on a night Cynthia was bartending and she was just amazing. Made me guests & I very comfortable talking with her.\n\nI wrote my initial reviews above about 8 months ago and have returned quite a few times since. Most recently I visited with a friend for his birthday, and my server was completely inattentive to our table, forgot to put in our drink orders and we didn’t get our drinks until we were almost done with the meal. I spoke with the manager asking if we could get two shots to accommodate my guests and I. He agreed and apologized for the mishap. But unfortunately, when we drank the shots, they were completely and noticeably watered down.\n🤦🏾‍♀️ I am highly disappointed & will not be returning."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwMTd2VWp3RRAB",
+            "text": "Came here for anniversary brunch Amazing  food and service. Everything was delicious!!! The music was a little too loud but definitely my favorite brunch spot in Harlem."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN0czRyc2d3RRAB",
+            "text": "What a great night with good food and awesome drinks. Our server was attentive, sweet and our photographer. Lol. The DJ was rocking as well. Nice vibe.\nWe all enjoyed our food! I can't wait to go back.\nThe short ribs were just sensational"
+        },
+        {
+            "date": "수정일: 6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZcTR2T2pnRRAB",
+            "text": "Great spot and location is close to subway. The music and drinks were GREAT and the food was just ok. The music tends to be loud because there is a DJ on site but you have the option of sitting outside. Overall, nice spot I will definitely return."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPOUwtTGtnRRAB",
+            "text": "We took the train on Father's Day to this restaurant that my girlfriend's sister there's  Sun recommended and they are from Mexico... Well let me tell you it was not hard to find find it was a lovely corner restaurant we ate outside.. Her waiter was fun friendly and comical... Most of all are food with excellent excellent we shared a variety of plates from chicken wings which weren't appetizers but served with mashed potatoes and a salad which really made it great for share.. The lobster ravioli was excellent one of the best I've ever had everything was so great warm and friendly I was primly I will be showing pictures... But most of all let me recommend the brownie Alamo was  Astonishing a lovely cake type brownie with ice cream and drizzle with a raspberry Topping... Well even though I didn't order but wanted to the steak and eggs looked excellent what a lovely piece of steak not that chopped up minute state did a lot of places  Sir.... Although friends have returned home I think I will still make a trip when I travel to New York it was a nice and friendly atmosphere..."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNVaElxemRnEAE",
+            "text": "This place was amazing. I  really enjoyed my time here . I read about this place in the subway newspaper. I was planning a birthday brunch for a coworker so we were a party of 4. You really need a reservation for weekends this place is…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLZ1B5dkl3EAE",
+            "text": "Loved this spot! The food was delish and the service was great. Everyone was nice and the music was a prefect mix of what I like. The drinks were yummy as well!! I'll definitely be back!"
+        }
+    ],
+    "reviews_count": 85
+}

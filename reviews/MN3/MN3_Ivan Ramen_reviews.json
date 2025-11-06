@@ -1,0 +1,558 @@
+{
+    "name": "Ivan Ramen",
+    "place_id": "ChIJreEXi4FZwokR_ygs7wh2fTk",
+    "grid": "MN3",
+    "address": "25 Clinton St, New York, NY 10002, USA",
+    "rating": 4.7,
+    "user_ratings_total": 7771,
+    "phone_number": "(646) 678-3859",
+    "reviews": [
+        {
+            "date": "2시간 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsUlZVTldOSFYwZGtoUmNXaFZhMW93UjNoNU0wRRAB",
+            "text": "Good overall! Good food and nice server. It was a little loud (though it was a Saturday night) and tables are packed in tight."
+        },
+        {
+            "date": "4시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoZmJHRkZORWhoYzA5TVkzaE1UMVZYWTFWSlRIYxAB",
+            "text": "Very delicious ramen! And the waiters are amazing too. Highly recommend!"
+        },
+        {
+            "date": "4시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkNFEydDFSelZJTUUxVVFUQjVTVlpFTFd3dFRWRRAB",
+            "text": "Service is always such a pleasure! Cheers to Johnathan! Vegan shoyu was delicious"
+        },
+        {
+            "date": "8시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzMGFtTnphbUpHV205cFJVVnhhMHd6YlZNdGJVRRAB",
+            "text": "Fast & Great Service to go"
+        },
+        {
+            "date": "8시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkMVoyeEhYMDR3VjNsSFF6bEtkbU5aWDJNeUxYYxAB",
+            "text": "Love this place- best ramen place in the city"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201TVMycEZVV0ZhU21kZlNtbE5Zbk5uT0V4TlgxRRAB",
+            "text": "Every dish was excellent"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaU1RESXhkRGN5UlhCMk9WUnZSVGh4WjI4eWJuYxAB",
+            "text": "Very noisy. Can barely talk to each there.\nSuper salty good."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkblgwbGZUMk4yVFZkcExXNW9aVU4xWTA5bVVYYxAB",
+            "text": "Very good"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxblJrVnJXazlNYWpJNVMxZFdhMm8wUVRkMU4yYxAB",
+            "text": "Amazing ramen and buns and cool atmosphere"
+        },
+        {
+            "date": "수정일: 2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBcnBtbmFBEAE",
+            "text": "Absolutely love it here. Best place to get ramen in the city"
+        },
+        {
+            "date": "수정일: 2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJOGV1M0ZnEAE",
+            "text": "We love Ivan's Ramen, but we were wondering why the cauliflower appetizer was taken away from the menu, which was one of our favorites!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvd1h5MUhhRWhWTmtaU1ZEWk1ObWxFY21wdU0yYxAB",
+            "text": "Attentive service and very fast 💚…"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxWVdsODVZM1ZrZFhsT09EVlZiMXBPWjNGYVEzYxAB",
+            "text": "Definitely will be back! Great experience"
+        },
+        {
+            "date": "3일 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oNlRrbHJkVmxSWlZWcWVGaEphak5sVFUxSWMzYxAB",
+            "text": "Davvero un bel locale, con una atmosfera vivace arredato con gusto, ramen strepitoso e servizio molto cortese. Assolutamente da provare."
+        },
+        {
+            "date": "3일 전",
+            "language": "pt",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4NFZsVlZMVE5LVlU1R1ZVRnJORTlwWXpBMGVuYxAB",
+            "text": "Excelente !!"
+        },
+        {
+            "date": "수정일: 3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvczlTM21nRRAB",
+            "text": "Awesome place. Hope they bring the curryflower again to the menu."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paUmRHSXplamREY0VSaVZFdHJObWQwUTB0c09FRRAB",
+            "text": "this place is insane just go in and have a chicken paitan with spicy pickled at the bar. you won't regret it"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201bmJtOW5WRTlWZUU0ek9YTmlNM0pLWlVOSVRuYxAB",
+            "text": "A gem of a spot- great food and a fun vibe! Save room for the sweet potato pudding!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0VFVFMXNXUzB0VjNkSFlXUjVSVzFrTkZack5rRRAB",
+            "text": "Great service. Incredible food."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204d1VYWkVVMjVXTVhSVFNWQnNkbGRsUlUwMVNHYxAB",
+            "text": "Jose was an amazing server."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taSmEzaEpaMkZDWDJkM2R5MDJOSFJzYW1aVk5uYxAB",
+            "text": "Chicken piatan for the win!"
+        },
+        {
+            "date": "수정일: 5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOWWVGUjZMVkk1VDNkWE1EVXdNbXBmWldKU09GRRAB",
+            "text": "Had lemon shrimp and crispy eggplant for appetizers - they were sooooo good! Wasn’t impressed by the chicken paitan ramen though.. will come back to try a different ramen!"
+        },
+        {
+            "date": "수정일: 6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvcGQzVW1nRRAB",
+            "text": "Incredible service, perfect meal!"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Sd09WTlJaVXRoUkd4b1JVSXRUWGx5VDJJeU0wRRAB",
+            "text": "We were charged €45 for a “no-show,” even though we had both called and received email confirmation that we would not be charged. We called about six hours before our reservation to ask for two extra seats, and when that wasn’t possible, we confirmed the cancellation. The staff assured us by phone — and later by email — that there would be no fee.\n\nDespite this clear confirmation, the charge was still made. We’ve also emailed twice since then with no response. Very disappointing."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkMFlsRTRXVlJCWHpSMFFqVXRRalZRYzJZMVMzYxAB",
+            "text": "Yummy !!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOSFMzTXRlWGxyYW1KUFVtMVpRV2xDZERrdGJrRRAB",
+            "text": "Super tasty and good service. Will come back again for sure."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OSFgwSnhRWEJWTlhGdWR6Y3dOVE4zTVZZMlUxRRAB",
+            "text": "I was here in 2019 first time and it was the best ramen in NYC. And today I can confirm same. Great quality, we enjoyed it!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205dU1rcHFhbEJGWHpacU1tdDZTVlZsZERZMFZtYxAB",
+            "text": "Ivan Ramen offers a refreshing take on a classic dish. The noodles were firm with a unique flavor, likely from a different flour blend, and stood out from any ramen I’ve had before. The broth also had a creative twist that felt light and clean without losing depth. I had the spicy miso and i think there is mala in there.. the different spice profile is well balanced.It’s a great example of how you can deviate from tradition and still deliver something just as satisfying as the original. Service is good - the staff is very attentive. Restaurant lighting is a little too dim imo."
+        },
+        {
+            "date": "1주 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GMmRqaHpTbTVMUlcxQ01sZHZPRXQyYW10Q1lXYxAB",
+            "text": "Sehr leckeres Ramen."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214T2FEbHRaVFYzZEdodlpESndVM2N3UW1WNWFsRRAB",
+            "text": "Excellent as  always"
+        },
+        {
+            "date": "11달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzN3RHSWRREAE",
+            "text": "Spicy Miso Ramen 맛있다. Spicy라서 좀 맵긴한데 먹을만함. 국물이 좀 걸죽하긴한데 맛있어요."
+        },
+        {
+            "date": "3달 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25RMmFGbE5URUZVYUZaMk1GWjJiMlF4YTNWcWJIYxAB",
+            "text": "리뷰보고 갔다가 실패한곳...\n손님 2-3테이블만있고..전체적으로 짜다\n콜라는 호스로 탄산넣는거여서 맹하다\n걍 잘 모르면 이푸도,이찌란 이런데가는게 평타이상일듯"
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnbV96OUZBEAE",
+            "text": "제일 매운 메뉴 먹음. 진짜 매운편. 먹을만함. 주말 밤에 오면 웨이팅 2시간. 밤에 술집으로 오는듯. 그냥 라멘 땡기면 올 정도"
+        },
+        {
+            "date": "수정일: 5년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNNbnEyUFhBEAE",
+            "text": "외국사람들은 세면을 선호하는지 이곳도세면\n특별한면은 아니에요\n\n치킨과 어류계 더블스프였고 다시향이 강해 거부감이들었지만 드라이토마토는 좋은아이디어였습니다\n\n한번쯤 상상해봤을아이디어를 적용해 완성시켰다는것에 큰박수\n\n시오괜찮았으면 다른 메뉴시켜보려했는데 라멘만 먹고나왔어요"
+        },
+        {
+            "date": "수정일: 5년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNcEtlWTZBRRAB",
+            "text": "뉴욕 유명 라멘집이라 해서 기대했는데 쏘쏘..\n맛은 괜찮지만 특별히 엄청 뛰어난 느낌은 아닙니다\n전체적인 밸런스는 괜찮은거 같았지만 특별한 점은 안느껴졌음"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlXzRPT2h3RRAB",
+            "text": "미국인 입맛에 맞춰서 그런지 저는 좀 별로\n맛은 그냥 무난무난함"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtX2ZQQUVREAE",
+            "text": "일본 라멘 먹어보기 좋습니다. 자리가 좁습니다."
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJa3VPUXhBRRAB",
+            "text": "쉐프가 일본 쉐프의 맛이 제대로임, 오픈시간 전부터 줄서기!"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPX2F5a0VnEAE",
+            "text": "분위기 좋고 서비스도 친절했는데 많이 짜서 조금 아쉬웠어요. 번은 굳이 주문하지 않아도 괜찮고 드신다면 면류 식사만 하시길!"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZbE5yUGtnRRAB",
+            "text": "스파이시는 믿고 거르시고 식전음식도 거르시고"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsblNXMXpMWGhsUzJ4VVkyMUJhMmd5VjBNNFJsRRAB",
+            "text": "This is my third or fourth time here. It’s always a great time, no matter the time of day or week. I came for lunch today and tried their new spicy veggie miso ramen and it’s honestly some of THE BEST ramen I’ve had in the area and city. As a noodle lover I’m always pleased when a place continues to elevate their menu."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSMVIwZFNhMGgwYTI0elZETm5lVTh5UlZSa09HYxAB",
+            "text": "Ivan Ramen (yes, the Chef’s Table legend!) did not disappoint, chicken broth has been simmered for 8 hours, smooth yet silky, soft-boiled egg stirred in for that velvety touch, noodles with a perfect chewy bite. Crispy chicken skin + scallions on top = flavor bomb . And I loved those roasted tomatoes! Skin crackly, tangy-sweet and refreshing—such a genius twist! Will definitely return."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aNk9WTTNNamd6YVZwWWJVUmxPRjg1YVdKR1dWRRAB",
+            "text": "Incredible food. The guys were also really helpful when my friend had certain allergy requirements. Ask for them to suggest the must haves. I loved the signature chicken ramen with noodles. We also had the pastrami buns and eggplant. So so so good."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNeVNYbG1XVVF5V0RSWVFqbExPRUpQVTI5WE5WRRAB",
+            "text": "Amazing ramen! Had the spicy miso one. Very rich broth and the spice blend to the point with a divine garlic touch. Yet it was more of a Mala noodles to me. Noodles were perfectly cooked (a bit thin for my taste tho).\nWill come again for the tonkotsu."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCbFJsQllZVE5yU1ZocE5uQnJWVXN5V0ZOR01GRRAB",
+            "text": "Absolutely exceptional Ramen. The appetizer of the crunchy chicken was really yummy. The Ramen was a whole other level of ramen I’ve never had before. I got the Ramen with the crispy chicken on top. It was out of this world."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oTmVHaE9MVFZTVEVoalpqZDNaa2hEYlMxa1JIYxAB",
+            "text": "Spectacular all around!\nEverything we tried was delicious. The seaweed kimchi was phenomenal, the ramen - out of this world (every single spoonful and every bite was divine), very interesting n/a drinks and the smoothest cheesecake. Very nice staff. We got there at around 3:45 p.m., and it was nearly empty. Food was served very quickly, and it's very convenient that you can pay through the QR code on your table. We were also really surprised by how low the prices were compared to the quality they offer! If we lived closer, I would eat there every day! Can't wait to go back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aWFVsVjZaVnBhTUhkdVpGWXRWbUozYXpBMlVIYxAB",
+            "text": "DELICIOUS!! My friend is a regular and brought me here the chicken paitan was so good that even a week later I remember the taste of the dish. The tuna appetizer and potato salad were good, but the highlight is definitely the ramen. Came in around 8:30pm on a Thursday and sat down immediately."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214Wk1tTlZSRjlyVld4S2RVVlRlVFJ0YUhjM09VRRAB",
+            "text": "Appetisers were amazing, and service too! A bit of a disappointment as my Tokyo Shio ramen was very porky (yes, its a thing) and I wouldn't recommend it. Tonkotsu ramen was good, but nothing to write home about."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toTFNtZFpkVUZtTFhsSGFubzNSbkpCVTFaVWRtYxAB",
+            "text": "After watching Chef Ivan Orkin’s Chef’s Table episode in 2017, I knew I had to try Ivan Ramen—and it did not disappoint. The restaurant is a trendy, welcoming, and casual spot with incredible service. Our waiter was knowledgeable and guided us through one of the most delicious meals I've ever had. Since eating here, I haven't had ramen that even comes close to his.\n\nThis is a must stop spot in NYC!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psWlRrMWxka014YWxSM01GTklkREpJT1VsamRFRRAB",
+            "text": "Been wanting to try this restaurant and it was AMAZING!\nVery welcoming, friendly, casual yet professional/knowledgeable staff. Super tasty food. Vibrant and modern dining area.\nI will be back for more. ❤️👍"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWMGExUXRjMFUwWm1VME4zZHNVV0ZmYjJkc1pYYxAB",
+            "text": "super attentive staff!!\n\nwe got the tonkotsu and jiro tonkotsu ramen and both came in huge portion! the soup was very thick and noodle was just chewy right at the sweet spot. they have a small outside, backyard seating area that is quite nice too (no a/c though)\n\nthere were some cool drinks/desserts on the menu but we were too full to get, will come again next time!"
+        },
+        {
+            "date": "5달 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKV3V3T3lIaXM2cDd3RRAB",
+            "text": "汤头不够顺滑，稍微有些刻意的感觉。味道给的过于直接，缺乏一些日本拉面暧昧的融合感。即便如此在纽约也属于很高的水准！"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZeUlfcjlnRRAB",
+            "text": "(Last visited June 4, 2023.) Hanging out in NYC with some friends and we were on the lower east side this time. We were walking down the street and the incredible umami smell of ramen wafted our noses so we decided on Ivan Ramen! Here's how it went.\n\nAtmosphere/Appearance: This place may look a little small, but there's a lot of space in here in separate compartments. It was SUPER busy so we did have to wait a little bit, but it wasn't too bad. It was nice outside so we actually went IN to the restaurant then out like, a side door to another outdoor section that was so beautifully setup. It was quieter outside (naturally) and just felt nice to eat outdoors, but not be sitting right next to the street.\n\nService: I can't remember who took care of us, but I don't remember having any issues at all.\n\nFood: We started off with their Wagyu Pastrami Buns which is a concoction of house-made pastrami, sauerkraut and japanese-russian dressing. These were delightful! Rich, meaty, creamy and a lil' crunchy due to the sauerkraut. Well-executed. We then tried Ivan's Karaage which is crispy fried chicken, lemon, and choice of sauce: yuzu-kosho mayo, black garlic honey, shiso buttermilk, or yuzu-chili sauce. Of course we went with the yuzu-kosho and this too was delightful! Crispy, crunchy, tender chicken that was rich in flavor! For my ramen/bowl entree I decided on the Triple Pork Triple Garlic which is a less soup-y style of ramen made with a tonkotsu broth, shoyu-braised pork chashu in two ways. My goodness this was off the chain! Hot, tender pork, rich, salty broth and excellent balance with textures. Well-done.\n\nValue: It's New York City. I mean, you know the deal. Each of our appetizers were $14.00 and my ramen was $20.00. Not bad at all to be completely honest. That's extremely reasonable and worth every penny!\n\nIn conclusion, I'd absolutely pull up here again and get these exact things! Of course I'd love to try some other menu items as well! Check this place out if you can get a seat!"
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnazVTSnJBRRAB",
+            "text": "Ivan Ramen is a must-visit for anyone looking to experience ramen like never before! Thanks to a friend for bringing us here and encouraging us to watch the Chef's Table episode featuring Chef Ivan Orkin—a moving story that resonates deeply and is worth watching (grab a tissue and watch before you go!)\n\nWe went on a night when the Blackbird special was going on, and the ramen was half-price through the app. We ran into some issues with the app, but luckily a representative was there to help. Even though we couldn't get the app working correctly, Ivan Ramen still honored the deal. Great service!\n\nIvan Orkin's dedication to creating a unique culinary experience distinctly shines through in the food. The ramen I enjoyed was absolutely the best I've ever had, even compared to my time in Japan. I savored the chicken ramen, enhanced by roasted tomato, and it was nothing short of spectacular.\n\nAccompanying the ramen, we had a delightful serving of the Ivan Karaage, which was beautifully crispy and flavorful—a true highlight of the meal. On our plates but not pictured were the scrumptious miso Caesar salad and a refreshing daikon salad, both of which complemented the meal perfectly.\n\nEverything about our dining experience was exceptional, and I can't recommend Ivan Ramen enough for anyone looking to enjoy an authentic yet innovative take on ramen!\n\nUpdate: had to go back again, added some more photos."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvN2JqVE13EAE",
+            "text": "I can only eat chicken broth-based ramen and their tori paitan is one of the best I could find in the city!! They also topped it with some crunchy chicken skin. We also had sesame noodle with roasted tomato add-on, it was lil spicy, but so good! Also, this place was on Netflix’s Chef’s Table Season 3, years ago. The place is still popular, we came on Friday night and it was packed. Might be better to reserve."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOS2JtaFNja0oxVm0xd1JFWjFiR3BRZWxodlJFRRAB",
+            "text": "Ivan Ramen delivers a bold and unforgettable dining experience that perfectly blends Japanese tradition with New York creativity. From the deeply flavorful Triple Pork Triple Garlic Mazemen to the lighter yet satisfying Tokyo Shoyu Ramen, every dish is crafted with precision, personality, and top-tier ingredients. The noodles are springy and fresh, the broths rich and layered, and the small plates, like the tofu caviar and fried chicken buns, offer playful, delicious surprises. The vibrant, casual atmosphere and genuinely enthusiastic staff create a welcoming vibe that makes the meal even more enjoyable. While it's a bit of a splurge, the quality and inventiveness more than justify the price. Ivan Ramen isn’t just a good ramen shop, it’s a must-visit culinary destination in NYC."
+        },
+        {
+            "date": "1달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxRFVHUlliR2h2VmpaeGMwNWZTRlZDWTFSU2VFRRAB",
+            "text": "Außergewöhnlich!\nDurch Empfehlung sind wir auf Ivan Ramen gekommen. Ein außergewöhnliches Lokal, mit traditionellen und auch sehr kreativen Gerichten. Für die warmen Temperaturen im Sommer war, waren die kalten Sesam Nudeln eine tolle Wahl. Service war sehr sympathisch und hilfsbereit. Definitiv ein Restaurant, dass wir wiederkommen möchten. ."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwSlZtOVZlRWhMV2pKS05FdzJYMWxpWkV4TmVYYxAB",
+            "text": "The ramen is simply amazing. We also had the potato salad (topped with smoked trout roe) and miso ceasar...so good!\n\nThe service was very friendly. The place is packed work tables in a somewhat dark cozy space but clean and comfortable. The vibe here was vibrant.. music a little loud but we could talk"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCdGRWRndOSFpGTjBKV01WaHBWRFZEUW13NU9YYxAB",
+            "text": "Food was excellent. The Mari’s potato salad was a solid starter, simple but tasty. The real standout was the schmaltz-fried gyoza — crispy, rich, and packed with flavor. I liked it so much I ordered an extra to go. The chicken paitan ramen was also great, especially the broth, deep, flavorful, and satisfying."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3aFBhRllBEAE",
+            "text": "My recent lunch at Ivan Ramen was nothing short of extraordinary—probably the best ramen of my life!\n\nWe arrived during lunch hours and were pleased to find it wasn't overcrowded, allowing for a relaxed dining atmosphere. The staff greeted us warmly and took time to explain their signature dishes, demonstrating both knowledge and passion for their menu.\n\nWe started by sharing a pork bao which was absolutely succulent—tender, flavorful, and the perfect appetizer to set the stage for what came next.\n\nFor our main course, we ordered two different ramens: one with chicken broth and one with pork. The chicken ramen was the standout star—just too good! Every spoonful revealed complex flavors that had clearly been developed with care and expertise. The pork ramen was also excellent, showcasing the versatility of the kitchen.\n\nThe restaurant's thoughtful approach to traditional Japanese cuisine with innovative touches makes it a must-visit destination. We've already marked it on our map, and on our next trip to NYC, we will definitely be stopping there again!\n\nIf you're a ramen enthusiast or simply looking for an exceptional dining experience in New York, Ivan Ramen should be at the top of your list.​​​​​​​​​​​​​​​​"
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGeGRqbHpXV1JKV1dkbldVeERZV2RqZWxKcmNFRRAB",
+            "text": "Muy bueno. No fue necesario hacer reservación, el servicio fue muy bueno y atento. Una chica hablaba español y fue súper linda. La comida increíble, excelente sabor, nos sirvieron muy rápido y definitivamente el ramen es buenísimo. Pero cuidado cuando dice “spicy” porque en muy muy muy picoso 🌶️"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwTlZrY3dUa3BJTFVGUmJVWXlTbFp0U1ZSa2RFRRAB",
+            "text": "Ramen as it’s best, pork broth.\n\nModern web based menu, and you can pay bill online as well, very positive about it."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VLT2d3ODJ5cU9QdGJREAE",
+            "text": "Went on a Thursday night for dinner. Food was AMAZING. Two of us got the tonkotsu ramen and the third the vegan ramen. We all loved our dishes. Would highly recommend the spicy garlic chicken appetizer as well as the combo where you can get 3 small bites for $16 - the potato salad was the best I’ve had and the asparagus with the stracciatella changed my life.\n\nHowever, the hostess was rude and unfriendly - told us there was a 45 min wait, when we went back (put our names down), she told us we were next. When a table cleared a few minutes later, she sat down another group that had also been waiting while ignoring us. So, it ended up being about 75 minutes to get seated… And then we didn’t even get a table, but rather the bar/stool seating. That aside, the service (our waiter) was speedy and lovely.\n\nOverall would come back but recommend MAKING A RESERVATION, even for weekdays!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poaVgxUk9MVVJTVFZsQ1ptVmxZbVpqYzFaM1RuYxAB",
+            "text": "Perhaps I was too hyped for this, otherwise this spot may have lost it's original charm. The ramen ... was ramen. Nothing particularly interesting, but nor is there anything to critique. I struggle to understand what makes this \"Ivan\" cuisine. The rye noodles don't add anything to the dish. There was nothing particularly standout with the ramen either. It is a bowl of meat, veggies and noodles in lard soup.\n\nCome here if you want a safe bowl of ramen. The interior is well decorated as well. Loved the wallpaper."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poMk9WbGFVa3hJYm1Fd01XTkhja05ZYUZVMlgyYxAB",
+            "text": "Everything is delicious but the Chicken Paitan was the star of the night. If possible, treat yourself with the pumpkin cheesecake."
+        },
+        {
+            "date": "8달 전",
+            "language": "pt",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnaGFqaVZ3EAE",
+            "text": "O MELHOR RAMEN DE NYC 🍜\nEstivemos hoje no Ivan Ramen e saimos já pensando em voltar! É sem dúvidas uma das melhores comidas que já provamos. Nas fotos coloquei o nome dos pratos, amei todos, especialmente as gyozas, o tonkotsu ramen e o yuzu cheescake, que estava PERFEITO!!! Os ramens foram dicas de um dos atendendes e estavam deliciosos!! Os preços também são bons.\nComo não reservamos mesa ficamos no bar, mas não houve problemas e nem espera (fomos numa terça-feira). A comida sai rápido e é deliciosa. Tanto o menu quanto a conta você acessa por QRcode e pode pagar facilmente pelo celular. Funcionários simpáticos e prestativos! Indico com certeza esse lugar! 🫶🏼"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsS1dIWmlaV2REY0c1c2EwbEZZVFJCWkU4emFFRRAB",
+            "text": "Very friendly service, excellent food!\nThe spicy ramen was delicious and definitely 8/10 spicy but awesome flavor.\n\nThe Gyoza was top 3 Gyoza I have ever had.\n\nHighly recommend!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKQlFYSXlVVGd0T0ZKVVlteDBaSFZUV0c5V2JsRRAB",
+            "text": "Ivan Ramen is a must-visit spot in NYC—whether you’re a meat lover, vegetarian, or vegan, there are options for everyone. The atmosphere is stylish and lively, with great music that sets the tone. The staff is incredibly friendly and attentive, making sure your experience is tailored to your preferences. The food is outstanding—rich, flavorful, and setting a whole new standard for ramen. From now on, whenever I crave truly good ramen, Ivan Ramen is my go-to."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aeFkzUnpWVlZXTFhob01XWklRak10ZEdsb2FIYxAB",
+            "text": "Tonight we had dinner at Ivan Ramen, and it turned out to be a really enjoyable experience. The place isn’t particularly fancy or cozy, but it has a warm and friendly vibe. The layout is narrow and long, which gives it a bit of a New York charm. The decor is simple yet pleasant—nothing extravagant, but tastefully done. The staff were welcoming and made the atmosphere even more comfortable. We started with the eggplant appetizer, which was absolutely delicious and full of flavor. The ramen was outstanding — rich broth, perfectly cooked noodles, and balanced toppings that really stood out. Every bite felt thoughtfully made and satisfying. Even though the space isn’t large or luxurious, the food easily makes up for it. We’ll definitely be coming back soon for another bowl."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBeVlUTkNVMWRJWlRNd01uQXhkSHB5VjJscWQyYxAB",
+            "text": "Incredible as always! Wish they’d keep the daikon on the menu but the eggplant, triple pork triple garlic, and chicken paitan are perfect every time!"
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvc29TZ1BnEAE",
+            "text": "There are a few of these located around the city.   This one serves the LES.   Good food.  Small portions.  Nice staff.   Outdoor seating in the back is available.   Reasonably priced.   Card payments are accepted.   Give this place a try if you’re in the area.   We will definitely be going back.\n\nThank you to the owner for responding. I look forward to trying your other locations.\n\nESJ"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSMk1VNDVOMlJ1UzFaRVNucFJVMUkwY0VVeGJFRRAB",
+            "text": "Excuse my photo of my half eaten meal. I ordered the Tokyo Shio and I quite liked it as the soup was balanced (not overly salty as some places do). Our server was really friendly and nice, even gave us recommendations of his favourite spots in the neighbourhood!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQYXF2NG10bHE2ZURREAE",
+            "text": "We were surprised about how it easy it was to get a table so last minute on a Friday night! Food was great, portions generous and price level very fair!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPcTA3ZnlFbXFuM193RRAB",
+            "text": "Bravo! What a great experience - you can taste the quality, care and love in every bite!\n\nWorth the trip - my wife and I are going back to San Francisco full and happy!\n\nHats off to Chef Orkin and team"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwVlFtb3ROR3RxYm05bGNYbFhkRGxNTm14VmFrRRAB",
+            "text": "Great spot, love that the ramen is actually spicy just wish the cilantro flavor wasn’t as strong and there was more meat on the chashu vs fat but still good ramen overall. Got the spicy miso ramen!"
+        },
+        {
+            "date": "5달 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKT3lpZFR1eXU3MklBEAE",
+            "text": "202505\n平日中午來位子很多 我點了Tokyo shio被叉燒和蕃茄驚艷 我平常不愛吃拉麵叉燒的但他們的煮到入口即化！蕃茄很清爽解膩 店員都很親切 我點完餐去上廁所回來拉麵已經上了 店員還先幫我用盤子蓋著等我坐好再打開"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pad2RWSTNMWGxCYVcxa2VWUTVabTE2UW1SSGNIYxAB",
+            "text": "Shaby neighborhood, low key restaurant. Lots of locals. Fabulous food and atmosphere."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSd1FqWnhOVXR1U0Zsc1J6bHljRTFxTW1ONk9HYxAB",
+            "text": "Ivan Ramen in the Lower East Side was a fantastic choice for dinner. The Cold Sesame Noodles were fresh and delicious, the beer selection was excellent, the laid-back atmosphere made it easy to enjoy, and the service was spot on."
+        }
+    ],
+    "reviews_count": 78
+}

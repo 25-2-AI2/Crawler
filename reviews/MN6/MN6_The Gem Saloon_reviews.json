@@ -1,0 +1,502 @@
+{
+    "name": "The Gem Saloon",
+    "place_id": "ChIJxzEIvQlZwokRkD-Blr-isCo",
+    "grid": "MN6",
+    "address": "375 3rd Ave, New York, NY 10016, USA",
+    "rating": 4.4,
+    "user_ratings_total": 1110,
+    "phone_number": "(646) 612-7757",
+    "reviews": [
+        {
+            "date": "8시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SWVUzZHRXRlZEWlVwYVZsWkthV3RwWmpjNU5tYxAB",
+            "text": "Alin(?) from Virginia was great! Very friendly and fun!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0MVpIaEtOekV5VGpSSlgzWnhPVkZTYjBkbVRrRRAB",
+            "text": "Had a really good lunch here with the most delightful service."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aeVoySklWM2d3WHpSUVVtSndTelZOUVZOWmFVRRAB",
+            "text": "Awesome place drinks are great the dry rub wings are so tasty and the Shrimps their Steak with mash and oh my the sweet potato fries 🍟 😋 the Nachos Awesome"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OalkxcDJibVZuVmtVMmNGVnROMGRmWkhseGEzYxAB",
+            "text": "The Gem Saloon has a nice vibe and solid bar food, but the service was on the slower side. It took a while to get our drinks and food, though everything tasted good once it arrived. The place has a lively atmosphere—great for hanging out if you’re not in a rush."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xZelZqVnpRemhxU0ZNd2QxUkNjRzV6Vms5cldVRRAB",
+            "text": "We watched an NFL game here while in town on vacation. Super cool vibe, great service  and quite literally the best cauliflower wings we’ve ever had. Highly recommend."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GS1JrcHFjVk10Y2tNNE0wRTBUVlJZZUZoWFJHYxAB",
+            "text": "Another good spot for after work happy hour and cocktails.\n\nHad the wings which were excellent ( Buffalo reviewer with lots of wing experience )\n\nWent on. Thursday and it filled up early with lots of people enjoying the place.\n\nPlenty of beers to choose from and I did see some craft cocktails on the menu which I didn’t try."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ObFJHcEdaSEphY0UxZmVWZERaRk5GY0ZWamIyYxAB",
+            "text": "Went to the gem saloon recently and had the amazing server Ellen greeting us! Couldnt recommend any more!!! The best service you could receive, made us feel like a friend and more than welcome! Gave us the best recommendations for food and drink and quick service! If you go to the gem ask for Ellen! You’ll definitely want to come back!! This girl is amazing"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oWlowRk9ZamRrYzBaWFNWQmFZbWd0YXpsd1UxRRAB",
+            "text": "Had a nice lunch outside. Overall great experience"
+        },
+        {
+            "date": "2달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201dVdGaGpjblpvVUd4T2IzVjRZM2QwWjBoS1UyYxAB",
+            "text": "Super bon\nTrès bon service mais un peu d’attente pour la commande\nAmbiance américaine top"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOM09VTm1PVWc1UW05T05YVk5Va1pGWDB4b1NXYxAB",
+            "text": "Great spot"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psTFpIb3hjMjFPUjFrMGVrd3hRbXRzWkhkSGRVRRAB",
+            "text": "Excellent Food and Friendly Service"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkd1NFMW9NM05WZVhSNlVIaFhRbEkwTVhGSk9GRRAB",
+            "text": "Loved this bar because its possible to sit outside and have drinks at happy hour.. But now,  they only let you sit inside.. No happy hour drinks in the outside area.. Sucks :/"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214V1VHWXplbk5HTlVoVlh6Sk5NbWQ2T0V0UVJGRRAB",
+            "text": "Came to the gem because I was walking through the area, didnt expect much initially but Rachel blew me away as soon as I went in. Only Intended to have one drink but I couldn’t leave the place, the drinks, the service and the food was 10/10. Rachel honestly made the night hee personality will keep you there!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wWVNVUnRhMjl0T0VSMFZteHZUVTR3YkVKMlQwRRAB",
+            "text": "Such an amazing experience. Rachel our server was the best, she was so attentive and ensured we were well looked after. She was so fun and we really enjoyed our time here. Would 1 million percent recommend here & ask for Rachel ❤️ she’s amazing!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsd1NIbGFYMDVyTWtKVGFUY3dPSEF5YVdsemQzYxAB",
+            "text": "Such an amazing experience. Rachel was taking care of us and she was the best! She’s the most kind and lovely person ever, made sure we were having a great time! Will be back again and hopefully have Rachel again, she was the best!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paTGFGcDNXamRTTTJ4dmFGQjFRVjlqUlVaaldXYxAB",
+            "text": "One of the best happy hour spots in Kips Bay! $5 for Espresso Martinis on Monday, $5 Aperol Spritz on Tuesdays, $5 margaritas on Wednesdays 👏🏼"
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR5ajVxX2JBEAE",
+            "text": "There is nothing better than a cheeseburger and a beer. As a good friend would say, if a cheeseburger and a beer don't fix it. It's not fixable."
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBeW95U21nRRAB",
+            "text": "Spacious bar and restaurant with a rustic, frontier atmosphere. We enjoyed grilled chicken sandwiches for lunch. Friendly and professional service."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1a2FGRktaM2xwY1U1RVFtSjJURmxXTW1WNFNGRRAB",
+            "text": "We came in unannounced with 15 of my coworkers, and they accommodated us easily! Elizabeth took care of us like a pro — she’s the best! She was making 3, 4, even 5 drinks at a time, effortlessly. Loved it!"
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLaU5LdldBEAE",
+            "text": "Neighborhood restaurant bar with good food and a relaxed atmosphere.   The Watermelon Beet Salad was delicious, and looked good too."
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzMXFhb21nRRAB",
+            "text": "Good solid place for brunch, but oh boy are there patrons so loud late at night"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOUVgwTkVkalpWVEc1TlJIYzNTRFpWY1ZoTUxVRRAB",
+            "text": "Stopped in to the Gem with my buddy from out of state. Was warmly greeted by Lauren and Ellen who were extremely friendly and welcoming. Great to see staff like them these days. Had some great drinks and there was a great atmosphere in the bar. Highly recommend and will return"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VOamg5TUh4dnIzRUxBEAE",
+            "text": "Horrible service"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKZlp0b2lPLXZIUU1REAE",
+            "text": "Came for one beer, left full of nachos, shrimp, and life advice from a bartender. The wings changed my worldview. I think I live here now.\nGreat atmosphere and super friendly staff."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLN1FzY2VBaXRHejd3RRAB",
+            "text": "Nachos are AMAZING"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VNS0w1Sk9uZ3FTZGtBRRAB",
+            "text": "Ordered for pick up for lunch. Stood at the empty bar for at least 5 or 6 minutes while majority of the staff stood around talking at the other end.\n\nFinally picked my steak up and got home to it being almost well done (ordered med rare).\n\nWorse than that the Togo box with fries and green beans had a bunch of water sloshing around in the bottom. Fries literally soaking wet, I’d include a photo but I immediately just threw them away it was disgusting."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKRElnTExjbm9lTDBBRRAB",
+            "text": "Went in for some food and drinks, sat at the bar and was blown away with the service. Rachel was the most amazing person there, was attentive, quick, on point, and drinks were amazing. Spicy margs were the best I had. KEEP HER AROUND!!!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJV05vcVM4cFkyczZ3RRAB",
+            "text": "The two blonde Irish bartenders, Rachel and Emily? (I think that was her name), are so lovely to chat with! Will defo be back"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLWGNpS21XNzZEYXNBRRAB",
+            "text": "Had a great time here.  Food was excellent. Our server was excellent.  We started off with nachos... this were so delicious.  Those didn't last long enough on the plate.  Our brunch food was amazing.  Ambiance was great as well.  This is definitely a place to return to."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQWDNvTHl1bGViOWN3EAE",
+            "text": "Goodness"
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZd3ZXNVpnEAE",
+            "text": "Tienes buenas promociones de happy hour.\nCuando fui estaba muy lleno y es difícil platicar por el ruido. Pero en general fue una muy buena experiencia.\nSi no vas en happy hour, los precios son caros como en casi cualquier lugar de esa zona."
+        },
+        {
+            "date": "6달 전",
+            "language": "ja",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZcUlYRlZREAE",
+            "text": "ハンバーガー美味しいし、ハッピーアワーのビールも安くて美味しい。\nポテトも食べすぎてしまうくらいら食べた。\n雰囲気もよく、また来たいお店。"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvbUxtQVZREAE",
+            "text": "Loved the service and food here! I recommend the steak and eggs breakfast!\n\n5/5"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3ekx2UTVRRRAB",
+            "text": "Unexpected great time and food.  Plenty of different food choices.  Started with nachos, and had a great chicken bowl to follow.  Service quick and friendly"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRb3ZpYmFBEAE",
+            "text": "Good times. Great drink selection. They have a DJ sometimes."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRbUo2NGR3EAE",
+            "text": "Very welcoming friendly staff and excellent food!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRM05ET0dBEAE",
+            "text": "Bad service. Bottomless two hour brunch but you’ll see your waiter once the entire time so what is the point? He thinks he is doing you a favor for a second carafe 1.5 hours through when your first carafe didn’t come until an hour in when your food came. Cyrus you are as worthless as this entire establishment. When you couldn’t be found I asked other staff for help and they did nothing."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnbDZtSGJREAE",
+            "text": "Good place to enjoy with friends! The drinks are delicious. I recommend the espresso martini, it's the best."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnOTZmYUd3EAE",
+            "text": "We went with friends to celebrate our anniversary and Valentine’s Day. Choose this place was the best option to share together, talk,  have a great dinner and  drinks are delicious. We were waiting for the dj but we have to leave, I hope we can go other day and enjoy the dj and his music. The service was excellent."
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnMHRiUVZBEAE",
+            "text": "Loved the place. I came with a friend who is a regular and immediately understood why she loves the place. It felt like being in your 2nd home. Lovely service, good food, cheerful atmosphere."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNndU1teWNREAE",
+            "text": "I did not expect this place to kick ass when selecting a random bar in the Gramercy area. But it is totally legit. The bar is huge, finding seats wasn't an issue. Service was super quick. The prices were fine, typical NYC fare, but the…"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBaW9uUmxBRRAB",
+            "text": "Wonderful place, wonderful service!!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfNWRIYUZBEAE",
+            "text": "Inject these Espresso Martinis in my veins"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmbXZMRjVBRRAB",
+            "text": "This place is great. Awesome bar food and excellent drinks. Very chill place, excellent for date night."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmNDVtSnpBRRAB",
+            "text": "blackhole of the murray hill man"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmX1pQcFNnEAE",
+            "text": "I visited this place with a friend on a weekend afternoon, looking to enjoy some day drinking. The classic Western vibe and Christmas decor were really impressive.\n\nWe each ordered an Espresso Martini and a Bloody Mary. The Bloody Mary was tasty, and the olives were a nice touch, but the Espresso Martini seemed a bit weak, so I added some vodka to it. It was an unexpected visit, but we had a great time! :)"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmdmJudGtRRRAB",
+            "text": "Food was good.\nA good option for quick team lunch. Better to make a reservation.\nSome of the dishes worth trying which we had and was good- Chicken soup, Cajun salmon sandwich, steak salad, California chicken bowl"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2NjdiYW1RRRAB",
+            "text": "Good drinks. Good service. Good food. The chips and guac were phenomenal. Chicken quesadilla was ok. Beef skewers were ok, good flavor but kinda tough. Their sliders were ok."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2Z2RhQVB3EAE",
+            "text": "Went here on a Friday at 4pm ish.\nI've been here before and the food is awesome.\nThe bussers and bartenders are great.\nThe actual servers consist mostly of these unfriendly ladies that cut straight to the chase. \"Hi, you ready to order?\" Type of greeting\nOur server tried to sit the two of us at a 6 person round table by the host stand.\nImmediately I realized that this lady doesn't want to get sat big parties.\nShe asked us if we were ready to order right when she sat us lol. Not even 10 seconds for us to take our coats off.\nAfter we took a few breaths to scan out the menu...we placed our order.\nMixed drinks are GREAT. Harlot with grapefruit is really good.\nFood is great. The food runners are the real stars.\nOur waitress finally came around and asked if we needed anything else. We asked for the check and 40 min went by before some other unfriendly lady came by and said \" I heard you guys were waiting on your check? \"\nWe gave her our card before she could leave and she dropped it off with a \"thanks have a good one \" and stormed off.\nReally bad service .\nDuring the 40 min of us waiting we had time to walk around the place and look for our original waitress and saw she was eating starbursts from a basket and just chilling. I signaled to her that I wanted the check and she rolled her eyes like ugh and still didn't bring it.\nEventually we pulled one of the bartenders and asked him for the check and he I guess told some other girl about it.\nThe behavior by the bartender and the new girl that brought us our check made us feel like we were the problem and somehow it was our fault that we were there at bussed table with nothing on it for 40 min.\nBLEH."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2MktQT3lnRRAB",
+            "text": "Great location . Nice ambience . Lots of options to drink and eat ..went for a party here and it happened in top floor . Service was good . Food bites were good . Some of the small bites were average . Some with bruschetta and cheese .  Wish there were rest rooms in all floors . Had to go 2 floors down and the restrooms were small .. overall a good experience . 4  stars .. ⭐️ ⭐️⭐️⭐️"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSZ3ViMnF3RRAB",
+            "text": "The food is off the hook !!! I fell in love with the cookie skillet super decadent and delicious!! Not to mention they make some of the best drinks I've had in a while !! Everyone is super friendly and attentive too which is a huge plus .\nYou're sure to have a great time here the crowd is definitely upbeat and lively"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5dU1HMkJBEAE",
+            "text": "Sadly this place didn’t live up to the reviews we had read before our visit\n\nWe were seated in a very dark corner of the bar, where we left boxes in, ignored by the front of house and frankly enjoyable.\n\nThe food was average at best but what really upset us was the fact, as being from the UK, not knowing the portion sizes, the waitress failed to inform us that we had simply ordered way too much food.\n\nBe warned. Order afew items at a time and if hungry, ordered more"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwdTVIV2ZREAE",
+            "text": "Perfect for large groups during happy hour. I’ve been here twice with colleagues and we were a group of over 20 people; the service has always been speedy. There’s lots of seating - outdoors, indoors, upstairs. We didn’t have food but there were lots of options to choose from. The speciality drinks were great. You also get a free cocktail on your birthday! Simply show ID 🥳"
+        },
+        {
+            "date": "2년 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKOThHempnRRAB",
+            "text": "Ottima esperienza al Gem Saloon. Abbiamo scelto questo posto per una cena in famiglia. Il cibo è veramente di ottima qualità e le porzioni sono abbondanti. Il personale è disponibile e veloce. Il prezzo in linea con gli altri locali di NY. Lo consiglio a tutti"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3aVBqQ3JnRRAB",
+            "text": "Great bar with family friendly brunch options. There’s no specific kids menu, but the staff are welcoming and the space/decor are perfect for small groups.\nBoth the brunch and lunch menus are very reasonably priced with plenty of hearty options in the $10-$12 range, which (for this type of place) is competitive for the neighbourhood."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPcVptVjh3RRAB",
+            "text": "Visited  restaurant on for the first time on Thursday 6/9/22 for brunch to celebrate hubby’s big birthday. Everyone and Everything was great! Servers Daniella and Alex were excellent and so accommodating. I must commend and return."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUamN2d3hBRRAB",
+            "text": "This place! Such a vibe! The drinks are bomb and I enjoy the steak salad soooo much! I often get it with chicken too… service is the best! My friend Ashley & I thank Christian for his exceptional and awesome service! Thank you 🙏🏽 you’re a GEM!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzak55NzFRRRAB",
+            "text": "This was the recommended bar for my pickleball league. It was fine. No fancy IPAs. Food seemed like decent bar food. Sports on the TVs. I feel like it can get crowded here on the weekends. Some group areas and seating, like most bars. Let’s what else can I say..the bar had hooks for your jacket."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREcXNqUHFBRRAB",
+            "text": "The Gem Saloon went above and beyond in helping me throw a surprise birthday party. Beyond reserving the space, they helped the guests to the right area, placed a cute “happy birthday” sign, gave every party guest a round of shots, and a free drink for the birthday guest. They would check in on us to make sure everyone was having a good time. Exceptional service contributed to a perfect party. I would host a party here again any day. Thank you!!!!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURpbXJYQTFnRRAB",
+            "text": "Loved The Gem Saloon, staff are super friendly, professional, covid safe indoors as it's a huge space. The food was delicious! We had lunch but there it's enough for you to skip dinner. It's was a 🌮 Tuesday with the salmon burgers and sweet potato fries. Supporting local businesses ❤️…"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNjdWJpZUJBEAE",
+            "text": "Brunch on a weekend! That's what this review is for.\n\nThe Gem Sloon is not a place you associated with Brunch; however, my girlfriend and I were looking for a last minute spot (12:30pm on a Sunday) that looked cozy, not loud, and def not crowded - this was it!\n\nPassing by it looked like, well, an Irish Bar but we were going to be pleasantly surprised. It's a neighborhood spot, families, friends, and a more chill crowd than the more loud and hysterical brunch spots along the avenue.\n\nThe food was great! Pancakes were fluffy and tasty, with a generous amount of berries and syrup!\nThe Avocado toasts were crunchy, creamy and well spiced! With poached eggs on point! The best part - generous portions!!\n\nDrinks where OK, fairly boozy but overall did the job."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtbXEyRXdRRRAB",
+            "text": "Cold beer, very good food, friendly service with fair prices.\nAll you should ask for when you enter into a bar.\nIt is highly recommended."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3NEk2Xzd3RRAB",
+            "text": "As a vegan, I was glad to see vegan options on the menu. I ordered the cauliflower bites and they were delicious."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1a19uNnVnRRAB",
+            "text": "I'm always here. I'm a picky eater and the food Never Misses! The chef is great no matter what you order there seems to be nothing on the menu that doesn't taste good. The new menu is great. The Soy Ginger Beef Skewers are fantastic. The nachos the prosciutto chicken with mashed potatoes and vegetables are my definite go to. This restaurant had me eating veggies but even my parents could get me to eat as a child as they switch it up with the vegetable of the day each day. The blackened chicken tacos are also great. The have great drinks in a can or draft or mixed so this place is great to go at any time if the day for food or at night for drinks. I'm so glad they survived covid as I have been going there for years now and it's still the top of my list of places to eat in city."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHNU9HUENBEAE",
+            "text": "Food was amazing, place was clean, and it wasn’t that crowded when we went on Halloween night. The waitress was really nice and very attentive."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhb05ubEZnEAE",
+            "text": "This was a great discovery. Our food was delicious and the service was great. It was a little loud in the restaurant. It can get very busy later in the evening and looked like a popular bar. Great vegetarian options!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSdU9Xb0t3EAE",
+            "text": "Met up with a friend here this week and had a great time! Aesthetics match their name and vibes/music were good too (music not too loud). We made it in time for their happy hour (GREAT deals, $8 for a glass of wine) although I wish they…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1a2JUbkh3EAE",
+            "text": "Pretty good Sunday dinner for us. We stopped in and each had a beer ($11 each), chicken tenders app (no fries, $14) and caeser salad add salmon ($22). Service was young and friendly!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1aFlUZ0JREAE",
+            "text": "I have come here three times and every time the food is good.\n\nSomething that you should definitely order here for appetizers: the chicken wings and the cauliflower bites that tastes literally like BBQ chicken wings.\nTo eat: birria tacos.\n\nToday we had: wings, cauliflower bites, quesadillas, cheeseburger and birria tacos.\n\n• The wings and cauliflower were so delicious as always.\n• The quesadillas and cheeseburger were good, the fries are always tasty.\n• The birria tacos were AMAZING, I’m Mexican and these tacos do taste like the original ones, a MUST TRY here.\n\nThe only reason why I don’t give 5 stars is that if you come when they aren’t busy the food and service is 10/10 but if you come when it’s busy the service is not good and the food is not that amazing, is good but not as good as when there’s fee people.\n\nFeedback for restaurant: you should keep the quality top ALWAYS because your restaurant is good so it’s worthy to invest in this."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNFanMzUHFRRRAB",
+            "text": "Great place for brunch with a patio. Certain entrees come with a drink, which makes the price really great. I had the steak and eggs, which I recommend. Everything was cooked well."
+        }
+    ],
+    "reviews_count": 70
+}

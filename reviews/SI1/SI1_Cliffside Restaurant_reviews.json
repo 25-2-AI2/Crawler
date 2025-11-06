@@ -1,0 +1,502 @@
+{
+    "name": "Cliffside Restaurant",
+    "place_id": "ChIJAxlvzN5EyoARoQgIMhex3A4",
+    "grid": "SI1",
+    "address": "511 S Tech Ridge Dr, St. George, UT 84770, USA",
+    "rating": 4.5,
+    "user_ratings_total": 2289,
+    "phone_number": "(435) 319-6005",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZelNHOXNVRVpSUTNFdFdrUXlOa3d6WkVkRFZHYxAB",
+            "text": "Excellent"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOQ1JHTndaMk5SUjAxNWJEZ3RVMEpUZEdkNmVGRRAB",
+            "text": "Food was amazing !!! Our server was even more amazing ! Thank you Chazlie for making our experience a great one !!!!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSV2FreHFUa3haZWpkdk1FOTJkRkZtYmxBeldHYxAB",
+            "text": "This place needs acoustic tiles.  THE PLACE IS WAY TOO LOUD."
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxUWRFOUhSbmRyWnpnelJuTk9Oak5VZUZaTlNrRRAB",
+            "text": "Beautiful view.  The food was good as well."
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wak9GQjVXVWh1YzFGMFZIUjRYMVJOZUY5alpHYxAB",
+            "text": "Perfect little restaurant with a great view. Hamburgers are home made with delightful buns, kids meals were a bit too “fancy” for the kids but I just have picky kids it seems as it was delightful."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CT1J6ZzNZVEI1YjJoRFNIRXlaa3A1T1RoWFJYYxAB",
+            "text": "Extraordinary views, excellent food, and very attentive service combine to make Cliffside Restaurant a fantastic experience."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkSlZuWjJVMUZrVVVzNFJVSlpUemh2U21aclluYxAB",
+            "text": "There is no better view for a dining experience in all of St George"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FMlNHdERhMFprZFdoRU9HdGFNME14UTNCdVYwRRAB",
+            "text": "Enroute to Vegas we were driving through St George and found this restaurant with good reviews offering a view over the township.  It turned out to be a great stop for a late lunch, nice and well-prepared food without being overboard and great lemonade."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFeGMwZHhhQzE1Vmt0WldERnFUa05QWkhsd1dHYxAB",
+            "text": "Such a good experience! The Ribeye with Gorgonzola sauce was amazing!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSUVZDMDNTM0J2YzFGR1Vub3pWM1p3ZEZOTmVFRRAB",
+            "text": "Great place for dinner\nFood and views are fantastic!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taSWEwVjZkVEpEYTBWd1UyaDBSMjl2TTAxc2RWRRAB",
+            "text": "Food has gone DOWNHILL significantly! Tough dry chicken,  flavorless steak, the salmon was tasteless,  pasta was way overcooked, ordinary boring salads and insignificant desserts. Only saving grace was the view. So not recommend... you pay a premium for ordinary food."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wamNGZHJZV1ZPVEdKV2FteHdOMDUyU2twMk4zYxAB",
+            "text": "Great view from the deck of St. George."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Sd1JUTjRORkJEVW01TFFqSm1YMkp5U0RSNU5WRRAB",
+            "text": "Beautiful view, food was excellent (order the salmon) and the service perfect. Go, you won't regret."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kQlZqZHliMUJVVkZGV2NFOTRXRXhhYkdadVdHYxAB",
+            "text": "Omg!  So sad I live 800+ miles away!   The best!   Even the veggies and the salad were exquisite, the trout was fabulous and the chowder amazing!  I'll have to come back somehow!"
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GblJWOU1VbWxKWVhaUWJXWlhOMmQwUkZrNFJHYxAB",
+            "text": "Outstanding views of the St George Valley.  Great lemonade made on site each day.  Great food choices.  The Swordfish was outstanding.  As was the spinich salad."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wc2FERlJRVTVRVTBWak1WcFZkak5SWTBwS2VsRRAB",
+            "text": "A meal with a view"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSSU9VUnpZamRXZWtJd1NtNW1XUzFKVFVkV09YYxAB",
+            "text": "We eat here often. The service is always fantastic! 😍 The waiter was very attentive and polite. He took very good care of us. The manager was kind and gracious. She stopped by the table to ask how we were doing. The entire staff was gracious and made our time there very pleasant. We love to take friends with us to Cliffside. The views are unbeatable and we have always had very good service. (And I love the four cheese and pear pasta!!😁😁) Thank you Cliffside for another great evening! 💛"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KR1VWZGxRbWxLUkdVd1ptMUNiazl6U1hWTFZtYxAB",
+            "text": "Very good food, great views, very good service."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSellsVnBkV1EyVld4UlJVSkphWFEyZVZnNU1IYxAB",
+            "text": "Rude overtly aggressive manager, a woman, made the assumption that my groom was drunk and had her waiter announce to my entire party and guests that the restaurant would not be serving alcohol to our wedding party..   I, the bride and responsible party for the bill was not given the courtesy of a private conversation. In addition without my permission; they offerred the party menus, despite the previously agreed upon priz fix menu , announcing open ordering to the entire table, without consulting the host, (me the bride nor the groom). Further their disgusting manager accused my groom of being intoxicated which I found highly offensive as he is a devout man of God and never touches drugs nor alcohol.  We are world class travlers this motel on the highway has a highly overinflated opinion of themselves.  We will never come back to this unpleasant and backwards, judgemental, hateful town.  They took every opportunity to block our happiness and ruin our. Joyful and sacred occasion.  These people need to do some serious self reflection and deal with their own disappointment with their mediocrity. They are mediocre at best yet command payment as if they are royalty. This is a motel 6 that is a wanna be fine establishment. Its a motel 6 complete with greasy food , arrogant manager, and loud highway noise.  NEVER AGAIN"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFek5sOWtNWFJuYjBkMlFYVmZTekZqZVZKeE4wRRAB",
+            "text": "Great views and Salmon!!!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210T0xUWnJRek5CZW1aQ1oweHhYMUF6WkhSWGRWRRAB",
+            "text": "Best view of St. George and surrounding area.  Fresh well flavored/paired epicurean delights make this a must when in St. George.  The friendliness of the staff makes one feel like family.  Thank you to all who make this our favorite place to dine at.  Best, Andy W. and family."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSeGJrMWZabnB2WjE4MFNGaE1jVGR4VTNkVVdYYxAB",
+            "text": "Took my fiancée to dinner here after I proposed to her. I had contacted the restaurant ahead of time to arrange flower delivery and a special desert. Management was incredibly accommodating. It even felt like they gave us the best seat in the house! I hope this restaurant is here in a couple years when we return so that we can relive the expereince."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VeGJFWlZaMFJKVUZKS05YSnphbTVFU1RaalFYYxAB",
+            "text": "Truly excellent restaurant. We had a wonderful meal there. I would recommend it to anyone looking for a location for a special occasion. The steak was very good. The salmon was divine. Comfortable setting."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxWGJsbzBUMngxVkZCTlNHbExjRWxEWVhKdVJWRRAB",
+            "text": "Called around 1 PM to make a reservation and they gave me one for 2:15. I noticed they close at 3, so I couldn’t help but feel like they might’ve been hesitant about having a kid there. The place was almost empty when we arrived. The food was delicious — definitely more for adults than kids — but the drinks were amazing! Our server was super nice and made the experience much better."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psMWNVbFpRMjVpWjFkTWVubFdWVGxwZVZGbGRHYxAB",
+            "text": "Food was amazing! Flavors and textures were mixed perfectly and food was cooked to perfection. Sweet chilli salmon was my favorite with steak burger being a close second"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoMWNrdDFNblpRVWprNVRHTkdjVGhyTm5CcVZVRRAB",
+            "text": "Great food...even better view of the St George area"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGd1FVUlNhWFV3UzE5SGMyMVpNak5HWkc1VlZWRRAB",
+            "text": "Exceptional service! Trevor was amazing! We had reserved a banquet room/ patio for an event and unfortunately it rained the evening of our event. Trevor went above and beyond to help us make last minute accommodations. The food was also so tasty! Highly recommend hosting an event here!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSWGFWSk9OME56ZDJaR1VsbG5jRmRWTW5aU1NsRRAB",
+            "text": "Yikes! I wish I could leave negative stars. I had been here 5 years ago thinking my experience would be just as great, but it wasn't. It truly was an epic fail!!!!!\n\nFirst of all, we had a reservation at 8pm for a large party over 15ppl. The wait wasn't long but one thing I didn't appreciate was the very minimal menu that they MAKE you choose from.  Their response: \"It would overwhelm the kitchen staff\". If I'm paying why does it matter? I even offered to order in increments of 4 ppl at a time and was still told NO!\n\nThen we noticed there is a $10 up charge for the steak on their PHYSICAL MENU, but when I received my confirmation for my reservation, the link to the menu stated a $5 up charge NOT $10.\nI inquired about the discrepancy and was told that they printed new menus but haven't updated their website. FYI, it takes less time to update your website than to print and laminate new physical menus. Regardless, that's false advertising. When asked to speak to the manager about it, she came prepared showing me their website says $10 up charge. I then showed her the EMAIL LINK that THEY sent me upon confirming my reservation,  it says $5.00 up charge. Luckily she knew she was wrong and honored the $5 up charge instead of $10. Beware of prices.\n\nLastly, and most terribly, the food.... The cesar salad was not good. For 15 ppl who all got the same salad, some had a lot of dressing and others were lacking dressing altogether. No consistency.\n\nAfter another hour we got our  entrées. Very very very awful, bland protein with over salted veggies, and when I say over salted, I mean we usually have to put more salt on our food, but not here, this was a disgrace. I didn't even eat my meal at all. After this experience I WOULD NEVER visit here again. Not worth the $800 bill and overly salted food and bland protein and the poor arguing of the staff over THEIR mistake of their upcharge. Please use your money at a nicer quality restaurant. NO COMPLIMENTS TO THE CHEF!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aRGJtWmxkM0pOWkZWVmFtSk5SRm93UkdwU2QwRRAB",
+            "text": "Yes it is a photo of an empty plate, because it was that good. If I could give more than 5 stars, I would! Marlon was excellent in every respect.  That you Victoria for leading a great team.  We'll be back 💕🙏💕"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKM2RWOVlNVVpyYlROdVdGOXVlRTFEWjBGS1FYYxAB",
+            "text": "Amazing view and even more incredible American fare. Worth a stop if you are heading up to Zion or Las Vegas. Ask to seat outdoors as all tables have great views too"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwYVVURkJjMjU2T1d0QldWbGlRVmhCTWtsVGJuYxAB",
+            "text": "Ok- let me start by saying the views are spectacular. Service- great. Management. Great. Salad. Great. Desserts. Great. Food- subpar. Steaks were tough, chewy with lack of flavor. The potatoes wedges underneath the steaks seemed old and stale. I was really disappointed in the main course. Beautiful location and beautiful staff. Hope they can hire a cook that can meet their standards."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGZk1GSjJSbGMyUm5oTk1HeE9SbXBRTmxsMlJrRRAB",
+            "text": "Beautiful restaurant with amazing food and friendly staff. i have been here 2 times and both times the food has been great. The lookout over St George is one of the few places to get a unique view while eating food in St George. I highly recommend."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OM04ybG1ia3BTTkUxU2F6RlNTbGh1VFdrek1tYxAB",
+            "text": "If the weather is nice sit on the patio it's a great view. I got the ribeye & my fiance got the flilet mignon & both did not disappoint. Bordelaise sauce was GREATNESS. Thank you staff for accommodating the table switch 🙏🏽."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKMldVRm9ha2hDYzBWb1QyWktXbU5WWVhCNFVtYxAB",
+            "text": "We were seated promptly upon arrival and had a wonderful view of the city. Our waiter Josh was very friendly and helpful- explained the specials very well and gave recommendations on drinks. Our food was delicious and well worth the drive!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GcVUzRnZXV3hUUmw5SFUzbzFURWwxUmxVNE9VRRAB",
+            "text": "This place has a great view and pretty good dessert. Entrees we got were mid at best. Sous vide steak is lazy steak honestly, disappointed that I spent $55 on a steak that was worse than the over cooked ones I make at home. Tried two other entrees here and was not impressed at all. Drinks rarely got refilled. They didn’t clear our table from dinner to dessert and we ordered a lot of food. $600 meal plus tip and still unsatisfied. That’s crazy if you ask me. Won’t be going back any time soon."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkUlNWTk9ja2cwY0VkT1ZHeHBlVEJGTUdOMFVGRRAB",
+            "text": "I apologize but this place is all hype. Good atmosphere , good service but unfortunately the food was the worst part of the experience. You can get better steaks for half the price virtually anywhere else. Huge letdown every time I visit. I won’t go back."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GbVgzSnZhRWR5VWtSRFZVOVZaVE10YUUxMlMwRRAB",
+            "text": "An astonishing view and even better food. The service felt sparse and inattentive, which took away from the experience."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFMVlrZHhia05wVkd0eFZ5MVZlWE5SYkdKRlRrRRAB",
+            "text": "Great food excellent service amazing view Reasonable price. We were lucky with the outside seating."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKSmRXMUdlR1UwWXpCck1UTkNSRTFWU210ZmFrRRAB",
+            "text": "Great food. Pleasant staff, waiter was obviously new but he was very nice and helped make the night special"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xdmFqaEdkbXhtVFhJeGVqVnhUMGxWV2pCTVFXYxAB",
+            "text": "Seriously such a beautiful venue with expansive views! It is definitely upscale and pricey, but the food is always fresh and good. Our servers are always attentive and friendly! Love this place!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxRVlUUm9URTFsTjJ4RFoxUldjRlpXUzBkQ1dsRRAB",
+            "text": "I was very impressed with this dining experience in southern Utah. I didn’t know it existed and wasn’t sure how nice of a restaurant this would be. But it did not disappoint. I joined three other coworkers and we had a great dinner. We enjoyed sharing a couple appetizers, we really enjoyed the fresh sour bread, and I personally loved the clam chowder soup.\n\nFor entrées, I enjoyed the salmon offering. The glaze that they put on top of it was just amazing and wet so well with the fish. I loved the rice and vegetables as well. My friends enjoyed the New York strip and the chicken dish and one of them also got the salmon .. We were all very impressed and satisfied with this meal. Would definitely recommend going back. The ambience was excellent, there were several parties that are enjoying dining and it looks like a great place to go on a date!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psNFJHb3hUMmhYYjAxMlh6UlVkRU4zV0ZsVmEyYxAB",
+            "text": "My husband and I went here for a nice dinner on our honeymoon and absolutely loved it! I had the Cajun chicken pasta and added steak, and he had the ribeye special and both meals were to die for! The mashed potatoes were so good and the steaks were perfectly cooked! The service was wonderful and our server Dante was attentive and kind. We ordered the Cinnamon roll bread pudding and it was so good. Dante also brought out a celebration some cake and it was delicious! If you are looking for a nice quiet meal with good food you’ve found the right place! And the view was amazing! We were sat in the corner and could see both the St George and Red Cliffs temples!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1Q1ozWjNjRUpEV0RSb1lraDNOVEZqZFd3NVlYYxAB",
+            "text": "Absolutely fabulous. I got the surf and turf special. Steak melted in my mouth and done to my perfect request of medium. Shrimp was spiced perfectly. Goat cheese mashed potatoes…um fabulous. Asparagus was so mummy even this girl who doesn’t really eat asparagus .. loved it. Don’t even get me started on the crème brûlée! Better than any I had in France. Honestly. I highly recommend this restaurant for travelers and guests alike. Locals…you are missing out on THE place if you don’t celebrate here.\nAnd then…,there is the attached hotel. Giving off rat pack vibes and the view is amazing."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205NU9IRkxSVEV6TVhoUGJGRjRUR2RIYVVFMFUwRRAB",
+            "text": "One of the best meals of my LIFE... Seriously! View= Stunning. Food= Impeccable. Service= So friendly. First, I had the tomato and beet appetizer but forgot to take its picture (I was too hungry!) Literally, the feeling of summer on a plate. Next, the house wedge salad was just as pretty too. The best I've ever had. The halibut special was the real show stopper! Worth every bite and penny. My husband had the rosemary chicken and the glaze that covered it was DIVINE. I zoned out during my meal because it was so unexpected. Don't pass this place up!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xMFRWVTBla2R0U21GaWRYZG5ZVkY1YkRjeFdGRRAB",
+            "text": "I loved Cliffside Restaurant! After a dismal lunch experience where my boyfriend took me to Chuck-A-Rama Buffet, I decided to elevate our vacation dining and take us to a restaurant that would serve quality food in a nice atmosphere, so I booked us a reservation at Cliffside Restaurant! They sat us near the window, so we could see the beautiful views. Our server, Richard, was attentive, friendly, and professional.\n\nI ordered the filet mignon, surf 'n' turf style, with a clam chowder starter. We also ordered a chocolate cake for dessert (I forget the exact name of it). Everything was perfect. I would definitely come back!\n\nOne small note: We booked the earliest dinner reservation available, since we had a show at the Tuacahn Amphitheatre to attend that evening, but by the time we left, the restaurant was entirely full, so make sure you plan for that and make reservations well in advance! ♥"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZd002YTFRRRAB",
+            "text": "We enjoyed dinner with a beautiful scenic view on 3/21/25. As a Californian, I was very pleased with the service the server provided. I ordered the Cajun Chicken Penne, and my friend ordered the Chili-Glazed Salmon. Then we enjoyed the Chocolate Lava Cake. This place is popular, so call in for reservations. When I am back in town, I will go again for lunch."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSRFNHZGlOMjFUVVU0d2NqZG5iRWRUYm1OMFJGRRAB",
+            "text": "This has become one of our favorite dining spots for our family.  Every visit, we experience delicious, large portion meals, fantastic service without fail, & we never get tired of the view!!  We highly recommend trying the specials!!!  Beyond delicious & such an enjoyable experience to try something new each time."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsMlNEQkdPVWRGYWxkT1FXczFhVTFmVjBSRWMwRRAB",
+            "text": "Great lunch experience with party of four.  The views are very nice from location. The service was great and the food was excellent will return again"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPSG5pNUNoMnAyXzJnRRAB",
+            "text": "This place is top notch! Food is eloquently done, by skillful chefs. The wait service is well trained and made me feel very welcomed. The food was fantastic and the views absolutely beautiful. Definitely worth coming!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBOC1tTVZnEAE",
+            "text": "Amazing place. Friendly staff. We were staying at Inn on the Cliff so was nice and convenient to walk here for dinner. We went here both nights of our stay. Wasn’t expecting it to be so busy - make sure you book. The food was delicious. Staff were so genuinely friendly and helpful - such an asset to the venue. Honestly I wish I could have tried more of the menu it was all delicious!!!! If you can sit outside too do it! The view over St George while you eat is awesome!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6cnRqek5BEAE",
+            "text": "Made a same day appointment for me and my girlfriend and was seated less than 10 minutes of arriving. Our server Sidney was very knowledgeable, kind and efficient. We ordered their Parmesan French fries as an appetizer. For the main meals we got the pear & four cheese pasta and the Cajun chicken penne. Food arrived at a moderate speed and everything tasted incredible. The pear/ four cheese pasta had a great consistency, very great plate presentation and quite the variety in this dish. We were also accompanied by an amazing view of the valley while we ate which was a nice touch. Although the food is more on the expensive side it is well compensated by the great food, kind staff and great view. 5 stars from me"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3LWJtQkF3EAE",
+            "text": "The Cliffside has beautiful views and a fancy decor, but the food is lackluster and the service was amateurish - at least on our case.\n\nI was expecting a fine dining experience when I made lunch reservations, and indeed upon arrival, the place had an the makings of that. However, the menu was unimpressive - a selection of salads, burgers, sandwiches, and a couple pastas for the most part. All things you can order at Chilis or other chain restaurants.\n\nWe ordered the Cliffside Steak Burger, Double Bacon Club, and Baja Fish Taco Duo. The burger was huge and juicy/greasy - but there wasn't anything about it that made it stand apart from any other restaurant burger. The club was... well, a club sandwich. I had the tacos, and the fish had more breading than fish and was greasy. The toppings were tasty, but the fish in the fish tacos kind of ruined it. On top of that, the food moved through me quickly, and I found myself running (literally) to the bathroom shortly after eating - something wasn't quite right with the meal.\n\nOr server, although well meaning and polite, seemed to be figuring out his first waiter job. I expect finer establishments to hire seasoned wait staff, but that want the case for us.\n\nWe won't be back - I'll get the views from a nice hike instead."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOc1RIb3pVM2c1T0dWa2RrNTJaems1VHpKV1MzYxAB",
+            "text": "The views, the service and the food were amazing. It was 10 adults and 4 kids, and we all enjoyed ourselves.  I know that I did."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOVmMwd3pSbFZmVW5kWldYSmFNMnBJVDJOM01tYxAB",
+            "text": "Located in a fantastic location with great ambiance and views. Upscale feel without the “snobbish” attitude. Every staff member was a delight. Our server was fantastic, attentive, drinks kept full and she offered great suggestions. The only lackluster item was the Caesar salad, it was a little bit soggy and I would have liked it to be colder- hence the sogginess. We had the steak special with mashed potatoes, shrimp, asparagus and a blue cheese sauce on top- generous portion and tender steak. Shrimp was nothing special but good. Overall would return and would recommend."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25RMVRrVXllVEp0Tkc4MVFsODNaelZuY0ZORWFtYxAB",
+            "text": "The food was very good and the service was great they fit us in on the 4th of July with no problems and we got the best view for the fireworks"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJdE9YaEZBEAE",
+            "text": "The atmosphere is amazing! The food was fabulous. Definitely coming here every time I come to St. George. The Pear pasta was divine! Best pasta I’ve ever had! Service was great! Definitely recommend!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnM09qMFhBEAE",
+            "text": "It's worth every penny we spent! It's such an amazing atmosphere for Valentines dinner! The views are to die for, and we enjoyed dinner on the patio with heaters!\n\nWe started the meal with coconut shrimp, and the flavors were so tasteful. It's not too crunchy and just perfected texture and flavors.\n\nWe moved on to Wedge Salads, which was Romain lettuce and not the Iceberg lettuce most places give you. It was so fresh and delightful.\n\nFor the main course, we enjoyed the Filet Mignon, which was cooked to perfection. The meat was so tender along with the potatoes, and the side of veggies was tasteful.\n\nLastly, we enjoyed the love lemon cake, which we devoured! Everything was so pleasant, and the waitress was awesome. We loved Verinique!\n\nWe will be back again for sure!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CbGRrOWlZWEF6UlhBMWRXZGxXbWRCU1ZCc1YzYxAB",
+            "text": "Great views. Service was outstanding (Katie). Food was very good and reasonably priced. We stopped here by chance driving from Zion to Las Vegas and would definitely go back."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxenZXWmhnRRAB",
+            "text": "Decide to go here while we where charging our EV vehicle nearby. Just actually came for dessert and an appetizer. Well even the wait was a little long after sitting, it was worth the wait. It was very good. As you will see in the pictures. Because of the view and food we will be back and I do recommend. We came at lunchtime. 😁👍\nUpdate:, came back here for to try the dinner, had a refreshing salad decided to add salmon to it. And I had the steak burger, as pictured. Both were made very well, I feel that I got my money's worth based on the size and the quality of the food. I definitely will be back, to possibly try the lunch menu. Highly recommended."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZd2RUMTJBRRAB",
+            "text": "If you are in the St George area, this is a very nice place to stop by for an evening out. The service was very friendly and the views were amazing. The only minor issues I had was for parties of 8 or more there was a select menu, which we were not informed of; and the chicken was a little over cooked and dry. The appetizers and steak were spot on as requested. 🤙"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3X1kzMFlREAE",
+            "text": "Such a good place for lunch and dinner! It’s a tad on the pricy side but it is one of the few upscale restaurants in the area. I had the Cliffside burger and Parmesan fries and it was delicious! Portions are generous and flavors ares great (especially with the crispy bacon and fried onions)! My favorite appetizer is the crostini and my favorite pasta is the four cheese and pear. So good! Also, the view is perfection! It overlooks the greater St George area and when the weather gets warmer, they open up the outside dining area. Highly recommend!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYN09yT3NRRRAB",
+            "text": "⭐️⭐️⭐️⭐️⭐️ Incredible food, stunning views!\n\nWe had an amazing experience at the Cliffside Restaurant in St. George. The pasta was absolutely incredible – probably the best I’ve ever had. We ordered three different pasta dishes to share among five people, and the portions were more than generous. Everything was so flavorful and fresh!\n\nThe service was also top-notch, with friendly and attentive staff. And the views? Breathtaking! You can see the iconic Dixie sign from the patio, and I highly recommend going at sunset for a truly unforgettable view. This place is a must-visit if you're in St. George!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoWWIzSnZNWGswU3poSFdYTnZUVmxpTkdkRk9XYxAB",
+            "text": "Didn't think I'd ever love radish but I did with this restaurant. Their food was great. Service was a little slow.\n\nThe view is awesome when you're eating near their balcony."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxc04yaE5RV2RSYTA1elJFaGZXSG81Y0hsTlQyYxAB",
+            "text": "Cliffside is a great place to visit.  Food is beautiful and tasty. Marlon was the best server! 10 out of 10!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VNaWV1dnZkbUxhSjh3RRAB",
+            "text": "My husband and I got the four cheese & pear pasta add steak as well as the cliffside steak burger.\nPastas sauce was runny and undesirable. The steak on top was chewy and flavorless. The pasta overall was lacking flavor.\nThe burger was massive but again- the meat had absolutely no flavor. Only flavor I was getting from the whole burger was the bacon they used. Fries are okay- very scrawny and crunchy, good if that’s what you like.\nViews were great but with the quality and price of food, next time I’ll pack a dinner and eat in the back of my truck at the dirt pullouts nearby and enjoy the view there.\nAlso- server took 15 min to get me the check and another 8 min to bring it back."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQaTZyRC1nRRAB",
+            "text": "Always love my experience at Cliffside. Dinner with an amazing view of the city. Highly recommended. All their dishes are beautifully presented and fresh ingredients. Highly recommend the salmon, and the clam chowder soup"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25adU1FVTJWVVI2VUdkMVUwdGxXakZzVTNKUFMzYxAB",
+            "text": "The food is higher end.  They are pretty flexible with substitutions.  The servers are polite.  The first visit had an excellent server but we didn't remember her name (Nina?, Toni?).  The first server made our evening memorable.  The second visit, our server was fine, except for messing up on our bill a bit.  The real reason to go to this restaurant is for the great view, especially if you go just before sunset with people  conducive to sweet, special moments.  The outdoor dining looks nice if it's not too windy outside."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201cGRGRjViV3hpWlc5bGRVOU5SM2hUYVc1WVoyYxAB",
+            "text": "Came from out of town and this place was absolutely excellent. I had Cajun Pasta, my family members had a steak dish and some chicken dishes, everyone loved their food and appetizers. The service was outstanding— our server’s name was Dallas. You cannot beat the view from this place."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzOXRLMnlRRRAB",
+            "text": "Probably the BEST place I’ve ever been to. Sat outside on the patio under the heaters. Got blankets as well!\nEnjoyed a Ceasar salad to start, four cheese pear pasta and then the cheesecake. The portions are PERFECT. You don’t leave disgustingly full and the food is phenomenal. For the price it’s 150% worth it. The waiter was also amazing!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ac2FtNXVURGxuTUdaaE5uTkxVVnAwZUdKSVUxRRAB",
+            "text": "We stayed in the Cliffside hotel and had dinner at the Cliffside restaurant.  What a wonderful experience we had with awesome service, very delicious food and good prices, oh, did I mention the views?  5 ⭐️⭐️⭐️⭐️⭐️ across the board"
+        }
+    ],
+    "reviews_count": 70
+}

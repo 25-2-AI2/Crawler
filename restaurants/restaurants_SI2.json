@@ -1,0 +1,242 @@
+[
+    {
+        "name": "Ariellas Restaurant",
+        "address": "710 New Dorp Ln, Staten Island, NY 10306, USA",
+        "place_id": "ChIJ0b4ayA5JwokRbZmLk07vS9s",
+        "rating": 4.9,
+        "user_ratings_total": 122,
+        "phone_number": "(917) 830-0230"
+    },
+    {
+        "name": "Seabass Taverna",
+        "address": "365 New Dorp Ln, Staten Island, NY 10306, USA",
+        "place_id": "ChIJKapPRABJwokRJ18rAUVeCw4",
+        "rating": 4.8,
+        "user_ratings_total": 252,
+        "phone_number": "(718) 808-4110"
+    },
+    {
+        "name": "Patrizia's Taverna",
+        "address": "2636 Hylan Blvd STE 130, Staten Island, NY 10306, USA",
+        "place_id": "ChIJS7R9DdxJwokRUclinYo_2sw",
+        "rating": 4.3,
+        "user_ratings_total": 174,
+        "phone_number": "(347) 855-2078"
+    },
+    {
+        "name": "Brioso",
+        "address": "174 New Dorp Ln, Staten Island, NY 10306, USA",
+        "place_id": "ChIJE6ZeU1JJwokRA87myOkZKro",
+        "rating": 4.3,
+        "user_ratings_total": 374,
+        "phone_number": "(718) 667-1700"
+    },
+    {
+        "name": "Violette's",
+        "address": "2271 Hylan Blvd, Staten Island, NY 10306, USA",
+        "place_id": "ChIJPzucvrROwokR7y7Tqa-Eul0",
+        "rating": 4.2,
+        "user_ratings_total": 954,
+        "phone_number": "(718) 650-5050"
+    },
+    {
+        "name": "Wonder New Dorp",
+        "address": "2530C Hylan Blvd, Staten Island, NY 10306, USA",
+        "place_id": "ChIJN4YVOABJwokRMKLZIbilfWE",
+        "rating": 3.9,
+        "user_ratings_total": 57,
+        "phone_number": "(855) 818-5755"
+    },
+    {
+        "name": "Mansion",
+        "address": "141 Mansion Ave, Staten Island, NY 10308, USA",
+        "place_id": "ChIJ044wt69LwokRin3tbNEPoZ8",
+        "rating": 4.5,
+        "user_ratings_total": 179,
+        "phone_number": "(718) 605-9200"
+    },
+    {
+        "name": "Amalfi Coast Pizzeria and Restaurant Inc",
+        "address": "572 Midland Ave, Staten Island, NY 10306, USA",
+        "place_id": "ChIJqZqEiAZJwokRJigwzZYbIq4",
+        "rating": 4.5,
+        "user_ratings_total": 71,
+        "phone_number": "(718) 682-1550"
+    },
+    {
+        "name": "Griff's Place",
+        "address": "702 New Dorp Ln, Staten Island, NY 10306, USA",
+        "place_id": "ChIJsxDGJ0hJwokRkd8lwFeA7VY",
+        "rating": 4.6,
+        "user_ratings_total": 470,
+        "phone_number": "(718) 668-2645"
+    },
+    {
+        "name": "Harvest Cafe",
+        "address": "694 New Dorp Ln, Staten Island, NY 10306, USA",
+        "place_id": "ChIJuWekL0hJwokRrx2XEx2c7k8",
+        "rating": 4.7,
+        "user_ratings_total": 290,
+        "phone_number": "(347) 857-6888"
+    },
+    {
+        "name": "La Strada",
+        "address": "139 New Dorp Ln, Staten Island, NY 10306, USA",
+        "place_id": "ChIJRU83BFNJwokRz3CQN9GZykQ",
+        "rating": 4.5,
+        "user_ratings_total": 507,
+        "phone_number": "(718) 667-4040"
+    },
+    {
+        "name": "The Stone House at Clove Lakes",
+        "address": "1150 Clove Rd, Staten Island, NY 10301, USA",
+        "place_id": "ChIJme4PuWNOwokR9h6JDoqmSFA",
+        "rating": 4.4,
+        "user_ratings_total": 1272,
+        "phone_number": "(718) 442-3600"
+    },
+    {
+        "name": "Pizzeria Giove",
+        "address": "278 New Dorp Ln, Staten Island, NY 10306, USA",
+        "place_id": "ChIJTVnfcVJJwokRanxhOiUrj64",
+        "rating": 4.5,
+        "user_ratings_total": 537,
+        "phone_number": "(347) 286-0635"
+    },
+    {
+        "name": "Pho Rainbow",
+        "address": "42 New Dorp Plaza, Staten Island, NY 10306, USA",
+        "place_id": "ChIJ3z5wClNJwokRLWUeY2xZXrI",
+        "rating": 4.5,
+        "user_ratings_total": 425,
+        "phone_number": "(718) 987-1084"
+    },
+    {
+        "name": "Don Cheech",
+        "address": "1271 Bay St, Staten Island, NY 10305, USA",
+        "place_id": "ChIJ51mKm6xPwokRMnqlSGSflz8",
+        "rating": 4.7,
+        "user_ratings_total": 413,
+        "phone_number": "(929) 392-2652"
+    },
+    {
+        "name": "The Manor",
+        "address": "917 Manor Rd, Staten Island, NY 10314, USA",
+        "place_id": "ChIJ22lI-5xOwokRy7IUlY1H1dw",
+        "rating": 4.5,
+        "user_ratings_total": 525,
+        "phone_number": "(718) 698-4433"
+    },
+    {
+        "name": "Hylan Diner",
+        "address": "2561 Hylan Blvd, Staten Island, NY 10306, USA",
+        "place_id": "ChIJb1LyFk5JwokR8JbhQEAy3ro",
+        "rating": 4.1,
+        "user_ratings_total": 1475,
+        "phone_number": "(718) 668-9200"
+    },
+    {
+        "name": "Taste of India II",
+        "address": "287 New Dorp Ln, Staten Island, NY 10306, USA",
+        "place_id": "ChIJ1_AfcVJJwokRqIHq3OuJwow",
+        "rating": 4.4,
+        "user_ratings_total": 659,
+        "phone_number": "(718) 987-4700"
+    },
+    {
+        "name": "Al Aqsa Restaurant Falafel House",
+        "address": "1758 Hylan Blvd, Staten Island, NY 10305, USA",
+        "place_id": "ChIJq44gFGFPwokRdXnTv9Al5a0",
+        "rating": 4.9,
+        "user_ratings_total": 587,
+        "phone_number": "(347) 825-2032"
+    },
+    {
+        "name": "Lilya's Restaurant & Grill Cafe Gourmand",
+        "address": "548 Lincoln Ave, Staten Island, NY 10306, USA",
+        "place_id": "ChIJK8bBozRJwokRNy88hNFUgFA",
+        "rating": 4.6,
+        "user_ratings_total": 378,
+        "phone_number": "(718) 351-7575"
+    },
+    {
+        "name": "Yemen Cafe & Restaurant",
+        "address": "1816 Hylan Blvd, Staten Island, NY 10305, USA",
+        "place_id": "ChIJ-eezfkdPwokRUGINtYtPjco",
+        "rating": 4.7,
+        "user_ratings_total": 287,
+        "phone_number": "(718) 504-4441"
+    },
+    {
+        "name": "Schuan Kitchen 山川小馆",
+        "address": "302 New Dorp Ln, Staten Island, NY 10306, USA",
+        "place_id": "ChIJT1Dk5LVJwokR1LcTyGZK_aw",
+        "rating": 4.8,
+        "user_ratings_total": 18,
+        "phone_number": "(917) 938-8866"
+    },
+    {
+        "name": "Boriken Restaurant & Bar",
+        "address": "704 Bay St, Staten Island, NY 10304, USA",
+        "place_id": "ChIJbTwNVwBPwokRJ0IZxOeqQzU",
+        "rating": 4.2,
+        "user_ratings_total": 96,
+        "phone_number": "(347) 466-5021"
+    },
+    {
+        "name": "South Fin Grill",
+        "address": "300 Father Capodanno Blvd, Staten Island, NY 10305, USA",
+        "place_id": "ChIJMyD2axhPwokR1ii-S0XaIWs",
+        "rating": 3.8,
+        "user_ratings_total": 523,
+        "phone_number": "(516) 744-3862"
+    },
+    {
+        "name": "Arka Mediterranean",
+        "address": "628 Midland Ave, Staten Island, NY 10306, USA",
+        "place_id": "ChIJCxl5HQBJwokR3hOtKdKQLyk",
+        "rating": 5,
+        "user_ratings_total": 79,
+        "phone_number": "(718) 524-4022"
+    },
+    {
+        "name": "Raval Steakhouse",
+        "address": "12 Minthorne St, Staten Island, NY 10301, USA",
+        "place_id": "ChIJ5Zfe7DVPwokRVyoUHJ7ei04",
+        "rating": 4.8,
+        "user_ratings_total": 200,
+        "phone_number": "(718) 247-2323"
+    },
+    {
+        "name": "Island Social",
+        "address": "4060 Hylan Blvd, Staten Island, NY 10308, USA",
+        "place_id": "ChIJgURUsgBLwokRHeklNKDfUOs",
+        "rating": 4.9,
+        "user_ratings_total": 168,
+        "phone_number": "(518) 692-3952"
+    },
+    {
+        "name": "Sea Bar",
+        "address": "2636 Hylan Blvd, Staten Island, NY 10306, USA",
+        "place_id": "ChIJrzlT8E9JwokRspP_AEGIqSs",
+        "rating": 4.7,
+        "user_ratings_total": 254,
+        "phone_number": "(718) 734-2249"
+    },
+    {
+        "name": "Ayat Staten Island",
+        "address": "2018 Hylan Blvd, Staten Island, NY 10306, USA",
+        "place_id": "ChIJESDr4gRPwokRXHaFj_J23Yw",
+        "rating": 4.6,
+        "user_ratings_total": 711,
+        "phone_number": "(718) 362-1619"
+    },
+    {
+        "name": "The Basement",
+        "address": "11 Schuyler St, Staten Island, NY 10301, USA",
+        "place_id": "ChIJefAANdNPwokR1c7ubg4iRKU",
+        "rating": 4.6,
+        "user_ratings_total": 189,
+        "phone_number": "(718) 791-0027"
+    }
+]

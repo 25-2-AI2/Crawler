@@ -1,0 +1,544 @@
+{
+    "name": "Carla",
+    "place_id": "ChIJKa4wSktZwokRlEZUE1h08Fw",
+    "grid": "MN4",
+    "address": "331 W 51st St, New York, NY 10019, USA",
+    "rating": 4.8,
+    "user_ratings_total": 707,
+    "phone_number": "(929) 404-4082",
+    "reviews": [
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGb09UWkJaRWQ0YTFBd1NtOUVjM2hLYW1saU1HYxAB",
+            "text": "Great food!"
+        },
+        {
+            "date": "3일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxMU1HMVFkRFJ4Y0Y5bGF6aGhVMUZEYjJwT1lWRRAB",
+            "text": "Cenamos en este restaurante y nos encantó. Pedimos la hamburguesa, los tacos y un burrito. La comida estaba deliciosa. El servicio fue muy agradable, nuestro camarero Óscar fue muy atento con nosotros. Relación calidad precio bueno para esta ciudad tan cara. Lo recomiendo!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkcFlVUlBiMXBqU21wM2FIcENWRkp0VVROU2VXYxAB",
+            "text": "Incredible burger. Such a gem in this neighborhood."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paeE4zVkViVXA0YWxvMlZURnJkVzFSZGtKcFMyYxAB",
+            "text": "Great venue"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kWVNEUmxWM0ExU1ZodmRVSmZNelU1T1ZScVFrRRAB",
+            "text": "Food is amazing love it"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxM2VHWldPVXA1TW05TU5GbHJTRXRYTjI1RFVYYxAB",
+            "text": "It's a nice palace, but I think looking at the menu you are not going to be able to tell the identity. You get Mexican, Vietnamese and American dishes on the menu and I would say they are just ok, I am still asking myself if I come back what would eat here?"
+        },
+        {
+            "date": "1달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psMlVXNW1TMk13YTJSeFRWOVhkMGh5V2xwdVpFRRAB",
+            "text": "Nous avons passé une bonne soirée autour de tacos et de cocktail. Le serveur a été très gentil"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjd2VqUktYMlIwWms5dVVFcDBRVXBTZDJKbGIzYxAB",
+            "text": "Very good food and spacious place"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkbWRqQlhVbGwxTVRGS04xQlZiemhxWVdoTlEyYxAB",
+            "text": "Stopped in for Sunday dinner on the early side. Two of us. Service was great. Food was interesting. Had the Ban Mi sandwich. Very tasty. Good drink menu too. Not pretentious. Seems focused on nice food and drink in a casual setting. I would go again to try some other things that looked interesting."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWalZrNW1OakYwYkhkMVJ6ZFdkMDVFYnpjMmVYYxAB",
+            "text": "AVOID. Terrible staff, food, and ROACHES. The spring rolls were greasy and soggy. Some of the romaine lettuce in my salad was brown and slimy. They messed up our drinks and were so rude about it. To top it all off, we saw a cockroach scurry across the floor at the end of our meal. Do not go here."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214TFFWbGpkVWhuT1ZGWFdWaFpNR2hqV1cwM1JrRRAB",
+            "text": "We made a 12 person reservation after an afternoon Broadway show and it was the perfect spot for dinner! 12 people with varied tastes and opinions and everyone left satisfied! Cute atmosphere! Delicious food! Delightful staff! Highly recommend!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2padE16RjRlbEpzVHpnMGVESTJOM2R5Umxsd09XYxAB",
+            "text": "We had breakfast in this lovely place a few days ago and it was absolutely lovely. The food was delicious and the staff was the kindness. There was an issue with the payment but they did everything and more to fix it. I couldn’t recommend it hard enough"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SRFNXd3diRzh6Vm5SM2VtSlBRekZZVGpGdE1WRRAB",
+            "text": "We had lunch here today and it was AMAZING! We had the kale salad, the vegan tacos and the surf&turf burrito and everything was so delicious. The service was perfect too. Big recommendation"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SVVRWcHhabGwzYVhKVmRYbHFTMnRVUTFOcWNuYxAB",
+            "text": "Coming from Scottsdale Az , this place is a 10! Wow. Must come here for sure !🙌🏼"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CV2QzUlFVSEpmYjNkaVJrTkVjM0V0VEV4S2RYYxAB",
+            "text": "Lovely little place. No need to book and family friendly. Looked like a var but wasn't. Good was really nice and good service. So happy to find gluten and dairy free options."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKUVpWSm1hV1J5T1Zad1VsUkdjemxVZDNOTlJFRRAB",
+            "text": "Amazing tacos!!!\nHighly recommend. The staff is also very kind and friendly.\nSuper quick service."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taek9VTjRZVlpJYVRCbFNERnhTR2xxWnpabmFWRRAB",
+            "text": "It takes a truly horrible experience for me want to leave a poor review- but our party’s dining situation here went from bad to worse.\n\nWe had a dinner reservation for 7, drinks took forever which our server warned us about, we said that’s okay we understand we are a big party no big deal. We all order at the same time, 40 minuted pass 3/7 meals come out. 3 cold burgers, cold fries that you can tell have just sat there. FINALLY our drinks come, they were meh. The menu is not cheap so I couldn’t believe it was acceptable to bring half of people’s orders out—- COLD mind u.\n\nOne person in our party does not eat pork for religious reasons, they emphasized no pork and even said it’s an allergy to ensure it wouldn’t come on the burger. 20 minutes pass and the rest of the food comes, one item being a burger with bacon. We had already waited so long for the food, she asked them to just cancel it instead of remaking it. Our server did not even come to apologize or check on us once, didn’t offer to replace it or AT LEAST apologize for the inconvience.\n\nWe got out of there as fast as we could- looking around I saw much of the same at other tables with ppl missing drinks, one person having their food and the other waiting. It was a mess. Wouldn’t reccomend not worth the price"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSMFluVm5RbUpPZWtOQ1dsSmpkVlIwZGpOclJIYxAB",
+            "text": "Amazing food and decor, cant wait to get there again and try the rest of the menu."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGYU1IbzJlbGxGZG5VNFJUSnRXa3QyYTJKdVEwRRAB",
+            "text": "Awesome experience and food! The pho was incredible but the banh mi stole the show!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOVlQweHdUall3Wlhvd04wODBNMVpwTkdFM1VXYxAB",
+            "text": "The food was so fresh! Great brunch spot. The Grilled Corn Romaine Salad and WKND Bowl were our favs."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WdFduTTRZamhzVVRGd1dFSjRaVGhxWVV0V09IYxAB",
+            "text": "So glad I found this place! We came at 5 and didn’t need a resy. We were seated immediately and were helped by a super friendly waiter. The food was beyond delicious. We got the guacamole to share and I got the cauliflower salad with fried chicken. It was so big and delicious. Also got a margarita - 10 out of 10."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKdmFVRlNaME5LVFd0V2VWUmxkMUJXVm14RVVWRRAB",
+            "text": "Great experience. Food was amazing! Service was excellent.  Some of the best pasta I've ever had."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4c05tNUlVMkZ5YWpaWU5Ya3pOR0pTWVcxWGVtYxAB",
+            "text": "This restaurant was so cute. I loved the vibe and the people were super nice. We had the weekend brunch menu and it was delicious! Highly recommend it to anyone who needs a cute, quiet brunch spot with their besties"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ad00xUm5jMTlLZUVreVJUWm9hVVJZZFZFMGNHYxAB",
+            "text": "The restaurant is in a good location, but the food was very disappointing. I ordered the chicken banh mi, and the chicken tasted and smelled as if it had been grilled in old oil. Unfortunately, it was unpleasant, and I wouldn’t recommend it."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xblQzRXpla2xwU2swMldrWm5XRTVsYWxSc2RYYxAB",
+            "text": "We were looking for a unique dining experience to end our NYC vacation and thankfully found Carla’s. The attentive and personable servers made us feel welcome and appreciated, the drinks and food were delicious, and the ambiance was the perfect balance to the energy of the city. If we lived here Carla’s would be a regular spot for us."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvNU5qWmxVMFJxYkRnMldIcEVkMlptVld0U1FVRRAB",
+            "text": "Mid in midtown… as a new york native I wouldnt recommend. Expensive for what you get. The vibe is eclectic and bazaar. Great wait staff."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aVGJsZ3diekV6UTJKbGJVbEJSR3MwZURSdFkzYxAB",
+            "text": "Great food and staff"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xNFQzaEhSa1pLY2t4WVIydG9OSEZOVUV4VGRIYxAB",
+            "text": "Great pre-show brunch spot. Fabulous service!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wWGVGSlJSMjlTZGpGVU1YcFRVa0pVZVRKd2NrRRAB",
+            "text": "At first glance nice stylish basement spot, than goes the menu thats wierd, and after you order the wait for food wasnt long. But the prices based on what they serve is expensive, food i would say 5 out of 10, service they got 4 guys running but when you need them not there. If it was for me again i would not come here. I have eaten at great places the were expensive and great places that were cheap and tasty. This place does not fall in any of those categories. And forgot to mention a mocktail was disgusting!!!!! The decor and interior is very nice. A pointless robot taking up slace is cool but i feel like an investment into a robot for a restaurant atleast make it useful. Anyhow. I wont come back here for sure"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSR05uY3paVzlRWlROSVlsUnlibWRaTVhoc00xRRAB",
+            "text": "This was a great pre-theater dinner! Our food and drinks were incredible, the staff were super helpful, and we didn’t need a reservation to be seated and served in plenty of time to catch our evening show. 10/10 ⭐️"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psamNtVTJUVE5NTWxGQlJVTTVRemw2U21wQlYzYxAB",
+            "text": "My husband and I were in NYC over the 4th of July weekend. While out and about, we were walking down the street and I saw noticed the marquee for Carla's. We popped in for a drink and what an amazing experience we had. The cocktails were fantastic, the staff wonderful, atmosphere amazing. The dining room upstairs is gorgeous. Had we not had dinner reservations elsewhere, we would have dined at Carla's. Looking forward to a return trip to NYC and another visit to this amazing establishment."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKc1V6QlBXR1ZRYXpOME9WZFJOVWhPVG1seGFVRRAB",
+            "text": "Totally unexpected find in the middle of a tourist zone, this place has the feeling of a true neighborhood place with gracious attentive staff and an interesting menu of modern American accented with Mexican flourishes.    We only stopped in for a quick Happy Hour drink at the bar but were so charmed that we stayed longer.    The upstairs dining area is so well designed."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kRk9URjBkVEJqTW5oUVprcHRWM2s1Ym5KRmIyYxAB",
+            "text": "Overall the individual dishes were very tasty. I was confused by the fusion between Asian and Mexican dishes. Very friendly staff, and very attentive service."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OMGNsbG1RMnRLYzNkR2FHNVhibUY2U2xWS09FRRAB",
+            "text": "Tower margarita with altos!! 100% agave tequila.\nDelicious!!!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oYU1GY3dUV2RvZW1aNk5HMTFUR0ZxUkRGblEyYxAB",
+            "text": "Had a great meal.  Food was unique, fresh. Had a sirf and turf burrito with a really fresh salad. Ambience  was energetic but not chaotic."
+        },
+        {
+            "date": "4달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOUGFsOUhPR0ZMU1RKS1drMDJkWFF5VkZGUGFtYxAB",
+            "text": "Serveurs très sympas, très bonne cuisine et les plats sont très bien servis. C'était super bon"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VLV3VnNXJoNXVTdkx3EAE",
+            "text": "very nice cute restaurant\nwith good food\nfriendly service\nsome vegan options"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VMLWxyLURtNFpHNG9RRRAB",
+            "text": "Called this place twice to cancel my reservation and no one could take 30 seconds to confirm for me that the reservation was canceled.  Does not bode well for the customer orientation.  I know that this responding to reservation cancellations is not the sexiest aspect of running a restaurant.  It doesn't necessarily reflect on the quality of food or meal service. It does however clearly manifest that customers' well being is not taken very seriously."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VNN1gwS0wwNkpLTzhRRRAB",
+            "text": "Cute little restaurant"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VMQy1uTEs1NlliYTBRRRAB",
+            "text": "The atmosphere is so fun but the bartender on 5/20/25 happy hour is the worst. The waitress told up to order at the bar because happy hour was about to end. We go to the bar to order and the waiter said the happy hour was over even though we showed him it was 6:59. I understand that it ends at 7 but come on. And we mentioned the waitress told us we could still put in an order real quick since we still had a couple of minutes and he replied with “she’s not the bartender”. Such a rude person. Will not recommend"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMejU5cjJzeThEbjFBRRAB",
+            "text": "Delicious food here at Carla’s from the Malibu Tacos to the chicken fajita to the Americano and Cappuccino to the churros and ice cream . Friendly service in a casual atmosphere."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VNX2psX2V4NS1MTENREAE",
+            "text": "The queso and pasta here were out of this world! The cocktails are very tasty and fun to enjoy, especially the Adult Capri Sun. My friends and I love the atmosphere and vibes here. The servers are friendly and attentive. It's my second time going and I'd go back. It's a pricey but it feels worth it in the end."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VNdUYwYmEwbWYtVHNBRRAB",
+            "text": "Why was there a tamale inside my enchiladas, this is not authentic Mexican food . So if you are looking for that don’t come here . Food was okay , seems like they combined masa with chicken and stuffed it inside the tortillas for the enchiladas. I’ve never seen such a thing . The salsa on top was like a mayo sauce and not actual salsa . It wasn’t bad but it wasn’t what I expected. AND 23$ for three small tacos is crazy . Other than that friendly staff and nice place :) ."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJck1yYmV6NG92M1lBEAE",
+            "text": "Mighty wings is the best wings I ever ate!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNVFEzS2pDbnI2YkV3EAE",
+            "text": "Hidden gem\nExcellent service, cozy and chic vibe.\nAmazing banh mi, wings and espresso martini"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZMHJEWUd3EAE",
+            "text": "Loved this spot! They have something for everyone and many fun, flavorful drinks to try. The vibe is tropical. Wait staff is super chill (in a good way). The queso dip was awesome, not watered down like at most places. I'm a southerner so I got the buttermilk fried chicken sandwich and it was juicy, perfectly fried, great flavor pairings...also a perfect size for sharing. I wish I could come back but I live in Oregon."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZd3JqZVhnEAE",
+            "text": "Yummy tacos and margaritas in a casual but nicely decorated and modern space. Good variety on the menu and has a happy hour menu at the bar."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZNVAzZ3NBRRAB",
+            "text": "Great brunch spot!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvLWFMZ0ZBEAE",
+            "text": "Came in close to closing after watching Chicago on Broadway. They were closing up, mopping the floors, and no one was there around 10:45p on Fri, April 25th. We were greeted warmly, seated, and given incredible service. The food was delicious! I had a vegan burger; my daughter had the bacon burger. We split the vegan kale quinoa salad, which was lime-y and perfectly massaged. The fries were thin, salty, and crispy. We could have easily been turned away or been made to feel unwanted, but everybody there was so gracious and hospitable. Thank you! Highest recommendation!!!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURveFBXYmt3RRAB",
+            "text": "Perfect spot for a dinner (even with the kids) or brunch with the girls. Hibiscus Margarita is a must! Get a few of the taco options - you can’t go wrong."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyN3VuaU5BEAE",
+            "text": "Cute place with very attentive staff. Went for Sunday Brunch and it was not crowded. The food and drinks were tasty and the staff was friendly. Get the wings! You won't be disappointed. Head upstairs for more ambiance, or outside for secluded (off-street) outdoor seating. Good for large groups, but cozy enough for date night."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2MnNhbnBRRRAB",
+            "text": "An absolute gem in Hell's Kitchen area of midtown Manhattan. A variety of choices and everything was amazing. Chicken enchiladas and Mexican surf and turf were beautifully flavored. We were seated in the Crystal Room and the atmosphere was very cozy. The margaritas were nicely made. They honored our reservations. Thank you Carla."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYd3RfRnhnRRAB",
+            "text": "Goodness gracious we are thankful we found this sweet little place...so much so, we came twice.   Is that even allowed in the city of amazing places to eat?!\n\nWe had everything from the roasted cauliflower salad to the ceviche to the AMAZING chicken enchiladas and well it was all so tasty.   The cocktails were great as well.  The ambience was lovely and the staff was attentive.   I sure hope they are around for many years because these Hoosiers will return."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNabExDeHJBRRAB",
+            "text": "Fun spot with great decor and likely a fun vibe when busy (we were there midday). Wings were good.   Have never had Mexican shrimp cocktail before so it might have been my expectation but the seafood was a little mealy and I didn’t care for the dish.   Barbacoa tacos were good. On the verge of over salted but the jalapeños provided a nice balance.   Burger was good.   The rating is mostly because of the shrimp cocktail which I really didn’t care for. Everything else was good and I would return."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwd2UzdEJREAE",
+            "text": "Loved this little spot. We had good food and amazing service! Would definitely recommend. We ordered the Avocado BLT, the Carla burger and the chicken enchiladas. All three were done well. The fries were also nicely seasoned and we loved the service, including the robot who came out to sing happy birthday to another patron."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1NG9hY0N3EAE",
+            "text": "Great new restaurant tucked off the busy street. Food was tasty and presented well. Had a good selection of options if your group is hard to please, plus a kids menu! Those aren't always easy to find in restaurants that have a good atmosphere and food. The interior is designed well with modern upbeat colors and music. It was open to the outside without sitting on the sidewalk.  Wait staff was super friendly and would have earned the 5 stars alone, but everything else followed suit too. Had the Jambalaya and roasted cauliflower salad with chicken."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCbzZXNWlnRRAB",
+            "text": "I went here for drinks and apps when another place nearby was a bit too full. The decor of this place is trendy, and the cocktails are stellar. I absolutely loved the vibes. I'll be back here soon! Great new addition to hell's kitchen"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoejkyaDVBRRAB",
+            "text": "This place was great! The service was fast and friendly and the mixed fusion of food was delicious. I loved my bahn mi saanswich. The portions were very fair for the price. We ordered the friend plantains and chips and guac for appetizers…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1bHY2YWFnEAE",
+            "text": "Bartender Eric was the SWEETEST, most hospital person ever! We enjoyed the guava frozen drink so much. He was so attentive & extremely social (which my bf and I loved/appreciated). The environment was GORGEOUS & the aesthetic was very modern lux speakeasy. Good job owners! I’ll be back when I come back to NY!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoNTdHWHpnRRAB",
+            "text": "Carla is a must try if you are in the mood for great food/drinks and a lively atmosphere. The food was visually appetizing. Each dish was full of flavor. I ordered the enchiladas and wasn’t sure what to expect as it’s not a typical Mexican restaurant. As soon as I took a bite, I instantly knew I made the right choice. My friends ordered fajitas and let me tell you, they were hands down better than most places I have been to. The chicken was tender and flavorful. The chips and queso were also delicious. The portions were just right.\n\nThe meal, combined with such friendly staff makes it an easy choice to go back soon. I left wanting more. Thank you for a great meal!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN0NktLX1ZREAE",
+            "text": "Carla is a good pre-show spot for both a mix of tacos and burgers. I would recommend the shrimp tacos. I thought they were great. The cocktails were not very good, but the food was great. Cute spot."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoeVl2MVV3EAE",
+            "text": "Whether hidden or not, this place is an absolute gem. The whole place is a vibe with the ambiance. Seems like a quaint location, so if possible, make a res unless you don’t mind sitting at the bar.\n\nWe started with the guac because of course. It was well made and balanced. Those chips had the right amount of salt and were wildly crisp. Kids asked for a whole other order! For drinks, we went with an old fashioned that was a palate pleaser, but the adult capri sum was too fun! It reminded me of a nice rum lunch, but had a strobing ice cube that instantly brought a smile to my face. The kids’ lemonades also had a similar ice cube and tasted like fresh squeezed lemonade, which was fantastic. Ended with some rosé that never disappoints.\n\nFor entrees, kids went with the usual chicken tendies and a burger. Both tasted fine and the chicken tenders were quite crispy and had the right flavor. We also had the Mexican surf and turf burrito. The burrito leaked a bit, but surprisingly didn’t ruin the tortilla or anything else on the plate. The meat had the right flavor and spice, while the salad had an acidic, but refreshing dressing. That Mexican shrimp and scallop cocktail though! My goodness was that heaven served in a chip. I am overly picky when it comes to Mexican shrimp cocktail and this exceeded any and all expectations. Filled to the brim with protein and the flavor was fresh, acidic, and delightful.\n\nGreat place to slip in for some guac and drinks or a full meal of your heart desires. But seriously, opt for the meal and fun drinks. They also have a cat robot that’s uber cute bringing your food out. Absolutely loved seeing this thing maneuver through the place."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN0NEpIQ2FREAE",
+            "text": "It was delicious! Portion of cauliflower salad with deep was at perfect size and taste! I recommend for evening dinner time with friends. It might be a bit loud place (like Saturday evening due to number of customers) but when you eat as good you as here you don’t care at the end."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlck5LSERnEAE",
+            "text": "Awesome HK burger (bacon, egg, pickled cabbage, cheese! $19 With great fries!!) and great vibe. Bartender Eric made us a great custom drink, and Shay took care of us at the table—super friendly and gave great recs! Great deco and music! Kitchen closes at 1030 and we came late—Thanks guys :)"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1dE1tSGVnEAE",
+            "text": "My husband and I consider ourselves foodies and especially with tacos. We love tacos and are picky and these were among the best tacos we have ever had! Also the queso is amazing! We were a little worried at first about only seeing 5 star…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwaVlEYmV3EAE",
+            "text": "Nestled in the vibrant heart of New York City, near the bustling Times Square and dazzling Broadway, lies the culinary gem known as Restaurant Carla. During my recent visit, I was treated to an very nice dining experience that combined delectable cuisine with a touch of futuristic charm,  because a robot served drinks for the entertainment of the guests."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1dnF2S1VREAE",
+            "text": "Such a delightful evening at Carla. The food and drinks were fresh and delicious. The music was great and the waiter was on top of everything! A great addition to the neighborhood and I will definitely be coming back soon!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlX0xMZWNnEAE",
+            "text": "Be wary of these 5 star reviews. If you leave a review and make a food purchase, you get a free margarita so who wouldn’t want a free $12 cocktail (I’d assume they’d want you to leave a 5 star review, we didn’t get our drinks comped lol).\n\nFound this spot on Yelp since I was going to a Broadway show nearby. The reviews and ratings looked good and it looked like this spot was recently was opened so I thought let’s give it a try.\n\nThe beginning was going well, I arrived earlier than my friend and I was able to sit at a table as I was the only person in the restaurant. Where things went downhill was after we ordered our food. We waited 45 mins to get our food, not once was it communicated to us that there was a possible delay or even an acknowledgement. The two workers tonight were Eric the bartender and Leasia the waitress. We asked about our food after waiting over 30 mins when we noticed all the tables that came after us received their food already before us. We didn’t even order anything big or apps, just 2 tacos and a chicken sandwich. By the time the food came out, I had to rush and scarf down my chicken sandwich and fries within 15 mins so that we could make it to our Broadway show."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1cEtldlZREAE",
+            "text": "BRAND NEW AND TO DIE FOR!!! Just happened to find this new jewel in downtown Manhattan and I can't stop raving about it! Amazing mocktail menu, incredibly fresh and authentic dishes, and insanely gorgeous atmosphere! But the service, especially Eric, was above and beyond! You HAVE to go ASAP!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvNF9Xb2VREAE",
+            "text": "Love this spot! I’m vegan and my 10 year old son is not. We both were so happy with our meals. I had a margarita (delicious) guacamole and then the quinoa salad and he had a kids burger and fries. The service was awesome and the place was so clean and fresh. So glad we went and will be back for sure"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1MWRQWkRBEAE",
+            "text": "Had the queso and jambalaya - both very tasty. Cocktails are freshly made and nicely dressed, though slightly sweet for my liking.\nService could be smoother, but it's new so I'm sure they will get things worked out.\nHad some good vegan options on the menu."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNleXZqUlFREAE",
+            "text": "Awesome new addition to the area! Super fun decor / lighting / music - just a generally good vibe.\n\nSmaller cocktail menu mostly featuring tequila & rum based drinks but also offer a g&t. Food menu is extensive and very reasonably priced.\n\nCalled for a reservation a few hours before and had no problem scheduling for 4 at 8:30pm on a Saturday.\n\nChips & guac a bit small for 4 ppl - probably would be better split 2 ways. The chips were sooo warm and fresh and amazing though, highly recommend. Forgot to take pics of the rest of our food, but portions were large and food was super fresh and yummy.\n\nCocktails were great too!! Overall 10/10, will come again."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwNW9DS1R3EAE",
+            "text": "Pretty good food, great and friendly service, decent atmosphere - I wouldn’t not recommend this place. The food’s pretty good, and the value too - there’s some great vegetarian options, like the veggie tacos, and for meat-eaters there’s options galore. If you’re walking down 51st Street, stop by at Carla’s for a drink, some food, tater tots, tacos, burgers and more."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwOGNhZVpREAE",
+            "text": "Carla is our favorite place to eat and drink in Hell’s Kitchen. It’s beautiful and airy, with beautiful wall paper, art, and a stylish bar. Drinks and food are fresh, plated well, and tasty. Great spot for a date, after work drink, or casual meal."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMcWNUeXB3RRAB",
+            "text": "Vietnamese owned restaurant, we found hybrid foods meshing flavors from the Americas (Mexican, Dominican) with Asian. Really great hibiscus margarita- not too sweet."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN0MksyZDhBRRAB",
+            "text": "The restaurant has really cute decor and delicious food and drinks. Favorites include shrimp po’boy and the buttermilk chicken burger. Our waiter was also very attentive.\n\nI arranged a surprise bridesmaid proposal for my girls and the owner/staff was helpful in helping me store their gift boxes before our reservation, which ended up being a beautiful and memorable experience for all of us.\n\nHighly recommend!"
+        }
+    ],
+    "reviews_count": 76
+}

@@ -1,0 +1,614 @@
+{
+    "name": "Le Monde",
+    "place_id": "ChIJqRJTizv2wokRwg_FF-6pYuU",
+    "grid": "MN9",
+    "address": "2885 Broadway, New York, NY 10025, USA",
+    "rating": 4.7,
+    "user_ratings_total": 2762,
+    "phone_number": "(212) 531-3939",
+    "reviews": [
+        {
+            "date": "15시간 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCUFZFdHZiekpoY25CRlIxcE5URFJoU1U4NWJYYxAB",
+            "text": "This place is solid. I went for dinner once and I enjoyed it very much. Brunch however was a little trickier. The food delicious was room temperature. It felt like they prepared food and kept it under the lights for a little too long. I was starving so I ate it all anyway. They offered to make me another plate and charged me full price for it? Thought that was weird. But the food is good! I just couldn’t give it all stars. Hopefully it’s something they’ll pay closer attention to. Brunch tends to be a lot more difficult to manage at a lot of places I’m not quite sure why ? Maybe that’s why they need to prep in advance?"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xabllqbFVWVUZVV2pKSFdVRmpRbTVHVVRoNmRXYxAB",
+            "text": "Very underwhelming and over priced. Not that flavorful"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSTVpGSktXVzB6VHpKdVpqTXRSRW90UlhwUmJIYxAB",
+            "text": "Extremely kind waiter Luis…\nRecommending an excellent champagne w/his recommendation and  attentive service we had a delightful experience."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Gb1Vtc3pkbFptWTBaYVZFZElZakpLWjI5VmFIYxAB",
+            "text": "Cameron was our host  she was so welcoming. She walked us through  the food choices nicely.\n\nFood : gotta try the truffle eggs\nTry the escargo  (this was amazing)\nEvery thing seems prepared  fresh.\nIm definitely coming back here with friends.\nEnjoyed brunch with my wife. We both loved the experience."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGMlRDMW1RMHBIYTNKQlJWa3piV2g1Vm1SNFNVRRAB",
+            "text": "Every corner of this restaurant shows quality. The portion wasn't too small or too large. This restaurant's atmosphere stands out. The team shows remarkable customer care. We'll be back before long."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoVVR5MUVZMk0yZDFWa1ZVSnhWM2t6ZVZSVGJVRRAB",
+            "text": "Great food, very busy with nice vibe. Would definitely go back."
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1cVVqUnRabGxwYVVaUU9VRXhZVzFOV1ZGU1RYYxAB",
+            "text": "Not bad at all but super busy on a Saturday and don’t get our food for a while. The spritz was super tasty though!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paTWJVSnllR1Z1UWtSeWQybzBla0Y0YWtkQ09HYxAB",
+            "text": "The food was as good as ever, but this time the overall experience was disappointing. The worst part was that my daughter’s crêpe included a type of meat she doesn’t eat — which was upsetting, as it could just as easily have been an ingredient she’s allergic to. I’m not sure where the mix-up happened, but considering that we had to get up to find sugar for our coffee, and that a pen nearly ended up in our orange juice, I have my suspicions. In any case, her originally ordered omelette only arrived once the rest of our party had finished eating."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoc1kxaHJYMlZCTmpSTk1tRktObE5mVHpSaVQxRRAB",
+            "text": "Great experience, Sophia very attentive and helpful! Thank you"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OUlF5MUNhVTFWVFMxNGFqTnZOVkZ3ZEd4RmJXYxAB",
+            "text": "Nice atmosphere"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGaWNrcFhhazVsTlVOTWFIRmFRM0V4ZVUxM01GRRAB",
+            "text": "Sophia was an amazing waitress for us! A kind and considerate woman."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCbFZEUk1SRkprTmkxb09HWjVUM0pyYUdkNlZWRRAB",
+            "text": "Service was great. Luis took care of us flawlessly"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSWmEwUjNlVmxpU0dWYVVVMTFaVkJUUlhvNU5rRRAB",
+            "text": "Great food and great server (Marco)!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kME1tWTVTRTQ1TkY5VVIxZGpURWhuWmpCZlVuYxAB",
+            "text": "I have brunch here most Saturdays. Marco was our waiter today as he has been many time. He’s unfailingly polite, efficient and an all around pleasant person. Cheers to Marco!! 6 Stars!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WQ2FXWk5iRWN4VVV0NE5VcFpjRU5qYW5kcGVFRRAB",
+            "text": "Marco was fantastic,  helpful, fast and such a pleasant experience! He was so busy, but still  helped to take pictiure of our family 😊"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsSVRGVklXVlpzWlhOb1RtRkVkbkJvTFVRelpWRRAB",
+            "text": "Our server Sofia was great!!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsbWRXRmtORGh5VFUxclUwaEVVbFJHU1c5ZlMwRRAB",
+            "text": "It was a great experience! Sophia served us swiftly, was polite and friendly."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twTVZETnBNRUZvVVdWdFUwdEtXVzV3UkRoaVkwRRAB",
+            "text": "I had an amazing meal for my birthday! The salmon and the chocolate lava cake were fantastic. Louis was an amazing server!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xWlYwZEZRVk5OTW1GaE5FUk1UbVZXWHkxelVGRRAB",
+            "text": "Pleasant, casual atmosphere. We were never rushed, the waiters were attentive and the food was delicious. I had the organic roast chicken, my aunt had eggs Benedict and her aide had a stuffed crepe. The dishes were carefully and attractively prepared. We shared the chocolate mousse with whipped cream. We will be back!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxR1lqbHBUV2hpUnpkeFR6Y3hSbGR0YnpsWlVFRRAB",
+            "text": "service was so slow even though there were plenty of workers available"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvMk1GRnVWazkxTVRNNU1GZEJUblpsUkRkcmJWRRAB",
+            "text": "Luis provided outstanding service during lunch. Extremely attentive and showed great care."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wZmNWQkthM1JvUlVoU1RuRnlRbTFhWVcxbFIxRRAB",
+            "text": "Our server Sofia was excellent!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OS2FrcEtUVXcxTUZaWVVVOVZSakZJVmxkTk1IYxAB",
+            "text": "Great place, great atmosphere. We had brunch with bottomless mimosas and great service by Luis and Catherine. 100% recommend!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paVlVGOVdTRXN5YWtZd1FUaGFWMW8zVm5CcmNWRRAB",
+            "text": "The place serves excellent food. I went for brunch and ordered the bottomless mimosas, which were fantastic. Luis and his colleague, Catherine, were so welcoming and friendly. I highly recommend Le Monde."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aNlkzcFlkbTFrVFZkQ1RVaDVPVmh0TkhoTlZrRRAB",
+            "text": "Luis and Katherine were amazing servers! Love coming here!!!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taTE5raGxRbU5zUzI5Q1EwZGxjRlIyTkZWdWVsRRAB",
+            "text": "It was such a delightful brunch (the truffles eggs were delicious, and the Tarte fine aux pommes exquisite!). The experience wouldn't have been the same without the kindness of the server: Sofia was absolutely lovely!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsYWFtb3RaM0pOVlhSQk0wVTJlbXhTWlZCa1JHYxAB",
+            "text": "I believe our server was Louis. Everything was perfect. Very authentic, delicious food, beautiful ambiance (French doors open to the street) and impeccable service. I would highly recommend Le Monde. The Parisian modules frites was out of this world and so was the Caesar salad. Perfect evening"
+        },
+        {
+            "date": "2주 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pRMmJuRkNhbk55Y0RjNVZXMUtPWGRMVXpsZlkwRRAB",
+            "text": "Schmeckt super, ganz frisch. Personal sind freundlich. Insgesamt sogar besser als in Paris"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGUGNYazBhbkE0Wm1Kd2MzVlJVMUJqU0hRM1ZIYxAB",
+            "text": "Came here for a date night and it was  wonderful dinner out!! Delicious food and drinks in a great atmosphere. The pear margarita was incredible!! And our waitress Sophia took great care of us."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwd1QwRlRZWGt4U1ZGVk5VZHhPVnBzUldsbmJWRRAB",
+            "text": "The food was SO TASTY. We got a crepe, chicken sandwich, tea, and coffee. Such fresh, high-quality ingredients in truly scrumptious combinations. Gorgeous outdoor seating and cute vibe inside too. Great service from our waitress Sofia. Will return!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sek15MVJjRWxxVlRCeVIxcERTM2xGU1ZZelkyYxAB",
+            "text": "The food was excellent—serving size wasn’t overly filling and well priced. We received excellent service from Marco!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSTlFUbDZiVFp1ZDFCUVpHVjRiVTE2VDNsU1QzYxAB",
+            "text": "Luis was great and super on top of the bottomless!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kMU1rZHBVa3hsTWtaeWQxbGZjVEJSYzJKak0zYxAB",
+            "text": "Marco was our Server, extremely kind, fast service, and good food."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxVU1XVlRZVXRUUVV0NlEwYzRNalYwUmkxU1FVRRAB",
+            "text": "Luis was an amazing server and we loved the food. He was super attentive and food was fast and tasted good"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kclZEUjVWRE0yZVZOck9YaHhaVWs1WldsTmNtYxAB",
+            "text": "Gavin was our server and he was amazing! The food and atmosphere are incredible, but the service sold the experience."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFMVJWZEdlRFpqY2xKVmREWlFTUzFYUjBaNFluYxAB",
+            "text": "Brunch was delicious! Our server (Gavin!) was attentive and very kind ☺️ would recommend!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWalpFMWxZbWxKV21GWllVMTZOV2RzZUZOdk1rRRAB",
+            "text": "Amazing brunch, Marco was amazing the bottomless mimosas were delicious"
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuNFpLQ0dBEAE",
+            "text": "Jason is a fantastic waiter. Give him a raise. Also marko is the goat"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Sa05pMWpObXRTYjI1TlZHeG5jM0ptWTBKaWFFRRAB",
+            "text": "Luis was awesome!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204eFJUaFhTR2c1YVRoNE5YaGFkbkpGUldrMFFWRRAB",
+            "text": "Perfect customer service received, thank you Luiz"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GUGJtbHNVRUl0WDNOWU1qRnVVM2R6ZW5WWGVYYxAB",
+            "text": "The food was amazing and our friend Luise was very nice and helped us with everything."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsek9HZEhlVlpGV2pVd01YWkhiVUo2WjFKc1NXYxAB",
+            "text": "Sofia was wonderful and the meals are so unique. will be coming back again, hope to see Sofia again!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSRVpETlRVRTQxYldSUVUycENkRWxUVWxBeGNtYxAB",
+            "text": "Sofia and the team were so kind and provided amazing service for my solo lunch : )"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205dU1FRkNjbko1VGt4UE5GZHhVazB6YUZkNk9IYxAB",
+            "text": "I hosted an event here and the place, food and service were excellent.\nKhalid, the manager, explained and coordinated the event with me. He was prompt, responsive and delivered an awesome service 🙂\nI'm thankful for every staff involved in hosting such a great event. Highly recommended!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkT1JIaG5ObWg0Y0ZOUlYxWTNOMUpPY0RaNmRGRRAB",
+            "text": "Erik is the best waiter!!!! TE AMAMOSS"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0alRYUnlWSEZCYVdnNFRFZHZaSE5RZGtNNFpIYxAB",
+            "text": "Great service!! Luis was on it…made our first experience amazing at Le Monde!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WSVFscGxjRk42WVc1MFZVYzNiVFpNVmxsRFZHYxAB",
+            "text": "Truly loved my experience here. Great food. I had the smoked salmon omelette and peach cobbler dessert. The ambiance was lovely. And the service was great too."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21nNGFVMW5PVGR1VWxWa04zRlhZbU5OVFRaMFluYxAB",
+            "text": "We came for brunch with our 5-year-old daughter, and it was a great experience.  From the start we were warmly welcomed, service was outstanding and food really good. Our server, Sofia, did an amazing job to recommend the best dishes, very attentive to all our requests and absolutely sweet to our daughter. Super recommend!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oa1EwdGFUekJoTms1cU4xbG5XbnB2TXkxQkxYYxAB",
+            "text": "Review: A Sublime French Dining Experience in New York\n\nIf you’re dreaming of a night that feels like a chic stroll down a Parisian boulevard, this New York French spot delivers, with a warmth and finesse that makes you feel instantly at home.\n\nAmbience\nDesign:** Elegant, timeless, with soft lighting and tasteful art that whispers “bonsoir” rather than shouting it. The dining room has a refined, intimate feel—perfect for a date night or a celebratory dinner.\nAtmosphere:** Quiet enough to carry conversation, yet lively enough to remind you you’re in the heart of the city. The clink of crystal and the gentle hum of guests create an authentic French bistro vibe.\n\nService\nWait staff:** The standout feature. Attentive without being overbearing, genuinely hospitable, and impeccably knowledgeable about the menu. Our server anticipated needs before we even realized them—refilling water glasses right as they approached and offering thoughtful wine pairings.\nTiming:** Courses arrived with pristine pacing, allowing us to savor each dish without feeling rushed. The team checked in at just the right moments—present when needed, invisible when not.\n\nCuisine\nAppetizers:** A refined starter selection that showcases freshness and balance. The escargots were garlicky and tender, while the tartare showed a perfect kiss of citrus brightness.\nMains:** The seafood dish was a standout—delicately seasoned, with the right textural contrast. The duck confit melted on the palate, paired with a subtly spiced sauce that elevated the dish without overpowering it.\nDesserts:** A Parisian finale in miniature—the chocolate mille-feuille had crisp layers and a velvety ganache, and the crème brûlée had a caramelized top that crackled just as it should.\nWine list:** Thoughtfully curated, with a strong French section and a few well-chosen imports from nearby regions. The sommelier’s recommendations perfectly complemented each course.\n\nHighlights\nThe attention to detail extended to the table settings and bread service. A warm, crusty baguette with a lightly salted butter set the tone for the meal.\nThe staff’s enthusiasm for the restaurant’s story—its origin, its inspirations—added a personal touch that felt rare and special.\n\nValue\nWhile the dining experience leans upscale, the quality, craftsmanship, and service justify the price. It’s a memorable night out that feels both luxurious and accessible with the right occasion.\nDr Debby Smith"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25RNVdVRmlOVGxoWWtkWlMzVTNjbEpoZFcxUmVGRRAB",
+            "text": "Marco was great🙏"
+        },
+        {
+            "date": "4달 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VNMlF5ZEtYcmNxX3NnRRAB",
+            "text": "동네에 가볍게 갈 수 있는 프렌치 식당입니다. 테이블 간격이 너무 좁기도하고, 제가 갔을 때 기준으로 피크타임에는 정말 너무 시끄러워서 대화를 하기가 어려울 정도였습니다.\n\n그리고 직원들은 친절하지도 불친절하지도 않지만, 음식이 나오는데 꽤 오래걸립니다.\n\n식사는 미드타운의 이름난 프랑스 요리집들에 비하면 조금 무난하고 평범한 맛이었습니다. 샐러드는 치즈와의 조화가 훌륭하여 꽤 맛있었습니다. 메인 요리인 양고기와 스테이크는 평범했습니다. 양고기에 같이 나오는 감자요리도 괜찮았습니다."
+        },
+        {
+            "date": "8달 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnM01hQlNBEAE",
+            "text": "월요일 저녁에 방문했는데, 기대 이상으로 인테리어 및 분위기가 잠시 파리에 온 착각이 들 정도로 유럽 카페 분위기가 물씬 풍겼어요. 친구는 로제, 저는 에스프레소 마티니를 시켰는데, 에스프레소 마티니는 인상깊을 정도로 맛있진 않았어요. 홍합, 쇼트 립 그리고 블랙씨베스를 시켰는데, 블랙씨베스 빼곤 맛있었답니다. 생선이 신선하지 않아서 약간 비린내가 났어요. 가격대비 가성비는 괜찮은 편이라 생각됩니다."
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPdTRfWlBnEAE",
+            "text": "별 기대 없이 들어간 르몽드 레스토랑 일단 에소프레소가 맛있어서 두잔 연속 마셨다 NY stake buger는 그릴야채와 함께 아주 신선하고 맛있었고 샐러드도 완젼 맛있었어요 다시 찾고 싶은 곳! 잠시 파리로 여행하는 기분"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4MjUya2V3EAE",
+            "text": "콜롬비아 대학 근처 식당\n졸업식 당일이라 분빔"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZeWJuWk9TRUk1UVdGb0xXSnhTRzQyUkdFMVJVRRAB",
+            "text": "Went to have breakfast with my daughter and the egg Benedict were exquisite, fresh orange juice omg, the Nutella crepes and cappuccino were all delicious! Will definitely come back! Marco was a joy, I always say that the most important part of having a good meal is service and Marco made it happen!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aUWVrUTNaMk00VTNWd1YzUlhZakpGZEdnMlVsRRAB",
+            "text": "I think everyone should try the escargot — it was absolutely outstanding and has now become my favorite dish. The service was excellent, and our server was very polite and professional. I would like to sincerely thank 🩵SOFIA 🩵for her kind attention.🎉"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205RU1WWmpjbmxLWVY4MVFpMVVRVE5uZGxSMFZGRRAB",
+            "text": "The best Sunday brunch I’ve had in years, perfect place, perfect setting, it was a date brunch with my wife, and she was super happy at this place.\nThe staff ever so warm and helpful to explain to us the different dishes that we were enquiring about.\nThe food par excellence."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4c2FGQm1TVjlrZDJ4YVlqZHpNVFYzVVVOTVoyYxAB",
+            "text": "Our server Jason was amazing. The food incredible. Was our first time here  and will define be back. Thank you Le Monde for the amazing brunch. We had the Crab Lobster Benedict and Shakshuka which are incredible!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvdDREWVRnEAE",
+            "text": "We had a wonderful Easter and Birthday meal on Easter Sunday. Everything was perfect. Jason was our host and did an outstanding job. We were visiting our son and his girlfriend and it was my hubby's birthday as well. The food was amazing and the service was outstanding! We will return hopefully the next time and will ask for Jason again. If you haven't been go check out this restaurant. We sat outside and the weather was perfect!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPSC10S2ZINVpLZkZnEAE",
+            "text": "My friend recommended Le Monde for my graduation lunch and it did not disappoint. I loved everything I ordered: French onion soup, ham and egg crepe, chocolate cake, and a spritz to drink. The vibe was warm and celebratory. The place was busy and my party felt a bit rushed by the staff, but it did not detract too much from the experience. They were able to squeeze us in before our reservation, which was greatly appreciated."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvNlBXaUtBEAE",
+            "text": "I love going to Le Monde—it feels just like stepping into a neighborhood restaurant in France. The food is always delicious, and the atmosphere is warm and casual, which I really enjoy. Especially the mussels were really good so we ordered baguette to eat the broth. Freshly baked baguette was really good with the broth. But The fish wasn’t very fresh, so it had a slightly fishy smell. The short rib was really tender and flavorful and fries were really crispy. The texture of noodles served with short rib were soft and great with short rib’s sauce.\nDuck hash for Sunday lunch was also great. Perfectly cooked and perfectly seasoned well. I loved it.\n\nThe servers are always friendly and welcoming. But I’ll never forget this one handsome young guy who served us once—he was chewing gum the entire time! He was witty and kind, but from start to finish, he never stopped chewing gum. I don’t think that’s appropriate behavior when serving customers at a restaurant."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsMFFTMTJZVmxDTmsxUldtOUdRMnMxYzI1cFlrRRAB",
+            "text": "Had dinner with my ladies book club and had a great time. Jason was our server and he could not been more accommodating. Hamburguer, raviolies and desserts were delicious. Love the decor and light inside restaurant."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204MU1XbGZZbTFxWjFCeVZqUnZOVGt6Vlc1SGNYYxAB",
+            "text": "Sophia was a really great host to us! We had the Belgian Waffle and savory crépes and they were amazing! We would definitely come here again!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1dGVGQm1lWFZmYmxsRFlsVktVSEY1Y0hkaWVuYxAB",
+            "text": "Food was great. Service was a bit slow but servers were nice. We were celebrating two birthdays and they brought us complimentary champagne and an extra dessert. Will absolutely come back."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsaGRUSkNha2M0WVZKaE5VZE9TMk5ZVGpkQ1lVRRAB",
+            "text": "I recently went here for a lunch with coworkers and our server Jason was amazing.  He offered recommendations on what to get and was very helpful.\n\nI ordered the steak frites and the vanilla creme brulee and they were excellent !\n\nI would definitely recommend this spot."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnd1lfSHhBRRAB",
+            "text": "Very pleasant experience! We came super hungry after a walk around Columbia’s campus and needed a warm and nice place to eat. The salads were fresh, and the escargot and crepes were tasty. Our server Eric was very friendly and gave us good recommendations and was very patient."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVNE5GTjJkREJXZVU5Q01uZHBSemMxYWsxYVExRRAB",
+            "text": "My girlfriend recommended this place and it’s Absolutely stunning, the cafe straight up feels like A portal to Paris, the atmosphere, the service and the food are perfect, would absolutely recommend it:D"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VOQ25rZFBSbGFIa2NnEAE",
+            "text": "Visited this restaurant in the evening for dinner on a Sunday and it was packed. We reserved a table for 7.45pm but when we arrived at 7.50pm the table was just being prepared. The waiters were rather overwhelmed while we were there - with us allegedly having an appointed server but we only saw him twice in our entire time there. For the most part, we had to ask for service from other servers. Would suggest to avoid peak hours for a better experience. The food was delicious though!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aQ0xUTk1VMWs0T1RVd1kxOHdlRk5QUkVOYVVGRRAB",
+            "text": "It was relatively quiet in a Friday summer evening when the local university was on break & all the locals are out of town. This charming bistro was perfect for a dinner. We had bottle of wine and a few apps (dinner tapas style) to celebrate a birthday. The tuna tartare and foie gras were good. The goat cheese and potato Tarte was forgettable. And I’ve had better watermelon salad. The presentation of the dishes were spot on. We had a delicious creme brûlée with a candle to close out our dinner. Service was good. Jun 2025"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aR09YRklOVVJ4TjA5WGVtazNYMmh3WWxFeVdWRRAB",
+            "text": "Atmosphere upscale yet relaxed. Our server,Sofia and Jaime was gracious, helpful and efficient. There is outside seating and I recommend sitting on 112th side rather than Broadway . Inside is cozy. Food was delicious and the menu is varied and creative.#restaurantweek"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNeWN6QjZOMjFpYldjd1RGZHJTWG8xUjNFM1JGRRAB",
+            "text": "Had a really nice experience here! The steak was juicy and tender. The crepes exceeded all expectations. Sofia was friendly and helpful."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taNVRWQTRjRTVSWkd4WWJEZFRVbDlmTm5KTlptYxAB",
+            "text": "This is my second time here at this cozy little French restaurant. I got to experience some of their lunch/dinner cuisine this time instead of brunch.\nThe honey thyme lemonade was refreshing and had a nice little zing to it that's to the sprig of thyme in it 🌿\nThe raviollini gratinee was *chef's kiss* 👌🏾It was a nice light cheesy amalgamation with the soft cushiony ravioli pasta. I asked the waiter for some croutons to make it even more perfect. I didn't finish it only because I wanted to save room for the main course 😋\nThe coq au vin was delightful~ So packed with flavor and piping hot to boot. The chicken was so tender and the vegetables were succulent. The brine (gravy?) had a lot of flavor profiles in it, but I could point tone that reminded me of liquor. Like a wine? Some kind of cooking alcohol perhaps. It stood out to me, but I was still able to stomach half of the stew before I got full. The mashed potatoes were so little and creamy like a little palette cleanser. The bread that came with the meal was delicious all by itself, it must be homemade and fresh.\nI was very happy to have returned here, I most definitely will come back again another day. Perhaps for the Summer restaurant week towards the end of July! 😁🙏🏾"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrNGFIWnNjVXg2WldKWlowTTNSalpXUldsVFFsRRAB",
+            "text": "Ali was an ultimate pleasure. Outstanding service, made my wife & I feel at home and it was out first time at Le Monde. We even had a pleasant conversation about our watches and horology. Will definitely come again."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGNGFWQjBPVE5UZEdoR2VFTXlTWFp2VkhkRFZtYxAB",
+            "text": "The service was excellent, but the food was mediocre.\n\nAs a first-time visitor, I recommend ordering steak frites, which is a safe bet at any restaurant."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGa2IxRlFSbTlsVmpndFVtWnlMVTFYYlhjMVJIYxAB",
+            "text": "I have to say this place just looked welcoming and on my first day on the new job it was a splendid treat to walk in, get seated, order and dine on what was a very tasty and well prepared meal!\n\nIt's by no means a quick meal but worth every minute and penny. The staff and service here was great and I couldn't have asked for more."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OYWRWOW9YM3BoVlRBNVRrMWpWamxIVEdGalQxRRAB",
+            "text": "Great atmosphere, super friendly staff. The sauces and salad dressing are next level.  Already planning our next visit!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2Z2RTR0ZnEAE",
+            "text": "The atmosphere was perfect, cozy, and inviting, with just the right balance of elegance and comfort. The staff was friendly, attentive, and made sure we felt welcome from the moment we walked in.\n\nHowever, the wait for our food was a different story. Despite the excellent service in terms of hospitality, it took an unusually long time for the duck meat to arrive. I understand that quality takes time, but the extended delay left us a bit frustrated."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4UVNYRkZiR1pGVG5CdFltVkxkV3hHVEZJelJtYxAB",
+            "text": "This place absolutely deserves its rating! We went for brunch on a Saturday morning, and everything we ordered was delicious. The 1-hour unlimited mimosa offering during brunch was a great bonus — totally worth it! Our server Mr. Ali, took such great care of us and made the experience even more enjoyable. Big thanks to him for the warm hospitality!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvbmFLazZ3RRAB",
+            "text": "Absolutely loved Jason and Chance! They were absolutely lively and attentive despite the busy Sunday crowd. 10/10 my new brunch spot. Come here for endless Bellinis and mimosas they will treat you right."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psTWFHbHVZbGhqVkZOaFdYWlRZalpqVVZkeFVYYxAB",
+            "text": "Dining at Le Monde in New York was one of the best restaurant experiences we’ve ever had, and the credit goes first and foremost to Marco, our incredible waiter. From the moment we sat down, Marco made us feel welcome, relaxed, and completely taken care of. He wasn’t just attentive—he anticipated what we needed, guided us through the menu with ease, and added a warmth that turned a great lunch into something unforgettable.\n\nWe came all the way from Florida because we knew exactly what we wanted: the duck. It’s usually only available at dinner, but Marco didn’t let that be an obstacle. He immediately spoke with Chef José Luis, who went out of his way to prepare the dish specially for us at lunch. That extra effort meant the world to us—it showed just how much this team values their guests.\n\nThe duck was every bit as exquisite as we remembered: tender, flavorful, and plated beautifully. Marco’s genuine care, paired with Chef José Luis’s willingness to go above and beyond, gave us a meal—and a memory—we’ll be talking about for years.\n\nIf you want more than just a meal but a true experience where you’re treated like family, ask for Marco at Le Monde. He’s the kind of waiter who turns dining into a celebration."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGSVozTXRVRTg0V0VjMlJXaG1WbEZMV0ROVmRFRRAB",
+            "text": "Le Monde has the true spirit of a French brasserie. It instantly takes me back to the restaurants I used to visit as a child in Paris. The service is always excellent, with staff who are attentive, thoughtful, and genuinely kind. The food never disappoints and every visit has been consistently good. Even the little details stand out since the restrooms are always clean, which is something I appreciate. It is a place I continue to return to with my mom, both for the great experience and for the way it reminds us of Paris. I truly recommend it. And Luis is the best Server!!!!!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJOUs3Q193RRAB",
+            "text": "Here I had a very tasty brunch with my friends and family! I ordered crepes with smoked salmon, Swiss cheese and spinach, they served it with poached egg and salad on the side. Service was top notch thanks to La Shawny! I hope I’m spelling it correctly 😅 but very kind gentleman! Thank you for wonderful brunch I had here! :)"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOTloybG1aMFUyTFhsTlREVmpWbmQwVTNGaGJHYxAB",
+            "text": "I’ve been to NYC for three weeks and have been to this place 5 times already. I love it here. French bistro food perfectly done and at a reasonable price. Louise the waiter is the very best. Ive had the steak frites, roast chicken, salmon, flatbread, soufflés and Caesar salad. For me the roast chicken and Caesar are top drawer and I love their wine by the glass list. Just a treat of a place."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNULU82cW5RRRAB",
+            "text": "Hope you are lucky enough to get Jason as your server turning a good meal great with attentive service and great suggestions. Hamburger to risotto to the chocolate mousse-suggestions were spot on.\nEdited 9/6 to encourage you to once more to find yourself sitting at a table here having a drink and dinner. Tried new menu items and were pleased with both! We'll be back!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKZk5EWkdWbGgzTFZsSmRtaFFWbUZYVGxSQlJHYxAB",
+            "text": "Very quaint French bistro restaurant just a few blocks south of Columbia University. Service was great. Ordered the blueberry pancakes."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25BNVNHbGZlVlF0UVRoc04xVmFYMk50ZVhoQ2VFRRAB",
+            "text": "We sat at the bar with my friend for dinner and received excellent service. We ordered from the Restaurant Week menu and also added the octopus and shrimp. We absolutely loved the shrimp. For dessert, we had the apple tart, which was served warm with ice cream on top. Everything was amazing. Many thanks to bartender Ali for giving us such a wonderful experience."
+        }
+    ],
+    "reviews_count": 86
+}

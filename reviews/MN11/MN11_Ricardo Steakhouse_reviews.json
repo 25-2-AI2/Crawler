@@ -1,0 +1,614 @@
+{
+    "name": "Ricardo Steakhouse",
+    "place_id": "ChIJNT3RSgH2wokR2ZqvHjeklRk",
+    "grid": "MN11",
+    "address": "2145 2nd Ave, New York, NY 10029, USA",
+    "rating": 4.5,
+    "user_ratings_total": 4325,
+    "phone_number": "(212) 289-5895",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210cFZVazNTQzB5Y1dWaVJUSmhiR2xsWDJvNVNuYxAB",
+            "text": "The food is always awesome no matter what you order on the menus. I love the baby  lamb chops garlic spinach.  The service is great."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204M016Vk9RelprYlVSWVlqaEJhMGhyZUdSUGRWRRAB",
+            "text": "Amazing experience I want have a dinner steak I look in google. I arrived the host give a table in few minutes. My order Filet Mignon was delicious. The server excellent service. Thanks for this night."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGaWMzQXpTVU5SU1VWaGRUbHFaa0ZNYUhwM1RGRRAB",
+            "text": "Went here expecting a solid steakhouse meal, but the experience was honestly awful. The service was slow and inattentive from start to finish. We ordered what’s supposed to be the OG of steak — it came out dry, flavorless, and definitely not worth the price. The sides were just as bad, and no one seemed to care when we mentioned it. For a place that markets itself as a steakhouse, the quality and professionalism were both trash. Save your money and go somewhere that actually respects its customers and their food. STAY AWAY FROM MELINA."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SbGRsUlNjMU5CUTFSS2NreGljREJyZEhRNVkzYxAB",
+            "text": "Photographer Zae was so professional and I loved my pictures , he even gave me a little direction as far as engagement"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGVE1qWnJibmczT1VoaFVUSTNZeTFUVFRBeGQxRRAB",
+            "text": "The only thing was the greeter at first did not assist me appropriately.  I was there for a party celebration and she told me to go in but never checked or pointed me in the right direction. Then another guess came and after I told her that the party was not there she told me to wait on yhe side and went to attend another guess. It was not a good impression at first."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOU09UTmxibmRrUnpKbFJFUmtVRmhNWkhrd2NVRRAB",
+            "text": "I’m really disappointed that the business didn’t follow the posted business hours. Both online and the sign on the door state that you open at 11:00 a.m. I waited 37 minutes for the doors to open so I could place a to-go order, only to be…"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OUVNWVldVMGh3YzNKMVFVVXRNVzB4WVZsQ2VtYxAB",
+            "text": "Love this place! The food is amazing, the service is impeccable and the music is on point! Alittle for everyone."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Cd1JEWnBOMWRxYWxOWlMyRm5ia1V0YUc5UFVFRRAB",
+            "text": "Great good, great service, good music playing. Can't ask for much more."
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsTFRtdHhYMjVzYmtwd2NrdEViVlZmVUdKS2JrRRAB",
+            "text": "I ordered the New York strip medium-well, but it came out medium and was extremely tough, more like a London broil.  It lacked flavor, and the potatoes and spinach also had no taste. Overall, very disappointing.  Customer service was good tho."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzd1ZWbFFPVzQ1UzJ0b01YRTFYMnhLYTFsVmQzYxAB",
+            "text": "perfect .. 10/10 i love Ricardo’s ! they have a photographer here and he’s amazing ! your pictures would come out beautiful !!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCMWVuVmtlbGxtWDI5U1RVcFZSV04xWlU0eGJtYxAB",
+            "text": "Zay the photographer is the best"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WZk5ERTBiRVZzVEY5RmMwRmlkQzAzTldSNE9GRRAB",
+            "text": "Just amazing place with delicious food 😌"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSWlIyTkxTVEZrU2pjek1GZHFabWhRZEc5WFRWRRAB",
+            "text": "We went last night to celebrate a friend's birthday. I highly recommend reservations especially if you don't have time to wait. The staff were nice. The cocktails and the food was great. The music was consistently on point and added to the vibe. I enjoyed the touch of the personal birthdays with the sign and song. I'll be back!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5WlFVaDZiVlphV2w5alZtUnJVR3RDTUV4WldrRRAB",
+            "text": "Food was tasty."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pab1UySk9WV1oyVm5WcmVrYzJVVUp2T1ZwcWFXYxAB",
+            "text": "Restaurant/Club with variety of music of 80s 90s abd 2000. Multi-generation with English and Hispanic patrons\nDefinitely parking is difficult. Nearest parking garage is five blocks away  on 117th Street.  However food was delicious. The grilled Salmon with spanish rice and a side of plantains were the best.\nReservations highly recommended"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Nd2FqZERVamRJYVZKaVVVVlJSRlZ1Y0RGeE0yYxAB",
+            "text": "Amazing experience! I have dined here twice and both times the lovely server JESSE! took care of us!\nFriendly & Knowledgeable\nWould definitely come back for special occasions!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ONWVWbG5RbEYwWVZSVVdFWjNOMHgxTkV4bU0yYxAB",
+            "text": "I been going to Ricardos for about 10 years and there has never been one bad time there. Maybe one day, I will have the privilege to dj there one night."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KU2JsTmtZWE5YVjFoQlRtWk1SSFJWUzFNMUxVRRAB",
+            "text": "10/10 Pictures ZAE the photographer!! PICS, VIBES!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25nMWJGcFZWa0ZvY0RFemRHTjRUR2xCVlZoSFdHYxAB",
+            "text": "Had a wonderful brunch birthday gathering. They had accommodations fir a group of 12 comfortably. The brunch menu had options to satisfy  the wide range of guess that were there. The bar drinks were good. The food was prepared very well and everything tasted great. There was a DJ playing music to keep the time festive and entertaining. Overall we had a grwat time and enjoyed the food and atmosphere."
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNndGNxUy1nRRAB",
+            "text": "Great food and great music! Music is a little loud. Employees are always friendly and polite."
+        },
+        {
+            "date": "수정일: 4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCd18zX3hBRRAB",
+            "text": "Birthday dinner was on point"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GVmNqQkpTV3RSYmt4bU9GcElaVVJ0TmpGaGFtYxAB",
+            "text": "I would like to thank you Ricardo’s for the best birthday I ever had the food on point Service on point drinks phenomenal you really made me feel very special. I thank you, Deborah."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taQ2JrSjVSR3N5ZVZac1pXMU9VRUo2TTFWQ1YwRRAB",
+            "text": "Zae the photographer was amazing, the food and service was quick and good too"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toUlVWWlFRakF3WmtOcmVXRm5ka3h4TFc1WVJYYxAB",
+            "text": "I went here for my birthday dinner and it was a 10/10 experience! Zae the photographer ate down on my hgs and I photos,, we loved em so much 🙂‍↕️"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kWGVFbEdWM1JaVmtoVlozVTBTWEZEVmtwdU9WRRAB",
+            "text": "This place is a 10/10 my lamb chops were falling off the bone *clock it* but the best part was zae the photographer the pictures completely captured the moment not to mention he looks and smells good."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kMVVHbFFTblJPUWxNNVZYUkZTVnBxZEdGa1RXYxAB",
+            "text": "Great time every time"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ka2NWOUxiMmxTUm0xaFZUZHlhemRHUzNFNWRXYxAB",
+            "text": "Food Taste like god tart omg, so delicious 👏👏amazing people serving 👌👌I strongly recommend this place 🫶🏽"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4aGFEUTBWMHRsVERCSlV6STVkM0pJWW1KYVQyYxAB",
+            "text": "Ricardo Steakhouse feels like a true family affair for me. I make it a point to visit every Saturday and Sunday for their amazing brunch. Julio, the bartender, is nothing short of professional and masterfully crafts every drink. Samantha, without a doubt, is the best server I’ve ever had; she knows how to make every visit fantastic and fun. The vibe here is lively, with great music and an inviting atmosphere that keeps you coming back. The location is wheelchair accessible, and they offer top-notch, 5-star experiences every time. Personally, I’m obsessed with the shrimp and grits—absolutely delicious! I can't wait to return soon. Hands down, Ricardo Steakhouse is a gem!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swMGNqRnhjMWd6VHpneFZGUlRjVE5qWkZWUlFYYxAB",
+            "text": "Denied me from ordering porterhouse steak for pick-up at 11:15pm when they close at 12am bad service"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aWFppMDRZV1JoV1haa0xXaFVXa1pWV0daRFpsRRAB",
+            "text": "Didn’t get to eat there today! Bad service was waiting for over 20 mins at first which is fine but when we were going to be seated a person was added on to my table but hadn’t arrived just yet and we were told we couldn’t be seated if the whole party wasn’t there , which isn’t fair because the add on was finding a part. The short woman was very rude and the host at the front was very professional either. Worst experience and when i go it’s usually great. Have better attitudes next time and go about situations correctly"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGVFZHbzJZVmRsYkZCUVlrNXRaVVE1WVhkeVpYYxAB",
+            "text": "Whole vibe! The place was packed when we walked in, but service was on point and the food was amazing with fair portions. Only thing—music was sooo loud, hard to talk at the table."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOMlRIbEpOMGhEVVdsaFpVUlVhbEZZV0ZkTVMyYxAB",
+            "text": "Vibes were on point and the drinks were strong and well-made. The food was tasty overall, I especially enjoyed the clams, crab cake and that bread. The steak was good, just cooked more than I would’ve preferred. Overall, a solid spot and I’d definitely recommend making a reservation ahead of time."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCNGVGWXlkblpGTFRVNU4yaGFZMDlUT0c4eE4zYxAB",
+            "text": "Not a place to go if you want to talk but it's a great place"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCU2EwMXpNM0UxWm04ME4yUjBRbW8wYzA5WVpsRRAB",
+            "text": "Good Service"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSS1YxSnhNMDFOVVhVeGREWkRTa3A0Tkc1ck5YYxAB",
+            "text": "Went for my birthday last night. The food was really amazing, the vibes are great.\nThis fast paced high volume place I was super impressed with the staff , how they all work together , everyone knows what they are doing and how to do it. The manger truly picked a great team of people\n\nMy partner was little concerned at first because we sat small little table and thought the table would end up being crowded but the staff was extremely quick to pick up plates , drinks, dishes as they are finished so and the next course comes out it's not crowded. They refil waters quickly too.\n\nThe staff does there great but don't expect to have any conversations with your server because it's high volume. Lol . If you don't know what you want as they come they'll come back to you❤️\n\nEverything from food to drinks was perfect"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205dFNFdG5TRUkxZVZKQmVtRmZObDkwWmpnMVkyYxAB",
+            "text": "Kyle the photographer was so amazing"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSM01VOXlibUZaWm1aTFkwOXJVbWxMT1Vaa1NWRRAB",
+            "text": "Kyle photograph was great and took great pictures"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kaE1uQktTRVZQTTJOck1DMURhRmRVVEU5UGRrRRAB",
+            "text": "Good food, zae took 🔥 pics !!! Thank you, always a vibe"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204eGFFSjFaa0ZvUTJkU1prZG1lVmRCY21SVGFVRRAB",
+            "text": "I love this place! I’ve yet to have a bad meal here and the service is impeccable tbh or at least it is for me. I am here often so all the staff know me and it’s like my own personal Cheers. If you’re in East Harlem definitely check it out —- they play great music, too!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kNlQyTkZXbmR1VWxSRWFXczJhek5YTTBOM1YzYxAB",
+            "text": "Yum! Great service, too. Would come back!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sSFF6TmtiV1EwVWsxSlZHd3lkbnB6VjJGMVZIYxAB",
+            "text": "Nice vibe for eating out"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25BMVJrSlJabmREVFY5clMxVkpTR1pzVGxwaE5rRRAB",
+            "text": "I loved everything I ordered. I even ordered a 2nd one to go because I live all the way in Brooklyn."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZeFprVlhWRlJ5ZEhjNFVWRm5SVEEyV21rNGRFRRAB",
+            "text": "I lived in New York and had never heard of Ricardos on 110th in Manhattan. What a Beautiful experience"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201dFpGSnZiMjkyTjJ0NmNXTlhiRzVCU0ZkTk1XYxAB",
+            "text": "Great place ! Zae the photographer is fire 🔥🔥🔥🔥 will definitely be back !"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201eFZXVnhSakZITW1OSGEwSlRTRlZtV0dwM2MyYxAB",
+            "text": "Love it here! Food is amazing. Drinks are delicious. They have an in house photographer named Zae who’s super professional made us feel comfortable and took such cute photos of my sister and I! 10/10 recommend"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psaVpERkxUMHRET0hsME5YRlFkVzk2VTIxNUxWRRAB",
+            "text": "Great atmosphere! Try the crab cake and the porter house steak! Awesome!"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ1MmNHcHRnRRAB",
+            "text": "My 1st visit was amazing. The atmosphere was very relaxing. I will definitely go again."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paemVqbFFWVWcwV0VodWVUaFNjbGhITmpsaU5IYxAB",
+            "text": "The best place  by far that we visited"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKeVF6TjZRMmRMVERBMU9EZElPRXBpZVdkcFptYxAB",
+            "text": "Zae the photographer was amzingggg"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WRmNFOW9TRFpqU2pCVlVWUlpVR3BHTVdOR1pIYxAB",
+            "text": "we love ricardossssss <3 thank you zae for great service"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBMlIxWlNZMFp4T0U1b1dEWXpMVUp0V25JdGIzYxAB",
+            "text": "I’ve heard so much about this place I needed to check it out for myself ! I came here to celebrate my birthday and I would love to start off on how coming in to Ricardo’s the vibes are immaculate. It was a bit crowded but the wait wasn’t long, I do recommend making reservations just to be on the safe side. The music, the ambience was incredible. Staff made sure to greet you properly and answer any questions you may have. The drinks were 10/10 the food was AMAZING & so flavorful. Overall I would definitely come back, I would love to try their brunch specials ! Thank you again for a wonderful night :)"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCdFNsUnZjMmhtZEZwNlMzcGpUM0JvTldaaVZYYxAB",
+            "text": "Everything about this place is great. The service is attentive, the food quality is stellar, the art on the walls is engaging and the music is always on point. My only complaint would be the prices, but the food makes up for that!\n\nI typically go here right after work so drying the dinner rush. Some days I have a reservation and others I don’t, but I have never had to wait too long."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVd2FIcFZOSE5yVmpkelh6VnFMVTkzZW1oRFRsRRAB",
+            "text": "I’ve heard so many great things about this restaurant! So, I was really looking forward to celebrate my sister’s birthday here. Upon our reservation we were seated immediately, which was a huge plus! Shout to the matire d! Then about 10 mins after being seated, my party and I tried to get the attention of any waiter/waitress so we can place our orders. There were so many waiters that at one point they were on top of each other and or in like a huddle. 15 mins later we were able to place our orders. The food and the frozen drinks were good! However, upon gathering our belongings to make our exit, there were 3 roaches the came from the plant pot. We’ve got the attention of one of the waiters and about two others whispered and pointed to the roaches crawling around on the floor. To excuse the roaches appearance and to rectify the situation our waitress gave us a round of free shots for our party of four. I would have rather money off the bill."
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKdWd1N3ZyeXBhNWJnEAE",
+            "text": "I love everything about Ricardo's!!! The vibe, the atmosphere, the MUSIC!!! I went for mother's Day with my mother and a bunch of her friends and when I tell you we had a time, a TIME WAS HAD!!! I would definitely go again and definitely recommend friends and family. The staff were on point and nice. My only thing I would say is that just a little more alcohol in the alcohol beverages other than that, I'm a happy customer!!! Oh and there's a professional photographer there as well with great prices for photos."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKQ2IxUk1WRXd5VDNSblNsZHhZbk4wV0hOdFkzYxAB",
+            "text": "While I only tried the other people's plates, and I only enjoyed a salad with steak, what I had was absolutely wonderful.  I'm looking forward to going back and digging a little deeper into the menu.\nThe service was very attentive and the others in the restaurant all were enjoying conversation and their meals.  We went on a early Sunday afternoon, and the \"brunch\" was perfect for us.  Look forward to going back."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psWWNsaElhMDFCU1RaS2FqaEJOMGxOTFhKWVNWRRAB",
+            "text": "My daughters and I recently went on a “Daddy Daughter trip to the east coast. We stayed in Philly and drove up to NYC to hang out for a day. We visited Harlem, NY and stumbled upon The Ricardo Steak House. Parking was scarce by it being a Saturday evening, but as I spoke to the maitre’d about the best place to park, a spot opened up right in front of the restaurant and she told us to park there and come inside and enjoy our meal. The atmosphere was lively, 90’s music mostly R&B, and we noticed groups of friends and family dressed nicely and gathered to celebrate certain occasions. The food was amazing, everything was well made seasoned to perfection and they also had a nice wine selection. Our waitress was nice, polite, and had a razor sharp memory and helped make our first experience at Ricardo Steakhouse very pleasant and memorable. I don’t remember her name but I do remember she was from the Bronx. I give Ricardo Steakhouse Five out of Five Stars‼️⭐️⭐️⭐️⭐️⭐️"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZc2JMeV93RRAB",
+            "text": "I had a great experience celebrating my son’s 12th birthday. The waiter was very attentive I forgot his name but he was GREAT!! The atmosphere was comfortable while playing music. I highly suggest reservations if you have a party of over 4 people. I went on a Thursday around 5pm and the restaurant wasn’t crowded.\nLet’s talk about the entrees: I ordered the lamb chops with spinach. The lamb chops were tender and seasoned well! I highly recommend it!! The spinach was sautéed with garlic, delicious!!! My son ordered the pork chops and he said it was so good !! It was his first time eating grilled pork chops remind you he’s a picky eater. My daughter had Alfredo with salmon and she barely had leftovers.\nI ordered you don’t know Jack cocktail, it was refreshing. I don’t have any complaints but again I highly recommend reservations, especially on weekends."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psaFN6SmhZMVpZZG1WSGRVdFBWMFZGVWtsV2NGRRAB",
+            "text": "Celebrating my daughter's birthday. Food and service was excellent as always. They picked the right song to bring out her birthday cake 😄😄"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Sa01XcE5NRVpRUkVjM2MwSkljMGhJZERWalNtYxAB",
+            "text": "Came here last week to have dinner on my birthday, surprisingly found parking right out front and the place wasn’t crowded even though I had reservation!! The place is not to big, but not to small. There’s three bathrooms which one is kinda hidden behind a curtain next to kitchen so it’s a lil weird to see especially since the lights were dimmed, the other two are off to the back area, didn’t really like the setup, some weird guy was drunk and came knocking on the door immediately after I went in, mean while my peoples was sitting at our table in the front area!!! The food was delicious and the happy birthday dessert was also good (not free), the margarita drink was strong and had a good taste. I think people over hype this place up, maybe I will try the brunch one day. I would agree with others the music is LOUD but the DJ was rocking!!! Also the menu is limited not huge selection of options so don’t expect to come and get wings and all lat other kind of finger food appetizers 😂😂😂😂 cute spot tho, mad face tooo 👀"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRM003YlR3EAE",
+            "text": "Very very very tight seating.  Food very tasty.  Sangria did not enjoy.  I ordered the shrimp mussels and salmon meal along with crab cakes .  A steak meal was also ordered.  Try to get there early or you will be spinning the block around and around and around looking for a parking spot.  Happy eating"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3bnREX2VREAE",
+            "text": "My daughter held a brunch for my birthday.  Family and friends came out to celebrate and enjoy life. Some of the food was good, but my husband's and son's  steak was very tough to cut, but everyone else enjoyed their food. The Unlimited Mimosas was very tangy. I'm definitely coming back to try their Happy Hour."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJeUlpNkN3EAE",
+            "text": "Love this place. Probably the best skirt steak I've ever had. The server Samantha was very friendly and attentive. The bread is super delicious! Love the R&B vibes."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfLVlXazBBRRAB",
+            "text": "My husband and came to NY for the weekend and went for his birthday last night. The vibe was awesome. You could tell regulars were in there or that they just knew each other from around the way either way it was nice. The best thing to do is definitely make a reservation otherwise the wait is crazy or you might get turned away. The service was great they checked on you almost every 6-7 minutes filling up your waters, relighting the candle on your table etc. The food was great it came out super hot not just waiting in the window. I ordered pasta but wished I had ordered what the other tables around me had ordered. My food was good but theirs looked great. I recommend you going there. It was worth the price. The drinks were good as well. I didn’t take a picture of my pasta."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLMlR3cGlsb0plWmlBRRAB",
+            "text": "As always Ricardo’s is a vibe, the food came out and the carb cakes are my go to ! I had the Ricardo’s special meal also and I felt the chicken could have used a little more seasoning, the steak was cooked to perfection. The drinks are always hitting and the music is always on point. I love the new little outside seating area they have."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1UFVISXpiV1pEUlRsRVZXZHFNV2t6TVVGVlEwRRAB",
+            "text": "Wow great food great experience  service  was very  attentive  wonderful  place to be at"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQNXZyYmhRRRAB",
+            "text": "Went for a weekend brunch with a large group for a birthday celebration and everything went pretty well considering how busy they were. Food was amazing. Service was good considering our party size and just how busy they were, but could’ve been a bit more attentive."
+        },
+        {
+            "date": "3달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCblFXa3RORE5EWWsxWlVsWTBMVkZxTjNkRWJGRRAB",
+            "text": "Trés beau restaurant bouffe excellente seul bémol musique un peu trop forte à mon goût"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3eU1FeExOSFI1YzJ0T2FHcFhRekZsTURWTlNFRRAB",
+            "text": "The vibes at Ricardo Steakhouse are immaculate! From the moment we walked in, the energy was upbeat and fun — perfect for a night out. Our server was so kind and attentive, and really added to the experience. We came here to celebrate a birthday and they truly made it feel special. The attention to detail, the way the staff celebrates with you — it’s such a great touch. Highly recommend for a special occasion or just a great night with good food and good vibes!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBcmF6RHZRRRAB",
+            "text": "The food was just okay. I haven’t been here for several years and it feels like the food has gotten worse. The rice taste like boxed rice and my friend who got the fried chicken said it was very mid. Hopefully they can improve their food but for now I probably won’t be back any time soon."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4b3FqUVlREAE",
+            "text": "The music selection was on point, mostly R&B and Hip Hop. Our waiter and busboy was excellent. They went above and beyond to make sure our experience was an excellent one. There were 5 of us and she took the time to share their special for the day and recommend her favorite dishes. She also provided prompt service. The wait for our drinks was not bad and they were delicious. Our appetizers were larger than we anticipated, by the time our entrees arrived we were already full. The bottle of champagne we ordered was delivered when we asked and chilled perfectly. Great for a group event."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQNjlQRWhRRRAB",
+            "text": "A bit pricey but the food and drinks are delish! Good vibes and customer service. The space is a bit cramped for the amount of patrons that frequent the restaurant. Hopefully they will consider obtaining a more spacious location."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJS203YVhXOTUyUG5RRRAB",
+            "text": "Ricardo’s Steak House never disappoints! From the moment we walked in, the energy was lively and the atmosphere was warm and inviting — truly a Harlem gem. The food was absolutely incredible — perfectly cooked steaks, flavorful sides, and everything came out hot and fresh.\n\nWhat really made the night extra special was our waitress, Melina. She was outstanding! So attentive, warm, and personable. She made us feel like VIPs from start to finish, checking in just the right amount and offering great recommendations. Her service was seamless and genuine, and you could tell she really cared about making our experience a great one.\n\nI’ll definitely be coming back — Ricardo’s is hands-down one of the best dining spots uptown, and Melina is a star!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3OUxlUTJBRRAB",
+            "text": "Nav the photographer was amazing ! Got some cute photos of me and my family! The food was also amazing. Lobster Ravioli - 10/10. Also - try the wild thing & Thank Me later!!!!!!!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJMkltdDRBRRAB",
+            "text": "Hmmmmm🧐🤔\nWhere to begin? So much to be said about this place…\nFor starters-the bouncers! Super sexy, muscular dudes and very friendly. They definitely add a safety vibe to the place. First time patroning a restaurant with bouncers.\nShould have given me a clue about what I was walking into.\nSooo, I was here to meet up with my girls. Having the semi annual girls night. We were booked for a party of 12. Ofcourse, there were the usual stragglers despite tricking them into getting there a whole half hour earlier. Ricardo’s had us booked for 5:30 but since the majority didn’t get in until 6ish, we were set up at a make shift spot. My guess is that they over book in the event, one party pulls out they don’t lose the money. No problem with that. All about clocking dollars. Unfortunately, the space was tight and not convenient for all parties to converse. Not ideal but not a deal breaker. As the night wore on, shit started getting “real interesting.” For one, as you enter, you have to make your way through a sea of dudes. I mean full on body contact. It was the exact same thing exiting too. In fact, I had to wait a few minutes for people to make their way out of the door.\nOnce we were seated, it was on and popping. Where do I start. The floors-were straight up ICKY STICKY!!! I could hear and feel my shoes pulling with each step from whatever had spilled and semi-dried.\nThe menu, felt as if it were literally taken from a table from patrons who had just ordered right before I received it. Had to wipe the greasy film off of it.\nAgain, another red flag BUT I’m not one to abandon ship before I get the full experience. I like that there was a nearby door, however, I noticed it wasn’t labeled “exit.” Always looking for an escape plan in the event something pops off. Besides, where I was seated was too far to make it to the front entrance.\nI knew what I wanted before I even got there. We selected from the pre-fixed menu. I chose the skirt steak and and potatoes. I order a watermelon cocktail-a pinky something. Here’s when it went all the way left for me. For one, the waiter brought the plates and each person had to pass the plates to each other.\nThe steak tasted as if it was drowned in garlic powder. I LOVE garlic but this was over powering and I am not a picky eater AT ALL. The potatoes tasted as if they were over microwaved but semi edible. How can you screw up a salad? The salad was submerged in vinegar with a hint of olive oil.\nThe drinks though…🤦🏾‍♀️🤦🏾‍♀️🤦🏾‍♀️\nThe waitress sits all of the drinks down on one end of the table, and proceeds to leave. Immediately, my sister stops her and asks her, which is which. She makes an effort to tell us as she picks two or three of them up, looks at them and takes a few guesses. Must have gotten overwhelming for her because she eventually gave up, walked away, hands in the air, mumbling, “I don’t know.” And guess what, we had to pass the drinks down to each other AGAIN!!!” To add insult to injury, one of my sisters does not even drink, two of them ordered the same drink but one was virgin and the other was not. Thank goodness the one who ordered the virgin wasn’t on the wagon. We, the patrons had to figure it out!!!\nWhere they do that at?!\nThe drinks were straight up, DISAPPOINTING!!! And that says a lot coming from a straight no chaser tequila drinker. There was all bottom shelf liquor, it wasn’t even the liquor that was advertised either. Tasted like a mush mosh of alcohol, a few ounces of juice and a few pieces of ice. I have no problem paying good money for a quality drink. I paid $18 for trash.\nAt that point I was just done. The one saving grace was the music. Whoever was handling that-was on point.\nI do like that where I was sitting it was a diverse crowd. Asian, Caucasian, a woman and her family celebrating her 80th birthday and a few gay couples.\nI highly recommend this place to anyone in their 20s, 30s or 40s or if you’re looking to hook up.\nIf you prefer a more quiet intamate spot, this is not the place for you."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4bWR6M293RRAB",
+            "text": "Really enjoyed this fun spot in Harlem! I had a burger which was very tasty and flavored well. My friend had the skirt steak which was phenomenal!! Nice, fun almost club-like atmosphere. The music was a little too loud but the DJ made fun choices. Wait staff and hostess were very friendly and attentive. Would definitely return!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBc2EtUmtnRRAB",
+            "text": "Needs updates.\n\nThe food here is consistently good and thats how they’ve managed to maintain their popularity but they’ve clearly outgrown the space. It’s crowded, tight, loud and uncomfortable.\n\nCame for a birthday celebration with a party of 11. Our party was on time except for 1 person. They insisted we couldn’t be seated until the last person arrived, however they assured us our table would still be available when they arrive. The person arrives 5 minutes later. The space was so crowded the table operator confused us with another party and seated them before us and blamed it on “their system being down”. We all waited in the tiny wait area on top of other people waiting. They kept telling us 10 minutes knowing the wait would be longer.\n\nIn the meantime i sat at the bar and TRIED to have a drink while we waited and couldn’t even do that. The bartender brushed me off as he was making drinks for the entire restaurant and still had to make drinks for the people in front of him. 1 bartender for a packed Saturday night is absolutely ridiculous.\n\nStill waiting and growing bored i start recording the chefs in kitchen as the kitchen is right in front the bar. The manager walks over to me and starts hovering…\n\nAbout 15 minutes later they put together a make-shift table in the back of the restaurant   in a corner where we could barely squeeze into our seats. The waiter then gives us regular menus when they had arranged prefixed menus for us. The night was chaotic and we could barely talk amongst ourselves because the music was so loud. There was a speaker directly over us. The only thing good was the food.\n\nI WOULD NOT RECOMMEND FOR LARGE GATHERINGS Or even an intimate date night where you actually want to have conversations"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUdWNHX1NREAE",
+            "text": "Had an amazing time dinning here! The service was great, food tasted delicious and cooked to perfection. Started off with some fried calamari and complimentary bread. We ordered two mojitos. I got the filet mignon, my partner got the ribeye. We also got the mashed potatoes side dish. Everything was really yummy. Highly recommended going here. I will definitely be returning and trying their different dishes."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfeDlLN2lBRRAB",
+            "text": "So, my best friend decided she wanted to celebrate her birthday at this restaurant, and I jumped in to plan everything about three weeks ahead of time. You’d think reserving a table wouldn’t be too hard, right? Well, it turned into a whole saga. I called the restaurant multiple times, only to be told their system was down. After what felt like an eternity, I finally got a confirmation text to set up the reservation. You can guess the twist—just a few days later, they told me they couldn’t accommodate us after all! Talk about a rollercoaster. But, in the end, it all worked out.\n\nNow, let’s talk about the vibe of this place—it’s absolutely **amazing**! The music? Oh, it hits just right. We were a party of twenty, so they made us choose from a pre-fix menu, which was $80 per person. The food was phenomenal, but here’s a major bummer: my husband found a long hair in his salad. Yep, he had to pull it out of his mouth! The waiter apologized, but honestly, he didn’t seem too concerned about it.\n\nOn the bright side, the drinks were delicious and expertly made. However, the night took another unfortunate turn right after we received the cake. The staff approached us and said, “we don’t mean to rush you, but we have several people waiting for these tables.” I cannot stress enough that this was as we were still enjoying our dessert. It completely ruined the vibe and left a sour note on what should have been a fantastic evening. Overall, it was a mixed bag, but we made some great memories despite the hiccups!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3Nkx5R0Z3EAE",
+            "text": "I've been here many times before. The food and music is always such a vibe. I love to getting the \"richardo special\". Can't wait to go back. A reservation is recommended because it can get very busy and sometimes loud."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNleEpuQTh3RRAB",
+            "text": "My husband and I dined here on our 10 year anniversary trip. It did not disappoint. Great music, great food, excellent customer service!! They add the gratuity to the bill which was a shock for us. It was only 2 of us. We would have tipped more on our own. They could turn the music down just a little, other than that it was a great dining experience."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZNkptS2h3RRAB",
+            "text": "Services was great..Great place for dinner..had the salmon special...it had salmon, mussels and shrimp with mash potates"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNReEsyUWVnEAE",
+            "text": "Always a vive coming here. Love this place. Food, music, and drinks are awesome. You have to reserve ahead of time. Trust me, it saves you the waiting time, which can be long sometimes."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMQ2RxTlNMdHNPRHBnRRAB",
+            "text": "Okay let’s start by talking about the service. I called to make a reservation for my birthday and no one answered. BUT THEN I got a call back immediately from a wonderful concierge/host named Chris. Chris was so dutiful, gave me excellent advice on dates and times, helped me pick the best table, offered me insight on the peak hours of business (for my birthday of course we want the best!) Chris did not let me down at all!! Held my hand through the process, was super patient when I needed to call the restaurant 4 times in one night, helped me reserve space for 2 events!! and offered me an honest opinion when I asked for it!! things a good-natured person would do any day, Chris is the bomb dot com!! make sure to say hello when you stop by. oh, the music and the food are excellent too !!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3M2RHMnZRRRAB",
+            "text": "If you're looking for a youngish, trendy hip hop, hangout, club-like atmosphere that serves food, this is your place. The food is served with great presentation but lacked flavor. I ordered the red snapper with mashed potatoes topped with shrimp. The filet of snapper was buried in a huge lump of mashed potatoes, hard as it was overcooked. The filet was not as the the index finger. It was then covered by grilled shrimp that had no flavor. The plantains were good. The lamb chops were just ok. They lacked flavor. The music was entertaining as crafty cocktails flowed. There's security standing at the entrance guarded with a chained across sidewalk. Really? However, It appears to be popular for sure."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOSzkwZlh6ekxydEdREAE",
+            "text": "The service was Great , I came with a large party of about 20.  Paola was AMAZING!! ,she was our  server for the afternoon  she was patient levelheaded and extremely enthusiastic. She kept us up to date with them timing and made great connections with our table. Definetly a very warm welcoming environment after a busy week! thank you"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wdFFrWndaMFZUVkc1YVRFUkhOa2t4Tm1ST1dYYxAB",
+            "text": "L O U D.\nThe mixologist crafted excellent cocktails."
+        }
+    ],
+    "reviews_count": 86
+}

@@ -1,0 +1,488 @@
+{
+    "name": "Tias Restaurant",
+    "place_id": "ChIJrWGSOpxFyoARylU7dE05_H0",
+    "grid": "SI1",
+    "address": "1812 W Sunset Blvd, St. George, UT 84770, USA",
+    "rating": 4.7,
+    "user_ratings_total": 709,
+    "phone_number": "(435) 922-0555",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKZk4yWk1hemhVYTFNMGFqQmZRVXh5Vm5BeU9YYxAB",
+            "text": "The pupusas were awesome.  Perfectly fried and the zucchini cheese filling was evenly balanced."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4Uk1qTnBhMkp6ZHpWZmRFMHRTVnBYVUVwM2QzYxAB",
+            "text": "So… good and unique! Such a cute family restaurant."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSMFREbEtWamM0TFV4dFRYTjRhR014WTJKV1ZtYxAB",
+            "text": "Amazing papuas!!! If you've never had one you're missing out. Try the pork, bean and cheese... absolutely delicious!"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwV1FsOVBSbWxFZUhWbmJHZHRSV2s0TTJVMU9WRRAB",
+            "text": "Muy rico lo recomiendo 👍"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pVd1ZtWjBXVXhPTjAxVWRFaHpOelZWVnpSTldXYxAB",
+            "text": "New favorite spot in town! The pupusas are absolutely delicious, the staff is incredibly friendly, and the restrooms are very clean. The menu is diverse and everything is surprisingly affordable. I’ll definitely be stopping by every time I’m in St. George!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toUFdVWXlZVlJCYWpBeVFtZHdjVmN3VHpoalRHYxAB",
+            "text": "This place has the best pupusas in Utah. I wish I lived closer so I can visit more often. Even my daughters who are very picky and only like their grandma's pupusas loved these ones. They were very stuffed with cheese and meat. I ordered the zucchini ones and they tasted exactly like the ones my mom makes, I was surprised they were so good. The aguas frescas were great too. Service was also great. Will definitely stop by every time we're in the area."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkRVgyZFlSRlI1ZURneFRrOHpNRm8wUjJ3d1NuYxAB",
+            "text": "We were in St. George for the weekend and wanted to try somewhere new! Sooo so so good! We got vegetarian pupusas and also some vegan items that were absolutely AMAZING! Highly recommend the vegan nachos and chik'n taco! Amazing customer service too!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wUFdsUXpiVWREY0hwbE5tMVlRVnBJU2xwTlQyYxAB",
+            "text": "Oh wow ,this place Tia’s should absolutely not be missed if you’re passing through St. George. The pupusas are mind-blowing, fantastic texture and delicious. Everything tasted great, and we’re definitely going back!"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0NVdUVmplWFpyVTFaZlVVRlFUVEJGU2pOaVZXYxAB",
+            "text": "Ricas popusas"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCNlJrUnpZV2hPVTBKTFNIUmZXR1oxYTJvMFlXYxAB",
+            "text": "Delicious food and reasonable price. Not very busy so we didn't have to wait long at all for the food. We will be back!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjMmJXWkRXazVYTTFNNU56bG9Xbmd3UTFOcWVsRRAB",
+            "text": "The food is delicious! We will be back."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNldGJiWnBBRRAB",
+            "text": "Good food prices little high in my opinion  under new management service bad, and natural drink on that day is not good"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKNldIVXpNSGsyVVRkbWIxSTJSRTVvVG1sSmNIYxAB",
+            "text": "Love the vegan options here!!! The tacos are to die for 🤤🥰🌱…"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SaVprVk1aVzlYVFVselMzcHNUVEZXWHpSRWVIYxAB",
+            "text": "My first experience here. I will be going back the next time I am in the area.  The food is wonderful"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2trNVFuQldORVV5TWpGaVZuWTFRVjg1VkZOVFEwRRAB",
+            "text": "Crazy nachos, and the fresh made tortillas for the tacos were so good. Would love to go back and try the pupusas!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ScFoxTjFSMGxVYUMxd1kzWmtiMHB0UVU5TWFuYxAB",
+            "text": "I’ve had pupusas at different restaurants and they just don’t compare to these. These are the best and make me want to come back for more whenever I’m in town."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sNmVsOTZhR28zUVcxWWMzcFhNM3BuWldoU1kzYxAB",
+            "text": "Love their pupusas!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGMmRFdEZTMmRNVlhoVFlraE5Za0U0WkVSRFVHYxAB",
+            "text": "Food was really good, my husband and I have been trying ro venture to new to us places and sticking to the mom n pop shops. This will be recommended and revisited for sure!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KMFFrSkdTR2haZWtWamNXdG5ZbUoyYUZNM1EyYxAB",
+            "text": "Delicious vegetarian and vegan options! Everything tastes homemade, and is very flavorful. Prices are affordable, so I always try lots of new options! Tia’s is a great casual food option."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSd1ZFWlhhV0ZGT0ZadGNHWk5OMXB5YVRKbFJFRRAB",
+            "text": "Love this place. Their loaded pupusa is so good, and they have some vegan and vegetarian options as well."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CcFRWcHlVM0JGZUdseFoySjVMVWRyWW01NFZsRRAB",
+            "text": "Amazing food! Love the pupusas"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaVU9IRkNkVGRQUkV4blRqSnFSek4wYTBwWmNuYxAB",
+            "text": "Such yummy food! Great quality, quantity and price.  Definitely going back!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201RVJHYzBUMGhUZFhCblJHcEdSRTVPU21sellrRRAB",
+            "text": "A flawless dining experience — everything felt thoughtfully prepared."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNSFJ3YWppN19HQ0h3EAE",
+            "text": "The best vegan nachos I've ever had!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VOUEV2dFNIbDRIRThBRRAB",
+            "text": "Came here to eat but lady just looked at me 3 times and never came over to greet me or say anything. \"Well be right with you\"  Waited for 5 mins.   I'll takebmy business somewhere else."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMUEl5TXZxazd6MnJ3RRAB",
+            "text": "One of my favorite places to get Pupusas!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOSG40YldIeWZPdzdnRRAB",
+            "text": "Riquísimas las pupusas!!! Excellent food and really nice people that work there. What a gem of a place. A must try!!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VOeTItX3o4b3N5Y1lBEAE",
+            "text": "As we came in the door the hostess was on the phone. She did not acknowledge our presence in any way. After 10 minutes she hung up and immediately took a new call. We felt that she should have asked the caller to hold and taken out order, since by then we were ready. After waiting another 5 minutes with absolutely no acknowledgment, we left and will not be back."
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZZ1lHTHpnRRAB",
+            "text": "Muy buena comida,nos encanta todo fresco y disfrutamos mucho las pupusas de loroco y revueltas y el desayuno típico salvadoreño increíble.Felisidades a sus dueños por tener un pedacito del Salvador."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvcGRXbzhBRRAB",
+            "text": "It’s just so disappointing going into a place expecting that they have what’s on the menu,  when you have something on the menu that may not be there always then I think the menu online and in store should say so - that these are subject to timing or that it’s not always available. We had a big family hoping to have the vegan menu items and after a 7 hour day of travel it’s just a. Bummer because they didn’t have what our kids would eat, the only they thing they said is that it’s not on demand so they don’t have it. So I just don’t think it should be advertised. We have come here a year ago and they had all the menu items, but I think they sold the business and this is no longer the case"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURveFppcG5nRRAB",
+            "text": "Great food and excellent service!\nWe had no idea what to try and were given some suggestions by the lady at the counter. She suggested pupasas for my wife and the 3 taco platter for myself, and both plates were really good.\n\nThe red and green salsas were flavorful without being too hot.\n\nWe will have to come back and try more things!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvM0pDeDJ3RRAB",
+            "text": "Awesome carne asada nacho!  Great little restaurant.  Recommend giving it a try!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJenEyX2lRRRAB",
+            "text": "First of all, the pupusas were delicious and I really enjoyed them. Now on to the bad news.\n\nI ordered two pupusas at 11:15. That's it. Not long after a spanish-speaking table arrived, ordered and got their food within 15 minutes. Then another spanish-speaking table arrived and got *their* food within 15 minutes. At 11:55 I flag the waitress down and ask where my order is, because it's been 40 minutes. Without even asking the kitchen she says \"5 to 10 minutes\". At 12:15, 20 minutes later, I walk up to her and ask her to double check the kitchen got my order because it's been over an hour and my order wasn't large or complicated, plus it's been a pretty slow day for them (place is only half full). My tone was polite and even a tad apologetic. She actually sneered at me and said that the order was in and she was sure it would be out soon. 10 minutes later I got my food.\n\nI get that sometimes kitchens get backed up, but this did not seem to be the case. I felt that I kept getting kicked to the back of the line and no one ever offered to make it right never checked in on me, etc. Just awful service."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3bTR1dF9BRRAB",
+            "text": "Amazing food and I love that they still have vegan options. Just be prepared for a wait. I ordered two tacos and waited 35 mins and there was only a family of 4 dining in in the lobby. Not an ideal option if you are stopping in to pick up lunch on a break."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3bHEtS2pBRRAB",
+            "text": "Great place to eat papusas if you’ve never had them. It’s a great switch from other Hispanic restaurants and we’re fairly quick with the order. Wonderful drink options as well!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3N3AyclFREAE",
+            "text": "The food and the staff are all so wonderful! Delicious, generous portions, and so fresh!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURReUphUE13EAE",
+            "text": "The Vegan Pupusas are excellent :)"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnN1BLRnd3RRAB",
+            "text": "The Carne Asada tacos were delicious! The homemade corn tortillas were great."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnc1BuMzFBRRAB",
+            "text": "The papusas are excellent and authentic. We were recommended to have the pork and bean flavor as well as the chicken jalepeno and cheese. We liked the pork and bean one more but both were good. Definitely a spot we’d go back to. Owned and operated by a really nice family so we felt good about supporting a cute local business"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnNXBqaktREAE",
+            "text": "Great pupusas for Utah. Was pleasantly surprised how good the chicken and cheese one was."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSURGc3V0TxAB",
+            "text": "This is a fantastic place to order pupusas. Very authentic and an excellent ratio of filling to masa. When I come back again I think I'd just get the pupusas a la carte. They are very filling and the rice and beans on the side were just ok. My wife had nachos and said they were good."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDdU9qdnFnRRAB",
+            "text": "I absolutely love this place!! Tia's was a great find in the St. George area and I couldn't be happier we ended up here. There were so many different choices to choose from including Papusas, bakery items, brunch, and so much more. We were…"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNydUpLYjF3RRAB",
+            "text": "First time trying pupusas. I ordered a chicken and a pork. Came with choice of side, which I ordered the fried yucca. Everything was amazing. Tasty. Not overly oily. The pupusas came with what I would call a cabbage and carrot slaw. That was good too. And a sauce which reminded me of the broth for albondigas.\nWill definitely try again.\n\nI didn't like the smell when we walked in. It smelled like someone mopped the floor with the same bucket of water....for hours.\nOur cashier/server was nice and recommended the pupusas."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfMGZxRkZnEAE",
+            "text": "Best pupusa I’ve had in a loooong time.   Granted I only had the pork/bean/cheese pupusa but the pupusa, cabbage topping, and the sauce, all had great flavor.  Clean inside, lots of seating.  Wish it was closer to my house I’d come here once a week.  Will come back to try other dishes as well.  Thanks for some good food at good prices."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBanR2Nk5nEAE",
+            "text": "Delicious chicken Jalepeno cheese pupusa. The chefs were singing and laughing while they cooked, which we loved. So so yummy! Highly recommend. Also, where else can you get a $4 meal?!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsNF9hWjVBRRAB",
+            "text": "I was super excited to try Tia’s and really wanted to like this place, so much so that we came here two nights in a row (previous night had an hour long wait and they were out of certain things like rice that we wanted with our order). I love that they have a vegan menu with several items including papusas, nachos, and vegan tamales.\n\nWhile the food was very tasty, they really messed up my order; I was super explicit about everything I ordered being vegan and ordered the vegan papusas, vegan nachos, and vegan tamale (I told them how excited I was to find this number of vegan options).\n\nThe nachos and tamale came out first; the nachos were awesome, and I started eating the tamale only to discover it had what looked and tasted like real chicken (I haven’t eaten chicken in 18 years and this had a different taste from the veg chicken I’ve eaten). I went up and spoke with the owner and turns out I was right - the order was entered in incorrectly. They said sorry and made me a new tamale. Despite this being a pretty big mistake I was chill about it and didn’t make a fuss.\n\nNext we got our papusas; I started eating mine and realized it was made with real cheese; it was very stringy and I wasn’t sure, so asked and sure enough, they messed up that order too.\n\nI really wanted to like and support Tia’s; small family owned business, vegan menu, tasty and authentic food (and pretty unique vs other cuisines you can find in UT). But mistakes like this are unacceptable, let alone two mistakes in one meal, and really dampened my opinion of the restaurant. Don’t think I’d come back.\n\nIf you’re going to order from the vegan menu, would recommend double checking after paying to ensure the order was entered in correctly."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEbXF1WklREAE",
+            "text": "I wasn't sure what to expect from loaded pupusas. I've never had pupusas this way before but I actually really liked it. I got the cheese and pork pupusa with eggs over medium. It was delicious! I definitely recommend trying it. The service was fine and the atmosphere was no frills but definitely worth the stop overall."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWNzhUaDd3RRAB",
+            "text": "So I have just found this place a week ago and holy cow I had some veggie pupusa’s and a few pork with cheese and beans also I had the pork cicerones and guacamole. These are by far the best Pupusas I’ve had in years. This is a great little place to check out. Remember they’re closed on Monday, but open the rest of the week."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURWMjVQTWJBEAE",
+            "text": "Tias Restaurant is fantastic! We tried a number of things and were happy with all selections. The pupusas were heavenly with wonderful texture and packed with deliciousness. This is a place we will be back to."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXaE1iOXFBRRAB",
+            "text": "I’ve been wanting to visit Tia’s for a really long time! I love pupusas and they were delicious at Tia’s! My husband had the combination tacos and we tried 4 different pupusas. The cortido was fresh and flavorful too. I’ll definitely be back. Thanks!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1N2JXd3BBRRAB",
+            "text": "Wow, what an awesome authentic experience. Delicious food! Their beans are amazing, the shrimp taco and the pepusas are so good. Great salsas. Clean and friendly service!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXdWM2VTZ3RRAB",
+            "text": "We were very impressed with the food at Tia’s! Our party shared plates and everything was delicious! The only dish we wish we would have switched out was the cubano sandwich (it was good, just not nearly as tasty as the tacos, nachos, pupusas, or breakfast omelet.)\n\nRandom note: when we went the lighting was really dim in parts of the restaurant. Not  sure why, but it was kind of weird.\n\nIf you have the chance to stop in though, definitely do!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzdC1fTnpnRRAB",
+            "text": "Really great experience overall! I tried the cheese pupusa, Catalina toast, horchata, shortbread mango cookie, strawberry cheesecake, and I was so full and satisfied! They met my expectations and more- and the staff was so nice too. The…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5dS0yNHdnRRAB",
+            "text": "We absolutely love Tia’s, the papusas are incredible, we’ve tried multiple items from the menu and everything is great. The restaurant is clean and spacious. We love the baked goods, we always grab a box before we leave after having a meal."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSNzdPZVl3EAE",
+            "text": "Their new loaded pupusas are the bomb!! A pupusas topped with two eggs, curtido, avocado, salsa and sour cream. So, so yummy and very filling! Also, the nachos are a must! They have the best nachos in town! The gingante can definitely feed four people! We love Tia’s!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDdVBDTGdRRRAB",
+            "text": "Here's another 5 star review.... And another person telling you to stop in. I was in town exploring the area and was lucky enough to stop by and eat. All 8 of us were happy with the choice. We had mainly papusas and about half of the bakery items. I will definitely be stopping by again the next time I'm in town."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoNHZPd2RREAE",
+            "text": "The pupusas are so yummy. The pork, bean and cheese are the most popular, but if you want to try something new- the loroco was the surprise hit of our visit! It tastes sort of artichoke-ish. Very delicious! The staff is great to make recommendations if you need help!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKeE5DNTBBRRAB",
+            "text": "First time having a papusa and it was delicious. The loaded papusa is amazing, especially for $9. The shrimp tacos was also really good. Overall really good food here!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlN19HOExREAE",
+            "text": "Great authentic food. The fish tacos are made with salmon. The chicken nachos are really good too. The people are super kind and helpful you’ll definitely enjoy Tias."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4OGFxOVdBEAE",
+            "text": "What a gem. The staff is super friendly and the menu has something for everyone. We had the nachos gigantes, loaded papusa and waffles, everything was delicious!!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1MVBUQ29nRRAB",
+            "text": "So glad to have another option to satisfy my pupusa cravings! Loved eating here. The nachos were awesome! And the pupusas definitely hit the spot. The staff was very pleasant and attentive. Many more plant-based and vegetarian options than I expected. Very impressed with Tia's! We just may become regulars here."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoNG9TNC1BRRAB",
+            "text": "Absolutely delicious food! The papusas are phenomenal! The owners are so sweet and personable. The nachos are HUGE! The sauce they put on them is so yummy."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlcDRPYWZBEAE",
+            "text": "Loved this place! I'm vegetarian and my friend is vegan, we had so many options! I ordered the cauliflower and cheese papusa and the Chickin' taco. Both were super good, especially the cauliflower papusa!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ2NkkzbEdBEAE",
+            "text": "Coming into Saint George and looking for good food?  Overwhelmed with all the places that look like tourist traps?\n\nStop what you're doing and come straight to this place. The food is amazing. A very unique mix of cultures show up in the flavors.\n\nWe were not even half way through our meal before we were planning our next visit here before we left town."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNodlBfOWJBEAE",
+            "text": "Took in a gift certificate that a friend bough for us but the lady said she would not honor it because it was from her sister. Then when we questioned her she started trash talking us to the counter person in Spanish but we speak enough to understand what she was saying. So they kept the $25 gift card but wouldn’t apply it to our order. We showed up at 7:30 for a takeout and they close at 8:00 but took 30 minutes to prepare our meal and we were the only customers. Don’t see us ever going back there again. Food is over priced, cold, and sloppy prep. Alfredo’s or Lamys is better in food, price, and service. Two of us = $50 plus the $25 gift certificate that they wouldn’t honor =$75. This place won’t be around much longer. You can see from the photos how busy they were. They also locked us in while we waited for our food."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6dUszQUxREAE",
+            "text": "This is my favorite place to eat in St. George and I always stop in for papusas when I’m in town. This is a small place that never seems to have very many people working, but the food is worth the wait. The loaded papusas are freaking amazing!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSM3ZYa3RBRRAB",
+            "text": "Tias was good. I enjoyed having the pupusas and tamales. The cheese leaked out pupusas while cooking so they were a little dry. But the food was unique and very fun to try."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXNzV5aGdRRRAB",
+            "text": "We randomly walked into this place looking for an all day breakfast place. But once we got inside, the unique menu lured us into trying something new. We split a loaded California salad, delicious cheesy nachos and lots of different kinds of pupusas. Everything was so authentic and yummy!!! We will be back!"
+        }
+    ],
+    "reviews_count": 68
+}

@@ -1,0 +1,544 @@
+{
+    "name": "A Pasta Bar",
+    "place_id": "ChIJcwRwc4tZwokR2sPvWN0r3h8",
+    "grid": "MN2",
+    "address": "330 W Broadway, New York, NY 10013, USA",
+    "rating": 4.3,
+    "user_ratings_total": 1938,
+    "phone_number": "(646) 762-4056",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Bd09EaHBjRnAyUTNOZk1uUkNlREpxTmtZM2FFRRAB",
+            "text": "Cool little place. Food was solid and service great. Very kind staff."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toemRrdzRlRGhKYkZsM2RqZGFjRFJWVUdwMFZtYxAB",
+            "text": "As shared by a few reviewers recently, the service esp the manager was unexpected. While the usher and the waitress were very polite and in fact accommodated a time shift and spoke so nicely to our happy toddler. however the manager swooped in within 30 seconds of our toddler being .. well a hungry toddler to say we need to pick our kid as other guests are uncomfortable. At the same time our order was waiting for over 20 mins (hence the anxious toddler who we were about to calm down) . The situation could have been handled better by the manager who basically was glad to get us out (we did not grab our meal) and I will not attempt to dine here again."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toaFZsRjJTRE5ETXpsbWJFeEdkVkkwYVRZM1VuYxAB",
+            "text": "Slurped the noodles"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCVFNGTllWRGxTTm5SM2RHTmlSMDlDT0VsWlQzYxAB",
+            "text": "Lewis was an excellent server! Pasta was awesome…highly recommend stopping in for a drink and dinner!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KdVVFZ3lVMEV6TjFkb1gzZHBjMjlEWkRaSVFYYxAB",
+            "text": "Amazing drinks !!!!!"
+        },
+        {
+            "date": "수정일: 4일 전",
+            "language": "pt",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25BMGVXRlpOR0ZUUkc1TFUwZ3RZVmx6VW1WaVFYYxAB",
+            "text": "Tudo excelente"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0TmJHSlVUMmxaYVRneU1HNXRjMVF5VGxkc2VIYxAB",
+            "text": "Place is A1"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sweVQzVXRUR3h6UkdWNVJGRlVjMWxsU0dSSE1GRRAB",
+            "text": "I enjoyed my experience here"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21rNVIyZEJUV3BuYVVsM1ltbEZXRzVJTkhwUmJYYxAB",
+            "text": "The pasta was incredible, the best we’ve ever had! Lovely service, Wilson was great. The homemade tiramisu is a must!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2preGRqQXlVMGRLZFdSbVEwMVVhMmwyUzNJMFkzYxAB",
+            "text": "To be honest, I wasn’t very impressed. The food was fine, but there was nothing particularly special or memorable about it. I had high expectations based on the reviews and the beautiful look of the restaurant from the outside, but it didn’t quite live up to them.\n\nThe service felt rushed and somewhat impersonal — my wine was being topped up every couple of minutes, which came across as a bit forced rather than attentive."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oeFJWaEpkMjV4TVdSUFJYZHZRMHRJUVZWbWQxRRAB",
+            "text": "👏🏻👏🏻👏🏻"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGb05IWkhURmRaVVhsRmJEZG5VMFZ5WWtoQlJtYxAB",
+            "text": "Great Italian food and an amazing date spot. Would highly recommend, as well as getting a resy first."
+        },
+        {
+            "date": "1주 전",
+            "language": "fr",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0a2F5MXlORUZSYjJGck5VTldXbXR5T0dZelRHYxAB",
+            "text": "Attention, grosse arnaque, c’est très cher pour rien, vous prenez un plat à 20 €, vous vous retrouvez à la caisse elle payer 50 €"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twRVRrWk9hMGhNYTNoTGVHbG5kek5yWVMwNWJtYxAB",
+            "text": "One of the worst dining experiences ever. I sat down and ordered a cocktail after waiting about 5 minutes. About 10 minutes later I ordered pasta which then came out on time but there was no drink in sight. As I watched the server communicate with the bartender and watched him make numerous drinks mine had been ran to a different party multiple times and instead of making it they spent about 5 minutes digging through bar tickets. My drink finally came after 40 minutes! I was at least expecting a comp for the drink considering, but no. Incompetent restaurant operations. As someone who works in hospitality, this is not how you treat your guests. I will never be going here again."
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuNThTdVB3EAE",
+            "text": "The pasta tasting was fun. They provides goooood food."
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSYVdtcGxkM05zTURJNGFWRXpTMk0xTkZGSWNXYxAB",
+            "text": "My favorite restaurant in New York\n& their staff is amazing."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oV09XcEZNbkphY2xrM1FteDBjVnByWjAxdVlWRRAB",
+            "text": "Very yummy"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pJMWN5MURlVlowTTNkcWNFbFRlV3RFUm5wTk1IYxAB",
+            "text": "Great atmosphere for date night or special occasions. Seasonal menu that rotates"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoWmIzQnZVbXREYkZKMVdqWkxiVlZoYkhwcFUxRRAB",
+            "text": "Love this place !!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSeFVXZGZkWGxTZUhWSlkyd3pTRWhTUldkM1dVRRAB",
+            "text": "Amazing food. Great service"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toRWQzQkxSMVJtTmtoemExTlFWM1o2TWtSS1QxRRAB",
+            "text": "Service and food were above expectations."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCaE1GTnFlbm90ZVRGbVRIWnRhVWhxTjJsbmEyYxAB",
+            "text": "Second time coming here and it was just as good as the first time!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKTWRqVlhRWFJ2YW1acE9FMTRaRVEyYVdsaE4yYxAB",
+            "text": "The food was absolutely amazing. We ordered Cacio e Peppe, Vongole and a salmon carpaccio, but it took forever because they have a pretty small kitchen for the amount of tables. The restaurant had some sort of bar vibe and an amazing atmosphere."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCUlkwbEVNa2RNYTBSV2VUQXdjMWh0VkZKWVZsRRAB",
+            "text": "If I could give zero stars, I would. My wife, who is eight months pregnant, and I had one of the worst restaurant experiences of our lives here.\n\nWe waited nearly 25 minutes just to be seated, and when we mentioned it, the manager was extremely rude. Instead of apologizing, she kept making excuses about how “busy” they were — even though several tables were empty.\n\nWhen the food finally arrived, it was cold, bland, and clearly not fresh. The pasta tasted old, and the sauce was watery. Everything took forever to come out, and the staff seemed indifferent the entire time.\n\nThe restaurant was also uncomfortably warm and looked dirty — sticky floors, dusty corners, and an overall neglected feel. It’s not a place you’d want to spend time in, much less eat.\n\nTo top it off, both my wife and I felt sick later that night, which says everything you need to know about the food quality.\n\nDo yourself a favor and stay far away from this place. There are plenty of restaurants nearby that actually care about their customers and serve real, fresh food."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCc2NsZFpabkl3YVROc0xXcDVUVzlyVDNWbVkzYxAB",
+            "text": "The food was awful. The “focaccia” was literally just stale, chewy bread — nothing like actual focaccia. The pasta was bland and greasy, and gave us diarrhea shortly after. The so-called uovo raviolo came with no egg yolk inside. Just a flat, flavorless lump of dough. Truly embarrassing for a restaurant that tries to present itself as upscale.\n\nTo make matters worse, the service was beyond unacceptable. We had a reservation but were made to wait over 20 minutes while the restaurant was clearly not busy. I’m visibly pregnant, and they didn’t offer a chair or even a glass of water. The hostess was rude and uninterested.\nWhen we finally asked what was going on, the manager came over — not to explain or apologize, but to literally scream at us. No accountability, no hospitality, just aggression.\n\nThis place is a classic tourist trap — overpriced, overrated, and outright disrespectful. Avoid at all costs."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201NmFrUnpabVJSY0hZelExTlZVVFZtWTI1TWFWRRAB",
+            "text": "So amazing! Amazing service and amazing food!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwYU9FOUxjVnBuTmpKNGFVOVJSbFZwWW1zemVHYxAB",
+            "text": "Weekend away from FL. Second time here. Just as good! Maybe better. We’ll be back."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBdFFtZDZXa0pwTUVKalkwWjJiUzF4YVhwa1lVRRAB",
+            "text": "Great place ... pistachio martini is tops"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5NlltUk9jV0pDVG5CSmRWVldhVEZaU0RWV05XYxAB",
+            "text": "The place definitely lived up to its hype, the food is incredible. The staff is friendly and welcoming. I wish I’d taken photos of the food but I just enjoyed every minute of my time here."
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSbmMyY3hObUZqYXpSME9VNU9jWFpHUzNSTFpWRRAB",
+            "text": "Teníamos una reserva y esperamos 45 minutos. La mesera muy amable y excelente servicio y actitud. Podrían ser más eficientes en su recibimiento a los clientes."
+        },
+        {
+            "date": "2주 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205aFduRktiR0Z0VjJ4bmMwaG1OVlpyYjFaVFJuYxAB",
+            "text": "Nous avons été enchantés de notre dîner en amoureux dans ce restaurant ! Les pâtes à la truffe, au carpacio de saumon et aux desserts (mention spéciale pour le cheesecake au chocolat !). Les vins étaient également excellents. L’accueil a été très chaleureux, puis le service impeccable et sécuritaire (question sur les allergie alimentaire très appréciée). Si nous revenons à NyC un jour nous reviendrons vers cette adresse pour sur ! Merci !"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsWlJEaFhka0V4Y0ZWSFVWRndaVk53T0RCc1IzYxAB",
+            "text": "The experience that you can see what they are preparing is amazing"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KUldIVjBaazlwZDNoVE1uaERRbk5vUTBvek9GRRAB",
+            "text": "Food was delicious but unfortunately the experience was disappointing.  We booked a counter table as we were looking forward to watching the chefs cook our pasta.  The reservation request also asked if it was a special occasion & we stated it was our son's birthday & that we'll be ordering a tiramisu.  We entered the restaurant & the hostess did not smile or welcome us warmly.  She asked for our info & took us to the counter.  The chefs were only speaking in spanish & didn't greet us as we sat at the counter.  It did not feel like the 'Italian' experience we were hoping for so we asked to move to a regular table.  Our server was fine although he seemed disappointed when he asked if we were ordering any appetizers & we said no.  Food came out timely & as mentioned was good, however, when we ordered the tiramisu there was no candle or mention of a happy birthday so there was no care in managing our reservation.  The lunch for the 3 of us ended up costing $200 for which we were hoping for a better experience & unfortunately weren't satisfied."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKNmJWbE1MV1ZtYUdwWmNITjJObUpIUlVKV1VVRRAB",
+            "text": "Everything was amazing. Starting from the service (Wendy was amazing), the food, the drinks, the desert. A must try!"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3cmJPNzR3RRAB",
+            "text": "분위기 좋음. 봉골레는 그냥 그랬음. 도로변에 있어서 생각보다 차소리가 시끄러웠음. 오픈키친이고 문도 다 열려있어서 프라이빗한 공간 찾는 분들에겐 그닥. 소호 쇼핑하고 밥먹기 좋은 공간임."
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJN0l2dWNnEAE",
+            "text": "전통 이탈리아 파스타인지는 모르겠지만 기대에 비해 느끼하고 제 입맛에는 안맞았습니다. 파스타는 23불정도며 같이 먹은 칵테일 또한 너무 알코올 향이나 16불이라는 가격에 비해 별로였습니다."
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURrNWRQTlR3EAE",
+            "text": "내가 찾은 뉴욕 퐈스타 맛집.. 첨엔 되게 별로다.라 생각했는데 자꾸 생각나는 맛. 1년만에 다시 먹었다 벅찼다.\n퐈스타 메뉴중 젤 첫번째 치즈 퐈스타 추천."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xU05scE9ObnB6VkZObmVHOHljR3BoWmpFM1NHYxAB",
+            "text": "A Pasta Bar takes Italian dining to a new level with a chef’s-table-style experience. You can watch the chefs prepare fresh pasta right in front of you, and every dish feels crafted with care. The truffle pasta and cacio e pepe are highlights — rich, creamy, and perfectly balanced. The staff is knowledgeable and friendly, explaining ingredients in detail.\nHowever, it’s an upscale place, so expect high prices and smaller portions. Reservations are usually needed. But the atmosphere, attention to detail, and open-kitchen concept make it special. It’s ideal for date nights or special occasions. A Pasta Bar delivers fine dining that’s interactive, elegant, and delicious."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCa2RFSlVOVmxwU1dOVlpXNURYekZ1YkRVd1owRRAB",
+            "text": "The black truffle Alfredo is the most delicious pasta I think i have ever eaten in my life…. Cool vibe and great service. Music is bumping but tasteful. Open air restaurant makes everything perfection."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25nMVprWk1kRmc0Y1hOTFZuQnVWV3R4V1hSaFVWRRAB",
+            "text": "We did the tasting menu and 2 drinks. The food was quite good! 3 out of the 5 tasting menu dishes were great, but not the other 2.\n\nHowever, the service is definitely not good. They have attitude and gave us 3 different courses at any given time. Felt quite rushed, table was too cluttered and our food kept getting cold as a result. They did this so that they can match us with other tables’ courses.\n\nThe price associated with the food + service is not worth it in my opinion. Better spots in the city where you get great food and service too!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCdlJVdzVhbFF5VFVkZmFsZElWRVJFYTFwR2FIYxAB",
+            "text": "The food is good, but the prices are hard to justify. In NYC, it’s not hard to find at least a dozen pasta spots that serve food just as good at about 30% less.\nThe melon in the melon & prosciutto appetizer was unfortunately unripe, too hard to cut and chew, which felt disappointing at $27.\nOn the other hand, the tagliatelle bolognese was amazing— easily in my top three in the city. Rich, classic, and full of flavor.\nThe pistachio gelato was just okay. Too sweet, with the sugar overpowering the pistachio flavor (and I say this as someone with a sweet tooth).\nOne small side note from a health standpoint: for a restaurant charging $30-$50 a plate, I expected a little more attention to detail in the cookware. The spatulas and utensils looked like basic plastic, which feels out of place in a restaurant at this price point. It’s not a dealbreaker, but it does make you wonder about the overall health and quality standards when the bill runs so high."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKd1UwRTJUbTFOVlZaYVFubHZNMlZmYjJKTVlYYxAB",
+            "text": "Absolutely fantastic spot! The pasta tasting is simply spectacular, every dish a delight. The staff is incredibly attentive and welcoming. A definite must-visit in NYC!"
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ZMFRFNXlNakpNUjA5ZlNXeFRlSEZJWVVwRk1uYxAB",
+            "text": "En la última visita a NYC descubrimos este local y se ha convertido en la referencia con la que comparamos locales que intentan ser algo parecido a este. El personal es amable y simpático y enseguida te asesoran sobre lo que necesites. Comenzamos destacando la cuidada selección de vinos y aperitivos, maravilla. No sabemos con qué entrante quedarnos…buenísima la Burrata, la Focaccia y las croquetas!! La pasta enseguida se notaba que era fresca y hecha allí, una delicia y las salsas perfectas.La pena fue no haber podido probar más cosas 😅, las raciones nos parecieron buenas, ideal para compartir. No nos olvidemos del jamón que tienen allí, será difícil encontrar algo parecido por allí. Postres a la altura, maravilla.Muy recomendable!!! Volveremos!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pocldYVXpOWGt4YjBOaWNsaEljM2hGUjFSalRtYxAB",
+            "text": "Such a shame, the food was amazing until I was finishing my pasta and chewed on an actual screw.  It was my best friend's birthday so we didn’t make a scene, the server was kind and tried to recover the issue but the manager only comped the pasta and sent dessert. Again we wanted to celebrate, I’ve been in the industry for years so I get mistakes happen, but this is extremely dangerous and could have really harmed my teeth or swallowed it. I privately expressed my concern and they just said sorry but in my experience in hospitality, this doesn’t recover this type of incident. I will post the only pic I have (I didn’t see it at the time pic was taken) the server took it right away concerned when it happened."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMZUR5cC16anZueHB3RRAB",
+            "text": "had the truffle pasta, salmon carpaccio, and chef’s salad—all were excellent. The flavors were fresh and well-balanced. Service was friendly and attentive. Just a heads-up: you’ll definitely need a reservation on weekends, it gets packed!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3OU91NlhREAE",
+            "text": "Very nice restaurant and a generally cool concept! This restaurant is like hibachi meats pasta? You can watch the chefs make the pasta while sitting and eating. I really enjoyed my meal (although I think it was more pasta than I could handle) and my date had a really good dish too. The space is a little tight but it’s a nice spot and intimate for sure. The food got a little cold which is why I dropped them a star, but the flavor was fantastic. Our waiter (I think Francesco) was excellent and I’ll definitely make my way out there again!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sSWEwSkRlbXRuV0ROclUxcG1VRWw1YzB0MlpHYxAB",
+            "text": "The best restaurant!!\nThe atmosphere, the service in the food was divine\nCelebrated my birthday there highly recommend\n(and please sit on the bar for the best experience😉)"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmaF9pMDVnRRAB",
+            "text": "The $60 black truffle pizza was impressive, and I appreciated the wide selection of pasta options. I also enjoyed the open kitchen setup in the center of the restaurant, and their well-designed website makes browsing dishes easy with pictures of each item. For reference, I dined with 5 friends, and we each spent over $60. While the food was enjoyable, I do find it a bit overpriced."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sU1V6TldTbUoyUnpSYVQzcGlTbEpqVFdaeWVHYxAB",
+            "text": "I’m usually not a fan of burrata, but I gave it a try because it looked so good, and it was absolutely amazing! The pasta was delicious too, but what really stood out was the incredible vibe and energy in the room. 10/10. Had a truly wonderful evening at this restaurant."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzdF91QVR3EAE",
+            "text": "Absolutely LOVED our dinner here. Seating is surprisingly limited and tight so I recommend making a reservation. We snagged a reservation for the chefs counter and it was such a fun experience. We decided to do the wild mushroom starter and the pasta tasting for 2 and a bottle of cab sav. The wild mushrooms were simple and in a tihini sauce. The pasta dishes in the sampler were the ones I probably would have ordered anyway. The truffle was the star of the night. Absolutely recommend for a cute date night!"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCN1pTREJBEAE",
+            "text": "The pasta, oh my gosh! Very over priced, but me I'd pay whatever for good food. Definitely worth the price if you're a foody. I almost didn't go since you do need a reservation. Please call in advance. Very vibey and instagrammable feeling place. I rated the service 2 stars because the host was not a nice word. Very rude and did not want to do her job but in the end I sucked it up but the pasta and my server made up for it all. My server was an so sweet, very attentive very polite and just made the food that much better. I did show up in sweats so no dress code. (Did go because Lauren Giraldo a YouTuber gave great unsponsered reviews and she was not exaggerating) I almost forgot the bread was fantastic. They give olive oil , but I asked for butter. My server did look at me funny so maybe that's not a new york thing, of you dip it in both still good. I would go back just for bread and butter."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Bd1drRTBZVjlaYkVjM2Frd3hUMWhpYlZZd1JHYxAB",
+            "text": "Wine was really acidic for my taste and service could’ve been slightly better (only offered 1/4 of us cheese at a pasta place??). But the food was quite good, very al dente. Tulum/Miami vibes inside"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2aHNfREN3EAE",
+            "text": "Really fun experience! We had a reservation for a Saturday night which I made weeks in advance. The food was excellent. We loved the foccacia. It was so interesting to watch them prepare the dishes, so sit at the chefs counter if you can. The space is a bit tight for sitting"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBcGI3QmZ3EAE",
+            "text": "I revisited this spot over the weekend, two years after my first visit. Since we walked in, we ended up sitting at the bar, which turned out to be a fun experience as we could watch the food being prepared right in front of us.\n\nWe ordered a glass of white wine, burrata, and truffle pasta. Everything tasted amazing, but the portion size of the pasta was surprisingly small—barely three bites! It was disappointing, especially since I remember the portions being much more generous during my first visit.\n\nIf you're planning to go, keep the portion sizes in mind. The quality is still great, but the value for money has definitely changed."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsNlR5MWZRbTVuVldoU2REaHlNbU5ZWlU5cVdsRRAB",
+            "text": "Insanely lovely and beautiful place, food is the best, staff is incredible. Thank you for an amazing experience!!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKaGNHc3RkV0ZCVW5NeGRXcGZiR1EyZGtaa09FRRAB",
+            "text": "I had high expectations for A Pasta Bar based on its marketing and reputation, but sadly, the experience did not live up to the hype.\n\nThe food was good — no complaints about the flavor — but we went primarily for what was promised to be a unique, interactive dining experience. That aspect was completely missing. The chefs never engaged with us, and there was a general sense of chaos rather than curated immersion.\n\nTo make things worse, around 10:30 p.m., they started cleaning the kitchen right in front of us. We were still finishing our dinner while watching the staff scrub and soap everything down. It completely ruined the atmosphere and made the $150 bill feel unjustified.\n\nThe waiters were kind and tried to be attentive. One even helped me switch a cocktail that turned out to be extremely spicy — something that should’ve been mentioned upfront. That was the one highlight in otherwise underwhelming service.\n\nOverall, the experience did not reflect the price or the promise. I wouldn’t return, and I wouldn’t recommend it if you’re looking for anything beyond decent pasta."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205TmFrczBYMGx4U0RWQ1YxZHNVMGhUYzNnMFJXYxAB",
+            "text": "Incredible pasta, sometimes the service is inattentive, &/or gives cliche NY pretentious vibes, but worth popping in & sharing a pasta. Small menu but therefore have mastered each plate."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJdE1TTE9BEAE",
+            "text": "A Pasta Bar is a fun, party type of restaurant where you can snap a couple great pictures of the food and ambiance and then be politely escorted out for the next party to come in.\n\nFood was very good and the ambiance was fun, just don’t go if you want to be able to take your time and savor your meal with friends. There is a time cutoff."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GR2VUWkdiSFZHZWxZMFVISjViR2sxTkZsalpsRRAB",
+            "text": "I love the transparency of this place. You can see the entire process of making your dish. Food was great especially vongole."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRX09hVU9BEAE",
+            "text": "Did a little staycation in the city and stopped by A Pasta Bar in SoHo on West Broadway. Cool open concept space. Decent vibe overall. Maybe the music was a little too loud but I was dying so low so that didn't really matter..\n\nI was bummed they were out of one of the dishes I really wanted to try, so that was a letdown.\nThat said, the pasta pomodoro was solid, savory, flavorful, and the spaghetti was cooked just right. You can tell the pasta is homemade, which I always appreciate.\n\nHad a glass of Nebbiolo. It was a really nice wine, though the pour was a little light for the price if I’m being honest.\n\nThe pistachio dessert? Total pistachio overload... in a good way!\n\nI liked the Regina salad too. All in all, a great spot with great pasta  to stop by after some shopping"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqenVPaFZREAE",
+            "text": "A beautiful restaurant with delicious food and very nice staff. Service was quick. The pudding and chocolate cheesecake dessert were amazing. The Viva Vida drink was pretty good, didn’t love it but didn’t hate it. My friend and I loved our food and our waiter, a shorter gentleman with tattoos and a buzz cut, thick Italian accent."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJcGVuY1NnEAE",
+            "text": "The ambience 10/10 ~ the service 10/10. Sitting at the bar is also a nice experience because you can see them cooking and making the drinks. For $30+ a dish I could use more pasta but that’s just me."
+        },
+        {
+            "date": "수정일: 10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQdmFxRWZnEAE",
+            "text": "Food - Recommend the truffle pasta and burrata dish. We got the buttered pan fried bread to go with it and it was delicious. My highlight was the new gin and rosemary “contessa” drink on the menu, would go back just for that.\n\nService - Great service and our waiter was very attentive. It was nice to see the open kitchen style and the ladies behind the kitchen work really hard. Great experience.\n\nAtmosphere - Cozy vibes with great music (chill and upbeat). I recommend sitting at the Chef’s table/bar to see them make the food.\n\nCustomer Service - After failing to get reservation updated, I was contact by a nice employee named Katie to assist me with changes to the reservation.  I’ll share update on the food and atmosphere after trying it out. Thank you, Katie!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmNUpINXVRRRAB",
+            "text": "Had a phenomenal experience here! Booked the morning of Resy for Fri night dinner for an anniversary dinner. We ended up coming a bit early - our table wasn’t ready but the kitchen counter was and we wanted to sit there anyway!\n\nVibes are super cool. Loud house music, moody lighting, and furniture all has a modern and sleek aesthetic. Perfect date night spot. Consider sitting at the counter - super entertaining and unique experience to watch!\n\nService is top notch. All of the staff is super on it- whether it be refilling water, clearing plates, checking in, etc. Really appreciated how attentive and friendly everyone was.\n\nWe ordered wine/martinis, all were great. For food we got burrata, cacio e pepe, and maltagliati. Burrata was unreal - def get the sauce and pistachios on top. Super fresh.\n\nWe loved both pastas. Seriously some of the best pasta dishes I’ve had in a minute. Don’t hesitate on the cacio e pepe tho. The hype is real! We also grabbed tiramisu for dessert and it didn’t disappoint.\n\nOverall, super great place to spend our anniversary dinner and will def be back."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZbnJfNkdREAE",
+            "text": "The food is excellent I wanted to have a second pasta plate😋. The drinks are a 10/10 I would even come back just for drinks they were great. I wish I was offered water refills but I had a great experience."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnLVlYb2xRRRAB",
+            "text": "We had dinner here,  it was an amazing experience definitely recommended you making reservations it’s a busy place. Pasta is amazing if you do the tasting they are perfectly timed in between.\nDefinitely recommend you try this place out."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNMGIwVmFTa3hHYm5sSVMwdG9ZbTUxTWsxTmFWRRAB",
+            "text": "We dined here on a Friday evening with a reservation made by a friend. While the indoor ambiance was lively, the music was quite loud, which made conversation a bit difficult. We mentioned this to our server, and without hesitation, she kindly moved us to a quieter outdoor table—which turned out to be the perfect setting for a relaxed and meaningful catch-up.\n\nThe outdoor space featured a single table with four chairs, tucked away just enough to feel private yet connected. Throughout the evening, different members of the team checked in seamlessly—ensuring we had water refills and everything we needed—always attentive, never intrusive.\n\nThe food was fresh and flavorful. We especially enjoyed the mocktails, pasta, tomato and cucumber salads. Everything was also beautifully prepared and easy to savor thanks to the smooth and thoughtful service.\n\nA wonderful experience all around. We’ll definitely be back."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSdVFUSjZXUzAxVVcxdk1reHhkSGt4Um1KelowRRAB",
+            "text": "Food was great. Place was clean and music was good. Will come back"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psbk5qUXhZazlGUld0M1RtTkJSVEpXVmxrd1pGRRAB",
+            "text": "Service was really nice,\nIt was a nice chill moment good for a date\nWe came around 5:30 queue went pretty quick,\nThe staff is very kind and professional, very welcoming and high standard. Making sure that you have everything that you need, very appreciated.\n\nMy observations :\n\nThe menu needs more options without pork options.\n\nDesserts are not on the menu so if you’re not on a high budget you’ll get surprised (17$ for some white  cream)\n\nI advise the chef salad ! Very nice\n(Probably bang with the bread) ( but you have to pay for the bread 🤡) I think as a high standard restaurant the bread is supposed to be include in service. (Then for extra your order and it makes sense to pay)\n\nAs a French girl I think it was good but I’m not feeling like “oh my god I need to get back here”\n\nBut big shout out to the serves they deserve the best reviews , so sweet\n\n@tsunamy____\n\nbig shout out to the"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnMWZmYmlnRRAB",
+            "text": "I went there last night and found out that, this restaurant is way so overrated.\nServices were great but my server had a very stinky breath, it was tough to have appetite…\nCocktails were good.\nI had 5 tasting pasta with 3 of them about the same… (see in pictures)\n2 of us could not finish any dish…\nPasta wayyyy tooo hardddd, not a good texture at all, forget about al dente…\nI suggest regular Italian restaurant instead of here. Sauces were good but non of 5 dishes had the right texture. I was really disappointed!!"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNM2otTDNVbzVlSjFnRRAB",
+            "text": "My favorite pasta place!!! I love the food and absolutely love the atmosphere!!!\nService is great!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoLS1yN2lnRRAB",
+            "text": "The kitchen is the main focus of the restaurant. With a few tables on the side, the bar and outside. It’s hip and extremely loud (as sign prides them selves on the loudness) so very little conversation during dinner.\n\nWe choose the 5 course paste to share menu. The waitress warned us that I will be a while until we get our food.\n\nThe staff was very attentive in bribing us more water, bread and refilling our wine glasses.\n\nAfter 1 hour (you read that correct) ALL the dishes showed up at once! Which means pasta gets cold. I assumed they they mused made the past fresh from scratch - but no all they had to do is heat noodles and add sauce.\n\n2 if the pastas where over salted, one was over peppered and 1 was good and oh, yes one was not memorable as it tasted like tomato sauce from a jar.\n\nI would not recommend this place and find their popularity undeserved. It’s expensive and not good. I gave 3 stars as the staff was really nice and I like the club style music."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzM1FqRlVabU5qVG14WVJXdHJjVTVUU3pGcVoyYxAB",
+            "text": "I rarely write reviews, but I think it’s time to start — not to hurt anyone, but to offer honest feedback that might inspire some change. This is what I got for $220.\"\n\nWhere should I start?\nI lived in the city for a long time and have always loved exploring new places — especially those run by up-and-coming young chefs with something to prove. After scrolling through social media, I discovered this amazing pasta spot — a simple, authentic Italian restaurant that serves pasta the right way. For me, it was heaven, since Italy is my favorite country to visit and my favorite cuisine. Nothing truly compares to eating in Italy, but I’m always curious to see how close others can get — and to my surprise, this place was pretty good.\n\nNow, let’s talk about the disappointments.\n\nThat video on their homepage — forget it.\nIf you think this is an “experience” (Izakaya-style) where you’re part of a show, think again. You’ll be greeted — or maybe not greeted at all — by two Mexican ladies who completely ignore you as you sit at the bar and speak Spanish the entire time. And before anyone jumps to conclusions, I’m Hispanic myself. But if you advertise an “Italian experience” with Italian chefs cooking in front of you, that’s exactly what I expect. Sorry, but false advertising ruins the vibe.\n\nThe hostess was something else.\nWhen we arrived, she was staring down at her phone for a good 15 seconds before we said “Hi.” She looked up, surprised, and asked, “Hi, what can I do for you?” There are a hundred better ways to greet a customer, but here’s one simple example:\n“Good afternoon, welcome to A Pasta Bar. Do you have a reservation with us today?”\nThat’s it — basic hospitality.\n\nThe birthday fail.\nWhen we made the reservation, they asked if we were celebrating a special occasion. We said yes — it was my son’s birthday. After we finished our meal, the waiter asked if we wanted dessert or coffee. That’s it. No acknowledgment, no small gesture — nothing. Why even ask if you’re not going to do anything with that information?\n\nTo conclude: an absolutely horrendous experience. Terrible service from the hostess and a completely underwhelming afternoon overall."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKeV9LZThnRRAB",
+            "text": "This restaurant is a hidden gem and the owner/staff are friendly and welcoming. The pasta tasting is a great way to sample all of their dishes and discover your favorites. I can’t get enough of the ravioli and truffle pasta and will keep going back for more. Anyone who loves a good runny egg and truffle must must order the giant ravioli 😋"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURia0luS1hBEAE",
+            "text": "Stumbled upon A PASTA BAR while looking for a place to have a quick drink! We stopped because we liked the aesthetic it was giving,  such a beautiful restaurant.\nI now wish I got some pasta to go, but I’ll be back to try a dish or two. As far as the drinks… so good, well balanced and I love when  fresh fruits are used to make the drinks.\n\nP.S it’s a bit pricey but if you want to go for a nice Italian dinner experience… come by!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfbTVUZ3hnRRAB",
+            "text": "pasta, cream sauce or tomato sauce are just horrible.. not worth at all my time there are hundreds of restaurants better in NYC do not pick this spot for date. Club music is so loud and food has no flavor whatsoever Can of pasta sauce is better than this place"
+        }
+    ],
+    "reviews_count": 76
+}

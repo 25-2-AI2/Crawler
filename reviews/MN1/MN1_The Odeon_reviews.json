@@ -1,0 +1,586 @@
+{
+    "name": "The Odeon",
+    "place_id": "ChIJS-u0mB9awokRZ7H0sa9Oy-U",
+    "grid": "MN1",
+    "address": "145 W Broadway, New York, NY 10013, USA",
+    "rating": 4.5,
+    "user_ratings_total": 1989,
+    "phone_number": "(212) 233-0507",
+    "reviews": [
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pVelpWTkxWalptTFZOVmQxaFpSRGswUWpaNFRHYxAB",
+            "text": "The mushroom soup was great and the cocktails were out of this world!"
+        },
+        {
+            "date": "6일 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2prdFlUbEdkbkp0VkVkMU0xRmhOWGhJTVRrM1lsRRAB",
+            "text": "J'ai adoré c'est pour moi français, un vrai Dîner tel que je me l'imagine"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25RemMybDVWRjg0ZW5kVU9VcEZlVEJZVFRRNFUzYxAB",
+            "text": "I always see lots of people going in and out of The Odeon, and since it’s near my new job, we decided to try it out some time ago. The atmosphere could have been better, nothing special, but fine overall. The service was nice; everyone was friendly, polite, and quick.\nAs for the food: the salad was a very small portion and almost empty. The burger had dry bread, but the meat itself was exceptional. The fries were really good, which is actually pretty rare in restaurants. Drinks were average.\nOverall, I expected more from such a popular place, but it was just fine."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4dWRGWlNUVWxITWsxeWFUSmFMVXRVUWtGTU5XYxAB",
+            "text": "Our server was so funny! Great wine, food, and beautiful atmosphere"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxYVpFcG1lRmRqV1VSZlpFcGZXalY2Y25ac2FXYxAB",
+            "text": "Celebrating your anniversary with free cosmopolitans was an unexpected surprise!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGVGRVcHlhMFJaYzJReVNrTjNjVEJ5V0hGT2FWRRAB",
+            "text": "Salad was great but the lobster roll is burnt??? Also got the scallops and they are super salty. The service was good though."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204NGRIbzNSbTVYVWpGVlJFcDJYM2RyYmpKYU1VRRAB",
+            "text": "Great local restaurant.  Friends atmosphere, good energy, great food.  Drinks also well crafted."
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXakk3a0JBEAE",
+            "text": "Having brunch here with friends. Service are excellent and food is amazing. Love the space and for sure will be back soon!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkQ01VVmtTalI0UjJVMlgydHhTMkpQYmxKblZXYxAB",
+            "text": "Great Food! Great Service! Able to accommodate our group of 6! Thanks!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WbWFVVnFUR2xZWjJoWGMxUlJkSFZGZFV4WGVWRRAB",
+            "text": "Had a really lovely experience here!!! The food was amazing and the service was truly phenomenal. Everyone was so kind and welcoming and it felt like they really wanted you to enjoy the experience! Our waitress was attentive and friendly. Highly recommend!!!!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twZk1GRkdiMTlYY0ZWcVFscEhNV3MyYUdsdU0yYxAB",
+            "text": "Lovely iconic NYC restaurant."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sUExUbEJSMVU1VlZOSFNVWlRWVTlsT0hVdGMzYxAB",
+            "text": "This is a higher end diner NOT a French restaurant. If you avoid the French dishes and can swallow the inflated prices you may like it."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwVk1WRkNZemRHVUZobmQzVlRTMjk0UlY5NFNuYxAB",
+            "text": "Consistently great food, downtiwn crowd & service"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1bVNrcGhhVlkyV21GUE9HaHpaemRsUjNGWk9GRRAB",
+            "text": "Great meal, awesome service, one of the better dining experiences during our trip to NYC!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkMVdFTTBXWGhaY0hoMVVVazNTRGx1VEVKeGJHYxAB",
+            "text": "The vibes of this spot were super fun and I loved the menu. Truly, the best moule frites I’ve had since France. The steak from the steak frites was underwhelming though, and the bearnaise sauce wasn’t balanced.  Get the cosmo though!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWZk4yNWpWMlo1TUhKWFkwbFJUemRCY1ZwNWIxRRAB",
+            "text": "The Odeon is such a classic! The atmosphere is lively and timeless, with that perfect New York charm. The food is consistently great — simple, flavorful, and beautifully done. The cocktails are spot-on, and the staff are friendly and attentive. Whether you’re there for brunch, dinner, or late-night drinks, The Odeon always delivers that effortlessly cool downtown vibe."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GeFNWZHFWMUYzZUVaUmNUVmpZVEl4YURVMFQxRRAB",
+            "text": "Got the salmon tartare and flank frites. Overall we loved the vibe and the service was very good. We also liked the flank frites but I liked the garlic butter more than the au poivre. The fries were perfectly crisp. The salmon tartare was ok, and the sauce honestly didn’t go that well with it."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201alRFVkJTRWd5WmpkcGNqUlZha0kxVGpseGNFRRAB",
+            "text": "Coming here felt like a religious experience. The ambiance, the service, the food. It all felt out of this world. All of our dishes were great. Perfect execution Benoit"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twQmVXOWhXRGhPVlZkWVJYRlNVMUJuVUVVeGFrRRAB",
+            "text": "This was a nice authentic place to grab a quick lunch in the city. Has an very old town feel to it being one of the oldest food establishments in the area"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWMmNFOVhiV2RXZEV4blZFaERiRFZQTVdodWNIYxAB",
+            "text": "I have been dying to try this place for years and finally was able to. The buffalo chicken dumplings were a unique blend and the chopped salad was great."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Cc01qWmZaa2RCZGxkVlUzZDFUMDk1VHpsVVVHYxAB",
+            "text": "Showed up on a Friday night, with 3 friends in tow, without a reservation . The man and woman at reservation desk, told us a table might be available in 45 minutes. We were overjoyed. We sat outside , beautiful weather. Our beautiful waitress was top drawer with best manner and super efficient. We had a very special evening, with martinis, rum drinks, rose wine. Oysters, moules, linguine a la vongole , steak and frites. Profiteroles for dessert"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OTVRVRkJZMDlyUkVKRVJVdzNWVE55UkhKaU9WRRAB",
+            "text": "It was a wonderful experience dining at The Odeon today. It was my first time at the restaurant. I felt well accommodated by the restaurant staff. The atmosphere was pleasant and cozy. I enjoyed my lunch very much, my grilled cheese sandwich was cooked just right. I also decided to have the chocolate lava cake for dessert and I'm certainly glad I did. One of my servers was Api and he was very accommodating. I look forward to dining here again soon."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCVFIyZElWbGN4TkVOVE1IUldORlYxTlRSblNIYxAB",
+            "text": "Buzzy place with good food, we went here twice while we were in NYC"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wbVUzWm9PWFJxYWtNd1prRnlObHBOUVZsdlRYYxAB",
+            "text": "Unfortunately quite average food. Steak and frites were poorly made, not worth the price paid."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGSWNIUjRhRkpJTFRGbFdHMDJjMjg0TUVjMlRGRRAB",
+            "text": "This place is always fun, food is consistent and service is great. Iconic and fun"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kM2IxbEhRV2hRT1ZodmQybEpURTVrVGpsVVlVRRAB",
+            "text": "Reliable and above average food. Service is great and so is the ambiance. It’s one of those places that won’t let you down but won’t wow you."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xNVkwTllMVmxQYVc5Nk1HYzFZblJ2YlV4Q2EwRRAB",
+            "text": "This past Friday evening, my wife and I decided to head to The Odeon without a reservation, a bit of a gamble, considering how iconic this place is. Situated in the heart of downtown NYC, The Odeon is a legendary spot with a rich history and timeless appeal. It’s the kind of restaurant that instantly transports you to the New York of another era, while still feeling vibrant and relevant today.\nDespite arriving without a booking, we were warmly greeted by a gracious lady at the front desk whose welcoming smile set the tone for the night. To our pleasant surprise, we were seated immediately,  a rare treat in a city known for its packed dining rooms.\nWe started the evening with a Cosmopolitan, and it was simply perfect. It’s one of those classic cocktails that can go either way, but The Odeon absolutely nailed it, well-balanced, crisp, and beautifully presented.\nWe shared a few appetizers to begin (each one delicious and thoughtfully prepared), and then moved on to our main courses. I ordered the Steak and Frites, which was cooked to perfection — juicy, flavorful, and accompanied by crispy fries.My wife had the salmon, which was equally impressive.\nThroughout the meal, the service was exceptional. Attentive, friendly, and effortlessly professional, the staff made us feel relaxed and well taken care of without being intrusive. It’s clear that customer experience is a priority here, and it truly elevated our night.\nAll in all, our dinner at The Odeon was a perfect blend of great food, excellent service, and iconic New York charm. Whether you're a local or just visiting, this is one of those restaurants that captures the spirit of the city in all the right ways. Highly recommended!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ONWEzZHlZVUp2ZGpsTFNWUkdhVU55UkUxV1dYYxAB",
+            "text": "Delightful outdoor seating on Broadway. Pleasant staff and exquisite desserts. The steak au poivre was quite tasty, and though it wasn’t prepared precisely as we had hoped, Thomas the maitre di immediately comped us for it. That shows the kitchen does not make such errors often; it also shows genuine concern for the customers’ experience, and an interest in doing the job to a high standard. Much appreciated."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FeFMwcFVVeTFYZFZNMWFERlNURmxKU2xZMU5YYxAB",
+            "text": "Food was excellent, I had the spinach quiche from the brunch menu.  Good selection of wine, cocktails, and mocktails.  Very good vibe."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWbE4xSk9TV1p4ZWpZNU5YQlliSGx4VjFoT00xRRAB",
+            "text": "It was one of the best date dinners ever in NYC! Charming atmosphere, elegant audience, attentive staff, delicious dishes, and surprisingly not as loud as usually in NYC. All these are components of your great time here, and afterwards, you want to visit this restaurant again!! Definitely will come back soon with my friends.\nPS: Their fries are insane how delicious, old-school style, real potatoes, not a fake!!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ndFJuRjVPRFpsVFROdWMyaGFjRVZsUjAxVVJGRRAB",
+            "text": "Amazing restaurant with great service. We ordered the steak frites and the croque monsieur which were delicious. I thought the portions were on the smaller side, so definitely order individual entrees. The aperol spritz was lovely, as well."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWcWFFcEhXRlY0ZUdWSGRHRnJVMXAxYkZoWmNrRRAB",
+            "text": "Loved it. Fantastic food. What a treat. Highly recommended."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoVE1ERlFabTlUVlZwRk9VSmFiRWQzTkhoaGIzYxAB",
+            "text": "My top 1 restaurant, during my trip do New-York! Thank you!"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "pt",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiNW8zeTlnRRAB",
+            "text": "Um clássico. Faça reserva pois está sempre lotado. Meu lugar favorito de NYc"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sc1QxQkdNbkJUYm1Oak9WaE5UM0JNY1RGbFNHYxAB",
+            "text": "Truly a cut above in the brunch department.  Watermelon gazpacho was divine. Fries are better than Balthazar’s.  Even the side of smoked salmon was amazing.  Real crowd pleaser for foodies!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCR2JYcHVSWEpIUjJ0c2NIZHlUbGRYZVRWbVUxRRAB",
+            "text": "Delicious lunch, friendly service and reasonable prices."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0VE1HSkNNMFJMTkMxRGNVVTVPWFp1YUhKVmRuYxAB",
+            "text": "Great food! A very tight space and very noisy. Service was friendly and efficient."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsT1ltVXRkamszZDB0c2NtUTRTVnBqWHpkcFkxRRAB",
+            "text": "Came in last minute with my friend no reservations, as soon as we walked in the hostess checked in with us and accommodated us. The ambience is lovely especially on a Saturday night in New York City. Everything was just great, our server was very attentive and kind. The cocktails were delicious and the food was perfect. We even saved room for dessert we couldn’t make up our minds so we got two of them. Everything was fantastic Would absolutely recommend."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kdlVrSjVUSEZRVHpOU1MzbE5ReTA0YmxsMVZWRRAB",
+            "text": "Never disappoints. Great neighborhood restaurant"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwclJGRkNaRXcxY2xWbU5HOXZUbUl5U0ZsTUxYYxAB",
+            "text": "Alta gama"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCWE5XWkNYMkUzYTBsak9HcGljSGw0ZEVwQ1MzYxAB",
+            "text": "Thank you, Maya, for sharing your excellent first day with us. Everything was wonderful."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wa1MyeDRZbnBSVVRWb1lrMVNkbGhxVkRkUmFuYxAB",
+            "text": "The chicken dumplings are unreal, and the wine selection is great"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201TU1rUTJSMnh0ZEVWcmVrcFhMWFZSUzFZNFdGRRAB",
+            "text": "Buzzy fun bistro with high quality comfort food"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tnM2R6QXpiRkJ2VUhoRU1XNXpWR1JKT0VGWFpVRRAB",
+            "text": "Great service even in a high paced environment, great food."
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmc3RDSDRRRRAB",
+            "text": "We had NYC most disinterested server - couldn't be bothered filling our glasses, was too much trouble to take our order or ask us how anything was, and when we were sitting there with our wallets out and umbrellas in hand for 5 minutes and she wasn't to be seen I got up to pay at the counter - she soon showed up with her eftpos machine in hand to take our money.  I don't know how this entitled brat could even have the balls to prompt us for a tip - she should find a new job because she surely hates this one.\n\nUS$150 for breakfast for 2.   There are so many better places in NYC for this money and the staff will actually be pleasant to you, rather than wishing that you would just vanish.\nWe won't be back here anytime soon!."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kdFEzUkVVVXh4YzA5VmRrOXNaMkoyVW01RVowRRAB",
+            "text": "Great atmosphere and energy at this place. Drinks were excellent as well as the service and the linguine and clams, but the steak in particular, which is what we were excited about, was so oversalted and half of it was extremely well-done (we ordered medium rare). Not sure I would return."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21remNWcHJjREEyU2pGSVRsQkNXVGxzTmtWck1sRRAB",
+            "text": "Simply the best"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WcFJuQXdUV2xWVkZCNk5rMXdha3RGYWtSdFdGRRAB",
+            "text": "It’s a classic and does exactly what it’s supposed to."
+        },
+        {
+            "date": "3달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKM1VsazFZVkpCUkUxcGVGcFhiRWxVYm01dlRFRRAB",
+            "text": "Bon mais très cher … comme presque partout à New York 🥹"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paUVFsVmlOVTFCVEZrd1lrYzRjbXQ0ZDJKQ2NYYxAB",
+            "text": "Food is fine, but it’s really unfriendly to anyone with a young infant. They don’t allow strollers inside, and there is no changing table and no accessible restroom. Won’t be returning, it’s a shame."
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzZ2V1MGNBEAE",
+            "text": "너무 친절하세요. 이번 여행서 매우 친절한 레스토랑이 아니었나싶어요. 어니언스프, 스테이크 시켰는데 둘 다 예술이었어요. 잘 먹었습니다."
+        },
+        {
+            "date": "11달 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQNHNteThnRRAB",
+            "text": "맛보다는 분위기. 그리고 로컬함으로 먹고 들어간다."
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4ME9uYld3EAE",
+            "text": "홍합도 맛있고 분위기도 좋네요"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLcUl1by03NkpQYUxnEAE",
+            "text": "Iconic place with indescribable energy. The cucumber martini was refreshing for early summer days and buffalo dumplings caught us in surprise with its own interpretation of east and west, simply love it. The only complaint I had - too crowded!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQN0EzS3FzOWVPbXBRRRAB",
+            "text": "The service here is really wonderful. It’s a classic nyc spot! I want to come back to get more food but we had the buffalo chicken wontons which were so good. But we mainly came here to try the cosmopolitan because this is where it was invented. It did not disappoint! I highly recommend trying it here"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmMVozLVVnEAE",
+            "text": "The Odeon - Nice French bistro, lovely place near our hotel and on the way to One World. Lovely lunch menu, but it all looked good. Food served hot and timely manner. We didn’t have reservations but was seated even though they were full.\nCould do with some gentle music playing in the background."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmZzhpY2FBEAE",
+            "text": "Although we didn’t have a reservation, the staff quickly seated us despite the crowd. Our server was friendly, professional, and attentive, enhancing the dining experience. The standout dish was the Buffalo Chicken Dumplings. The salmon was well-cooked, and the steak was tender. Overall, it was a good meal with excellent service."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZek5uNzdnRRAB",
+            "text": "Good food, timely service. It is very loud and cramped in the restaurant. Also item are very overpriced for what you get. The food is very good. The burger is great. The Mac and cheese isn’t very gooey or cheesy."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGUWJrcFFSVmRNVWpJeVN6QTVUV1EwYmpWa09HYxAB",
+            "text": "Stopped.in for a quick cocktail and dessert. Service was friendly! Have been here for dinner, such a reliable, solid restaurant."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSc2FrOUdhMjlEYlhwM2JucHBSakZzVUZKdWMxRRAB",
+            "text": "Not great. Honestly disappointed. I do not understant the \"hype\" about this place.\nFood is decent, service is good, atmosphere is... alright.\nNothing extraordinary or outstanding. Very expensive and overpriced.\nNo foie gras, no escargo, no baguette with butter to kick off the meal, no canard a l'orange.\nCroquer monsieur, no option for the madame.\nCompared to other places such as Balthazar, this place has a lot to learn.\n130 dollars for 1 MacNcheese, 2 croques monsieur and a glass of wine... \"Yes but it is New York\", sure.\nDisappointed..."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzek43V2NREAE",
+            "text": "Overall loved this place. Loud, busy restaurant with great service and good food. Everything we ordered was very good: tartare, quiche, salad and omelet, but cinnamon donuts were our favorite!!! I would order all of it again but the 5 is because of the overall vibe of the restaurant. I can’t explain why exactly but it was just a great place to have brunch. Our server, I think her name was Macey but could be wrong, was great, attentive, friendly, funny and helpful.  Overall highly recommend and I want to return to try the grilled cheese."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2NUktVTNBRRAB",
+            "text": "I LOVE The Odeon, been coming here for decades and it's a reliable as top end French Bistro can be.. The roast chicken is fantastic, so is the duck breast. I know this is really hard to believe but the frisee salad is phenomenal.\nBesides that the atmosphere is fun and the bar is great. The only thing is that it gets packed all the time so make a reservation."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3MmR2N0hBEAE",
+            "text": "Classy spot and the food was top class. We started with calamari which were excellent. We then had the Yellow Fin Tuna burger/sandwich! and the Lobster Roll. Both were delicious!  The service was also spot on. No rushing between courses which allowed us to enjoy the atmosphere and savour the food. We sat inside as it was very hot. They do have a small outside seating area but we were glad to be inside as you got the full impact of the restaurant! If you are looking for a taste of New York in classy comfort then definitely try The Odeon!👍"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaMk4tdm1RRRAB",
+            "text": "Classic atmosphere.....a very cool throwback in time.\n\nOur bartender Amy was outstanding and made excellent drinks.\n\nOur appetizers, especially the fried calamari, were good as well as some of the main courses.  I was expecting more. The food was good....just not anything special. However, the Sticky Pudding was excellent!\n\nOur waiter Jack was very professional and helpful. Lori and Louis were very pleasant as well.\n\nI probably won't return."
+        },
+        {
+            "date": "4달 전",
+            "language": "ja",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKQ2RHcEdNMXB5Y1U5Mk1VRk1Na1p4WW5rd1ZsRRAB",
+            "text": "トライベッカにある名レストラン。\n場所柄、観光客は少なく、大人のニューヨークが楽しめる。\n\n食事は完璧。\n毎日通いたいほど素敵なレストラン。"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBbjU3TnN3RRAB",
+            "text": "The service was EXCELLENT! The were so kind and accommodating. I'm so glad I stopped in here. The food was excellent as well. Highly recommend the French Onion Soup and the Salmon dish."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3ckxEa0FREAE",
+            "text": "I like their diner vibe this spot gives off and their fried calamari was probably one of the better ones I’ve had. Also their chicken pot pie w. the soup of the day - carrot/coconut soup was 🤌"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzamIyZzZBRRAB",
+            "text": "Impressed with how fresh shrimp cocktail was.\nVery nice options for lunch\nThe service is the best part\nGood drinks\nLove so much"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5a3NtbU1REAE",
+            "text": "I did not explore the menu as I was only waiting for my guess I started with the the Buffalo Chicken Dumplings and complimentary table bread and soft butter.\nMy waitress stayed closed and served my needs on a level 10. The Buffalo Chicken Dumplings came out very quickly.\nThis was my brunch meal and it hit right on point in my guts."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYNl9IVk1REAE",
+            "text": "The Odeon is an iconic NYC restaurant with impeccable service and great art deco vibes.\n\nThe menu offers a delightful lineup of crowd-pleasers, featuring everything from chicken paillard and beet salad to burgers and cheesecake. Cocktails are expertly crafted, and the beers are poured with care.\n\nOne of my favorite dishes is the Purple Sticky Rice Bowl but honestly everything on the menu is delicious. You won’t be disappointed. Thank me later!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJbGZibkt3EAE",
+            "text": "Been here twice for a weekday lunch. The menu is extensive and the food was delicious (steak tartare and flank steak are to die for), but the restaurant packed all the tables next to each other, so dining there is never a relaxing experience."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfNUtxSGxBRRAB",
+            "text": "Best Burger in NYV.\nBedt Plant based burger ever. Smoking, yummy thought it was real meat, i did add cheese it was fantastic, shoestring fries also rocked huge portion."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3OE1YOG93RRAB",
+            "text": "The Odeon is iconic. It’s what NYC used to be and strives to become again. I’ve never had a bad bite here, doesn’t matter what you order. Our server was very charming and tended to us well.  Sit inside for the energy and scene, outside for good neighborhood vibes."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQbE5tbmdnRRAB",
+            "text": "Hadn’t been in years, but glad to be back. Reliable place for business or casual meal meetings. Well located."
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYcXVYU3h3RRAB",
+            "text": "Si buscas un lugar que ofrezca más que solo comida, este es el sitio ideal. Su carta de bebidas es excepcional, con opciones para todos los gustos, y la música crea una atmósfera que invita a la conversación y al buen humor. Perfecto para una cena con amigos o una reunión familiar donde la buena comida, la buena bebida y la buena música son los ingredientes principales.          If you are looking for a place that offers more than just food, this is the ideal place. Their drink menu is exceptional, with options for all tastes, and the music creates an atmosphere that invites conversation and good humor. Perfect for a dinner with friends or a family gathering where good food, good drink and good music are the main ingredients."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3eklTRkVBEAE",
+            "text": "Staff very friendly.  Sat outside.  Food was good.  Only give a half of glass f OJ.  Found that odd"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4eFVFTnVUV1pvV0dkbFVWazFSM1J1YVhadlZWRRAB",
+            "text": "We had a completely delightful time there on Sunday evening, with fantastic service and ambiance. We both had the Sunday special, chicken pot pie, (plus a little side of fries to share), which was totally delicious, as was the crisp and chilled Caesar salad we had to start. Prices were completely reasonable.\n\nOur waitress was attentive and sweet, and the lovely maître d’ popped by our table to say hello and check in on us. The kitchen was almost too efficient, which may have felt slightly rushed except that our waitress assured us that we could enjoy the table as long as we liked.\n\nOne thing of note was the party of 4 seated next to us, who brought a small dog into the dining room with them. Immediately upon being seated, the woman plopped the dog onto her lap at the table. The young female hostess immediately told her very politely that the dog would have to remain on the floor at all times to which she agreed. Within one minute, the dog was back up on the lap of one of the other people at the table and had its front paws on the table, resting on the menu. A male manager in a suit was summoned by the hostess, who informed them that the dog would not be allowed on the table. They eventually complied. Eye-rolling entitlement which would be swiftly resolved by only allowing dogs at the outdoor tables.\n\nAfterward, we went somewhere else for a nightcap and began chatting with a woman who lived nearby. She was thrilled to hear the Odeon is still so good because she hadn’t been there in over 30 years. Our rave review convinced her to bring her visiting relatives for dinner next month. Manhattan at its best."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGNk16a3BBRRAB",
+            "text": "Had a great meal at The Odeon. Frisée Salad was tossed with vinaigrette and poached egg was just right . Calamari was cooked perfectly. Loved Ricotta Cavetelli : homemade pasta had great texture. Moules Frites was just what I expected. Lots of flavor with leeks and saffron cream. Pan seared salmon was awesome. Finished our meal with Profiteroles. It was perfect for three of us  to share. Casual atmosphere with friendly service. Will definitely go back soon."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZc3BhbTdnRRAB",
+            "text": "Food was so good. French onion soup, and then the salmon. I definitely recommend Odeon."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlemNHRDhnRRAB",
+            "text": "What an amazing place! I went to dinner with a friend there and would definitely recommend it and go back. The atmosphere is of a fancy, old NYC style diner, with neon dimly lit yellow lights. This is where the Cosmo was allegedly invented, so I had one, but the food was what really got to me. Highlights of my meal were the delicious yellowfin tuna burger and the decadent profiteroles."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPMHBLVllnEAE",
+            "text": "I’d like to think I’m a generous reviewer, and I came to this place hopeful since the scenery is beautiful. However, truly don’t judge a book by the cover. The food is 6/10 but then you look at the bill, and quickly becomes a 2/10. It’s a shame because I really wanted to like this place; nice atmosphere, amazing staff (they were kind and very attentive) but none of that changes the way the food taste."
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMOFpyQVVnEAE",
+            "text": "I have to say that the host and staff at the Odeon clearly understand the differences between service and hospitality. I was greeted by Aaron with such a welcoming that I thought maybe I was mistaken for a celebrity.\nThe oysters were fantastic (perfectly presented) the shrimp cocktail was an awesome addition and my my aperol Spritz was well prepared.\nWhat a relaxing and indulging way to kill 40 minutes and start my weekend a little early on a Friday afternoon.\nFor the record the place was packed so it wasn't because everyone was warming up."
+        }
+    ],
+    "reviews_count": 82
+}

@@ -1,0 +1,635 @@
+{
+    "name": "Isabelle's Osteria",
+    "place_id": "ChIJV9twMKRZwokRkXW1n1miJeQ",
+    "grid": "MN6",
+    "address": "245 Park Ave S, New York, NY 10003, USA",
+    "rating": 4.7,
+    "user_ratings_total": 1204,
+    "phone_number": "(212) 388-1145",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSRlJHRm5iRkU1UmxSU2QzRndTV0p6ZFZodmEyYxAB",
+            "text": "Food was really great, but service was less than acceptable.   I had to really try to get our servers attention and even then he looked annoyed"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sbldtOUtOek01TUcxcFRuTmFlRTR6ZUUxSlMzYxAB",
+            "text": "Free iPhone tech support with Bryan. Excellent service and complimentary tech support"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SUE9YaDJTa3d6YjI1MmNEQlhiazlHT0hsVFoxRRAB",
+            "text": "Perfect restaurant! Stopped here unexpectedly and it was perfect! A hair pricey but other than that pure perfection!! A++++"
+        },
+        {
+            "date": "수정일: 3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxcWRISkRjUzFZT0d0alVIQmxRelpZVjJ3eVFWRRAB",
+            "text": "The best. They always take care of us. Great drinks. Great food. You need to go there.\n\nUpdate- they are still the best!!!! Love coming here for food and drinks. The service is top notch."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvd2JucG1VbkJLY1ZkbWFFdHRXazlXYVMxSU4wRRAB",
+            "text": "This food was amazing.respectful friendly had a great time.definitely making it a point to come again."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOcGJXeHlTVUZLYkdWelZEZFlNbU5CWjA1RWQzYxAB",
+            "text": "One of the best dining experiences I’ve had in a while!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sS05WbzBWVkpKYW5GZmJtcENZMVJqUlVGemIyYxAB",
+            "text": "Amazing brunch!!! Bryant was my server and he was amazing!! Would def go back!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWb2IzWmhZblIwZEhwQk5qbHRSbXhGZVhkSGFuYxAB",
+            "text": "Favorite Italian spot in town! Ask for Lisa, you won’t regret! She is the best"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aaVozWTFORU5QVkRWUU9WUkthbkp3VmpCaFdVRRAB",
+            "text": "Jesus was a PHENOMENAL waiter. He went above and beyond taking care of us- we come here often and have been waited on before decently, but nothing to this great experience. Angie was also a very sweet hostess, asked if we had preference of where we sat!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OdlUwUmxaRzVPUkRsWlpVOW5SVmh6VlVSelNWRRAB",
+            "text": "Arrived when they were about to close the kitchen for the next turn, they kindly accommodated us. Wonderful food, service and overall experience."
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWTFUxYzJURmhQUmxOVk5WWkxZME5WVUZaT1ZtYxAB",
+            "text": "El servicio es impecable. El bartender Nestor, es el mejor, amigable, afable y fue más allá de su trabajo para hacer una experiencia inolvidable ♥️👏"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGVFRYRnlkR1ZTZG5sM2QyNTJXQzFvWVZNemRrRRAB",
+            "text": "Nestor was the best! He made my mom and I feel right at home with his warmth and great service. Will definitely be coming back."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oSGRFVnJZM2N5V0RnMllWVTFaek5IVUUxMk5sRRAB",
+            "text": "Good food & service"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xabGRGSnhRVWhSVDNwUGVVdEZkMjV0Vm5SblYyYxAB",
+            "text": "great food and really nice atmosphere! our server lissa was super sweet and the managers were very friendly they even stopped by our table to check in. loved the experience!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBelNXSXljSFZDU1hvek5IbEZRV0V4VkU5ZlIwRRAB",
+            "text": "4 stars across the board! Nice place to eat as a group."
+        },
+        {
+            "date": "3주 전",
+            "language": "pt",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKaE1FWm5aRlZ1TjNOcFRGSnVja0poYzJSMFFuYxAB",
+            "text": "comida muito boa e atendimento excelente do Edison."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOcFRIUTRZVlJvWVVWbFpVMXRTMngwYTJsaVIxRRAB",
+            "text": "Wandered in for the first time. Vibe was great, food and drink exceeded expectations. Bartender was fabulous! Will make this a regular stop!"
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wcWVsRXlkbXhCYnpKTVVFaHNVaTFVYVZCZlgyYxAB",
+            "text": "I like the Branzino, it was delicious. My server's name was Bryant. He was an excellent server"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkM2JITkZia3N5YzJoV1YxaGZiVGRmTW1Sb1YzYxAB",
+            "text": "If you’re reading this- trust me, eat here!!\nFabulous food. Fabulous people. Will be back as often as possible"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCRlNWcE1TVXhPVUdwYWJreENNWFYzVERacFUwRRAB",
+            "text": "The lamuche was incredible!! I also loved the olive oil cake. Great experience overall and our server was amazing!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1cE4yUXpha0pRTUMxcWVWRjBVRjlSVTI5M01sRRAB",
+            "text": "Food was fabulous and the wait staff was extremely nice and very attentive! Jesus was our favorite!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1VE1FMVlaV3RxYTBwcldpMTZkVmRtVFRaZk4xRRAB",
+            "text": "Jesus is amazing and the beverage manager!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKS1JtTldiV3RyZURsa1VYRTNjRVJaZFY5NGNGRRAB",
+            "text": "Perfect service amazing atmosphere above and beyond. Elison was such a doll and totally turned our night around."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4M1RHTkdRMjUzYzI1UGVYbGZXRms0ZW5GMFJFRRAB",
+            "text": "very rude and unpleasant. will not be back again. maybe try being kinder!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWVU1FWldVVzlFY1ROelozbEtNMGRHYTA1WWRHYxAB",
+            "text": "My family and I had lunch at Isabelle’s Osteria to celebrate my milestone birthday.\nOur server, Nestor, took excellent care of us. He started our celebration with complimentary espresso martini shots with “Happy Birthday Barbara” written in the foam. So cool and thoughtful!!!\nEvery dish was flavorful and delicious from the cauliflower with lemon aioli, burrata, and meatball appetizers to lemon ricotta pancakes, bucatini cacio e pepe, shakshuka entrees to the chocolate budino dessert.\nWe had a wonderful dining experience at Isabelle’s Osteria. We highly recommend it and look forward to returning!!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SVFoyZEpiRVZPTFhWdVNUQjRkV3hsZDJ0b04yYxAB",
+            "text": "We went for brunch today for my mom's birthday and it was a wonderful experience - we will definitely be back. Such a great brunch menu with so many options and everything we ordered was delicious. The service was wonderful, everyone was very attentive and a special thank you to Nestor for taking such good care of us."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSc1lVUnZkR05tZFZadVRYVjBVRWxHZEc0MlRIYxAB",
+            "text": "Very modern and elegant atmosphere that felt lively on a late summer night with the open windows\n\nI’d say food was as expected for the price point…good but not a place I’d say stood out because of it\n\nService wasn’t super attentive, but well enough"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kYVdVeFZjSGRKWmtOZk5teEpiSFl6VTNaWVRrRRAB",
+            "text": "Great spot in Gramercy — awesome vibe and beautiful cocktails!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKSGVUbGhUVGhaYlc0emFHRlRWSE5yZFZKM1dHYxAB",
+            "text": "This is the place.\nFood, decore and probably the best service in Gramercy."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201R1QwaEhSRUoxTXpsSVZHVm1WVzVsZVhOQmNGRRAB",
+            "text": "Jesus is the man"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tONmVEa3lUbEJ5ZHpsNWR6SlNaMDFmVDB4dWVIYxAB",
+            "text": "Great restaurant and great service by Nestor!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wd1JWaDNZbEoyV0V0cWRWWk5jWFE1WkY5cGVWRRAB",
+            "text": "Food was fair to good. Portions were small. Service was terrible."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3NWNrdEdURTl5WjE5NmVGRlJTR0ZmUW5KelRWRRAB",
+            "text": "Came for lunch, beautiful restaurant."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WTlVETnRVbEpSWWxvemRYTkJWV05VUjBoS05uYxAB",
+            "text": "Beautiful place to eat and relax. The entire staff is very friendly and accommodating.  Will definitely be there again."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wSmMxbzNRWGRMVjNkWGMxWm9iMXA2VjFGWFgyYxAB",
+            "text": "Incredible food, service and ambiance. Our waiter, Nestor, was fantastic! Will definitely be back."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkaVJXRnJja2xpWkRkYVoyZzBlRWxTUVdRMGNtYxAB",
+            "text": "We were just talking about what a great location it is and our service was great"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CQ1QyVmhiVU5VVHpKUVpuWkpZbEZ1T0c1dldGRRAB",
+            "text": "Jesus was amazing! In NY from Texas and feel like I just experienced Texas hospitality, but I guess NY hospitality is just as good!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SVFdWWXhXVk0zZWtOUWJFNVliREpWYzNKV2QwRRAB",
+            "text": "I'm an unwavering fan."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sS2QwYzJhVVpWVVhGZk4yNUhaMkpGWVRSeGFsRRAB",
+            "text": "Great energy.  Friendly staff.  Food was too notch!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214TmNHc3laMlpJTkdsQ1RsUlRWa2xWVmpGT1JFRRAB",
+            "text": "I hosted a work dinner for my team…. Excellent food… and stellar service from Bryant!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SRVRqUkRXazUwZFRKdll6VnJiRU10T1hSeWJuYxAB",
+            "text": "Amazing food…. But better, Bryant - our server - provided an incredible experience"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oM1dscFFPV1JFVmswMVYyc3RWelJCWjNaV1JtYxAB",
+            "text": "Was with a large group. My pasta was terrible - clearly under the heat lamp way too long. Service bad. Took wine glasses away with half a bottle left."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214cFZ6Z3haMGt0UW5oemFETTFkM2N3ZGtSaVFuYxAB",
+            "text": "Bryant hosted us for an intimate wedding of 15 people and all I can say is we were taken care of very well. Bryant was very attentive to our needs and even took us tons of pictures for memories. Definitely felt special on this special day. Kudos to the team! Food obviously was superb. A++"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkVWFXMUdTbEpDYTNKc1pVbHpPRkZxWkRBNVZrRRAB",
+            "text": "Great place!! Bryan’s amazing, took good care of us"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVeWVWcHVjRko0U25GSWRFTlZTR0puVERNNVRXYxAB",
+            "text": "We had a great Sunday dinner. Apps are excellent…meatballs, artichokes and cauliflower all terrific. Entrees also strong…lumache, rigatoni, chicken Milanese, salmon and broccoli rabe. Our server Bryant was friendly, attentive and efficient. Nice vibe too."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxT2NIUmphRVJZZG1Ka1owOVZiMlpVV2w5NWRFRRAB",
+            "text": "We had a great meal Bryant was great!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5aVUyVnRMVGRaY1hKckxUQnFUelJuUzBneWRYYxAB",
+            "text": "Been here many times for brunch and it’s always great. This time we brought friends and had Bryant as our server-a gentleman and a scholar, he really made our meal memorable! Thanks again!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsT1UxUllUSGhDUzFWc1EwSlJaSGczVTBOZmRYYxAB",
+            "text": "Bryant was the best. Food was amazing as always. 10/10"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoWlNHY3hWMDR0VTBKMGNXaG5aMmQ1Y1RONFprRRAB",
+            "text": "Food and drinks were awesome. Bryant provided top notch service and made sure we had an amazing experience."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5UVlXWm9aMVZEYjBSc1VYWk5SbVJ2ZDNGNVpuYxAB",
+            "text": "Great place to have a nice date or hangout with friends. Excellent food and service. Nestor our waiter was amazing could not have asked for better service."
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXcXBHMTl3RRAB",
+            "text": "음식 ㅇㅋ"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25waWVHTXpaMTg0ZG1SNFgwMWZiVk5FVkZWNk5FRRAB",
+            "text": "Brunch was a very pleasant experience.  We had a 10 o’clock reservation and ordered 4 entrees and an appetizer. The food was well-seasoned and beautifully prepared. The space was well lit and beautifully appointed. Both servers & all the bus-persons were very attentive and extremely conscientious.  Donna & Bryan, our servers, should be commended for their excellent service."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GaWVWOXZVbEkyYkMxMGFrOVpja1ZYTlZKbmJIYxAB",
+            "text": "Came here Sunday evening, while the restaurant was super chill. White tablecloth setting, upscale casual. My server was also really kind and attentive but not overbearing, which I appreciated very much. Started with the beef cheeks; the meat was tender and flavorful, and the polenta had a great consistency, not too salty either. However, the greens were a little too rich for my liking. Overall, not a bad dish. Crispy potatoes were also great. What really stood out was the Mas Amiel Maury 1969 after-dinner wine. The manager/sommelier, was so kind to pour my glass and explain the reason why this wine was such a big deal. The manager was so generous to bring us an amazing dessert to pair with the wine, the chocolate Budino. All I can say is that dessert was crack! I was then wowed, and I knew this was hospitality at its finest. Definitely will be back."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5NFYzZ3pTak5KUzJNeE5XOTBhR2RzYW1od1ZVRRAB",
+            "text": "Jesus was an exceptional server. We had a Friday reservation and were seated immediately. The cheese focaccia was exceptional, as was the arancini special. All the pastas our group ordered were so delicious. The busboys were extremely attentive with refilling water, which was appreciated in the summer heat. Would definitely return! Thank you Jesus for making my first time at Isabelle’s a lovely experience."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWR1ZEaGZjSFJwTWtwcFNFMXlhbEJtTlRWelJHYxAB",
+            "text": "Came for my birthday and it was incredible!! Food tasted like it was straight from Italy and the gelato was incredible. Edison was a great waiter and they even gave us little espresso martini shots with bday messages on them!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1aU5rcDFTekI0ZVdOb1dVbHhNRlZzTmtrek0yYxAB",
+            "text": "+ Get $25 off using the link on my profile!\nI liked the nice, atmospheric interior of the restaurant and the food, while nothing spectacular, was decently good. My favorite part was the three cocktails on…"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOcU5GQTNNMU41YlhaeU1EVmlhWEpJTlhkTlMyYxAB",
+            "text": "Isabelle’s Osteria is a lovely gem in the heart of NYC. The atmosphere is warm and elegant, perfect for a relaxed evening or a special night out. The pasta was fresh and flavorful, and the service was attentive without being overbearing. A great mix of classic Italian comfort and modern flair—would definitely come back!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaWlp6aG9NV0kxZVRsb1VVVnJia000YkRKeU1XYxAB",
+            "text": "I wanted to share the experience I had dining at Isabelle's Osteria this past Tuesday 6/24/25.\n\nI made a reservation for 6:30pm on Tuesday 6/24/25 about a week in advance for my partner's 40th birthday celebration. After a spectacular day, we were very excited to try our Isabelle's for the first time, having been recommended to this restaurant by many clients who live in the area.\n\nWhen we arrived, we were seated in a lovely corner booth - perfect for an intimate birthday dinner. Not long after sitting, we realized that it was uncomfortably warm inside the restaurant. Eventually we were hot enough that I went to ask the hostess who told us \"Oh yeah, the AC is broken.\" Keep in mind, this was the hottest day of the year with record breaking temperatures of 101*. I asked - \"Don't you think this is something you should have disclosed when we arrived? We could have made the decision to go somewhere else.\" She had no response.\n\nAlso, if I can be sent 2-3 reminder texts to confirm my upcoming reservation, can I not be forewarned that the AC is not working in 100* weather?\n\nOur waiter arrived at our table nearly 20 minutes after we sat down. We ordered everything all at once, having had plenty of time to peruse the menu.The wine and starters came out relatively quickly, and were delicious.\n\nHowever, our waiter was dealing with a larger party (10-12 people) and did not come back to check on us once. After waiting for 1 hour and 20 minutes in the unbearable heat, our food finally arrived. Because of a combo of the heat and excessive wait time, we flagged down the nearby hostess and asked that our food be packed to go, as we no longer wanted to be in the restaurant. We were polite, but she could see our extreme displeasure, from the heat, the long wait, and the missing waiter.\n\nAs a kicker, the busser who brought us our food inappropriately and snidely quipped \"Too hot for you?\" when dropping off the bags.\n\nThe hostess was kind enough to ask for our meals to be comped (which they were), and we of course paid for the wine and starters we had.\n\nOverall, this was a truly horrible experience. Though I understand that a broken AC may not be in the restaurant's control, all of the other circumstances surrounding this could have been handled better. A simple communicative warning, an informed hostess, an attentive waiter, and/or food taking less than an hour and twenty minutes to arrive on a not-packed Tuesday evening would have made this somewhat pleasurable.\n\nThis ended up being the one black mark on an otherwise perfect 40th birthday celebration."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPejhoN3JRaDhlQkRnEAE",
+            "text": "Had an amazing experience at this restaurant this evening. We had two specials the cheese arancini and a soft crab pasta. The soft crab pasta was absolutely delicious in this butter tomato sauce. Restaurant is beautiful and service was top tier. We never had to ask for our drinks or water to be topped up. Very great date spot and good for daytime in the summer with the cute tables on the street"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NMU9DMVNRbU40WVZSdmMwcFJWMFpwTVZGMFNsRRAB",
+            "text": "Went to Isabelle’s for my daughter’s 21st birthday. They couldn’t have made it any more special. Lovely welcome and nice touches to make her feel special. Food was great and very attentive service. Shout out to Nestor for looking after us."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzOFBQMy13RRAB",
+            "text": "My friends and I had such a great brunch/lunch! The attention we received was exceptional. For starters, we had unlimited mimosas (19$) such a great deal, the appetizers were delicious, we ordered the cauliflower, burrata and shared a cob salad. For main course we had pasta and a brunch burger. the ambiance and decor of the restaurant was 10/10. I would definitely recommend this place, especially if you have an event or celebration."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CUVVYVnpkRFJ0T1UxSWJHVmxhMjVyTURkVlEzYxAB",
+            "text": "Ok so I wasn’t go to say anything but I passed this place today and felt compelled to share. I came here to get a drink a few weeks ago… a Hugo spritz, to be exact. I got one and it was fine, nothing special, but I ordered another. The second drink arrived and I was immediately puzzled. It was objectively not the same drink as the first round (see photo). I debated saying something but after tasting it I realized I had to: it tasted nothing like the first. So I say something and the staff is lowkey pissed at me for it. The bartender comes out to assure me that he made it the exact same way he did the first time. I really didn’t mean to offend him or his craft but I just wanted a Hugo and this was NOT a Hugo. Anyway he made me another and it was fine but a crowd of employees watched me drink the entire thing and it was a weird vibe overall. I don’t want to hold a grudge but, come on, that isn’t the same drink and I felt gaslit. Perhaps I am just sensitive"
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzcmJyeGRBEAE",
+            "text": "The decoration is amazing, it's clear they put a ton of attention to detail. The noise level is high as the place fills up, and they play loud music. The food was good, decent portions, but nothing to call home about. The waffles were pretty dry. The Sicilian shakshuka was pretty tasty, it reminded me of pasta sauce."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyaU8tZi1RRRAB",
+            "text": "Cozy, quaint and cute. I Love the aesthetics of the location. The swing is a nice touch of character. Service was excellent - extremely nice African American Manager, provided suggestions with location of where to sit. I also ordered the French Toast, it was too moist and presentation wasn’t appetizing. All the items on top of the toast saturated the bread so it tasted like mush. I re-ordered a blueberry waffle and it was Perfect. My husband got the chicken & waffles and it was delicious.  Visiting NYC from the ATL. Our drinks were refreshed often, we sat outside and we went during brunch hours. Staff was extremely attentive & I loved that management came out to greet us and took our pictures on the swing. Only recommendation is change the French Toast recipe. I am a huge fan and I’ve ordered across the country. This one by far was my least favorite."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kb2RrcEdlalY1VjNGaVlrWjJUbGhvWVZKMVNHYxAB",
+            "text": "The service is excellent! I’ve been here for brunch before and enjoyed the food. I came back for dinner to try the cacio e pepe. Unfortunately it was really flavorless. The pasta was alright but it had no flavor. Severely lacking salt and cheese. Even with the added fresh parm when it was served, it had no flavor. It wasn’t just my tastebuds either, my husband said the same thing. Bathrooms are downstairs and they are clean (very dark though, hard to see yourself in the mirror). I would consider getting something else next time. The hosts and the servers were extremely attentive, friendly and welcoming!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FNWFtaE9Sa04xZVMxWFlXaDNlbFZxYWs5SFdrRRAB",
+            "text": "One of my favorite Italian spots that I hope doesn’t get flooded with people. The food is phenomenal and I’ve had cocktails here that rival speakeasies. Service is impeccable and the vibe is great for all occasions. Is a staple spot for sure."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25RdFVsSnpibEpHYzNwNU5rUTRRMloxWVRoUU1rRRAB",
+            "text": "Stopped by for a quick dinner before a show. The fritto misto and ragu pasta were fantastic! And the tiramisu was definitely one of the best we’ve had in the city!!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25BeGRUSktla2h6VDI1a1RIVXdlVGwwWmtOVFlWRRAB",
+            "text": "This place is beautiful! The service is amazing. My dental office picked this place as our annual summer dinner. The food was phenomenal as usual. Drinks kept flowing and our waiter Bryant was entertaining and kept making sure our table was well taken care of. Bryant’s service is top notch! We will definitely be back!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3cU4tV0t3EAE",
+            "text": "Food was very good. The Ceasar Salad was the best one I’ve ever had. Seriously, very fresh ingredients and the seasoning out of this world. Salmon with tomato risotto was also special! Service was also very good. Price is fair and doesn’t disappoint when the check comes to the table. Atmosphere is casual and the place is very well decorated. The only aspect I didn’t like is that tables were very close one to another and as it was very crowded, it got really noisy, not allowing us to properly have a conversation. Other than that, it is a very nice place to enjoy a good Italian food for a fair price in NYC."
+        },
+        {
+            "date": "수정일: 11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzbWJENVVREAE",
+            "text": "I don’t give many 5*s.  I had the best salmon here that I’ve had in a while.  Must try IMO.\n\nStarted with the tuna tartar.  Very good. The capers were a great touch.  The salmon was excellent.  Cooked so the skin was crispy but the meat warm but rare.  My first taste of the dish was the black lentils and a crispy brussel. I immediately thought this was the absolute perfect temperature and combination of crispy and almost creamy.   I was worried it would be too hot from their warning of the hot plate.  But it was perfect.  The salmon was as incredibly moist but not too much so.   Service is excellent.  Bartenders helped with a nice wine selection.\n\nIf you found this helpful follow me for more. :)"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Gc1FYTmlWMEZIUjNKa2RXSXRRMVZuWjNoSVkyYxAB",
+            "text": "Absolutely the best restaurant! Every dish we tried was simply magical — full of flavor and beautifully prepared. The wine and cocktail selection was incredible, with something for everyone. We had such a wonderful time here — the atmosphere was so cozy and comfortable, we didn’t even notice how late it got until we were almost the last ones left! Huge thanks to Harry — he was truly amazing and made our evening even more special. Highly recommend this place for a memorable dining experience!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBOHY2Q05BEAE",
+            "text": "Isabelle’s Osteria was participating in Winter Restaurant Week which started three weeks ago. I managed to have one lunch here. The lunch menu had a good selection. Fennel salad and Chicken Milanese was my choices. The salad came first. It was nicely seasoned and had a bite with the walnuts and creaminess with Parmesan and lemon. I could only eat half the portion. Then came the chicken but where was it? Under the arugula! The dinner plate sized crispy chicken had a bowler hat of arugula, thinly sliced red onions and cherry tomatoes. This was a toothsome entrée which I enjoyed but once again found it too big a helping and got it packed to take home. The large amount of arugula made it spill onto the table which was the one thing I didn’t care for. . Nestor created a mocktail with passion fruit juice that complimented my lunch nicely. Both he and Jesus were personable and professional. We talked about the chicken which is not on the regular menu but a strong contender as it was the most popular entrée during this Restaurant Week special event. I enjoy eating at Isabelle’s Osteria having been here a few times. It is relaxing and no one is hurried out.\n\nHighly recommended!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJeFZVbDVZWE5VWkcxTVdpMUphbWxxWlhwRmRtYxAB",
+            "text": "The food was amazing!! Akif was so lovely and gave us great recommendations. 10/10."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjNVV6ZzRObkZZVjFoRVp6QlNPV2t3VG5FMGExRRAB",
+            "text": "We had two amazing meals at Isabelle’s. The food is so fresh and delicious. They make all of their pastas in house and the chicken paillard is out of this world. Our server Bryant was so helpful and friendly. He went out of his way to steer us in the right direction. My husband had the eggs Benedict…twice. Highly recommend!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pScE9WUlJkM290YlVOcGVIY3hhRkZCZUVvMVNXYxAB",
+            "text": "Isabelle’s never disappoints. The food is incredible, the vibes are so cute. But best of all is the service, Jesus was so attentive and really cared about our group having a good experience. He was very detailed and didn’t skip a single beat! Just a truly delightful restaurant!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN5NTZEcUNBEAE",
+            "text": "Had really good brunch here. Very good service and food was on point. We got a bit of everything and I loved it all! Pasta cooked perfectly, and calamari with fried lemon slices is just perfection 👍 good bottomless mimosas (they used good alcohol and not something that gives you a headache an hour later)…"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOT3R0Y08xXzctUmhBRRAB",
+            "text": "Very nice Italian restaurant with friendly staff. We celebrated our honeymoon here and they gave us a little extra from the house. Would definitely eat here again!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoOWZUZS1RRRAB",
+            "text": "Really pleasant bistro style Italian restaurant. Decor is well-thought out, service is top notch, and good high-quality. It's typically pricey so good for expense accounts and special occasions. I liked that the lower level bathroom was sleek and didn't feel like a basement bathroom typical in the area. Food presentation was attractive."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPbExiMXBBRRAB",
+            "text": "Food was delish! Portion sizes were perfect. I highly recommend getting the pasta. The sauces are amazing. Other than our waitress disappearing in the middle of our meal, everything else was great! This is a great date-night restaurant."
+        },
+        {
+            "date": "2년 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCcC1pWkpREAE",
+            "text": "Locale molto accogliente, le luci sono soffuse ed è piacevole.\nCamerieri attenti ed educati.\nTutto molto buono, alcuni piatti non sono proprio come in italia ma mi è piaciuto tutto.\nOttima carta dei vini con una buona scelta!\nOttimo i sughi delle tagliatelle e delle lumache.\nPrezzo in linea con i prezzi di New York."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3d2NMX3pBRRAB",
+            "text": "10/10 experience! Nestor was our server - so amazing. I had just said yes to the dress at Kleinfeld’s and I couldn’t imagine a better place to celebrate afterwards! The service was immaculate, food was perfection, drinks were delicious. I highly recommend this place if you want great service, food and outstanding service :)"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWVlkzVk1NRWhsWm1GeGNUaHZMWE10YzFNemVsRRAB",
+            "text": "LOVE this place. The food is excellent, not fussy, and so flavorful. The pastas, salads, crudos etc are always fresh. Service is on point and warm. Great wine and cocktail selection too!  I like to enjoy a spritz and a bite at a table outside to people watch if it’s not too hot. Great spot!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkOVo3SFl3EAE",
+            "text": "Named after a playful nickname given to the chef’s mom, this establishment is located on Park Avenue South in Gramercy Park. Opened in late 2020, Isabelle’s Osteria features Italian and Mediterranean cuisine, adding unusual touches to traditional appetizers and entrees. My partner and I came for brunch as first-timers. Reservations were easily made via Open Table. Upon arrival, we were greeted by the host and got seated promptly. The restaurant has a nice, well-thought-out interior with a classy vibe, but one could come in casual. We decided on the Poached Eggs with polenta, oyster mushrooms, & Chicken and Waffles with sourdough waffles and calabrian chili syrup. Every dish was amazing tasty and well seasoned. Portion sizes were on point. Akif, our server, was knowledgeable, attentive, and friendly. He was helpful with choosing our drinks and food. Prices were comparable to the area. Their food quality and attention to detail made the experience stand out, which we can recommend."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1V1RIVTFNVlo0Y1ROWlowOU9iQzF5TmpBMmNYYxAB",
+            "text": "Absolutely loved Isabell’s Osteria!\nThe food was outstanding and came super fast – no long waiting times, just pure enjoyment. The staff was extremely friendly and attentive, making us feel very welcome. And I have to give a special shoutout to the mango sorbet – fresh, fruity, and simply unforgettable!\n\nA real gem in New York – highly recommended!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kVllsVjNaM1ZPY2xsVmMwVTFhbFF4TWxRd04wRRAB",
+            "text": "Had the best birthday dinner at Isabelle’s! We sat outside and Jesus took such good care of us. He was so attentive and made our dinner so special! The food was amazing, the vibe was great. Will definitely come back."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tobVMyRldjM0Z6U1djelIyVnVXSGh4ZEd0U01rRRAB",
+            "text": "I have to say as soon as I arrived I was welcome by such amazing staff and the GM Miles. They absolutely made my guests and I feel welcome and had full knowledge of the food and drink menu.\nWe will be back and spread the word about Isabelle’s on Park Ave.\nThank you Miles, our Waitress Donna and the rest of this amazing staff.\nSonny the Saint"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKQ2JVUk5kblZsWXpkUlNVOXpUVVZ0YlRORVlWRRAB",
+            "text": "Great food, best meatballs I’ve tried in the city! Delicious desserts!! Tiramisu and chocolate budino"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5cnBud3VnRRAB",
+            "text": "There’s great menu items at Isabelle’s Osteria, but there’s also some items which are mediocre at best.\n\nFor appetizers, we ordered and enjoyed the burrata, crispy calamari, roasted octopus, fluke crudo, and tuna tartare. Out of these, I personally enjoyed the fluke crudo, tuna tartare, and roasted octopus the most. We also ordered the roasted beets and meatballs but did not enjoy these as much.\n\nWe tried the tuscan kale salad, which was better than I expected.\n\nI tried the cannelloni, which was very tasty and unique! Had great flavors. A few of my colleagues ordered and enjoyed the mushroom lasagna very much, but personally did not try this.\n\nFor my entrée, I ordered the prime NY strip, which is 14 oz. It was quite large and filling, but I must say quite disappointing. I asked for medium rare, and it was definitely overcooked. Steak was not very tender or marbled. I would not recommend the steak.\n\nAs a side, we also ordered the crispy brussel sprouts which I loved! Would definitely recommend if you’re a fan of brussel sprouts.\n\nFor dessert, I had the tirimisu and gelato (comes with 3 scoops). The gelato flavors were vanilla, chocolate, and coffee. Gelato was average, but the tirimisu was great. A colleague got the gelato parfait and it was HUGE.\n\nAs for cocktails, I enjoyed the park avenue passion. My colleague got the amalfini which visually surprised us, because it came with a picture of the mona lisa lasered on! Apparently, if you scan the QR code on the menu, you can even customize the image. Certainly fun and quirky.\n\nIsabelle’s Osteria probably wouldn’t be on the top of my list of recommendations, but if you do visit, there are certainly some decent menu items; but also some which might be a bit disappointing."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2b0x6OWF3EAE",
+            "text": "The ambience, service and food were all 10/10.\nAl was truly wonderful and provided a perfect service experience. His recommendation of the prawns were even better than we could have expected!"
+        }
+    ],
+    "reviews_count": 89
+}

@@ -1,0 +1,439 @@
+{
+    "name": "Valdari Ristorante",
+    "place_id": "ChIJD4cZpUZhwokRIr9-nPPrcRg",
+    "grid": "QN11",
+    "address": "214-26 41st Ave, Queens, NY 11361, USA",
+    "rating": 4.4,
+    "user_ratings_total": 289,
+    "phone_number": "(718) 224-0397",
+    "reviews": [
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFNVN6RlZaSGcwZDNWUVRWODNZVzV5Wm1sQ1EyYxAB",
+            "text": "The food and atmosphere was good. The drinks were great. Overall great experience."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoUE9XSlVlRTVIVlRCeVJWcGhOVEpyTmpjMmEwRRAB",
+            "text": "Lovely establishment for group dinner. We all enjoyed their homemade pastas."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWUU1VOVBUblV0YUhSTmMwUlFOVnBzU2t0SFdrRRAB",
+            "text": "Staff was very attentive and accommodating. The food was exceptional!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taQlZqWlRhV1JrU0U5S1oxVmlVMnBEYWtsa2RIYxAB",
+            "text": "Great place with great food"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25od2JqaFNRVWs1YlZGYVNEZDVTM1ZXYW1GeU1uYxAB",
+            "text": "Good food and good service"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OaldtMVlibmRmUjJWd1VEQlRia2xtTVRWT1dGRRAB",
+            "text": "Bread was so good, one of the best breads i’ve had (and it was free!). Octopus and calamari app was delicious, pasta was also great and the eggplant parm was amazing. Not a fan of the burger but it was cooked to the exact temp I asked for (medium) - just felt like it needed some more seasoning; fries were great! Loved the chocolate cake desert and the donuts with nutella sauce. Customer service was one of the best i’ve had in Queens... the waiter on the rooftop made the experience 10/10. Would come back jyst for the wood fire pizza it was the best!!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kc2R6ZEhSbTVKV1cxWmNrdFlRakphVldWNlZFRRAB",
+            "text": "Sorry really wanted to try this place..came around 1 pm..placed closed. phone just ringing.Called x2..No answer. Very disappointed\nAlso wheelchair entrace was full of chairs. I think customers should know if place is not opening on time"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kMWREYzFZVzFYVEhsM1MzUlpPRW8yVjAxNlJsRRAB",
+            "text": "Valdaris is such a great spot in Astoria! The food is fresh, flavorful, and beautifully done — especially the seafood and pasta. The staff are super friendly and make you feel at home. Cozy atmosphere, good drinks, and fair prices. Definitely worth a visit! ⭐️⭐️⭐️⭐️⭐️"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wS2NFSkJRWEkzTFZGWVNFZFphR3QxVWpoMFJHYxAB",
+            "text": "One of the best spots in queens. I suggest you try the rooftop dining. Everything is fresh and service is great!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKa2VVNVJSVzlzTmtzelJ5MDVlVkJWYzBFeU5tYxAB",
+            "text": "Everything was great no good left on our plates! Will be coming back again and again!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SSWJXVTJjSEYzUTFVd1NHOVFlV3BRWW14dk0yYxAB",
+            "text": "Love this place... You will not be disappointed..."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xocVNteFRWbEF5UWt0c1JUUnpiR3g0YVZaVlpFRRAB",
+            "text": "Ate at the bar, overall a good experience. If you want Italian food, good place to experience."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKYVVWZEhUSFpIU2xWNmNEWlFTbWxtYVhndFptYxAB",
+            "text": "On behalf of The Center for the Women of New York, I want to extend our sincere gratitude to Valdari for their generous and delicious donation of penne alla vodka to our Taste of the World at Fort Totten gala.\n\nValdari’s penne alla vodka was a standout dish—creamy, perfectly sauced, and full of rich flavor. The pasta was cooked al dente, and the tomato-vodka sauce was both velvety and well-balanced. It was clear that this dish was prepared with care and high-quality ingredients, and our guests thoroughly enjoyed it.\n\nWe deeply appreciate Valdari’s ongoing support and commitment to our cause. It’s because of dedicated local businesses like theirs that we’re able to raise essential funds to support women across New York. Their continued generosity makes a real difference in our community.\n\nWe highly recommend Valdari for their delicious Italian cuisine and their big-hearted support. Thank you for helping make our event a success yet again!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCd1NXdDZWMHd6TXpkcGNXTnJZbk5CVVZSZlVtYxAB",
+            "text": "We were really disappointed with our order. The pizza with pesto and tomatoes had no flavor at all—the tomatoes were dry and made the whole pizza unpleasant. We also ordered pasta to go, but when we got home, we found it was undercooked and had barely any sauce. For the price, we expected much better quality and won’t be ordering again."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSR2RrMDRPSEppWTA5TFdtRTVUMWhmZGpSeGMyYxAB",
+            "text": "The best place to go"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xSVJVSktVbWxxVUUxRk9UWkNZMDQxTVZodFIzYxAB",
+            "text": "I've gone twice and definitely plan to go again. Great food!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KRWFsSXpObGRZVVZkbk9TMHlSRzlEWkdobFZVRRAB",
+            "text": "Really good! Solid selection of vegetarian meals, the complimentary bread was really well seasoned, the pasta was perfectly Al denté, their mocktails are delicious and their pizza is too. Plus the service was decently quick!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxaFlqVmhVMjVKY1ZwcWRVZEdVRGRXU0RNdE1rRRAB",
+            "text": "amazing efficient service and probably the best italian food in the area , thank you"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGcWVYa3dkR0ZpT0dkNVJIbGljRmhHZERsaVZYYxAB",
+            "text": "A very high quality Italian restaurant in Bayside. They have exceptional food and a welcoming atmosphere. When I was there, they had a live music performance featuring a very talented singer. All around 5/5 stars and a very good place to get dinner in Bayside."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKc01HeDRRalJTYVZFNVUwOWxaazl5WkhWMlpVRRAB",
+            "text": "It was a great lunch. We had the prosciutto pizza and truffle pasta, the service was great and very helpful. Definitely would come back!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGTlpGWTVPWEpWVVhSV01sRklTV1ExYXpaRU5WRRAB",
+            "text": "I knew this place was going to be legit right when I walked in. The vibes were so high and the server who greeted me, Laura, has great, friendly energy. The place is beautiful, the smooth chill house music fits the vibe, and the food is incredible!!! We had the meatball appetizer, the Parpadelli Al Funghi, and the Brocoli Rab. Like WOW. My husband is Italian and he is very impressed. Oh, and you get free super yummy Foccasia with your dining experience.  I will be returning and telling my friends about this place!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pocmVqWnhlSGxKUW1oWFNWZzVMVE16U0U1amIzYxAB",
+            "text": "This place was great. Very attentive staff and delicious food. Atmosphere feels trendy yet laid-back, there was live music which was a little loud making it hard to hear another person but it was over all a good experience."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201dlpHaFphRFpKUVMxaFdrZFNWV1pMZFhjNFUzYxAB",
+            "text": "Came with a group and we all loved our food. Shared the tartufo pizza with the table and it was 👌 I also had the fettuccine alfredo with shrimp and it was excellent! Fresh and delicious! Our waitress was very sweet and attentive."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCbmFIRlNXR1ZUUTA1Tk4wOUVXVzVSZFd0VFduYxAB",
+            "text": "Great happy hour with $10 wines and some food specials at the bar. Friday nights they have live music which feels local and fun. We come for the amazing brick oven pizza (Neapolitan style). Great staff and service."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xnMlgyVnlXVkpUTjI1NlpVZGhZVXR4WW5wTldVRRAB",
+            "text": "Never again, Especially for a special occasion.\nWe came here to celebrate a birthday, expecting a nice evening with good food and a bit of festivity. While the food itself was actually quite good, everything else about the experience was a huge letdown—and the service completely ruined the night.\n\nWe brought our own birthday cake, and after dinner, we informed the staff that we were ready for it. They made us wait 30 minutes before even bringing it out. When they finally did, they sang happy birthday—and then immediately took the cake away before we could even cut it or serve it. What happened next was honestly baffling: another 20-minute wait before they brought it back, by which point the mood had totally died and our guests were visibly frustrated.\n\nThe staff were inattentive, slow, and seemed completely indifferent to the fact that this was meant to be a special occasion. If you’re looking for a place to celebrate something important, I would absolutely not recommend this restaurant. Good food can’t make up for bad service, and this experience left a very sour taste overall."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OTlZ6aE9NRE4xTUZCbFgzZ3hRVlJqYkdSdVZWRRAB",
+            "text": "Had a wonderful experience here the brick oven pizza was nice and crispy, the steak was cooked to perfection and the bartender Rachael makes delicious drinks I recommend the Bourbon Bramble. I will be returning soon."
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPYlc0NkxkOWRDbjd3RRAB",
+            "text": "La comida estaba buena."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPMktydTJyODlHNU13EAE",
+            "text": "Food was good"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNdW9wZHpVaFAzT3BRRRAB",
+            "text": "Beautiful place, great food, great drinks and the service was great... Over all amazing we will be going back"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLSzlqcXY4dnZPWk13EAE",
+            "text": "I had an amazing experience at this restaurant! Both the pizza and burger were absolutely delicious. The pizza had a perfectly crispy crust with just the right amount of cheese and toppings—every bite was full of flavor. The burger was juicy, well-seasoned, and served on a fresh, soft bun with all the classic fixings. You can really taste the quality of the ingredients. The staff was friendly, and the service was good. Highly recommend if you're looking for a great spot to enjoy comfort food done right!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNN1h6ZGVYb0xDcFpBEAE",
+            "text": "Good food. Good people. Good atmosphere. Good music. Good drinks. Good lighting. Good tables. Good seats. Good decorations."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNRHdqSm1qbjhidWRnEAE",
+            "text": "Valdari is great! Awesome food, friendly staff, great drinks and brunch options. One of our favorite spots in Bayside!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZaWN1VkRBEAE",
+            "text": "Valdari was a really weird experience. The restaurant wasn't busy at all for a Sunday night, and my family was celebrating my sister-in-law's birthday. Our party spent a bit of time chatting at our table before looking at the menu, and this seemed to annoy the wait staff. Nonetheless, we tried to keep things light and celebratory.\n\nHowever, the service issues did not stop there. Our waitress was absent for most of our meal, casually munching on her own food across the restaurant. This meant our table's water carafes went empty, and our drink orders went untaken. It seemed like our waitress did not care to give us good service, because the gratuity was guaranteed with our large party. She could've helped herself by allowing us to order more cocktails!\n\nThe food was extremely unremarkable. I had the ribeye, which was inexplicably smothered in some flour-based (?) sauce/gravy. The steak was competently cooked, but the finish on the meat was undermined by the gravy. It gave the meat a soggy mouth feel, as opposed to the rich crust you'd want in a steak. The veggie accompaniments and mashed potatoes were quite good.\n\nAs an appetizer, I had the grilled octopus. It was fine. The portion was large, when considering the mashed beans and mushroom components of the dish. I have had better and worse grilled octopus.\n\nThe price on the food and cocktails was pretty reasonable. We got out for just under $400 for seven people (after auto-grat 😀), but we could have easily purchased another $100 in drinks, had our waitress cooperated. Either way, that's not bad for seven people.\n\nOverall, I'm not mad at Valdari. I just don't love it. The food didn't take any risks. The venue is a bit drab. The wait staff was extremely distracted. If it were up to me, I wouldn't choose this restaurant again."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZMHNhWHhRRRAB",
+            "text": "Food was delicious; my friends and I got the Branzino, Penne alla Vodka, Veal, Octopus, Arancini and a pizza to share. However, my one big issue was our entrees took nearly an hour to arrive at our tables. Also, the pasta in my penne alla vodka was undercooked (it was still a bit hard)"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZaklxVmJBEAE",
+            "text": "Really nice place, I had the spaghetti and clams it was delicious. Would recommend"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNveTltTGVREAE",
+            "text": "I just had dinner.  A party of four. Mandatory 20% tips and 3% credit card surcharge."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNva3RIZDlRRRAB",
+            "text": "Just came here for the first time today. Had a great time. Everything was well priced and great. Coming back soon!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNva3RHTlN3EAE",
+            "text": "Came for happy hour on a Tuesday. Had the arancini & truffle fries. Food was delicious & the drinks were great. Very cozy atmosphere. Will be coming back!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJMS1tajNBRRAB",
+            "text": "Great place for a reunion with friends and family, they don't rush you out, are very respectful and friendly"
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoLTd5a0NBEAE",
+            "text": "I'm not a fan of the usual dives on Bell Blvd. We tried this place based on a recommendation and were pleasantly surprised. This place is a modern Italian restaurant. Given my food allergies, I sat at the bar. I find that the bartenders know their menus better than the servers in most places. Danielle,the bartender was very helpful and guided us through the menu making sure we chose tasty meals. I decided on the striped sea bass. It was cooked till perfection. It was moist and came in a savory broth. They have a wood fired pizza oven that makes tasty pizza.  Nice selection of cocktails...\nDanielle made a delicious blueberry mezcal. Definitely, give this place a try."
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKMzlqUWhBRRAB",
+            "text": "분위기도 좋고 직원도 친절해요"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJMjlybUZREAE",
+            "text": "It’s always a great experience dining at Valdari! This restaurant has a range of delicious menu options all of great quality. I always come back for their personal Margherita Pizza pies, since they are cooked in house in their own coal stone oven. They also serve complimentary bread from this oven as a starter! Their Chicken Cesar Salad is filled with very nicely seasoned chicken and shredded parmesan. Sometimes it takes a bit too long for waitresses to come to the table, but they are very attentive when they do. I was only disappointed in their Strawberry Cake for dessert, for it was only vanilla cake with a sliced strawberry on top. I look forward to continuing to come back here to try more of their incredible menu."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNENjk2ZHR3RRAB",
+            "text": "My experience here was great! The manager, Paula, offered and maintained excellent service. She was super accommodating and attentive to our table even when it became busy.\n\nAs for the environment-its a big and open-yet-cozy space. I have a feeling though when it gets busy especially with all of the tables, it can get loud if people are trying to have conversations. I would suggest combating this dynamic by playing calm music like jazz or a variant of this to keep people's dispositions calm and meek.\n\nThe food was good! The bread appetizers can use more of a base like oil or butter to provide moisture. Otherwise you won't be disappointed. Now this isn't a Del Friscoes however for a nice casual day or night out this is a great spot to get good cuisine as a decent price. I'd say the price would be at least $20.00-$30.00 per person?\n\nOverall a great restaurant and staff. I wouldn't come here when it's busy unless they change the genre of music played."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnb0xpNHlBRRAB",
+            "text": "Overall an excellent experience. The pasta is freshly made and shines through in taste and texture. You can taste the different cheeses in the quattro formagio pizza. Coupled with great food is great live music as well!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqcWVDcmZ3EAE",
+            "text": "The restaurant is not on Bell Blvd but just a block away from it. I like the atmosphere here. Because we went during weekday, it's not fully seated. The olive oil is so tasty, perfect match with the bread. We order mear ball, pizza, octopus and cod fish. Those are regular dishes in every Italian restaurant. They all tasted delicious. We love them all.\nThere are different kinds of pastas, we would like to come back and try more."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEMjZUWkRBEAE",
+            "text": "I highly recommend this place! Had a great brunch on Easter Sunday with family and friends. They had an Easter bunny for the kids and even organized a mini Easter egg hunt. The service was excellent, and the food was amazing. I enjoyed the truffle burger with fries, while my wife loved her salmon with mash. We're definitely coming back soon."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzdk5uczh3RRAB",
+            "text": "Your food comes with a delicious bread. We always order the crispy mozzarella as an appetizer because it’s so good.  I love the pizza all of them are delicious and the portion could easily feed 3 people. Penne pasta with chicken and the fettuccine alfredo pasta with shrimp is fresh and filling. We have also had brunch and enjoyed thick brioche French toast and pancakes. Their crispy donuts & strawberry cake are dreamy.  I always end my dinging experience with a perfectly made mai tai. Pictures below.  I had already started drinking the mai tai 🤗"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxbk1qckx3EAE",
+            "text": "This was our first time here and I must say the food was AMAZING. We went here on Christmas Eve as a last minute (well day before) change of plans and honestly Valdari did not disappoint. I had a Caesar salad and Veal Parm, my fiancé had the veal ossobucco and his daughter had the Rib eye steak. We also shared friend calamari for the table. Dessert was amazing as well. The atmosphere was calming and welcoming and our server Mariana was lovely. Definitely recommend this place and we’ll be back 😊"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKNElfa2hBRRAB",
+            "text": "Food was good, service was excellent and the atmosphere was nice but maybe a little loud.  We had some dishes that were fantastic and some that were just ok.  But nothing was bad! I had the pesto pasta with salmon, the salmon was cooked perfectly but the pasta was slightly overdone.  My husband has the spaghetti with clams. It was fresh pasta and cooked perfectly! My son had the penne al vodka and liked his dish.  My dad had the scallops with pesto risotto and loved his. I would probably get that next time."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNOaExqZ2RBEAE",
+            "text": "Came for dinner on a Thursday night with my husband. It wasn't too packed though there was a big party of 12 in the back.\n\nWe ordered Nonna's Meatballs, Branzino and Veal Parm and a few drinks. Food was perfectly seasoned, cooked and tender. That veal Parm was thick! Portion size was reasonable for the price. We were so full from the free flatbread, meatballs and drinks that we couldn't finish our entrees.\n\nAtmosphere was nice. You can see the open kitchen and pizza oven. It didn't seem chaotic. Service ran smoothly.\n\nOur waiter checked in on us a few times to make sure everything was ok. He refilled our glasses with water regularly.\n\nWould definitely recommend! Next time, we want to try the bottomless brunch!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2eXBxSmF3EAE",
+            "text": "came here for happy hour and everything we had was delicious and reasonably priced, no complaints! they also had live music here which was nice. i definitely recommend checking this place out for happy hour 😊"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUazlLSE9BEAE",
+            "text": "Really liked the layout and atmosphere of the restaurant. Service of the staff was attentive to the patrons. Food was overall good and priced in line, with what you expect to pay.\nRestaurant can cater dining from couples to big parties."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaMVBDeTJ3RRAB",
+            "text": "Atmosphere was fantastic, service was superb, food and drinks overall was good but the pasta needed a bit more seasoning it seemed like it lacked something in the sauce. I am a foodie so unfortunately the pasta did not live up to my expectations. 😕"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtcUtpbHdnRRAB",
+            "text": "We want Italian and would like to try something new.  We were pleasantly surprised with this restaurant located along at 41st Street that's newly opened.  I like that they have valet and since they are not located along Bell Boulevard,  it's not stressful .  Another plus is they are few feet away from the municipal parking so you can't go wrong.  The decor was nice and tables are spaced appropriately. Now let's talk about food.   For us to return to an Italian restaurant , we need to love their grilled octopus and Valdari nailed it to our liking .  It was deliciously marinated and tender.  It's also not boring .  The bean purée and roasted potatoes served with it were fantastic.  We also ordered Margherita pizza and serving size was more than adequate.  Ceasar salad served with fresh shaved Parmesan cheese was very good.  Bolognese pasta was delicious as well.,My husband enjoyed  their chocolate cake.  Excellent staff service was provided.  I can't have alcohol and asked the bartender, Danielle, to surprise me a non alcoholic drink.  Omg, she made this passion fruit mojito - virgin which was awesome. We had a great time and for sure we will  come back."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCd3RmMXhnRRAB",
+            "text": "The restaurant has a wonderful atmosphere, decor, and service. The food was excellent - we had the prosciutto and burrata pizza, veal scallopini, and fish with clams and muscles!  Yummy!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUc2F6ZXh3RRAB",
+            "text": "Went for birthday dinner and the food was very lacking in not only portion but also flavor. The pasta was bland, calamari was soggy, octopus was okay. The most decent thing from the meal were the fries. I like the space and ambience, but would not go back for the food because it is definitely overpriced. Service was good."
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzcTZYZjFBRRAB",
+            "text": "⭐⭐⭐⭐⭐\n\nAbsolutely amazing Italian food! The chicken parm was perfectly crispy on the outside, tender on the inside, and covered in the most flavorful sauce. The pasta was cooked to perfection—so fresh and delicious! The staff was incredibly friendly and welcoming, making the experience even better. Plus, the music and ambiance created the perfect setting for a great meal. A special shoutout to Susan Agin, whose beautiful and powerful voice elevated the evening; she’s truly the best singer ever. Highly recommend this spot for anyone craving authentic Italian cuisine! Can’t wait to come back! 🍝✨"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUaF9lWF9RRRAB",
+            "text": "Stopped in for lunch, a pizza and cold beer hit the spot. I like the atmosphere and decor, staff is friendly and attentive. They offer happy hour specials and a brunch menu."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2OVl1MlR3EAE",
+            "text": "Came with family for brunch and had a wonderful meal! The restaurant is lovely and the service is warm and terrific!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBMnR5Q2FREAE",
+            "text": "I went for the first time  Had a great experience. The food was very good and so was service  I enjoyed everything and the prices were definitely reasonable for the quality  Will definitely go back."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfOE9mRGN3EAE",
+            "text": "We ordered the margheritas pizza and the linguine and it was delicious and the serving was also large. The service was great and so was the atmosphere."
+        }
+    ],
+    "reviews_count": 61
+}

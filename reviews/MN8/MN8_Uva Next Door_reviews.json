@@ -1,0 +1,481 @@
+{
+    "name": "Uva Next Door",
+    "place_id": "ChIJ1wvzHWRZwokRD8U6_Yc3lQA",
+    "grid": "MN8",
+    "address": "1484 2nd Ave, New York, NY 10075, USA",
+    "rating": 4.4,
+    "user_ratings_total": 274,
+    "phone_number": "(917) 472-7921",
+    "reviews": [
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poTFNFVm9iVzE0WkY5TmRFa3dXVkZGTlROMVZuYxAB",
+            "text": "They have gluten free choice and the food was delicious.  The prices was good. The appetizer we order were beet salad would order again.  My nephew order the dinners, I cannot remember the name. The food was delicious."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFd2NUSm5NMkZPUjI1cVVteHFORVpLUm1kM1JWRRAB",
+            "text": "Good food, very long waits, overpriced. Waited 45+ minutes for an entree, every item was more expensive than I see anywhere else. Nice staff, but had we known: would’ve eaten elsewhere"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SSVNreEdNelZ0UzNaQ1FYQmhiVXhtVkZwWlZHYxAB",
+            "text": "Five stars is not enough! As an Italian, I can say this is the most authentic and delicious pizza I’ve had outside of Italy. This pizza is perfection — from the crust to the sauce to the balance of flavors, everything tastes genuinely Italian. You can tell it’s made with passion and respect for true Italian tradition. Absolutely outstanding!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201ZmVuVTNabFkzYTJOaE5YTlJjbXhtVTFOdFpHYxAB",
+            "text": "Fabulous good; good portions"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aRU9GUlNSWEZoTlVkRVVVSnJhbmxQYkVabVQwRRAB",
+            "text": "This is my favorite spot on the UES! Martini mondays are the best and the truffle gnocchi is to die for! We love Radolfo our busser he is the best and has the best customer service and recommendations!!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFd1QzZDJNVlpYYVhOQk1VY3pVSGxtVDJ0S1FWRRAB",
+            "text": "Just fab! Open late night when other italian restaurants are closed. Great food, and the people that run the place are super friendly and caring"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oS2QyUnRPRVJtUW01ZmVGbDJjMmRRTTNoTGIwRRAB",
+            "text": "came here for restaurant week and it did not disappoint. everything was absolutely incredible and the service was so friendly and quick. I got the truffle gnocchi which was filling and SOOO tasty. love that they give pretty big portions here unlike a lot of other Italian places that give like 4 pieces of ravioli. eggplant and ricotta app was also a hit and mango sorbet was perfect way to end it."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWUlZGY3llWEpVUkVaUFgycFFXamxPYjBRNE1GRRAB",
+            "text": "We were 7 with no reservation and the host was super nice and willing to accommodate us, unlike so many places in the city. It felt like really good to be so well received."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OVFlXOUpNbEY1V0VOeFRIWjRWVXR3ZUhORFEzYxAB",
+            "text": "Well crafted drinks, unexpectedly great thin crust Roman style pizza."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tadWVFazJSVk01VkVOMWMzVm5OV0pDWW5wMWVWRRAB",
+            "text": "We had such a sweet server who gave us some espresso martinis on the house with our dessert 🧡 The food was delicious and the owner was really cool and hospitable! Shout out Massimo"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxc1kyWjJMVWhvZGs1U2RXWkRVSEZFVmsxTlZWRRAB",
+            "text": "Went here for lunch with family. Had a great burger. One of our guests received six tortellini for lunch and was quite hungry afterward."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkUmVXOXJSbTlrTnpsc05qbExUWFozVFRsalFrRRAB",
+            "text": "Great cocktails and appetizers. A hidden gem in the Upper East Side"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205TE1qVjFjVnBpTlRGR1NWbEROR3d6YVY5WVNHYxAB",
+            "text": "We were at a wedding which was loud and overcrowded.Would love to have a quiet lunch or dinner at this place."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ONVFUZEhkVk5hV0hkVWFFTkZRMEpsTmxCRVlWRRAB",
+            "text": "Quite literally the best meal I’ve had in ages. My husband and i went for restaurant week on Monday and have not shut up about it since. I have celiac disease and the gluten free options were AMAZING. My husband loved his meatballs and lamb ragu pasta and i was obsessed with the eggplant ricotta and homemade gluten free pasta vodka! Their desserts were also delicious and service was fantastic. A must visit!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xZemVVVTRYMFpHYUVaQ1ZXNXBjSGwyUVdoRGVuYxAB",
+            "text": "Insanely small portions for the price if you’re getting delivery. $30 for pasta that’s the size of your fist. Phone customer service was rude"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKM2VHbFVNMGgwZGpoV01GWnRaR2xyU0ROclRWRRAB",
+            "text": "Don’t usually hang in the UES, but I was in the area after a meeting tonight and feeling a little hungry. Texted a friend, and she pointed me to Uva Next Door. When I arrived, it was buzzing—inside and out on the patio. Just the kind of vibe I love.\n\nI went for the Restaurant Week menu and had a delicious arugula salad with goat cheese and pears, followed by a pizza topped with Vermont goat cheese, caramelized onions, fresh figs, prosciutto, and a honey chili drizzle. The service, food, and ambience were all spot-on.\n\nThank you, Dean and Luciano, for a wonderful evening!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wNGN5MUZiMlJrYmpaTFR6SktWRkJNTlROUU5GRRAB",
+            "text": "Outstanding food, cocktails, wine. Our servers were also terrific, full of good humor and patience. Definitely a gem in the neighborhood."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5YVUyMDFhWGMwV0VkWE9XbElia3ROYlZsd2MzYxAB",
+            "text": "Cocktail menu shined. Really great, plus the food was served so quick and was really good. Need to head next door to try Uva soon!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKaWRWOURRMk5PWjBWWVp6RldkMUo1UkRGaFdXYxAB",
+            "text": "Penne alla Salt Mine\n\nI ordered the penne. What I got was a culinary ambush. Imagine pasta boiled in seawater, tossed with a sauce that clearly lost a bet with a salt shaker. I took one bite and immediately needed a blood pressure check and a glass of water the size of Lake Como.\n\nIf this is authentic Italian, then I owe Olive Garden an apology.\n\nAlso, it’s really loud. BUT, they let dogs inside."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xQ05pMWpNMDluZWpGbk5qQTVaMjlyT0MxSFRrRRAB",
+            "text": "I ended up choosing Uva Next Door to host my sister's 30th birthday party. The process was very seamless working with Mia to set the menu and other details for the large group reservation. The night of we were provided with exceptional and over the top service. The food was also delicious! Would absolutely recommend Uva Next Door if you're looking for a dinner spot to celebrate with friends and family!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOVlVHVnVORGRUZUhKTlYwaFNNbFJEY25VM0xWRRAB",
+            "text": "The Prix Fixe deal is the way to go. Pasta dish was amazing and a very good hearty portion, so was the calamari."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kT1YydG5YekJNUmxrd1dqSkZWR2xHWVdWSmQyYxAB",
+            "text": "We had the best time last night! We were a party of six and were lucky enough to be seated outside — a rare treat for UVA Next door. We shared a bunch of apps including the calamari, burrata, and pear salad — all absolutely delicious. The shared pasta plates and pizza were on point, and we enjoyed a couple of bottles of Rosé to top it all off.\n\nEven with a packed house, we felt like Alex was serving just us. The service was quick, the food was amazing, and Alex made the whole experience feel effortless. Huge thanks for showing us such a great time — my friends visiting from out of town were seriously impressed by how you kept everything running so smoothly!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paRWNWOUdXVTkwTm14V05WcHJWM1ZEZFVKelpVRRAB",
+            "text": "Delicious italian food. Came here for Martini Monday's! Martini's are $4 (or $8 for doubles) with the purchase of an entree. The beet ravioli was superb. The cauliflower steak was the right amount of seasoned, served with crisped mushrooms and topped with toasted seeds. Shishito peppers and burrata salad were perfect additions to our meal in the midst of heat wave. I left feeling full but not overstuffed. My only regret: not taking a photo to share here. You'll have to try it yourself!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3NFZsUm9SVUpJVUVoVGVtbEJUV1JpY25ablVuYxAB",
+            "text": "The garlic pesto dish I had with sausage added was absolutely delicious. The Martini Monday's special was a great added treat."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VMSzhncG40aE9mY3RRRRAB",
+            "text": "Bland food, very noisy, unimpressive beverage choices."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GVlRXdDJYM0YxT1hGWVJXcFlTWGhyWWswMFFtYxAB",
+            "text": "Fun and welcoming spot on UES. I love the kale salad and pizza…garganella is my daughter’s favorite dish. Our last visit our server Alex was the best! We know we can count on a great meal and relaxing evening here. Nice wine and cocktail list too."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPR21ydHZFcVkyM2NREAE",
+            "text": "Uva Next Door\nI have to recommend that everyone goes and eats here if you are in NYC! They have  dedicated gluten free kitchen appliances - I just had:\nEggplant and whipped ricotta\nTuscan Kale Salad\nMargherita Pizza\nDiavola Pizza\nCappelletti (made in house) with Pesto Sauce\nBranzino with quinoa salad\nCheesecake and a chocolate cake\n10's across the board!!!!!!!!!!!!!!!!!!!!!!\nAmazing staff too!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOYXI4SnE4bWJPQlJREAE",
+            "text": "Great food, especially the pizza! I ordered a pizza for delivery, but they accidentally sent the wrong one. When I called, the woman I spoke to quickly checked with her manager and apologized for the mix-up. They told me to keep the incorrect pizza and sent a replacement. When the new order arrived, they not only delivered the correct pizza but also included an extra one as a thank-you. You can’t beat customer service like that. Five stars all around!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPYXA4TGVzcXQ3RE9BEAE",
+            "text": "⭐️⭐️⭐️⭐️⭐️ absolutely amazing! Try the pizza pasta or dessert! Creme brûlée cheesecake was awesome! The pizza with prosciutto and sliced parmigiana 🤌🤌🤌 to die for"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvdC16Q1pREAE",
+            "text": "So good! Great place! Great food! Most friendly staff!!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvbC1tWXVBRRAB",
+            "text": "I went to UVA Next Door for a Saturday night reservation; I’d advise you book early as all of the spots were nearly gone by 09:30.\n\nIt was a later reservation so I was surprised at how busy and loud it still was. It didn’t take away from the experience at all, but it was a bit of a shock walking in.\n\nThe octopus was absolutely lovely and cooked to perfection; the meatballs were also very good.\n\nThe pizzas are great, the gnocchi was very good. We also tried the veal agnolotti- their mushroom and spring onion sauce in that dish was divine.\n\nI chose an Amélia Rose cocktail, which was good, but it didn’t taste like I imagined it would or as the menu suggested.\n\nOur waitress was fantastic; in fact, all of the staff worked as a great team on this very busy evening. I’ll definitely be back and look forward to trying Uva."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJMzhuWHBnRRAB",
+            "text": "The Veal was delicious.  The Bartender was amazing. and the red wine was perfect. Hells Kitchen is a very special place. I would never have known about Hells Kitchen if it wasn't for Russelll Dobular of the Due Dissidence Podcast."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRX3BtaEZ3EAE",
+            "text": "Absolutely loved this restaurant! Through the bar is a quiet little covered patio that is reminiscent of a place in Tuscany. Food was exceptional and staff was kind and very attentive! Will come back any time we visit NY!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnNFlMakd3EAE",
+            "text": "Had an amazing experience here. Went on a friend date and the vibes were great, food was great and our server was even better. Jean made our time so special. He was very knowledge and super kind. The ambiance and decor was also great and the $4 martini Monday was superb!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBeElEcFh3EAE",
+            "text": "My initial order was wrong but they did correct it. The food was very dry and I was not impressed, however the waitress was very sweet and she did her best."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfMGJPTlVREAE",
+            "text": "If a real Italian would eat there lol or really anyone with high standards for good food would eat there they would all give it a one star! The food is so bad. Period. French fries are good."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmMTdhS2JREAE",
+            "text": "Amazing time at UVA for their Martini Monday. We got a dirty gin and cherry martini to start (the gin was StrONG for a single) > Pizza and fusilli pasta were 11/10. Only complaint is the pizza was slightly burnt. You can see in the photo. Flourless cake was 9/10!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmNmQ3R1N3EAE",
+            "text": "Got the diavola pizza, ricotta + spinach pasta, and the donut bites. Everything was amazing and I would definitely return. The service was great too and everything came out quickly. Went on a Tuesday night before the going to the speakeasy next door"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmODlYM1JREAE",
+            "text": "We went to UVA Next Door for their prix fixe New Year’s Eve menu. It was our first time there, and I look forward to trying their full menu on a regular day.\nFor such a busy night, the staff was so attentive and friendly. The food and drinks were all great, but I would skip the donut bites in the future. I appreciate that they can make so many dishes GF."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmMHN6b2hRRRAB",
+            "text": "Great atmosphere and service, with delicious vegan and gluten-free options. The bartender, Mia, made the experience top-notch!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2dE9hQXBBRRAB",
+            "text": "Augustine was very kind, great service. 4$ martinis are batched, were sweeter than I like but still great deal and quality ingredients were used. Even if batched. Met Dean, kind man, rather attentive. Will be back!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2dzhYT05nEAE",
+            "text": "Severely undercooked penne with a lackluster vodka sauce. Very underwhelming experience. Pass on this"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2eExpMjZRRRAB",
+            "text": "The manager was rude. He threw us out, in spite of ordering $300 worth of food just because my friend was feeling sick. He called her drunk and what,not."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2Nk91NU5nEAE",
+            "text": "Great place"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYMzZfcXBnRRAB",
+            "text": "This place is PERFECT.  Great vibes. Amazing food. Rockstar bartender.  Amazing pizza.   Homemade pasta.  Finished off with a GIANT ice cream sundae for the table."
+        },
+        {
+            "date": "1년 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYd3QzRjBBRRAB",
+            "text": "Alles gut"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURubnNPVXNnRRAB",
+            "text": "We went to Uva Next Door to celebrate my wife’s birthday. It was a night to remember for sure. The atmosphere was great, food was delicious, and the staff was great.\n\nShoutout to Luccas (two c’s for extra charming). He was absolutely fantastic. He was everything you want in a waiter: friendly, knowledgeable, and super attentive. If management is reading this, take this into account during his review. He’s one of your best.\n\nWe’ll be back!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIZ3VXRERREAE",
+            "text": "I haven’t been to UVA yet, so this was my first introduction. Overall, it was a good experience, but maybe not quite living up to the hype.\n\nThe atmosphere: Inside, the design is very cool, except it is deafening. We sat outside in the cabana, and it was surprisingly more private than I thought. The only negative is that the tables are so small. For three people, there was barely enough space for all of our plates.\n\nThe staff: all of the staff we encountered were very kind. Our server was helpful, but I think she had the entire outside to herself, so sometimes she would go missing.\n\nThe food: I thought the pasta had lots of flavor. Unfortunately, my filled pasta was a bit overcooked and lost some texture."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIMTc3b21BRRAB",
+            "text": "if ur not coming here on a Monday and slamming back 4 martinis what r u doing 😭😭😭…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3Mjl1bXlnRRAB",
+            "text": "Guys, I never do this. But this pasta is so disgusting I can’t even eat it and it was *30 Dollars.*\nThe veal agnolotti is literally inedible. I am so grossed out. What a waste!\nAlso, I ordered the “dog meatball” which I assumed was just a meatball for your dog or a side of meatball, bc it was *9 dollars* and it came just a cold pile of gross ground meat and no idea what it was supposed to be.\nSoooooo disappointed. Never again.\nDelivered quickly but otherwise literally never again."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxNWRmWHZ3RRAB",
+            "text": "Overall rating: 4.4\n\nI came here for martini $4 Monday & boy was it good! The burger was good too! But! I can’t give a higher rating bc it’s people on top of people. It’s so crowded.\n\nThe service was very hard to get & a reservation is def recommended. If you’re a young professional looking for a fun night I recommend. But being 30+ & living in Brooklyn, this wasn’t worth it to me.\n\nIf I’m in the area, on a Monday, I might swing by. The all day happy hour is totally worth it if you’re strapped for cash. Recommend to the kiddos."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkMDYyYWRnEAE",
+            "text": "We had visited uva before and decided to try uva next door and was not really impressed. The food was kind of basic and I thought the pizza would be better since it was what they focused more on. I really enjoyed the atmosphere however and really enjoyed their cocktails."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLbmQyUERBEAE",
+            "text": "Pizza was delicious. The chicken was very juicy and flavor. The sauce with the chicken was amazing. I’d skip the fish. The service was great. Waters were always refilled. The restaurant had a nice atmosphere in doors. Very good social…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ1eFBmcklBEAE",
+            "text": "Hand down one of the BEST pizza places in NYC!! I have been to many spots, and Uva next door provides a delicious pizza. Thin, crispy and extremely tasty. The restaurant is small, so go early, or make a reservation. The other menu items are excellent too,  but the pizza is the star in my opinion. Another upper east side gem!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURxdk8yWlhREAE",
+            "text": "Overall, it was good. Atmosphere is cute and nice date spot.\n\nPizza Zio Vittorio:\nI will order this again. It was great.\n\nCalamari:\nAnother item I would order again. I liked spicy marinara sauce\n\nBeet salad:\nI would order again. The combination of marinated beets and yogurt sauce was good\n\nBranzino & lamb meatballs\nI have had better ones before at different place. I will not go back here for those two."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlMnEzRWx3RRAB",
+            "text": "I came here Friday with my girlfriend with high expectations which were easily met. Overall the place had a calm ambiance to it that really set the mood for a nice date night. Recently for any of my dining experiences in NYC I’ve been incredibly disappointed at the service but this was not the case here. We were immediately sat at our table and attended to by our waiter. At no point was I searching for him or her and the busboys did an amazing job with refills which is typically unique. I got the midnight road-trip which was a great spin on a whiskey version of an espresso martini. Sweet but you still got a great smoky taste from the drink. I got the chicken parm XL which was fantastic. My girlfriend got the gnocchi which she was raving about. Looking forward to coming back soon or visiting the other restaurants next door."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxcE9MUEh3EAE",
+            "text": "I have been to Uva Next Door a few times and have always had a nice time. The drinks and food are not particularly unique but all well balanced and tasty. I have gone with friends but I also think it would be a good place for a date — not too loud and lights on the dim side."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNodDYtTDhnRRAB",
+            "text": "Came here and had an excellent dinner with my partner to celebrate an anniversary. Cozy and warm setting. Service was quick which was nice as well.\n\nWe did the prie fix dinner option, at $45 per person and your choice of a full size appetizer, entrée, and dessert, you can't beat that! The fall burrata was awesome as was the Orecchiette with pesto (the pasta had a slight bite, cooked perfectly and you can tell its fresh!). The wine list was alright with most bottles clocking in at about $60, do wish there was more of a variety in terms of the pricing. But the rose option was solid and got the job done.\n\nExcited to come back on a Monday to experience Martini Monday which seems like such an excellent offer. If you're in the area, I'd have to recommend!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURiNWM2bkFnEAE",
+            "text": "Amazing!!!!! best Calzone of my life!!! pizzaiolo 100% italiano. Highly recommended!!! even the cocktails are amazing"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMyLTRxV3pBRRAB",
+            "text": "This is fast becoming my favorite Italian in the UES. I've only been twice, but the food was just as delicious the second time around as it was the first, which is hard to say for most restaurants.\n\nBurrata Pizza - SO GOOD. Fresh ingredients with the perfect amount of Burrata.\n\nHouse Salad - If you like goat cheese, this salad is for you! I really liked the dressing, but the goat cheese flavor was too strong for me.\n\nCappelletti de Ricotta e Spinaci - Delicious pillows of pasta. Ordered it twice and loved it both times!\n\nThe interior decor is old world Italian with an upbeat atmosphere and great music. Only downside is that it can get a bit too loud for my old lady ears when it gets crowded.\n\nFollow me on Instagram @this_vegetarian_life for more reviews from a vegetarian's perspective!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSN2NQaGd3RRAB",
+            "text": "Great restaurant for a date or a large group. I went on Saturday night for my birthday with 9 girls and it was great! Good food, good drinks. Service was good, and they even gave us some shots on the house for my birthday! I will definitely be coming back here"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCdXRtRUxnEAE",
+            "text": "Excellent gnocchi and crispy calamari. Service was attentive and friendly. Food came out hot and fresh.  We tried the bologense sauce, which tasted traditional and the truffle sauce, earthy and fragrant. I'll be back for the soft pillowy gnocchi and to try the delicious looking authentic pizza!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNheHNpYU5nEAE",
+            "text": "Excellent food!!! We had the Burrata with cherry tomatoes, strawberries and toasted almonds and Burrata Pizza. Unforgettable. For dessert we had the Salame del Papa. Top quality, fresh ingredients. One of the best pizzas we’ve ever had.\nTastefully decorated with very good and friendly service.\nThe missing star is because we think the acoustics should be improved.\nIt was very difficult to hold a conversation without shouting.\nAnyway, looking forward to coming back again. Maybe next time we’ll sit outside 😉"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqcTRTcnFnRRAB",
+            "text": "I hosted my engagement party here, and it was exceptional. We had passed apps, pizza, and dessert — and they were home runs. Everybody couldn't stop talking about it.\n\nThe UND team is exquisite — helpful from start to finish, great communication and coordination. If you're ever hosting an event, come here. You will have the best event of your life!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1NjRUVnNRRRAB",
+            "text": "I loved this place! The Gnocchi di Ricotta was delicious. It was creamy, nutty, and airy. The earthiness of the truffle did not go unnoticed. The gnocchi was soft but still a bit firm. It was like a memory foam pillow for your mouth. I would come back for the gnocchi and chill atmosphere."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMaG9ES0t3EAE",
+            "text": "On a not quiet street in New York’s sprawl,\nWhere city lights and shadows fall,\nThere lies a gem, both warm and bright,\nAn Italian haven through the night.\n\nUVA next Door, a culinary embrace,\nInvites with charm, a cozy space,\nWhere whispers of Rome and Naples blend,\nAnd every dish becomes a friend.\n\nThe scent of garlic, the warmth of bread,\nA symphony for senses fed,\nPasta dances with olive oil's gleam,\nIn every bite, a dream, a theme.\n\nWine flows like stories told with grace,\nAs laughter fills the intimate space,\nFrom bruschetta to tiramisu's delight,\nEach moment here feels just right.\n\nThe city's rush, a distant hum,\nInside these walls, the world feels calm,\nUVA next Door, where hearts entwine,\nIn flavors rich, like aged fine wine.\n\nSo come, partake, and find your joy,\nIn this Italian love deployed,\nFor in each meal, a memory stored,\nAt UVA next Door, forever adored."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM2M0xmQ1ZnEAE",
+            "text": "Fun vibe, great service. Great pizza and octopus. Meatballs a little dry and too small."
+        }
+    ],
+    "reviews_count": 67
+}

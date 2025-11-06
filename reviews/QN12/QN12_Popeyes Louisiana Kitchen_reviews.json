@@ -1,0 +1,530 @@
+{
+    "name": "Popeyes Louisiana Kitchen",
+    "place_id": "ChIJrR6LXHthwokR1GgAor4_M_Q",
+    "grid": "QN12",
+    "address": "205-20 Jamaica Ave, Hollis, NY 11423, USA",
+    "rating": 4.2,
+    "user_ratings_total": 624,
+    "phone_number": "(718) 736-8310",
+    "reviews": [
+        {
+            "date": "12시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxaFNtTnNUVXMzVldGSGRsYzBYekZDTWtWaWJFRRAB",
+            "text": "Nice place and clean also"
+        },
+        {
+            "date": "16시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21VM1QwRkdhRzVvVGxKemR6aGhhMnhMVUZOWFJXYxAB",
+            "text": "Nice and clean place"
+        },
+        {
+            "date": "17시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkSmNXVnVhbEUxT0RaeVVqaHVWVTExUkhaZmRIYxAB",
+            "text": "Nice and clean place"
+        },
+        {
+            "date": "18시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25RM2NFaG9iVEl6ZVZOQ016ZElNbTlyT1VaM2FuYxAB",
+            "text": "I have been coming to this popeyes for years now. Never had an issue with the food. They always takes care of me with all the small things i ask them for. The employees are amazing. Most of them knows me very well..i take almost the same order every time so mostly they k ow what i want. The new management is very good too. The new manager is very easy to talk to and yes the food quality was good but now it more better and tastier . Old manager was good too.."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OMldqRmxkVUV4YzJwa2NGVXRhRjkzVmxJNFJYYxAB",
+            "text": "Quick service"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sWlRHVmhPVkpvVld4UmVHOWtjMjFJYUZwRFptYxAB",
+            "text": "Nice and clean place"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsbVlYUnBOV3RFTWt0ME9Ya3dSVmc1UmsweVpGRRAB",
+            "text": "nice place"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xWGIxaEdWbXRTTFZVNGRGZEpOakZMTUdRMk0xRRAB",
+            "text": "Nice place"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4MlUyWmFZVzVRVTJoU09FZE9PRU5RTVVaTU5GRRAB",
+            "text": "Nice and clean"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGRWFFSlhabTVHVEhCTGNGaHdRVzlLVGxGaE9VRRAB",
+            "text": "Clean and good"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KTmFVbDRaMFZGWkd0elZqZEpOSGROVERCNFRIYxAB",
+            "text": "Nice"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsd2JFNU5ORkU0WnpkelIySlhPR0owVEc5UVVuYxAB",
+            "text": "They are very helpful"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGd2NVNHRRbm90Tlc1d1IzbHFjbWxYUlZCaFFsRRAB",
+            "text": "Nice and clean"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xObVRWbGlaVlZGVjFKbGVGVndPVzVXV0hWd1ZVRRAB",
+            "text": "They are so great! Food is very fresh. With great customer service. 10/10 come again"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWUmNrMTVWR1ozY2tkUlpsOXpVakl6U0ZCamFWRRAB",
+            "text": "Nice"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxdFQyTmFPSGxFU2xGVk5YQTVNazEyWW1oTlZWRRAB",
+            "text": "Good"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201SFJWZG9VMDVrVmsxSWNFTmhRVGg0VGsxRGRsRRAB",
+            "text": "Good"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZeVkyWktTVkZDWW1rNWMwRkdRbHBIYXpOM1JXYxAB",
+            "text": "Good"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJMmIxaDNZbkoyU1drMFJ6VlNPR3czWTNocGIxRRAB",
+            "text": "Always fast service"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taSlQxSk1OM05uZUVoMVMwdDNURlJxY0hSWFJrRRAB",
+            "text": "They are very helpful"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xWWVUQlNWR1oyU0hBdE1HNDRRVlZaVUVwdlNsRRAB",
+            "text": "Good service"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSVFRtTTBXRVZNYlc1VGRWY3RORE4zVVRRMFExRRAB",
+            "text": "Great service!!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsa2RYQjJNV0ZDYkhGT1dqWnZUMWRwYUZaT09XYxAB",
+            "text": "Good"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xka09URjVUa0UzYm5sd1VTMU1iVTFaYUVNM1lrRRAB",
+            "text": "I love popeyes and i always come to this location. Employees are very nice they know me by name always a pleasure coming to this store."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsQk1rNXFYMWR6V21JMVkyUXdkakJoTVhsc2FYYxAB",
+            "text": "Clean, good environment , good food. Always my go to spot."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aVWNHNUZPVUZvUjBGMk9ESkNkVXQyYWtoYVEwRRAB",
+            "text": "Good service"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSUmVUaDZlRlZHU2pjM1JEaFZhRWN0YTBkQ04wRRAB",
+            "text": "Good service"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OMlZsQkpjR1pFUjJkRFVHRkVObEZ5VlVoTVdXYxAB",
+            "text": "Dan mal servicio el pansito le falta más cocción el pollo yo les pedí picante y dieron lo que no es picante pedí arroz con frijoles pero es como que fuera solo agua con arroz y nada de frijoles y pedí algo para vever con poco hielo pero pusieron mucho hielo por eso digo que los que trabajan en ese lugar no saben aser su trabajo"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5eFIzQXRWek5EY2pkbmRHMWxhVVJIY0c1MldFRRAB",
+            "text": "Good service"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aaVJtaGZjMmRxV25KeUxUQmZOWEZyYzJKWmFGRRAB",
+            "text": "Good service. Cashier behavior is so good. Fresh chicken"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kaU5XTllSMGRxTjBGRWF6bElNRlZNYlRNNFNFRRAB",
+            "text": "Very verygood experience.i love there food."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201V1JHdEVaamhxYVhaclpqSm1TM2xaVWpGZlJXYxAB",
+            "text": "Good service"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paS04wWnVURk40ZEZwaU5VbGxiVE4xUlhOVFYyYxAB",
+            "text": "Good service"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205NlMxbFVPRFpmTFdkUlIyTTVkR0ZKUTJOWmNHYxAB",
+            "text": "Always fresh chicken"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsaWVWWm1jVXBaVGxaSGNrSlBVV3RHUlhSUU5GRRAB",
+            "text": "Best service"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2prMVRsUldXbHBrUmsxSVkySlJjWFZvYnpJNVNYYxAB",
+            "text": "good service"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21waFJFcElNVFZ6VVdNMmRrMUpZVlZ3YTNONVMyYxAB",
+            "text": "Good food"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrd2FFRTNaR1F4Y21aSmJWbEVWVmd3VDFsbFpXYxAB",
+            "text": "Good food"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WT2VqbHFhVWxZU0dnNU1sb3RTRFl0V1VOQlpsRRAB",
+            "text": "Good service"
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUROdnZ2Y1JnEAE",
+            "text": "First service"
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkUFpWSktlRTgxTnpSYWJWTk1ZbUozYW1oelEyYxAB",
+            "text": "There is one girl that works there, she normally is up-to-date and speed but I don’t know her name. The entire rest of the staff is nonexistent. And if that one girl isn’t there, the service is terrible. It is almost as if she knows everyone’s order. As far as upon entry there’s rarely ever chicken ready to be served. Services very slow. Most time you have to wait time could sit for 10 minutes or More. Me being totally honest, I don’t even think that the staff is following the directions on the preparation of the chicken. It just doesn’t even taste the same. The chicken is giving as many stars and as much energy as the staff is giving, which is very lackluster. I wish this Popeyes could do better. Update Still No Chicken is Ever Ready‼️‼️ Oct.8,2025"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twZlNraEllbXBmV0RkT2FrNU5Razh6YTBWQ1luYxAB",
+            "text": "Popeyes Chicken is absolutely amazing! The crispy, flavorful coating and juicy meat make every bite unforgettable. Their famous chicken sandwich is a perfect mix of crunch and taste. Plus, the sides like Cajun Fries and biscuits are delicious. Fast service and consistently great quality keep me coming back. Highly recommend for anyone who loves fried chicken"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWRGExRm1NVGh4VGpoMmRHRTBha3RyVDB4dWFHYxAB",
+            "text": "No complaints from my end! Staff treats you with respect compared to other places, got my food quick and warm. This Popeyes is pretty clean too and has a lot of space. The person named by Anik I think, he's very friendly and understood what I wanted. Thank you!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JNGRIbERhRlI2VkVrek9IVlNNbFZHVW5SUU5XYxAB",
+            "text": "I really enjoyed the food it’s fresh, crispy, and full of flavor. The customer service was also excellent. The staff were humble and attentive, willing to listen and help if any issues came up. Overall, a solid five-star experience without a doubt."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toYU9FTlhWbFo2WlZBeVNGaHdTVFJOZUZKYVNXYxAB",
+            "text": "recently visited Popeyes Louisiana Kitchen and had a fantastic experience from start to finish. The food was fresh and flavourful .\n\nThe staff was friendly and the service was quick, even during a busy lunch hour. The restaurant was clean and well-maintained, which made the overall experience even better."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkSVIwOXNPV1ZZZWkwNFlYVTJla1pqTW5kUlFtYxAB",
+            "text": "This Popeyes offers fantastic service! The staff is always friendly, welcoming, and quick, making every visit a great experience alongside their delicious food."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoSlVEQTViRjh0ZFdGNVowTmxaMjl6VFhwcVpIYxAB",
+            "text": "Horrible I ordered online and got there 30mins later nobody is around so I say hello and waited still nobody 5mins later a manager comes out I know because of the shirt she has on . She's so nasty like I'm boring her.  U give her My order # she said what's the name I tell her My order still isn't ready 30 mins later  . I'm not mad the order isn't ready because that means it's still hot I'm mad at how she's dealing with me. I asked her to write her name on my receipt she asked why. I said so I know who I'm complaining on and she said Im calling the police. I had2let her know Idk .Mind you all I did was ask her for her name to complain. Don't go here unless u want horrible service and the police called because you want to complain. I asked her to cancel my order she said NOO. HORRIBLE my biscuit was overly cooked and dry. Chicken wings was nuggets MAC N CHEESE TO MUCH OIL Should I keep going. Horrible service horrible food to top it off 😞!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VMeU02WVgwNDdXN3FnRRAB",
+            "text": "Won't honor the app coupon. Staff at the register said that they don't have chicken available for the coupon but they do for their \"big box\" combo so that you pay more. So.. I need help explaining this.\n\n6:15 pm on 5/13, check your staff."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KV05VVjFaRU0xWVU0MlVrcEVlbGQ2VEdjNE5XYxAB",
+            "text": "Great place for food with family and friends. Im one of the most repeat customers of them. Everyone is welcoming there. Specially the manager Mirja. He literally can read customers minds. Food is very good. I love there wraps. Soo yumm and u can have it anywhere on the run."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGUVUwMWhjalZEYVVaWmFUWnVOVE5KVFRjMFFWRRAB",
+            "text": "Excellent service!  Kanij did very good job."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aWVZVUnJOMUZuWm5OT2MySnlibU51YTBSWU1HYxAB",
+            "text": "The food takes forever to come. Every time I've been here I had to wait at least 5 minutes (I've been here multiple times in the last 10+ years). The last time, the guy did not follow my order directions and the chicken wasn't all that great the last two times I went there (this was om the last 2 weeks)."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWWFVVTnlVVjl1YVdkSFFVRjFNMUJTUzIxclZIYxAB",
+            "text": "Quick and fresh food , amazing service , clean environment for a late night bite or lunch"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aNGQyNWxPRWRXYjJOVlNVRlJha00xVWxSRVduYxAB",
+            "text": "Staff is Very patient and attentive and the food is always fresh!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kTVZHMWtObGg2WlVkVE5HUnhRa0ZKYlZSS1dVRRAB",
+            "text": "Great experience.. the girls were great ..Kani is so kind!..Shana was excellent!!!.. good food!!"
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3a3A2LTVnRRAB",
+            "text": "5 ⭐️⭐️⭐️⭐️⭐️ Stars\nSanazida (very light tone female) Is Really Nice and Have Great Smile. She Greets Her Customers Lovely and Amazing . Most Polite And Friendly Staff I Ever Met In This Organization. She can teach a lot of people how to be nice and positive in Popeyes organization.\nMarch 16, 2024 1:00pm\n\n(Minus - Negative Star)\nThe South Asian Male Staff was Not Nice to The Female Customer, At All, and tried to be very rude to me.\n\nFood was not great. Came here because they had a lot of star rating."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poS05TMHRSbWhuWkUxSlZWaE5hblI0U0ZJdExYYxAB",
+            "text": "Their service is so good..Manager is a very kind person & the boy name Naim,he is also very good."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tObVREUnFjRVZTU0VGeVdVeDVlRUkxWjBaTmFsRRAB",
+            "text": "The chicken taste like days of leftover nasty and stale,   It’s disgusting. not good for customers  spending their money for food👎"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21RNVdtUjVPVzVvTlVkelExODFhazF6WXpaTVFYYxAB",
+            "text": "I love their behavior. Most of the staff are very nice and friendly."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tnemRWVk1ZMHhMVUhaVldqSnlZbDlmY0hGS05sRRAB",
+            "text": "This popeyes very nasty and so disrespectful the people they don't speak English properly.bad customer service."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3Z29tNGtBRRAB",
+            "text": "Just ordered food from there. The  Boneless Wings special. The chicken is so salty. I couldn't really eat it. I had to trash it. On top of it, my biscuits were burned. The only thing that was eatable were the fries, even that,  was a bit cold. I'm really disappointed.  A waste of $16"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmX3YtRUpnEAE",
+            "text": "I came tonight to pick up an order I had placed, which was a combo with chicken, mashed potatoes, and sweet tea. After picking it up and heading to my car, I noticed that they hadn’t given me the sauce or a spoon for the potatoes. I also tried the tea, and it was absolutely disgusting. It tasted like it had gone bad, and I’m not sure if it was expired or if they weren’t cleaning it properly. I had to throw it out entirely.\n\nTo make matters worse, they had placed the extra fries I ordered with the chicken. My friend eats halal, so she couldn’t even have them. She went back inside to request the sauce, spoon, and to let them know about the issues. The woman behind the counter, who was wearing a hijab, was rude and didn’t say anything. She didn’t even offer to replace the fries or the drink. When she did speak, she blamed the mistake on the combo, even though the fries weren’t included in the combo at all. Was so upset with everything I couldn’t even my meal.\n\nThis experience was very disappointing. I won’t be coming back, and I think the employees need to do a better job of fulfilling orders and providing good customer service"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKSlprVkVPVmQ0Y3pSaFVsZHVkbVpYTUVkR1dHYxAB",
+            "text": "HORRIBLE. food is cold and dry… biscuits hard, coke flat"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5aExLUDNRRRAB",
+            "text": "One of the most favorite store is it. Food quality good. Service good . Nice lobby and clean. Most attractive thing is Ghost paper."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210dU9FSm5OMmh1T1UxT1RWRjRiREJHZDJwVU9YYxAB",
+            "text": "Fresh food, Good staff, great manager."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205TlJuQlFaWFZWVjFWeFZtNXJjRkZrYjBSa1oyYxAB",
+            "text": "Poor customer service. Too slow. The cashier is rude."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VLTER6dXlEb0kzLUVnEAE",
+            "text": "Service too much slow. So unprofessional. Bad experience."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNydy1Eb3lBRRAB",
+            "text": "I ordered food from here and it was the worst chicken. I ever ate in my life. Or tried to eat? Should I say me? I could not eat it the chicken was hard The biscuits was so hard. You could have threw it up against the wall and nothing would have happened to it. It was just such a bad experience that. I will never ever order from this Popeyes again in my life. The Food, it's so bad then I had to throw it in the garbage"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4a1RFMW5NelZCZW5RNU1EbE9kRTUxVDBKellXYxAB",
+            "text": "Service was great mango lemonade was so good"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuMDVhSVdBEAE",
+            "text": "THE SLOWEST POPEYES EVERRRRR!!! I have been here several times and each time I order ahead for pick up I have to get to the store and wait. I’ve ordered my food 30 minutes in advance and still have to wait at least 15 for my food once I get there. I have no clue what takes so long and why the entire point of ordering in advance goes out the window here but I hope this review helps this store speed on service."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xZM2VFOVpSa05wZFVOV2FGUnhiR05yZGpWbVNWRRAB",
+            "text": "Food was fresh service was so fast"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sWVZUQXpNMWQ0WldKNk1uSm5Oa0ZrVG1FNU5HYxAB",
+            "text": "They always serve fresh chicken"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM2X291RllnEAE",
+            "text": "Convenient location with a parking spot.  So it was takeout. It's not fast but my order was correct. I bought the fried flounder for the time. It's bread-y but I think it was so you can really get that spicy Cajun. I would eat it again...just not anytime soon due to me always trying to avoid carbs."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqME1mQWVBEAE",
+            "text": "The young man at the counter wasn’t familiar with the menu and tried to say my order wasn’t in the system when it was clearly on the board behind him. Then forgot to put sauce in the bag, so I had to come back in to the sauce and he tried to charge me for a second sauce. Incompetence and inconsideration for their patrons. I hope to see improvement for our local Popeyes."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzdnJMdkhBEAE",
+            "text": "I'm coming here everyday,they guy's are doing good behev with customers, there have good food service And every food are fresh. All managers are good."
+        }
+    ],
+    "reviews_count": 74
+}

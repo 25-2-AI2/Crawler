@@ -1,0 +1,677 @@
+{
+    "name": "Elephant Ear",
+    "place_id": "ChIJi2XB7ddZwokRgL_EV4MuQeI",
+    "grid": "MN4",
+    "address": "690 9th Ave, New York, NY 10036, USA",
+    "rating": 4.8,
+    "user_ratings_total": 3250,
+    "phone_number": "(646) 478-8661",
+    "reviews": [
+        {
+            "date": "5시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWcFExUjZXVGhQUmtsa2RqUXlNbUpqVkhCNGJXYxAB",
+            "text": "Great food and amazing service."
+        },
+        {
+            "date": "5시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFM2RrYzFURkl3WDJaeVZIZE5TMlpXWlY5NVlVRRAB",
+            "text": "Thai curry veg is great!"
+        },
+        {
+            "date": "6시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4VmRGOVZSREp0Vm1KM1VVaGlVa2huZW1SeGIzYxAB",
+            "text": "Food was great and yummy. Lychee martini was great too! Service was great."
+        },
+        {
+            "date": "6시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xweGIyOU1SMk5TVldwbmRIUnBTbmh0UTJObmRYYxAB",
+            "text": "Food and drinks were delicious. Really nice place to catch up with friends and relaxing music"
+        },
+        {
+            "date": "16시간 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOS2VHdHhWazE0UTNZMVRHOVBMV2hNUWxWeFNHYxAB",
+            "text": "Food was so mid for the price. Not spicy at all and tasted like takeout Chinese food."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21saGFXVTNiV2h1Y2t3NFdsZEZabWxyUWtaRmJWRRAB",
+            "text": "Amazing food, great flavors and dishes different than the usual. I tried de pinnaple duck curry and i totally recommend it.\nThe waiters are very friendly."
+        },
+        {
+            "date": "1일 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WUlRucERWekptWWtsUlZqUTJkR2h6V1VrMGMxRRAB",
+            "text": "Top pad thai e pork belly."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoRlQwTnpORlk1V2xNNGVtSlRURWxOYlRGcmNsRRAB",
+            "text": "Loved the atmosphere. 10/10 whoever had aux. food was delicious. Enjoyed the short rib & the pork belly entrees. Few mocktail varieties as well as unique cocktails. Will definitely be back to try the pineapple curry. I would suggest making a reservation. It was packed 5pm on a Sunday and I was lucky to snag the last two reserved seats at the bar"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOTU5GTTFTak40U0RCUU4xZG1ia1ZOYlVRMloxRRAB",
+            "text": "The food was amazing .Best Red Thai curry I have tasted ."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkUk9WbFpURGhJUW5odlgxcFNjV3RDTTFwMloyYxAB",
+            "text": "Our waiter M was so nice and the atmosphere and food is amazing!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOT2FETm1hRE5SYTJwYVJWRk1Xak5aWkVVNVVuYxAB",
+            "text": "Lovely food and great service!! M was wonderful and toon such great care of us. Would go again!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201cVpIWlZSVUpuTWpSWGRHSjRRM2xPV0dwVVluYxAB",
+            "text": "Best Thai food I’ve had in NYC! M was a delight and made the experience even better"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Ga2VYUk9iazFEVDJwcFZYRjJSMnRZZEZWdGJsRRAB",
+            "text": "The food is so amazing! M gave us the best service and the brisket red curry is, dare i say, better than Valla table. We brought our friend from out of town here and he loved it."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSUVNsOUtjSE5XTkZOYU1YTlZhbGxWU1ZKdVNrRRAB",
+            "text": "Decent Thai spot for an easy and reasonably priced pre-theater dinner. The star of the night was the crying tiger—perfectly cooked, flavorful steak that paired really well with the garlic fried rice. The duck curry, one of my go-to dishes when eating Thai, was just okay—not the best, not the worst. The papaya salad was probably the weakest dish of the night. It was missing a few components and didn’t have the same chili kick I’ve had in better versions. Overall, a fine option if you’re in the area and want something quick before a show, but not one I’d go out of my way for."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWdVMwcHhlSFpxUTBkR2JGWm9ObTg0WlRNeFdGRRAB",
+            "text": "Tried this restaurant based on Google reviews and was surprised in a very bad way. Food is fine but not impressive.\n\nThe worst part is that, a waiter came to our table unsolicited when we were only there for 45 minutes and still working on the dishes, handing us the check and the payment machine. I told them on the spot that this is outright rude and unheard of.\n\nUpdate: I actually read a few Google reviews and some of them look fake. Also found a few comments finding the rating doesn’t reflect the actual quality. This restaurant is likely manipulating their profile."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOb1JGcFJOa3h0WjNSVFZIbExSMkpzVW1sUFRsRRAB",
+            "text": "Food was delicious, the service was even better. Cute spot in HK for a great Thai bite!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205Uk0wdzNXRWM1VmpGSFVrRkpSbnBKUTB4a1gxRRAB",
+            "text": "HK gem! Simply stunning and delicious. The duck egg stir fry, damnnn.\n\nThe service were servinggggg"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWVFkwSkRVa3BvZERkNFl6bGxkMlYxZWtaZmFGRRAB",
+            "text": "food is ok but the service is among the rudest. Just had a 30 mins to eat and got an uninvited bill. We were like... why were they so rushing out at 5pm, with no guest waiting outside, to piss off the whole table? Felt like they are maybe racist...bc the waiter said it was the restaurant manager's ask while we were the only table of Asian guests at that time"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkQ2QyVkNTRFZUY3poRVJUUldVbG8wWnpnNE1HYxAB",
+            "text": "We had a reservation for four and arrived at 4:45 p.m. Shortly after finishing our first course, the waiter suddenly brought us the check — even though we hadn’t asked for it. When we inquired about dessert, he said all desserts were sold out — at 5 p.m.! Then he came over again with the payment machine, clearly rushing us to leave. When one of our friends went to settle the bill, the waiter returned once more and told us to vacate the table immediately. It was only 5:25 p.m. In total, four of us were repeatedly asked to pay and leave within just 40 minutes, with no courtesy at all."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psTWFVcFRWWEpVUmsxalNXVmxRVXRyYkVJdFdVRRAB",
+            "text": "Food is delicious and staff is full of cool people."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kYVMwTlhUbTlMVkU5RWVGa3RNV1oxY1VwaFlVRRAB",
+            "text": "This is my first time at your restaurant. I had the fried Tamarind Branzino and really wanted to love but it was not a well seasoned and spiced dish. Don't get me wrong, it was a well fried Branzino but the spices really lacked the flavors I have come to expect from Authentic Thai. I am also familiar with tamarind and I did not taste that thangy flavor.\nMy daughter had the soft shell fried crab. It was not a well seasoned Thai dish and the dipping sauce that came with it  really lacked  any Thai flavors. I have eaten  at other Thai restaurants and find your flavors as the least dynamic so far.\nWe will give you another try. Maybe the chef is having an off night with his spices!\nI apologize for this review if your establishment is not represented as authentic Thai.\nI do wish to complement you on the speed of your service. We got our food in about 15 minutes. I also want to complement you for serving good portions.\nWe will return in a few weeks to give your restaurant a second try. Maybe the chef was having an off night."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WUWJWbDJZMlozVm5sSE5rUTRlSGMyT1dneFEzYxAB",
+            "text": "The food and drinks are really delicious especially the Tom yum soup. Will definitely come back here again"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsRFNVZGxOVkY1YUdScU1XSmFXRXBSYm5wNGRIYxAB",
+            "text": "The food is very good and authentic!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Cek1UUjVRbHBNWjBzdGIwOHlWRGxuY1ZGaU5FRRAB",
+            "text": "I had an amazing experience at this restaurant! The atmosphere is warm and inviting, with beautiful lighting and elegant décor that creates the perfect ambiance for a relaxing meal. The bar area is stunning, featuring a great selection of…"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aNmJGRTNVakZxWm1VMFgwcDFaWEJ4UmxWc05WRRAB",
+            "text": "I came here with my friends for dinner and we all loved it! The food was super flavorful and authentic — you can really tell everything is freshly made. The curry was rich and creamy, and the Pad See Ew was one of the best I’ve ever had. The staff were friendly and welcoming, and the restaurant has a cozy Thai vibe. We’ll definitely be coming back again soon!"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOdlgxWnVObGxoVkZsalQzaG9keTFGUzBwWFlVRRAB",
+            "text": "The food is below average in NYC. I’m surprised the rating is so high. There were 5 of us and none of the dishes were excellent. I didn’t finish my duck because it was overcooked, the souse was greasy, not authentic. You can find much better food in NYC. I will not come back"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21scmNuZFdlRU5zYW5SaVkwazNTMFppYmxkQ1EyYxAB",
+            "text": "Very good food (really) but portions are too small. Come on guys I’m hungry, and if I’m paying $60 in a non-fine-dining restaurant, I wanna leave full. Ukwis? Good stuff though. Lychee martini slaps"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NNU0wNU9kRUZMWkRWWGRUWjZTMkU0U2xRNVRIYxAB",
+            "text": "The server was theeeeeeee best, the food exceptional 👌🏾\"M\" you rock."
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sQldsWTNTekkyV21oTmVXMUVTMmN3ZURkR1pXYxAB",
+            "text": "This is by far one of the most authentic Thai restaurants near Times Square! The service is outstanding, and the ambiance has that perfect Hell’s Kitchen charm, warm, lively, and inviting. I highly recommend trying their Crying Tiger with Garlic Rice and the Fried Whole Tamarind Branzino, both are absolutely delicious and beautifully presented."
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WSlpFMVlXVU40ZFZOQ1kxSmlWVkJYY1hsUlpXYxAB",
+            "text": "I ordered vegetable green curry and while the flavor was good- it was literally ONLY green beans. And the dish was like $26 so definitely not worth it unfortunately."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25jdFVVZEpiSEJaYkdSNE9HeFFjMUIxYWtOUE9GRRAB",
+            "text": "As about far from Thailand as possible. So is the hospitality and flavour."
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCOWVxeGF3EAE",
+            "text": "Pretty nice place and authentic food, it's a good spot that near by Broadway show area"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wTlEyTXdSV1pDVUdKcmFXMUJWUzAyVkdSVGNFRRAB",
+            "text": "We started with the Elephant Roast Combo, and for our main dishes we had the Crispy Pork Belly and the Stir-Fried Crispy Chicken. Everything was absolutely perfect! We could truly taste every flavor described on the menu! The atmosphere is warm, clean, and calm, making it a great place to enjoy a meal. The service is excellent, and everyone is incredibly kind. If you’re looking for a great Thai restaurant, I highly recommend this one!"
+        },
+        {
+            "date": "1주 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214SlZuVmFjSEF3TlVOUVp6QjBiWGN0TUd0bFRtYxAB",
+            "text": "Très bon thaï, les saveurs, la qualité et la quantité sont présents. Les serveurs sont adorables, juste la musique un peu trop forte à mon goût."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205T1FrZDFXbEZyYTJWc1MyTjFUSGxRZUZodVZuYxAB",
+            "text": "Great food! We got the drunken noodle, crying tiger, and crispy chicken with lemongrass."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FelMyVmpiVzlUVkRCSWMxaDFkRTlrY0d4ck5uYxAB",
+            "text": "Amazing food,  cocktails and service!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kaVdsVlpYMU5QYkRCbVdIQjNjR2t0VDBWVWJtYxAB",
+            "text": "We ordered red curry, papaya salad, lychee ice tea and chicken wings. Service was fast, beautiful restaurant. However, the food was just average. It a was missing traditional Thai flavors, papaya salad was bland. This restaurant can be skipped, so many Thai alternatives in the area"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kweGVHSmhXVXhITWxCM2RVOXVXRGxTVm1WNFFtYxAB",
+            "text": "So delicious.  My daughter and I had a fantastic dinner. I highly recommend the pineapple fried rice.  The staff is very attentive.  The atmosphere/decore is very nice."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0TmNHdE9Nbmc0Ynpsek1XbHBPVkJaY0hScmEyYxAB",
+            "text": "The Resturant was beautiful!! Felt rushed and the food was okay."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwMmRHdHFlazlZYlRKVVNtTXpiblppWkhad1EwRRAB",
+            "text": "I stumbled upon this place. It was packed, had a great vibe and solid food!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSQmFqTkVRbVUzT1dnM1UyRmhTMGRxYjBwR0xWRRAB",
+            "text": "The menu was standard American Thai fare, but the duck curry was good. I was surprised that it had no vegetables, though, it was mostly fruit (pineapple and lychee) and crispy duck. The duck was sliced in very large pieces, but they didn't bring a knife. The space was pretty tight."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GTVFYb3dja2xHZVdwUlVFdFNhbDgzYVZWU1QwRRAB",
+            "text": "Elephant Ear is a great fix for Thai food in the city—beautifully decorated, deliciously fragrant, and serving dishes that hit all the right notes. Taking off a star for service, but the food definitely delivers.\n\nI tried the lychee Thai tea (never had that combo before—surprisingly refreshing!) and started with the Thai basil minced chicken, which our server begrudgingly recommended… turns out, it was a hit. The Crying Tiger with garlic rice stole the show—packed with flavor and absolutely worth a repeat order. The curry held its own too.\n\nNo desserts available when we went, but shoutout to the host for squeezing us in without a reservation. Only downsides? The server could’ve used a little more enthusiasm—and one of those decorative trees quite literally fell on me mid-meal 😂\n\nOverall, great food, gorgeous space, and a few quirks that make it memorable in that classic NYC way."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214UkxWUkJVWEozZFVSelFVUnRhbkpVU1RSWVNrRRAB",
+            "text": "The presentation of the food was great. The actual taste was not what I expected. I got the pineapple fried rice with no spice , but it was spicy, and the way it was seasoned made it nasty. I would not recommend this dish. My daughter wouldn't eat it at all. The spring rolls were good. I had high expectations due to the reviews but was disappointed with the main dish."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psTFMydHBMWEpxYUVWM2JreDFiVlpRWjBnM09YYxAB",
+            "text": "Food was great and atmosphere was beautiful.   Wait staff explained unknowns very clearly."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWTFJsQkJTak0zWmxsS1ptdGZUMmxYTm5Wc05GRRAB",
+            "text": "A true 5 stars worthy Thai restaurant. All the dishes were flavorful, fresh, and colorful. The portions were hearty and well presented. A bit on the higher price range, but location, taste, and portion size make up for it. Welcoming and friendly staff. Nice atmosphere. Must-have: papaya salad, chef's special pineapple duck curry, curry with steak, and tom ka kai soup."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twa1dEQXdWVTlGTFZsNmNYTmFORlZMTTBweFEwRRAB",
+            "text": "Food, services, taste, ambience is beyond amazing!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGaVJETTNYMW80VEZGR09YZDBNRVo0ZERWcE9YYxAB",
+            "text": "We had a reservation. They gave us our check as we were still eating (and waited table side for our card), and they literally rushed us to finish. Also this one waiter hovered behind us while our friend was still finishing so they could take her plate. Someone else also actively tried to take her plate from her as she was still eating. And they took away our water.\n\nFood was mediocre.\n\nThey told us we had 90 min to eat, but basically kicked us out after 35."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCNVRtRTVZV3hZU2tGa1gwcGFiMHQxVERoUk5VRRAB",
+            "text": "🤳🏼 Foodstagram: @ashthetic.eats\n\nA go-to Thai spot in Midtown, Elephant Ear feels open and bright and is perfect for groups of any size. Every dish had tender meat and distinct flavor, with the short ribs standing out in a rich, flavorful sauce. The garlic rice paired perfectly with everything. Bonus points for the takeout setup with custom containers and a colorful insulated bag that made it feel extra elevated.\n\n📍 690 9th Ave, New York, NY 10036\n\n🍽 Dishes Ordered:\n➥ Elephant Roast Combo: Chicken satay, beef satay, shrimp chips, fried chicken ball\n➥ Grill Jumbo Tiger Shrimp with House Special Garlic Sauce: Tiger shrimp, garlic, sweet soy sauce\n➥ Crying Tiger with Garlic Rice: Seared ribeye steak with Thai spicy dipping sauce served on a claypot, garlic fried rice with egg and veggie\n➥ Short Ribs Prik Kang: Slow cooked beef ribs with bay leaves, cinnamon, peppers, kaffir lime leaf, asparagus, coconut milk in prik kang curry\n➥ Crispy Pork Belly with Chili & Holy Basil: Crispy, slow cooked pork belly that is deep fried for an extra crunch. Paired with a medly of chili and holy basil in Thai chili paste"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pVeGNuSkhaVzVUZFU1MWJ6QldVemw0TVRBek9WRRAB",
+            "text": "Superior service and even better super amazing food. Come here. Hein was our server and he took excellent care of us. Thank you for this great experience ."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aU1pFSXdPV2R0YUdWRU9UVllOMUpZUzBaUGFGRRAB",
+            "text": "i would NEVER come here again. the food was decent but not good enough to make this service reasonable.\n\nfirst - they didnt have a table ready for our party when we got there so we got seated at a table for 4 for our table of 6 and so our friends were standing for 20 minutes. it was very clear that they had overbooked reservations and was scrambling to figure out tables.\n\nthen they rushed us to order (probably because of the overbooking) and were super rude about it and basically forced us to order within 5 minutes of getting our full table. they then got multiple things in our order wrong (gave us all the wrong drinks, how is that possible). then they gave us all our food super staggered (some dishes came out like 20 min after the other). and then they kicked us out (by handing us the bill immediately) at less than 90 minutes when the res clearly stated we had the res for 2 hours? and to top it all off, there were clearly some empty tables maybe not large enough for certain party sizes though\n\noverall the service was so bad, the waiters were especially rude and the food was decent but not great so i could never go back in good conscience. sad bc last time i came here for lunch it was ok but there are better places in the city for thai that serve better food, more people, and have way better service despite being busier."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25adFJVWlpObFZNWVhWSVJIaFNiR2d4TVZobWFIYxAB",
+            "text": "Super cool vibes inside and not too loud. Loved the food!! I got drunk’n noodles and they weren’t really that spicy so I added some spice but they were so good!! Usually I feel like Thai places give smaller portions but this was pretty large for a drunk’n noodle dish. Our server was Shin and was super nice and helpful!! I recommend."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SV1lqRkdjVGRNYzBJeFgwRjNTeloxVVZGZlJYYxAB",
+            "text": "Went in there for dinner.\n\nApart from the taste, Best part is the fastness in delivery of food.\n\nI tried the coconut based Thai soup and the red curry. Red curry was spicier than I imagined but still a wonderful treat to taste buds.\n\nThe peach Thai tea was really great as well.\n\nI recommend for anyone who is the mood for some good Thai food."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psT1FuQmZhMGhYZEVST1ZEbHlaRmgyZVVsd01rRRAB",
+            "text": "Food was delicious, staff/service was awesome and attentive. The hostess was the sweetest guy ever! We ordered the papaya salad and mango salad. Both were good, we should have asked for it to be spicy. We also shared the Tom Yum w/ Mix Seafood and Steam Chilean Sea Bass. Highly recommend those dishes. The Lychee Martinis were a hit as well. Make sure to make reservations. We didn’t have any but, they were still able to seat us after about 30 minutes."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SdGVtZzFZMGhtZEROdWJubHFhRUV6V2pWa2FYYxAB",
+            "text": "Went for my mom's birthday. Sad that they don't/didn't do anything birthday related when asked. They also didnt have the mango sticky rice which we were looking forward to. We ordered many items. The food was good but not the best. I liked the decor effort put into the dishes. Not a big fan of restaurants that put automatic gratuity into the bill but it was what it was. No complaints on service other than the waiter trying to stop me from ordering more food since we were only 4. I told him not to worry and that we will take it home if needed. Hate it when waiters do that as if they're paying and do not want restaurant to earn money."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsWFRFMURia3hMZERoM2VrbHdTbnBLUldaVE5VRRAB",
+            "text": "Fantastic Thai restaurant just around the corner from Times Square, super convenient if you’re in Midtown. The space is clean, modern, and welcoming. I love the green curry, short ribs, and papaya salad, and all three were incredible. The flavors were so authentic they instantly reminded me of my trip to Bali. Everything was fresh, balanced, and beautifully presented. I enjoyed it so much that I ordered takeout the very next day. Highly recommend if you’re craving great Thai food in the city!！❤️❤️"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxRVJXOXlXVTFsZUdkMllXUXlTbk4wVkd4bFVrRRAB",
+            "text": "I loved duck pineapple curry slow cooked duck. It was so soft, sweet and pickante! I also loved my favourite papaya salad. sea bass was so soft and delicious! Hein is amazing and welcomed!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSbFExVTRhMlozV1ZwSkxVcElURlZQV0d0UExVRRAB",
+            "text": "Elephant ear came highly recommended and did not disappoint. I came here with my family after seeing Hell’s Kitchen and what a delight. For appetizers, we had the shrimp and chicken wings. For our entree’s,  we had the stir fry crispy chicken, the crying tiger,  green curry. The service was wonderful and the ambiance was very chill. Thank you “M” for making sure our first experience was great."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wWlIyTTNXVGxSU2pJemJWZzBTQzFXV0dVelJGRRAB",
+            "text": "Absolutely loved my meal at Elephant Ear!\nI ordered the Crying Tiger with garlic fried rice, and it was amazing — the beef was tender, perfectly grilled, and packed with flavor. The dipping sauce had just the right amount of heat and tang. Our server, M, was fantastic — super friendly, attentive, and made the experience even better. Will definitely be coming back!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkVmIybG5YMWRYZVRaSFpGbG1aa05EYkVwa2FYYxAB",
+            "text": "Great venue with high ceiling and nice decoration. Could be great for group of 2 or 10. It was pretty busy but we were still be able to talk. Friendly service. I ordered soft-shell crab and it was delicious. The prices are quite moderate for the area."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GV1EwWXhiMHRIVFZWaVZGaEdXbEZ5WlVKVmRsRRAB",
+            "text": "The food here was very delicious!  Nice mix of flavors and some twists to spruce up some traditional Thai dishes.  Loved the Seafood with Salted Duck Egg, as well as their Basil Minced Chicken w. Pani Puri appetizer.  You won't find the \"usual\" Thai dishes here (Pad Thai, Pad Kee Mao, etc.), but definitely give them a try!  Service was incredible snd attentive.  Hazel was super helpful throughout the night."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paRVNFaFJNelpOYmxkU05XaGpkV280Ukc5T2QxRRAB",
+            "text": "Stumbled upon this Thai restaurant while craving Thai food, and it did not disappoint! We ordered Pad Thai, fried chicken with lemon, crispy pork belly, and Thai milk tea — everything was absolutely delicious. The place itself is beautiful, cozy, and just a few minutes from Times Square. Definitely recommending it, and I’ll be back anytime I’m nearby and in the mood for authentic Thai flavors. 🌶️🍜🥢"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCaVExOU9hMU5aZFZGMlVuZzBRWHBTUVROeFptYxAB",
+            "text": "This restaurant near Times Square, in the Hell’s Kitchen neighborhood has some delicious dishes. It has such a vibrant atmosphere and very kind staff. I really enjoyed my meal here.\n\nSome favorite dishes of mine included the crying tiger with garlic rice which was so delicious. The steak was cooked perfectly medium rare and that garlicky taste was fantastic. The soft shell crab weigh red curry was also a standout. The curry was flavorful and rich and the soft shell crab was crunchy and delicious. The pandan drink was also light and sweet but not too sweet!\n\nDefinitely check this spot out when you’re in the area!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21acFZtNWpRalJsUlc5aVVsRTJaMlZGY2pWbVkyYxAB",
+            "text": "Came here for lunch with a large group and was surprised to find the place so empty (though it was a Monday). Shin was a great waiter and was attentive throughout the meal, wanted to give him a quick shoutout. I ended up getting the branzino which was delicious and already sliced up for you. I did prefer the sauce they used instead of the fried branzino but both were good. Would definitely come back to try out other options."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGM04waGZOWGxUUlU1RGRHbEljSEZSTVZOZmFYYxAB",
+            "text": "First time dining here on Tuesday night after a Broadway show. We came in a little late 10PM….our experience from start to finish was great with the service and the food. Happy we decided to come here after a late night show and was able to finish before the restaurant closed at 11. Highly recommended the Elephant Ear and a happy ending with their mango sticky rice dessert!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kbk1HVlVNMDU1U2xKaVIxSnBZMkZJY2tneFgzYxAB",
+            "text": "The food here was so good and fresh! If you're a vegetarian, you must try this joint. Our server M was very welcoming and friendly, service was attentive.  The mango papaya salad was to die for. The pineapple fried rice flavors were amazing. Pad thai was tasty. Overall, this is a must dine in place and we're looking forward to coming back."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoSk5uQnRibWRYVW5KNVFtWm5ha1YwZDBKTE4yYxAB",
+            "text": "20251006: My friend and I found the Elephant Ear on Google Maps as it was close to my hotel, and his garage. This is a Thai restaurant.\n\nWe both ordered the fried whole (half?) Bronzino with green papaya salad for $33. We were not disappointed - it was lovely. The menu said it was spicy hot, and having said that, I didn't find it to me more than 2 out of 5. The whole dried peppers were easy to move to one side, and the slices of jalapeños didn't include the seeds.\n\nBesides the fish and salad, my friend and I had a lot of catching up to do, and our waiter was patient with our having a leisurely meal, and not foisting the check on us as soon as our plates were cleared. I appreciated that.\n\nAs is often the case with little NYC restaurants, the Elephant Ear is long and narrow with tiny tables for two. Our Thai neighbors saw our fish and were very impressed."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWMmJtTm5iMmx4U2pKcVVESjZSR3RIV1dORmJGRRAB",
+            "text": "My daughters and I really enjoyed this establishment. The food was full of flavor,  fresh and delicious.  My Lychee Martini was perfect and they were generous with the house sake. The place was decorated nicely and the staff was nice. I'm looking forward to coming back."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWUkxXWndWVzgzU2tvNVpraEdNVTlaTVMxNGVVRRAB",
+            "text": "Great spot for dinner with friends! Everything was great. Loved my medium spicy drunken noodle and my friends pineapple duck curry was awesome. The short ribs were also pretty good. Our server Hazel was helpful and provided us good and timely service. Price is reasonable for the portion sizes too.\n\nHighly recommend and will be back!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwRVdGSk1WekZDYWtWWWFHMW5MVTlIZFVSVlZHYxAB",
+            "text": "I took my family for dinner here. It was a great experience. The portions are generous and the taste of the food is very nice. They do not have some of the classics in the menu such as Ka Praw stir fried. However, the mango salad and the green curry chicken are a must to try. The service is attentive but do not expect a fine dinning experience. They are decently good for what they offer. Well done."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Gb2VGcHZORUZuTjFGZk9HRmhjRWQzT1dWdVQyYxAB",
+            "text": "⭐️⭐️⭐️⭐️⭐️ If I could give 100/10 stars I would!\n\nElephant Ear Thais is truly a dining experience like no other. From the second I walked in, the ambiance was warm, inviting, and elegant—the kind of place that makes you instantly relax and smile. Everything about the atmosphere feels carefully curated to make guests feel special.\n\nThe customer service was absolutely flawless. Our waiter, Peter, deserves the highest praise—he was beyond attentive, incredibly polite, and had such a genuine friendliness that made the whole evening feel personal and memorable. He made sure every detail was perfect and truly elevated the experience.\n\nNow onto the food & drinks… WOW. I tried a lychee martini for the very first time, and let me tell you—it was soooo tasty and refreshing, easily one of my new favorite cocktails. For appetizers, I had the Elephant Roast Combo and it was pure perfection—flavor-packed, beautifully presented, and the kind of dish you just don’t want to end. Then came the pineapple fried rice with pork belly, and honestly, it was 10/10. The flavors were rich, balanced, and absolutely unforgettable. Every bite felt like a masterpiece.\n\nOverall, I can confidently say Elephant Ear Thais has made it into the top 5 of my all-time favorite restaurants. Everything—the food, the drinks, the atmosphere, and the exceptional service—was nothing short of outstanding. I would come back again and again without hesitation. If you’re looking for the full package of delicious cuisine, dreamy ambiance, and world-class service, this is the place you need to be! ✨"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Sek5ESkNNVGxOWDJoT1lVNW5RbWhWVVRBelZFRRAB",
+            "text": "My family of six and I visited New York and were on the hunt for some delicious food away from the typical food chains in the Times Square area. We stumbled by the Elephant Ear one evening and wanted to give it a try however there was a long wait time, so we decided to come back the following day to give it a try. Let me tell you the food was to die for! Everything on the menu looked good and even tasted better 😋. We ordered the Pad Thai, Pineapple Curry Duck, Pork Belly, The Crying Tiger, and the Whole Fried Tamarind Branzino. Everything was absolutely delicious and authentic. Honestly, if you're ever visiting time Square are pin this restaurant for a visit."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aUmJrWjRVVXRZZURWMWVEUlJjaTFDUTAxcmMwRRAB",
+            "text": "Visiting NY and Came here on a whim right at opening. The staff was so nice. The food was really good. We got the ribeye drunken noodles, mussels, pork belly and thai basil fried rice. Did not love the mussels but the broth it was in was so good. The rest of the food was good. I love that the menu was concise and all the food just tasted fresh. Would return for the amazing staff and food. Thanks so much."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sMGFHZzFaVzVtY0RoQ2NWOHpSbTkzYTFNeVYyYxAB",
+            "text": "We had an absolutely wonderful experience at Elephant Ear! We had a large group and were seated quickly and on time for our reservation. Service was so efficient. Excellent recommendations on food and drinks from our server. We tried drunken noodles, pork belly with chili, and yellow curry and all were fantastic. So flavorful and just the right amount of spice. Cannot skip the lychee martini either. Would recommend to anyone, 10/10!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCRFowbzVSbTlZVlhGNVNTMVZiMDl4TTJacmJWRRAB",
+            "text": "Trying this place couple days a go. Tbh, the food was food but not as amazing as other Thai food I ever had in Queens. But I have to give thumbs up to their staffs. Very nice and friendly and funny. Love them. Also the atmosphere really good. I like. From all the dish my friend and I ordered, I think the mango salad was the best."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSMU5tbFRTVkppYXpOSU0yNVBjMmRFUjBGRVlWRRAB",
+            "text": "There’s a lot of Thai places in the city now but Elephant Ear is definitely one that’s worth visiting! I loved every dish here (my favorite had to be the chilean seabass the acidity of the sauce/broth it was in was addicting). All the employees here are also so so kind, M was especially hospitable and a welcoming presence. The interior is so gorgeous too—from the lights to the artwork. Overall, an amazing spot with really bold flavors"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oc1VFdzJXVmREUlZCU2VXRTVVelZYVFhwMGEzYxAB",
+            "text": "First of all, \"Elephant Ear\" is a unique name that gets your attention. It must be very unique - the ideas, thinking around how to start and run this restaurant - I did not get chance to figure out how they came up with this name. As I sat down at the table, I startwd noticing more details - the tables, decoration, ... All the details that often you would not pay attention to when you just expect to have food served. Food is great - it is prepared and served with humbleness and dedication and all the effort to make it good and great -- you just feel it."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xORFpsOXVVMGhOVFZjdGMwTXRjRGhpVm04ME4yYxAB",
+            "text": "Restaurant - We went during lunch, and it wasn't crowded at all. The place is huge but very clean, and the interior is beautifully decorated.\n\nFood - Papaya salad was 10/10. For an appetizer, they put a lot of papaya salad. It was very flavorful. The elephant roast combo was 8/10; a bit overpriced but not bad. The pineapple fried rice comes in a carved out pineapple and was super filling. 9/10. The drunken noodles were the highlight. So umami and rich and not too greasy. 9/10.\n\nService - The servers were very nice and attentive. You can choose the meat for the rice and noodle dishes, or keep them vegetarian."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWaVJqSTRaalJUYW01R1pWTnRUWEZOWnpseGRtYxAB",
+            "text": "This restaurant is great! The food was amazing, friendly and attentive service and great ambiance. They sat us right away and food came out quickly. We ordered the drunken noodles and the red curry with beef. Both with great flavor and good portions!"
+        },
+        {
+            "date": "1달 전",
+            "language": "ja",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKeE1VcENTVGwxUm1WVGRUbE5PVmxLTW1aTFFXYxAB",
+            "text": "空芯菜と鴨肉のソテーを注文して4人でシェアしました。空芯菜はガーリックが効いていて、ぷりぷりな海老を一緒に食べると食欲を更に掻き立てます。脂の乗った鴨肉とポテトの相性は抜群で、こちらも満足。1人4~5杯ビールを飲んで、1人当たりの会計は60ドル弱。とても満足感のある食事ができました。"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZMGJXdEdRWEZrYlcxb09FZG9SR054VlRGMlEyYxAB",
+            "text": "Came here with friends for dinner. We had papaya salad and spring rolls for appetizer. For entree, we had drunken noodles, pineapple fried rice, and crying tiger with garlic fried rice. All the food tasted very good. The lychie martini tasted delicious as well. The staff was really welcoming and they were able to costumize the food to be vegan. Definitely a worthy experience!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVeFdIWnhNRko2TjFGMlJqSlBUV1kxWXpOR1gwRRAB",
+            "text": "Nice staff and nice atmosphere but there may be a wait if you try to walk in during peak dinner time.\n\nMy favorite dish was the crispy pork with chili and holy basil, and I liked the Chicken Pani Puri a lot as well. The panda drink was very good and quite interesting. One of the best Thai options in the area."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Vd2RVcExORTVZZEZsbWJVMXJlbWd4YUVRd2MwRRAB",
+            "text": "I am staying in Times Square and was looking for a Thai restaurant near by and stumbled upon Elephant Ear. The service was great and the food was also good. My party order drunken noodles and pad Thai along with the thai sweet plate. We spent under $100 for two entrees, two drinks, and a desert. I’d recommend this to a friend for sure. Zach was a great server and very attentive."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWUFRqUlRWSGhEWVRnMlMxRm9UVXh6Ykc1UlFVRRAB",
+            "text": "When I saw the interior of this place, I was immediately excited to dine! It’s so pretty!\nAs a vegan, I had multiple options and that was very reassuring — I got Drunken Noodle with veggie and tofu and it was very good!\nM, our server, also was very attentive and quick to respond to our requests!\nOverall, I had a good experience"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5Sk9WTkZZMk5HVW1GcmFFbDZjR1pvT1ZSdlkzYxAB",
+            "text": "I’m not even kidding, this bowl of pad thai felt like a warm hug. I usually don’t even finish my food when i go out, but I scraped the bowl clean!! SO delicious and the service was really great. Our server M was so helpful and kind! I’ll definitely be back."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4aVExTktWV1JpT0c5cGNtOUhSMHRXVkVkRmIxRRAB",
+            "text": "Amazing food, atmosphere and M provided the best service! We got the pineapple fried rice, mango avocado salad, papaya salad and green curry and everything was impeccable! Don't forget to ask for their crispy chilli."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOUlpWQmpiMk5wTjJ4MmFITlpZamxpYzJaVmJHYxAB",
+            "text": "Awesome restaurant with very comfortable seating. The Crying Tiger was perfect; so much garlic and steak. I really like the pandan drink.\n\nM was a great server, he was so attentive to our table and he made sure the food came quickly. He even had the drinks out to our table as he was still taking our food order. It was magic."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOYTQwSzd4ajY3MEVBEAE",
+            "text": "Great food, service, and atmosphere. We got the Elephant roast combo, Crispy pork belly with chilli and basil, Drunken noodle, and Thai sweet plate. The staff were pretty accommodating too. All in all, would visit again."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ZM01uRkZUekJLVDFWNVdFcFlZa2RyWlROQlRHYxAB",
+            "text": "Amazing food and ambience! Our server Yash was very friendly and attentive. Everything was delicious, presentation was lovely. Perfect place to host a gathering:)"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KRWJVRmxWekJLTFV0aFIwTjFhemswZWtKMk0xRRAB",
+            "text": "The food was outstanding — full of flavor, beautifully presented, and made with such care. Every bite felt fresh and delicious, and the portion sizes were just right❤️ M was very welcoming!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paUGJtNXdUa2xoVkZCVWFVdHNTRFkyU3pSak9WRRAB",
+            "text": "Recommend eating at elephant ear! We got the crying tiger steak with garlic rice, curry duck, chicken curry, crispy chicken, and several more entrees. M provided great service and was very friendly. Food was ask delicious with generous portions."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wcExXVkhkemx0WVUxRGVXZDFkVXhJYVRkTFRXYxAB",
+            "text": "So happy to have discovered this gem after a Broadway show. We were late for the reservation but they went ahead and honored our reservation. The atmosphere is modern, not too loud, and aesthetically beautiful. The food was spectacular. Looking forward to coming again."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205S1JrcEtVRTlwTm5KNGJrcFpja0ZWUVhSaVZsRRAB",
+            "text": "We stopped here for an early dinner. The place filled up fairly quickly. The interior decor was absolutely gorgeous and cute. Shin was our waiter and he was very prompted with taking our food order. Some of the food we ordered were crispy fried porkbelly with chilli and holy basil, fried softshell scrab, crying tiger w/ garlic rice, and boiled Chinese broccoli w/ garlic sauce. The food here definitely hit the spot for our group!"
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJcWI3VGhRRRAB",
+            "text": "One of if not the best Thai restaurants I've been to. Absolutely beautiful interior creating a fun yet intimate atmosphere making it perfect for a date but also for a family/friends outing. The service was impeccable and the waiter checked up on us just just the right amount. Big round applause to Jenny! So professional and hospitable!! As for the food, it was absolutely delicious. We tried many different plates and every single one was so good, unique and with such a multitude of flavors. The portions were also very generous. Our group of 3 left very content and satisfied. I'm definitely coming back again when visiting time square next time."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaclVYbHVZbUpYY3pGRFNEZGtiMGRQUmsweGFFRRAB",
+            "text": "Absolutely love this place! The food is consistently delicious —  Thai flavors that hit the spot every time. From the perfectly balanced Pad Thai to the rich, everything is full of flavor and clearly made with care.\n\nAnd I have to give a special shout-out to our server M — so friendly, attentive, and genuinely made the whole experience even better. You can tell they really care about their guests and want everyone to feel welcome.\n\nHighly recommend this spot whether you’re a Thai food regular or trying it for the first time. Will definitely be back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2treVJuRkZhamR1WTI5eGFVWnVZWHB2U0ZsTVlsRRAB",
+            "text": "Great vibe with cozy mood lighting, super quick service, and tasty food. Affordable too, about $15-30 per person. Would definitely come back!"
+        }
+    ],
+    "reviews_count": 95
+}

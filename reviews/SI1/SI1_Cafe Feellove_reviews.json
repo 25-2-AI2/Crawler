@@ -1,0 +1,488 @@
+{
+    "name": "Cafe Feellove",
+    "place_id": "ChIJzfsIrlNFyoARBt1ycXgsd0I",
+    "grid": "SI1",
+    "address": "2 W St George Blvd Suite 38, St. George, UT 84770, USA",
+    "rating": 4.7,
+    "user_ratings_total": 890,
+    "phone_number": "(435) 922-1639",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOalJEVjVUa2REVEY5MWVERmxUV3hVVUZaVVRVRRAB",
+            "text": "Great food and service enjoyed our Sunday breakfast and your store. While busy and noise we still love to go to your locations."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sVFduVkVNR1YxTWt4S05tUTBRM0ZsYm1kaGFGRRAB",
+            "text": "I love the way I’m greeted each time I come in. The service is always friendly, helpful, and descriptive. I absolutely love the setting, inside and out!"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VeGNUWlhOR3gzUTA5YVFXVjRlbEJsYVc1dlRrRRAB",
+            "text": "Nice little gem of a spot in St George.  Unique atmosphere,  great food options.   Good variety of vegan choices also."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poQmFXYzNZMEZITVdGa2JHeDVkbEpmYTJObVRIYxAB",
+            "text": "I love going here! The food is great, and I love the tea party for two! The fruit that comes with it is so cute and I love the lady grey tea."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xcVUyZzVNRzB4TTFGclNtWm9WMDVPTm1zeFJIYxAB",
+            "text": "This is a very warm and inviting atmosphere to meet with friends or clients. Internet service is strong and there are a variety of places to sit, indoor or outdoor."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toTFIxSTBRamQ2ZDBGVVIzUXlVa1pFVGpZeFgwRRAB",
+            "text": "Delicious breakfast, with a large variety of vegan, vegetarian, keto, or even high protein foods. Would recommend!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KdWREZDBlV1F5TVVWNU1GQjJiR050Wkd0S1RtYxAB",
+            "text": "Awesome coffee and place to relax"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paeWVDMDVUMlZqV25wUFEwbFhUVmhHV1RSblUwRRAB",
+            "text": "I love everything about this place! The coffee and food is so good, beautifully decorated, great vibes."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oaU4yUm5abEpTZGxJeFRrUlRTWFYzTkZWbVpuYxAB",
+            "text": "Love the vibes here. Food is delicious as well"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210Q1ZIZEZURTkyWjJGNloxUk1TVzV1ZFd4TlUxRRAB",
+            "text": "The food was ok. But the bowl clearly wasn’t clean well cause it smelled terrible like a wet sock."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5bVpIUlhYMjVUYTNGRmRVaEhkelZLTW1abU5XYxAB",
+            "text": "Feel Love is one of my favorite places."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wdVNEbEtZbWN5TVZSNlVuUm1iREV6VEZkNWJtYxAB",
+            "text": "Prices are up and service is down.....What coffee shop doesn't have brewed decaf"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2trelZVRldSMGRUWTFVemJVTXRWM2RMUlRGQ1RsRRAB",
+            "text": "Super cool place glad we went!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twbGIwVm5XWFpaZWtkVFVXOVNNRzgyZEhweFRXYxAB",
+            "text": "Cafe FeelLove has such positive vibes! Super friendly staff, great service, comfy seating, and plenty of beverage options to choose from. They also have an amazing food menu including gluten-free and keto choices. Definitely one of my favorite local spots in St. George. 🙌😊"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsUGNFdG5ZV05UVDJwUFN6aHhWVTVOUkdKSFQzYxAB",
+            "text": "It was nice as always. Great place to meet and talk"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FeWJ6ZEVUamxJYkVkV1dXSkphVTFGZDBFd1RrRRAB",
+            "text": "Food was delicious and service was even better. Came here for my birthday breakfast. We forgot to order something and Hailey went the extra mile to make sure we didn’t have to wait in line for what we forgot to order. We appreciated her kind gesture!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OZlRHZFNSRFV4YjJKbGVUWTNaemRRZW1KUWRGRRAB",
+            "text": "Love this place, great vibe, good food and varied drink menu. I am a Matcha fan and enjoying trying there many different varieties. The design is great fun and inviting."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZcUsyNXlRRRAB",
+            "text": "When we're in St. George we love hanging out at Feellove. It has a great vibe, food and coffee.......Still the best place in St. George to hangout."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWaU9YWk9ZM0ZhVVdwa1EzSTRWV2xVT1Rac1lsRRAB",
+            "text": "Love the vibe here.  Chandeliers, sofas and tile work throughout the Cafe. Cool music playing. Excellent flat white and really good vegan peanut butter cookie. Very friendly staff. Came here a couple times while in Utah."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20weU5tOTBUMVpFV1ZSTVJsQkRWazlMVld0UVRYYxAB",
+            "text": "Went here twice on vacation and did not disappoint! I got the chicken bacon sourdough sandwich without the bacon added cucumber soo good and filling. And the other time i got the avocado chicken wrap also good and refreshing"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GaVlVUkdlRGgwTjFCaGIwNVNVblZHYkRoak5sRRAB",
+            "text": "Warm and vibrant cafe with classy indoor seating and great outdoor seating. Impressed not only by the customer service but the food quality… wow!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1R2JHaEZhMVprUzE5eGRVcGtiRkp0U2kxTmFIYxAB",
+            "text": "We need more LOVE!  😀"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKSmQyaFFUbVp2Wm5ORlRUQlVhbXhEVTNadlduYxAB",
+            "text": "This plain bagel identifies as an everything bagel. Utah politics in carb form. Never again. And was told by locals this is the best there is in town."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0MVpFeGpWRTh4YVZZMk1EQnBaWE5ZYVdaVlZWRRAB",
+            "text": "Omg. So freakin good, the staff was super friendly, the coffee was amazing, I had the pumpkin cold brew, I feel like cold brew doesnt usually flavor as well, but this one proved me wrong, so much flavor, very smooth, the right amount of sweetness, truly fantastic. Also had the Garth brooks burrito, felt like actual effort was put into it, the right ratio of ingredients. The vibe was supreme 👌 sad we didnt find this places sooner into our trip. I would have gladly given them all my money 😅 Would love to see one in Draper 💜 thank you!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVdGRrZzBWRjk2TW0xQ01rWnFkakkyVTBwdFFrRRAB",
+            "text": "Absolutely THE BEST place in Saint George for a PERFECT cup of coffee. 💕 The Baristas are always so welcoming & kind! And I love spending my mornings in such a warm & beautiful place! 🙏 I just love the atmosphere & all of the intricate decor ~ very enchanting & truly a work of art! Thank you FeelLove! Your Vegan Food is out of this world!\n\nLove, Jesse 🐱"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25rNVVYWlNPRUpqVEZkMUxUaFphVjlwUlVWdGIzYxAB",
+            "text": "Magical and atmospheric!\n\nI love going to Feel Love when I am in St. George. There truly is \"magic in every cup\" and magic in every detail of this incredible cafe.\n\nFrom the awe-inspiring decor, with beautiful mosaics, ornate mirrors, chandeliers, and charming antique furniture. To the delicious drinks, meals, and pastries made for everyone, including those who are vegan or gluten-free.\n\nIt truly feels like every recipe and detail was meticulously crafted with love.\n\nThank you, Feel Love, for creating such an unforgettable experience. And thanks to the amazing staff for your incredible work, love, and energy.\n\nThank you for being magical in every way!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toMldEZGhja1ZLTTNZelFXOXNRMU16UkhkcVJsRRAB",
+            "text": "This place is a dream! So cozy and beautifully decorated. Everyone is so kind and respectful. Absolutely Love coming here for a perfect cup of coffee and amazing plant based dishes! 🩷🦋"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGQk9UaFRSbFJoY0U5RldERnJOWFpvTkd4MldrRRAB",
+            "text": "Love the vegan options and the vibe"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5SlIwbzFkRTFRVm5kbE4wWTFiSGw1UjBFMVdWRRAB",
+            "text": "I had such a great experience at CaféFeelLove! The atmosphere was warm and welcoming, and Anja was such a huge help. She was kind, attentive, and went out of her way to make sure I had everything I needed. Her friendly energy really made my visit even better! I’ll definitely be coming back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSblVITnhiVXhTVmt3d1lrUk9jVTVCVW5kR2JrRRAB",
+            "text": "Amazing spot. So super comfy, great staff, great food. Love the vibe. We were visiting St. George for 4 days and went every day. A must see, the penny mosaic in the loo."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4VlEyTm9jWGgwT0VablFteHVZa0pmYjI1T1VXYxAB",
+            "text": "Every time i come into a feellove location i feel right at home. The vibe is quirky and eclectic and down right cozy. The employees are kind and complementary and they all have such unique style. I can tell that every feellove location is a very meticulously curated place and it is absolutely appreciated and noticed. I also love their copious vegan and gluten free options for those of us with strict dietary needs. I love feellove <3"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSSVRXMUVUbFpWUmtoT1dHSkxhVGhQV0ROMk5IYxAB",
+            "text": "We went here every morning for breakfast and coffee before our hikes and adventures for the day! Great food and coffee"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxdE5UTTBRVXh5ZDFOSWJHWmFNelV4Vm5CNmVtYxAB",
+            "text": "i tried so hard to love this place but unfortunately my most recent visit made me decide to not come back :(\nthe latte was absolutely horrible, watery and very burnt. prices are very high for what you get and i was extremely unsatisfied with the food and coffee. service is usually okay but not the best. i wish i could say i would be returning but unfortunately i won’t be 🥲"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wWWJIRjZaazlYUVUxV2JURlJjV2xFVVZaeVZGRRAB",
+            "text": "Our favorite local coffee shop & cafe! all of their locations are beautiful & their staff is amazing!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25RNVRTMVlVSEl6TXpsSWNrMVdlSEV3YW5ka1NFRRAB",
+            "text": "I love the pastries most of all! I get them all the time."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xZNGVVVTFSMnMzVDNrNVRVUklRa2N5YWpaUk1tYxAB",
+            "text": "Anja is super kind and the coffee is amazing!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KQlRtRlVTQzE2WkhSNVVqQkZiRFI0TVRKMFJtYxAB",
+            "text": "Yasmine was awesome. I love coming here"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjeVNIWTNNVWt3VDBWNFlWSnVjMU16Y2tKcU1IYxAB",
+            "text": "Excelente servicio el mejor lugar que eh disfrutado y muy buena la comida 100%recomendable"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGMGIwUk9UMVkxUjFOWVJUSjFaa2htZHpCM1JrRRAB",
+            "text": "Perfection"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wV1lrc3Rla05LWTJwT2EzWkNWR3M0WTFSdWRtYxAB",
+            "text": "Best in the state"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pabU9HMVhUVU5oTUZremVXZFBUa3QyVkVWYVFrRRAB",
+            "text": "This is the second location that I’ve visited during my stay. I loved the decor and vibes. I ordered for pick up but then I decided to stay since it’s not too busy at that time. The cowboy sourdough sandwich was delicious. The sourdough…"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psTVZXWjJSVk5rVDJFeGRUVndla3hJWlZoMFpIYxAB",
+            "text": "I always have a good experience here. The coffee is delicious, I highly recommend going with one of the signature iced lattes. The flavors are so well balanced. The food is great, if a bit pricey. The avocado toast and cowboy bowl are my favorites, but you can’t go wrong never go wrong with their pastries as well. The overall atmosphere of the cafe is the standout, it’s decorated so well and really captures a great ambience to enjoy your coffee."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SV1lYazNNRUpqZFc1VWFYcGxUMUZHYzBad1RtYxAB",
+            "text": "I LOVE Café Feellove! I'm someone who feels the need to treat myself to a delicious hot drink pretty much daily to be able to deal with the horrors, but I thought opportunities might be few and far between, given that my boyfriend and I were visiting Utah, and a large percentage of the population is of a certain persuasion that doesn't drink coffee or tea. Café Feellove to the rescue! I'm also someone who loves hearts, hot chocolate, and tea, so imagine my delight and surprise when we stumbled upon this place after eating nearby at The Pizza Factory!\n\nThe teas were perfect. My boyfriend ordered a Bird of Paradise, and I had an Indigo Tea with milk and honey. The woman who took our orders was so friendly and patient with us first-timers, offering suggestions and also signing us up for the rewards program. We live in California, but we'll absolutely make it a point to stop at Café Feellove any time we're in St. George! The decor and vibe are beautiful, there are hearts everywhere, the drinks are flawless, and the service is relaxed and friendly. If you're not getting drinks here, you're missing out. I just wish they'd open a location in San Diego, so I could have a pretty blue drink every day! ♥"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWSGVVWldjR2RPYW5SMGVFNXpaemN6VGxKUVVXYxAB",
+            "text": "I am so thrilled to have found this place! Let me start by saying that I really love the occasional flavored coffee drink but I don’t like my drinks to be sweetened and most places with flavored lattes have syrups and it’s way too sweet for me. This place does not sweeten most of their flavors (aside from chocolate, caramel, etc) so I was able to have an amazing blackberry lavender latte that actually tasted like those things.\n\nThe food was amazing as well. I had the Garth brooks burrito. It has 3 different types of meat in it. I loved the crunchy texture of the potatoes with the savory flavor of bacon and other meats. The eggs were also nicely balanced with the amount of other things in the burrito (I hate when I get a breakfast burrito that is all egg and a tiny bit of other things). The salsa added a nice fresh flavor.\n\nThis restaurant does a wonderful job at dietary inclusivity. Of course there are the vegetarian/vegan options but they also skillfully include paleo and keto which is hard for breakfast places. I also tried all three types of beignets and the Nutella strawberry was my favorite, I loved the cooked strawberry with Nutella on the inside. My partner’s favorite was the cream filled one.\n\nDefinitely worth a stop if you are in the area. This was a memorable stop for sure! I will be back ☺️"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SM1RtUnZkQzFVYTB4V05IVmhNa3RZY1ZWaGJsRRAB",
+            "text": "It’s obvious that they use quality ingredients. I usually get a scone, because they are delicious, but chose a beignet this time-it was equally amazing. My husband had a sandwich on sourdough, which he sighed over more than once, and I had a cowboy scramble, which I throughly enjoyed! Coffee and breakfast, outside, under trees and looking over Ancestor Square, was the perfect start to our day!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSR01XRnZhWEJDZUcxSVJuaEJOMDF5YTBoS1ZtYxAB",
+            "text": "Totally not my vibe of a place.... But it was a great little find.\nOur iced coffee was great!\nI had a breakfast bowl that I didnt really care for.\nWife and son had a breakfast Sammie that they said was really good.\nIt was a really nice, upbeat space.\nI would go back!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJREVsZmUzbE5ITzRnRRAB",
+            "text": "Such a great cafe! The aesthetic is super beautiful and unique! There is plenty of seating, great staff and the food was delicious! Highly recommend this spot."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJaWZHR1J3EAE",
+            "text": "Full stars across the board! Just from entering this cafe it immediately made my top 3 favorite coffee shops in Utah (I'm from the Salt Lake Area). The decor, the music, the aesthetic was so beautiful and welcoming. I had the Khaleesi Jasmine Tea and it was brewed well, no bitterness or tannic flavor. And they filled it all the way to the top of the cup! I sat outside on their patio and enjoyed the view of the courtyard and beautiful weather. I would come back to St George just to visit this cafe again!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VNWFZ5Nm56cU43SVpBEAE",
+            "text": "The quiche made as they do here must be an acquired taste. Sounded interesting but I didn't care for it, would not order again. Too much salt. Salt was the main taste and the crust too dry to be enjoyable. Vegs were minimal.  Once again (for this area as Im traveling) would give 3.5 stars.\n\nBusy active spot, easy parking. Shop is upstairs.\n\nMy oat latte was as expected and was okay. Could have used a bit more attention in its making, maybe it was just too busy.\n\nTook a long time for my drink. Food came much quicker.\n\nPleasant set up and decor, outdoor patio with plenty of seating."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfNDgzdmhBRRAB",
+            "text": "This was a quaint little place with an adorable atmosphere. They were pretty quick. I had the dark chocolate blended mocha and avocado toast with an egg over easy on top. Both yummy. Some other favorites were the Lemon White Mocha and the breakfast burrito. Nice place to stop if passing through St. George. Their pastries looked so yummy too, but didn't get one. Recommend!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WVlpYWkNlbkZTWWpsVGVHOVZWMDFGVDNSS2VYYxAB",
+            "text": "You can't go wrong here. Every time I come to St. George, this is a must stop to grab one of many of my favorite drinks and scones.\n\nSo stop and enjoy the pleasant atmosphere, relaxing drinks, savory pastry, and delicious food."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wMFRuVk9SVTFMYUZwWVFXSkNlV2cyYjJ0blZFRRAB",
+            "text": "Yummy homemade tofu scramble! Another good vegan option was the Beyond/Impossible sausage in the Cowboy bowl.\n\nDrinks and desserts looked amazing too!\n\nThanks for offering so many vegan options!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaa05qRjNhSEYyVTFGb2N6QTNUSHBtU0hGcGQzYxAB",
+            "text": "The baristas are so chill here. Tried the orange matcha and it was so tasty and unique. The decorations are so beautiful. Perfect place to come mingle with friends."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOaWZrc2UzcnZhNmVnEAE",
+            "text": "I absolutely love this place! I wish I lived closer so I could come here as a regular. The gluten free coffee cake is to die for! I am gluten free and my friends are not. Several of us got the coffee cake and everyone loved it. You could not tell that it was gluten free. I am beyond impressed with their variety of quality gluten free options. Coffee was also great. Great vibes and gorgeous decor."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJdFBqTXBRRRAB",
+            "text": "Walking into Feellove Cafe is like stepping into a scene from a royal fairytale—if fairytales had artisanal lattes and top-tier breakfast bowls. The plush velvet chairs practically beg you to sit like the monarch you were always meant to be, while the gold accents whisper, Yes, you are fancy. Every inch of this place has been designed with such impeccable taste, it might just judge you if you wear sweatpants (but don’t worry, it’ll do so politely).\n\nAnd the food? Let’s just say if taste buds had a red carpet, Feellove’s menu would be strutting down it. The service is so good, you might find yourself looking around for hidden cameras, wondering if you accidentally wandered onto a hospitality training video.\n\nNestled in the heart of beautiful downtown St. George, this gem offers a side of breathtaking nature with every sip. Mountains, blue skies, and good vibes—it’s basically the brunch version of a Renaissance painting."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kZlZXbDBWbXAyWkhWMFIxSmZlVlE0VldkTWNWRRAB",
+            "text": "I came across this gem while traveling and loved it! Everything about it was great: atmosphere, decor, food, service, prices. The exposed brick juxtaposed with elegant velvet couches and chandeliers made for a beautiful setting. The food was so pretty I had to order multiple things just to try them and everything was good--and the white chocolate lemon coffee was amazing! The staff were really helpful and friendly and helped me get some great deals. I'll have to do some more traveling so I can go back."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGcGFuRk1jVTlvYkRSblFWRllWREJuV2pGWlJXYxAB",
+            "text": "Food was delicious, service was great. My husband said his cowboy bowl could have used more salt, but my seasonal sandwhich was perfect, especially with the pita chips and hummus."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOWFlrMWFRV2QyTFVkWVZURXlTVXhtU3paM05HYxAB",
+            "text": "I love everything about this place! The food is SO delicious, the branding and decor are beautiful & the staff are friendly. I had a cowboy bowl and golden milk & it was delicious. My husband loved his espresso shot and breakfast burrito.…"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3dE95SlR3EAE",
+            "text": "Very cozy, well appointed coffee shop and restaurant with excellent specialty coffees. The avocado/bacon sourdough toast was delicious, fresh and filling and so was the breakfast bagel with egg and avocado. 5 stars for food, service and atmosphere. Great place!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VPZmcwSlMtbU9xSVZ3EAE",
+            "text": "Delicious avo toast with egg and balsamic drizzle. Children loved their doughnut and macaron. Parfait was enjoyed by my husband. Coffee was a little sweet for him. I enjoyed my kombucha."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBeFBXYklnEAE",
+            "text": "My favorite cafe in town! It's got one of the cutest set ups and decorations which make such a great atmosphere. Can't go there without getting a hot chocolate and scone! Also a great spot for studying."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMajR1aEVBEAE",
+            "text": "I love this place so much ❤️\nThe atmosphere is beautiful. The coffee and food is amazing. The Staff is friendly and helpful.\nBuddy Holly on ice was the best blend of flavors in a cold brew....ever. The salted Carmel latte was smooth and delicious.\nStrawberry scone was tender and fresh.\nAvocado toast was tender and tasty.\nAlso...the Napoleon, only on weekends, is so flaky and yummy.\nI'll be back every time I'm in St George.\nBtw ----- can you bring Cafe Feellove to Texas???"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xnMFlteE5RVE5HY1hoUVNqWlRhbU5wU25WVFNsRRAB",
+            "text": "This place was awesome- we stopped here on a girls trip visiting, and got coffees & food to kick off our weekend! The young lady at the front was the sweetest- had us sign up for points and quickly and kindly helped with options. I got the Buddy Holly (YUM!) and the avocado toast- my friends got the ice tea/lemonades, cake pop, donut, chicken salad sandwich, and more. Everything was delicious. The atmosphere was super chic and fun too- and it connects to another store up top, so we walked through that also. Came back a few days later to get another coffee and the girl remembered us!! SO GOOD AND SO KIND. Thanks for being our fave coffee stop of the trip."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aeFZsWTFWRW80T0hCM1pGa3pNbEoyVDBoeWVtYxAB",
+            "text": "First time here. The breakfast burrito was delicious. Very filling and has real potatoes, not hash browns. The girl who helped me was very kind. Highly recommend for breakfast."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURucmJ1TUNBEAE",
+            "text": "If I could give more than 5 stars I would!\nThis place was the vibe. Blown away by all the mosaic tiling, the eclectic furnishings, mixed with cool lighting, metals, wood beams, and brick walls.\nStaff friendly and helpful- food DELICIOUS.\nPlus cute location in St George!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWR1pURm9kVU5MUkdGdFJVUnVlVTFTZEdoalYxRRAB",
+            "text": "Really cute coffee shop! I didn’t stay but definitely would have if I had time. The inside is beautiful and inviting. I ordered ahead to go, and my order was ready when I arrived. The staff was friendly and greeted me immediately. I haven’t experienced that a lot in southern Utah, to be honest. But this place seemed to have great customer service. And great coffee! I order two small lattes in different flavors because I couldn’t decide. They were both delicious. Glad I stopped in and will return when I’m in town again."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25seWVUTkxlbkJ2YWs5d01VaEdjM0JhTlRCVVlrRRAB",
+            "text": "Cafe FeelLove has been my favorite place to start my morning for many years. Everyone is very kind, as well as patient, talented, and creates a great environment. The food is always delicious; I always recommend the Wall Street tacos. You can Feel the Love that is made and poured into every cup whether it’s Coffee, Tea, Smoothies, Lemonades, etc…You will always get the best from here. You won’t regret coming in."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMdnFHZmF3EAE",
+            "text": "Great experience here at the St. George location! I had the honey boo latte and bacavo toast, both were great. Also shared a chocolate eclair and a chocolate Nutella croissant (because we couldn’t decide which to get). The eclair was especially yummy! Loved the atmosphere with the vintage velvet  chairs and couches."
+        }
+    ],
+    "reviews_count": 68
+}

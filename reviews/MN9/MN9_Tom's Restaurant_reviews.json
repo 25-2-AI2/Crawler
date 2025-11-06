@@ -1,0 +1,362 @@
+{
+    "name": "Tom's Restaurant",
+    "place_id": "ChIJLyERijv2wokR8G_K-v8FXX4",
+    "grid": "MN9",
+    "address": "2880 Broadway, New York, NY 10025, USA",
+    "rating": 4.2,
+    "user_ratings_total": 3646,
+    "phone_number": "(212) 864-6137",
+    "reviews": [
+        {
+            "date": "5시간 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxdlJsaFBRVnBaYVcxM05XZHhOVVIyY1VnMFIwRRAB",
+            "text": "나름 가성비로 먹을만 한 곳?"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWc2JuWlFUVUpHZVRWeFJXeGpjM1pHY1VSblpHYxAB",
+            "text": "Great staple diner,"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CQ05IbzVXbE5tTmpkU2NsOVhkMHBNWlhWeGRHYxAB",
+            "text": "Excellent food with fast efficient service."
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGRmJUTk5jalJDVkVkUVdXTk5WMGhOTlU1dmVtYxAB",
+            "text": "Seinfeld lol"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWR09VZzJVbEJ4VXpWWWNsaFhXbGhLTmt0emVFRRAB",
+            "text": "Seinfeld craz is long past gone. Now it's just a diner st the corner. Where you can wait at the counter for a man to pour your coffee"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oc05IWnBialpRWWxOelFWTjJUMWRYWDIxS1lXYxAB",
+            "text": "You get the classic american diner experience here. Prices are friendly despite the Seinfeld fame, and there were no tourist group gatherings outside. Reasonably quick service even at the busiest of times.\n\nPoints off for the restrooms, which seem to be “momentarily out of order” - permanently."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taTlUxSk5UVmxaVm1WNmFXbHNWVkJRUjB0SE4zYxAB",
+            "text": "I had three big salad just like Elaine. Finn place to eat. Staff was fantastic"
+        },
+        {
+            "date": "1주 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kSVpFRTVXbmxUWjNGNmFpMUZORTFxVkhKNmNuYxAB",
+            "text": "미국 여행와서 다이너 와보고 싶었는데 숙소 근처라 와봤어요! 저는 럼버잭 시켰는데 맛있어서 다 먹었어요 ㅎㅎ 그냥 평범한 다이너인데 음식 무난했고, 옛날감성 있어서 너무 좋았습니다 ㅎㅎ"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkb2FFVkpOMnRqTjBRNFlUTjRUbFZOTFVwRWNXYxAB",
+            "text": "My order from uber eats of the chicken wrap with bacon with the fries and a pickle was delicious.  It was made well and very fresh.  I was very happy with my purchase."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBdFRXWjZUalpMTFVJM1dIQktZbFV5WkcxWmFIYxAB",
+            "text": "Very solid diner. Great atmosphere with quick and delicious food"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psc1pURlFhVlJYVmxGMllXaDVUMDFEWTNaVmJYYxAB",
+            "text": "I had a late lunch here. I think many people come for the experience, as the exterior was used as the site of the restaurant in Seinfeld. It is a fun New York joint with people packed in and a lot of yelling. You really need to come and be a part of history.I had coffee (why is diner coffee so bad), one fried egg, toast, potatoes, and hash for $17, which is pretty good for NYC prices."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFMGJHeDBXSEpYVDFodGJURkhXRE5xZDJGUk1rRRAB",
+            "text": "I had medium expectations, I thought it would just be a gimmick because it's the Seinfeld restaurant. But the food was awesome. I had a bacon omelette. The breakfast potatoes are bomb. It's a nice atmosphere and the service was great."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wTU5ERnhjWHBKVVZGMWJFeDVSMDUyVkhodmVrRRAB",
+            "text": "Stop in looking forward to a nice Diner breakfast, I was told there wasn’t anymore booth available when I walked in but a couple had got up from the booth and left I asked the unprofessional Quote unquote Manager can I sit at the booth, with the loudest meanest voice he said “NO” and walked away, the customer be side me looked at me than said to him, so you’re the owner, he said yeah why, the customer began talking about Seinfeld and once again he walked away. This manager with a nasty attitude, really should be in the back counting numbers, he has the slightest idea how to be kind and respectful to the people that keeps this restaurant running. So whom ever is the actual owner of this restaurant, come and check in every now and then because I left without eating, I don’t have to take that from no one, and reading some of these reviews,  and this place has left a bad taste in a few people’s mouths."
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25STlJHNXNkazVOVUZwMGFGbFZhVmxEZUZGRGEwRRAB",
+            "text": "Hermoso lugar, la comida buenísimo y la atencion fue  increíble Gracias a Lorena por su amabilidad y buena onda😊"
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oT1VEaG5SRlF5UzNFMFdUSTBTVkJ5ZWpKblZWRRAB",
+            "text": "La comida muy rica, el lugar hermoso, el dueño y los chicos que trabajan allí son súper amables y Lorena en especial (Aguante Argentina y Junín). Nos sentimos muy cómodos, la pasamos genial."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KSlNWRkJlVGN3V2t4SVlXeG9kMDUyVFd4Zk9WRRAB",
+            "text": "If you're a Seinfeld fan, just take a selfie in front of the exterior; that is guaranteed to be the highlight of your experience.\n\nInattentive staff and terrible food. I got the meatloaf sandwich with fries, as it was on the daily special menu, so I supposed that it would both fresh and good. Wrong on both counts! Three bacon-thin slices of \"meatloaf\" with some unidentifiable watery sauce on a surprisingly decent roll, and hands-down the blandest fries I've ever eaten. Who doesn't salt their fries?!\n\nThe price wouldn't have been awful, except that the food was."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xZNVlYTjJTR2M1WmpJd1ZWRjNNbVEwWVVsak4zYxAB",
+            "text": "Pedi un sandwich corned beef\nPésimo\nNi aderezo, ni queso, ni tomate,\nLes dije que no traía ni aderezo, me comentaron que estaban en la mesa habia catsup, mostaza, pimienta y azúcar  🥺\nSolo pan con corned beef\nEso no es un sandwich\nPésimo servicio\nLes doy un 0 de calificación\nNo te prestan ni el baño"
+        },
+        {
+            "date": "1달 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GMFNVVTVMVTgyYkZsMWRtczVRMVJSVkhwWmNXYxAB",
+            "text": "🧾 방문 장소\n\n📍 Tom’s Restaurant\n🌆 위치: 뉴욕 맨해튼 어퍼 웨스트사이드, 콜럼비아 대학교 근처\n🎬 유명세: 시트콤 의 외관 장소로 유명, Suzanne Vega의 노래 로도 널리 알려짐\n\n⸻\n\n🪑 매장 분위기 & 인테리어\n•\t🌀 빈티지하고 클래식한 다이너 스타일\n•\t천장에 촘촘히 박힌 패턴 타일과 팬, 조명 등은 60~70년대 정통 미국식 다이너 느낌을 그대로 유지.\n•\t테이블마다 놓인 기본적인 케찹, 시럽, 소금/후추통, 설탕팩은 복고풍 감성에 한 몫.\n•\t내부 칸막이와 나무 프레임이 있어 좌석 간 프라이버시도 보장되는 편.\n•\t🌇 콜럼비아 대학생과 동네 주민들이 자연스럽게 어우러진 활기찬 분위기\n\n⸻\n\n🍳 주문 메뉴 및 시식 후기\n\n1. 아메리칸 브렉퍼스트 플래터\n\n🥓🍳🥞\n•\t구성: 팬케이크 2장, 베이컨 2줄, 소시지 1개, 계란 2개 (선택 가능 – sunny side up 선택)\n•\t팬케이크는 두툼하면서도 촉촉, 테이블에 비치된 메이플 시럽과 궁합이 잘 맞음.\n•\t계란은 노른자가 탱글하고 반숙, 베이컨은 바삭하게 잘 구워져 있었음.\n•\t소시지는 생각보다 큼직하고 퍽퍽하지 않게 잘 익음.\n\n⸻\n\n2. 치킨랩 & 감자튀김\n\n🌯🍟🥒\n•\t구성: 닭가슴살을 메인으로 한 랩, 감자튀김, 피클\n•\t닭가슴살이 큼직하고 촉촉하게 찢어져 있어 질감이 좋음.\n•\t감자튀김은 바삭보다는 부드러운 타입, 케찹 또는 치즈스틱과 함께 먹으면 조화로움.\n•\t피클은 강한 산미, 느끼함 잡아주는 역할 톡톡히 함.\n\n⸻\n\n3. 모듬 튀김 플래터\n\n🍗🧀🐔\n•\t구성: 윙, 텐더, 모짜렐라스틱 + 허니머스타드, 마리나라, 랜치\n•\t윙과 텐더 모두 겉은 바삭, 속은 촉촉. 기름냄새도 거의 없었고 온도도 뜨거웠음.\n•\t모짜렐라 스틱은 치즈가 부드럽고 늘어지는 식감, 아이들도 좋아할 맛.\n•\t3종 디핑소스와 조합하면 간이 심심한 부분을 보완할 수 있음.\n\n⸻\n\n🍯 서비스 및 기타\n•\t🧑‍🍳 직원은 친절하고 전형적인 다이너 스타일의 빠른 서빙.\n•\t💲가격대는 대체로 10~20달러 사이로 맨해튼 치고는 합리적.\n•\t🪑 회전률은 빠르지만, 주말 브런치 시간에는 대기 있을 수 있음.\n\n⸻\n\n✅ 추천 포인트\n•\t뉴욕 로컬 분위기 + 레트로 감성을 동시에 즐기고 싶은 분\n•\t콜럼비아 캠퍼스 산책 후 가볍게 식사할 장소 찾는 분\n•\t팬케이크 & 계란 조합 좋아하는 브런치러들에겐 Must-visit!\n\n⸻\n\n📸 포토 하이라이트\n•\t🥞 팬케이크 위 노른자 노란색의 조화\n•\t🧀 치즈가 쭉 늘어나는 모짜렐라 스틱 단면샷\n•\t💡 천장 장식과 팬, 레트로 감성의 조명\n•\t🪟 창밖으로 보이는 Morningside Heights 풍경과 FedEx 트럭"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkelUxZDJYMlZKYjJsWWVtOVJlRE5qWlc5R1NtYxAB",
+            "text": "I absolutely love this restaurant! Everything moves pretty fast, I love Seinfeld and the food is incredibly tasty every time! Some characters work there, but most discrepancies are easily dealt with and are worth the food, 100%. Ive gotten breakfast items and lunch/dinner items and I can never wait to go back. I love an excuse to go to Monk's.... I mean Tom's.. (seinfeld joke.) 10/10, highly recommend."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkWmVDMVdWMDUzU1RaNWNXVnpWRlZSVmpkNVRrRRAB",
+            "text": "Everything you want from a true American classic dinner . Enjoyed it very much ."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKMlZHWTFaalJ2Vm1abk1qZFZWelpXVjJWdlRVRRAB",
+            "text": "Si viste la serie Seinfeld, sabes que es un lugar icónico, si bien por dentro no es como en la serie, sí se pueden ver fotos y autógrafos de los protagonistas y el ambiente es el típico de Diner de USA.\nFuimos para un brunch con mi hermano y la verdad que quedamos encantados. Comida rápida y riquisima!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CaFYyYzBjbW8xZFRCRVJtcHFSbEpWYzBad1owRRAB",
+            "text": "Iconic."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjdGVVbHZkM1ozVkdKdE9EZDNOMHBRTVZkNFgzYxAB",
+            "text": "Great Place!! The bar tenders are incredibles. Good food and Seinfeld spirits"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twcGQxWlRTR2xEVEdGSllqVkxlUzFGVkdvNFIwRRAB",
+            "text": "My first time here and I love the service. The tea is one of my favorite things, very clean inside and out."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pVdGFXOVVTMnR6VTNocFIxTmhPVU5VVTNkVFFsRRAB",
+            "text": "One of the bucket list locations during my vacation due to Seinfeld.\nThe manager there was such a friendly and talkative person to everyone that came in.\nHe even went out of his way to go downstairs to see if they had a Seinfeld t-shirt in a large. Unfortunately they never however was worth dropping in!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xSlJucHJTMFJHVVZSWlN6UnZXR04wVW1GNmFIYxAB",
+            "text": "Went here a week ago with my mom. Had no idea it was famous but loved the service, food and atmosphere!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WeU56VnlVbUpSWlROcGRrVk5NMnhOYnpZNFQyYxAB",
+            "text": "Really great place with delicious food, and atmosphere."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFNGRGRTRjVzQwZVhKT1QxbEJTMWhtZEhaNGJWRRAB",
+            "text": "It’s ok, nothing to write home about unless you’re a Seinfeld fan."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21rd01XNTBOMmRmVFdnd2NVeENURlZKVFRRMlJFRRAB",
+            "text": "Iconic from its inclusion in Seinfeld- Tom’s restaurant interior isn’t actually anything like the show sadly, but they do have a great and diverse breakfast and lunch menu served all day, and it’s very reasonable!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGRU1FbEthVXc0ZEdSdk1UWk5XR2N4T0RocFRrRRAB",
+            "text": "I will visit New York one and I will literally shout out loud like some idiot shouting WHERES JERRY SEINFELD (while drinking pistachio milkshake)"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSS1Z6bG1kV3h3VnpVMlkxRllWeko0WlVkVk1YYxAB",
+            "text": "If you’re looking for a place to eat nostalgically about Seinfeld, this is a good option. The food is acceptable, the service was bearable, and the vibe definitely feels Seinfeldy."
+        },
+        {
+            "date": "1달 전",
+            "language": "tr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWSk5uTXRTMjlIU1hZMlltbE1SbXd6TUdRNWJsRRAB",
+            "text": "Bir Jerry Seinfeld kahvaltısı olmazsa olmazdı: Peynirli ve domatesli bir omlet ve yanında kahve. Belki ilk defa New York'tayım ama Kramer, Jerry, Elaine ve George sağ olsun çokça anı biriktirmişim sayelerinde :)"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pJM1VVMWhRbWRDWTJoRk1FNDRZVFpUZFRGcGEwRRAB",
+            "text": "Our favorite late night breakfast joint in NY! Definitely recommend 👌 Great service,  food ,and atmosphere.  Especially if you're a Seinfeld fan."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGVFpFVkRNRGRPUTA1dE9YVXhVMEZtUmxCak5XYxAB",
+            "text": "Great food! Great vibes! Classic dinner"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swellVcGhlREJ1ZVZNNGMwbHNZMm80WjI5TE9WRRAB",
+            "text": "This place was amazing!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KUE5FNUJkMXBpWjJneFpXd3dVRzV3ZWpOeVVFRRAB",
+            "text": "I love Toms! If you need a juicy burger and shake, this is your place to go. I’ve seen some poor reviews talking about some of the food they got not being up to snuff. I would recommend sticking to diner classics. Pancakes, breakfast foods and shakes. If you do that, you’ll have a fantastic meal that will fill you right up! The Broadway Shake (Coffee and chocolate syrup) is to die for!!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSNk9EaDNUMUpGTFMxV2IybEJiMnBTUTFwTWVuYxAB",
+            "text": "as a die-hard seinfeld fan, i’m very happy to have seen this place in my last visit to the nyc. it’s right around the columbia university and super easy to access. food was delish, but a bit expensive."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFMVptVnJXWE5sZGpKUFpURkRiRkZTVVdKck1IYxAB",
+            "text": "This was a place I’ve wanted to go since I was a young girl watching the show with my dad! Really happy I got to dine here but the experience was slightly overshadowed by the one server. We had a really nice young man serving us originally. Food was slightly above average for breakfast diner food. He gave us the bill and my partner wanted to pay that (so he put down some cash) and I wanted to tip.. we hadn’t finished our iced coffees when this woman scooped up the bill, along with his cash then came back slammed down the bill with a couple coins and rudely said tip wasn’t included in the bill while stomping away. We couldn’t even explain that that was my part I like to pay when we dine out. We weren’t finished and I was the one who wanted to tip!! Really embarrassing and not the best way to end such a cool experience. I had 10 dollars I wanted to give the young man serving us. She then stood and glared at us until we left, it was pretty uncomfortable and bizarre!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJMFlVOW9jSGRuUW1OSGVFaFdVVWM0ZEhwSVUxRRAB",
+            "text": "iconic spot"
+        },
+        {
+            "date": "2달 전",
+            "language": "tr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paU1ZWZDJaVFp4YmtwUWJGZE1XV05VT0VKcFNuYxAB",
+            "text": "“Hiçbir şey hakkında bir dizi” sloganı ile gençlik dönemlerimizin efsane dizisi Seinfeld.  Jerry ve George’un yemek yerken geyiklerini yaptıkları görseli meşhur restoran. Yemekler idare eder. Ama orada bulunmak gerçekten keyifli. İçerisi Seinfeld karakterlerinin fotolarıyla dolu."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVelZXbEdSbkk0TUhsc2VWcGhVa2N4WlVsWllYYxAB",
+            "text": "Delicious restaurant, the famous salad is delicious, now I understand why it is so famous!"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNZbkpiNVV3EAE",
+            "text": "Good diner food, fast and efficient service, although the place can get very busy.\nIt’s in close proximity to the Columbia University campus. Not open during the night.\nThis diner was featured from the outside on the Seinfeld show. Quite the NYC landmark."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0Q1JGQlZSSGhGT0ZFelkyRXdRbmR3ZEdSS01YYxAB",
+            "text": "We did all the fun tourist things and this was great, we love Seinfeld so this was a must stop.  Food was great and our server at the bar was soo much fun, he made the trip worth it.  The food was great and the prices were too."
+        },
+        {
+            "date": "2달 전",
+            "language": "nl",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OUVlYWnRZa2xpWVVsblgwcExhV05ZVERONWQzYxAB",
+            "text": "We kwamen binnen als Seinfeld fan en gingen buiten als Tom fan!\nEen authentiek interieur, lekker eten en vriendelijke bediening.\nGenoten van ons avondje uit!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GRFJ6bDNiekl6ZFdOeVprMTVXRU13WlVGdVVGRRAB",
+            "text": "It was great to be in the restaurant where Seinfiled was shot. Food was good and service was Amazing. They do t have a/c just fyi for hot summer days. Or at least they don’t have it one when we are there in early August!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0VFozaDBXbXBGVm1GUGRXMDFabmcwY1MwelQxRRAB",
+            "text": "The driest chicken I’ve eaten in my life. Had to get it down with water like it was a saltine cracker.\n\nI’ve been in New York for the better part of a year and this is the worst restaurant food I’ve had. They did provide a piece of cheesecake for my friends mom’s birthday which was nice of them so that earned them a second star."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKSU9HbzJURkpxTjNkb1owaGpaMVozVnpkeldsRRAB",
+            "text": "I got the restaurant recommendation:\nSalad, Rosemary Chicken with roasted potatoes and Chicken noodles soup.\nEvery was bad.\nThe salad was awful because of the dressing (a thick vinegar salty dressing).\nThe Chicken was whatever and I don't think the potatoes were roasted... maybe boiled. And the chicken soup tasted like a canned chicken noodle soup."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oSlNFbG5VR0pXV214WFdXdDBTRWN3ZDE5QmFVRRAB",
+            "text": "In the must visit list of NYC"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "da",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlX1lPSF9RRRAB",
+            "text": "Nok mest kendt for at danne \"billede\" for Seinfeld cafeen. Men de har god kaffe og god betjening. Priserne er rimelige 🙂\nDer er hyggeligt med båse til 4 eller flere personer. Vi var 3 og fik bord helt uden problemer.\nOg så er den kendt for at Susanne Vega (angiveligt) på denne cafe blev inspireret til sangen \"Toms Diner\".\nSå er man i nærheden af den nordlige del af Central Park, har set Seinfeld eller hørt Susanne Vega er det bestemt værd at slå et smut forbi 🙂☕️"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSSFMxcDRPR1F6TWxaM1IzbHBRa2Q2Y2tGbk1IYxAB",
+            "text": "the \"assorted muffins\" option on the menu is really just one huge cornbread muffin with some grape jelly that tasted quite delectable"
+        }
+    ],
+    "reviews_count": 50
+}

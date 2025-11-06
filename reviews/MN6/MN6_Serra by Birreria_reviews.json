@@ -1,0 +1,579 @@
+{
+    "name": "Serra by Birreria",
+    "place_id": "ChIJ7X-_DaRZwokRnu0oxe0crlo",
+    "grid": "MN6",
+    "address": "200 5th Ave, New York, NY 10010, USA",
+    "rating": 3.9,
+    "user_ratings_total": 3006,
+    "phone_number": "(212) 229-2560",
+    "reviews": [
+        {
+            "date": "23시간 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psb2JVODNTbUpFZEVnMlYzcDBNbVZNTjI1RlNFRRAB",
+            "text": "Beautiful setting!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CamVFWnpXWEp5WlZKaVZWTmhTakpwT1hGcGMxRRAB",
+            "text": "Beautiful place but okay food and service"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkTWFEZFNTR1UyYzNVMVdYUk9VMGhUU0V4U2RWRRAB",
+            "text": "One of the best rooftop brunch experiences in NYC. Everything was fresh from Italy. Serving some of the best Italian breads, cheeses, meats, pastas, & the bartenders were excellent. Must experience."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCdlQxaDNNWGhTTnpSa1pXUk9lRzFZY3pGbU9HYxAB",
+            "text": "Everything (food, service and atmosphere) was average at best, overpriced for the quality and portions. We ordered off of their pre fix menu. Sourdough bread on the bruschetta was so tough, my pasta was unseasoned and undercooked. Had to send it back."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205ZmRVTkRPSGh2ZFZkVGNsVnZWVVYxVW1ab1IxRRAB",
+            "text": "Very charming atmosphere like dining in a garden but its actually indoor greenhouse space. Food is kinda tasty but its a little steep for the portions.\n\nProbably its just a one time experiences only. Great for group tho."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWcWVFbGxOSEp3VkVwdVNFWmtjWEJKTFRaWmRrRRAB",
+            "text": "I’ve been to Amalfi twice now and both times the managers completely ruined the experience.\n\nThe first time was over the summer. I think her name was Delana or Delayla — she was rude and short with me. I let it go because it was hot and busy, but still not how you talk to customers.\n\nSecond time I came back a few hours ago with my husband and the manager on duty, Ariana (heavy set with curly ginger hair), was honestly one of the nastiest people I’ve ever dealt with at a restaurant. Her attitude was disgusting. I even overheard her cursing at the front desk to the girls about her personal life — super unprofessional. She was rude to me too and I honestly feel bad for her staff if that’s how she acts all the time.\n\nAlex, our waiter, was amazing and the food was great, but Ariana and Delayla are the reason I’ll never come back. I’ve never written a review before, but she was so nasty it actually made me want to. For the amount of money we spent just to sit there sweating and getting attitude, it’s not worth it."
+        },
+        {
+            "date": "1달 전",
+            "language": "de",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tnNFdtaHVkM2N0U3paRFdrYzFPVWxPWlRoSVZWRRAB",
+            "text": "Mit großen Erwartungen und voller Vorfreude war ich so Enttäuscht,dass wir gleich nach dem Essen gegangen sind.\nDie Ravioli waren lauwarm,doch die schlechte Qualität hat mich am meisten enttäuscht .\nDie Sosse eine weiße Creme mit eine Art Tomatenmark.\nDas Brot dazu kalt.\nDafür war der Preis gehoben....\n100 Dollar für Bier ,Cola , Ravioli und Brot.\nWollte einfach nur raus.Schade...vor allem für die Zeit in NYC."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paRFNXVnFOelI1V1ZkbFYyVnBaa1pHWmxZMGRXYxAB",
+            "text": "The store was bright and cheerful."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4eVJqZFRRVll0ZFV0bGJVRm1Nak5LY3kxVFNGRRAB",
+            "text": "Ambiance and service was great! But the food and drinks are overrated."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21saU16QnlOVzlxWjJoMFkwRnpSelZZUkZSdlMyYxAB",
+            "text": "Staff went above and beyond to help."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCTGIwWldURzgyVmxkMVdUVkROSFppVm1ZdFQyYxAB",
+            "text": "The store had everything I needed."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21odFFteDFkbU5SYUVadWRUVTJUR0V6U0hsTmQyYxAB",
+            "text": "The folks at Eataly have created a unique and interesting greenhouse space on their roof that functions as a restaurant, called Amalfi and its current iteration. There are some lovely fake trees with lemons that decorate the space and create a welcoming vibe. Unfortunately, we felt that the prices were very high for what you get, which was mid quality pasta, and small portions. Drinks are fully priced, appetizers are fully priced and while the spaces unique, you are not getting any spectacular views. We had a small group of five people, and we each had one drink, it ended up costing us $75 per person with three shared appetizers among the table. I had low expectations going in, and those expectations were met."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxTVZsOTJORFp6U25Ca1VsbHJTMVZHY1dzNVFrRRAB",
+            "text": "We had lunch during the week and felt like I was on vacation :) Beautiful restaurant with very relaxing nice vibes. Service and food were great too."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSamVrbEJia001VWpaNE1qVldXRVJXV2paWVRXYxAB",
+            "text": "Always see fresh fruit displays."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OWlJta3dZVGRqVjFoYVVIb3pWRFZuV1RSNU4yYxAB",
+            "text": "I had such a wonderful experience at Serra! The food was absolutely amazing—the mussels were my favorite, hands down. At first, I thought my friends and I wouldn’t be able to get a table without a reservation, but the hostess, April, completely turned things around for us. She went out of her way to push tables together and make sure we were seated comfortably. I was honestly having such a horrible day before coming in, but April’s kindness and effort really turned it around. She went above and beyond, and I just want to give her her flowers—thank you, April, for making my night so much better!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kalNVSmlUMVJyYUVGYVJreG9iMFZOTFRkWlEyYxAB",
+            "text": "Little cute girl April with the long curly hair is so sweet! Def made the experience better"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1MFNHdFlaMEpsUmxWTWJsUlBSalp5U1hGRVFtYxAB",
+            "text": "With no reservations at around 1:30 we went for the high tops at the bar. While they said to go to the bartender to order, one was kind enough to come to us and was very attentive to both us and the bar over the course of the afternoon.\n\nStarted with the limoncello cocktails— the cucumber one was so refreshing— and the stracciatella with tomato which was delicious. My friend had the avocado toast which was brimming with avocado and I had the prosciutto and melon. The prosciutto was good, the way I prefer it, with a mild flavor, but sliced a bit thicker than my preference. The melon didn’t have quite enough of the rind cut off.\n\nGreat atmosphere and nice breeze despite the heat of the day— would definitely return."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWRlRreFhVblZSV21kT1dURlpNRloxZW10VVRIYxAB",
+            "text": "Always have the best time here, and this time it was for my birthday! Loved the new Amalfi theme and the lemon themed menu was perfect for the end of summer"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wek5HNWFYMjU1ZW5wUFV6TnRlVmxqU0ZvNVJYYxAB",
+            "text": "Lovely atmosphere with plants and lots of sunlight (at sunset, it can strike you right in the eyes for about 15-20 minutes, but put on your shades and imagine it’s the Mediterranean coast). The fresh made lemon pasta was good, but I needed to add more citrus. The branzino is NOT TO MISS!\n\nThe servers made it a special evening for a celebration with a warm welcome and complementary desserts! Thank you!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCZk5qVjZlRlprVWtWR01XOVJPR2xUUVV0UGEwRRAB",
+            "text": "I cannot review the food as we did not stay. This was a very disappointing experience for me. And I have been here three times in the past with very good experiences but today, very bad. First strike: I arrived a few minutes before my friend and told the host I would wait for her instead of being seated. When my friend arrived, I notified her (the host) and she said to give her 2 minutes. Shortly after that, she took her bag and left without a word to me. I had to notify another staff member that our party was there and we were ready to be seated. Second strike: my friend and I, both not Caucasian and both women, were seated and shortly after us 2 Caucasian men were also seated. They were served water shortly after they were seated but we were not. Third strike: Our table was by the window and the sun was pretty strong so that the vinyl seat was extremely hot. Some seats had blankets draped over them so my friend asked a server if she could have one to cover the burning vinyl seat but he said he could not give her one and to ask our server and then he walked away. At this point, we decided to ask for another table because the seat was too hot and there was no air circulation. The host was kind enough to give us another table but said she could not separate the ones closer to the bar, which were in more shade. So we agreed to sit in the partial sun. But still there was no air circulation and we were pretty much suffocating. Another staff member, a lady who didn’t appear to be in a uniform, then came and offered us water. We appreciated this but by now the damage had been done. We realized the conditions were unacceptable to us. We felt like we were in an enclosed space under the sun and without adequate ventilation and we felt very much disrespected when the 2 men who were seated after us were served before us. We left and had a very nice brunch at a much nicer place where we were treated with respect. I don’t think I will ever go back to Serra. This experience was shameful."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCNVZVNDNXQzB6TFdkSmFIUnpXamMxVVhoUE0wRRAB",
+            "text": "The venue is nice but the service is terrible. Went there for lunch and the place was not super full yet they struggled to provide proper service for what you pay. Also food was very basic nothing special. Not going again. Not recommend."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0b2VWZGlORUY2WWxoU2NFUkZkVVJWVm5wMFRHYxAB",
+            "text": "very cute rooftop, but be prepared it gets warm. visited every season but summer and it’s always a favorite of mine. great wine selection and cute cocktails! service little slow but not terrible."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205NU0yMDBNMUl3VFhSeFpuSnRkMWw2UjBwRE5rRRAB",
+            "text": "We came on this past weekend and met the pop up of “AMALFI”, prefect location of Flatiron’s roof top. Love the decor of lemon everywhere. Totally Italian country side style. Took the brunch menu, all the dishes with zest of lemon."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204MWFtaEtUamx2V2xoNlVFTlFRbE50YkVGYVFuYxAB",
+            "text": "Nice atmosphere and staff, but food is mediocre."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toMVExRmpSRkF0VDA0eVFWZE9ja2N5TFhGeFRYYxAB",
+            "text": "If you try to call their phone number you can hear the them picking it up and immediately hanging up. Why even have a phone at this point?"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKM1VrczBWa1UxYjJNM2JUWlFiVVZVTmpkYVZuYxAB",
+            "text": "Amazing Roof top next to Park and Madison Avenue in the City. Excellent service and good food. Better to reserve in advance. Ambience is quite nice."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGcmQwUlhjSGxpZG0wdE9IQkpRbUozYVhsaVZtYxAB",
+            "text": "Overpriced and not kid friendly, beware! Service very basic. Good food but so pricey and small portions"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213NWVEbE5hamRpV2pWWWRXczNOM0J3VUVWaVUwRRAB",
+            "text": "Great atmosphere, prices are on par with other places near by, and good service! Went to the bar area and was happy with the experience. Fun, great drinks. Had a few appetizers which were great, nothing spectacular but still was good!\n\nNo bar wait time on Friday night to get table or seat, but there were times it got busy in the bar area.\n\nI would like to come back for dinner and try an entree!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWU04yRXdNbXh0ZW1jd0xXMXlUVzFxYkZkemMxRRAB",
+            "text": "Sierra – Beautiful Atmosphere, but Slow Service. The atmosphere at the Sierra location was really nice — cozy and stylish, great for a relaxed evening. However, the service was quite slow, and we ended up waiting much longer than expected. The food was just okay, nothing too special. Overall, it’s a decent spot if you’re not in a rush and just want to enjoy the ambiance."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25vdE5WaERkRWMyVkZnMGF6bFFVR2RQWXkweU5GRRAB",
+            "text": "Had an amazing and excellent Italian food"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFd1JEVlhhelZ5TkZKcFJVUkhOa3BIVWxJelRFRRAB",
+            "text": "Lindo lugar y muy buena atención, tragos y postres muy ricos."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xReFNYQnhaR2x6Vmxod2FYUkZUVmczZVdSNWNWRRAB",
+            "text": "This cute rooftop was amazing. The atmosphere was great, and the food tasted very fresh and good. My drink wasn't as strong as I would have liked. The mojito was more club soda than the actual flavor. However, the espresso martini was on point and strong. The tiramisu dessert is a must. Our waitress was very friendly and nice. Loved the theme and all the detail through out the restaurant."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKU1FrcGFkVjl5YjBoQ2NqWnZVakYwVVRKTU9VRRAB",
+            "text": "We went to Amalfi at Serra because it was New York Restaurant Week and I saw that they had good deals for lunch and dinner. You definitely need a reservation because I saw a few people who were turned away who didn't have reservations.\n\nFirst of all, the rooftop was so pretty. Very instagrammable with all the vines and lemons and furniture. There is no view to speak of but the general decor and ambience is enough to make you think you're in vacationbin the Mediterranean.\n\nWe had a very tight window to eat and be done because we had a 7pm show to catch on Broadway but our server assured us the food would not take too long. We decided against the Restaurant Week menu because we didn't have time to eat a 3 course meal.\nWe started with the rosemary focaccia and the Melanzana, which was the eggplant small plates. Both were very tasty to begin our meal.\n\nI ordered the Mafaldine Ragu al Napolitano. It had a tomato-based sauce with lots of beef chunks. Very tasty. The pasta texture was nice and had a good bite.  My sister had the Scialatelli Allo Scoglio which  was the seafood dish. They definitely five you a generous portion of seafood. The sauce was nice and light and very apropos for the vibes. Both these dishes were big servings. We really could've split a pasta and gone for another appetizer. Instead I ended up getting the rest of my pasta to go.\n\nOur servers were so on top of everything. There were a few just looking to male sure that your water is never empty. Very attentive and we did get out of there on time!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toRWJVOVNWbGR3TW5GWFpHWm9SbHBRUVZsbVJsRRAB",
+            "text": "Went for my birthday and the food, drinks and staff were the best! Loved the mortadella with pistachio pesto, the burrata, as well as the steak! The tiramisu was delicious and probably the best I’ve had! Reasonably priced as well for the location, atmosphere and quality. Definitely will be coming back"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psVFlUQlhRMmxvZWtGaFZ6ZHRVMUJEUzJZMmJGRRAB",
+            "text": "I’ve been here several times now and keep forgetting why I go back. The location is great! The restaurant is usually decorated nicely. The food is only ok. This time at Amalfi pop up the melon with the prosciutto was unripe. And it was kind of gross. My pasta was dry. Overall the food is mid. The cocktails were nice! The service is what really makes it painful. You have to constantly flag people down to order, to clear, to get the check, etc. Overall not worth the trip except maybe to sit at the bar and have a cocktail and snack."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVelZ5MWlWekpETldkTFJGRmpNa1pGTnpWcVdWRRAB",
+            "text": "The food was so disappointing and extremely overpriced. I ordered a Caesar salad that was almost inedible. The calamari was like cardboard. The rooftop was lovely but extremely stuffy since it is completely enclosed."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0UGJtUk5jMGRKVmtKYU4wRmZXREoyYmsxc1oyYxAB",
+            "text": "I mean wow what a waste of our time.  The most terrible service I have ever had in the history of living in New Jersey and New York.  I mean the people running these businesses are terrible and ill trained.  Service is no longer a factor just greed and no no experience what so ever!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pRd2VWWkVaakJMZGpKNVNUQXRNV2hJVm10Q1NsRRAB",
+            "text": "I was surprised by my family and friends with a reservation to this restaurant for my bachelorette weekend.  I was so excited when I arrived due to loving Italian cuisine and rooftop dining however this was far from even a decent experience.\nFor starters my family called ahead to confirm they would be able to accommodate me due to some restrictions but when got there we found from our waitress (who could care less) that this wasn’t true.\nThe waiter we had was very standoffish and slightly rude.  He came to the table, never provided his name and seemed impatient. When we asked where the plant base based options were, he distastefully answered to check the menu, which we already did.\nAt first I thought this was just a rule for plant based dishes but when we asked about other dishes he said there would be no changes, even for dietary or allergies. Every question was answered with an attitude.\nAfter such rude service and having employees providing incorrect information over the phone, this isn’t a place I would return to."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSYVNIRXpOWGt0TVRScU4wUk1jbTQwUWtkNGRuYxAB",
+            "text": "When I say terrible I mean TERRRRRRIBLE.  I always try to support good businesses with my patronage but some places just need to be shut down for lack of DECENT SERVICE and just kindness.  A very special evening was ruined and this place left my group feeling extremely dissatisfied.  My very respectful family of 9 arrived to our reservation and were barely even greeted by our server properly.  It’s too much to write my feelings are still tangled with emotion."
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sMWJEbFJPRjk1TFdKMGRqUktOakUzWVZVdGIxRRAB",
+            "text": "I'm so happy I came here for dinner. It might be touristy but it was the best meal I've had in a long time. So fresh. The focaccia bread along with cesar salad and shrimp were fantastic. I'm now obsessed with limoncello spritz."
+        },
+        {
+            "date": "4달 전",
+            "language": "ru",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBd2RVbFdUblZQYlU1MVVUWnNWRUZWVDFwblEyYxAB",
+            "text": "Приятное место. Вкусная еда. Меню как в ресторане на первом этаже. Удалось почувствовать себя немного в Италии."
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkdlRITktRbTlNTjFCMlNHZGhXazFSV2xsTFVFRRAB",
+            "text": "Mucho calor y no hay ventiladores. En esta estación de verano sentía que me iba a dar un golpe de calor en la terraza."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VQN0k1NzZFb05hYWJREAE",
+            "text": "Nice space but on an empty afternoon with half the tables open, they won’t seat you for antipasti and a coffee.…"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNVzI2OTdnMnVqVkJ3EAE",
+            "text": "Been to this rooftop years ago and again recently (June 2025) for the Amalfi pop up. Great service, beautiful decor, great drinks, and a good vibe. We were here very early. So it. Wasn't crowded yet. Tourists go here but if you go early before the crowd it's a nice spot to grab a rooftop drink on a nice day. Hot in the summer however. So, if you don't like heat, come during a cooler day."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJZjlvTnZYMS03TWhnRRAB",
+            "text": "Highly recommend this spot for a date night or lunch, food was delicious and server was friendly and makes night even better.\nXhesila was very friendly."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VMR3A1dHFFbWM2MWNREAE",
+            "text": "The place is really beautiful, but unfortunately the food was disappointing. I ordered pasta (I think it was supposed to be Bolognese), but it tasted more like ketchup with minced meat — like a bad version of sailor-style pasta. We also ordered two Hugo cocktails, and they were so sour it made our eyes water. On top of that, the restaurant was quite dirty inside, which really took away from the overall experience."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQcXl3SW4xcDZucWpBRRAB",
+            "text": "Excellent lunch and great service. Grazie!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJUHZyXzNBa3ZLZlZREAE",
+            "text": "Beautifully decorated and the food was amazing."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VPdW0zWXprdzUyVWRnEAE",
+            "text": "Experience was fine. Just very mid. Service fine not great, food was fine not great. Atmosphere beautiful but cheap furniture fake lemons all over the entire place floor to ceiling."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvLWNuT09BEAE",
+            "text": "SERRA by Birreria is an absolute delight—a true escape in the heart of the city. The atmosphere is stunning, with its seasonal decor and greenhouse vibe creating a cozy, inviting space. The food is fresh and flavorful, and the cocktails are as beautiful as they are delicious. What really makes it special, though, is the vibe: laid-back yet elegant, with friendly staff who make you feel right at home. Perfect for a date night, a special occasion, or just treating yourself to something memorable."
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQyODZlQkh3EAE",
+            "text": "건강한 재료 이태리 재료들로만 요리하는 곳 루프탑 레스토랑 아름다움과 맛있는 요리를 둘 다 누릴 수 있는 곳 행복한 시간이었어요 serra Thanks"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVNkt6YnZRRRAB",
+            "text": "사람이 많아도 너무 많아서 음식은 못먹었고 올라가서 사진만 찍고 왔음. 이쁘긴 함. 현지인들의 핫플레이스인듯."
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNvd3BXcV93RRAB",
+            "text": "인스타그램 세 명의 뉴욕 foodie가 거의 동시에 소개하길래 속는 셈 치고 지난 가을에 점심때 방문. 휴일무렵이라 가족손님들이 있었지만 Bar가 있는 rooftop 이라 연인들이 절대 다수. 음식맛은 평범. 서비스는 나쁘지 않은데 입장하는데도 시간걸리고 전체적으로 음식 주문하고 받는데까지 너무 오래 걸림."
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzbjlIOVdnEAE",
+            "text": "솔직히 인스타에서 사진스팟으로 유명한덴데 자리 벽쪽으로 앉으면 사진절대 못건짐 사람도 너무 가까이 앉음 음식은 정통 이탈리아 음식이라 입에 안맞음 내가 갔을 때는 하다못해 스파게티도 없었음 닭요리 시켰는데 무슨 신맛이 남"
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNdklIbmFREAE",
+            "text": "밥 먹으러 간다기보다 그냥 사진 찍고 오는게 좋음. 사람이 너무 많아서 제대로 서빙도 못 받아요."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3b3BTYUVREAE",
+            "text": "This is the kind of place you visit for the atmosphere. The decor was impressive. We were immersed in the Alpina pop-up experience and took plenty of pictures. The service was top-notch and the server delivered above and beyond. The food was good however it wasn't the best Italian food I had. They should better their food game. After all, they're located in Eataly… I understand the neighborhood calls for higher prices, but considering the quality of the food and the portion size everything on the menu is simply overpriced. I would visit again depending on what decor they decide to put in place next."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmb2RIMTRBRRAB",
+            "text": "My wife made reservations due to the Christmas theme she had heard about, but it definitely wasn't decked up like the picture she saw, which was a little disappointing.  It was still pretty but seemed very basic.  Also, I thought the menu was a bit limited.  Service was pretty good, but we had long waits between seeing our server.  The food was solid. I didn't think it was anything amazing, but it was good.  They did give me a nice little birthday chocolate and then surprised me with a dessert, which was very nice.  Good place, and I would definitely come again. Maybe in warmer weather, you get a different view."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2dC1LMUVREAE",
+            "text": "The customer service was good. Our waitress was timely and polite.\n\nThe food was delicious. The appetizers are on the smaller side. My party of four had three appetizers to share which was enough. The pasta I ordered was very delicious.\n\nThe overall atmosphere was nice. The restaurant was clean and pleasant.\n\nOverall, I am happy with my visit and would return."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvdHRUS2RREAE",
+            "text": "Love the ambiance and the quality for the food! The drinks were exquisite and well presented and the staff was super nice and friendly. Highly recommend visiting if you’re ever in town!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIaXVEemJREAE",
+            "text": "Excellent food and cocktails, and the only rooftop bar I could find that I felt super comfortable taking a baby to! Definitely a great spot and they change the decor seasonally, which makes it feel like a new experience every few months. I was happy with everything! The market underneath is also something to behold! I could have spent an entire day just at the market!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3NHRULWF3EAE",
+            "text": "This rooftop is absolutely beautiful! They change the decoration every single season! Not just that, but the food and service are excellent!! We will remember this as “the place where we’ve had the best Tiramisu ever”. We got a table during week day, without a reservation. However, I do recommend getting a reservation ahead, as this place can get pretty busy at peak hours. I will definitely return. 💯 recommended!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMclpEWVVREAE",
+            "text": "My son wanted to celebrate his birthday here while we were in NYC. The rooftop restaurant was absolutely beautiful. We loved being surrounded by the blossoming trees. Unfortunately, the service dampened our experience. You could tell that our waiter didn't want to serve us. He would take forever to come to our table to do anything. On top of that, the food was just okay. I think the best thing was the tiramisu."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQN3REdGNBEAE",
+            "text": "SERRA by Birreira presents a dining experience that can be pretty polarizing. The ambiance is undoubtedly striking, adorned with stunning decor that captures the eye and creates a captivating atmosphere. However, the quality of the food often falls short of expectations. I've noticed that the menu tends to evolve with the seasons, and my experience was considerably more pleasant during their spring offerings. In contrast, their winter menu has been disappointing.\n\nDuring my recent visit, the food was served cold, and it took excessive time to arrive at the table, indicating a lack of attention to service. Even more disheartening was the flavor profile of the dishes, which were bland and uninspiring. To add to my dissatisfaction, I found the portion sizes to be significantly smaller than what I had experienced just eight months prior, leaving me underwhelmed and unfulfilled.\n\nOverall, my perception of SERRA has shifted dramatically as I’ve witnessed a decline in food quality and service standards. Unfortunately, it now feels more like a tourist trap than a genuine dining destination. For those seeking authentic Italian cuisine, I firmly believe there are far superior options available on the first floor of Eataly, where you can find restaurants that prioritize flavor and guest experience."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQcTdQbG53RRAB",
+            "text": "So beautiful and great food!\n\nCame here for a work lunch, 6 of us in total. Our boss also got some wine as well. We shared some AMAZING apps, I especially loved the suppli (arancini) and zucca (squash). Bread was delicious, so amazing we got 2. And for my main I got the Halibut which was cooked to absolute perfection! It was warm and came apart so flakey and so moist!! Crispy exterior was so nice and crunchy."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2MGRIT093EAE",
+            "text": "While visiting NYC on Thanksgiving, we ate dinner at Serra by Birreria.  This is a rooftop bar above the Eataly, and it is an impressive restaurant serving Italian cuisine.  We started off with a charcuterie board, and the bruschetta, which has whipped Calabro ricotta, roasted squash with truffle honey.  It was outstanding.  Since it was Thanksgiving, I had the turkey special with stuffing, squash, cranberry sauce, and brussel sprouts.  It was so delicious.   Our server was very attentive, and it was an exceptional dining experience.  I highly recommend Serra.  The bar looked very cool, and I would love to come back to have a cocktail at the bar."
+        },
+        {
+            "date": "6달 전",
+            "language": "it",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvNjVpdHd3RRAB",
+            "text": "Rooftop molto carino come ambientazione ma non si vede “fuori” nonostante si sia all’aperto. Cibo italiano ottimo, di qualità e cucinato bene. Servizio al di sotto dello standard americano e anche una piccola fregatura sul dolce: dichiarato come fragole e gelato alla panna ci è arrivato un gelato alla fragola con sopra della panna. Prezzi nella media."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYdDhMNlJ3EAE",
+            "text": "This restaurant was the highlight of our New York trip.  Our waitress Katherin made our evening! She was attentive, knowledgeable and fun 😁\nThe food was amazing and the price on point for a restaurant of this caliber.   It may seem expensive to anyone not familiar with this type of dining.  We had the squash appetizer.  I had the squash ravioli and my husband had the halibut.  The masterpiece though was the Tiramisu, exquisite presentation and amongst the top 3 desserts I've ever had.  Will not go to NY and not eat at this restaurant.  Cannot recommend enough.\nOne downside, it's a rooftop restaurant but without a city view.  This is more than compensated with the food and service."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIakkybTZBRRAB",
+            "text": "Serra was an unplanned stopped but we wanted a rooftop in the area and that fit the bill. While it can get really crowded, we got there at a time where it was perfect. Nice, well decorated space with a pretty good menu of drinks and food."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3dy1fMWl3RRAB",
+            "text": "The place is at the Rooftop floor 14th, with a nice atmosphere,  a little bit hot at 1700 today. There is a happy hour from 1600 until 1800 at the bar area, with some drinks  and scarce of bites to choose. It is a good place to spend or share a nice time with your love or friends. The bad thing is everything you need to order with the bartender,  I had to wait a little bit because at that moment there was only 1 bartender."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqZ0tIeW53RRAB",
+            "text": "Serra was a vibe, we had such a great time! We got the Hugo spritz to drink and it was perfect for our brunch energy. The food was great, our favorites were the burrata and the arancini. The wait staff was really kind and attentive. The overall aesthetic is so cute. Would definitely recommend checking this spot out!"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCb3VMOTh3RRAB",
+            "text": "Came here with a buddy and had a fantastic lunch. Highly recommend coming between 12pm and 4pm to beat the crowd during the weekdays. It was relatively quiet when we went. I made an afternoon reservation online using OPEN TABLE, and did it 2 days before with no problem. By the time we were leaving it was very crowded so for a dinner spot, I would say to definitely make sure you book as far in advance as possible since it looks like it fills up fast.\n\nHad the zucchini croquette and it was great.\n\nThe grilled bread and burrata were okay. Good…just nothing out of the ordinary.\n\nThe olive oil they gave us to go with our bread when we sat down was okay. Again, good…but nothing fantastic.\n\nNow the tagliatelle was fantastic!\n\nService is absolutely fantastic. Everyone was super friendly and helpful.\n\nThe atmosphere here is tremendous. Beautiful decorations all around.\n\nGreat place to grab a bite in midtown. HIGHLY RECOMMEND!! 🤜💥"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxZ3BUcUxnEAE",
+            "text": "This restaurant is beautiful, the content and decoration. The drinks are good, the food is good, the pasta delicious, the proscuitto delicious, the potatoes crunchy, the steak is a regular steak is not something out of the other world. The waitress only stopped by twice to check on us, I feel like they are a little slow in service."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzNExpcVVREAE",
+            "text": "Very disappointed experience. The restaurant was looking good and had good reviews, so me and my wife make reservation. Unfortunately we didn’t get our meal, we were waiting for our pasta for 45 minutes, and we just left.\nThey didn’t even try to hold us, they could make some complimentary food for long waiting, but instead they suggested to wait a little bit more."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwcXQyaTdnRRAB",
+            "text": "We came here on a week night to enjoy dinner and the gorgeous ambiance. The ambiance gets top scores from me. Beautifully transformed into a garden, even getting a drink here makes you feel good. We got the risotto, chicken and the sausage…"
+        },
+        {
+            "date": "2년 전",
+            "language": "it",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwN2MzbzdBRRAB",
+            "text": "Prima volta che pranziamo da Serra, il ristorante sulla terrazza di I Italy , ci siamo trovati molto bene, anche se coperto da vetrata l’allestimento di piante e fiori lo rende molto piacevole e fresco. Abbiamo approfittato di un offerta della settimana di due piatti abbinati a 30 dollari a persona, è valido in valido in vari ristornati. Abbiamo pranzato molto bene, sono stato molto soddisfatto della mia cotoletta alla milanese, veramente buona !!! Difficile trovarla così a NY in genere la si trova solo di pollo . Un antipasto di verdure anche buono e non abbiamo resistito al pane rustico con olio .. tutto buonissimo. Totale 86 euro compreso Tips . Servizio ai tavoli anche molto buono ."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNacG9QeXFBRRAB",
+            "text": "Just had an amazing lunch at Serra! The rooftop was so beautifully decorated. The service was on point. The food was incredibly fresh and delicious. Haven’t had this good of a meal in a long time!\nWill be returning for sure (perhaps on a cooler day but we were perfectly comfortable under the fans!)\n\nDon’t miss the panzanella salad. The peaches tomatoes and cucumbers are perfectly in season and it was so refreshing. The lemon ravioli was also delightful. Everything was 10/10"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURxb2V6SFZ3EAE",
+            "text": "Good place for dinning and we were celebrating a friends birthday so had a great time. The decoration was amazing but make sure you get a table u der shade because the sun was on top of us and they didn’t have enough fans to keep cool. The…"
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxMnNxZHJRRRAB",
+            "text": "Gorgeous rooftop restaurant with delicious food and amazing drinks! I tried the build your own cocktail and it was unique and a fun experience!\n\nEvery single dish was better than the last, but i HIGHLY RECOMMEND the skewer sampler. It was simply delicious!!\n\nService was great, although reservation time is limited to 90 minutes, and theres a bit of a rush as you approach your time limit.\n\nCannot wait to go back!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNncHBLZnl3RRAB",
+            "text": "We have been regulars at Eataly and 1st time to this place. Our expectations for Alipne experience was different but when we reached it was underwhelming.\n\nService, top class. Food - average other Eataly restaurants are far better. Will we visit, recommend this place - probably no. Eataly other spots - 100%. Just love Le Pasta, Le Pizza!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6azZ1SkF3EAE",
+            "text": "The food was excellent. We enjoyed wine, foccacia, calamari, casaer, lasagna, halibut and the winner spaghetti with burrata. The food delivery gentleman put the burrata on the pasta tableside...I was drooling. It was so good. Highly recommend"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2dDVMY2xRRRAB",
+            "text": "SERRA by Birreria is a breathtaking escape from the hustle and bustle of the city, truly living up to its name as a “greenhouse” oasis on the 14th floor. From the moment you step inside, the vibrant ambiance and lush greenery transport you straight to the idyllic countryside of Southern Italy.\n\nThe menu is a masterpiece—each dish is fresh, flavorful, and beautifully presented. Every bite was a delight! The craft cocktails are equally impressive!\n\nSERRA’s attention to detail in both the food and the atmosphere makes it a must-visit destination. Whether you're celebrating a special occasion or just looking for a serene retreat, this spot is guaranteed to impress. I can’t wait to return!"
+        }
+    ],
+    "reviews_count": 81
+}

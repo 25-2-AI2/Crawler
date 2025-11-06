@@ -1,0 +1,677 @@
+{
+    "name": "Joe's Shanghai",
+    "place_id": "ChIJ2XIY-CZawokRokUjxBSl5hw",
+    "grid": "MN2",
+    "address": "46 Bowery, New York, NY 10013, USA",
+    "rating": 4.2,
+    "user_ratings_total": 6007,
+    "phone_number": "(212) 233-8888",
+    "reviews": [
+        {
+            "date": "22시간 전",
+            "language": "nl",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xR1drVk5UazF4UzFsYVdXNTBibk14ZUY5dk5HYxAB",
+            "text": "We kwamen hier in de avond eten op een weekdag. Reserveren is misschien wel nuttig. Want het restaurant zat helemaal vol.\n\nAlles wat we hebben gegeten was zeer lekker. De porties waren wel groot, dus delen is aangeraden.\n\nDe service was ook zeer vlot en vriendelijk."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGaVVHVlZVM0ZaU1hGaGFqZHlZbmxYY2pGb1JVRRAB",
+            "text": "Since they moved to new location service has kind of been slacking. The atmosphere feels to touristy not the hole in the wall hidden gem like there old spot. No complaints about the food. Just know it’s strictly cash (maybe easier to launder money) and they add 18% tip on top of your order."
+        },
+        {
+            "date": "1일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOcVMwdEtUMUUwYTBGSFFWbEhZekUzUVhScGJsRRAB",
+            "text": "Buena comida"
+        },
+        {
+            "date": "수정일: 2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNaVU1cTdEbTc3cVB3EAE",
+            "text": "I've been coming to this place since 2016 because the food is very good, but the bathrooms are always too dirty. It's a shame that they neglect this area, as it's part of providing good service."
+        },
+        {
+            "date": "2일 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoS2EzTnZjak5oV0U1TlYwVkNTSEZoYlZWcVYwRRAB",
+            "text": "on s'y régale de dumplings et autres incroyables plats chinois, mon adresse préférée de Chinatown"
+        },
+        {
+            "date": "4일 전",
+            "language": "ja",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5R1pEUjJORFkxVFU1Nk1GUlpWVGMzUlVnNVRtYxAB",
+            "text": "小籠包が有名なお店です。食事中にはひとりで来店して、小籠包のみオーダーして食べて帰る客を何人もみました。注意点はランチ時間だけかどうかわかりませんが支払い方法は現金のみ。店舗の入口にはキャッシュディスペンサーが２台も設置されていました。\nたまたま大雨のおかげでランチ時間過ぎの来店でも並ばずに入れました。各国の旅行者にも人気のお店です。"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tadmRHeEZhSGt0ZVRGUVMxZHdjRk5EYm1WaVJuYxAB",
+            "text": "i dunno never been to america or joes shanghai but ill give it a 5 anyway because joe sounds like a nice guy"
+        },
+        {
+            "date": "6일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paMVlYRnBOREpMVVZaUFFVUlRVRmxOUzNCRVNYYxAB",
+            "text": "Recomiendo esta opción en el barrio chino. Comimos rico, abundante y a buen precio. El lugar está bastante bien ambientado, limpio. Nos atendieron muy rápido y estuvieron muy atentos. El plus de ofrecer agua y la naranja de 'postre' es un buen detalle."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WbGJIRXlUR1pyZFdJM1EzVlFhblpPWW5kdmVHYxAB",
+            "text": "Food was great not crazy expensive and we love sharing the table with unknown friends"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSdVFteENhM05xY2pSNmRITnZOR3RHU1hkdmJHYxAB",
+            "text": "FRIED PORK! Ok so apparently they are extremely known for their soup dumplings which we obviously ordered… and yes they were very good. However the fried pork entree which we split amongst 6 grown men, was by far the best pork I have eaten. The pork was served with a side of salt and sauce. Mouth watering and fried to perfection. The restaurant is very big and was packed which is always a good sign. I have nothing but amazing things to say. My one suggestion is to ask for a side of chili oil. Not too spicy but just enough kick."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KeVIwMVNRV1F4Y2w5eFJXUlpZVzFwZG5CSlRYYxAB",
+            "text": "make too leate evry time"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aamFWZHNlVkF5YjJwME4wWmlUM2N3Vkd0cVRYYxAB",
+            "text": "We ate lunch here on 10.19.2025 (see attached bill). Dumplings tasted weird, my guess is because of the poor quality of pork. General Tso chicken was hard. They bring you food and the check – this is extent of their service. But they put 18% gratuity automatically into the bill, which is insulting. Overall – no atmosphere, no service and mediocre food. I will avoid this place in the future."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201VVZIVXhTWFF5ZURkblZtVk1SeTFhUm5OUlgwRRAB",
+            "text": "My friends and I recently visited again, after a long time. The taste and general ambiance has not changed. The food was served super fast, tasted good, and the place was packed but felt very comfortable. All i would say is the entres are family size and lo mein is a bit salty, so be prepared... but everything else we ordered was perfect."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KaWVVcFpiVVJZTVc5T01rVnZaRWRTTWtsRVJtYxAB",
+            "text": "The food is disappointing.\n\nWe had high expectations on the soup dumpings and it was not good at all.\n\nNoodles were a bit overcook and the food was overall not worth it."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xaU4wSlVaVGQ1VjNCV1pqTTRWakZrTmpWM1pFRRAB",
+            "text": "Honestly the food was not good. We went there for the soup dumplings and they were bad, the soup seemed like oil and water with no flavour.\n\nThe place is nice and the service was good but the food was just not there"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCR2ExVkpabFF4UzBKNWJEbERjVTEyUldSak9IYxAB",
+            "text": "Wonderful place! Great food, lovely staff, spacious. As good as it gets!Have been going to Joe’s for 55 years,"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kQlJtMUtZMDV6VVU5VGNWVnFWRXhOZVZWWFYzYxAB",
+            "text": "Amazing soup dumplings. Good noodles.  No line to wait.  I believe this is a cash only establishment."
+        },
+        {
+            "date": "3주 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WNWRGOUZRbmt4TVVaTlVISXlaM0E0WkhSTU1FRRAB",
+            "text": "맨하튼 차이나타운 중국음식점"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWS1R5MXJURzVIUVRGRE9GSlNWR3RLWVdSRVJuYxAB",
+            "text": "Overall, a nice place.\nIt’s not a fancy restaurant, but a simple one with good service.\nThe food was tasty, and the atmosphere was pleasant — a bit noisy, but that’s just the vibe of the place."
+        },
+        {
+            "date": "수정일: 4주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvdllLODdnRRAB",
+            "text": "Joe's is OK at best. Honestly, I'm not sure what all the hype is about. First they seated us and made us wait over 15 mins to order. While waiting, guests seated after us had their orders taken. Ok, fine. The food was good, or so it seemed. We got pork soup dumplings, scallion pancakes and General Tso chicken. The dumplings were the best of all 3, the pancake was slightly overdone and the chicken was on par with neighborhood General Tso's, i.e. just average. My biggest problem with the food came the next day, today, as I write this. Their offerings were unkind to my stomach to say the least. I would avoid if you cannot risk dealing with mild food poisoning the next day."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSNmVIZzBTbkp4WkdoVFNXNXNVMWx6WlRBemRrRRAB",
+            "text": "Best soup dumplings and great food."
+        },
+        {
+            "date": "4주 전",
+            "language": "pl",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pnNVNtaFNOR2d5ZDJKU1dXRk5ZM0JJUmpSWlZWRRAB",
+            "text": "Zjedliśmy tu bardzo dobre pierożki z zupą. Przystępne cenowo, miła obsługa. Płatność tylko gotówką."
+        },
+        {
+            "date": "1달 전",
+            "language": "de",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsMVFUWjBlV05vVG0xSWJUQnBlRGh5WkhCaWFWRRAB",
+            "text": "Essen war ok, nichts besonderes. Wobei sie wohl für ihre Peking Ente bekannt sind, diese hatten wir nicht.\nMan kann keinen Tisch reservieren, sondern wartet einfach draußen in der Schlange und bekommt Wartenummern. Drinnen ist es sehr voll und laut.\nAber dafür sind die Portionen wirklich riesig."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sZlFUZzVjRmRtVVVGTVdrNURaMnBwUzA1cFZrRRAB",
+            "text": "The food was pretty disappointing, seafood was not fresh on the  seafood pasta, beef was way too sweet on the orange beef, service was not that pleasant either."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KVlVFdDFUMWR6TTNSa1UyZDBRVVZIYlY4NWFuYxAB",
+            "text": "The crabmeat dumpling here is amazing, thes best I’ve tried."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaTmRWOUVjekV3U1hwWGJ6aGpUSFppYW1jNVUwRRAB",
+            "text": "Miss the atmosphere of the original location on Mott street"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsZlRXTTNPVEJXYWxac1p6ZGpSRGhoUmpRM01tYxAB",
+            "text": "Great food, great service, cool atmospher."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGNU1qUXdVVmxGV1c4NWJGcFdRVVY1TlVwWmJFRRAB",
+            "text": "Dissapointing... Went there for a late evening finishing dish...\n\nWe had:\n1. Braised beef cold apetiser\n2. Vegetable dumplings\n3. Shrimp soup\n\nWe disliked:\n1. Mediocre, fatty piece of Beef with acceptable taste, as a cold starter tastes relatively weak, no side at all, would go well with a sauce or vegetable, bun...\n2. Missed sou sauce or any other sauce, very plain\n3. Absolutely tasteless, no seasoning at all, we left most of it untouched...\n\nAppalled by the first 3 dishes, decided not to go for the main.\n\nAbsolutely appalling for such an expensive chinese restaurant.\n\nThe only really tasty thing was a Heineken, which came to the table only after a second reminder to the waiter..."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVNVZISlZNM0pTVEhkNGNYRnFSakZIZFdNMVZYYxAB",
+            "text": "Such amazing food, staff and atmosphere! Will definitely be coming back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkVFZtbE1jVUkyZWtObmRUTmpUVU5UZHpSeFNYYxAB",
+            "text": "Cash only! ATM is upstairs by the bathrooms. Grab a spot before dinner rush for a quiet meal. 4-5:45 pm is a sweet spot! Scallion pancakes, steamed potstickers, and Sweet & Sour chicken are family favorites. Elevated flavors, with simple ingredients that shine."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJMFdHNUZhUzFyWW01V05rRkdiMnRhWlVKNlZYYxAB",
+            "text": "Authentic food or so says my friend from China"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkNGJXNVRjbTFwVG0xTE5scDZTbVJ1VjJWVFkxRRAB",
+            "text": "Joe's is an experience. Small groups or large. Get there before dinner rush if you don't want to wait in line. Try everything. It's all good."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214bFRGVjJiVFI2Um5aSU1XbGlORWxzWld4T2QyYxAB",
+            "text": "What an amazing first experience in china town! Food was phenomenal and the service was great."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SdGRHUTBVVTgxTWxZME1VRjZjbTFWZWtocVJuYxAB",
+            "text": "Stopped here for the soup dumplings and they did not disappoint! They were\nincincredibly delicious and flavorful! The service was quick and friendly. They are very popular so there was a little bit of a wait but its definitely worth waiting for! They also only take cash but do not worry because there is ATMs on site. That being said yoj definitely have to stop in here for the soup dumplings! The general tso chicken is also delicious a little heat with quick nice sweet crunch! Definitely would go back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsRGJFSjFOMko1Tm14NlF6Vm5XbTVEVW1kQ09IYxAB",
+            "text": "這邊的上海小籠湯包真的是非常好吃，比起鼎泰豐真的是好太多。\n上回在台灣吃鼎泰豐的上海小籠湯包，他家的小籠湯包，看起來像似燒賣一樣，是沒有湯的湯包，唉！失望，"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FMFJrbDRjMWROT1hWUlZGbElZVmxUVldaVVNuYxAB",
+            "text": "I recently tried Joe’s Shanghai and the food was amazing! The chicken was incredibly tender, and the sauce was packed with flavor—it really stood out. The white rice was perfect: soft, fluffy, and not clumped together like it usually is at other places. The portion size was generous, easily enough for two people. Overall, a delicious and satisfying meal. On top of that, the delivery guy was excellent—prompt, friendly, and made sure everything arrived hot and in great shape."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xRMWJuTklaWFp0VUVveE0zQlhZMUJmU1RCU1lVRRAB",
+            "text": "The best Chinese food!!! 10/10!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKelZGRktTemhVWmtSSk0xaDVhVEJzYlZWc2RXYxAB",
+            "text": "A little rush after you finish the plate. I didn't like the idea of only cash, it's very inconvenient for the tourists. Food wasn't what I was expecting. Overall is good."
+        },
+        {
+            "date": "1달 전",
+            "language": "pl",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWb1VDMDNXVTU2YTFWaWMxZGlVSE5sVFRnMlNIYxAB",
+            "text": "Nowoczesna restauracja, ceny przyzwoite, obsługa ok.\nPrzyjechaliśmy tu ze względu na słynne pierożki  :) nie są złe warto spróbować ale ten smak trzeba lubić. Porcje są spore więc warto nie zamawiać zbyt dużo, tylko zjeść i domówić coś więcej.\nReasumując będąc na Chinatown polecam odwiedzić."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwTVNEVTNOa3hWYzNBM1QzTnBPVEZtWVRGWlltYxAB",
+            "text": "Muy mal no les recomiendo nada ahí en ese restaurante"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIb3FIVXhRRRAB",
+            "text": "Always great Chinese restaurant!\nNever disappoints, share big portions family style"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taU2MyMXVXRUpPU2toZlpVMXZTVFZKVlhvek5WRRAB",
+            "text": "What happened to Joe's Shanghai! It used to be SOOOO GOOD but the soup dumplings are so bad. Very sloppy job. We ordered 4 orders of crabmeat soup dumplings and some of the soup are even spilled out and the flavor is lacking. Very watery and not good at all. We also the peanut sesame cold noodles and there was a tiny piece of plastic in there but we didn't even bother saying anything. We order their special shrimp in honey glaze sauce, it was okay. It's sad that Joe Shanghai's soup dumplings went down tremendously. Very disappointing."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WSlgxaDFaM2QzVUdjd1NuTklRMWN5TlhObUxWRRAB",
+            "text": "The food is still good specially the soup dumplings however the place lost some of it’s charm. I miss the gold fish at the entrance, no cleaning the table with tea, many standard seating and no spinning round tables. I used to love it that you are randomly seated with people at a table and sound the hot sauce to each other. Also the location is now on a main road and not in the narrow streets. The more so called clean modern decoration doesn’t work for me. Seems that the crowed also changed and is less Asian. I still recommend it if you love Chinese food that is good for western taste."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1eGEwZHRlV0ZKWjJKdE5URjBWamhSUlZwb2NXYxAB",
+            "text": "Salt and pepper prawn was excellent!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZeGFEVTJjVGd6VEV0bVIxaEJhbkZoWWxKelRuYxAB",
+            "text": "Delicious food, Cash only! Get the pork soup dumplings."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsdmFIa3RXbnBZZVVKTlNHNHhPRnB0T1ZwbldFRRAB",
+            "text": "The soup dumplings were flavorless but the pancake scallions were good. The only flavor I tasted came from the sauces. This restaurant is very gentrified restaurant and the target population seems to be white people.\n\nService was however good and they were nice."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OVVpFbE9XblJPTkZaeFIwVjFOMnBCYldkdVpWRRAB",
+            "text": "The most unpleasant overstimulating rushed dining experience located in the heart of the most chaotic part of Manhattan. Bland unseasoned lukewarm food. Cash only establishment. We asked the waiter to give us five minutes to read the menu and he came back in one minute and said five minutes are up. Once payment was ready three different waiters came by and tried to take our check while my friend went to the atm to get the balance of cash needed ($1). I will not be returning."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1dU5sTktibVkxWjI1a1JFaEpNV05zUjJNd2RrRRAB",
+            "text": "I'm Chinese, this is a must for East Central Chinese food"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OUWMxbHZRVFZKYTBSR2JHdzRlRFExZDNsc2NuYxAB",
+            "text": "Delicious food for a reasonable price, with fast service and comfortable seating in a large dining area.  The wait can be long on Friday and Saturdays, but quick during other times.  I always bring my out of town friends here for good soup dumplings.  Make sure to stop by the Citibank and Chase around the corner for cash beforehand!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JMlZXaHNkRGhCWlRneVQxQmthRmhOYkdoa01sRRAB",
+            "text": "Lively atmosphere. Get the dumplings. Fast and efficient service. Food was piping hot."
+        },
+        {
+            "date": "2달 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCNk9VWk9SREJWWTNob1gySm9UMWhrUjBoc1dWRRAB",
+            "text": "한달 전)\n\n딤섬 국물이 맛있었고 다른건 쏘쏘..\n물티슈를 주고 화장실이 깨끗하며, 변기 커버가 있다..! 뉴욕에서의 신선한 충격.."
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnNDlpaEVBEAE",
+            "text": "허허..중국위생에 또 한번 놀란장소.. 일본인들사이에선 유명한 장소라고 하는데 식탁 닦는 걸레가 원래 초록색인데 시커멓게 되어있더라구요. 닦는 것도 진짜 놀랐던게 그냥 손님들 먹던 차 뿌려서 시커먼 걸레로 슥슥 닦고 그위에 새 수저 놓고...하... 근데 맛은 있습니다..ㅎ\n일단 국물 요리는 진짜 너무 심하게 짜니가 별로고요 볶음요리는 진짜 진짜 맛있어요. 저희는 채소랄 돼지고기 볶은 요리, soup있는 국수 그리고 샤오롱빠오 시켰는데 샤오롱빠오 진짜 굿굿. 가게 된다면 꼭! 드세요. 뜨거운 즙나오는데 맛은 정말 기가 막힙니다. 해산물 들어간 샤오롱빠오 시켰는데 그냥 고기만 든것보다 맛있었어요.그리고 뜬금없긴한데 같이주는 차가...향이 좋아요.. 무슨찬지 물어볼걸.."
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURabDlueFpBEAE",
+            "text": "2023-10\n가성비가 좋아서 인기가 많은듯\n주말 비도오고 날씨도 안좋은데\n점심 저녁 대기줄 지속\nㅡ 저녁은 탑뷰버스 지나가는 길에 보게 됨\n\n쿵파오치킨은 양이 작음\n그럼에도 제일 낫다는 생각\n\n샤오롱바오는 뭐 저렴해서 쏘쏘\n\n짜고 별로였음\n\n계산서에 아예 팁포함되서 나옴 ㅋ\n한국 유튜브를 통해 올려치기된듯"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkNU1IUHN3RRAB",
+            "text": "군만두는 기름에 절여졌고\n샤오롱바오는 별 특색이 없었다\n볶음밥만 중간정도 수준\n후기가 많길래 갔는데\n굳이 안 가도 되겠다"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURubUx6VEhREAE",
+            "text": "플러싱 본점에서 맛나게 먹었었던 소룡포 생각이 나서 맨하튼 점을 찾았지만 다시는 안찾을 곳이다.\n소룡포의 육수는 텁텁하고 만두피는 퍽퍽했다. 한마디로 예전 맛이 아니다. 다른 음식은 먹어보고싶지 않다.\n----------------\n플라싱 본점은 문을 닫았다고 한다."
+        },
+        {
+            "date": "4년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhMEozVzJnRRAB",
+            "text": "★웨이팅 굉장히 깁니다. 번호표 미리 받고 여유 있게 커피 한잔 하고 오세요.\n★ Cash Only.\n이 집 참 맛있어요.\n만두는 육즙이 가득 있고 피도 쫄깃하고 맛있어요.\n볶음밥이 처음엔 하얗게 나와서 이게 뭔가.. 했는데 이거 JMT이에요.\n건물 밖은 복잡하고 지저분 했는데 안은 새로 레노베이션 했는지 깨끗합니다."
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzck9YbU1nEAE",
+            "text": "안녕하세오 볶음밥 귀신이에오. 이 집 계란 볶음밥 참 맛나요. 드셔보세오. 가지볶음도 추천합니다"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSaXFYd21RRRAB",
+            "text": "음식은 괜찮은듯 하나 온 식당에 은은하게 퍼져있는 홀애비 냄새때문에 밥을 못먹겠음\n특히 메뉴판에 냄새가 찌들어 있음"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlMk5xS0FnEAE",
+            "text": "뉴욕 올때마다 가는 최애 식당\n웨이팅 진짜 너무 길어서 걍 포장 했는데 딤섬 미쳤어요 육즙이 어마어마함.\n계란 파 볶음밥은 별로 간이 안된듯"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJeFpMN0lnEAE",
+            "text": "JMTGR 제가 먹어본 뉴욕 식당 중 단연 1위입니다 여럿이 가서 메뉴를 다양하게 시키면 좋을것 같아요"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaa3FPUlhREAE",
+            "text": "샤룽바오와 쿵파오 치킨 시킴.\n둘 다 평범한 맛.. 나쁘진 않았음. 웨이팅 없이 먹었는데 기다릴 가치는 없는 듯"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1bVl5TG1BRRAB",
+            "text": "여행 중 시간이 애매해서 좀 일찍(5시) 갔는데 웨이팅 하나도 없고 만두도 금방 나왔어요 예전에 뉴욕에서 먹었던 그맛이었어요"
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRdmF2dGZnEAE",
+            "text": "저렴하고 맛있게먹을수있습니다 가게가 차이나타운답지않게 시원하고 괜찮아요"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1OXJHdm9nRRAB",
+            "text": "중국음식 러버인데 샤오롱바오랑 우육면 녀뮤 먓업쪄쩌여 몇 슏가략 먺꾸 못먺을찌꼉\n그리고 매니저분들 졍먈 뷸칭졀해욧"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxd3VtWGF3EAE",
+            "text": "믿고 먹는 샤오롱바오. 그 외에도 음식은 다 맛있음. 오픈한지 30분만 지나도 밖에 줄 많이 서니까 오픈런 추천. 화장실 상태 나쁘지 않음. 하지만 요즘 시대에 왜 아직도 현금밖에 안 받는지 모르겠음."
+        },
+        {
+            "date": "수정일: 6년 전",
+            "language": "ko",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJOUxMS3hBRRAB",
+            "text": "글쎄요...명성에 비해 한국사람들에게는 적극적으로 권하기 어렵겠습니다."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5aHV6QjFnRRAB",
+            "text": "뉴욕 여행 마지막 식사\n평이 좋아 찾아갔더니 사람들이 줄을 서고 있네요\n한 30분 웨이팅 하고 들어간곳\n중국식의 향신료가 들어가지 않아 더 맛나게 먹었던것 같아요\n새우딤섬이 특히 맛나요"
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnNjkyVExnEAE",
+            "text": "마파두부에 밥 추가했고 돼지고기 샤오롱바오 1판, 콜라 및 맥주한병해서 2명이 팁 포함 31불정도 나왔습니다. 가격은 무난한 편이고 맛이 한국인 입맛에 딱입니다. 샤오롱바오 피가 좀 두껍긴한데 한국에서 먹던 사이즈의 2~3배 크기이고 육수도 맛있더라구요. 주말 9시쯤 가니 웨이팅없이 착석했지만 로컬 사람들로 북적였고 다 먹으면 후식으로 오렌지도 넉넉하게 줍니다."
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNVeGZlVk5nEAE",
+            "text": "존 맛 탱 우육탕면인거 이거꼭먹어요 헉헉"
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNNeWJMcTlBRRAB",
+            "text": "합리적인 가격에 맛집 인정. 특히소룡포는 강추하고 주문한 음식들이 대체적으로 만족스러운데 다만 손님이 너무 많아 9석 정도의 둥그런 테이블에 3팀정도 합석하는 것이 보통이고 분위기는 당연히 어수선하니 이는 감수해야 함"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNvaUpyMC1nRRAB",
+            "text": "알려진것보다 맛은 별로이고, 식사시간대에는 사람이 너무 많아 정신이 없습니다. 테이블 간격도 좁고 직원들도 불친절하진 않지만 친절하지도 않습니다. 차이나타운에서 이 가격에 다른 곳 가시는게 나을 것 같습니다."
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZbmJEMXBBRRAB",
+            "text": "평점이 나빠도 네이버 순위랑 리뷰 믿고 갔는데요\n진짜 다른곳 가세요...\n샤오롱바오랑 슈마이를 시켰는데 슈마이는 맛있었구요\n샤오롱바오가... 한국이 더 맛있더라구요\n참고로 저 향신료 잘먹습니다\n샤오롱바오 만두피가 좀 두꺼운 느낌이고 국물이 진하다해야하나...걍 기름 맛이었어요\n거기에 식탁 청소도 그냥 손님들 차 뿌리고 행주로 닦는데...\n간정도 생강들은 간장 한번 뿌려먹었다가...\n뭔진 모르겠는데 신맛이 나서 그 후로 안뿌렸구요\n팁이 필수라는 리뷰보고 걍 계산서에 더해서 주나해서 그냥 계산서대로 줬더니 저보고 15%팁 필수라고 돈도 안받고 팁내놓으라고 하더군요\n진짜 그냥 다른곳 가세요"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSUNvbzhzZxAB",
+            "text": "좌석간격은 좁아서 뒷자석과 부딪힐지경이고 음식맛 또한 형편없어요 . 홀안에 중국인손님 한명도 없고 외국인만 있었어요. 전부 폰사진보고 음식고르기 바쁘고. . 이런집을 맛집이라고 찾아가는 수고를 할까봐 꼭 후기를 남겨야겠다고 생각했습니다. 샤오롱바오와 소고기누들, 칸쇼새우 시켰는데 소고기누들은 식었고 맛도 짜서 뜨거운 차를 한컵 넣었더니 먹을만했습니다. 샤오롱바오를 좋아하는데 지금껏 먹었던 맛중에 최악~ 비위상하는 육즙맛 . 그나마 새우는 좀 맛있었는데 새우반 브로컬리반~ 줍니다. 브로컬리를 그렇게 많이 주는것은 장식용이 아니고 식용이겠거니 하고 먹었는데 뭔가 신선하지않은 기분~ 팁을 15퍼나 받으면서도 아무런 서비스도 하지않는 종업원들까지~ 비싼 차비들여 찾아간 보람없었어요."
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURzN3N6NGFBEAE",
+            "text": "여기 오렌지비프 진짜 최애입니다 가시는분들 꼭드세요 진짜 맛있어요 ㅠㅠ"
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURROEliZ2VBEAE",
+            "text": "딤섬이 맛있어요. 딘타이펑이나 크리스탈 제이드의 샤오롱바오 보다 피가 두껍긴해요. 줄서서 먹는 집이네요."
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNpMXQyV1R3EAE",
+            "text": "샤오롱바오 먹어봤어요. 피는 두껍고 속은 많이 기름져요. 딘다이펑스타일을 기대했다면 노노. 로컬스러운 맛이예요. 육즙이 어마어마해요 먹다가 다 흘렸어요"
+        },
+        {
+            "date": "13년 전",
+            "language": "ko",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBX2ZxVGJ3EAE",
+            "text": "더플링을 먹었으나 역시 나의 입맛에는 별루..중국에서 먹던 맛 ㅎㅎㅎ 육즙이 듬뿍..하지만 느끼~느끼한 중국 냄새 진한 만두가 싫다면 비추 ㅎㅎ"
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBNGZfa2JREAE",
+            "text": "맛 있다고 해서 왔는데 정말 불 친절 하고 맛 도 별로고 모든게 불 만족 스럽네요.\n그리고 여기는 사람이 많다보니 합석을 합니다.\n다른데 가서 드시는게 더 좋을 듯 합니다."
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZbk1fWWdRRRAB",
+            "text": "어제 저녁 먹으러 갔는데.. 차이나타운에서 먹어본 중에 최악의 중국집이네요... 맛을 음미하기 힘든 분위기에, 불친절... 거기에 팁은 꼭 받아가는 종업원의 센스...  체하는줄 알았음.."
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNbVo2ZWxnRRAB",
+            "text": "특별히 맛있는건 아니었다. 하지만 그걸 먹기위해 20분 기다리느라 주변 China town을 구경할 수 있었다."
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHN2FlYnpnRRAB",
+            "text": "Soso 음식이 너무늦게나오고\n면얇게주문했는데 굵게나오고\n줄서서기다린만큼은 아니네요"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURVdU02ek1nEAE",
+            "text": "가성비로 괜찮은 식당입니다...테이블 합석도 해야하고 청결한 분위기는 아니지만..."
+        },
+        {
+            "date": "9년 전",
+            "language": "ko",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnNE1lZkF3EAE",
+            "text": "음식에 맛은 훌륭하나 서비스가 너무 불만족 스럽다 그럼에도 팁이 자동 포함 되어 있는게 더 흉악하다"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNvM3VMbmt3RRAB",
+            "text": "여기가 왜 유명한걸까용????????\n특별한 것도 가성비도 없음\n맛은 있지만 굳이 찾아올 것까지야..."
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNanI2Vll3EAE",
+            "text": "소룡포 맛있어요 하지만 서비스는 기대하지 말것"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPaVBTdmN3EAE",
+            "text": "시간 맞춰가면 웨이팅 별로 안 김. 맛있음."
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJb2FqRjVnRRAB",
+            "text": "딤섬이 맛있어요. 양이 어어엄청 많아요"
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJclB6RkJBEAE",
+            "text": "딤썸(육즙이 좋네요)만 더 먹고 싶어요..."
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNna3BqaHJRRRAB",
+            "text": "난 별로 였어요. 만두 느끼했죠😭😭😭😭😭 느끼해서 먹기 싫어효…"
+        },
+        {
+            "date": "수정일: 5년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRbUxhaC1RRRAB",
+            "text": "샤오롱바오 가격만족  또 가고 싶어요"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJcXBUVTFBRRAB",
+            "text": "맛보다도 가성비가 좋은곳"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJa3NQRnl3RRAB",
+            "text": "맛있고 친절함!"
+        },
+        {
+            "date": "4년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURhX19XWEpnEAE",
+            "text": "맛있는 중국요리"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5VldYVTBSM0JaUWt0VVFUTldlRVpZV1djMGRFRRAB",
+            "text": "My husband has been wanting to come here since we arrived to NY.  We went this past Sunday night with two of our friends.  We arrived around 7pm and only had to wait about 15-20mins before they were able to seat us - considering this place is always busy and there's no way to reserve a table in advance it felt pretty quick to get a table.  We ordered a number of dishes to share, my favorites were the braised pork and the pork+crab soup dumplings.  We also tried the chicken fried rice, chow main noodles, more dumplings, and pancake.  This place is cash ONLY, so make sure you stop by the ATM first.  It was a rainy and cold Sunday in NY so this was the perfect warm and cozy meal."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Sa1dXeFBPREptVTB4MmRsWkNTMUI1VW5ZelRYYxAB",
+            "text": "Sorry to see midtown west location closed. Then, this downtown location now moved to new location good progress.\n\nOne of the most reliable soup dumpling. Beef noodle soup and lo-mean also good.\n\nCash only. Line in weekend."
+        }
+    ],
+    "reviews_count": 95
+}

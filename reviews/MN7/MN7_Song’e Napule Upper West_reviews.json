@@ -1,0 +1,565 @@
+{
+    "name": "Song’e Napule Upper West",
+    "place_id": "ChIJTeQ7Fv1ZwokR5tX0TbUtW_I",
+    "grid": "MN7",
+    "address": "464 Amsterdam Ave, New York, NY 10024, USA",
+    "rating": 4.7,
+    "user_ratings_total": 443,
+    "phone_number": "(917) 472-7561",
+    "reviews": [
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205bmVHUTNjVm8yYVZaSk5reDNTRkp0VW1Wd09WRRAB",
+            "text": "Cordial, authentic Italian and delicious 🙌"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKT1kyVTVUMGRTY20xUFZtdHZhV2RDYTAxdExWRRAB",
+            "text": "The pizza was so authentic, so good. It's so incredible. My entree was the chicken dish. I really loved it. We will definitely go back again for pizza!"
+        },
+        {
+            "date": "1주 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200dGQxWllTR1JhVDIxT1ZsZ3RaalkxVkRCNlVuYxAB",
+            "text": "Abbiamo mangiato un'ottima pizza in un locale veramente italiano.\nOttimo servizio."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twSU1reGxOWGM1TTNSelltSnlZbVZUVkZOM04yYxAB",
+            "text": "So delicious! And the pasta genovese is the most fabulous dish!"
+        },
+        {
+            "date": "1주 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0bVVuQnVlRXRhZUVOSWIzbFVWRkJzVGt4TWVXYxAB",
+            "text": "Locale bellissimo, curato nei minimi dettagli, servizio veloce, cordiale ed efficente! Un ringraziamento speciale a Daniele il nostro server! Mi sono sentito di nuovo a casa essendo vicino al popolo Napoletano fin da bambino. La miglior pizza italiana/napoletana mangiata finora a NYC, tornerò presto! Complimenti a tutto lo staff, pizzaioli e a chi gestisce il locale!\n💙🤍🇮🇹💙🤍🇮🇹💙🤍🇮🇹💙🤍🇮🇹💙🤍"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSWFQzTmpRV05uUmpCeE1ubzJNMFZwWWtoaFRHYxAB",
+            "text": "Como siempre que visitamos la ciudad de New York venimos a esta pizzería y quedamos encantados. La comida es deliciosa: las pizzas tienen una masa perfecta, ingredientes frescos y un sabor espectacular. Además, el ambiente es muy agradable, ideal para compartir con familia o amigos.\nQuiero destacar especialmente la atención de Daniel, quien fue muy amable, atento y siempre con una sonrisa.\nSin duda, una de las mejores pizzerías que he visitado. ¡Recomendadísima!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKeFQwWlBNV0p6Tkd4b09GUkNaM1JuTVRVemVrRRAB",
+            "text": "Had an amazing time at Song’ E Napoli! The food was delicious and full of authentic Neapolitan flavor, but what really made the experience special was the outstanding service. Daniel and Cindy were incredibly attentive, friendly, and made us feel right at home. Their warm hospitality added a personal touch that made our evening unforgettable. Highly recommend this place for anyone craving great Italian food and top-notch service!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkT05rNVNkVE50WVdkSmN5MVNjWEZPUm5GRGEwRRAB",
+            "text": "Not recommended."
+        },
+        {
+            "date": "2주 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taSGQyOUlRek4yTkZab1VrbHRhVU10Um5SWVExRRAB",
+            "text": "Excellent repas en famille, tous les plats étaient délicieux. Service dynamique et chaleureux par Valentina."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWek5VeHdja1EwTFZZd2RFRnlURGRyU1ZoWU5GRRAB",
+            "text": "The service is excellent, Roberto is very kind, and the food is delicious and flavorful, but my plate is too small for a man."
+        },
+        {
+            "date": "2주 전",
+            "language": "pt",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21nMlltNW9WRVpoUVVWUlRVdFljRXh5ZFRsTlEyYxAB",
+            "text": "Bom atendimento,  ótima comida!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pVeVF6TTViSHBqTVhKRk1IZ3hPRVJKV1RZdGVWRRAB",
+            "text": "Great pizza and great service. Roberto and Victor were amazing!"
+        },
+        {
+            "date": "3주 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxVFVHMXJObTVMWkVKSVZqUnVWMEl3YUhOVWJWRRAB",
+            "text": "Tutto perfetto."
+        },
+        {
+            "date": "3주 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkSE0wTXpSMVk1VkZwV1dVMUdTWFkyZDJwR09WRRAB",
+            "text": "Ottima pizza napoletana a New York. Molto più buona di alcune mangiate in Italia! Prezzi in linea con la città, ma si sa."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGa2RUZFRkRk5KWld0b1UySTBZM00zWnpFemIxRRAB",
+            "text": "40$ per person, excluding drinks. Too much for “the experience” that wasn’t just there. You will try the real italian pizza in an italian environment but I won’t recommend going back."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWWlUyVkpWV05tZUZjelpscHhTbWxVUW5aRVVFRRAB",
+            "text": "I have not fallen in love with an authentic Italian thin crust in a LONG time!! The stone oven fired pizzas almost transport me back to Rome. I will definitely be coming back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KWlRWSTVXVGRoUWtsUWIySkliV2xOZFRaT2JGRRAB",
+            "text": "Closest Neapolitan pizza experience outside of Naples."
+        },
+        {
+            "date": "1달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205VE1EQmFXSEpUWTIxNU1UVjVjSEJZWW5SU1kzYxAB",
+            "text": "Perfetto. Una vera pizza napoletana."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25STk5GbEhiRmxQZHpKeVNHZzFkbGRNWVdWbmNrRRAB",
+            "text": "If I could give this place 0 stars I would. We chose to dine here tonight for a birthday dinner. We had 6 adults and two children. From the moment we sat down the manager or owner (not sure which) made us feel so uncomfortable for simply being in HIS restaurant. The entire dinner we felt rushed by wait staff and were on the receiving end of nasty looks/comments from the man that I believe manages the place. One of our children accidentally spilled a drink during our appetizer course and the “manager” (who is terrible at what he does might I add) came over asking if we were ready for dessert. From then on we had 3 waiters ask us if we want dessert or the check before our food order was even placed. We then were told we have 15 minutes left in our reservation that was less than a hour and a half. I have never experienced such poor service in my life. Not to mention the completely unreasonably priced meal with an automatically added 20% gratuity. The person that manages this place should seek a new career perhaps one in which you don’t interact with people. Some of the individuals with us work high up in the food industry and were also flabbergasted at the experience. Do not come here unless they clean house."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pJMGNWOHRUM05PT0Vad1ZtTmtlRVZMYkZaQ1lXYxAB",
+            "text": "We love the Soho location, but this place was not it. They forgot our order and we waited 40 minutes for our pie. When we followed up, we got a shrug… :( wish I could rate higher"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxXzhmdnlBRRAB",
+            "text": "Best, authentic Italian food in NYC!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkamVreEVjR2xKVVVGaVlWbGxibWRSTldFelJWRRAB",
+            "text": "Friendly, quick service, pizzas were DELICIOUS, free bread was tasty!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poNlpIRllXRXRUYkVsdlEwWnJWbVJoZEhab1luYxAB",
+            "text": "Un bel locale napoletano vero a New York.\nPizza molto buona.\nCaffè fatto con la macchinetta espresso.\nBravi e consigliato"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tONVZqRnJVRXR4WkhJeVVESnZNSEpSTjJ0cWJWRRAB",
+            "text": "Muy buena comida, con productos de buena calidad. Servicio esmerado y oportuno. Definitivamente vale la pena regresar"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201MWVEZFdWR3RUZUUxdGN6QkpNVUY2YmtaeFFYYxAB",
+            "text": "Absolutely loved this place! The pizza tastes just like in Naples – thin, flavorful, perfectly baked. The Sangiovese we had was also excellent.\n\nBut what truly made the evening special was Viktor. He’s incredible attentive, kind, and with such a natural way of making you feel welcome. He creates such a wonderful atmosphere that you don’t want to leave.\n\nOne of the best Italian spots on the Upper West Side – can’t wait to come back!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21abVExWkhMWGRMYkd4dGFtTXplSEJHUWxaZk0zYxAB",
+            "text": "Real neopolitan pizza"
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCRFVWRnlObWszVW1kSlJWZDNOV0ZhTVRGa1ZYYxAB",
+            "text": "Sapori italianissimi!!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wQ0xVWlZaV1ZwVTE5TVJUVm5aSFEzZWtjMWNrRRAB",
+            "text": "Amazing food! We could not get enough of everything we ordered! We ordered the pizza tartufata, paccheri genovese, insalata di polpo, burrata, and tiramisu.\n\nCan’t wait to go back and try a different pasta and pizza again soon!\n\nP.S. The olive oil is to die for and I’m excited to place an order online!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taRlpVVkZOa1pxTVZaWE4zcDNaRFl0Tm5wYVdVRRAB",
+            "text": "I grabbed a to-go order on our walk over. It was smaller, as expected with Neapolitan, but I loved it. Soft, chewy, and great flavor on the Margherita. This might have opened my world to Neapolitan pizza."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kM01uTnpiM1paWVdKVGNVVmpOVzVwUTB0RVMxRRAB",
+            "text": "Food always amazing"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twVVJGRnhiVUZVWW5SdlZ6ZGZablZMYzJwb1NuYxAB",
+            "text": "The best spaghetti hands down. What a gem of a place."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNeVdUQTJZVWxxYVhWbk5IVm1TRVJRVFRVNGJXYxAB",
+            "text": "Great pizza!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214aWJWZzNTMHN0VEVsUE5FMDFWMWRXZVZwQ2VFRRAB",
+            "text": "Nice decor but a small restaurant. Very cozy. For drinks I had the 1926 spritz. Limoncello based. Very good drink. For appetizers we had the meatballs which come in 3 or 5. Soft very tasty meatballs. As an entree I had the chicken Milanese. It came with an arugula salad. The portion was ok but the chicken was bland. The breadcrumbs that they used seemed to be plain. My girlfriend had one of their neopolitan pizzas. A special for the day that had truffles. Looked pretty good. Overall the service and atmosphere was great."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkVlZuVlNjRGMwTkdWMVowRjNSVTl4ZFVjMU9YYxAB",
+            "text": "Best pizza and spritz. Staff is so warm and attentive. Love this restaurant"
+        },
+        {
+            "date": "3달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205aGFuWk5UMU0zT0c5cVNsWjJZVlpKTVZkNlNsRRAB",
+            "text": "Con mia moglie siamo capitati per caso, ma è stata una fortuna!.\nPer noi campani, Song'e Napule è stato come tornare a casa in 10 minuti. Cibo eccellente, e personale amichevole e molto disponibile, creano una combinazione da campioni!\nConsigliato vivamente!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5UVNHaEJiVkZqTmtvMVJFbFFXbmh3VWtGNGMwRRAB",
+            "text": "Finally we found an amazing real pizza place! VPN rated! Lorenzo was fantastic and very attentive. Absolutely delicious."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ocGF6RTROeTFxY1RKVGJrSjFTbU56T0ROeVIxRRAB",
+            "text": "Amazing pizzeria. Second time visiting. Had a very delicious (El Capo del Sur)put together cocktail that I enjoyed with very authentic Italian dishes. There’s literally no dish or drink that disappointed me."
+        },
+        {
+            "date": "4달 전",
+            "language": "tr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21od1VVWkpSbFY1TFZOdE5UWjRjRjlsVDNJM2RuYxAB",
+            "text": "Mükemmel hizmet ve yemekler çok lezzetliydi.tam bir İtalyan restoranı .fiyatları gayet uygun ."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0dlptbFBORlF5WWpScmRVOU5NVGxYVVdWaGJuYxAB",
+            "text": "If you’re a pizza lover, this Italian spot is a must! The crust is perfectly crisp, the ingredients taste super fresh, and every bite feels like a little trip to Italy. The pizza here definitely steals the show — simple, authentic, and absolutely delicious."
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOZXo2WmZVdnF2TXlRRRAB",
+            "text": "⭐️⭐️⭐️⭐️⭐️\nI’m a Thermomix Consultant and I want to sincerely thank you for being so supportive and welcoming! It means a lot that you gave me the opportunity to introduce your staff to the world of Thermomix. Everyone was curious, engaged, and open to learning how this smart kitchen appliance can save time, reduce waste, and make cooking fun. I truly appreciate your support of small businesses and innovation in the kitchen. Looking forward to more collaborations in the future!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201Rk9UbGxZbkpHUzJoRWNUZzBjV1JsVjBrMlgzYxAB",
+            "text": "Pizza will blow your mind. Fresh, thin, stretchy dough is right out of Italy."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VObWl1LW1ZOW9yMDFnRRAB",
+            "text": "My boyfriend and I had an amazing experience at this Italian restaurant! From the moment we walked in, we felt welcomed and well taken care of. Carmela, the manager, was incredibly helpful and made sure everything was perfect throughout our visit. The atmosphere was warm and inviting, and the food—absolutely delicious.\n\nA special shoutout to Daniel, the bartender, who impressed us with his deep knowledge of every drink we asked about. He answered all our questions with enthusiasm and made fantastic recommendations that really elevated our experience.\n\nHighly recommend this spot if you’re looking for authentic Italian flavors and outstanding service. We’ll definitely be coming back!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKQ0N2YjdXMXJYMXdBRRAB",
+            "text": "Delicious fresh simple Italian."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQaTFwc0cxODdEOEhBEAE",
+            "text": "Amazing experience at Song e Napule! The food was authentic and delicious. Special thanks to Daniel, Carmela and Valentina for his great recommendations and excellent service. Highly recommended! ⭐️ 🫵🏽"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOamQzVXpNRGxhTVZabVdXTm9Na1J2TFhVM1puYxAB",
+            "text": "A very nice place in the UWS, great food with excellent ingredients. Cannot skip if you would like an authentic Neapolitan Pizza!! Location with great attention to the details creating an authentic Italian place with style, the staff Is super kind and welcoming. Absolutely recommend."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VPLU90NWFKaHVPQTR3RRAB",
+            "text": "Good pizza :)"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLeVktUGFSNVllSzhRRRAB",
+            "text": "Great pizza but definitely rather pricy! The service and atmosphere inside the restaurant are O.K. - I'd recommend taking it out"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJbnh0NmlLNEk3ZE53EAE",
+            "text": "One of the best spots in the neighborhood! Consistently delicious and service is amazing. Our go to spot for all celebrations - anniversaries, date nights, etc.!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZeHVUcnZnRRAB",
+            "text": "Lorenzo and Valentina were the best! Great food and great service!"
+        },
+        {
+            "date": "6달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZc3VELU1BEAE",
+            "text": "Ottima esperienza Italiana autentica!\nVenuti per due volte in questo locale perché buonissimo. Tutto ciò che si trova nel menù, può fare invidia a quello che viene servito in Italia.\nPrezzi in linea con quelli del luogo, ma sicuramente giustificabili per la bontà.\nServizio perfetto. Lorenzo ci ha seguiti tutta sera senza mai farci mancare nulla."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJcVlhUHBRRRAB",
+            "text": "I highly recommend checking out there lunch special. $15 each menu items and full sized dishes. Napoli Pizza dough illete.  Good quality. Great flavor. The bread and olive oil awesome. The olive oil was rich sharp but tasty. I got the pizza cotto  fuhngi. Ham and mushrooms. Let me tell you, it was a fun guy. Lol. Nice char flavor. You csn taste the oven. Quality toppings. We got the meatballs palette. Soft. I got the famous eggplant parm. Its made in the pizza dough, just like momma. Epic. Delisosourusrex. Look at the cheese pull. Nice rich red. Orange color on the bolganese. Flavor bomb. Italian American approved.  Nyc approved."
+        },
+        {
+            "date": "6달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvNXR6SV93RRAB",
+            "text": "Sono stato , con amici , in questo angolo di Napoli a New York e ne sono stato felicissimo. Ci hanno trattato benissimo, come fossimo clienti storici. Non mi soffermerò su : servizio , qualità delle materie prime, location ecc. perché era tutto perfetto . Menzione d’onore per il pizzaiolo Davide Montella , veramente all’ altezza delle migliori pizzerie di Napoli ."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNGX2ZuY1h3EAE",
+            "text": "We were lucky to be with a large group of our friends and so we got to try a variety of the food here. It did not disappoint! I came back from Milan recently and the Italian food here is just as amazing. I think my favorite with the eggplant pizza and the squid ink pasta, so hard to choose. The drinks were delicious and presentation is 10/10! Our food came out relatively quick and our waiters constantly swapped our plates and utensils with clean ones with each course. The desserts were so good I ended up combining them with each bite!\n\nThis is definitely a perfect place for date night as the decor is posh and modern. I love how each location is consistent and so whatever we couldn’t try we will at the Rutherford location we normally order at. I highly recommend trying Song’E Napule if you haven’t!"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURocjZuWjhBRRAB",
+            "text": "4/28 Update:\nWe went again and, damn, it was still amazing...\n\nOriginal review:\nWent for opening night and we were blown away. All the food just melts in your mouth. The pizza is soo soft, the tomatoes are just delicious, and the tiramisu is juicy like tiramisu is meant to be! Amazing warm and friendly service. 10/10. Easily the best Italian food in New York by a mile."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYeUlmdVBBEAE",
+            "text": "I was here with my all family for a leisure to NYC. We were looking for some good Italian pizza and we found it. I ate pizza while my family had pasta. Everything was delicious. Nice and friendly personnel. We had such a good time in there that my father (an artist) even left a hand-drawn picture to the staff. If you want to eat good Italian food in NYC, that’s the place."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5Z19HLUR3EAE",
+            "text": "I tell you that I can smell this place an avenue away! When I walked on the Broadway intersection toward the Amsterdam, I spotted the luring hints of the tomato, the wheat, and fragrance of wood fired dough.\n\nStraightly came to eat pizzas, pretty nice addition to the neighborhood so I don’t have to go all the way downtown. Us four gals ordered 4 difference pizzas. The lunch specials are 15 usd per pizza, and the options include some pizza rosse and some bianche, but not any specials.\n\nThey have a wood-fired stone oven, resembled the traditional pizza cooking technique in Naple. You can watch the pizzeria knead and stretch the dough and cook it in action. All pizzas are 12 inches and each are sliced into 4 pieces. That means, 4 pizzas = 16 slices spilled between us 4.\n\nFor all the pizzas, the dough is light and stretchy, very airy with lots of bubbles when you open the dough. The chars on the edges are the evidence of usage of the wood-fired oven. And all pizzas came within 10 minutes of ordering! Quick and delicious!\n\n1. The Tartufata: this one is very very filling. Very umami and truffley. Lots of prosciutto and heavy on truffle cream and truffle oil. One bite brings me out of starvation and spikes my fullness from 0% to 80% (I have been fasting for 20hrs before this).\n\n2. Pizza Burrata: surprisingly light pizza. The burrata is light and somehow not so liquidy. Majority of the cheese holded the shape with a bit splurging of the stracciatella mixed with arugula. If I had this first, I think I can eat the whole pizza. But the truffle one was so filling lol.\n\n3. Melanzane E Salsicce: the pizza with sausage and fried eggplant. This one tasted most familiar to me in terms of the flavor, as the sausage being the major note player. The fried eggplant on top of the pizza doesn’t resemble eggplant but rather grounded meat, however, I definitely taste eggplant once I bite into it: mushy, eggplanty, and meaty at the same time.\n\n4. Pizza Marguerita: the only non-special one which we got at the lunch special rate. It is a classic. I didn’t have stomach for the 4th slice yet my friend who tasted it said it is light, tomatoy, and savory. The saltiness of the dough combined well with the acidity of the tomato sauce, which interplayed with the creaminess of the mozzarella. Surely a classic not to be missed if you are torn choosing between novelty flavors.\n\nWe ended up having 4 slices to go, and we were very very satisfied with the quality of the food. Though eating so much carb makes me sleepy but it is Friday so who cares!\n\nAnd lastly, their complimentary bread and olive oil is GREAT! Quote on myself: the bread tasted like a mix between a baguette and a bagel, so much air holes with great stretchness for a chew. And the olive oil tasted amazing: definitely extra virgin olive oil."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3X0lLZzB3RRAB",
+            "text": "Probably the best lunch special on UWS.  A nice choice of everything from pizza, pasta, sandwiches and more.  Wood fire oven charred pizza is fabulous and could be the best on the upper west side.  Cozy , nice, casual atmosphere with really good food."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKaGVqcEZREAE",
+            "text": "4.5 / 5.0 - One of my colleagues from Naples, who is also a Neapolitan pizza lover, highly recommended Song'e Napule. So it had been on my list and I was thrilled to discover their new location in UWS.\n\nMy bf and I came here for dinner tonight and had a great experience.\nThere was no availability online, but we decided to walk in and were fortunately able to sit at the bar. The interior had more of a lounge feel than a pizzeria, but it had nice tones of blue and a warm, welcoming feel.\nThe staff was friendly, both upon arrival and at the bar.\n\nWe ordered:\n- Bufalina Pizza ($23+)\n- Calamari Fritti ($20+)\n\nOne of the things I loved about this place was that they served us bread with delicious olive oil.\nThe calamari was good but the pizza is what I'll be back for. I love Neapolitan pizza and the Bufalina Pizza did not disappoint. There was plenty of buffalo cheese on it and the tomato sauce was on point. The dough was soft and fluffy, too.\n\nSo happy with this new addition to the neighborhood!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyOWVqZGFREAE",
+            "text": "I almost ate at Song's LES location last summer, but the tropical humidity and al fresco seating sans AC made me instantly nope out.\n\nSo when I happened on this UWS location one weeknight, it seemed fortuitous. It wasn't.\n\nThese guys are a MESS. They are so poorly organized, it's a wonder anything gets served on time. The hostess was also taking phone orders when we arrived, and because they were so busy, we had to stand for about 20 min in the middle of the restaurant before she could seat us.\n\nSpeaking of seating, it's clear Song is trying to squeeze every penny until it bleeds because all of the two-seater tables (which make up the entirety of the restaurant) were spaced no more than 3 inches apart in an effort to cram in as many diners as possible. The result is you're going to hear everything you never wanted to know about your adjacent diners' bad Hinge dates, terrible ultrasound experiences, obnoxious co-workers, and every other personal life detail possible. And they'll hear all of yours too. Don't bother trying to have a private conversation.\n\nIt's too bad because the food is above average for NYC Italian--so good, in fact, that actual Italians (like, from the Motherland) frequent this place. Our Gnocchi Sorrentina was scrumptious, and both the Napoletana and Cotto E Funghi pizzas had some of the most perfectly baked crusts I've had in a long time.\n\nBut I can't do the sardine experience. At that point, I might as well just go to Sardinia."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkMDRDVzFBRRAB",
+            "text": "4.5 rounded up to 5. Make sure to look at the lunch menu in the photos. After eating at the original, I couldn’t wait to have the tartufata pizza closer to home. The pizza was very good, but not hot out of the oven. The thin crispy crust gets soft quickly. Still very good. Just not as good as the village location. 1 pizza can feed 2 with an app. The interior of this newer branch still carries the Maradona soccer theme but in modern blue and white. There are not too many seats but we sat in the covered sidewalk area (Feb 10 : warm winter afternoon). Service was prompt and they filled water cups without us asking."
+        },
+        {
+            "date": "1년 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNudjVfcHBRRRAB",
+            "text": "Napoli a New York! Ottima la pizza e soprattutto il servizio. Se vi trovate in zona, da song e napl sembrerà di tornare per un paio di ore a casa 💙 grande il cameriere Ciro!"
+        },
+        {
+            "date": "1년 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSURIb0xzZhAB",
+            "text": "Abbiamo preso 3 pizze margherite da asporto e siamo andati a mangiarle al parco. Pizze stupende, sapore da vera pizza napoletana. Sono stati gentili e veloci. Abbiamo speso meno di un McDonald. Consiglio vivamente."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4aXVhV1pnEAE",
+            "text": "The food here is incredible!\n\nOur party of 7 dined here on a Monday night, and it was a full house. We were quickly seated and given service. The complimentary bread basket they brought out was so delicious. Our party ordered calamari and meatballs to start. I loved how the calamari came with fried veggies and potatoes, which was a nice complement. The meatballs were juicy, tender and flavorful. For the mains, we ordered a variety of the pizzas and pastas. The dough is so good! It is fluffy and has such a nice chewy texture! The truffle pizza is a must! And the traditional calzone was also a favorite! I've only had the American style calzones, which I find too bready and drenched in sauce. But this Napoli style calzone was much lighter and had a good balance of sauce cheese and other ingredients. They also have an off menu cacio e pepe gnocchi! The gnocchi is stuffed with cheese and they were so soft and pillowy! This is the best gnocchi I have ever had. I highly recommend! We ended the meal with an assortment of desserts. All the desserts were light and not too sweet. The lemon cake is from Napoli, so you must try it.  The panna cotta and tiramisu were also so light and delicious.\n\nIf you're looking to try some authentic Italian food, you need to make a trip here."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJb2ZPQXRnRRAB",
+            "text": "It was the first time for all of us. We get together to have pizza every now and then, and this place could definitely be our new place.\nWe were very happy with the selection of pizzas, and we loved every one we had; we ordered 5 different pizzas. We appreciated that they were all freshly made with a thin crust base, but a nice thick crust around the edge. They were absolutely delicious!\nThe cocktails were excellent! We ordered from the cocktail menu as well as ordering personal favorites. The bartenders know what they’re doing!\nI was very impressed with the service. Very welcoming, friendly, and accommodating from the moment we arrived. Our waiter was so friendly and polite, always smiling, and even laughed with us a bit. Staff are all willing to help out if they can. Nowadays, it can be hard to find quality service that’s efficient yet welcoming and friendly, so it was a pleasure to find it here.\nLook forward to going back!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUbmZXU2hRRRAB",
+            "text": "Came here for my dad's birthday. Tartufata was delicious, everything came out great. Our server also brought us some chili oil 🌶️ which goes really well with pizzas."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNGdllYVDd3RRAB",
+            "text": "We had a wonderful early meal at Song E Napule last night. We were seated at a true three-top banquet in the front, right against the window. Our server (Catalín?) was attentive without having to hover, supported by a small staff of great back-waiters and food runners. Our burrata with prosciutto appetizer was eye-openingly memorable. And both pizzas Diavola and Salsicce e Friarielli were divine. The beers were an Italian brewery that I didn’t know, but could have been better if they weren’t oxidized. We highly, highly recommend the Delizia Al Limon for dessert- a perfect light, and fresh tasting finish. Thank you so much for the hospitality, we can’t wait to come back!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2M1BfV2FnEAE",
+            "text": "Absolutely wonderful experience food is excellent service is very attentive consistently asking you if you need anything and specials are absolutely wonderful, I grew up going to Naples every summer and this brings me back home 🇮🇹🇮🇹🇮🇹"
+        },
+        {
+            "date": "2년 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwdWNfNkdBEAE",
+            "text": "Accueil chaleureux pour ce restaurant à l’accent italien à New York.\nNous sommes arrivés sans réservation un samedi et avons pu nous assoir en terrasse après un peu d’attente.\nLe service est impeccable, les pizzas délicieuses et le dessert choisi une tuerie !\nAmbiance décontractée et très bonne soirée."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSX3F1VUZ3EAE",
+            "text": "Great atmosphere and service, excellent food and wine list. Cocktails list looks amazing too. We had great time. Thank you Francesco and the rest of the team of Song e Napule UWS  for taking care of us. 💚🤍❤️ 🍕"
+        },
+        {
+            "date": "6달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvMzdIbEp3EAE",
+            "text": "Vera pizza napoletana,con ottime materie prime e ben fatta. Buonissimi anche gli gnocchi, la scaloppina con verdure e purè di patate e gli spaghetti alla nerano.\nLocale molto carino e soprattutto pulito.\nLo consiglio se volete mangiare bene senza pagare cifre esorbitanti (che abbiamo trovato altrove). Un grazie a Carmela che ci ha accolti benissimo e fatti sentire a casa, davvero un tesoro. E un grazie anche a Roberto che con la sua simpatia e la sua disponibilità ci ha coccolati durante la cena.\nProvate per credere!"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoeWU2SE1BEAE",
+            "text": "Edited:\nActual review to come after opening but their place in SoHo is great!\n\nUpdate:\nIt was great! Staff were friendly and knew I was coming. Pizzas were delicious. Loves the basic marg. Sauce and dough were awesome and all you need. Drinks are tasty. Apps (meatballs and octopus) were tasty!\n\nHonestly think I just gotta come back often to test different zas and pastas!\n\nTakes 1 - good stuff!! Show up! Take a date. Fun spot!!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3OTdIZXlnRRAB",
+            "text": "DO NOT GET TAKE OUT FROM HERE. I ordered two pies and the toppings are sliding off the slices. It’s almost inedible. The crust is so soggy the pizzas are falling apart. Extremely disappointing and spent almost $60 on each pie …"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvcGJDNVFnEAE",
+            "text": "The restaurant had a nice ambience. The food was very tasty and the service was very, very good. The quality of the products that are used to make the food are also top notch. Some of the best Neapolitan food on this side of world."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNGemJxNEFREAE",
+            "text": "The MELANZANE E SALSICCE (eggplant and sausage) pizza, PASTA FRESCA AL NERO CON VONGOLE (squid ink pasta), and espresso martini were out of this world. Amazing service and great location. 10/10 - will be back!"
+        },
+        {
+            "date": "2년 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4bmVfUGhnRRAB",
+            "text": "美食荒漠上西区欢迎你的到来！！！开业一个多月已经来了三次，不仅pizza，前菜也都非常high quality非常好吃。强烈推荐！"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4MjUyS2J3EAE",
+            "text": "Phenomenal Neapolitan style pizza. The dough is outrageous. Super pillowy soft with a great sourdough chew and beautiful leoparding on the crust. All the ingredients are top notch. The staff is friendly and inviting. The olive oil they serve with the complementary bread is a amazing. Definitely worth a visit. Vegans can order the Marinara which is done without cheese as it should be. A+++"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSa05PTG1RRRAB",
+            "text": "I recently had the pleasure of dining at Song e Napule Upper West and it was an absolute delight! The atmosphere was cozy and welcoming. The service was outstanding, with attentive and knowledgeable staff who were happy to make recommendations and answer any questions. The drinks menu also had a great selection. Anyone looking for a truly authentic and delicious Neapolitan Pizzeria experience, this place hits home. Five stars all around!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIaXNMMjZBRRAB",
+            "text": "Delicious Italian restaurant. The complimentary bread is a nice treat as the olive oil is the best! Fantastic cocktails. Delicious pizza!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3cHZTR1pBEAE",
+            "text": "We eat lunch here close to once a month. Our favorites are the Neapolitan pizza and perfectly cooked pasta bolognese. Consistently delicious."
+        }
+    ],
+    "reviews_count": 79
+}

@@ -1,0 +1,565 @@
+{
+    "name": "Guacado Mexican Grill",
+    "place_id": "ChIJsZrQQLJnwokR1tg4F5xKf2U",
+    "grid": "QN10",
+    "address": "157-02 Cross Bay Blvd, Howard Beach, NY 11414, USA",
+    "rating": 4.8,
+    "user_ratings_total": 234,
+    "phone_number": "(718) 843-3400",
+    "reviews": [
+        {
+            "date": "8시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205VFJsSjFTVUp1VW1wbVlsQlVWV2RyTWsxUllVRRAB",
+            "text": "Excellent food"
+        },
+        {
+            "date": "9시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWdFRuTXhSRVk1TW5GNVdYY3RWM1pHVWpCS1MyYxAB",
+            "text": "Great food great staff!!"
+        },
+        {
+            "date": "1일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toTGIwZzJWMGxqYlZSVmNFY3ROWEJYZDNWVVpsRRAB",
+            "text": "Excelente atención"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wQ1FXUnhaelpGVG1semJXbFZjMnBZWldOV1FrRRAB",
+            "text": "Great service!"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wUVVVcE9VVTFTYTFvNVgySlNRVEJTV2t0NlFsRRAB",
+            "text": "Great service and very good food.👌"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poaE9WQXRYM05IZFdKRE9FNUJVVlk1TUZad2VVRRAB",
+            "text": "This place is amazing !! I definitely recommend coming here you won’t regret it !"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WTmVHaGxYMmxmZUUxQk5IQlNXbFZKZFhoM1JWRRAB",
+            "text": "This place is amazing . The staff is amazing !!! I definitely recommend coming here"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201c1gzVnZhVkpXUjIxYVVWZEpNV0ZEZUZwaVlXYxAB",
+            "text": "Service a quick, clean, and super helpful. Food is super good as well."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4RmRHVnBkVkoyZUhCSk56RjRNVzVmYzNkQ1RtYxAB",
+            "text": "I love it"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GSmIxbDFVRjlCYlZJeloxQlJTR0UwY2psbFQxRRAB",
+            "text": "The best soo delicious and fresh"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsUFJuWm9NWEZCVkZselVrbEdNM0pITm14aFFrRRAB",
+            "text": "Great food"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paSlNtZ3dURVpRVjJoTlRtWnFRV2hGWW01M2QwRRAB",
+            "text": "I loved the selection here! The customer service was great. They were personable, not like robots, actually interacted."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xScloyRmZRbWROZDJ0SFUzcHFkelJCT1Y5TE9IYxAB",
+            "text": "Great"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxdVVHdE5kbHB5ZHpac2JtcHhjMlZRWHpCSFpsRRAB",
+            "text": "First of all the woman claims she saw me there before which I never set foot in her store. Just a fabricator dont go there with ur couple because she will cause problems. The food was nothing too hype about. Made me had a stomach ache afterwards."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213d2MyNUdNM0kyUmpSR1VVRlZPRWRoU0dSTlRuYxAB",
+            "text": "Great food. Wonderful staff.."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GaFRDMW1WbEJDU1ZCbWFXdGxjR2xLV0dwVFUxRRAB",
+            "text": "Good people"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWR2JVcHNRVmx0T1U1b05FUnhVR2hzV0VaS00wRRAB",
+            "text": "Food is good customer service is good"
+        },
+        {
+            "date": "4일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGMlRXRmlPR2MwWkVOV1ZtVkxRMDVhYVVoR1JrRRAB",
+            "text": "Delicioso 🤤 me gustó wow 🤩"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wMVNsRm9lRk55V0MxeFJYRk9NWEY0UjI5MFoxRRAB",
+            "text": "This was the best experience I have ever had I would definitely come back again"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25RdE1GVm5lakZoVTJwSVRXc3hVbTVmYjBkSU0wRRAB",
+            "text": "The make your own crunch wrap is amazing!! We will be back!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SV1ZXRkNTRUZ0TVZsc1JUbFpTSEJOZG5aTVJFRRAB",
+            "text": "Lady serving me was very nice and the food was made fresh 10/10"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKTU5XcDBPV3BpUTNwNmNVZHVaSGQ2VmtNd05VRRAB",
+            "text": "Great should try"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KeWVuRmhjV0ZmVDJ0QmEzRm5kRE5mVFRoa09VRRAB",
+            "text": "Friendly staff and amazing food!"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xka1pURTNjWGh0ZUc1V2VscGZUVFpvVkhaNE5tYxAB",
+            "text": "Wonderful food and amazing service. Better than Chipotle. I will definitely be coming again."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVNGVVMVRORGRuZFhKS1VqVm1MVzlyUzNsRGJYYxAB",
+            "text": "Wonderful food 🥑"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOUlEzZDFOR05ZU2xCQ1ZHcG9hekpuT0V0UVExRRAB",
+            "text": "The food is absolutely delicious."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xZMU1YTlljM0J1U0Y5UVJuTXRPVkJvYUc1Uk1sRRAB",
+            "text": "Awesome 👍"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214dk5UQk9VMGhRVmtOVmJIZDVWVEJ4UWtoRGJHYxAB",
+            "text": "The food is fantastic. So much better than Chipotle. The limon sauce is incredible"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GcVJWWXlha3AzWDNONmRHNVdZbEpRYVZwek5tYxAB",
+            "text": "Was clean and food tasted amazing"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwbWNuSlNNVWt5U0VSUGRuVjBTbTVPV0VOaU1YYxAB",
+            "text": "Quick and efficient service. Food is always delicious. Flavors are always up to par and consistent and the portions are great!"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZdFdqRnRRMEZrVUZFM05VWnRSazltWW1zek5tYxAB",
+            "text": "Food and customer service was amazing"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pObVJXSkNiSEZXU0hKaE1FUkhNbkY2YmxsaVJuYxAB",
+            "text": "Bad customer service\nNo greeting customer not clean\nOverall bad experience food quality is okay but service no good"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxNWFXcGZWbE5PUWxNeVVpMHdTMnhMWlc5bE9IYxAB",
+            "text": "Food was amazing and restaurants clean"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGSVEzbHlOVmMxYW1RMUxVSjZhRll3U201aVJVRRAB",
+            "text": "it’s very good"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxWWFESndZUzFKVUdSb1J6aHVOR1puYTNOWk1uYxAB",
+            "text": "Great food, great customer service. Definitely recommend!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FelR6SkRPRlpLUTFadlNubFVPRTVZV1VkWk1YYxAB",
+            "text": "Good"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oeGQzRmFiMlJFU1V0a1VHbGFPRU01T0hGS2IyYxAB",
+            "text": "Love the food. The taste, portion and service is spectacular"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkYVpYbzBYMlJ3VWxCRFdrdEVOUzFrTWpWR1VFRRAB",
+            "text": "Great overall 🎉🎉"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxd0xXdEJjVU5wU2pSa09XVnpOa2czYXpkQlIyYxAB",
+            "text": "Delicious food, quick service"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCNlVYSnNkMnhrU25aaldtUnlVV05mWm5KSU1HYxAB",
+            "text": "Great staff and food looks and taste delicious :))"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wWVlYVXdiRFZsWDFaeGVrTTBVbGd4UkcxRGNYYxAB",
+            "text": "In this current generation of Guac Times, Chipotles, and other steam table Mexican food stores, Guacado doesn't stand apart in it's offering of food.  You can pretty much get the same offerings in the other places.  HOWEVER, they carry the one thing that makes everything else significantly better.  The addition of their mango salsa heightens every bite of food.  What separates them honestly is that salsa and the staff.  A certain warmth exists when you walk into the store.  The staff behind the glass puts a lot of care into making your food and offers suggestions when stuck.  But one more important factor is the gut busting proportions they have in their bowls.  If you thought you were packing lunch tomorrow, you aren't, you're reheating the second half of this bowl of food.  And it will taste as good as it did when you first started shoveling this food into your mouth.  Very enjoyable, and will be returning."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWTVZEVmFZM0ZoT1Zkc2IwRlBjWFZtVVcwMlVrRRAB",
+            "text": "Food is very fresh and there are a ton of options on what you can eat and mix & match.  Location is new so everything looks clean presentation wise.  There are a couple of seats to eat but this is more of a take out situation.  Most of the employees are new so be prepared for that piece.  Looking forward to trying out more of the menu during future visits!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwT1dDMUxZMGhNVkVGZmRtMWtiM2xDT0VkUGVsRRAB",
+            "text": "Great dining experience, fresh food, great taste, clean and friendly staff.\n\nGreat addition in Howard beach."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SNVRqVTRSQzAyT0ZWMGFFVXRTbEExYlRobVpWRRAB",
+            "text": "I visited here with the my Family. We all try difrent dishes and each one has a great flavor and very filling portion as well. Staff was very helpful to navigate to make our dishes. Absolutely worth the money and a trip here. Thank you for the whole Team. We all loved it."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1Q09WOVdXRU5GVEUwMWJUaHhVMkp6YVZKcWJIYxAB",
+            "text": "Happy I found this restaurant. It’s a better option with fresh food to choose vs their competitors. I enjoy coming here. It also makes the options healthy as well. Great job !"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCT1RHOTJVMDlvWlRseWNtdENTak4yVVZGTE0xRRAB",
+            "text": "This was my first time trying this restaurant.  The place is clean and has a welcoming atmosphere.  I got the strak burrito and it was very delicious . Will be coming back and so should you"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sRGFVNDRhbXgxVDNBNFJXeHdiM1JzVjI1UVNsRRAB",
+            "text": "Awesome food.Great amount of food.  Clean atmosphere.  Friendly staff."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KdWRqbFpUSFU0UjBOV2QwZHBSSFl4WDFKcWEwRRAB",
+            "text": "Very clean and good looks very appealing and appetizing"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGelducE9PRlJhU0hWMUxXSnBhV0pUVEZaUmRsRRAB",
+            "text": "Me and my friends decided to try this place out and it was so good, friendly employees, nice environment, and the food was so good !"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGWlMwZDNTMkV0VVU5WVJsVlhjMUkxY201d1dGRRAB",
+            "text": "The food was so amazing i would consider telling everyone I know about this place."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGNVVVaEpNMU5xVDBSdFZGQnlaM05PZEhJM01sRRAB",
+            "text": "Amazing food and quik service. Really happy to dine in ."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKblJYUmFabnBMUTIxM1NYWlZiM0ptU1hoMllrRRAB",
+            "text": "Their food are the best that I had so far and  there employees are nice and friendly. Definitely coming back again"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WaWFFMHdSa2RCTTNwVVZFVk9UVEJXYzFJNFdVRRAB",
+            "text": "Kathy was very helpful with the menu and her customer service was excellent. She made my experience a pleasant one"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25nM05VVTJjbFl4V25aMlZuTmZTbGRZY0VwT2MyYxAB",
+            "text": "Excellent fresh food. Way better than the chipotle down the street and the workers here are much more caring about your food. Go here and skip the big franchise chipotle you won't regret it."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOUmIzTjVjRzA0VVhFeE9USjVhbmRyTlV3MGJGRRAB",
+            "text": "Honestly, this place is not real Mexican food — it’s literally the same concept and taste as Chipotle. The women working there have bad attitudes, like they don’t even want to be there. The men, on the other hand, were much friendlier. The food was okay but definitely not authentic Mexican — they’re Indian, not Mexican, so don’t expect real Mexican flavors.\n\nThey also pick and choose who they want to be nice to, mostly treating people from their same race better. Really disappointing experience overall"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsT00wOUhWM0pMVEY5eVpIaFFOVjlpV2paS1FXYxAB",
+            "text": "Food  was very good and fresh and the servers are polite and patient.\n\nLiked that they have sauce options and the fact that they are open late."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sUFJtRlNSeTFoYjFKTExXSjVSWFJpUlZoSlQwRRAB",
+            "text": "Wanted to like this place but the cleanness wasn’t there I get it it’s dinner rush but the whole serving section just looked like a war zone. Got a bowl with steak portion was hearty but worthless bc the meat had zero flavor and the steak was like pure rubber and toppings just covering the whole thing. Deff won’t be back"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGVlkwVTJXbkZZUzAxWFpGOVpVV1phUjNGMGRVRRAB",
+            "text": "The food is delicious, and the portions are very generous! One of my favorite places to pick up a tasty meal from. Staff is also friendly and welcoming!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WSFRIaHZabFZtVWxJNWRFdHhVbmt3WkVsVk9IYxAB",
+            "text": "I love guacado! Came here the day they first opened and have been hooked ever since. Food is great and tastes fresh, always. They have various options to choose from as well, even deserts too! Amazing staff and great customer service. And overall just good vibes all around. Would recommend 10 out of 10!\n\n, DJ"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5MWVsaFNXbm8wYkRkNmJYcFpkR2RGTW5OdloyYxAB",
+            "text": "Food is actually MID & over priced. The meats never have any real flavor. Depending on who’s serving the food, you will either get way too little food, or a very small amount. They will give one baby scoop of everything & over charge you. I had an employee literally rush me & decided she was going to add whatever she wanted to my bowl lol. Unbelievable. Would not recommend."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SV2FsOVJWa0ZRWmxJelNYWkxSR0ZSZVVsQk9HYxAB",
+            "text": "So good! You get more bang for your buck than Chipotle for sure. Staff could be a little more attentive, but otherwise all good! Excited it’s in the area and hope it stays"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wcFUzSmhSbFZFV0dkVVlXMUJWVVI1Wm01Nk1VRRAB",
+            "text": "Absolutely delicious! Ordered take out and everything was perfect. The quesadilla was so flavorful! 100% ordering from here again!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214bU5GbGpaaTB4VHpkelFWZGZVV3RQUW1aT04zYxAB",
+            "text": "The honey chicken is really good.\nThe staff was really nice and was not cheap with the serving."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ORkxXRkRUazF2YlZsMWNYcEhWRGhSU0hOTE4wRRAB",
+            "text": "Totally disappointing. We were very excited to try this place but we won’t be repeat customers. Service was unwelcoming to say the least and the food was no better than cafeteria lunch. I had a taco salad with steak which might as well have been beef jerky. The guac (which from the name of the restaurant you would assume would be notable) doesn’t even seem to have any spices in it, let alone flavor. Don’t waste your money."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWd05WVllMWEk0Y1doaWFUbERVVmRWUW1sdmNuYxAB",
+            "text": "Im sorry but I have to be honest the food is salty and has no flavor everything is just full of salt no offense but salt doesn't give food flavor spices and seasoning works much better I will not ever buy from this place again!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOdFlUZHdTQzFXVWpCME5YRnlia1ZqY0RGdVpuYxAB",
+            "text": "I come here all the time! The food is really good!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsTVpVaFVSMGRzUm14R01XRnJMVlpQUTNsVmRGRRAB",
+            "text": "workers are kind and professional and the food is delicious been eating there a lot recently, no complaints"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGbWIyZEpUbTFNWTFwMFNWWlRVVGRyUkVZNVRYYxAB",
+            "text": "Server was nice and helpful.  A lot of food for price.  Fresh!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SSVZqbGtSRE5NZEhSVU0zZGhibTF4YlZSUlRFRRAB",
+            "text": "Staff was very friendly and the food was great i would definitely recommend coming back great addition to the neighborhood"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxQlVGWk9aRVF5Um14WllsRmhZalIyZFRGWlpHYxAB",
+            "text": "The food was really good. I recommend going here again and again 🔥"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSdVN6azNTVEppUVdGbVh6Rk9ZekJUV1V0bU9VRRAB",
+            "text": "Love everything I have tried so far! The honey Chipolte chicken is the best!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CTFExZFZWRTAxVnpCcFIzWnNhMXBEVFRWNk5YYxAB",
+            "text": "Great location! Ordered the quesadilla and it was delicious. The service was excellent and the employees were very nice and helpful with my order. The location was very clean and i will definitely be returning."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WU2NuQTVSMGhhWkhBellYSmlUR1paUjBSVFEwRRAB",
+            "text": "Great new start in Howard beach\nDelicious options, clean atmosphere\nHad Barria Tacos and churros.\nLoved it"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWMGREWlZaV3BSWnpaVWFUZEtTREoxYmtwdFltYxAB",
+            "text": "The food was fresh, hot and sumptuous. Atmosphere and ambience was nice. Came to visit with my family. Had a great time. Enjoyed alot. Must visit."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGWWJtb3lOMU15U2xsaVVVZFJkVWhKTkcwdGFHYxAB",
+            "text": "Great place, will be coming back. Very fair prices to portion ration and extremely friendly staff"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Gdk5HRkhNVWxIWmtVelFtdzNjRkl5UjJOaGVYYxAB",
+            "text": "unbelievably delicious great job friendly staff\nmust visit"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKaUxWSkNRMnRSVkdweVUwSXhTWFJvZVVKWlRVRRAB",
+            "text": "I ordered the beef birria tacos, which I thought were bland, and the side sauce was cold. I am not sure what they marinated the onions in but, I have red fingers now after touching them to top my tacos. Then I had the bowl meal, which was much better and full of flavor! I also appreciated the generous portion; however it was all cold.  Good thing I took it home, so I reheated it and it was delish. My friend had the french fries plus the toppings. She was very disappointed! They were not french fries, but roasted potatoe wedges and the portion was half the size of what I had.  I will come back but, to order home and reheat, and will stay away from their \"french fries\"."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taUU5HTkNTVVZIWkU1d1JrdDFhbXd5WWpaUExWRRAB",
+            "text": "Amazing and kind service at guacado, and amazing food. Located right across the street from Limitless Fitness, it’s the perfect place for a healthy and delicious post-workout meal."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWSmVtUnRTMGhxVlUxdVZrWllRMUp1YlZseVQzYxAB",
+            "text": "Amazing food . Great service"
+        }
+    ],
+    "reviews_count": 79
+}
