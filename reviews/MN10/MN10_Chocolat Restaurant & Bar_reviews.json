@@ -1,0 +1,607 @@
+{
+    "name": "Chocolat Restaurant & Bar",
+    "place_id": "ChIJkbNGdhT2wokRJ1wWesV8yK0",
+    "grid": "MN10",
+    "address": "2223 Frederick Douglas Blvd @120th St, Harlem, NY 10026, USA",
+    "rating": 4,
+    "user_ratings_total": 3025,
+    "phone_number": "(212) 222-4545",
+    "reviews": [
+        {
+            "date": "13시간 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwQ1prSkpTVmREV2tONFlURmlabkl0UkRSMGNWRRAB",
+            "text": "Food was great but service was a little slow. I would go again"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VemRGTnZZVnBTTVROVGIyRlBSbTl6YmtKUmNIYxAB",
+            "text": "I went with my family to celebrate me and my grandmother’s birthday, there were 6 of us and no one enjoyed their meal. I had the red snapper Jamaican escovitch style and my pops had the snapper fried. It tasted like it was fried the day before, hardly any fish and the sides were flavorless . The manager apologized but was not trying to compensate us and our bill was over 400$ . Won’t be going there again and I’m hungry !"
+        },
+        {
+            "date": "수정일: 5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCNElMVGZnEAE",
+            "text": "Brunch was excellent, and a cool vibe ambiance . Excellent choice of back ground music"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1RWNESmhaak5GVjBoSmNrRXRjRTlyTUhoa1duYxAB",
+            "text": "This was the first time I had actually eaten at this place, which I had known about for a long time. My friend met me there, and we both tried the phenomenal crab cakes, fried chicken, and French toast. I had the lobster mac and cheese! The dark chocolate martini was very good!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWak5tMDNiakp4VkhJeGJIQlJhSFZYZDBKNVlrRRAB",
+            "text": "Atmosphere was nice walked in greeted with a smile and welcome. Service was great. Server was very attentive. No empty glasses just awesome all round. Food and drinks was on point.. We had  short rib mac & cheese and fried chicken & waffles, cheesy grits on the side and that fried chicken was nice and crispy on the outside, but also juicy tender on inside inside delicious! We definitely will be back."
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOdFdFZHBaVFJKVmpOSlJrMTFkRVpNTVVSdFgyYxAB",
+            "text": "Denzel is the hostess with the mostess. He is absolutely awesome!!!!!!!"
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMycmU3X1l3EAE",
+            "text": "I love coming here. I love that they are open at 10 during breakfast hours."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaV2NtaHFRazFmV1VaSlN6UlhhekZsVnkxTGJGRRAB",
+            "text": "Atmosphere was nice. Music was good and not loud just enough to have a conversation and still jam out. Chicken and waffles were amazing! Flavorful. We will be making another appearance soon. Thank you"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNMWVXeDNYM1p0V0Vvd01WaFdjVnByVEVkV2MwRRAB",
+            "text": "Sitio bien ubicado en Harlem. Los chicken & waffles, sin ser los mejores son más que decentes y el precio correcto. Personal muy amable y ambiente agradable."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GV09XSnBSbUpZUVZGRWQzWnZPRTR0WDFFdFptYxAB",
+            "text": "Had a great afternoon with my comadre. The food was good but the service was great."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCMlZFaHllSFJPTnpRNGVEVnpObE5WVHkxaFZrRRAB",
+            "text": "Thank you Chocolate for making my son's graduation event unforgettable. The atmosphere and the delicious food."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25adVRsTm9URUp0Wm5GUmVpMUVjVnAyTUhORU1VRRAB",
+            "text": "We went here after an early morning home going service for a bestie, so we needed food that would comfort the soul.\nThis place delivered.  The presentation was on point. The service was great and the food was delicious.\nSaving this as a place to revisit when in NY."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSRVptUmxVVmxPVDIxNWFHTmZibE53TjBKUGMwRRAB",
+            "text": "Oh my goodness the FOOD! The food was soooo good!!! We visited on a short NYC trip and it was so worth it. We had a party of 4 and all of us ordered food to go! Our bill came up to 630 and it was WORTH IT! This will now be a definite part of all our NYC trips. They add in 18% gratuity to parties 2 or more and it is more than worth it. We still tipped the waiter because he was great! Can't wait for next NYC visit to come here and eat again!!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kweWIwdEhNazlMY21GdlNGZEVUbkZXTFdGaE5XYxAB",
+            "text": "I don’t know why this once isn’t busier.  The food is always great.  A good go-to for out of town guests as the menu has great variety, the food is consistently good, and there is plenty of space unlike so many cramped NYC locales.  One ding on service for two reasons:  staff is pretty nice, but they insist on not seating you until your entire party arrives—and the place is consistently mostly empty.  It’s kind of absurd. Also, at times things like dishes never arriving will happen—as it did on my last visit.  But they have it to us to go free of charge (after reminding them they said they wouldn’t charge us and getting it taken off the bill).  But the guests were happy with the food, we stayed a long while and they all said “great choice!”"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taME4yVTVVV3RhYTNOaFYyeDFaMWxwZEVkdGFtYxAB",
+            "text": "For a Monday early afternoon was ok they need to learn how to make drinks rum punch was horrible when I left I forgot my cc and could of told me if they where more attentive but I had to walk back from 125th to get it and nope I will never go there again"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aUE5UVm5RME5EZVRkYVJFOXNTRGRIWW1sb2EwRRAB",
+            "text": "The food is wildly overpriced and mediocre. I haven’t been since 2012 and nothing has change. Never again!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SMFlsTjRVVzF5WDJ0VlJGTkVNa2g0Wm14NGJuYxAB",
+            "text": "Food is phenomenal"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wWGJIVkJTWGh1UW5ZeWMwRjFOV0ZETFZaeFNGRRAB",
+            "text": "My wife and I have been coming here and had a great experience everytime .. all the wait staff are attentive and keep up with keeping your glasses full at all times. We will definitely keep coming back for the Honey butter biscuits too as they are the BESTTTT !!!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjNFZGTkZSVUpsYjJwSmNsVlZaelZwZWpOUE4yYxAB",
+            "text": "Great food great music , great service"
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoUlQycG9hazVmZEhsclExTTFOVkIyYkVwaFdWRRAB",
+            "text": "I chose Chocolat Restaurant and Bar to introduce my cousin visiting from Savannah, Georgia, to a taste of northern hospitality while offering a familiar feel of Southern cuisine. The food was fantastic, and the overall ambiance was warm and welcoming.\n\nOur server and the matron d host were exceptional — providing attentive and friendly service that made our dining experience even more enjoyable. However, I did have a small issue when I asked if we could move to a side booth. The manager on duty at the time responded curtly with, “What’s the problem?” rather than offering a more helpful response. While I appreciated the explanation about limited seating availability, the delivery could have been more pleasant.\n\nDespite this, my out-of-town relatives still had a wonderful time, enjoying the meal, the lively atmosphere, and the opportunity to visit nearby street fairs in Harlem. All in all, it was a positive experience and I would still recommend it."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xneE1rODFhM1kxZG01UWVubGxaVlpzY1RGaU9GRRAB",
+            "text": "This is one of my local favorites. My son and I stopped in for brunch to celebrate my birthday. The food was perfect the service was amazing and the ambiance was as always Harlem's finest."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4M1lVTlpObVJRVjJGbllVeG9WWEoxZWs5V09IYxAB",
+            "text": "The food was amazing"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkWVNtSnllWFJoVmpGeVQycEtkblZ3YzNScFJFRRAB",
+            "text": "We had an amazing dinner with amazing service. We plan to return often. ♥️"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205MlVGZE9VekJzTkd4alVFOXZjbU5tYmtkeVdHYxAB",
+            "text": "Food was on point and the service was great!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5MlZ6ZHdRVXRVTmsxQlJFcFRWbVpsUnkxdldrRRAB",
+            "text": "Staff was amazing..."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Cb1J6WlhhV2xWZFZSdFlqWmZWVFJ5ZEUxc1dVRRAB",
+            "text": "Waiter took too long. Bartender was awesone. Atmosphere was great"
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMcDdLZWRnEAE",
+            "text": "We really enjoyed the food, service and the atmosphere at your restaurant. We’ve celebrated birthdays, anniversary and also brought in friends to enjoy the hospitality which they said they will tell their family and friends"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBNVIzUlJNM0ZuTFRKRVVIbG9TM1ZqWjB4V1dYYxAB",
+            "text": "Im from LA. I came here with my student while we were visiting Columbia University.  Everything about this place was a vibe. Food was delicious, our server Ashley was super attentive and great personality.  Im falling in love with NY. This was a great place to eat to start our trip. Loved this place!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWM1kzRjJkaTFxUzNNMmVqRnRielZ3V0RoRWNYYxAB",
+            "text": "Section reserved for 2 birthday parties. Servers could not figure out how to take individual orders, but managed to take orders at the bar just for the servers to bring the food to individual tables. Huh???? Doesn't make sense. Lost revenue when you let people walk out because of poor practices.\nThe bartender is slow. Bartenders should never turn their backs to a customer to pour a drink or to grab a bottle off of a shelf.\nThe food was tasty. Just had appetizers.\nOverall, this restaurant needs to work on serving the customers.\nAt the end, we got 1 sensible person to ask if everyone was ok. At this point, it's a tad bit too late."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xocVRGZzNibmhYZEZoSWVIaFFkRWh4ZFVWVmJYYxAB",
+            "text": "Malik and Vincent were great"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wUVIyWnVNbFZWY0d0aGJHZHVibkY2YzFJMFVrRRAB",
+            "text": "My favorite place in harlem"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1MkxVZERNVVE0YWtVNVlqQnVXVUpPZEdkT2RHYxAB",
+            "text": "It’s a true brunch vibe I loved the food and music. They will keep your glass full if you get the bottomless."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210U2FYZEhRVFYyY1MxS2FUbEhkME5FZEZCNGJHYxAB",
+            "text": "The Yelp community's enthusiastic reviews were completely justified. This place is quite small and very busy during lunch. But it's worth it: Great food and good service. The meals feature fresh components and excellent taste. Staff members show remarkable ability. The spot shows independent thinking!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSallWTmpka2hmWmxoWFIwc3pSa1ZYTWxOelVtYxAB",
+            "text": "The food was great, it was for my best friend birthday. She had the fried chicken, which was so crunchy and delicious. I had the ribs, which was so good but the side (coleslaw) was not to my liking. It tasted spoiled or it could have been the seasoning. I kept trying to eat it and I couldn't do it anymore. But besides that the place is great. I was a little upset that our waitress took her  focus off of us when she saw that a group came in. It took almost 20 to 30 minutes of me and my friend just sitting there for someone to acknowledge that we were done and waiting for the check."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsSWVGOWZNV3RMTm1aRWMweFZiRFpPT1U0NFlsRRAB",
+            "text": "This restaurant was beautiful the food was fantastic I would definitely recommend it & I’ll definitely be back soon!!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sWk1taEZkMkpEWjFaSmFWTXdTR2x6TWtoWVVWRRAB",
+            "text": "Our experience was wonderful. Our wait staff were attentive and the food, service,  and atmosphere was excellent."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrMmNIaFlSV2h5V25Wb01qQkVNVEJQU21sVFNrRRAB",
+            "text": "I love the music and the service was amazing. A beautiful place to relax after a long day of work. I truly recommend them!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GSE1XWkNURWgxU1cwMWMwWTBVbGxWUlhORVFrRRAB",
+            "text": "Walked in on a Sunday during brunch was greeted and asked if we wanted to be served indoor or out we chose out . Just sat us asked if we wanted any water . How never came back with water. Then 5 min later waitress came to table not really warm greeting!! Spoke to fast just felt rushed!! Nice atmosphere considering!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGelowVk9RMjVET1VOTE1uZHRZVWR2T0ZwSFgxRRAB",
+            "text": "Over all good place to vibe. Would recommend more seasoning for your dishes."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OVVUxazBWRWhTUlUwM1lWZEdabGRoZUVoSE1FRRAB",
+            "text": "Place the order to go and when I got home, unbelievable mac & cheese was burnt up. Chicken was soggy no good. Tried to call and speak to manager or owner and no help very bad business food was disgusting."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsRkxYUkpYMk5zVWkxSlZ6Qm1TVVZZVWt0RVUwRRAB",
+            "text": "This is the second time I had the chance to visit this restaurant. The food and drinks were delicious and a real vibr. Leon the owner was delightful. Try the biscuits and chocolate lava cake and thank me later."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCd1JYaEZiRkY1ZFVOd1ZVZHhNM0V4Vm1GRFJsRRAB",
+            "text": "I brought my wife there for her Birthday, this was our first time. We also had another couple with us they were also first timers. We all had a great time we were very satisfied by the food. The other couple ate and also ordered a to go meal thats how much they enjoyed themselves.  We expect to return before the year is out."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214bGNuZFhYMmhmU1dnMVZXUTFhMFY2VnkweFozYxAB",
+            "text": "Food overpriced. Fried chicken was fried well, crispy however bland, no seasoning only salt. Collard greens okay missing turkey bits. The mac and cheese was pretty good. Drinks overpriced too. Wasn't  a fan of the sangria. It's a one and done for me. Harlem soul food restaurants always misses. Brooklyn bound it is."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ob1lXMUdWVU51YzA1UU9GQXRRalJCWWtNM1YzYxAB",
+            "text": "It was my first time at Chocolat restaurant, I absolutely loved it. I loved the atmosphere and our server Ashley was so kind. The food was absolutely delicious. The cheesecake we had for dessert was fabulous. I will definitely be returning to this restaurant again soon. ⭐️⭐️⭐️⭐️⭐️"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOT2VHUkZRelkxWjFSUFNYUnhkMUZMT1ZKS1RHYxAB",
+            "text": "I absolutely love the good!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5TFoxbHNZMlV6VTBoeFZXUjBVVFpDVkdJeWNWRRAB",
+            "text": "Listen, folks. If you're in New York City go to Harlem, there is a restaurant soul food called chocolat. They have the best food in new for brunch and dinner all day long.  You can't go wrong.It's the best. It's clean and nicely decorated!."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWemRqVTRUMVJqV0Y5UFZsRXlkRXRaZEZGcU1tYxAB",
+            "text": "It was warm inside,  then it got cold.  The food was just okay,  was a bit disappointed in that area.  The waiter was new but he was trying,  overall it wasn't a bad experience,  but it was my birthday and wanted spectacular."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSMVoybGZiRUkzVFhCclptVnpTRlJuYkZWVVYxRRAB",
+            "text": "I had a great time! I dined along, sat outside since it was such a lovely day! My waiter was Andy and he was great very attentive and on point!! My steak was a bit on the tough side I got it medium well. It was bad but it wasn't great either. Everything else I had was good, Mac and cheese"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSTGEyTnNSMFpYU0ZWemJqbG9TSEJLYUhGb1ZYYxAB",
+            "text": "The drinks are good"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKMU1EVnFkVlZFY0ROM01EZDJNVkkyVnpsM1UxRRAB",
+            "text": "My friends, family and I frequent this place for brunch on Sundays. The food never disappoints, always good and always fresh. The menu variety is adequate and the prices are fair. Servers are friendly!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NMlJsTXlOM0k1TW14dGIwUnBWVFZWWW0xMGRtYxAB",
+            "text": "First restaurant we visited while in New York. This place is an entire vibe from the time you enter the doors until you leave. Amazing food! Excellent service. Mailk and Tobe were wonderful. You can tell that they truly care about the guests. Tobe has an energy that is unmatched. I will definitely be back!! Thank you so much for the wonderful dining experience."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5R2FXZGxablpDVDNBM1ZuSjNiMEZ5V1ZwNlVuYxAB",
+            "text": "Had an amazing experience at brunch. Went with no reservations and was able to be seated immediately. I enjoyed the unlimited mimosas. Everything was delicious, the ribs, the chicken and waffles. The cornbread was moist. The waitress didn’t give any recommendations however she was very polite and made sure our drinks stayed filled. I will definitely be returning."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205WE5WQk5ia3BqZUZSZk5XRTNSa1V3V0hkSVZXYxAB",
+            "text": "We had such a great time yesterday taking my dad and the family out! Big thanks to my bestie Ian for the amazing recommendation—he never misses. My dad, Bishop Darren Ferguson, was truly happy, and that made the day even more special. The food was delicious, and the service was top-tier. We arrived an hour early, but the hostess was phenomenal and accommodated us with no problem. Our waitress was attentive, and all the staff made sure we were taken care of from start to finish. A beautiful experience all around!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psU2FXdzFhSGQyUlhOVFprSTFla3h1YzFGcFVtYxAB",
+            "text": "Food was delicious! The waitress was nice. Only place I’d ding a point is the cost of the food. I was with one other person and we just had the chicken and waffles and each had a sparkling water and the bill was $85 😬 18% gratuity was automatically added but the menu noted it was applied to 3 people plus."
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOeVkwZHJVelV5Y3pnNVRXUlRVM1IxWVRKTFgzYxAB",
+            "text": "Great as always the biscuits changed a little bit and as far as flavor, it seem like it’s more of a honey than a butter taste and my ribs needed a little bit more salt in it, but the shrimps were perfect so was the shrimp and grits and the fried chicken that my wife had. I had a few drinks and they were pretty good too. I haven’t been there for a while due to my schedule, but they’re always our professional and the staff always welcomes you and you feel as if it’s not forced. Even though I had a little issue with two of the items, everything isn’t gonna be the same way every encounter but instead of a 10 out of 10, it was a nine out of 10, and it’s just me nitpicking. I had more pictures to show, but for whatever reason I’m unable to upload. My apologies"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKcmMwWlhOMkpoUVVONFFUbE5hVFoxWDB4SFVYYxAB",
+            "text": "The service was extremely poor the waiter never wrote down our order,  he did it by memory, as a result the items I order to go were not as they should have been. And one I never got. I order collard greens and kale to go and I never received it. The worse of the worse was the oxtails. The oxtails were sold at $42 for 3 pieces of oxtail. Unfortunately, these orders were to go so I didn't see it until I arrived home. I will return tomorrow to return it. I will NOT pay $42 for three oxtails. Now on to the chicken. I also ordered fried chicken to go, which the chicken was good, however I don't know what pieces I got. The only one I  knew was the wing. What happens to legs and thighs. Why did I get the breast cut up and make people think they have multiple pieces of chicken. The only recognizable pieces were the wings. Next I order a cosmopolitan which was awesome. And I wanted to a order another. But, the waiter was no where to be found. You must get a professional to your wait staff. And on busy days hire additional staff if needed. You have a beautiful restaurant, the food isn't bad, but $42 for three oxtails is unbelievable. Please do better. As a black women living in Harlem for over 70 years I like  to support my people. Your restaurant is making it very hard to do that. Listen to your costumers. In all of yours reviews your costumers complain about poor services, now I understand why. I will never buy take out food again, I spent almost $300 at your restaurant and was disappointed. The collard greens and kale I never got. Thank you.\nPS. I hope you see this review and respond\nAnd the food is overpriced\nYour restaurant  should not be taking credit cards away from the table and should take the payment at the table."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsU1lYbExSSFJ1WDFWSmJteGhUVzFtT1VSYVQxRRAB",
+            "text": "I love the chicken wings, the ribs and the drinks. Malik was very professional and nice and answer all questions I had and Mr. Leon was very nice  meeting him. I was able to chat with him and he was very friendly. I really love it here and will be coming back."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfbTVxWVN3EAE",
+            "text": "This was an amazing brunch spot. The staff was attentive and friendly towards my group. The drinks were tasty and strong, and the in-house DJ was amazing, bringing in the vibes. As for the food....impeccable. I got the Slow Braised Beef short ribs, and it was cooked to perfection. The portion was enough, and the flavor was well worth the price. Would definitely come here again"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfNDctR3d3RRAB",
+            "text": "We went on a Sunday morning around noon. Wasn't too crowded at all. We opted for the mimosas which were bottomless around $25. They have 4 flavors. We got the honey biscuits and shrimp for starters which were definitely really good.  That was the best part of the  meal honestly. Pancakes were ok. Service was decent.  Benedict looked good and I know the grits were good as well. Portions are definitely a good size. Took a while for us to get the check. However a big party did come in. 18% is added automatically for parties with 2 or more.\n\nI would definitely comeback."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJa3RQcWJ3EAE",
+            "text": "Chocolate was an OK place to have a bite to eat. I made reservations so I did have a seat when I got there. The place is very popular with people of all ages. The music was just right, not loud where you can't talk to each other. The food was good and tasty but it was just average. The service needs to be more organized and attentive though they were very pleasant. If I'm in Harlem again I would visit. Nice place with a nice vibe, and good food."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VMdVg3YmpPdGM2Z0F3EAE",
+            "text": "I mean…. The food was ok?! This time. I was here once before and the food was bussin. The service was good and so was the atmosphere. I’ll definitely come back. I’ll just order something else."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYeWVUSjNRRRAB",
+            "text": "The food was fabulous. The service not so good. There were 3 of us. 1 person drinking the mimosa special. She had to keep asking for a refill. No other guests should know what anyone is drinking. There was hardly no one in the place. Servers just standing around talking w the bartender. Not the best look for a tourist like myself. I had a question about the menu. Had to get up, interrupt the chatting and ask a question. Very dissappointed in the service. WE can do better. I still tipped 25 percent. WE must do better."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GUGIxZFFaR05LWkhZME1HdDRNV1Z3VW5WTFFYYxAB",
+            "text": "I decided to celebrate my bday here. The reason why,  because of the location but also because of the name of this restaurant. The ambiance was something I really enjoyed. The patience they had was comforting. In addition, we got served  as soon as we walked in. The waiters really was sweet and accommodating. I ordered the salmon burger with fries. At first, I was skeptical because everyone is obsessed with anything salmon ( which I don’t mind) but then they brought it out and I tasted it .. 10/10. I liked the sauce that they put on it, which was a sweet and not too overpowering. I was a little skeptical about their fries because I like my fries seasoned. But when I tasted it, it was crispy and nicely seasoned. Me and my bestfriend noticed aswell that our food was still hot when they brought it to our table. Me and bestfriend had the mango margarita. The drinks  was strong and sweet. Lastly, the desert. My best friend got the chocolate lava cake. She told me to try hers… Omgoshh. The chocolate cake had a rich and dark taste to it. It tasted mature and not too sweet. The chocolate cake texture was soft and warm. The chocolate sauce on it wasn’t exaggerated. The vanilla ice cream on the side had a nice little touch. I got the vanilla ice cream. Which was sweet and simple. Me and my bestfriend didn’t feel rushed to pay at the end."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3Z3ZIdVFREAE",
+            "text": "I love Chocolat! However, I was there 8/16 for the NYC Summer Restaurant Week 2025. I was ready to place my order, because I thought about it all the way there. When I got there, the bartender said oh, that’s only Monday-Friday. The advertisement was false. Other than that, the food was amazing as always."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2podmVYaDRTbkpXZEhwcVVEbDJRelUwUkU0ME5YYxAB",
+            "text": "Everything was amazing. Our waiter Nathan was very attentive and friendly. The food was great we came for brunch. My daughter wants to come back tomorrow lol. Thank you!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJS2UydVRwdF9ILTNRRRAB",
+            "text": "I am a member of Chocolat's birthday club. I went to restaurant on 5/29/25 to celebrate my birthday. The customer service was awesome. The food was immaculate. I ordered the salmon with shrimp and lobster sauce and spinach and smashed potatoes. I wanted extra sauce for the salmon and the staff accommodated me. My friend ordered the penne alla vodka with salmon. Both dinners were thoroughly enjoyed. Thank you for your great service. Looking forward to my next reservation."
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OME5rRXpVMlpaU21oVldrcFVYM2xMYnpsbmFFRRAB",
+            "text": "I forgot I went here, but I took my daughter here because she had got a perfect report card and it was a spur of the moment type thing. Everything was good. It was empty I guess because of the time in the day we went. Food was really good. She enjoyed her. I enjoyed my food as well. The only thing I can honestly say is, the restaurant smell like dirty mop, water."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuNTd2VS1RRRAB",
+            "text": "The food was absolutely delicious. All the dishes we ordered were great. The lobster Mac n cheese superb, chicken dishes were not dry, very crispy outside and moist inside. Loved the ambiance. Our waiter was terrific. Kudos to owner, Leon Ellis for such a wonderful place."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmcWEzdWp3RRAB",
+            "text": "A beautiful upscale soul food place in Harlem. I got the fried chicken with collard greens and the lobster mac & cheese. It was all so delicious! The chicken came with a dipping hot sauce that was out of this world. I also got the chocolate martini my girlfriend got the pear martini, and they were both excellent. All the staff were friendly and fast. The atmosphere was wonderful. Definitely recommend going here even if you’re not close to the area."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoWWEyNWZZa1JsT1ZWRWRtMVphM0ZLUlRGSU9YYxAB",
+            "text": "The food was amazing. It was crowded but everything was awesome. Loved this place"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21welZ6TnFha0ZIY0ZRd05FazNlbkpyVERWRWVXYxAB",
+            "text": "First of all, the restrooms were clean, sufficient toilet paper, paper towels, soap and hot water! I had traveled from Brooklyn on the subway so I had to use the bathroom first 😂.\n\nWaiter was professional and open to questions and made suggestions based on my conversation. This was my first experience at the restaurant. I opted for the Red Velvet Waffle with fried chicken. Omg the chicken was perfectly seasoned and not greasy! I honestly didn't need syrup on the delicious waffle. Looking forward to returning before the end of 2025 to try something else."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBMU0yZzRkbGhrZFVwbmNVUmxSblZrZUdNeE5WRRAB",
+            "text": "A Harlem GEM. Food is fantastic - mimosas were truly bottomless - did I mention the food was fantastic??\n\nAnt was our server- 10/10, great interaction and hospitality.\n\nHIGHLY recommend, ASAP!!!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmcDRUSEtnEAE",
+            "text": "Great casual spot with excellent food huge portions great prices love the fried shrimp and calamari. They also have an excellent Maryland style crabcake and the short rib was really really good with the fresh spinach and mashed potatoes. I definitely we will be back soon."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuaGJXUFVREAE",
+            "text": "I'm not really sure how we saw advertising for Chocolat,but I'm so glad we did.While visiting NY with my best friend, we had Sunday brunch at Chocolat before heading back to Connecticut. First, let's start with the service. We were immediately seated. Malaki, our waiter, tended to us with professionalism and kindness. We started with calamari which  was the best I've ever had. I had buttermilk pancakes and southern sweet chicken. Although Malaki said it was going to be a mixture of dark and white meat, it was dark only. It was still delicious. The chicken had a batter crust and had syrup drizzled on it. My BFF had the shrimp and grits. She let me taste her dish. I was envious. We are from the south, so we know grits! And these grits were cooked to the perfect texture. The flavors were perfect with no one overpowering the other. One bite was engrossed with the bacon. The next bite had just the right amount of cheese. But the bite with the shrimp takes you to a place that makes you hold your breath and chew slowly to savor the taste and moment. The shrimp have a smoky grilled taste, and with the grits with bacon and cheese make this the best shrimp and grits I have ever had. I'm already planning my next visit, and you'd better believe I will get shrimp and grits! And both were just as good the next day!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMc2JTN1VnEAE",
+            "text": "Went to this restaurant for a friend's birthday dinner. The restaurant is nice and clean with a lot of seating space inside and outside. The food and the drinks are really good.  Everything tasted good, and the portions are big. Good customer service. You must try the calamari and the fried chicken. Salds are very good as well. I definitely recommend this place, and I will be returning."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsZ2JqdGVBEAE",
+            "text": "4 stars only because they ran out of collard greens. Sweet plantains cooked to perfection, kale was steamed and garlicy. Otherwise, food was excellent,  very friendly & welcoming staff. Great place for dates, anniversaries,  family gatherings,  or just to get some home cooked comfort foods. Loved the biscuits in honey butter, 2 in a plate, but my greedy self ordered 2 orders, well worth it. Braised BBQ ribs were so tender, fell off the bone. 3 cheese mac & cheese was a hit. The beautiful beet salad with grilled shrimp was mouth watering. Did not have room for dessert, but it was definitely worth my next trip. 😋"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSdGV2a0RREAE",
+            "text": "First time at Chocolat, but it will not be my last. The food was delicious. The atmosphere was nice, although the music was a bit too loud for my taste, but still a great experience. A couple of things were messed up with our order, but not enough to mess up Brunch.\nThere is conflicting information regarding gratuity on their website and menus in restaurant. 18% Gratuity of parties of 4 or more (menu online) is okay. Charging 18% for parties of 2 or more, I don’t agree with.\nAll in all, one of the better restaurants experiences I’ve had in Harlem"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taTmJWcFNUVlpLTFVweU4zRm1MWE00YW01SmFXYxAB",
+            "text": "All the waiters are extremely friendly & accommodating. The food was delicious. We got French Toast & chicken  instead of waffles & chicken. They apologized & brought out the waffles for no extra charge. The chicken was moist & lightly crispy. My salmon burger was seasoned to perfection so so good. I would highly recommend coming here."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZaFphemtRRRAB",
+            "text": "First time going to chocolat restaurant and it won't be my last time! It was 8 of us including an 84 year old who was jamming to music! food didn't take long to come out of the kitchen and the servers all helped when we wanted something."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1MVJtbGFRV28yTFU5UVdWRnhjVWM0YUVsd1VHYxAB",
+            "text": "This was the 1st time I dined here I partake in restaurant week. The service and food was great. I will come back for the mac and cheese!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURyNmZMNkhBEAE",
+            "text": "I had a birthday dinner here of about 15 ppl. The manager and services were all very friendly and accompanying. The prices were good, for such a large party. The bill was over $1000.Many glasses of wines and drinks were included in this price-I've seen worst. I personally felt like everything i tasted was salty. I had a taste of different meals at mt table that day and wasn't very impressed by the salt. Someone else at my table also spoke about the salt. I also had a comment that the jerk chicken could have been a little more tasty. Someone at the table enjoyed the chicken and waffles as well as the lamp chops.Also they could not accommodate dietary restrictions because all the food is prepared in the same kitchen. They do offer inside and outside sitting. I was expecting a fancier place but it was still okay. They should add more fancy stuff to promote the name of the restaurant more (both for food and atmosphere. Maybe a big chocolate bar for photos/fun or chocolate design by the Bar, fancy chocolate meal- i dont know just something exciting like the name). Overall, it's a clean place and everyone had a great day. The restaurant grade is an A."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNM1YzRkxRMnd5Ykc5NE9HTm5jVkZmZEhoNFJFRRAB",
+            "text": "Chocolat is the perfect place for any night out. The exceptional service and fun atmosphere made our dinner experience extra special. Not only was the food delicious, but the drinks were also fantastic. We came here from out of town and are leaving with the hopes of returning in the future! Overall great choice!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwVlpFZFNPV2hKWDNoQ01scEpWMVowY2xsdk5WRRAB",
+            "text": "I have not been here in years but still the place i remember good food and  drinks."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkcjdIU2hnRRAB",
+            "text": "Fabulous, fabulous, fabulous!!!!!\n\nEverything was so tasty that I forgot to take pictures of the entrees as they came out, I just wanted to stick my fork in my plate. I had the beet and arugula sandwich and mac and cheese. LOVED IT!!! My husband had lamb, mashed sweet potatoes and spinach. Spinach lacked seasoning but still thoroughly enjoyed his plate. My friends had the shrimp and grits and steak, everyone wanted to lick their fingers. We ordered one Bellini then switched to bottomless because the bellinis were so tasty. EVERYTHING WAS GOOD, so glad I found this place during my one day NYC trip. I will definitely return and recommend to anyone visiting NYC.\n\nWe met the owner and he was very nice even when my friends mom tried to convince him to add discounts to his pricing lol. Such a good sport"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZaUxlb0hnEAE",
+            "text": "The food, service and atmosphere was great! I didn't take many pics of all our food because we were too focused on trying to eat it. I would definitely go back."
+        }
+    ],
+    "reviews_count": 85
+}

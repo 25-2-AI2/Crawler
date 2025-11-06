@@ -1,0 +1,530 @@
+{
+    "name": "Garden Cafe",
+    "place_id": "ChIJ6TCT6PbzwokRfsZUbEWFNWk",
+    "grid": "MN12",
+    "address": "4961 Broadway, New York, NY 10034, USA",
+    "rating": 4.4,
+    "user_ratings_total": 427,
+    "phone_number": "(212) 544-9480",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25vNExYSkJkVjh3UWxWeFRGUm1OR1JsVFVndGNVRRAB",
+            "text": "Beautiful small dining spot in the heart of inwood. My go to for a coffee, grilled chicken, or just a short getaway. Outside eating in their backyard."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxbWNFTlBSamd5Wm01cWMxbENla05FVnpCWllXYxAB",
+            "text": "Muy Bonita experiencia solo que los waitress son Un poco lentos en cuanto al servicio, muy bonito lugar para compartir en familia amigos y pareja , tienen los 7 días happy hour dispose de 3 a 7 pm muy buenas bebidas y muy buena comida deben ir a conocerlo muy buena experiencia vivimos 👌🏻💕"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5TFNFMDNPRFIxVTNKSkxWbFphM3AzZGxob1JGRRAB",
+            "text": "The staff is very friendly. Seating is available in the garden and indoors. The menu has great variety and great prices. I've had the chicken sandwich, burger, wrap and many more items on the menu. Great spot for brunch or a quiet meal."
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OeGJVTXhObE5wUkhoRFRqWjVXR3MzUW1kWFRWRRAB",
+            "text": "Excelente lugar para pasarla bien en Familia. Exquisita comida lo recomiendo."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205WFZEZzNOekJGYWxaT1JuTTBTbWh6UlRGeFJtYxAB",
+            "text": "Having dinner in a small garden on a breezy summer evening felt even more special because of the beautiful atmosphere — it was just perfect. The calamari was slightly overcooked so it was a little bit chewy, but it was well-seasoned and crispy, so still enjoyable. The vongole pasta was also an overcooked, but the clam flavor came through nicely, making it tasty overall. The pork chop was again slightly overcooked, but not dry, and the side dishes, spinach and mashed potatoes were perfectly seasoned and well-prepared, making the whole dish satisfying. The frozen margarita was only $2 until August. It was very refreshing and paired well with the food. The atmosphere was great, and the staff were very friendly, which made the dining experience even more enjoyable."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ReWJWcFplV3hIWlVsdlgxRkRWSEJXTlRSRFVGRRAB",
+            "text": "Quaint, upbeat, great food"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tabFprWTFVM1V6YWt0b1FuRlZTVEphV21OemNFRRAB",
+            "text": "Amazing salads, great atmosphere, great location that really feels like a mini escape. The only downside is that it is a bit slow service but if you know that going in it’s ok."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taSlFUSnllVGxaWjBod09GSjFZMmN6VEU1R1EwRRAB",
+            "text": "Beautiful and great service all around, food was delicious!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aYWJFUlhkbXRMYTA1VU1ITk5ZMVZET0hvNFIxRRAB",
+            "text": "I was looking forward to the pumpkin ravioli I ordered through Seamless, and it was even more delish than expected! The garlic cream sauce put it over the top for me :)."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxMkxXaFBRMlpOZFVvNVNubHpkVXB2UzBSaWNVRRAB",
+            "text": "Very delicious food. They also have a beautiful outside eating area."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OMlJGbGtkMWhMWTNsc1J6SXlZemxRUjJ0UFpuYxAB",
+            "text": "Great experience!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPYUg2N19COHJuZ1J3EAE",
+            "text": "Lovely patio, excellent service, amazing food, Love it!!!!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZNmNhc25BRRAB",
+            "text": "Garden Cafe gets points for being in the right place at the right time, but beyond that, it was pretty mediocre. My top tier chum who literally went to the school of hospitality and I came here for a strategic lunch/rest this past Saturday during the Great Saunter (an annual event I would heartily recommend to anyone physically and mentally able - five stars all around). After not finishing the Saunter last year, I decided at the very least it was important to get off our feet for a bit, and this location made a lot of sense, literally a few buildings away from the official route off Isham Street very close to the halfway point of our adventures. Given how we were feeling at the time, this was definitely within a quarter mile of where we needed it to be before people started getting VERY yowly.\n\nThis area of Inwood is really pleasant; I've been over here now a few times and it's super underrated because most people never bother to wander up past the GW Bridge. But it's super chill and gives off some Brooklyn vibes. And optics-wise, Garden Cafe fits right in. True to its name, it has a great outdoor seating area in the back, which was the perfect antidote on a pleasant day with sore feet. The interior though is dimly lit and very claustrophobic; each time we went through (entering and exiting), we had to wait for other people to pass in the area by the restroom/awkward bar area. I'm not sure how you improve that situation without a full-on reno, but it's not the best. The outdoor space helps for sure in that regard.\n\nWe needed carbs like the wolf with 16 miles to go on our trek. I went with the strawberry pancakes with a side of scrambled eggs and a vanilla latte (mostly so my chum and I would remain on speaking terms after only having a fraction of my normal coffee intake at the beginning of the day). Everything was fine though nothing to write home about. The pancakes were a little dry and definitely needed the accompanying syrup, and the eggs conversely were wetter than I typically like. They also needed a bit of seasoning but they did what they were supposed to do. In hindsight, the latte might have actually been the best of the lot - it had a visually pleasing design from the milk pour and was tasty. Most of the patrons we saw nearby were on mimosa benders, which sounded fun but we had a job to do. Next time.\n\nThis place got a lot of points off for the service. Our waitress was not particularly friendly - very monotone and never smiled, and once our food came? A ghost. We rarely even saw her in the patio area and we probably ended up staying an extra 15 minutes because we literally just couldn't find her to get the check. Really odd unforced error and it was actually close to the point where one of us was going to have to go inside to actively find her to ask for the bill. Not good at all.\n\nIt wasn't a terrible meal by any stretch and I think ultimately you give it a thumbs up for providing a spot to rest and eat, but most people would probably consider that the bare minimum requirement of a restaurant. I'm sure you can find better around here."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZN3RpWHVRRRAB",
+            "text": "Food quality continues to go down hill.  The chicken was dry and the salmon was way overcooked and tasteless.  It's unfortunate, as this restaurant was always my go to when visiting family in Inwood."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvM2E2MTJ3RRAB",
+            "text": "Nice ambiance, it’s a relaxing place to get some good food, do some work, catch up with friends. They have a beautiful backyard as well."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURva2FXTHV3RRAB",
+            "text": "Quinoa salad was really good"
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwcFBuVVB3EAE",
+            "text": "Food was delicious, recommend the veggie burger and pesto pappardelle"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRMlpYREF3EAE",
+            "text": "Excellent!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnbHBEd29nRRAB",
+            "text": "Great food!!! Great neighborhood spot for lunch brunch and dinner. Great spot to go eat and work remotely. Great spot for family or a quick get together with friends or a date. I like this place a lot!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBdC16U0R3EAE",
+            "text": "I like this place, quiet and relaxing. Their food is delicious. The only thing they open at 11 am. Besides that, I highly recommend this place."
+        },
+        {
+            "date": "9달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfbTdUd0FnEAE",
+            "text": "La comida estaba buena, fresca y ligera. Me gustó el salmón con arroz y vegetales. los meseros son muy amables y el lugar es lindo. No tengo quejas. Aunque la comida tomó su tiempo valió la pena, porque todo es hecho al instante. Estaré regresando."
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1NXBlVUVREAE",
+            "text": "Excellent, I love Garden Cafe"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmLXBxcmJBEAE",
+            "text": "The food is very delicious and the service is excellent, good atmosphere, the food arrives on time and everything is excellent"
+        },
+        {
+            "date": "수정일: 10달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIMTRYREVREAE",
+            "text": "Update: tried to give this place another try. I ordered the warm apple pie and what they sent was hard, cold and looked half eaten.\n\nI really like the breakfast and latte here but unfortunately I can’t rate them well due to multiple delivery mishaps. I ordered a chicken Parmesan sandwich and waited over an hour to be sent the completely wrong meal (first picture) When I called to try to rectify the situation, the person was not helpful at all . I also received a lemonade that was completely spilled because they didn’t tape the cup. I ordered the chicken parm sandwich again and the second picture shows the amount of cheese it came with."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2bmVmbG53RRAB",
+            "text": "I went to this place the other day with my friends there and the food was so delicious, the atmosphere was nice  and the service very friendly 🙂 I’m very excited to go back… I recommend it 100%"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzeGJYUmdnRRAB",
+            "text": "Absolutely one of my favorite places. It has a beautiful outdoor area. Happy hour daily. The pumpkin ravioli is delicious. Today i had very good garlic parm wings. They leave you alone to do your thing. What more could I ask for?"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzaE1yNUtBEAE",
+            "text": "Excellent Service, Food and Drinks."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYaHFHb0xBEAE",
+            "text": "I just love to come here ...nice and kind service 💫🌄✨️"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURucDh5dm13RRAB",
+            "text": "Best cappuccinos !"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuOW9EaENBEAE",
+            "text": "Waited 2 hours for food and still hungry brunch is not realy picky eater friendly 😭"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIaXJlcDFBRRAB",
+            "text": "I celebrate the 85 years of my mom. I want to say thanks for all the details and food we received. We are so grateful."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIb3Fyc1FREAE",
+            "text": "I love it,  the food is fresh and delicious. The staff is great\nDefinitely recommend ."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIbU0zN3F3RRAB",
+            "text": "Family Gathering after a Funeral.  Comfortable atmosphere and great Staff."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3alp2N0VREAE",
+            "text": "Mid"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3cWVYckxREAE",
+            "text": "Excelente servicio muy buena comida y cómodas instalaciones"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3a28ySUN3EAE",
+            "text": "I love it. Great staff, amazing food."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3b0pfX1ZBEAE",
+            "text": "\"I had the pleasure of dining at Garden Cafe with my colleagues at the end of the school year, and I must say, it was an unforgettable experience! The restaurant truly exceeded our expectations.\n\nDespite the scorching heat on that day, the outdoor setup was incredibly cozy and accommodating. The service was top-notch, with friendly and attentive staff who ensured our every need was met.\n\nBut the real star of the show was the food – absolutely delicious! Every dish we ordered was flavorful, fresh, and expertly prepared. It's clear that the chef takes pride in their work.\n\nWhat impressed me most was the warm hospitality and personalized attention we received. It felt like we were part of the family!\n\nI'm so grateful to have such a gem in our community, and I highly recommend Garden Cafe to anyone looking for exceptional dining experience. Kudos to the owner and staff for creating a truly special place. This restaurant is a must visit!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNidkkyQkR3EAE",
+            "text": "Every time I dined here I have had excellent service the food is exquisite and the music is delightful I am a repeated customer and will continue to come to come here for the rest of my life. Do not even get me started on the patio it's so…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNibEthM0dBEAE",
+            "text": "Nice, beautiful and delicious food, good price."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiMk96bjZnRRAB",
+            "text": "The food was great! Cute garden vibe as well. I really enjoyed the coconut shrimp and Pasta a Vongole 🍝"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3b2FpcWp3RRAB",
+            "text": "I forgot about the patio space in the rear, they now have a happy hour. Go for a meal and relax."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ4emNXTUtREAE",
+            "text": "Good food nice place"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMbF9qVzdRRRAB",
+            "text": "My family and I had a wonderful experience there. The staff was friendly, and the atmosphere was great!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMN3VhcExREAE",
+            "text": "I recently attended a work gathering at Garden Cafe, and I am thoroughly impressed. The ambiance was perfect for our gathering, with a blend of cozy and modern elements that created a welcoming atmosphere.\n\nThe staff was incredibly attentive and ensured that everything ran smoothly from start to finish. They were friendly, efficient, and went above and beyond to accommodate all our needs. The service was top-notch.\n\nThe food and beverages were exceptional. The menu offered a wide variety of options, all of which were delicious and beautifully presented.\n\nThe café’s layout was ideal for our event, providing ample space for networking and discussions and having a good time\n\nOverall, Garden Cafe exceeded our expectations and played a significant role in the success of our staff gathering. I highly recommend this venue for any gatherings .Everyone loved it and we look forward to returning for future events!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMdHFuOXl3RRAB",
+            "text": "I came here for an event for my school’s end of year party and had no idea what to expect. The staff was very friendly and welcoming. Bartender was very nice as well. I immediately noticed the cleanliness of the place and the foods we were served were delicious. The atmosphere was nice and cozy. I’ll definitely be visiting again."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMNXYzamtnRRAB",
+            "text": "I want to extend my heartfelt gratitude to the entire staff who made our end-of-school-year event a resounding success. The service provided exceeded all expectations! Ines, one of the coordinators, was instrumental in facilitating our reservation and ensuring that every detail was meticulously taken care of. She even went above and beyond by enhancing our package deal and making additional accommodations on the day of the event.\n\nOriginally scheduled for a 2-hour duration, the open bar was graciously extended by an hour for our party. Furthermore, the team at Garden Café kindly opened the bar half an hour earlier than agreed, at 3:30 pm, to accommodate our needs. The food was not only delicious but also plentiful—so much so that there were leftovers, which some attendees happily took home.\n\nOverall, I couldn't have been more pleased with how everything turned out. Ines was absolutely fantastic, and I eagerly look forward to organizing future events with her assistance. Garden Café has certainly earned my highest recommendation for events, lunches, or dinners.\n\nOnce again, thank you all for your outstanding efforts and for making our event memorable in every way!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMNXRtbHRBRRAB",
+            "text": "I recently held an event here for my staff. My coworker and I had been in communication with the manager, Ines, for 2 months leading up to the event. They were attentive from the beginning answering all of our questions promptly and even making adjustments to their menu for us. We had 50-60 people show up on the day of and they made sure we were well taken care of. Our event was initially a three hour event with 2 hours of open bar. We had previously agreed on starting the open bar an hour in to the event but on the day of (which just happened to be the hottest day of the year) our guests wanted to start drinking sooner. The manager promptly opened the bar within a half hour of our start time. Our event ended up running later, going an hour longer than previously planned but, Ines provided us with a full extra hour of open bar going above and beyond what was expected or even paid for. As part of the menu they did provide us a buffet where all of the food was great. We had appetizers and main dishes we previously agreed upon and was served by some of their wait staff. All in all, I would say it was a very successful event. Everything leading up to it ran smoothly and they were flexible in working with us with anything that may have popped up. I would definitely recommend garden cafe to anything thinking about hosting any event."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMLXZfQklBEAE",
+            "text": "The atmosphere Is very pleasant and cosy . Excellent service and very good attention .Recommended 100%"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMMnUtbzBRRRAB",
+            "text": "Delicious food and very attentive servers"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMMnFfV193RRAB",
+            "text": "Delicious food and very attentive servers.\nLove their Caesar salad and lattes. Recommend going to the patio amazing ambiance."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkcExEQjBnRRAB",
+            "text": "This place has a wonderful ambiance and vibe. I did my baby shower at this location last year and it was simply a pleasure having the celebration here. The food was amazing and the place is beautifully decorated. I didn’t need to add much decorations for my celebration. Doing business with the owner / manager, Ines, was straightforward and I had nothing to worry about from the beginning to the end. The prices were reasonable and the owner and staff were professional the whole time. I’m super glad I didn’t have any extra stress during this special day! Thank you Garden Cafe!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNZb3NmWTNnRRAB",
+            "text": "The food is incredible, the burgers were extremely delicious! Great service and a nice environment to sit down to enjoy a meal. This is a great spot for a date or to bring your family. I'm definitely going again!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwMDVfR1BnEAE",
+            "text": "I’ve been here a couple times and I recommend Garden for all occasions. The care put into the food, service, and atmosphere is impeccable. If you just want a quick bite the appetizers are delicious, and so is the rest of the food. They have many different types of entrées- pasta, burgers, sandwiches, salads - and awesome desert (highly recommend brownie affogato!). Best restaurant in the neighborhood."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKaEwtaGJnEAE",
+            "text": "It's been a few years since I've been here. But I will it has improved. Everything was good and fresh. The staff was very friendly and kind. The ambiance is chill. I love their garden area."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDNV8yUGp3RRAB",
+            "text": "Our friend who lives in Inwood invited us here, so we knew it had to be good. The outdoor garden space is fabulous. The food, the staff, the atmosphere were all world-class. If you’re in the nabe or nearby, GO! We will definitely visit again."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxbTRyb1hBEAE",
+            "text": "I really enjoyed my time in Garden Café. I went with a dear friend of mine and we really loved it. As my appetizer, I had the coconut shrimp with the honey mustard sauce & OMG, that was good. As my entree, I had the chicken cordon bleu with…"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNpMElYclJnEAE",
+            "text": "Love their outdoor garden space, a true hidden gem. Prices are reasonable and my understanding is that brunch is available all day? Only criticism is that service is slow every time I’ve been there. Pro tip: if you’re in a hurry, ask for the check when the staff clears your table."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSd09iSm9BRRAB",
+            "text": "I was walking home and stumbled upon this gem of a restaurant. I loved everything about it and plan to go again soon with my friends and family."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNobXU2aGpnRRAB",
+            "text": "I love this place very gorgeous decorations and relaxing environment. The food is very good tastes healthy and fresh."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNZeF9HMnJ3RRAB",
+            "text": "Excellent service. Had the luxury of having 2 servers which were great at there craft Liza & Jennifer"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCOE15VjRBRRAB",
+            "text": "I ate my food before i can take a picture to show(so weird right). Food was good. Place is a little hidden gem, employees are super warm and welcoming."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqbTZhMmZBEAE",
+            "text": "One of my favorite places. The food is Always amazing."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSamEtaG9BRRAB",
+            "text": "Best place to Share with family and friends. The food is delicious and they have the best cocktails ever. I would recommend it 100% 🥰🥰🥰🥰🥰"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlbXEzZDhnRRAB",
+            "text": "I like their brunch and other pastas but portions are off these days. The mushroom or squash ravioli have nothing inside of them. Feels like you’re just eating the half’s of raviolis. Not worth $19. Hopefully it was just a fluke."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNobXJMa3dRRRAB",
+            "text": "When you walk in you are greeted by the staff, soothing jazz, and beautiful decorations. The food is just as delightful."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhem9POHpRRRAB",
+            "text": "Great casual Italian American restaurant. Affordable prices , mediocre service and a fabulous atmosphere. Would visit again for the ambiance."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwLWR5dmFREAE",
+            "text": "Best place ever for brunch and birthday celebrations ☺️"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwNktiWEJ3EAE",
+            "text": "I have been here 3 times in the past few months and I have to say it is pretty consistent with amazing food quality! I’ve gotten the grilled chicken sandwich twice and both times it was really delicious. I’m not sure the sauce that they put on it, but wow is it tasty! The back patio is so quaint and decorated nicely for such a nice vibe. Though each time it seemed to take a while to get our waitress to our table, when she finally arrived she was very attentive and sweet and made good recommendations. It’s now one of favorite go-to spots in inwood!"
+        },
+        {
+            "date": "9년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnb3BDUkFREAE",
+            "text": "Great customer service. The waiter went out in the rain to get a candle for my dessert to surprise me. The food was great and reasonably priced."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJN01fVzh3RRAB",
+            "text": "A cozy and nice restaurant. They have a backyard garden place as well which is lovely. The food was good but nothing extraordinary."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNbHF2ODFBRRAB",
+            "text": "The burgers were truely amazing they are cooked just how you desire, their wine selection is amazing, i loved this place,  customer service was one of the best, the environment was lovely and literally no  complaints this place is awesome 👌.…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxN2Z5NUlnEAE",
+            "text": "Hosted my daughter’s surprise party at Garden Cafe a few weeks ago. The patio is beautifully decorated, staff went above and beyond, food and drinks were AMAZING! Everyone is still buzzing about the great time we had. Will definitely return and would recommend 10/10"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMNHN1NUF3EAE",
+            "text": "I went to the Garden Cafe for an event. Unfortunately, many of us were not very happy about it. The event was planned weeks ahead, yet when we arrived, the place was not ready. Drinks were only available half an hour late. The beer was not cooled and the drinks - Margharita, Sangria, ..- were not freshly mixed but poured from a cheap premixed jug, and tasted mostly sugary and were undrinkable for me. chesp mixes with cheap tequila. If that's what is served on a day to day basis, I am surprised anyone would order a drink, and if that was substituted because it was an event with a 2 hour open bar and the place wanted to maximize their earnings - it's appalling! the food was mediocre at best. Some appetizers, guacamole came out late and was a rather small bowl for about 60 people and the main dishes were kind of salty but bland - boiled green beans, white rice, grilled chicken and half a burger in half a bun, fries,.... no dessert.\nSo I paid $85 , had no drink because they were undrinkable and the three sips I tried already made my stomach queasy, and some food that would have been maybe $20 in all.\nIf that is how events are run - just don't do it because I will certainly not recommend that place. And talking to my friends who were there.... they won't either. So you lost about 50-60 potential customers who will never come back and won't recommend you. That's a shame!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwNWJYekVBEAE",
+            "text": "The food was okay, not much seasoning for Hispanic owners. The guy was very attentive however he was the only one on shift and we had to wait a while. The atmosphere was great and everything. If you want 100% organic food this is the place."
+        }
+    ],
+    "reviews_count": 74
+}

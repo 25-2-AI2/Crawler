@@ -1,0 +1,663 @@
+{
+    "name": "SET L.E.S.",
+    "place_id": "ChIJb43JNYFZwokRj7p_iAI_zzs",
+    "grid": "MN3",
+    "address": "127 Ludlow St, New York, NY 10002, USA",
+    "rating": 4.6,
+    "user_ratings_total": 1131,
+    "phone_number": "(929) 505-3163",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1Q1VVNW1ka1ZwUjFsNU1DMW9SREJwVWpkMWNFRRAB",
+            "text": "Cute bar with good food options to hang out with friends. A few seating areas and bar with good music."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGcU5URnpZekJyYW5oSlZFNWxkVVpxVGxsYVdWRRAB",
+            "text": "I loved SET LES! The food was absolutely scrumptious and I loved the lycheetini. I would come back"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xdFZEaDViVFIzZVhGUGVUaFJhRXh2VkhSVmQwRRAB",
+            "text": "The food was great and so were the vibes! Definitely a great experience all around."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoelNuZHJSbVIyZFcxTlRqY3lVVjlUTFd0VFZXYxAB",
+            "text": "Experience was great"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25RNFVXNVRRMloyT0MxTmRFcDBRbkk1VG5oTmJXYxAB",
+            "text": "Thanks for the shot !!!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oUFlVVkZNVVV3TUdwUldqWmxPVjlLVlhsRk5GRRAB",
+            "text": "I'm not gonna lie, this is one of the best spots in the LES! The flavors here are just amazing. The vibe was great, the service was super quick, and John took such good care of me and my guest. Seriously, the Bulgogi Cheesesteak Sliders are the best thing on the menu—you have to get them. I highly recommend checking this place out."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toTFVqWjRUUzF5VUV0UFVIQkpUWHA0VFRreU4xRRAB",
+            "text": "The chicken wings are very crispy and so yummy! Very friendly staff!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsbVpEWnRVemhOUjB3M2ExRmFSSGh0WW0xbVltYxAB",
+            "text": "Randomly stopped in before a show, everything tasted so good! Highly recommend if you're ever in the area"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GWFp6SkhUR1V0YzFCaFJ6RldYMWR4VEVFMmMzYxAB",
+            "text": "Great place! Stumbled upon this place on accident and it was amazing !!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOZlduUnVVbGRpTVZkSmIwSTRSbU55VW1GUFNHYxAB",
+            "text": "The bar is great vibes with super fun music and I loved the drink."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toR1UwTTBkSHBVY0d4Zk5GWk5ZWGRSZVVkMGVYYxAB",
+            "text": "Great time great people"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCQlVURnNNRTVOY0ZWUGRuTjRRbVEzZGxkVlRsRRAB",
+            "text": "Great atmosphere and food"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sV2FXcFVTbkZMTVdsT2REbE1UakJVWTBGRlVsRRAB",
+            "text": "Ran across the lower east side to get here. Arrived an hour before they closed. People inside, but door locked. Guy initially waved me away, but finally answered the door and told me to leave. Wish granted."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xRMGRFTjVkR05CWVRKVWEwaDNUM1ZpYTFOZlVGRRAB",
+            "text": "Amazing place! Good food options! Willie and Johnny are great. Love the Al fresco vibes."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaZldEa3RlRGxHWTBVemQwbElYemxST0ZCYVJIYxAB",
+            "text": "Isabella is great always a good time I’m there"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsNFZqQlBRMGxMUTB4dk1FZGFiR2hhUTFWbFQyYxAB",
+            "text": "Love this place! Such a good spot to bring someone who wants a good bar experience in L.E.S. I will be back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsb1kwRk1VMHRSZW5KdWVFcHBSRGhhZVhaeWFGRRAB",
+            "text": "Amazing food! Great service"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poTFRHMVpSWGt3YzNReGVVeEVjSEpQVDJJMVpGRRAB",
+            "text": "I had a great time at Set LES the staff and drinks were great"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sweVFVbDJTbFkxWVd3NWFtWlpOMUY2TkhaQlJVRRAB",
+            "text": "Great place"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xabVJYcHpiRlJaWDFsMGVYUmZlRTlYVms5UGEyYxAB",
+            "text": "I like the ambience and quick reception."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pseVlqSm5kVzV0TTFCRFJWOVFWR1JJWW5wMmJVRRAB",
+            "text": "I’ve been here countless times. Great food, great music, amazing vibes and service."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kcGFXRnlkV2xHZFZKdlJGaDBaSHBEWjBSSmFGRRAB",
+            "text": "Good vibes"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSUWIwdFVhVEIxWTJ0YWFUZHdXa2RJUWxGU1JuYxAB",
+            "text": "I LOVE THIS PLACE"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GcVIzbG5iVVZOZUZKT1ptRlhOa2xaV1haaVlrRRAB",
+            "text": "The food was amazing the drinks really good and to top it off great music"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oZmJGUkZOV2h4TFVsTWNrbHhOekE1ZVRCd1IyYxAB",
+            "text": "Great lighting and color scheme the service was great!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOM2VtSk5VRzFGYm1OUE0yNU1MVTh5YlVKeVJXYxAB",
+            "text": "This restaurant is amazing. My sister and I along with her pup decided to grab some brunch here in their outdoor seating area.\n\nWe were greeting by a very nice waitress who brought some water out for us and even some water for my sister’s pup.\n\nThe menu is on a QR Code, we got the steak and eggs entree with avocado instead of home fries (10/10) and the Set #3 breakfast tacos with home fries and a screwdriver (10/10).\n\nOur food came out very quickly, the waiter who brought our food was very kind as well! The portion size is more than enough and the presentation was very nice. I would definitely come back to try other brunch options as well as lunch and dinner."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aMlZIY3Rja0o2Y25wUWIyVkNla05IVTNkWGQyYxAB",
+            "text": "love this place so yummy and so affordable !!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCWVFVTmtVWFpKTTNFd1ZUZFdiUzFDWnkxSmQzYxAB",
+            "text": "Vibes are amazing! I’ll definitely be back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOdVZrdHNaR041UWt4TGRVNXJXbGxKYTA5cGJrRRAB",
+            "text": "Valentina was everything!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KelNXWkZOa3R6VVRWcGVWRnVTRzR6TFRKaVdHYxAB",
+            "text": "I love this place! The food is amazing. Valentina was our server and she was so wonderful."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGTldFZDFSMDR3ZVZaSFFrMXNRa1V4YmxwaGFGRRAB",
+            "text": "It is a great atmosphere. Valentina provided exceptional service. Very sweet & kind and was quick with our orders. Expect a smooth experience if she serves you."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psa1MzVXdkbWx5YjJzMldtSlpPVzFRWVV0ek5uYxAB",
+            "text": "Once you walk up the aura of the location is so friendly great music good vibes. Drinks and food were amazing definitely getting the pineapple margarita again !!! 10/10"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5SldHbzBXRXhQZDBaRU4wcGphMkpYWDFNeU0yYxAB",
+            "text": "10/10 Valentina was very helpful and was always accessible when needed thank you for your amazing service"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCclkzQjVhRFpYYkRFNGIwMVBhMVY0YXpBM1NsRRAB",
+            "text": "Very nice atmosphere and good quality food."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaeVJXMVJjemQzVERWQlZsQlZOWGhJWlZWeFRGRRAB",
+            "text": "Love the vibes"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGa2FsUldhR1UxVUVSblRVMXhWSEJOV0ZoMExXYxAB",
+            "text": "Great customer service. Very good drinks."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCdFp5MU1aV3BaZG5WMFowcDNWVmRYVTJwclFWRRAB",
+            "text": "Great Music, Customer service great! Check it out!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvdE4xYzVSSGc0U2pBeVRGTkhWbmh6WmpOa09YYxAB",
+            "text": "Cute local spot. You see a lot of familiar faces here if you grew up in the lower east side and I love that! Love is love."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sbk1WaFVTRjh5ZW14eU5YUXRYMTh0UTFOMlRHYxAB",
+            "text": "Amazing experience. Would choose any other bar in the Les area . Johnny was the best server"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvM1owTXRPREpRT1hvNVVYUXdlWFpPWjJZeFdsRRAB",
+            "text": "Wallie is the cutest and the sweetest bartender ever . The restaurant is as clean and ripe and the jams was popping"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KR1VubHpWMmhJY0ZCak0zcHplbDl0T1dGc1RrRRAB",
+            "text": "Just hopped in for a quick happy hour drink and loved the space! Delicious and fair priced drinks—will definitely be back!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKUlpuVmFRWEJMTFVWT1EwaHpXRXhPVGpsVk9HYxAB",
+            "text": "Service/food/ atmosphere/drinks/ happy hour 10 out of 10. I found my new hangout spot. 🤩🤩🤩"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGcWEwUkdjRXh1TVhSU1RUWnpNR0l0WVRSQlVIYxAB",
+            "text": "delicious bulgogi tacos!!! Good music, great vibes!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twMU4zVndYMUJVYUVnd1dUUXlhMVpmTlY4MFpXYxAB",
+            "text": "Always a great vibe when I visit"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWR01GVkdTSFIzZVZObGFVNDViRGRLUm5aUlZVRRAB",
+            "text": "Valentina"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pscGNIaFZaMTlKVG01YWFpMUlOelpGZEVkdE1YYxAB",
+            "text": "Great food and great drinks."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paeE5tTlFiR2x4UTNwYVMwNXVRMFpzVkVnelJXYxAB",
+            "text": "People say this restaurant serves delicious bulgogi tacos, steak skewers, and fried rice. They highlight the fun, lively atmosphere and the great happy hour deals. They also like the attentive and friendly staff."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwMGVqVlJaMmxGWkY4MlVtVXpVMFZzVFdZeE5sRRAB",
+            "text": "Great place for drinks"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SdFRqaDVNVlJOYWs5R1VrOUlWMHQxWkVkbU4xRRAB",
+            "text": "Maravilloso, muy buen ambiente y buen trato."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsUmFVMXRSWFZQZFhwdGMwUjBTakJaVlcxWFQzYxAB",
+            "text": "Found this place 3 weeks ago and been here every weekend since I live the service and great music definitely a plus for me"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaMVptWkhUelZFYW1wWVJXVkliRU5tTkhseU1FRRAB",
+            "text": "Martina was incredible! From the moment we walked in, her energy was magnetic — welcoming, upbeat, and full of good vibes. She knew the menu inside and out and gave spot-on recommendations that took our experience to the next level. Every suggestion she made was on point, and it felt like she genuinely wanted us to have the best time possible. Martina didn’t just serve — she set the vibe. If you’re heading to Set L.E.S., ask for Martina. She’s the definition of excellent service. DJ was also jamming on Friday night. Vibes are elite!!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRamE2OERREAE",
+            "text": "I had the pleasure of dining at SET LES ! I attended with a group of friends and had a great time. The Food , Drinks and vibe were on POINT! The real MVP of the experience was our waiter JOHNNY !!!! He was friendly and gave the best recommendations. He was knowledgeable of the menu which made ordering extremely easy . When I go back I will request him as my waiter for sure"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4Ml9qcVBnEAE",
+            "text": "Came here for happy hour after work and it did not disappoint!\nThey have outdoor seating but we sat inside. I did make reservations before going but when we arrived there it was not as packed since it was a Wednesday after…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5dzZQbWtRRRAB",
+            "text": "My husband and I enjoyed date night here and we loved the vibes. The food and drinks were great and the staff is super friendly. I asked for a mocktail and our server brought me a delicious tailor-made drink that was not even on the menu. I especially loved the shrimp poppers. We will definitely be back again soon!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJMktQNmpnRRAB",
+            "text": "What a cool spot! My wife and I hit this place up on a Saturday night for a drink and snacks and had a really good time. It was lively but not crazy, the people working were super nice and our tots and wings were really tasty!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmM01UUkJnEAE",
+            "text": "This is genuinely a good place to eat! I was surprised at the wide range of options, from seafood to Mexican to Korean-inspired dishes on their menu.\n\nI enjoyed the diversified music they had in there, seamlessly switching for rap from the 2010s to present, to dembow. The music wasn’t too loud, which is a great plus.\n\nOur server was kind and understanding, never got upset when we changed our order or when one of our party members was late. He also ended up giving us a free shot lol. He was very sociable and chill.\n\nThe prices are also fair and this is the ONLY place I’ve been to in NYC that still sells tacos by threes. It’s the little things like that, bc I’m tired of places that sell one taco for $5+.\n\nOverall, it’s a great chill vibe. Not too fancy, which is good bc I prefer a casual vibe. I recommend!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGaFlWSldVMEZNU0RCWFoxVXhjbU5pZFRSdVRGRRAB",
+            "text": "10/10 experience!!! Melanie was super attentive and helpful when we had questions about the menu. She was able to recommend the best things - best food we’ve had in NYC! We had the steak nachos, fried rice and soy garlic wings. Everything was hot and fresh. I’ll be dreaming of this food for forever. Great atmosphere, great drinks, great service and INCREDIBLE food!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aaVdDMUpaVXR1TUZFelZYWldUVkpsUm5sTmFHYxAB",
+            "text": "I had an absolute blast the music the vibe the food all of it 5 stars if I can put 6 stars I would. The drinks top of the top if you want a brunch spot in the lower east side this is the spot. The fried chicken and waffles delicious. The vibe was perfect I love the music and the lighting lots of natural light in here. R waiter John was the goat the best to do it."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaN2QtTE9BEAE",
+            "text": "Rina… you are something else. You made my whole bartender experience at the bar amazing, fun and a great experience.  You serve my drinks on time , you were talking to me when I was waiting for my Friend. You knew when I needed a refill and your energy was beyond amazing. Keep doing what you do. Your vibe is special.\n\nThe food was epic too. It’s bar food with some SET xoxo. You can’t mess up bar food and if you do….welll dang. Drank too much, had too much fun but memories were made. See you soon SET."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXM08yMmJnEAE",
+            "text": "Went to the soft re-opening before their grand re-opening. They were closed for 2 years and are back. I had seen them on social media before and wondered if it was actually good or one of those overhyped spots. It's actually really good! I started off with an empress gin cocktail. Love that gin. It's purple and looks really cool and the drink tasted good as well. It was garnished with lychee and an orange. For food I did the mix and match tacos for $15 and chose their bulgogi cheesesteak, chicken teriyaki and fish tempura. They also have chopped cheese and a vegan option, but both are not available for the mix and match option. All the tacos were good, but the bulgogi cheesesteak was my favorite. I'm pretty sure I would like the chopped cheese as well if I ordered them. Love a good cheesy beef combo. I also ordered the Cajun waffle fries which were really good. They're served with chipotle aioli and are really crispy and flavorful. I sat at the bar and the bartender was really attentive and friendly. Overall, it was a fun experience and you should definitely check it out if you're in the area."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmcHZpWFRREAE",
+            "text": "me and my two best friends came to Set L.E.S Our waiter was Johnny and he was a 10/10 very kind and respectful and very informative. He had great energy . The Lychee drink was a 10/10 for us as well and we drink lychees everywhere we go so…"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSOGZQOGNBEAE",
+            "text": "Been here almost every time I come to the city and it is my favorite spot. Always come for the amazing happy hour (5-7)! They have everything from varied wing flavors,  meat & veggie skewers (sausage, shrimp, chicken, Vietnamese steak), nachos, and baos! They also showcase a great selection of happy hour cocktails- including espresso martinis, frozen margs, a mule, a showstopper of a lycheetini, A BEER TOWER, and a few more!\nThe atmosphere always gives me a sense of home. The playlist played throughout the night always has some great old school hits, Hispanics mixes, and R&B goodies. And the staff takes care of us as if we were their own family every single time we are here. We’ve had amazing servers and bartenders throughout every encounter, one that has stood out amongst our very first visit till our most recent is Glenn, a super personable manager and a spot-on bartender!\nI’m not from the city and this place is the greatest spot to go hangout, drink good drinks, eat good food, and vibe out till the night is over. Totally worth checking out!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSdjdqemVREAE",
+            "text": "Great experience. Service was amazing. I didn’t love the muscles I got. But the rest of my group loved their dishes. They got avocado toast with poached eggs and a breakfast tacos. Also the espresso martini was perfect."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPZlhndE9qXzVDM25nRRAB",
+            "text": "Stumbled upon this restaurant and it was a HIT. Had the pleasure of being served by Johnny. The food was good and ingredients were fresh. We had mimosas which were good; they have a bottomless option. In addition to everything else the DJ was playing good tunes. Overall our experience was a 10/10."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtdGNLMG93RRAB",
+            "text": "My go to Brunch spot!- NOT ANYMORE\n\nI’m keeping my above comment- as I reviewed this place a couple years ago and the food and service was amazing.\nNOW. Change your chef immediately! I ordered the steak and eggs, medium rare. He sent out a well done steak. I tried to eat it because the bar tender (Christa)  was so apologetic and I never like sending anything back. The steak had this burnt taste so I had no choice but to send it back. THEN, they give me the replacement and the steak was literally uncooked. I added pictures so people don’t think im lying. At this point I was upset because why are you cooking in a restaurant if you can’t even cook the basic. The staff said they would recook it. They sent it back out, and the steak was still undercooked and had no flavor and just gross. I ate a little and just left it. So over it. Will NEVER come back here unless the chef changes. Literally spent $70 for NOTHING. The last picture is when I gave up on eating."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKS1JqUjNaVGhDYzBSaFpVUjRiRUZRU25oVVVsRRAB",
+            "text": "I love Set L.E.S. everyone is so Welcoming this my 2nd time here. Martina the host was very Professional & Friendly.  This is a Great place to visit the food was delicious 😋and the drinks was on point we will definitely make this place our favorite place to visit for drinks & eats. Happy Customer 😊"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxeHZDeHNBRRAB",
+            "text": "Great place for small plates and drinks. The food was incredible. Definitely went beyond my expectations. The atmosphere is modern and they play all the latest songs on urban radio. This is great place to pregame or even a small quick celebration. The vibe and atmosphere is perfect for that"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwbHY2XzBRRRAB",
+            "text": "First time here and I Loved It. We were a group of 10 celebrating our anniversary. Glen took such good care of us from the moment we walked in. The drink I got was very good for the price! The food was AMAZING! The portion looked small but…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKbDRPVkNnEAE",
+            "text": "I viewed this place with my family (4 of us) we had bottomless mimosas. It's a small spot but the food is amazing and this was enough for us. The bottomless mimosas give you unlimited for 1 hr 30mins but they didn't rush us. We had reservations but it was kind of empty when we got there. After 30mins it got so packed (all seats taken) with a line at the door. I guess everyone knew this was the spot expected me 😆. You would not regret it, the food is very tasty. The mimosas were also great. For 4 ppl with tip came up to $225. It's very affordable. We also took a cake with us because we had a bday person. They kept the cake until we was ready to celebrate. The music was nice as well. You can sit inside or outside. (No parking but there is a cheap parking lot close by for 8$ per hour I think)."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VQUHBvdG1JeTZEMHRRRRAB",
+            "text": "Food was great! But went on a Saturday at 2:45, and service was incredibly slow. Waited 15 min for a drink order, and then the drinks took another 15 min to get to us. Same with the second round we ordered.\n\nBut I had the home fries skillet, which was excellent, and the vibe of the place is fun. Just be prepared for some louder music."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBMXBLTEZREAE",
+            "text": "I came down to Set L.E.S for my aunts 30th. The vibes here is unmatched, the music selection was very diverse and it the drinks were a 10/10. Special mention to Melanie, Johnny and Wallie they made sure that we we’re okay and ensured that we had a good time. This is definitely a place I would come to again over and over."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYdXVmV1lREAE",
+            "text": "I really liked this place the food was good okay priced. The drinks were the star of the show 🤣 that rum punch really did it . You only need one happy hour for food doesn't apply on Friday which sucks but I get it . The skewers were so good ! The oysters severely underwhelming idk that's just my opinion . The server was very attentive and helpful I really enjoyed and would go back"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkbnNxLVpREAE",
+            "text": "I really liked this place! My friends as well. They’re very nice and accommodating. My friends and I came here last minute. The waiters found a way to sneeze us in and we were able to get a table. My 3 friends and I split $40 each. Definitely coming back here!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjMVFsOTBVVEUzTTI1WUxXUlpSakozUkdwWU1tYxAB",
+            "text": "The atmosphere and music was amazing! Martina was such an amazing waitress. She served us well and we had a great time!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2padlZtcHhhVzUwVldsNlNtOW9UMjlZTFVwVk9VRRAB",
+            "text": "Our server Martina was so sweet and really made our visit special with her kind and friendly energy. Will definitely come back, the frozen strawberry margaritas and chicken nachos are a must for happy hour!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZaHIyQlVREAE",
+            "text": "I been wanting to come here for a long time and I finally did  and honestly I am  kind of disappointed.  We ordered 2 Steak & eggs and chicken & waffles.\n\nSteak & eggs -  I asked for my steak medium and received it well done  but the flavor was good . My eggs were suppose to be over easy and received it over hard. The waffles fries  were delicious.\n\nChicken & waffles-  The  waffle  was half over cooked  aka hard, while the other half was nice and soft but the over all taste was good . The wings were fine .\n\nSteak & eggs - The steak was received  just as asked which was medium rare. The eggs were over cooked as well and the home fries wasn't cooked enough. The potatoes were still kind of hard.\n\nSmall spot,  only one person dealing with the table which i think he did well.\nWould I come back ? Na ."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIXzRPYVFnEAE",
+            "text": "The food was extremely mediocre (the nachos had no guac or sour cream just nachos cheese green onions, jalapeño, and blunt cut avocado) and the happy hour isnt the best in the area but it’s decent…$6 beers and $10 frozens. I review a lot of places and I’m truly an avid tipper ALWAYS but this place doesn’t disclose that they add 20% auto gratuity to each check no matter the party size or check total which is a little deceptive to me. My bill was only 52 and auto gratuity plus tax brought it to 73. Not disclosing that your bill will include automatic gratuity is extremely dishonest to me. Especially if it’s 20%!! Not even 15% ..20! I sat at the bar also, and only had two drinks plus the food and the drinks were straight from the frozen machine."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSVFNpMTROR1JXUm0xWWEwZEtObEJxVUU1S1NHYxAB",
+            "text": "Bryan was our waiter, he was beyond amazing, interacted and continued to make sure we was good would definitely hire him to work more days he seems great to have around. Extremely upbeat food is always good."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4MVlhelJBEAE",
+            "text": "this place is so awesome especially Lorraine who attended us. She sold us on the unlimited mimosas! Food was delicious and service was great. I will definitely be coming back."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLOS1TVjJBRRAB",
+            "text": "We had a blast!! Thank you to the staff who made sure our Ladies Birthday Brunch was memorable. From the food to the drinks...the music... It was the whole Vibe! On point! We will definitely be back!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKTHdpZnFPb2J2WDh3RRAB",
+            "text": "⭐️⭐️⭐️⭐️⭐️ Amazing Service from Bryan!\n\nBryan was an incredible hostess on our first day in NYC! He was warm, welcoming, and made us feel right at home. His energy and attention to detail truly made our experience special. Thank you, Bryan, for starting our trip off right!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4N3BQYzN3RRAB",
+            "text": "Came here for the first time with my friend. Watched a basketball game and a baseball game at the same time. Ordered the food in the pics. I enjoyed the food. The music was loud. The place was busy. The TVs were big. Service was great. Overall, I had a positive experience my first time and I will return and recommend the place."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKRk5rbHNkbUpTVkhKcVQyZzFRMUZoVFVwdGFGRRAB",
+            "text": "The waitress we had servicing us was rude and very unprofessional had to keep flagging her down and her attitude was stank as hell. There was a hair in one of the dishes we ordered. We sent it back and advised we did not want anything else besides what we already ordered or a brand new dish. They proceeded to charge us STILL for the dish that was untouched with HAIR embedded in the sauce stuck to the shrimp.\n\nWhoever these new owners are need to get it together, cuz this is not the service or food we are used to."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkNmVUUmphV0pXY0RCWmJFSnRNVlpZYzFkdFpVRRAB",
+            "text": "I got served be one of the bartenders named Fernando, he had an amazing personality and made me feel super comfortable. I had amazing service and I’m definitely coming back and bringing friends wit me"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDOXJEemlBRRAB",
+            "text": "The server brought the food out quickly and the food was delicious! The shrimp tacos are the bomb, I'd get that again. Only reason I couldn't give 5 stars is because they weren't serving alcohol at the moment for some unspoken reason, other than that, no real issues 💪🏾…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwa2JtYl9nRRAB",
+            "text": "I really wish I could give it a higher rating but I can't. I might however go back and give it a second chance, theirs definitely potential for redemption. My friend and I went after brunch hours where things were already slow and not much happening. They told us they were cleaning our table and once they cleaned it they forgot to seat us, they finally realized and told us we can walk over and sit there.. After the arrival of our food I had to mention that they forgot our drink orders after we realized no one was at the bar making our drinks. They did genuinely apologize and they gave us complimentary shots... The shots tasted like bubbly soda. The chicken skewers were not great at all, they were undercooked and I saw some pink after I had already bit into one. And my pork slider was extremely greasy. Their wings however was nicely cooked and crispy and had a great taste. We did have to also ask for our check twice since the first time the waiter completely forgot. He did apologize and feel extremely bad and even gave us a discount on our check, which we really did appreciate. Overall I honestly think that they just had an off day, which can happen. I do like the fact that they were sincere in their apology, and they were trying."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJcjZ2VGlnRRAB",
+            "text": "Visited this place today with the hubby after following them on Instagram for a while. When we first got there I almost changed my mind, the place looked empty.  There was a small group of about 6 women there and the restaurant rating on the door was a C (YIKES). But I didn't want to upset the hubby especially after dragging him out of the house to go there. I am very happy that I stuck it out, we both ordered wings and they were good would have been great if they were fried just a tad more and if the ones that I got were a lot more spicy (strong warning that  said \"eat at your own risk\"). We both had the steak and eggs I had mines  with home fries (could take a few tips from a southerner, but not bad) hubby had his with the tater tots. Over all we had a great time and it wasn't expensive at all (2 apps, 2 entrees, and 3 top shelf drinks with tax $100) in NYC."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBak1UWFhBEAE",
+            "text": "Fun place to watch the ncaa tourney on a st Patrick’s day without a ton of obnoxious drinks. The food smelled good. I’d come back here and do more than smell it next time. It started to get crowded and drinks became tougher to get. So we left."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201VlUzUmhTa2xzVFRZNU4xZGxWVmh4TTFKd04wRRAB",
+            "text": "Such a vibe,  if you want a good music and drinks you should come here. They have summer outdoor seating and we love it here. Great for large groups! Try and you wont regret it"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRX3AzbGR3EAE",
+            "text": "I am clearly a minority but I didn't care for this place. The Mexican corn is soft, mushy, and full of cheese. The tacos were SUPER heavy- the fish taco was decent and would have been better if it was hotter. The bulgogi two was a salty,…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNweEtqT3VRRRAB",
+            "text": "Came here for a happy hour - and really liked it! Drinks are really good, many food options for a happy hour, vibe is good, servers are really friendly, TVs so you can watch sport events and such. I’ve tried martinis & bao buns, and was satisfied with my selection. Will definitely stop by again."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNZOGF6cjRRRRAB",
+            "text": "Live and vivid place for any casual night of your choice! Relaxing atmosphere, good service and nice music make you want for food & drinks. Well then you are in a right place, the cocktails are A1 class and food is phenomenal! Try everything! You might find a love of your life - either way:)"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnc1lpOHlnRRAB",
+            "text": "Came here on Taco Tuesday to get the three taco special.\n\nWe ordered the bulgogi beef, fish tempura and the shrimp tempura. The bulgogi beef was a little too salty and the fish tempura sort of got soggy if you didn't eat that one first. The shrimp tempura was probably the better of the three but it felt like it was missing something, not sure but maybe a tangy sauce?\n\nWe shared the SET loaded tots as our appetizer and we're glad we did. It was pretty heavy itself, specially with the bulgogi beef on top. It could go without it, but I like beef so having that with the tots were a good combo.\n\nI really liked the spacious layout, it didn't feel packed with tables that you couldn't walk around and the seating area was comfortable. The staff were super friendly and helpful, always checking up to see if you're doing okay.\n\nDefinitely a spot to try if you want a space to hang out for happy hour while enjoying some finger food."
+        }
+    ],
+    "reviews_count": 93
+}

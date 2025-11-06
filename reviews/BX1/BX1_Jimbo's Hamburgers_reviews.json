@@ -1,0 +1,509 @@
+{
+    "name": "Jimbo's Hamburgers",
+    "place_id": "ChIJ_4vrIsP1wokRrn7mre73gZI",
+    "grid": "BX1",
+    "address": "228 Willis Ave, Bronx, NY 10454, USA",
+    "rating": 4.2,
+    "user_ratings_total": 594,
+    "phone_number": "(718) 402-9600",
+    "reviews": [
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wMGJsTTNPRlZ0VFRoM1pucGFja3hOYXpJNWRWRRAB",
+            "text": "Only problem I have is that they don't take card."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5SmRVdzJiMk4yV1V4dWQwVTBWSGhsVlcxNlZsRRAB",
+            "text": "Food good every time smh I had to call and thank the chef lol"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JM2FVcDZaa1pIZDNsTmFUWkJjVVpJWWxodVJVRRAB",
+            "text": "BEST BURGERS IN THE BRONX,  ALWAYS DELICIOUS FOOD AND FRIENDLY SERVICE. ❤️"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SeVdYbFVTVE54Y25CeGJGUmhUVmt6VEc1UFdVRRAB",
+            "text": "Great service, great food, great location! I ate the food so fast, did not get a photo!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oaFptSnZWbGxrUjBkb1VsTk5RV1F0WmtkcVZYYxAB",
+            "text": "The city’s diner, nestled in the heart of Uptown born and bred\nI love their platters, prices are reasonable although they skyrocketed over the years"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205RWJHNTJRV2xLYW5salEyeFlkbTU1Yld0NGRGRRAB",
+            "text": "Awesome"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsQ1UzbERSamd6YW1VNFpFSlJWakE1T1ZGWmVHYxAB",
+            "text": "Ordered food a hour ago and don’t have it cause the delivery don’t speak English and cannot read"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSdldsOU9RMU00ZG5CUk9VaGFjVTFKUkV4MFpuYxAB",
+            "text": "Friendly, grits is of the chain. My go to spot for grits."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNDb096TVVREAE",
+            "text": "Good place for breakfast and lunch"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pob2MyMDBRMEpRUWtGdVluSlRkVmQ0ZURrMVJIYxAB",
+            "text": "Always good and quick service"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200MUxVWnhkVFZpV0RVMGRVcE9RVTVzYm0xTE9WRRAB",
+            "text": "Great food"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WWGNHdElNVWhFT0MweU5tMUVRakJoTUdWc01uYxAB",
+            "text": "They make a delicious mutha fuggahin’ breakfast sandwich"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCVmRFbHBURTlHY2sxclFqSnRZa0ZTY2xKM01XYxAB",
+            "text": "Elite breakfast shoutout jimbos and jumbos"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKWGV3SnJvamYtY1l3EAE",
+            "text": "A true American breakfast and excellent service – as tourists, we were extremely satisfied."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJdEt6X013EAE",
+            "text": "I do not appreciate making a specific order and being charged for extra plating that I specifically did not ask for! Next time someone asks for a cup of grits no plater you should do what the guest asks! Every time I order I get charged an extra $5-$10 on an order but if my Spanish fiancé orders he gets the normal prices. Make it make sense."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJMGJ5RFJ3EAE",
+            "text": "Great place to have breakfast and a burger"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRelBYN1ZBEAE",
+            "text": "food was awesome great service came out in five minutes and very clean for a busy place"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNneTVqUnVRRRAB",
+            "text": "Awesome place to grad an early morning breakfast. Amazing food. Pancakes 🥞 🥞 becon 🥚 eggs. BLT's to go with cheese 🧀.. Yummy food.. I wish they took CCs but nevertheless 💸 💰 is king.."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBcTRESjRnRRAB",
+            "text": "I have been a customer of yall for years. Egg shells in my eggs. Butter on cold toast do not melt and you cant really reheat toast. Raw bacon in my potatoes. Totally over it, poor financial decision on this food. Zero 0 stars on ratings."
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwLU1ENXZRRRAB",
+            "text": "Excelente lugar para disfrutar en familia y la comida riquísima y la atención muy buena se los recomiendo"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYcWZTUXh3RRAB",
+            "text": "Place is clean and waitress is friendly and respectful . It's a regular diner, but they don't take c.c or debt cards. Food is decent for the neighborhood."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuODhuakR3EAE",
+            "text": "Ha sido mi primera vez, 3l personal muy amable y la comida es riquisimo. Sobre todo quedas saciada ideal para ur c9k tu familia."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIXzZtRFFREAE",
+            "text": "It was a roach in my food"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURia19TYTZnRRAB",
+            "text": "The burger was delicious the fries were on point"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPNkpiUDNBRRAB",
+            "text": "5 stars after 20 yrs still the best"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyNXF1X2t3RRAB",
+            "text": "I’ve been ordering from Jimbo’s  for years and they NEVER disappoint. It’s NYC diner food at its best. The breakfast is unmatched. I usually get eggs over easy with home fries and pancakes. I love that they butter the toast! That’s when you know it’s good!  Delivery is always fast and the prices are great."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREMW83Q21RRRAB",
+            "text": "Excellent, clean, and friendly staff. Order was made perfectly."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlLU82NjdBRRAB",
+            "text": "Portions are too small for the pricing.."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5djQySWN3EAE",
+            "text": "Their food is always hot and fresh and their desserts are yummy !"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ5MzY2TW5RRRAB",
+            "text": "I ordered a chicken wrap, and my sister ordered a grilled chicken salad. Our meals were absolutely delicious and very pretty to look at. The place has gotten an upgrade. It's bigger, better and clean. There is more seating. The total cost for our meal was $21.00, so not bad at all. I must add it was not the 1st nor the last time I have went to Jimbos and the food (every dish) is always good.You should go visit and try out Jimbos for sure and don't mistake it for gimbos ughh."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURjNE5HMldBEAE",
+            "text": "I had to delete my review after two years because either they have new cooks or they are on a tight budget and getting cheap food. It’s not giving what it use to for as much as they now charge."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5NjZTY2dnRRAB",
+            "text": "This place is amazing, their sandwiches are unmatched. Me and my girlfriend order here all the time because they are that good !"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkdVlEajlBRRAB",
+            "text": "Good buger, but they got so small"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUROb2ZpcUZ3EAE",
+            "text": "Food not great but only place to get breakfast in that area."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNONk1UdHV3RRAB",
+            "text": "The breakfast and service has always been great.  I have no complaints abiut Jimbos"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURWdTh2RGFREAE",
+            "text": "Nothing fancy, but why pay $25 for breakfast if you can pay $12???"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWNXVHb2pRRRAB",
+            "text": "so much better simply because of double doors which is so important to be able to take your jacket off and be comfortable and warm as you eat!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNWb1ktZ29nRRAB",
+            "text": "Burgers is disappointing but the breakfast is ON POINT!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ1MExLakF3EAE",
+            "text": "Can't go wrong with cheese grits and beef sausage  just can't go wrong"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwbmNldkNBEAE",
+            "text": "Good but cash only"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKLTgzZk1REAE",
+            "text": "Great food, great service. Very friendly people and atmosphere. Very clean!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4NnRpMEFREAE",
+            "text": "One thing I do love about the  restaurants that they follow the instruction on how you want your food"
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4a003WlF3EAE",
+            "text": "Muy buen lugar para desayunar y traer ala familia todos los chav@s muy amables y servicio exelecte un gran equipo gracias"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSdVl5SGNREAE",
+            "text": "People are nice food is good, a little pricey but fresh! The fries were very good too very fresh not over cooked if I’m in the area i would get it again"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSX0otdEhnEAE",
+            "text": "Quick service, clean space, comfortable booths ."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtNXI3ZjFBRRAB",
+            "text": "First time ordering from this restaurant and it went pretty good. I’m glad they read the special instructions on the Uber eats for the chicken sandwich but unfortunately they didn’t for the steak sandwich. The waffle fries were alright and I ordered a waffle dish thinking it would come with more than 2 like a usual waffle order would but I was disappointed and only received one."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtOGRYc3RBRRAB",
+            "text": "We were enjoying our food until my boyfriend pulled a hair out of his mouth from eating an onion ring. That’s disgusting and never coming back here. Spent a good amount of money here too"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURTaXJfNklnEAE",
+            "text": "Great place, great food, great service. The workers are friendly, polite & cool. Enjoy talking with them. Great guys 😉👍…"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNNMjZiOXpBRRAB",
+            "text": "Really great I know the owner since my mother and the owner are friends. They make the food fast and quick. The bacon and eggs are wonderful. The bacon is crunchy and could tell it wasn't frozen pre cooked. I'm pretty sure everything is fresh"
+        },
+        {
+            "date": "수정일: 7년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURncnZUOTZ3RRAB",
+            "text": "Okay I'm going to start by saying that the experience when sitting at the restaurant is a lot different than delivery, but that's for another segment. I am going to concentrate on the restaurant overall experience. Depending on what day you go the experience waitress will take good care of you. Your order and food comes out quick , except on busy days but that's common . On the day I went I order a western omelette with home fries. So the western omelette was a nice size the home fries were a little bit under cook and a little  unseason . I also ordered waffles with scrambled eggs and hot sausage. The waffles came under cook when I added the syrup ,it got messy , scrambled eggs were nice and cook to my liking. The hot sausage was okay a little bit over cook but I wanted to try something new. I also ordered a side of french fries( although I like my french fries a little bit more crispy, they where okay) and toast was a little over butter .Overall the food is good at an affordable price for the area. Tables are maintain nicely and in order. The floor is nice and clean. My only problem would be that I wish the doors would open in inwards so that handicapped people could go in with ease. But overall the staff maintains the place nice and neat and moving at a suitable paste for food and delivers."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtOWVia3ZRRRAB",
+            "text": "My son and I was just trying to eat close by and stumbled upon this place. One of the few, and I mean few, places to serve grits. I'm southern and that's a must have for me. My son had a double cheese burger with bacon and yes! I will eat there more often now. Price wasn't bad either."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtcVlyRmxnRRAB",
+            "text": "Okay place to eat. My order was completely wrong even though i specifically explained it to the guy. The prices are a little too high to be in the area its in. 11$ for a gyro with fries but in other places closers its much cheaper and better prepared."
+        },
+        {
+            "date": "12년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRcU5PbXVBRRAB",
+            "text": "I love their breakfast platters, but there is no space inside the diner.The decor is out-dated and could be cleaner. The servers and cooks try to service you in an immediate fashion and they are fast pace with their cooking. I would give them one thumb up for the food, everything else needs work."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQyMWRXY0Z3EAE",
+            "text": "Always clean and organized. Staff is polite and patient when taking your order. Food is always fresh. As a customer I was able to use the bathroom before and after I ate."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxeW9ldS1RRRAB",
+            "text": "Always quick and attentive with food, clean and well made. Love they're gyros the smoothies/milkshakes are a little pricey but besides that everything is awesome. Especially breakfast !"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtd1pPLUlREAE",
+            "text": "been going here for years, they have gotten sloppy and more expensive. they use to be really good but ever since moving a few stores over they have messed up a few orders on me. I think the worst is the try to charge extra for ingredients…"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnMEtuMkRBEAE",
+            "text": "The food is fresh, great fries and burgers, good breakfast too. The quesadillas are good but the accompanying salsa is not. Also they do not take anything but cash and that's why I don't eat here very often. The ATM charges nearly $2.00 also, which makes us think there's a scam running. Also their prices could be lower."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnamVHclJ3EAE",
+            "text": "The hot wings are my favorite thing in the menu! They never disappoint."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2NFBDVnp3RRAB",
+            "text": "Great staff very friendly. Food was made fast and tasted great. The food is always made fresh exactly how you request it. Would definitely recommend."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlMXBuV3hnRRAB",
+            "text": "Nice and clean, good food. Service is excellent! Staff very friendly and courteous. Definitely recommend to eat in or get delivery!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURxektDaDBBRRAB",
+            "text": "Quality of the food is going down, it’s greasy, sometimes under cooked . THE CHICKEN TENDERS ARE ALWAYS RAW SO NO ONE REALLY ORDERS THEM . Onion ring and French fries have mushy spots. Staff sounds irritated .."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBbTQtUmZnEAE",
+            "text": "Always good service, the food is always fresh and hot. I've been ordering food from this dinner for years, the workers have great hospitality and I never had any complaints about this place. I recommend this jumbos to anyone."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBMWRmY3BnRRAB",
+            "text": "The food is always fresh and made to order. I've tried multiple things from the menu and they're always delicious. I've been to other jimbos and the food was not as good as this one. The reason only reason I gave 4 stars is because it can be a bit pricy for take out."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtX1lpaU1nEAE",
+            "text": "Food wasn't As Delicious as it was before the Pandemic. The French toast was so thin and no flavor, the Sausage weren't real Italian sausage like before this were cheaper than Brown and Serve Sausages. No More going there for Me & My husband. Price was for 2 Breakfast to high not worth it."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtek1IdjdBRRAB",
+            "text": "Normally the food is good but today it was horrible the burgers where cold and the bread was Soggy the coffee  tasted like they didn't clean their coffee machines in years the Mozzarella sticks were under cooked and than they gave me pancakes and didn't even give me any Utensils what am I supposed to eat"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURJbWFHVWpnRRAB",
+            "text": "Really kind employees and nice restaurant but the food is really terrible. Looks ugly and tastes wtv. I don’t understand why so much ppl go. Really fix your food. Looks like a 5 year old made it."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQwanZXTVNREAE",
+            "text": "I like this franchise, but you have to go to the right one! I have been to three locations. By far the best was located in 124th St. & Lenox Ave.  Good food, very nice staff and quick service! Porportions are with every dime."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBcTdHME5BEAE",
+            "text": "They are good the only thing they cook anything and everything on the grill without cleaning it. My pancake taste like onions . And they also should take debit cards."
+        },
+        {
+            "date": "수정일: 6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJOGZ2aVRBEAE",
+            "text": "Fresh & Great tasting Cheeseburgers and Fries all day every day. Breakfast is great too. Cheese steak sandwiches etc.. Large menu , many choices to choose from."
+        },
+        {
+            "date": "11년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBdDVhbHRnRRAB",
+            "text": "Cheap, fast, ok food. The only reason why they don't get 5 star is because sometimes getting through on their phone is a huge pain in the neck. They need to get an extra line."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMwMXYtM3VBRRAB",
+            "text": "Love this place. Their service is great as well. Never really had to wait long for my food"
+        }
+    ],
+    "reviews_count": 71
+}

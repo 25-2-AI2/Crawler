@@ -1,0 +1,523 @@
+{
+    "name": "La Pecora Bianca Bryant Park",
+    "place_id": "ChIJKykw-aZZwokRW7K0ykZUxNo",
+    "grid": "MN5",
+    "address": "20 W 40th St, New York, NY 10018, USA",
+    "rating": 4.7,
+    "user_ratings_total": 4995,
+    "phone_number": "(212) 924-4040",
+    "reviews": [
+        {
+            "date": "5시간 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxaWJYWlhZVUZSUkU5ck5VeEpRM1ZqWTBzemJrRRAB",
+            "text": "Très très bon restaurant, les pâtes aux champignons étaient excellente, j’en ai rarement manger des aussi bonnes en France .\nService au top, juste un peu trop de bruit"
+        },
+        {
+            "date": "6시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WM2NXMTVlSEl5YlhSelQybE5UMlpNVDBWMVpFRRAB",
+            "text": "I'm Italian and had no expectations of eating well in NY but this place made me change my mind! The pizza was very good, and also the tiramisù, very very well made. Also the place is very well furnished."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSU1VXWnpPRkZtUmxkSGVtWmZTRXhwV2xWTFMwRRAB",
+            "text": "Don’t get the streak! Terrible and dry."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5SGVYZGljek10UW5SRVRGbHRObEV6UlMxWmVHYxAB",
+            "text": "SO GOOD"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaa1VVUjFjRTVhYWxCalJFcGZhak5JZW1WMWNGRRAB",
+            "text": "Jose was great! food was amazing"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSS05qSllSV0U0WVRkU1kwUTBSMFo0UVhKd1NYYxAB",
+            "text": "Wonderful service, food was great and accommodating for picky eaters."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCT2FHVlhUR1ptUWtreFVFc3lUMU4xVUc1b1lsRRAB",
+            "text": "We went here without a reservation at 10pm and were seated at a lovely table by the window.  We ordered the fried provolone and I had the curly pasta and my husband had the pepperoni pizza.  While we didn’t think so, our server was super…"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twRk5FZ3lSVEJ2WjIxaGEwNHRObkpxTjJKc1lXYxAB",
+            "text": "Always reliably delicious. Love the self check out."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CcFNucFRiRXhtVEc5MVdXcGhlVXhSVVhWMFNrRRAB",
+            "text": "Great food and great service"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0Q1luRnVORTFwZUZsa2FWOXNURUo0WmtKclZXYxAB",
+            "text": "Overall good experience but the pasta from the rigatoni was undercooked making hard to chew and enjoy the plate."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNNFVVeENieloxVFRKZmVYbGZRVll6YjJKWVVuYxAB",
+            "text": "Great food, nice experience!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204MWJIWkNWREJ6VnpaNlpHZHRWR3hTVFdSbFRGRRAB",
+            "text": "Great service and great food. Thank you, Jose!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25nNVJtcDJkMk5pYUcwemNFTmlXR0ZTUmtSV2IzYxAB",
+            "text": "Wonderful!!!  Loved it!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Ka1kwVnBPVXhrTWpkMVEwTmxWR05ZVm5wTlIzYxAB",
+            "text": "Best chicken parm I have had! Amazing time."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvMWFEaHdZV3hZTUVsYVkxSTBYelZoWDFkWVlXYxAB",
+            "text": "Second time visiting, and I come to New York often. The host isn’t the friendliest, but the bartenders make up for it — they’re great! I ordered the rigatoni and highly recommend it. I will be back. I also ordered the espresso martini it Is okay I rate it a 7/10"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tobldXbEpMV0ZLV1dWNFZsSmhha1pyWkZGaU5uYxAB",
+            "text": "I loved this place . I went there after visiting the Summit and it was amazing"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poS1FrNUlZVXQwY0V3MlZqWjViWEUxTlY4d1ZFRRAB",
+            "text": "Nice pasta in special the one with shrimps. But not an “wow” flavor. Just regular mid up pasta I guess"
+        },
+        {
+            "date": "3일 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNM05WcFBka0psVTNFd1IxbFdTMU5UYlcwM1FrRRAB",
+            "text": "Excellent ! À refaire. Nickel"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGNFQxUlJUVkZaVkdOelZWWlFPVzVrVm1kd1RrRRAB",
+            "text": "Very well !!!"
+        },
+        {
+            "date": "4일 전",
+            "language": "fil",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aaGNXVTFZalZhTjBoNU9GaHlabkJTUnkwelUxRRAB",
+            "text": "Kaylan was great!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KRmJ6TnZSamxYZDFwS1F6RjRVMWc0ZGtsdlYwRRAB",
+            "text": "Excellent Atmosphere!!\nThe service was impeccable 🙏🏻\nWe had the Campanelle, and the tiramisu was WONDERFUL"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOMlFubENWWGx6VUZsd1VVODVkVnBOTkVzNVZYYxAB",
+            "text": "Absolutely wonderful food and employees."
+        },
+        {
+            "date": "4일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21adE5VaDNjSGt4Y0d0V1dYSm9kRFV5TlZaaU9HYxAB",
+            "text": "Excelente"
+        },
+        {
+            "date": "3주 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oRWVIVTFTelZGWW5FMVIzVkRTSGx5VUVaUWNHYxAB",
+            "text": "양도적당하고 위치도좋고 맛도있어용"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xneWNURkdPVkZFT1c1ZlFYRjNiR1JYYVRob09IYxAB",
+            "text": "맛있어요. 사람이 많아서 기다려야하지만 친절해요"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoaTRPWVR3EAE",
+            "text": "분위기도 맛도 양도 좋았어요 ! 웬만한 이탈리아식당보다 훨씬 나은듯해요. 무난무난 : )"
+        },
+        {
+            "date": "3달 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaUlJUZGxiakEzU0Y5NVJsazRRWHBmVDJOd1luYxAB",
+            "text": "서비스도 너무좋고 맛있었습니다!"
+        },
+        {
+            "date": "11달 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQdy1fckh3EAE",
+            "text": "테이블 간 간격이 좁아 조금 정신 없었지만 서버가 친절하고 음식도 맛났습니다!"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuaDhhYllREAE",
+            "text": "음식은 평범"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SUloxSkJWV05aWTNKdmFIUmxTVXBGY0hCU1JuYxAB",
+            "text": "We had a group of 5 with a reservation so we got seated almost instantly.\n\nAtmosphere wise, this place is well-lit, warm lightning, sleek. The bathroom is very clean as well.\n\nFood wise, the main dish that I ordered - Shrimp Pasta was delicious. However, I think the star of the show were the appetizers - we LOVED the Zucchini, the cauliflowers, and the calamari very much!\n\nI didn’t remember any highlights from the service but also no complaints either.\n\nOverall a really pleasant meal and I’d love to come back again for yummy appetizers and reasonably priced Italian food."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psb1JrSklWakZCZFRkRlgwNXVVRXBDZVRGdE5FRRAB",
+            "text": "La Pecora Bianca near Bryant Park is a fantastic Italian spot that delivers both on atmosphere and truly great food. The space is bright and stylish, creating a perfect setting for a casual lunch or a celebratory dinner.\nWhile all the food was excellent—including the wonderful pasta (with a beautiful burrata topping!) and the perfectly prepared zucchini fritti—the real star of the show is the Tiramisu.\nThis isn't just a dessert; it's an event! Served in a huge bowl, it is easily big enough for four people (or more!) and is incredibly delicious. The rich layers of creamy mascarpone, coffee-soaked ladyfingers, and cocoa powder are everything you could want in a classic tiramisu, but on a grand scale.\nWhether you're stopping by for pasta, a fresh cocktail, or just a treat after enjoying Bryant Park, make sure you save room for this massive and memorable dessert."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKVVoxUklUWFZ5WmxwTVRHOVZielZJVTNVdFdYYxAB",
+            "text": "Wonderful Italian restaurant! Make a reservation if you and your group are dining in. We ended up sitting at the bar high top tables, since we didn't have a reservation. Luckily it was not busy. We had the local burrata with peaches & hazelnuts, drizzled with evoo and Balsamic, this was my favorite! The bread was starting to stale, i just dipped it in the evoo. We ordered the rigatoni in vodka sauce and spaghetti cacio e pepe.... both amazing! Our server was great! Very polite and kept our glasses full. I recommend going here, it was delicious!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaQ2QyeHVUalpTVVdaV2FIZ3djRVp3V1c1YWJGRRAB",
+            "text": "The food was delicious from the appetizer to main course to the dessert. The spritz’s are a must. I had the Hugo and lavender were my favorite. My cousin enjoyed her strawberry limoncello spritz. The atmosphere was beautiful. You can dress casual nice to upscale and you will never feel out of place. The service was perfect attentive but not hovering. I would highly recommend anyone that in the area of Bryant park to check out this location for Italian food. Reservations I would also recommend just so you don’t have to wait long."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GR1NWRTBMWEUyZHpGYWNGTlBPVlZVZDJOQk1tYxAB",
+            "text": "The atmosphere and service are fine.  Food is okay but nothing great. Instead of serving a giant bowl of average Tiramisu,  make it smaller and better. Quality not quantity."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNMVZFNTBZVGhxUmxsRVNYWlZSa1ZsVFV0amNsRRAB",
+            "text": "I was recommended to visit La Pecora Bianca Bryant Park by a friend. Turns out... this was a fantastic recommendation! My partner and I loved every moment of out dinner. We started out with the Heirloom Tomatoes and Broccolini. Both dishes were extremely fresh and tasted fantastic. We then moved on to our main dishes being the Tagliatelle and the Campanelle. These dishes were very clearly made to a high standard and perfectly cooked. Personally, my favorite was the Tagliatelle as the meat sauce and pasta blended effortlessly. Additionally, the service was really good. Just make sure to make a reservation ahead of time because this is a hot spot! We will be coming back."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wWWVraFFVbEpTVlVGeVdteDBjbWRzWjFWc09IYxAB",
+            "text": "So difficult to find a nice spot for a business meeting that’s neither too casual nor too formal (especially during UNGA & Climate Week!). LPB strikes the perfect balance. Love that I can do a rezzie in advance, loved the ambiance, waitstaff were so gracious, and my meetings went beautifully. Loved the shaved Brussels salad with salmon & the side of extra crispy bacon was perfection. It is my new go to spot in NYC for sure."
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCak5Ga3dVSEo0YURoblluRk1MVWRVVkhsalUzYxAB",
+            "text": "Very aesthetic restaurant in Bryant Park. The food was kind of disappointing- nothing really stood out to me. It was also kinda expensive :/ The vodka pizza and zucchini fries were pretty good! The pasta was really tough and chewy and the bread was also super tough. The tiramisu was okay- the sheep is so cute though ! They have lots of vegetarian options!!\nOverall I’d give this place a 3.8/5"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sbGNsbHFVakV4VDI1aGFFbGFZV1JKUWtWdGFrRRAB",
+            "text": "Visited with friends from Korea. Made reservation, but still needed to wait little bite.\n\nServer was very nice and kind. Ordered one salad, steak, and pasta.\nAll three of them were amazing.\nSpecially, pasta was really good. It had kick of lemon flavor.\nSteak was perfectly cooked as we wanted.\nSalad was very fresh.\n\nWe were full, so we couldn’t try the dessert.\nBut really enjoyed the food and the time there.\nDefinitely, will visit again."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5TFFYTTJTVUpGWlhKMVEwUlZXbEpOVjJoQmRVRRAB",
+            "text": "We are very satisfied with our dishes. Pasta is perfectly cooked. Light yet flavorful, the shredded Brussels sprouts were tossed in a tangy lemon dressing, while the toasted nuts added a rich crunch—an invigorating and appetizing start to the meal. Wanted to come back and try other items."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ac1VGOUdWalpsVWt0UGFXcDFUbk5ZVW1ZNFUxRRAB",
+            "text": "the servers were so so sweet and the atmosphere was top notch. there were many food options as well. please stop by if you’re in bryant park!! this you must visit. however, you must reserve in advance."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psaFVrTnJiakJMWjNjNVkySnlOa1EwUkdZM1NWRRAB",
+            "text": "Food was amazing, but Server took our napkins before we were finished which I thought was odd.  Our server Jose was great!  Parm was great along with pasta and shrimp was delicious.  Only reason I gave a 3 star (atmosphere) is we were sat in the front by windows which is a different ambiance than the rest of the restaurant."
+        },
+        {
+            "date": "3달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tRelprbElka3BNYUdKMFozbE9aRkZEWmsxZmExRRAB",
+            "text": "Un délicieux italien, idéalement situé. Le service était rapide et vraiment très agréable. Les plats étaient savoureux et faits maison avec des produits de qualité. Le soir, la luminosité est vraiment très faible et le niveau sonore très élevé, comme dans tous les restaurants new-yorkais. Une très belle adresse à faire !"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KeVRITnZSRTlxUlRNM1lWaEpSM2hXYmtsTlUwRRAB",
+            "text": "Went in for an early dinner on a Sunday after shopping with my 1-year-old. We didn’t have a reservation, but the staff was super friendly and welcoming. They seated us near the front where there was extra space for the stroller, which was really thoughtful.\n\nThe food was a hit with both of us. The \"local burrata\" was fresh and flavorful, and the tiramisu—generously portioned and easily shareable. My toddler had a few bites and loved it!\n\nThe restaurant has a nice vibe—stylish but still relaxed. Overall, a really pleasant experience. I’d definitely come back.\n\nOnly small downside: no ravioli on the menu which was a little disappointing."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wUk5sTktOM2MwTFRkcFRTMWliVVpWYkVweVMxRRAB",
+            "text": "We had a lovely dinner at this restaurant on a Saturday evening. I took reservation which was available.As suggested by the server, we started with the heirloom salad and also had the pasta with mushroom (Garganelli pasta) which were delicious. We also took the salmon which I found a little dry. But the dish was well accompanied by mushroom, kale and a delicious sauce. The restaurant is beautiful and perfect for a night out. Overall we loved the service, food and the experience. Also it's close to Times Square, hence was easier to venture out after dinner."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205QlJXeHhiVlJmWmxSSFlXcE1SV05ZTTJwalFVRRAB",
+            "text": "Great atmosphere and reasonable prices for the location, but I found the pasta to be just OK. The shrimp pasta was pretty plain, but the other one pictured was solid. I think they do the spicy rigatoni vodka pasta pretty well too. Overall, solid spot and good if you need to be near Bryant Park"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOUWVrVkZkbTEwZUVKbWIyWlNkWEJXZEhwMlRuYxAB",
+            "text": "Frankly, I’m surprised this restaurant isn’t listed in the Michelin Guide. I’ve been a regular since 2022 and it never disappoints. My go-to order includes the Montenegro Mule, rigatoni pasta with burrata, and the tiramisu — all consistently excellent. The food, ambience, and drinks are top-notch. You really can’t go wrong with this place. It’s perfect for any occasion."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGeVUxRjJTRlJ4VHkxbFUycG1hRGRUVUZKcVJWRRAB",
+            "text": "I was trying to find somewhere to eat lunch near my hotel, and I saw that La pecora bianca had openings. I really enjoyed what I got, the creamy lemon pasta with shrimp and the baked potatoes on the side(really crispy and nicely spiced). The service is super attentive, like the classic American style where they check on you all the time (maybe a little too much?). It's a great spot for watching people, and the service was quick."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kb05WVldXVE00ZVRkdGRIRmxXa1ZWYXpSTlFuYxAB",
+            "text": "A flawless fine dining experience — refined, elegant, and unforgettable.\n\nFrom the moment we arrived, everything about Le Bernardin radiated excellence. The service was warm and professional, the setting quiet and luxurious, and the food — simply outstanding.\n\nWe visited for a late breakfast transitioning into lunch, and every course was balanced and beautifully plated. The seafood was fresh, delicate, and full of flavor. The tasting menu felt like a culinary journey, with each dish crafted with precision and artistry.\n\nThis is not just a restaurant — it’s an experience. Ideal for special occasions, business lunches, or anyone who truly appreciates world-class cuisine in the heart of Manhattan."
+        },
+        {
+            "date": "3달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWSGREVnFhR3B2VUZkNVZWcENSRkJPYlV4U1pVRRAB",
+            "text": "Waren zum Frühstücken im La Pecora Bianca direkt am Bryant Park. Die Einrichtung und das Ambiente ist besonders gelungen, das Frühstück war sehr gut zubereitet. Was man wissen muss: Wenn man nichts mehr bestellt bekommt man die Rechnung und muss den Platz frei machen. Für uns Europäer etwas „ungemütlich“ aber gängige Praxis in NYC. Würden immer wieder hingehen."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VdFVqRXdVMDlTYUVaTGNrbEtTWFpqUTJjMWMxRRAB",
+            "text": "We didn’t have a reservation, just did a walk in to this place and it was amazing! The interior was beautiful and this food was even better. The pasta was extremely fresh and was so good, the whipped ricotta was also a highlight. Staff were also supper friendly and attentive, would definitely recommend!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJXzdteFpBEAE",
+            "text": "i've been here around three times now and this place is great. It's so cute for a date spot or to just catch up with a friend. Bar area and table area are both very nice. Bathrooms have multiple stalls, and the staff are all very good. I wish I remembered our waiter's name because he was absolutely lovely. Once we went twice in the same day for lunch and dessert. Definitely a great spot in the area that is reasonably priced for Manhattan! I recommend the Ragu or Bolognese. Tiramisu too if you like that. Will return again."
+        },
+        {
+            "date": "5달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJTHM0SnVIdk9iX1dBEAE",
+            "text": "Ristorante bellissimo e lo dico da italiano🇮🇹 quando siamo entrati, abbiamo aspettato un po’ in fila dopo aver dato il nome alla reception ci hanno fatto attendere solo 10 minuti e poi non nostro tavolo era pronto c’è un sacco di personale che ti serve e solo tutti molto bravi e veloci. Noi abbiamo preso due pizze. Molto buone.\nConsiglio se passate a Bryant park"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxNlJuRXpWazlyVGt0QlZrOWFha3RLVkhoeE4wRRAB",
+            "text": "La Pecora Bianca – Bryant Park\nWe ate at the Bryant Park location. The service was just okay—some plates and glasses weren’t very clean, and the host wasn’t very proactive. Even with a reservation, we still had to wait, and walk-ins weren’t given much information either.\n\nThe food was fair for the price and location. We ordered a Margherita pizza pie, a bottle of Pinot Noir, and two appetizers: fried zucchini Caesar salad and crispy artichoke. For mains, we tried the campanelle pomodoro and the cacio e pepe. Everything was fine but not standout.\n\nOverall, it’s an average spot for lunch. It seems to draw a lot of office workers looking for a quick and convenient meal."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPNjlfXzdVemF2UHd3RRAB",
+            "text": "I came here with friends for Saturday brunch—this was my second visit, having previously been to the Upper East Side location. Although it's a chain with multiple spots in Manhattan, each one has its own charm.\n\nThe Bryant Park location shares the same sophisticated ambiance but offers more space, giving it a distinct feel. With high ceilings and natural light, the restaurant feels bright and warm. My mood instantly lifted upon entering. The lighting and color palette create a harmonious and calming visual experience.\n\nI love how the tables are arranged, with subtle separations and distinct setups. The main dining room has two areas: one near the entrance with a more relaxed vibe, and another deeper in that’s ideal for groups. Downstairs, the quieter library area feels perfect for a date.\n\nThe service was excellent. We had mistakenly reserved a table in the library but asked to move for better lighting. The staff happily accommodated us—not once, but twice—to ensure we had the best experience.\n\nThe brunch menu offers a solid variety. I ordered the kale salad—it was fresh, crisp, and honestly the best I’ve had.\n\nWe ended up staying over four hours because it was such a pleasant place to spend a Saturday afternoon. We lost track of time and were never rushed, which really impressed me given how busy it was.\n\nI can’t recommend this restaurant enough. I love the décor, ambiance, service, and food. I’m looking forward to visiting other locations to admire more of their tasteful design. The owner clearly has a gift for creating beautiful dining spaces through lighting and color."
+        },
+        {
+            "date": "2달 전",
+            "language": "ja",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5RlJFbEZSMWhwZFRBeFJtNUVOM2xtTTNsTGNsRRAB",
+            "text": "NYCレストランウィークのランチメニューです。一つのお料理は大きいので、何人かで行く時には違う種類のものを取ってシェアするのがおすすめかもしれません。地下の比較的静かな席にしてもらったのでゆっくりできました。"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwVVJFcEdNbmMyVW5WV1NTMTRNa3RoY1daVVMxRRAB",
+            "text": "We reserved a table for 7:45 pm. We were really excited to come here and try the food. The service was mediocre at best for a high end place. Our servers kept forgetting about us and our requests. Had to ask for chilli flakes 4 times.\nOur main server (forgot his name) wasn’t the most pleasing to speak to, I understand it is busy around dinner time but for a place where we are dropping $80+ minimum for two people, I expect the service to be extravagant.\n\nThe food was terrible. We got a vodka rigatoni I believe and a pesto mushroom pasta. Both were served at room temperature, the pasta was SO chewy, clearly undercooked, felt like it was prepped in a microwave because only the plate was hot and the food wasn’t. Two pasta order came out to almost seventy dollars not including tip which is fine if the food was good and so was the service, but neither were.\n\nI honestly really had high expectations for this place, I don’t usually leave reviews unless I’m EXTREMELY disappointed and unhappy and this was one of the two times.\n\nPasta LOOKS great but I wish it tasted anywhere near how it looked."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLN2N2ZE9sLTcydWJBEAE",
+            "text": "Food and staff were amazing. One of the best vodka pastas I’ve ever had. It was quite busy - so if you want a quiet meal probs not the place but was great for us. Relatively affordable for a proper meal in New York with 3 drinks 2 mains and a starter for $90!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SUGRXbExaVVJaYVdGMlNVbGlRa1ZhVFVwck9GRRAB",
+            "text": "Outstanding flavor and friendly staff. Shared the three dishes shown in pictures. Likely the best meal we had while here for six days. Highly recommend. Booth seating is very comfortable especially if you have a sore back."
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWV1YwUnJhMVphWWtGVVkyRlRjRGhPWTNCdFVsRRAB",
+            "text": "My  boyfriend and I went there for a late lunch around June 5th, 2025. It was extremely busy and there was approximately an hour wait so we sat at the bar. Their bartender was amazing with the service and knowledge about the menu/drinks. We didn’t have any drinks but he was very personable, happy, kind, and sweet. I listened to the conversation he was having with the couple next to us and they had a few drinks. He seemed very knowledgeable about the cocktails he was pouring/making for them. We both had the chicken Parmesan, also know as the “Parm-fection” on the menu (super cute name). This is the best chicken Parmesan we both have ever had. I love that it is made with vodka sauce! We will definitely be back. We plan to go back in mid July.\n\nWe just visited the same location again July 16, 2025 and ordered the same thing. The chicken Parmesan was even better than the last time! We also ordered the Tiramisu to go, it’s adorable, it has a sheep on it. How cute! The takeout/to-go bags are even very cute. This has become one of our favorite restaurants to visit."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pORmQyYzNkbVJMZFRSbVIwRmFWRE13Uld4VFNFRRAB",
+            "text": "A big space, filled with light, good for groups. The food was great! We had the garganelli, vodka pasta, and the ricotta and honey with bread."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOb1lUUlZPVUZMYW5aUU9GZG1jVWMwVjFwaFdVRRAB",
+            "text": "I went with my mother before a concert at Madison Square Garden. My mother was celebrating her 69th birthday with a trip to New York City to visit me. First, we got the Chocolate Hazelnut Budino and Pistachio Gelato. (Dessert was after dinner, but the chocolate was rich & intense.) The pistachio had a deep, woody flavor that had a complex profile that would make me assume this was made with a natural or in-house pistachio syrup and not any artificial flavors. We also had the Farro grain arugula grape salad with added grilled shrimp and fried calamari. Be aware that the grain arugula grape sal is very filling and not a light dainty salad. It’s properly dressed and delicious, but I would split this with another guest and leave more room for the house made pasta. I had the shrimp pasta with that newer bronze cut pasta they make in-house. My mother ordered the salmon."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVeFlYSm1SbkpJWkRKUGFVRnFaalY2Y2t0aGRuYxAB",
+            "text": "BRYANT PARK\nLa Pecora Bianca aka the white sheep.\n\nReservations aren't required, but it's better to have them.\n\nWe booked the library bc it's less noisy than the living room and slightly more romantic for a date night. The lights were dimmer but not too dim from what I saw in the reviews.\n\nIt was truly an experience. The ambiance of the restaurant doesn't feel like an actual restaurant.\n\nThe staff were attentive, friendly, and amazing. We never felt neglected bc there was someone always around.\n\nThe cocktail selection was pretty good. I got the Tropicale, and it was mezcal, aperol, and pineapple. Nothing special but fit the mood of the night.\n\nAPPS\nGem Ceasar 7/10\nCould use some more sauce. I felt like I was eating big leaves of lettuce tbh. Add anchovies and drizzle that sauce on it, and it could've been a great dish...\n\n9/10\nWhipped ricotta with bread was the way to go. Honey drizzled ricotta yum\n\nDINNER\nBranzino 10/10\nBranzino was delicious! Perfectly made to my taste with just the right amount of saltiness, the skin was tinged and made nicely crisp\nSpinach was spinach, and the olives were really salty and tasty.\n\nI think i would've preferred a garlic mash under the spinach and branzino, but the dish itself was filling after the apps.\n\nGragmina 6.5/10\nCurly pasta made al dente with sausage & broccoli stems in it\nButtery sauce? I'm unsure what kind of sauce was in it, but it 100% needed that extra burrata for 6$\nWe added parmesan too for taste\n\nThe chocolate pudding dessert was amazing. I'm not one for small desserts, but this one tasted delicious."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tveE1sOVllRFY0UXpob05HaFRiMFl6WDFSM2JtYxAB",
+            "text": "Arrived without a reservation around 4:45 and we were pleased to be sat at a cute little table near the window. Service was friendly and efficient. Ordered the fried provolone as an appetizer and with just two of us, it was a bit too much, but very tasty.  The shrimp campanelle we shared and enjoyed, although it did have more of a spice than we anticipated (we were aware it had chili flakes in it). Will try a different entree next visit."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJeWR5UVpBEAE",
+            "text": "OMG, the food here was amazing! It was a well-researched find, and we almost didn't go because it was a bit out of the way for us. I'm so glad we didn’t find anything interesting nearby and decided to make the trip. The pizza was one of the best we've had in the US. The drinks were great, the starters were delicious, and the pasta was absolutely incredible."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOU1dsOUNSSGxXYUVOdFdqRlVlbFpmUlZrd1ZIYxAB",
+            "text": "We had such a special night here. The food was delicious, the service was wonderful, and the staff made us feel truly cared for. I am so grateful for the experience ❤️\n\nP.S. They served one of the best tiramisus I’ve ever had, even compared to the ones I tried in Italy. 🤌🏼"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psME1sZDVjRzh6TFROeVZIQTFaMnhaU3pJMU1XYxAB",
+            "text": "Had a wonderful early birthday dinner with my family. Brussels sprouts and tagliatelle were the stars of the show. But the pepperoni pizza and Caesar salad were great too!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWT1YzUnFiMmxhUkdoTkxWcDZNV1JOZW1KMVlsRRAB",
+            "text": "Absolute gem. Everything—from the food to the ambience—is perfect. The service was a bit slow but otherwise amazing.\n\nThe bathroom needs improvement, however, as none of the stalls had any toilet paper and one toilet was left very sooted!! The staff needs to take better care of the bathroom hygiene.\n\nAs for food:\nI highly recommend the whipped ricotta (creamy delicious honey with bread) and the Tagliatelle pasta! The brussel sprouts were a bit burnt…"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tRd1gxSkJUbVpKWlUxQ1ZGUm5ZblZSVkd0TVRsRRAB",
+            "text": "Pasta was handmade and very good, and drinks were perfect. Service was also speedy and informative on dishes, however the tables were so jam packed together it made the atmosphere so loud it was near impossible to talk without yelling."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OdFpYbGpaVzlxYldwblRGZEhRbkY1VFZoa1RYYxAB",
+            "text": "This is one of those go to restaurants I give as a recommendation to anyone visiting NYC and also one I love to frequent myself. The service is fast and good, their house rose is 🤌🏼 and you will not find a better vodka sauce. I got the chicken parm for the first time and it was huge and came with their famous rigatoni. Highly recommend!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGUlIxWk5WalJLWm05ZmVYTnFhakp2TFUxSVJsRRAB",
+            "text": "I visited this location yesterday with my friend and we had a great time. Food and drinks were amazing. I ordered the chicken parm rigatoni and it was delicious. My friend also said her pasta was excellent. Will definitely visit again"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJYTAwYzI4ejl1TVpREAE",
+            "text": "Amazing place! I go every time we visit NYC. The pasta is so yummy! Love the burrata ball on top! The downstairs library is also super cute (but a little loud when busy). Drinks and appetizers were also superb"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOUFpsOWFiSFZWTTJGSGJIUm9ObVZoV1haQlkyYxAB",
+            "text": "Egg was okay but this was the best french toast we've ever had! Recommended!\n\nService and atmosphere was great too. It wasn't crowded on weekend for the breakfast."
+        },
+        {
+            "date": "1달 전",
+            "language": "ar",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKVk9EbDVVakpTWW1jMlIxZElObmgwWkd4WVgzYxAB",
+            "text": "Food: delicious\nService: great\nStaff: friendly - we waiting around 40 min to have a table we did not do reservations I recommend that you do before going\nPlace: good\nExperience: good\n\n‎الاكل: مره لذيذ\n‎الخدمه : جيده\nانتظرنا حولي ٤٠ دقيقه علشان الطاولة انصح انو تسون حجز قبل الذهاب‎ - الموظفين: لطيفين\n‎المكان:جميل\n‎التجربة: جيده"
+        }
+    ],
+    "reviews_count": 73
+}

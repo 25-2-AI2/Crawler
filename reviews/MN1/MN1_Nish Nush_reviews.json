@@ -1,0 +1,607 @@
+{
+    "name": "Nish Nush",
+    "place_id": "ChIJ0zTkax9awokRgH4QnXxcRSc",
+    "grid": "MN1",
+    "address": "88 Reade St, New York, NY 10013, USA",
+    "rating": 4.5,
+    "user_ratings_total": 1757,
+    "phone_number": "(848) 294-1690",
+    "reviews": [
+        {
+            "date": "25분 전",
+            "language": "iw",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzeFIwSnJWa0ZRVDJjMFMxUlZOelIyTFVsV2JVRRAB",
+            "text": "וואלה הגעתי במקרה והיה מפתיע לטובה. הזמנתי מנת סביב שהייתה ממש טעימה, השירות היה זריז וטוב, הבעיה שאין מספיק מקומות ישיבה ואז צריך להמתין  שמשהו יתפנה  אם אני לא טועה מנת סביב בפיתה וכוס לימונדה עלו לי כ 20$\nהמקום נראה נקי וכך גם אזור הבישול.\nאם אהיה שוב באזור- בטוח אכנס  לאכול שוב\nבתאבון"
+        },
+        {
+            "date": "20시간 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ORGFYZDFNa0Z4VEZSWlJWWldlRU5NVWtsalUwRRAB",
+            "text": "The sabich was not great for the price. Also, couldn't find anything online with the kosher certification info. Here is the certification listed in the window:"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xadVRYVnlkMmxYV1ZWblZraEhkVjlsTTFaUlQwRRAB",
+            "text": "This restaurant gives me exactly what I want. The experience here is reliably good. You can enjoy diverse food options, pay reasonable prices and receive attentive service. The level of assistance was superior. The entire meal was worth remembering."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSd2NtWmhjVTF0VHpGc1RWRTFaV1JaWWpCbFJFRRAB",
+            "text": "The food is good. But the people who work here are really slow and the environment inside is kinda dirty and worn down. This used to be a really nice place but the inside  has deteriorated. Although the food service workers wear gloves, the cashiers don’t and they are sometimes the last ones to touch your food. Also pay  attention to their pricing policy too. If you want a regular falafel, it’s 11.50. If you order for pickup it’s 12.50. And if you don’t want a pita it’s +$2.00 (pickup or in store).  So $14.50 for the same food."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210VVpHdHpYMmxVVURWSE1VWkhYMFl6ZURjelpIYxAB",
+            "text": "Delightful falafel that reminds me of home. Great experience, worth coming back again and again."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5YWFVZE1XbVo0VG1OMWEyNTZibGxQVmtZNExVRRAB",
+            "text": "Great food with simple ingredients. Very generous combo of fiber and lentils, good luck haha"
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzck9MYUxREAE",
+            "text": "Nice place, friendly staff, and the food is pretty good."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pob1JXSTRSMEY0YkZKWWEwVnRXRzR5WVU1UFgzYxAB",
+            "text": "Hummus and babaganoush on point. Flavorful food. Awesome platters. Vegetarian only."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21nM09WUnJSa2hOVkUxTWVsTmllSE5xVnpCRFNWRRAB",
+            "text": "Located in proximity to public transportation, I mean it's Manhattan. The shakshuka was reasonably priced and it tasted very nice. The pita was also high quality."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxd1VsSjFjMDV6YlRWR04zZzBiM052ZHpac1NGRRAB",
+            "text": "Great food and vibes"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoTVdsSTFNMlkzYjFaTFNVazVTRlpPU1RaSU9GRRAB",
+            "text": "Fantastic falafel."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zeE1uUkdXRkJuZGw5ZlJsTlBPSFZ4ZUdzelYxRRAB",
+            "text": "Got food poisoning from here. Tables are nasty and sticky like other reviews say."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pVMGQxZE5PVTlWWXpCTU1ubEZTazlLVDNreFEzYxAB",
+            "text": "It is Israeli-Moroccan influenced food ( majorly Israeli). I really had an amazing experience. I totally recommend for everyone to try. I ordered to go but later decided to stay and eat that’s why you can see them in to go boxes and not in the platter."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NMFdFUlFVbGRYTm0xU1FtcGpWbEZpT1hoR2RIYxAB",
+            "text": "Disappointing"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tobVRsOWtiV2haTkdsUmMzcFFlRXh5YzNSblNVRRAB",
+            "text": "I love it here. The falafel is delicious, the pita is fluffy. I don’t remember what I got but it’s the most basic falafel sandwich they have and it was amazing. Perfectly filling, with Israeli salad, tahina, falafel and pickles, more tahina and shug on the side.\n\nGreat affordable kosher option in Manhattan."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OclpITnJRMnRLUVZaNVFYSnJZV1pyYlV0TU1uYxAB",
+            "text": "I came here with my girlfriend on August 25th and bought a Sabich and Falafel plate. I wanted to take photos of the restaurant while eating, but they told me it wasn't allowed, so I apologized. It's interesting, I think they have strange rules. People who post photos here, be careful; they might get angry at you :)"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtanM3TWl3RRAB",
+            "text": "Great food, quick service, and not too pricey!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFMVVGWkxiMkZ1Y2xWR1pHbG9kbk40Ym5sRk9FRRAB",
+            "text": "Excellent option for Vegan people in the middle of financial district Manhattan"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paYVJHOWpMWFV3VjFsd1FuWnVXVkJXWlZaR2FHYxAB",
+            "text": "The perfect spot now exists here! Every restaurant employee is nice and efficient. This place has an energy that's different. The complete menu delivered taste satisfaction. I was here for a weekend and it was great."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WNU5HaGZZMkZPYW1GdFMwSnlMVGxEYTJKS2VIYxAB",
+            "text": "I had the Classic Forever Sandwich: Classic falafel, hummus, Israeli salad and tahini. Vegan. It was excellent."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSMVkwdDNhSFY0U25Oa2VYSmFSRnBJUmxkUVMyYxAB",
+            "text": "Everything was delicious . Must try the Baklava."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oRlNtdEZWMmd4ZDJob2NUZDFaakpRV1dWVFRYYxAB",
+            "text": "Very bad"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GZk9GSk1iMFI1Y1hFeVlscDNNMHg1VkRkWldrRRAB",
+            "text": "Food: 4\nService: 4\nAtmosphere: 3\nI wanted to try this since I never had Israeli food and  it’s highly rated & a bit different than the usual stuff you get. I went around 8:45pm on a weekend & could get a places to sit easily. It, however, filled up quickly after that.\nI had Vegan Shawarma. The taste was good. The only downside was the oil that accumulated at the bottom below the bread. But overall it was good & filling."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wVGNFbEtVbkE1WlVGbGRuRjJTR28yWWpSRVgxRRAB",
+            "text": "Food was delicious. Just a bit sad because they didnt have my favorite drink available when I went because of no ice. Won't be in the area for a while to try again."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paQlppMHpjamRRTFhWdFZtdHlUbkZMWWxkWFRtYxAB",
+            "text": "Ordered Falafel Sandwich 9.4/10"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5cmEzRXlaMnAwVDNOcE0wOXNVRmt5TFhWM1FXYxAB",
+            "text": "The yam slices were a little rare for my liking"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaRlpEWkthbnBYVGpsNFpreGhZbFZMT0UwdFZGRRAB",
+            "text": "The search for new places paid off when I found this gem. The team combines helpfulness with a welcoming spirit, in a restaurant with friendly patrons. The meals here are perfectly prepared. The space shows care without formality. Every part of the service was attentive."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wNFNrbE9USE5XV0ZkQmNXcE5hbGsxWDFacGMwRRAB",
+            "text": "Great casual Mediterranean vegetarian food used to go here 2-3  times a week when I worked in FIDi. It's nice to see that the quality has not dropped off at all."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4dFkwcEROM2RHWTA5aGMzaFVWRkF6UTNZdFdFRRAB",
+            "text": "Quite a place.  Good for casual grab or two, nothing special service can be improved."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKd2JUUmZRM1oyYUhVNGVrSkphRFJrT1hKR00wRRAB",
+            "text": "Excellent falafel, nice and fluffy on the inside. Highly recommend for a quick or leisurely lunch while exploring NYC."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCc00zY3hiM3BtV1V3eGVWWmtOekJNZWs1WGRVRRAB",
+            "text": "This is a nice Middle Eastern restaurant near the financial district. I have eaten here several times and the food never disappoints. Seating is a bit scant and the tables were a bit sticky. Not sure if it is because of how they are made or them not being cleaned properly."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWdGNISjBiVFJRVkdsbmQwOHRaVGxGUTFsblJFRRAB",
+            "text": "Delicious salad bowl - enough for 2 easily. Warm fresh pits, tabouli all lovely. Cold drinks would have been nice, and no hot water for tea. But apart from that would definitely recommend."
+        },
+        {
+            "date": "3달 전",
+            "language": "iw",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201aWJISXhibVJDTm5rNFRtWmxaMmRsTFRaRVlVRRAB",
+            "text": "חומוס ושקשוקה ממש טעימים 🇮🇱…"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSUmFsbDZTSFoyZWtOaFdsTjFkWFpDTW1aTlIzYxAB",
+            "text": "Nice kosher place"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGNE5HSjFNVTVUTW1Wck5XUkhiUzEyTUVjMVMyYxAB",
+            "text": "Best falafel in the city"
+        },
+        {
+            "date": "3달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaYU5rOWpZelZYVFZORWFXTXhjV2sxVmxaSloxRRAB",
+            "text": "Hat super geschmeckt!\nDer Hummus ist Weltklasse!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVeU1HRmhZa0ozWjAxeFlYTmZhelEzV1c4eVUwRRAB",
+            "text": "Best Hummus and fries I've had in recent memory!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWeFdGbzJjV0ZoY1hGV1dWUlNOVGQwYnpRd1JHYxAB",
+            "text": "The employees are helpful and communicate menu items clearly, despite the noise and energy of the city. The food is incredible. The location is small, but there’s still good seating. They deserve all the success that comes their way!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOMVNsSnZiVlJHV0U1bFFUTlNRbTlrYjBsNGJsRRAB",
+            "text": "Kinda slow and the tables are sticky BUT the sandwiches were amazing. Each bite got better."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sVE1tYzFlRlozUjBoRVIzcFpaemhUWW5ab1pVRRAB",
+            "text": "I ordered the Classic Forever sandwich—and let me tell you, it lives up to its name. A falafel fantasy stuffed with creamy hummus, crunchy Israeli salad, silky tahini… all wrapped in a pita that, well, felt a little like it missed the invitation to the flavor party.\n\nBut let’s not get stuck on carbs—because the falafel balls? Oh, the falafel balls! Golden-crisp like they just stepped out of a sunbeam, soft and herby on the inside like a secret whispered in a spice market. These weren’t your run-of-the-mill dry hockey pucks—these were handcrafted bites of joy.\n\nThe hummus? Smooth and dreamy. The Israeli salad? Crunchy, bright, and full of life. And the portion? Generous. Like, four falafel orbs of glory—I couldn’t even finish the sandwich, though my taste buds begged me to try.\n\nIf they ever start baking their own pita, this place might just dethrone the falafel king himself. (Speaking of which—Turco in Midtown, I still see you.)\n\nBottom line: this sandwich slaps. It sings. It crunches. It comforts. And if you’re on the hunt for a legit falafel fix in NYC, this spot deserves a place in your rotation."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xObGVrSm5aMnc0Y2tOcFowcE5UVUZxTFMwMGVHYxAB",
+            "text": "Super generous portion sizes for the price. Could make two meals out of it.\n\nLimited seating inside but can normally find a spot still"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KeVJuRmtOek52VUVaeExVZE5PRXRYZWpFelZFRRAB",
+            "text": "It was good kosher food Yami"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SblpFWTRRMjAwTFdOV2JXdHFNMVZFTUdFellXYxAB",
+            "text": "Looking for a quick meal on your lunch break? This is IT. Ingredients are fresh! Service is fast. I was craving falafel for lunch. Ordered one of the falafel sandwiches. It was overflowing with deliciousness!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGeFV5MVVVVkp4VWtjdE4xbFVUVFphYjBWeVpHYxAB",
+            "text": "Found another gem!\nLovely staff, amazing food, greats amounts!!\nThe falafel was delicious so was the humus."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204emVVMDFTRU5SY0dzNU5VSnRiRkkzYzB0Zk0yYxAB",
+            "text": "Excellent in every way !!!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aTWVHNTRiMVp1VlhCNVYwbHFVVGRuZEhOMVUxRRAB",
+            "text": "Falafel is good I can mow make it at home thanks to nish nush which doesn't share their information like that but I can actually have falafel it tastes good and other Mediterranean vegan stuff.."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oWVVIUXpkMGswUW1sRWNVRnRkM2gyV0daU05VRRAB",
+            "text": "5 thunmbs down 👎👎👎👎👎"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Od0xXOXBZVmRNU1VSdFREQmtabGxhTmpWdVluYxAB",
+            "text": "Legit best falafel I’ve had in NYC in a decade."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WdGEzcElkWGxhVkRWZllrRkVibE5MVHpWdWRWRRAB",
+            "text": "Food was delicious and fresh.  Portions are big!  You can share easily!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taWU5IZGpZWFptZDFORWVVMUNUalV6ZDBSdFZWRRAB",
+            "text": "Pita bread from microwave\nFalafel cold\nSalads from last week\nVery disappointed"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLcWpwTGZGLU5qYTF3RRAB",
+            "text": "One word- it was a wonderful experience. All veg menu with so many delicious options and so pocket friendly. I visited Nish Nush based on a friend’s recommendation and must say, it was worth visiting. Everything that we ordered was delicious. I could not understand the names in menu even being on English, but staff there was so helpful who patiently answered all my queries and helped to make choices for my dinner on the day. It is one of very few places that also offer drinking water free of cost and that also adds to the good service. I do recommend the place. Do try the soups, if you are visiting there."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOZlN1dFdZczZLcVB3EAE",
+            "text": "We were hungry and uncertain about where to eat (first time in this area). I checked the map and discovered a nearby restaurant. I'm glad I found it, we loved it! Everything was amazing, especially my Ginger Lemonade. When we arrived, it was raining, so the restaurant was empty. A few minutes later, it filled up with other customers. The ambiance was nice, with the music playing at just the right volume."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJa2EyLTNBRRAB",
+            "text": "The soup was so good and I love soup.  They have real vegan options.  I liked the kale salad bowl, I just didn't like the mushrooms because they taste like bought mushrooms that had been sitting in brine too long or too much vinegar and rubbery.  Everything else I order was great!  The falafel burger was soooo good. The humus with mushrooms was amazing. The staff was amazing too."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VQMnJ6OWFPaDdueGpRRRAB",
+            "text": "~Fresh Falafel & Hummus~\nDelicious Falafel Trio platter. It comes with three falafel flavors, hummus, israeli salad, white & red cabbage. Generous portion for two people."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqek5XRjR3RRAB",
+            "text": "Overall, we had a great experience and delicious food! If you’re in the area and looking for Mediterranean, I’d give this place a try.\n\nWe tried all 4 of their sandwiches. Everyone really liked theirs but there are a few key things to note.\n\nHeat levels are relative but the guy in our group who got the Red Hot Chili said it really wasn’t that hot. I’m not sure how else to guide outside of, he loves his food spicy and he rated this as low spicy.\n\nFor the Popeye Delight, the main comment was too much red cabbage, not enough spinach.\n\nWe all agreed that the Tahini sauce was great! Really good sauce composition here 🙌\n\nWe all also agreed that the portions were bigger than we were expecting which was great. We got a hummus appetizer but couldn’t finish it since we started to eat it after we had our sandwiches.\n\nLastly, I’m giving it a 4-star for service because it wasn’t too busy when we were there but the tables were a little dirty. We wiped it up no problem but still something we shouldn’t have to do as customers.\n\nShould you visit this spot, I hope you enjoy as much as we did 👍"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNINHBEbzRRRRAB",
+            "text": "We had really good vegatarian Shawarma and a Bowl of Salad. Both really good and large portions. We also had a vegetable soup which was good too.\n\nStaff was really friendly and helpful.\n\nSuggestions for improvements: please consider to use normal/washable dishes & cutlery for guests who're eating on-site in the restaurant (instead of plastic forks, plastic bowls with lid for the soup, etc.)."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQdElHOV93RRAB",
+            "text": "Absolutely loved the falafel and hummus here! We tried the deluxe sandwich and hummus platter and they were fab! The falafel burger was yum too. The hummus and tahini have a super creamy texture. Also, the fixings and sauces are amazing and pair perfectly well. The portion size here is huge. This place is vegan and vegetarian friendly so the veggie options are plenty on the menu. I would highly recommend giving this place a try."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKbEotWkpREAE",
+            "text": "We visited during a weekday visit to the city.Was crazy crowded but the service was excellent. Everyone from the guy at the order counter, to the chefs and servers worked in unison and super fast.Limited menu and seating but looked like a popular spot with loads of regular customers. The food is okay, not the greatest! Ordered the deluxe pita sandwich and the red hot chilli pita sandwich.These were of decent portion,loaded actually,stuffed with veggies and eggplant.Not the best pita sandwich I have had but I guess these are of Israeli cuisine.Never had one so can't comment on the authenticity! All food was served hot and within a few minutes.Overall happy with the service,a tad bit costly for the pricing and seating arrangements could have been better."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNudktpUUt3EAE",
+            "text": "Fabulous! Better than expected! I got the deluxe vegan pita! I love all the fixings and boy, does Nish Nush provide. I think I preferred the fixings and sauce and pita to the falafel but the entire combo is a dream! All the pickles, cabbage and tahini sauces and fried eggplant included. Omg yes"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURicGF5SW9RRRAB",
+            "text": "Pretty filling and healthy choice if you're near Chambers Street . The food is mostly plant based with choices like Falafel or Hummus or sandwiches.  Get the Lemonana drink , it's a delicious lemonade with fresh mint and really hits the spot . We got a side of fried cauliflower with tahini and while it was delicious I would say only order it if it's at least 2 or 3 people since it's quite a good portion size and if you're alone it will be hard to finish with the rest of your food.  I got a Falafel platter which has 9 Falafel in 3 different flavors with salads and 2 pita. I liked the tomato flavored one the best and brought the leftovers home . My friend got the Masabacha Hummus with Chickpea and egg on top and thought it was really smooth and liked it. This place can get busy and seems really popular.  Staff are really nice. About 5 blocks from City Hall . Good spot."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNid01hMGpRRRAB",
+            "text": "La comida es deliciosa ! Los falafels son súper frescos , La ensalada también y las salsas son otro nivel ! De verdad delicioso . Las porciones también son muy grandes , perfectas para compartir . Tambien las personas que trabajan en el lugar son muy amables , recibimos muy buena atención de todos! Volveré"
+        },
+        {
+            "date": "8달 전",
+            "language": "iw",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURneC1MNldREAE",
+            "text": "מסעדה כשרה עם שירות אדיב וחייכני. האוכל בשפע, טרי, טעים ומשביע. אכלנו מנת פלאפל טריו עם פלטת ירקות וחמוצים בליווי פיתות חמות וסלט חלומי מוקפץ. מחיר נוח ותמורה הולמת"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNOenY3UXd3RRAB",
+            "text": "I’ve been to one other Nish Nush location before: this one’s much nicer (in terms of ambience and service), but the food appears to be regularly great!\nI had their deluxe sandwich this time, and it was - literally- overflowing with all the good stuff: lots of protein and veggies. It comes with pickles, tahini, and crushed chili on the side (I finished all of those too, because the center of the sandwich tends to be a bit dry).\nI love that their menu is entirely vegan! Also met the nicest staff! Dining here made for a most pleasant evening - I’ll definitely be back."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKbExucUlREAE",
+            "text": "Great food, variety of options! All dishes are freshly prepared and taste so good. They have big portion sizes so 2 dishes can be easily shared between 3 people. Crispy tomato garlic hummus is the yummiest. Will definitely visit again to try more from the menu."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuNFpPbHRRRRAB",
+            "text": "The falafel here is 🔥\n~Vegetarian kosher Mediterranean food; uber-generous portions; flavorful and fresh; excellent value.\n100% recommend for anyone looking for a quick, plant-based meal. Can’t always luxuriate over a meal and wait for your tab, so I appreciate counter-service food that’s memorably high-quality."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREc2V2MEF3EAE",
+            "text": "Food: variety of fresh food falafel and hummus & salad combo. I was thinking that they serve chicken shawarma but they don’t most of their menu is only consist of falafel. Their falafel trio is great.\n\nService: they need to pay more attention to customers with respect to their commitment.\n\nAtmosphere: they have plenty of seating outside and inside and the atmosphere is great."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyX09YZUxnEAE",
+            "text": "Generous portions and flavorful falafel in many shapes and sizes. Spicy, spinach, and regular - all worth a try. Added bonus is the whole pita, not something you find in every Mediterranean restaurant. Seats a bit eclectic - and the chickpea tables inside may not be for everyone, but the food shines through!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHOHZMOUdnEAE",
+            "text": "One of a kind!\nThis restaurant offers so many vegetarian options - all with great deal of spices!!\n\nThe halloumi salad was BEYOND TASTY along with falafel wraps!\n\nI will go here again & would highly recommend giving this place a try.\n\nThe staff was very at tentative and helpful in making selections.\nRestaurant has a few tables inside & outside.\nThey will check your vaccine card/pass prior to placing an order!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21adFIwVXhVMFpwYTNaYU1VdGhRazl5TlZob2VXYxAB",
+            "text": "Delicious food. I enjoyed the hummus, Jerusalem salad, and split pea soup."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCdllfUEdREAE",
+            "text": "Their Shakshuka is one of the finest dishes I have ever eaten. Wonderful falafel and hummus. They do a brisk lunchtime business but still able to find a seat.\nSome of the best middle eastern food in the City."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOTlgydDZPRmgxWm13MU5FTjJRVzE0Vm5aRGEwRRAB",
+            "text": "I’ve been a regular at this restaurant for a while and usually enjoy the food. However, my recent experience was disappointing. I ordered a shawarma platter but was mistakenly given a falafel platter. When I pointed out the error, the staff insisted I had ordered the falafel, which felt dismissive.\n\nDespite being a loyal customer and recognizing the staff member, the issue wasn’t resolved properly. The food was still good, as always, but it wasn’t what I ordered. I know it’s a fast casual place and can’t expect the best of customer service, but for the prices they charge the least I get is what I ordered.\n\nI hope the management pays more attention to customer service moving forward, as this place really does have potential."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJV1pnTU8xei15TmhnRRAB",
+            "text": "Had the most amazing deluxe falafel sandwich there!\nVery flavorful. They added extra sauces and pickle which made it even more delicious. Very unique flavors.\nThe staff was very friendly."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNodk5pekZ3EAE",
+            "text": "I’ve passed by this place a billion times, but it wasn’t until a friend highly recommended this place did I finally stop in. OMG THE FOOD WAS SOOOOOO GOOD. the menu was well crafted. I ordered the chilli falafel burger and the deluxe. The…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6a2U3S3FnRRAB",
+            "text": "We had a falafel trio platter and crispy garlic and cherry tomato hummus and they were both delicious; plus, it also comes in huge portions.\n\nThe falafel trios came in three different flavors -- they were soft inside and crispy outside -- and it went so well with refreshing cucumber/tomato salad and pickled white and purple cabbages. The hummus was so creamy and delicious; we enjoyed the crispy garlic chips and roasted tomatoes on top.\n\nThe person who took orders said everything on the menu was excellent when we asked for recommendations and seemed to have a pride in their food. After trying their food, I could see where their pride was coming from and (silently) nodded in agreement.\n\nThe space was airy, breezy and spacious, letting in a lot of natural winds. Would like to go back again to try some other food on the menu!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMczUybkt3EAE",
+            "text": "The food is so fresh, tons of vegan options, and very fast service. The staff was incredibly kind as well: I spilled my tray and without missing a beat, they replaced everything I had dropped even though I didn’t ask them to. Also outdoor seating."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlN1o3ZEZnEAE",
+            "text": "Had the falafel sandwich and mint tea. The falafel came out quickly and was very fresh and tasty. It was a nice day and the restaurant was open and light and airy. I saw the famous chickpea tables and thought they were a little tacky, but it's certainly cute and unique."
+        },
+        {
+            "date": "2년 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoODZ2cnF3RRAB",
+            "text": "Lors de notre visite du quartier financier et de wall street, on est tombé sur ce restaurant rapide.\n\nLa nourriture est très bonne, fraîche et de qualité. L’employée à l’accueil nous a conseillé les spécialités. Passez y si vous chercher un point où manger lors de votre visite du financial district !"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwa3RidjdnRRAB",
+            "text": "Delicious spot for vegetarians. We stopped for lunch and had the vegan shawarma and the falafel burger. Both were tasty, hot and generous portions. The baklava was also great - it was milder and not as sweet if that is your preference. Classy and unique vibe for a quick lunch or casual dinner."
+        },
+        {
+            "date": "1년 전",
+            "language": "pt",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxODRTeGJ3EAE",
+            "text": "Alerta melhor árabe que comi na viagem!\nUm restaurante pequeno, bem informal, com estilo industrial e o preço era bem legal também! Pedimos um prato que era o Falafel Trio (17,50 dólares) que servia 2 pessoas. Vinha 3 tipos de falafel, hommus, tarine, tabule, pão pita! Era bem servido e delicioso! Também pedimos um salada verde com falafel era bem delícia ! Era tudo muito saboroso e o atendimento bem legal!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNZOUlHY2lnRRAB",
+            "text": "The best Mediterranean food I’ve ever tried! Truly an exceptional experience if you’re in NYC for a visit!! Their tea and lemonade are tasty! While having a lichee there I thought that being a vegetarian is not that boring as I thought it is!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNVay1DSE93EAE",
+            "text": "Seriously one of the best falafels I’ve ever had!\n\nI work in the neighborhood and come here often for lunch and never had a bad…"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VOV2VrcHllenBtSzdnRRAB",
+            "text": "Ordered online from them yesterday and the foul hummus was so bad. Incredibly salty and the beans uncooked.\n\nI have been since trying to call them to request for a refund and they would not pick up my calls. Keep hanging up, and the online service has dusted their hands of the responsibility. Terrible!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBOWRyNEZ3EAE",
+            "text": "The food is amazing and I really miss the John st location.\n\nAlso the vegan baklava seems to be gone :(\nplease bring it back\n\nVegan shawarma is 10/10 - little messy to eat"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwdEpiVWt3RRAB",
+            "text": "Cannot recommend this restaurant enough! My two friends and I came here for a casual dinner and we split the falafel plate and greek salad for an incredible $30 total. The servings were very generous and the flavor was not lacking by any means. The falafel was delectably crispy and the hummus was the perfect balance of spices and smoothness. The pita was perfectly fluffy. The greek salad and salad on the platter were so refreshing and a perfect pairing with the rest of our food. Great quality, great price!! Thank you, will definitely be coming back!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiak1XNjVRRRAB",
+            "text": "Tasty and great value for amount of food you get. The falafel trio was good to share between two. I don’t think it’s mentioned on the menu, but you can order a side of halloumi (they’re more like halloumi bites and they’re delicious).  The labneh was also nice and tangy and a great thick consistency."
+        }
+    ],
+    "reviews_count": 85
+}

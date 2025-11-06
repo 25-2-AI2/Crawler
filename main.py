@@ -391,7 +391,11 @@ class GridBasedPipelineRunner:
         self.print_summary(results, elapsed_time)
 
         # 로그 파일 저장
-        log_file = os.path.join(self.restaurants_dir, 'pipeline_log.json')
+        log_dir = 'log'
+        os.makedirs(log_dir, exist_ok=True)
+        now_time_str = self.start_time.strftime('%Y%m%d_%H%M%S')
+        log_file = os.path.join(log_dir, f'pipeline_log_{now_time_str}.json')
+
         log_data = {
             'timestamp': self.start_time.strftime('%Y-%m-%d %H:%M:%S'),
             'total_grids': len(districts_to_process),

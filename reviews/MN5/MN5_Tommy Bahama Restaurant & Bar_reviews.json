@@ -1,0 +1,565 @@
+{
+    "name": "Tommy Bahama Restaurant & Bar",
+    "place_id": "ChIJ5ZYmOv5YwokRAD6rtfLf-tM",
+    "grid": "MN5",
+    "address": "551 5th Ave Suite 101, New York, NY 10176, USA",
+    "rating": 4.5,
+    "user_ratings_total": 1239,
+    "phone_number": "(212) 537-0956",
+    "reviews": [
+        {
+            "date": "수정일: 2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwbXQyVHN3RRAB",
+            "text": "The best frozen Mai Tai youlll ever have. I lost it over the scallop sliders!! Who knew that is a thing. My go-to spot during the summer. Best food and drinks"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21vMGFraHZaMmczTWt0a1FtZDVUVXhVVUd0TFpFRRAB",
+            "text": "This was so good we went back the next day for lunch! The coconut shrimps are amazing and so are the fishcakes and the Mahi Tacos (only available at lunch) we had the next day. Well worth a visit, lovely atmosphere with steel pans playing and just spot on. One of our favourites!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swNWRISkdjVEY2Y0dSeWVVdG1kMUp0ZUZSSGVYYxAB",
+            "text": "Delicious food. Appetizer portions are large. Quite pricey.\n\nGood looking waiters offering warm and friendly service.\n\nLove the ambience which is perfect for a Sunday brunch with the ladies."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKR2FWbEhWMWhtV0hOTVpWWTRZelozTWtOdk9FRRAB",
+            "text": "Had Sunday lunch here and the food was delicious. The coconut shrimp and the spaghetti squash bowl were both excellent. The place wasn’t busy, which made it a perfect spot to enjoy the relaxed Bahama vibe — a great, laid-back lunch."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKWVFtdEhiVkpxU0dsSGRVUldNemRvYjB0RGNsRRAB",
+            "text": "Food was surprisingly good. Service was exceptional. Our Server, Angel was an absolute delight and the hostess, Kay, was also terrific."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swMlNVcHpNVFpwYTFaTWVFWllWSHBNYURSMVNHYxAB",
+            "text": "Bring back the whipped feta and fig/hummus board! 😭 that was the BEST"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1aWFGQXdiRWRKYkdscmJXZHJRWFV3Tm5VeGRWRRAB",
+            "text": "Awesome Happy Hour from 3-6 pm. Must try!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21VeFVqWTRjakJRYjBOR2FIVnFXbG8zT1VONWIxRRAB",
+            "text": "We only stopped for drinks so can’t comment on good. The cocktails are great , from a wide ranging drinks menu. Really nice decor and atmosphere making for an excellent place to grab a drink after all the shopping on 5th Avenue!"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnbHU3SWlBRRAB",
+            "text": "Tommy Bahamas Restaurant is a fantastic place to sit and enjoy your time. While there, why not happy a little something to eat and drink.\nOur server Juan was not only very professional, he was also very friendly.\nWe highly recommend to stop in for a while and enjoy yourself."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSbUxWUjVORWc0UkhSeWJscHZjWEZJYVdKRExWRRAB",
+            "text": "Nice restrauant with what I would call an electar menu. You will find something you like."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFMWVqZGlPVFJNYUVGMkxYWm9aMmRrU1hKMFlWRRAB",
+            "text": "Nice spot for a drink and bites.\nService is slow, but friendly staff"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kalZIRm5TWE5OUkV4UVJsVnZRM0pCZUZsNExVRRAB",
+            "text": "Nice place! The pineapple creme brulée delicious!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxNmFrbFpPRGxUTVhVNE1YWXdiVGRsY1RObVdVRRAB",
+            "text": "Came here for a couple of beer at the bar during a hot summer day in fifth avenue new York. Very nice place to chill"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xreVlWWlZTVGhaYVhGak5UUXlUMXBOZVVSVWEwRRAB",
+            "text": "One of the best margaritas I have had in NYC! Killer happy hour"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205QmEwOXNjR2xYWVhsalVWbDBha3hUTVdGcmNrRRAB",
+            "text": "The staff here are wonderful—especially the gentleman downstairs, who was exceptionally polite and helpful, as were the other team members. The food was quite delicious, and surprisingly, even though it was a Sunday, the place wasn’t very crowded. I think it’s an underrated spot that deserves more attention. Definitely worth a try, especially for couples looking for a quiet, peaceful, and charming place."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NdFFrNWlhR3RFWldGNlNGaElValp4Y0ZBME0xRRAB",
+            "text": "If you have not been here you should come pay tommy bahama restaurant on fifth ave a visit! The food i cant even put into words. the quality of the food 5 stars does not do it justice the chefs really know how to make each dish touch your taste buds and take them where they have never been! I had the ahi poke app recommended by luis as well as the grapefruit basil martini which was just heavenly and both paired so well! virginia the manager is running this location like a rock star! she has brought on the right team players such as luis with his knowledge of great food great drinks and he just knows how to make the vibe and experience incredible! jose was great too! not sure if musician will see this but he was performinng and whatever tommy bahama invested in him was worth every cent his vocals and instrument playing enganced the dining experience thank you 5th ave tommy bahama restaurant for such a wonderful experience i cannot wait to return over and over again!"
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoclJ6ZHNZa2g2ZVVjeFVERlhjRmhOVG5CaE1HYxAB",
+            "text": "I had dinner here a while ago during the winter season and I’ve gotta handed to this place that it is the biggest Tommy Bahama Restaurant that there is! Also mentioned the outstanding service of both the restaurant and the retail team, the cooks are great at what they do and the way the restaurant is designed, it is very unique in its spot in Downtown Manhattan."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WaU5IVklUUzFuVDFrMldWSndVRjlsTWt4WE9XYxAB",
+            "text": "Food was ok but the service was excellent"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWeVFXMWliWEl3TkRkck1VUnBZMlpGWjNGaE9VRRAB",
+            "text": "Great vibe with live music.\nGreat food.\nIt's a seafood restaurant."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tod2RGVTNPRTlPUWpCT2EzbHdjalZGWVVwU1VXYxAB",
+            "text": "Started out a bit rough because they were busy but the manager Virginia made this experience 10/10 and I will be back. Go to this bar for a great happy hour! You won’t regret."
+        },
+        {
+            "date": "3달 전",
+            "language": "pt",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2trNGJXdFJSRVUxWDJ0NmFHUlFiSGQ1UlRoNk5GRRAB",
+            "text": "Ambiente agradável e as saladas e peixes são deliciosos. Recomendo!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214UVZVd3hSR3hIUWtkRUxYcFVTRFJIVERsT01rRRAB",
+            "text": "Good food. We had lunch with family. The service was satisfactory but the ambiance was excellent. The food is probably Caribbean style but delicious and well portioned. Good place if you like sea food."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWbUxWOXFlVXR3VDBwUFkxSm9WSG8wWVY5ZlpIYxAB",
+            "text": "Kona-coffee crusted ribeye is the most delicious piece of meat that you ever going to have👍 always perfect and amazing 👌"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oMmNTMURaRXBuWm1sTlNHTkdhV0ZmYnpCSVNVRRAB",
+            "text": "My bartender Dante was fabulous. He is knowledgeable personable and has amazing suggestion. I would come back here in a minute. His personality is inviting you makes me want to come back here again and again. I wasn't sure what to order and…"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFeFQxcHZaa1JxYWxCTVYycHRUVVUxVFZoQ1EyYxAB",
+            "text": "I’ve hosted events and dinners here and it’s always good. Try the grapefruit basil martini!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNV3E1LVBpMExTdHh3RRAB",
+            "text": "Staff and Manager were awesome and the food and atmosphere was amazing"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNLVhtOUw3emFEN3pBRRAB",
+            "text": "Great seafood, would def come here again."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VPRzE2YVQ1NTVDc2ZBEAE",
+            "text": "We always come here! We absolutely love this restaurant, but the service was horrendous. Our waitress was not pleasant, took our order and never came back. No refills\nSo sad because this is a great place"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VPN2h6c2ZkajgteXJ3RRAB",
+            "text": "Waiters were very nice and everything clean. Only problem was they served me raw chicken sliders. I ate half of one before noticing (two bites). I was cool to the wait staff about it because they’re not the ones cooking but kind of wish I made a bigger deal about it because now I’m not feeling so good. If you get anything fried maybe check it before you eat it."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VLTEVqb21nOWZ5Q0JnEAE",
+            "text": "We were there for lunch. Location seems nice, but having dirty tables left for longer periods of time during lunch is not matching the upscale ambiance.\n\nFood is ok, not bad, not special."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNaVBsY3plM0t6X0xBEAE",
+            "text": "Everything was amazing!!\nservice was great snd Mani was very dedicated and efective!\nFood DELICIOUS and well presented!\ndecor very well done and music super👌\n\nI had the best ribeye , juice and crusted outside with crunchy brocolli snd delicious mas potato!!\npina colada cake for desert was the best decision to finish my romantic dinner with my lovely husband❤️❤️❤️❤️\nThank you🙏✨✨✨✨✨✨"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJcTRxWTVRRRAB",
+            "text": "This bar offers a vibrant and energetic atmosphere, making it a fantastic place for socializing and enjoying well-crafted cocktails. Thank you!🍸"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3dDlId1VREAE",
+            "text": "Wow the staff are super friendly and the drinks amazong!! Try the basil martini !!!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRMVp1amdnRRAB",
+            "text": "Tommy Bahamas restaurant in midtown New York is a secret gem that I feel not enough people know about. Yes, it’s a chain, but I have never had a bad meal at any TBs. New York is no exception. I think it’s worth noting that Tommy Bahamas is extremely kid friendly. My son loves the cheeseburger sliders and coconut shrimp and they also give you a fun coloring sheet and crayola crayons to play with. So you can sip on an exceptional Mai Tai while your kid is entertained. They also have live music on the weekends and the service is top notch."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRanBQck5nEAE",
+            "text": "Cozy spot to grab tasty food. I like the selection of seafood and fish tacos are absolutely delicious!!! It’s a hidden gem in Midtown shopping area."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNROTZUMG93RRAB",
+            "text": "Super nice sales people"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRbmRMWVp3EAE",
+            "text": "This is a hidden gem in midtown NYC!\nThe food is always delicious and they give nice portions. Burgers and Tacos are great!\nYou’ll always walk away happy from this meal!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnLWM3UWlnRRAB",
+            "text": "my bartenders were so amazing and the steak was good n big for real. i like the amount of minorities it feels like home."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnOHJlSlhBEAE",
+            "text": "Aside from the Brussel Sprouts, which might be just a bit too oily, the food was perfect. Service was impeccable, and love the atmosphere and interiors. Another plus, open on Sundays! A lot of other restaurants on the area not open on Sundays."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfd0tibU9BEAE",
+            "text": "I'm writing  this review about the tommy bahama  clothing store on 5th avenue  I always have  a  wonderful  shopping experience  when Ii shop at the store !! It is well organized clean and very well run !! The entire staff is courteous professional and always looking to help  in any manner!! I would especially  like to compliment steven on his excellent customer service!! He always helps with clothing and is quite knowledgeable about  the apparel!! He is patient  and always helps me with sizing!!He is courteous  and always makes shopping  at the store a great experience!! I hope the entire  staff has a happy healthy new years!! Looking  forward  to my next shopping experience  at the store !! Thank you steven  for all the great help you've given me throughout  the year!!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmdnV5dlZ3EAE",
+            "text": "Excellent place to dine!\nYou can't go wrong ordering anything from their menu.\nI absolutely love their Kona Coffee crusted rib eye steak perfectly grilled to medium rare!\nGreat service as well."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2MDYtWG13RRAB",
+            "text": "coming here every Christmas for ten years, never disappoints. Don’t sleep on this kitchen, they know what they are doing! And the service is mind-readingly attentive, great for families. A+."
+        },
+        {
+            "date": "수정일: 10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURta0tLa2dBRRAB",
+            "text": "Very good food. Relaxing atmosphere.  Good Service.  Kona Coffee Crusted Rib Eye is excellent and I do not generally like Rib Eye.  Bok Choy and Mushrooms is delicious.  Do not skip dessert.  Great Key Lime Pie and Chocolate Tarte (or whatever it is called). Visited again and still think this place is an oasis in midtown.  Thank you to Luis for great and caring service."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2LTZURV9RRRAB",
+            "text": "Overall a good experience with a friendly waiter. The food is overpriced a bit for the quality."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQbjZuQ3BRRRAB",
+            "text": "Fantastic dishes"
+        },
+        {
+            "date": "10달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQcTRHdEtnEAE",
+            "text": "👌😀 Chef versteht sich mit seinen Neuen Gästen. Cool Typ i ill be back"
+        },
+        {
+            "date": "수정일: 11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQc3ZLcjJ3RRAB",
+            "text": "8 stars for the roasted brussel sprouts. They were heavenly"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQN0otVnB3RRAB",
+            "text": "Food was excellent. A perfect choice for dinner before a show due to proximity to theater district. Live music was charming, and ambience was lovely but our server, Ophelia, was the star. We enjoyed the entire experience."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQLUtTU09nEAE",
+            "text": "The food was good the service was good. Like the live music 🎶."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQcXR5MVBBEAE",
+            "text": "I stopped in yesterday on a blustery morning, drawn in by festive decor and a cool mannequin in the window. Great creative energy. I was greeted in such a warm manner and was immediately struck by what a cool, relaxed vibe the store radiated.\n\nA young saleslady with long dark hair spoke with me and & she was very natural. The Tommy Bahama style & energy seemed to lift  my spirits.  I saw some great men’s clothing with curious materials.\n\nI felt very comfortable. I can’t wait to come back!"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM0b0tfTGxBRRAB",
+            "text": "다양한 음식들이 있어, 손님을 접대하기 좋은 곳이며, 특히 와인은 가성비가 매우 좋습니다. 적극 추천합니다."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURubXR5b2ZREAE",
+            "text": "I can’t say enough of how professionals everyone is. We were a group of 4 and I was celebrating my 20 year marriage anniversary. Orryn was our waiter and he had Eleonor who was receiving training. They both were great. Made us feel welcomed. They were friendly and had knowledge of the menu. We met Christopher who was the manager. We appreciate his hard work and his efforts to making our evening a special one. I have to also mention Kirby at the store who also went the extra way. I haven’t even mentioned the food. Everything we had was delicious: their famous coconut shrimp 🍤 as appetizers, chips with guacamole and salsa, the kona coffee crusted ribeyes was out of this world, the fish and chips, the burger and the mahi mahi tacos. The desserts were incredible: the pineapple creme brûlée and the chocolate lava or molten cake. So if you are ever in NYC and want to have great food and great service don’t go anywhere else. Come to Tommy Bahama."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyOUlyQXNBRRAB",
+            "text": "I enjoy my time at the restaurant. The server was really kind and attentive. He also told us about their program and he gave us a discount because we joined, but besides that the food was delicious I will go back there."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4Mzg2Nk9REAE",
+            "text": "I was shocked by how much I enjoyed lunch here. The menu is creative and has something for everyone. Really enjoyed the hummus and goat cheese appetizer, and the scallop sliders were unique, albeit a bit light on scallops versus the amount of bun. I got a large salad for my entrée with a piece of hake on top, which was perfectly cooked. Finished up with a large chocolate pie, which came close to putting me into a sugar coma. Service was super-friendly, but it did take quite a while for the various courses to come out. And my coffee cup was empty more than it was full. Stopped by the bar for a drink afterward and the bartender wasn’t the friendliest guy in the world, so probably wouldn’t go back there."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUc3VLQW5nRRAB",
+            "text": "Decent spot for a happy hour. Upstairs has a nice dining spot we will try if / when we are on 5th. The service was good and so was the live music. The music prior to their live set could be better."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4bXRqd3pBRRAB",
+            "text": "The food was delicious, I definitely recommend the signature coconut shrimp. The drinks were good. There was a live singer with her guitar by the bar. In the very least go to happy hour."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxc3FfTHRBRRAB",
+            "text": "You walk into a vibrant restaurant with lively music. If you enjoy piece and quite after a busy workday this place isn't the place for you. The tables were about a foot apart and you can clearly hear your neighbor so that was a bit annoying for spending close to two benjamins for dinner service. Their world famous coconut shrimp was crunchy and delicous. Our main dishes which were the Chilean sea bass and Kona coffee crusted ribeye were one of the best we have eaten. When our waiter brought over the fresh dessert options, there was really no way to resist the pineapple creme brulee."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4MzlLVEFREAE",
+            "text": "A great fine dining experience in what seems to looks to be a caribbean clothing store. Went to the classy private dining room upstairs. Fish is crispy and crunchy, delicious cake."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNtMk5HS2l3RRAB",
+            "text": "We had an excellent dinner experience. Good service, and creative food choices that are well prepared, including good vegetarian options. Nice ambiance, including live music on our visit. Pricey, but considering the overall experience justified."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVcjlYQjlnRRAB",
+            "text": "Loss for words. Keto friendly options and a wait staff that makes you feel like you are in a luxury resort and not being judged by the streets of New York. I ate too much. I drank just enough. And my company was phenomenal. I recommend the gluten sensitive mahi mahi tacos.....you'll never be the same."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRcVpIWWJBEAE",
+            "text": "Absolutely amazing food! Who would have thought that there would be such a hidden gem of a restaurant above a Hawaiian clothing store??!?!. The service was excellent too. I wanted to end the delicious meal (even though I was really full)…"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNReWVDREpnEAE",
+            "text": "We had a fabulous lunch. The menu has a wide variety to choose from and the location was perfect. We were shopping and to go upstairs to have lunch was great. The staff is very welcoming and attentive.  For NYC prices, it was affordable for the prime location. Plus they have a rewards program for dining.  Will go back."
+        },
+        {
+            "date": "수정일: 6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZMnQzbmtBRRAB",
+            "text": "I absolutely love this place! I call it a little piece of heaven in the concrete jungle. You feel like you are on vacation when you are at this restaurant. They have live music on weeknights which is an added bonus. The manager David is absolutely wonderful and made some excellent suggestions. I'm a vegetarian and they were super cool about it and totally made changes so I was able to eat a bunch of things. The service is excellent, the food is delicious and the location is perfect.\n\n@traveleen_gurl"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJNnRyaFZREAE",
+            "text": "We came here by accident, luckily their food didn’t disappointing us. For appetizers we tried tuna taco and coconut shrimp. The taco served with raw diced tuna, which was fresh and delicious. The coconut shrimp should be their most popular…"
+        },
+        {
+            "date": "2년 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGbUxPVWN3EAE",
+            "text": "una piacevole scoperta casuale mentre passeggiavamo sulla 5ª strada - in questo ristorante situato al primo piano, troverete un ambiente tranquillo, ottima qualità del cibo, un servizio impeccabile e personale cordiale. L'atmosfera é molto accogliente. Consiglio vivamente questo ristorante a chiunque cerchi una pranzo/cena eccezionale."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJdC0yb09REAE",
+            "text": "Bar downstairs when you walk in and upstairs is the restaurant with also a bar. At night around 5:30 they have live music and singer. The ambiance is totally symbolizes the brand. Big leafy plants everywhere, comfortable relaxing seating,…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURta2JlZW5RRRAB",
+            "text": "Great spot for a drink with a nice ambiance. It is pretty spacious and has a nice relaxed setting. The happy hour is also great value with $10 cocktails and $12 martinis. These were pretty good as well. The staff are very friendly and overall a great find!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaOFB5b2xRRRAB",
+            "text": "Overall very happy with service and food was excellent.\n\nServer was pleasant and prompt, had the burger and delicious.\n\nGood selection of beers and mixed drinks."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUaGYzTFFBEAE",
+            "text": "I can't wait to visit Tommy Bahama again! Their Pineapple Crème Brûlée is a delightful twist on the classic dessert, incorporating the sweet tang of pineapple with rich, creamy custard. The perfectly caramelized sugar topping and refreshing pineapple infusion make it feel lighter and summery.\n\nTommy Bahama is also renowned for its exceptional cocktails. The drinks menu features vibrant, flavorful concoctions like the classic Mai Tai, the creamy Coconut Cloud Martini, and the unique Hibiscus Lime Cooler. Each cocktail is expertly crafted with high-quality ingredients, perfectly balancing tropical flavors.\n\nWhether for a meal or just drinks, Tommy Bahama offers a memorable dining experience with its delectable desserts and refreshing cocktails."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6OGNERURnEAE",
+            "text": "It is a great restaurant and has terrific views. My server, Luis, went above and beyond and made my dining experience unique. Will be back"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMweF9qMjF3RRAB",
+            "text": "The store is a really well maintained store. Especially coming from a different location. Obviously this one has a bar, restaurant, and store connected to each other as a flagship should.\n\nAs you walk in the main doors, a doorman greets you and opens the door for you to enter the lavish island-endless-vacation that is Tommy Bahama.\n\nThe store is clean and the service is very fast and when there isn't a size on the floor of what you are looking for, they simply stay with you and use their communication system to call the stock coordinator to find it.\n\nAnd can you say \"free mimosas?\" The most interesting thing about the store IMO.\n\nOverall I'd highly recommend checking the store out if that type of look is what you like."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwdUxDenZBRRAB",
+            "text": "Great ambiance. Friendly staff. We ordered couple drinks. (Expensive side) but it was worth the money. Pineapple Paradicio & Coconut cloud. 👍\nThey don't have enough vegetarian option. We go mashroom flat bread. It was ok,…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlNlBfZER3EAE",
+            "text": "Great food and great service! I ate the curry too quickly and forgot to take a picture, but was very delicious though 😋! The creme brulee, however, is the most original I've ever seen or had! That and the coconut martini are staples for every time I come to visit!…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1bU5UbWx3RRAB",
+            "text": "Very Delicious food. Relaxing atmosphere.  Good Service.  Do not skip dessert.\nHighly recommend"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4dm9qQjBRRRAB",
+            "text": "Great restaurant. The ribeye was superb and the chocolate mousse was divine. Great atmosphere and staff was fantastic. Definitely recommend."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNadU1UZ2hnRRAB",
+            "text": "Unexpectedly great happy hour. It is definitely a hidden gem with a fun bar area, attractive prices and good drinks during happy hour (much better than in other bars around the area)."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHODh2bndnRRAB",
+            "text": "Everything was nice. We were lucky -restaurant wasn’t crowded . The personal is very attentive, the food is delicious. Definitely going to repeat."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBNnJuMnFRRRAB",
+            "text": "Really good food, not exquisite, but sturdy and high quality. Live music adds enormously to the positive vibes of the place."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnbnNQTUlBEAE",
+            "text": "The restaurant is a surprisingly great place for lunch on 5th Avenue!\nDuring our walkabout we decided to take a friend's recommendation and tried the restaurant atop this 5th Ave store. The staff was very friendly and I couldn't get enough of their home made tortilla chips.\n\nThe menu was a great selection of fresh  items like salads, bowls and tacos as well as burgers etc. The desserts are amazing! Especially the pineapple creme brulee.\n\nI would recommend this to the beleaguered 5th Avenue shopper who needs to chill and get off the street. It's ideal to kick back and take in the street from the 2nd floor or to just clear your head and have a relaxed escape."
+        }
+    ],
+    "reviews_count": 79
+}

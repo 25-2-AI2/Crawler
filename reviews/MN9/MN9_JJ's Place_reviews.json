@@ -1,0 +1,26 @@
+{
+    "name": "JJ's Place",
+    "place_id": "ChIJHXk0YeP3wokRU310Z9-EZmA",
+    "grid": "MN9",
+    "address": "John Jay Hall Lower Level, 511 W 114th St, New York, NY 10027, USA",
+    "rating": 5,
+    "user_ratings_total": 3,
+    "phone_number": "(212) 854-4076",
+    "reviews": [
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNINk1mSWh3RRAB",
+            "text": "Decent food. Ez to grab and sit. Like the drinks there."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEb08zZWZnEAE",
+            "text": "Milkshake machine never fails to deliver!"
+        }
+    ],
+    "reviews_count": 2
+}

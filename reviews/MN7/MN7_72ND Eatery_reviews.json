@@ -1,0 +1,565 @@
+{
+    "name": "72ND Eatery",
+    "place_id": "ChIJ65f3PTpZwokRb46hkO-GDM8",
+    "grid": "MN7",
+    "address": "261 Columbus Ave, New York, NY 10023, USA",
+    "rating": 4.7,
+    "user_ratings_total": 615,
+    "phone_number": "(212) 721-7800",
+    "reviews": [
+        {
+            "date": "7시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5UmRrNTVhVXcxVjNscFgxSmhVVGRhUW0wemJuYxAB",
+            "text": "Food is great and very kind employees"
+        },
+        {
+            "date": "4일 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1VldrSkVkRnBWVFc4eVkwUlViMkp6VXpsT1gyYxAB",
+            "text": "Endroit très agréable et typique pour manger un excellent sandwich Pastrami"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKSmRFVnVaMnBZZVZOa1MzaEJVVWw2VmtKWGJuYxAB",
+            "text": "Stopped in for a meal and was pleasantly surprised by how much this place offers. It’s conveniently located with a warm, relaxed atmosphere and friendly, attentive service. The menu has something for everyone, fresh pizzas, burgers, rotisserie chicken, salads, sandwiches, and a full bakery and coffee corner. Prices are very affordable, a solid, satisfying meal runs around sixteen dollars plus tax, which makes it an easy choice for a casual lunch or dinner. Generous portions, great quality, and a cozy vibe make this a spot I’d definitely visit again."
+        },
+        {
+            "date": "2주 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poemRqSjVhMGREUkRKaU5rRnVOV2RGTFRnMk9HYxAB",
+            "text": "Pastrami molto buono"
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsWVFYcERSMFJDVTFSVE1GUlNNRWQzVmpGa1RsRRAB",
+            "text": "Excelente comida, la pizza es deliciosa y lo mejor es pollo asado. Lugar limpio y muy organizado."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKTlJXaHBabTUyTFVNNExWZzBjREpqUkhCWVNsRRAB",
+            "text": "Beware high reviews. I had the chicken with sides. It is sitting out like at a deli counter. They microwaved my meal before giving it to me. My son got a slice of pizza and found a bit of plastic wrap baked into it. His girlfriend got a sandwich that was made fresh."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5bGVWQmhNemg0TVhKVk5tNURhVE5CTTJSemMwRRAB",
+            "text": "The best toasted Norwegian salmon bagel ever."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psdmRVTjFNamh5V0ZFNVZreHpjVkZwYTBOa1NuYxAB",
+            "text": "Food was passable as standard breakfast fare mainly favorable for large portion size.  Had discussion with counter lady re: our latte order.  It was an expresso shot watered down with lots of milk.  She insisted that only cappuccino has foamed milk, not lattes.  Told us to \"look it up on the internet\".   When I showed her Google AI info saying lattes had foamed milk, she showed me an internet image of cappuccino with foamed milk and said \"see!\" (as if that resolved the issue).  So... I then showed her an internet image of a latte with foamed milk which she refused to acknowledge!  Poor customer service to argue with your clientele, esp when you are  WRONG, lol."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaNlFsQm9YMHMyWlhob1gwNW1iazl6V1MwM2FWRRAB",
+            "text": "Bacon unevenly fried. Burnt or rare."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213NFRsUmFRMUpyVm5KMlRUTk5ka2hoYzBNNVVHYxAB",
+            "text": "Basic but very good, especially for the price. A highlight was the woman at the register who was very concerned and accommodating. You can get a half chicken and two sides for $15.95... and that ain't bad. The establishment is a solid choice for a quick and reliable meal."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsS1NrNXZkRGhxUW5wSlp6bFhSVkUyTXpkYWNYYxAB",
+            "text": "My girlfriend and I ate breakfast here three out of the four days we stayed near Central Park. Delicious, large servings of fresh eggs and potatoes. Made while you wait. It was a great find."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFNGJHNWZkMlZ3WnpWMlMxTXhXbDkwYTBRMlRrRRAB",
+            "text": "Food was ok but people are not friendly and place looked dirty"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sQmF6TmhkRlpyZGtoRmNXbzVjbXhKZVRSQ09GRRAB",
+            "text": "Staff are extremely friendly. Food is delicious. Definitely recommend"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SUWNVODRSa0phYjNaSFJVRm9hVXM0TldONlYwRRAB",
+            "text": "Special breakfast，Most people come for takeout."
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNMFZ6QnhZMWRCVjJSV2JGQnNOM2xyWmpsVmMyYxAB",
+            "text": "Amables y mucha variedad.\nLa tortilla estaba deliciosa y es una buena porción!\nPuedes tomar allí lo que pidas, tienen varias mesas y enchufes.\n@elenviajecitos"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214c1RWcFFRakJKYkhWd01rTmhhV1EwVEhCMVNXYxAB",
+            "text": "Very good sandwiches and burgers. The service is great too."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oSFJWSndkR1F3U0VsSE9WVmFhMngxTkVJMWRWRRAB",
+            "text": "Muy cerca del Muse de Historia Natural, el pollo rostizado buenísimo! Compramos medio pollo (que incluye dos sides) y un side de macn'cheese y quedamos súper llenas."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VeGRYVk9WV2wxUlVsc2FtTlRSMGx0VlhndFlYYxAB",
+            "text": "I had a very bad experience in this water. We did not get anything fresh as the reviews here are claiming. We got a personal chicken pizza, veggie burger, Mexican chicken burger. Veggie burger was made with a rotten patty that had visible mold. They did not think once before serving us this spoiled food. Very disappointed…. When asked we were made another one but that was also bad, had no choice but to leave that place early to get out of the disgusting feel they created! That personal pizza should not be called pizza because there is no cheese on it. Chicken burger is another one with absolutely no flavor. This place gave me the worst food experience for me so far!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GS2NFeEdiVGR6WXkxclUzaGZVMmxHVlZkNFRrRRAB",
+            "text": "Great little deli style option for sandwiches, breakfast, and coffee. I stopped by here with a few friends for brunch. We all got different omelettes, which came with home/regular fries, buttered toast, and the omelette itself. I wasn't the biggest fan of the lox omelette, but the Florentine omelette tasted great. They do have a restroom in the back, and adequate seating."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWSVRqZ3lSMmxmVURjM1kwZE1hWE15YmxwSmFXYxAB",
+            "text": "Great breakfast today, friendly people and plus to have a clean bathroom!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKSFgwOVFURkpvTlV4b2QwcHNhM1pUWjNoeWVFRRAB",
+            "text": "I come here all the time for the past many years. Great place with good prices and a wide selection. The bagels in particular are quite good and well priced. It’s very continent and the staff are nice with short wait times usually. Keep up the good work!"
+        },
+        {
+            "date": "3달 전",
+            "language": "nl",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paMVdWb3lVbkZzZVRRNE5sTlVZVVk0YkZsb1JFRRAB",
+            "text": "Ontzettend aardig, smaakvol en fris. Aanbeveling bagel met vegan creamcheese!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pob1RTMHpNblpJU1ZWc1oxQk9hMGxzWVRScmFWRRAB",
+            "text": "Expensive breakfast for two."
+        },
+        {
+            "date": "3달 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KM2IzVkdUVE4wTldGVWRWQlZPSHBhWTNGd09VRRAB",
+            "text": "Sehr freundlicher und schneller Service. Essen ist sehr gut und die Preise sind TOP. GERNE WIEDER - DANKE!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pNNFFsSjZhV2xIVFVsUmNrNTVTMDFOWlU1bGJtYxAB",
+            "text": "The food was terrible. My breakfast sandwich wasn’t fresh and I could tell it’s from 2 or 3 days ago.\n\nTerrible terrible."
+        },
+        {
+            "date": "3달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkQmNESjJRVUZ0Y21oNlRrcGFabnBoVkRWa1MzYxAB",
+            "text": "un posto molto carino dove gustare bagel e panini, accogliente. frequentato da persone del.quaetiere. prezzi onesti. la signora è molto gentile e parla.anche spagnolo."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxVFZIQjJlR2xqY2tkcU9UQktUbU56YUMxdWJYYxAB",
+            "text": "The tuna sandwich was perfection! Great pancakes too!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zNGJFWjFZV294U2tGNmNHWm5SblZVWDIxNFpWRRAB",
+            "text": "The food was excellent, and the staff were both patient and kind as we took a few minutes to decide on our order. We also enjoyed some people-watching—many locals came in and were greeted like old friends, which created a warm and welcoming atmosphere."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sZk5tVklRbDlXVVZsdE1qUmplbUZTVUVaRmRsRRAB",
+            "text": "Disgusting pizza.... Guys... Don't try this garbage... 10$ (regular slice + pepperoni and coke)"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xUVJucDVkR1p0ZFdGbFdXbFRRa0UyWVc5UU0yYxAB",
+            "text": "Good product! Price is a bit high."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kS2NXVldMVmxhYVhseFEzb3dUMWxHVVdoT1VYYxAB",
+            "text": "The ratings on Google don't make sense. We got the reuben special and it was really dry and with little substance. I wouldn't go here again."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200eWMwOVJOemxoU1ZoUmFVTlVkRk5OUjAxdU1HYxAB",
+            "text": "Nice place ! Tasty burgers 🍔"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQTHd6T3pOd2RxVjZnRRAB",
+            "text": "The restaurant combines good food with genuine hospitality. The cost stays low but the food satisfies basic needs. The quality extends from kitchen to table service. Team was amazing!! This place should top your list."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KNVN6aEZNRGwzZEhwYWJXcDZkRTkyV0UxTFNuYxAB",
+            "text": "Josue was my bartender & he is awesome!&&& This place plays good music , 100/10"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMejd3b3JXMUszMHZRRRAB",
+            "text": "Josue was amazing"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJbjk5b0RBeTZ5Z05nEAE",
+            "text": "The food was delicious. We had the Milano chicken panini and 3 egg omelette"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQU084OVNTNjg3SlV3EAE",
+            "text": "Wow.  There Mexican burger is huge! Salads were good. A decent variety of lunch sandwiches, pasta and potato salad and yummy desserts."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOV3JxNXFhN2Z5REZBEAE",
+            "text": "Very nice place with smiling and helpful employees 👏👏"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJdXYwb3FjeU9qMmtRRRAB",
+            "text": "Best Reuben in NYC!!!\nSooo good!!! You should go there!!! And a good price ."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VLejR6cTJhbWNHeFpnEAE",
+            "text": "Maybe I got the wrong thing. This place has great reviews so I wanted to stop by. The chicken salad needed salt, the focaccia was dry, the prices on the menu are a dollar more expensive than when you order online, and I seemed to have been up charged (paid 13 for a chicken salad sandwich with cheese and tomato). The service was fast and kind and the outdoor seating was nice."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKeU02S190NzVPdXl3RRAB",
+            "text": "Great place to eat"
+        },
+        {
+            "date": "5달 전",
+            "language": "cs",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKbVZxWjJoLWQzdTdnRRAB",
+            "text": "Byli jsme tady při návštěvě NY. Chodí sem spoustu místních všech věkových kategorií. Vždy dobré znamení. Luxusní bistro, jídlo z kotlíků na místě. Polévka pro dva (velké porce) a kousek chleba 15 dolarů dohromady! Dávají polévky ochutnat! Skvělá nudlová polévka s kuřecími prsíčky, skvělá čočková polévka (bez masa) - vše domácí s láskou dělané. Dělají čerstvé sendviče s ingrediencemi na výběr, burgery (mexický, vaggie atp), grilované kuře, losos...Usměvavá obsluha. Prostě WOW. Můžeme jen doporučit!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZdnJlR1BnEAE",
+            "text": "Great rueben, corned beef and pastrami,  yum. Sit down was good"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZZ3ZtRXpRRRAB",
+            "text": "Ordered a Reuben and an Italian club, both were very good! Great service also"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZdFBfcDhBRRAB",
+            "text": "Comfortable setting and good dining"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvMDVlVk5BEAE",
+            "text": "Fast, delicious, spotless, and just perfect for walkers!!!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvZ2FxWXh3RRAB",
+            "text": "Place used to be great, but they are price gauging. Eggs are now cheaper than they were last August, have been for a month, and this place has kept their price high. $11 for a sausage egg and cheese. It’s a total ripoff."
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvamJlbnFBRRAB",
+            "text": "Nice people / the food is really good and the Price too. 👍"
+        },
+        {
+            "date": "6달 전",
+            "language": "no",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvci1McGVBEAE",
+            "text": "Super NY dinner"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvODhMdEFnEAE",
+            "text": "Great place to have lunch"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJbzlxN0l3EAE",
+            "text": "This is my first time ordering a cream cheese with salmon lox everything bagel. I also added to sunny side up eggs. The food quality is great!!! It tasted awesome and it was more food than I thought. The quantity was worth the price. The service was a little confusing, but I appreciate the cook helping me order because that is my first time there as a traveler. I recommend them. Fresh food and it’s made in front of you. No surprises. I would come again if I ever come back! 😎"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJNU8zQlF3EAE",
+            "text": "I can't say enough fantastic things about this AMAZING diner!  The food is fresh & homemade.  You can choose deli sandwiches or hot lunch plates with giant portions & 2 sides!  Lunch plates run as low as $12 with 2 sides.  Check them out if you are hungry and in a hurry."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJNU02RUxBEAE",
+            "text": "Food shouldn’t be rocket science and these guys understands this. Fresh food, nice people and you can really feel they are passionate about their food. I would say at a very good price as well."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqX2NYUHZRRRAB",
+            "text": "Best quick breakfast in New York. egg and bacon sandwich + coffee for only $6. This is a quiet place, it is located near central park and the natural history museum, a stone's throw from columbus square. The staff is kind and discreet, the place is clean and the food is plentiful and above all it leaves you full for the whole morning and even longer. Right portions and nice atmosphere."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYME9IQWlBRRAB",
+            "text": "As in other reviews the rotisary chicken was very good.  I added carrot soup, which I never had.  It was really good.  My husband had a corned beef sandwich.  The main problem i had was it looked like the food was sitting a while.  Also, the bathroom odor was horrific.  It ruined my appetite."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYeHBHOExBEAE",
+            "text": "Had a quick egg sand on a roll.  It's pretty good for early morn breakfast.  There are many options to choose from and quick service.  Not too busy and comfortable seating area.  Would highly recommend if you're hungry and need a quick meal."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6NXFuR1JBEAE",
+            "text": "Super clean, this eatery has the speed of a deli convenient store with superb service, courtesy, and warm smiles.   Food is unexpectedly delish in ways that  feels homey...almost like granny's cooking.   A huge plus is that their prices are so reasonable and probably the best on this side of town.\n\nThis place is an absolute gem and the co-owner Sang is wonderful"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoeWFqS19RRRAB",
+            "text": "Emerging from the space formerly occupied by Columbus Gourmet Foods is 72nd Eatery which opened a coupe of weeks ago.  This fast casual restaurant is owned by the same people.\n\nThe interior has been wonderfully renovated to a bright spacious space.  There are plenty of seating inside and out with great views of Columbus Avenue.\n\nStaff is so very friendly; I was greeted as soon as I walked through the doors.  Head chef, Chef Hollywood, was behind the counter the day I went for a visit and was busy chatting visitors up.  While not a lot of the food is out on display, the menu is somewhat extensive.  It boasts the usual American comfort food of burgers, sandwiches, soup, salad and heavily promotes their organic Rotisserie Chicken.  Initially, I was going to try their rotisserie chicken but saw that they had some nice salmon on display.\n\nI ordered their Baked Salmon with 2 sides ($15.95).  For the sides, I got Sweet Corn and Mashed Potatoes with gravy.  The sides were good but clearly the salmon was the star.  It was nice and flaky with a hint of citrus.  It was cooked a little bit more well done that I usually like but I think that is because it was under the heating lamp for a while.  A pretty good dish that is filling but light.  Glad I tried it.\n\nWill definitely be back to try their Rotisserie Chicken and other items on the menu.\n\nTip: 5% off online orders"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4ZzdiZmd3RRAB",
+            "text": "Great Spot we happened upon.\nOn a walk not far from central park we happened upon the 72nd Eatery. With adults, teens and younger in one family it can be a trick to find something everyone wants.\n\nThis stop had great food, good service. I will be passing this place on to others I know who are visiting the city. We like to travel and find great places to eat, this place is worth the stop."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfcnFHMGF3EAE",
+            "text": "Good food at a reasonable price, which is getting to be hard to find. Nice basic breakfast, or bagel or sandwiches were tasty and prob the lowest price in the neighborhood. There are places nearby that charge twice as much but aren’t necessarily better.\n\nI love a good soup, and they have a lot of them.\n\nService was good to me the times I’ve eaten there."
+        },
+        {
+            "date": "11달 전",
+            "language": "pl",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQLU12NXVnRRAB",
+            "text": "Knajpka rodem z filmów amerykańskich.\nJednak jedzenie totalnie bez smaku, ziemniaki zimne i wszechobecny chaos przy zamawianiu i płaceniu niestety."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUellyMTFRRRAB",
+            "text": "It is very convenient and cheap place to eat breakfast in UWS. Egg and cheese, and bacon… taste so GOOD, and coffee is ok. But I don’t like the service because they only speak loud Spanish and no care customers."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4bkpUbEx3EAE",
+            "text": "Good food, good prices! Clean, seating inside and bistro seating outdoors. Staff was courteous and Chef Hollywood made sure to greet everyone. I had an egg sandwich on a wheat bagel. Generous, fluffy eggs and the bagel (fresh from Brooklyn each day) was yum! Great place for a delicious quick bite."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5OVlEd0xBEAE",
+            "text": "Great food and experience ! Wide variety of fresh vegetables, rotisserie chicken, sandwiches, soups and more. Excellent quality. The owner was engaging and helpful in navigating the menu. Hope you stop in. Enjoy!\nThe Reuben and corn chowder were perfect after a full day of travel."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJeUtiZU5REAE",
+            "text": "Not too busy for a Sunday morning. Great breakfast sandwiches and the Turkey melt was amazing. Pancakes for my 8yr old were perfect! The sweets looked amazing but we had no room left to try them. The girl at the register took my order kindly and patiently. Overall an awesome experience!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4OWZIRVZBEAE",
+            "text": "Believe the hype about the rotisserie chicken and the salmon. It was EXQUISITELY SATISFYING!!! The staff was so welcoming and friendly. I didn't even expect one of the chefs to heat my order before I paid for it. It was so generous of them. The best part (besides the food) was when I got the chance to talk with Chef Hollywood. Really nice guy and appreciated my kind words I said about the food. If you're in the Upper West Side, definitely go here for a fulfilling meal. You will not be disappointed in the slightest and you'll get your money's worth. As someone who's not a regular to the UWS area, I'm already planning my next visit and I honestly can't wait!!\n\nPS - the desserts are really good. Tons of variety so if your sweet tooth has a craving, they got you covered there as well."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaNFpfWjd3RRAB",
+            "text": "Today we visited 72 ND EATERY - the food is very tasty, and most importantly, home-style: stewed vegetables; salmon, chopped beef, baked potatoes, large selection of soups. Friendly staff, fast service. We ate the food so quickly that I didn’t have time to take a photo 😋🤤"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURodnNhVFpnEAE",
+            "text": "Ordered a well done cheddar burger, best in the area.  Chef Hollywood, Singh and the rest of his staff were friendly and helpful.  Extremely clean set up.\n\nWould go again in a heartbeat"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURocEtTUmFREAE",
+            "text": "Ever since they rebranded I've had nothing but good things to say about their food. My favorite dish from there is the salmon. This guy in the pic below is a culinary genius. Flavor in every bite in almost every dish. I can't stand…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3NnBPWEJBEAE",
+            "text": "Had great food here this evening. Burgers and paninis were fresh and tasty. Fries were crisp and fresh. Friendly atmosphere- felt at ease as a family eating here. Felt authentic nyc UWS and we like to provide our custom to local people rather than large chain stores. It was clean and quiet and we enjoyed our meal here as a family of four - 2 adults and 2 teens (13 and 16). We had hickory burger, Mexican burger , chicken mozzarella pesto panini. Asked for one panini without mayo ( as 13 yr old is a bit fussy!!) and it came exactly as we’d asked. Perfect! Comes highly recommended. Give it a go and support local people."
+        },
+        {
+            "date": "2년 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwdE1uNTVRRRAB",
+            "text": "Es war alles frisch, sehr lecker, große Portionen und die Bedienung sehr nett. Wir hatten Burger, Huhn und dazu Spinat, frisches Gemüse, Pommes und Kartoffelbrei. Es war günstig und das Geld wert. Wir kommen gerne wieder."
+        },
+        {
+            "date": "1년 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxNDhHbGFBEAE",
+            "text": "Locale forse nascosto ma ci siamo fermati per una colazione rinforzata. Ottimo il cibo e ottimo il prezzo. Abbiamo preso una classica colazione americana ed era veramente buona, personale molto gentile."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoanVick9REAE",
+            "text": "By far best lunch place!!!! I came across this place just by walking and noticed Mr. Chef Hollywood outside the door providing excellent customer service! HANDS DOWN try their roasted chicken!! So fresh and ready to serve! I will be making…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4NTdLUzJBRRAB",
+            "text": "Just had a delicious Burger with my wife. Chef Hollywood is a great guy, cooking very good food! Looking forward to have The famous roasted chicken!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKaTlHN2VnEAE",
+            "text": "Stopped by to grab a quick bite and was very satisfied!! I grabbed the Rotisserie chicken with two sides for lunch 😋 very tasty and reasonably priced. Also Chef Hollywood lives up to his name because he is a star!"
+        },
+        {
+            "date": "2년 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKbG9mMWNnEAE",
+            "text": "Délicieux repas pris sur le pouce entre des visites à New York.\nLe chez italien propose de délicieux sandwichs Healthy et autres\nJe vous le recommande !"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKb2VUdzhnRRAB",
+            "text": "This was a great stop for lunch on our summer trip to NYC. Delicious, fresh, quality salmon and rotisserie chicken. Generous portions. We sat in a cool air conditioned cafe. Even the owner served us himself and made his own delivery just a bit after we left and he greeted us on the street. No wonder this place has great reviews, it’s got quality management."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoanNQcGlnRRAB",
+            "text": "I had the soup and the chicken with the side orders. Both were delicious! My favorite part was the amazing staff, all very friendly, kind, and most importantly helpful while helping me decide what I would pick. I was hungry, and they had so many different choices that all looked so good. I wanted them all, so they helped me decide, and it was amazing. I definitely recommend this for anyone who's hungry. on my way out, I had to get a cookie cause they all look good! overall, it was a wonderful experience!!! The chef hollywood was the most helpful , super awesome guy, and his food was really delicious!!!!!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnbUszSVh3EAE",
+            "text": "I'm here right now. Great food at even better prices, and with great friendly service."
+        }
+    ],
+    "reviews_count": 79
+}

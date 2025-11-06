@@ -1,0 +1,544 @@
+{
+    "name": "Frida Midtown",
+    "place_id": "ChIJaReBnQtZwokRT89c7EuNq3s",
+    "grid": "MN5",
+    "address": "214 E 52nd St, New York, NY 10022, USA",
+    "rating": 4.5,
+    "user_ratings_total": 462,
+    "phone_number": "(212) 688-5200",
+    "reviews": [
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tST2NUSmxUREp6ZEhoUmRWUTBjMVZxYW5SUWVrRRAB",
+            "text": "Get the birria tacos."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poR1MwZ3RiRU5QZHpWU1dreFpTMWxTVDBkbFIwRRAB",
+            "text": "He had good customer service"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210S1NVdG1lSEZTZHpSU1pHMWtlVUpRV0U1cVRGRRAB",
+            "text": "I was here at a Firm dinner. The service our team received was Excellet! and the food and drinks were great. We enjoyed how they were served like a Potion, with smoke coming off the top!😉"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sR1lqSjVaamh4YVUxNlJITjRNWHBWVjJSSFNuYxAB",
+            "text": "Food is absolutely delicious and every time we have been here, we enjoy. Love coming here a few times a year and will continue to come."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkS1NqZzJkV3BzWDI5cE0yYzFORTFpY21ac1pGRRAB",
+            "text": "Food and drinks are divine and the service is warm and genuine.\nCeviche was great but special shout out to the Filet Mignon Anticuchos. They are incredible."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaTWRVVndTMnAyVFRSQk1FMUpaWEpmY1hKdFNYYxAB",
+            "text": "I had lomo, ceviche, encholada and drank a few margaritas. This spot is great when I want the taste of Mexico on my palate."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sWE1uTkdUelpSWVhONVlVSnlSbE5JUVhCT09XYxAB",
+            "text": "Delicious food and very nice service!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1QlpWZDNNV2xzVW5sbmFteHVjelpJTkZCdVNsRRAB",
+            "text": "Had office dinner here and enjoyed the food very much. The service is very good and prompt. Enjoyed the mango sorbet very much as dessert. The main course was also good."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOQlJGQkxkM1pSYVVZNFNrdGpVbmt3YVRoZk1XYxAB",
+            "text": "Everytime we come in Mike is always on it. We enjoy fridas for their food and drinks. Mike is attentive and so cool. We love fridas."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pRMExTMVdTRGxNUkdsMVNsTlFSRVJFVms5TFFXYxAB",
+            "text": "The food was delicious, with fresh ingredients and the cocktails were great. The service in general was exceptional. However, the attitude of the girl who seemed to be the manager towards the employees was visibly disrespectful, which…"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKRlNUWkROV2Q2UWxoV2JtaFVXV1ZET0RrNFowRRAB",
+            "text": "Comida excelente pero el camarero SEBASTIÁN intentó estafarnos. Pedimos 2 margaritas en el happy hour y nos la cobró a precio normal. El resto de la comida no. Curioso que las copas eran fuera del happy hour y la comida dentro de dicho horario cuando todo se pidió junto."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psc2VsRmhSVmhwZDFkeWFsbEViMmxXVERoSE9IYxAB",
+            "text": "Mike is an awesome guy.  Good hospitality"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sUGVURmlhREpDU1RSalZYaG9iRU53Y1ZOMVYwRRAB",
+            "text": "I had a fantastic experience at Frida Midtown. Sebastian was attentive, friendly, and genuinely made the evening more enjoyable. Highly recommend both the restaurant and Sebastian’s excellent service!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KcFptaFFXSGhOUkdRNU4xbDJWREl6UzBoa01HYxAB",
+            "text": "Tacos, churros and drinks were awesome!!! Service so nice."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1RmQzUjZVbWRwTWpoQ1pEaDZTV3ROZGxWa2NFRRAB",
+            "text": "We went for lunch at Frida Midtown and it was an absolute delight ✨.\nWe started with ceviche blanco, esquites, choritos a la chalaca, and their one-of-a-kind guacamole with mango and pineapple 🥭🍍 — an unforgettable twist on a classic.\nFor mains, we shared chicken enchiladas, arroz chaufa, and their iconic Baja Tacos 🌮. Each bite was perfection.\nDrinks? A refreshing sangria, a perfectly balanced pisco sour, and a spicy margarita that brought just the right kick 🍹🔥.\nDessert was pure nostalgia: a tres leches that felt like grandma home ❤️ and a coffee flan that was silky and divine.\n\nEverything was beautifully presented, full of thoughtful details ✨. We left happy, impressed, and already planning our return."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKemVUbFVTa3RwYjFGTFR6RnBSVlF3UWt0TlRFRRAB",
+            "text": "Such an elegant restaurant. Staff and food were amazing. Ordered the ceviche off of the lunch menu. Very aesthetically designed dining room. Almost feels as if you’re sitting in a garden. Cannot wait to return."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsWVpsTlVaME5TVEZSUlREZDBkM05aUTBRMGIzYxAB",
+            "text": "The flavors here hit exactly what I want. The workers here treat everyone like longtime friends. I liked the flavor and appreciated the generous serving. I feel at home in this place, and you'll feel welcome too. Top rating for the delicious food and attentive workers."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pVMldrWTNNa1pyWjBWRVJtbGllVTFWZUU1WGNFRRAB",
+            "text": "The food tastes just as good today as last month. Their dishes contain exceptional flavor layers. Staff members were quick without feeling impersonal. The praise for this place is justified. I plan to return to this place for food."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaeVgySllVVzFYWWtKV1JtbEdNRmh2WTJSSE5sRRAB",
+            "text": "Have been here twice now, excellent meals both times! Absolutely delicious and fresh food!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsR09XMXNTRk5IVUUweVRrbG9lWEJzVFdOV05IYxAB",
+            "text": "Lychee martini is amazing!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ndFYxQnNTblpyYTFWNE1XWktRV2xPUjBkRmFGRRAB",
+            "text": "Everything was great!!! The mocktails were on a different level."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205dlVYaHliRzE0T1VwNlZXOHdkRmxLU2xCeGNVRRAB",
+            "text": "Stoped here in search of ceviche, and so glad we did. Drinks were very balanced and beautifully served, food was very good as well.   We tried different ceviches, octopus and shrimp tacos, love all of these!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214UE1VNHpTRGxYVkZKaloxcHpSMUJDUVVaSFJXYxAB",
+            "text": "Absolutely loved it! We tried a few dishes we have never had (or heard of) before and were pleasantly surprised. The server was very friendly, he took time to explain some things we were not familiar with and helped choose what to order with the most impeccable smile 😊\n\nChoosing not to post my photos, which didn’t turn out so good and don’t do any justice to how the dishes looked (and tasted like)."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KM1VHMWphRk5UTFZWUlltMXFZMFpHVVc1SU4wRRAB",
+            "text": "This place justifies its reputation. This place stands apart from all others. The entire workforce treats guests respectfully. Frida Midtown provides good value with vegetable-rich meals. The employees were considerate, the dishes tasted great."
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KNlYxRk5kRWgyU1ZCcFNERTVOMjFFUVhaclZFRRAB",
+            "text": "El mejor guacamole"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5SFExRlhVVUZvVEdkdlRuRkpTVEp5VVhoU2JIYxAB",
+            "text": "Cute little place serving delicious and colourful plates. Variety of vegetarian options. The cocktails were great and I had excellent service."
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkWU1uZG1hMk15WmpFMGRtMDNNbWxEVW1SVWFYYxAB",
+            "text": "Un lugar muy bonito, decidimos sentarnos afuera ya que el día estaba bonito, sus mesitas son muy lindas y coloridas, los cocteles estaban deliciosos, la comida me sorprendió mucho porque es una versión totalmente diferente a la que estoy acostumbrado, pedí lomo saltado y el arroz era tipo risotto y bañado en salsa simplemente perfecto!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213MGVWOWxja3RCYlZOaU5GbHpNMmg0ZW5kUU5sRRAB",
+            "text": "Este lugar es una verdadera joya en Nueva York ! La decoración es bella y crea un verdadero ambiente elegante y romántico , perfecto para cualquier cita o evento para impresionar ! La comida es deliciosa y tienen amplia variedad de platos , el servicio es excelente ! siempre estan pendiente de las mesas y asegurándose que todo esté en orden . Es una verdadera experiencia gastronómica que tienes que tratar !\nGracias equipo de Frida !"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKT1lWazVUblpoYmxwclJrZG5hWFpIUldGTWFWRRAB",
+            "text": "We had such a great meal at Frida Midtown! We were seated promptly at our reservation time in a nice booth + chairs table. There was ample room between us and the table next to us, which is a luxury in some NYC restaurants. Our server, Jonathan, was kind and professional. We started with the Frida salad (delicious, fresh and not heavy) and Caesar salad (very good). Our little guy had the kids chicken tenders and fries. The portion was huge and the tenders were hands-down some of the best we’ve all ever had. For entrees, my husband got the birria tacos (he really enjoyed them) and I had the ceviche clasico - it was so flavorful, fresh and not too heavy. My husband also loved his cocktail - something with tequila that came out steaming, lol. Overall, we had a wonderful dinner and will be back next time we visit the city/our old home."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOUVVYZElja1ZsTkdjek1YTTBTbGhyTW5ORGExRRAB",
+            "text": "Great Mexican restaurant/bar with friendly waiter. Food is of great quality and taste while we ordered 10 min before the kitchen closes.  The vibe is more of a bar than a restaurant."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsNmFWOTZiRk5ITjAxYVdsaFlVemRCY25GNFNrRRAB",
+            "text": "A fun, flavorful menu with clever combinations for the palette."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGb1ZtUjBRMko0U21sNVpFVm9XVWxPVDFWUk5uYxAB",
+            "text": "The place was cozy and comfy.  Loved the atmosphere and the live music. Food and drinks were good. There were lots of veggie options, which was important to me.  Skip the flan, but the churros were great. We had a great time and will definitely go again."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCS1drVnlSakZwTjAxTGRHWkxlVXRMVWs5bGNHYxAB",
+            "text": "Came to eat with my colleagues after work wanted to try a place nearby.\n\nUnfortunately, it was disappointing. I had the duck tacos and they were  dry. For the price, I definitely expected more flavor and better quality."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0eGREQjBVM3B1Y2s1YVJGYzVhMHBCV1RWT1VsRRAB",
+            "text": "I really liked the place. The food was good. Drinks were good. But the service was even better. I would go back again. Also, I like the variation in their guacamole, they add pineapples."
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214UFZUQnVjbkpoTVZsR2VVdHJlVmRvT1MxMlNGRRAB",
+            "text": "Servicio amable, pero los platos con birria muy grasosos y sabor muy alejado a una buena birria para el precio que tienen."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKTFpESkZUVlkzWkUxRWNHaFVRbk5WZW5WVk5XYxAB",
+            "text": "We discovered this amazing tiny eatery a few streets from our hotel while on a girls' weekend in New York.  The service was flawless, the food was amazing, and the beverages were incredible!  According to my acquaintance, who has been all over the world, this restaurant is among her top ten favorite places to eat.  I would have to concur.  Oh, and the restaurant itself has such exquisite décor."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWdlR6aDBRV1ZRWkRGSlkzRlJVREZrV0RWRWNGRRAB",
+            "text": "Delicious, fresh food. The lunch special includes salad and an entree for $29."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VNLVB3YnF1dnI2clV3EAE",
+            "text": "Good taco place 😙😚"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKelB3NXU3c3FfUlBREAE",
+            "text": "It was my first time dining at this restaurant, and I was truly impressed. The food was excellent, and the ambience was incredible. The decor was beautiful as well. My colleagues and I went for lunch, and we had a wonderful time. Our waiter was fantastic, too. I highly recommend this restaurant; you will not regret it!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKM20yOXU4X0o2SzBBRRAB",
+            "text": "We chose Frida after a long day of travelling as it was close to our hotel but were totally blown away by the staff’s service and the quality of food. Definitely the best Mexican food I’ve had to date."
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBekt6aUhBEAE",
+            "text": "I cannot say enough good things about our experience at Frida. The food was AMAZING and the service was impeccable! We will definitely be going back when we are in NYC again!  If you haven’t tried it, you are truly missing out."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOS1BzNU9PdElEMTVnRRAB",
+            "text": "The watermelon salad was good but very very small. The chicken mole enchiladas were good.  Overall I really liked the place."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLekcyZTZGNTdDaXZnRRAB",
+            "text": "I had the best birthdays at this place. Was visiting from Chicago and they were so nice and welcoming! The food was delicious too!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvbC1Ec3NBRRAB",
+            "text": "Amazing service. Make sure and ask for Carl. Little pricey, but the service and food presentation was worth it. Carl is the personality of the place. Talking to all the tables."
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJNC1ING5nRRAB",
+            "text": "Our server Carl was so engaging and attentive, and my party stopped several times to discuss how great his energy was. The rest of the staff was extremely helpful in clearing our tables and refilling our drinks, and the atmosphere was relaxed and cozy. Frida also serves my favorite margaritas in NYC (:"
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvOTdLSlJ3EAE",
+            "text": "La comida es increíble, los tacos de birria saben mejor que hasta los que encuentras en México, el verdadero sabor. Sin duda volveremos"
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXb01QRXJ3RRAB",
+            "text": "It’s a beaut. Staff is attentive. Drinks are great. Food is delicious. Overpriced but that’s Manhattan 🤷🏻‍♀️ Def a date night vibe!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJdC1hNjBBRRAB",
+            "text": "Sure!\nA fantastic spot.\nFrida Restaurant offers a warm, vibrant atmosphere, high-quality Mexican cuisine, and top-notch professionals who truly know their craft. I highly recommend trusting their suggestions — they know what they’re doing! And don’t leave without trying one of their delicious desserts. Definitely worth a visit."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3cF9MQVNREAE",
+            "text": "outstanding espresso martini"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3Z0llSGxnRRAB",
+            "text": "Awesome food! Had the watermelon salad, mushroom mole enchiladas, and vegan tacos. All were excellent. Super friendly service (Claudio rules; talk to him about the Mets). Nice room, casual atmosphere. Can't wait to go back"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNncXEyX193RRAB",
+            "text": "In New York for a girls weekend and found this wonderful little restaurant a couple blocks from our hotel. The food was fantastic, the service impeccable and the drinks are to die for!! My friend is well traveled (all over the world) and said this restaurant has made her top 10 of all time. I would have to agree. Oh and the restaurant itself is so beautifully decorated."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmcHFtR1ZREAE",
+            "text": "Fun Mexican/ Peruvian restaurant with live entertainment.  We got a live samba dancer. Apparently one is allowed to get up and dance with her.  Don't sit in the backroom.  The waiters don't see you and forget about you .  The music gets loud and the place gets dark.  No e private party room available. Nice bathrooms.  The guacamole is served a bit too cold (premade)  but it was good."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBdGNfdm93RRAB",
+            "text": "We had such a lovely night at Frida. The staff were super welcoming. They never rushed us even though they were closing in an hour. Our server was very attentive and gave us great recommendations. We ordered the Ceviche with Mango and it was super tasty, we had a chaufa Mixta (Chicken and beef) this was a special request, just be aware that they will charge you extra for making it (which was communicated and we accepted the price). For dessert we had the tress leches and it was literally one of the best tres leches I have ever had! The cake was so soft and the strawberry sauce was the perfect paring for that cake.  Thank you so much! We will definitely come back again."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEcGZDZGZ3EAE",
+            "text": "really love the dining experience. They play live music music I think on Friday nights and some days. Did not expect that! All of the food was fantastic and the service was excellent. 100% would go again again, great place for some sort of happy hour (not happy hour) but would be great to hang out with friends here or go on a date. Highly recommend!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNGalpMM0pREAE",
+            "text": "We had an absolutely delightful family lunch at Frida Midtown in New York. The restaurant’s warm and inviting atmosphere was perfect for our gathering, and the staff couldn’t have been more accommodating, especially with our little ones. The menu offered a fantastic variety of Mexican dishes, and even the pickiest eaters in our group found something they loved. The portions were generous, and the flavors were authentic and delicious. The kids’ menu was a hit, and the children were thrilled with their meals. The highlight for us was the guacamole, which added a perfect element to our meal. We highly recommend Frida Midtown for a family-friendly dining experience in the heart of New York City."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiNE5lQ2h3RRAB",
+            "text": "The margarita was really yummy. I had two of the jalapeno version. The service was great. I ordered the mixed steak and shrimp fajita. The shrimp was tasty but the steak was bland and well-done (I had ordered Medium rare). I also did not like that it was cheesy.\n\nFor dessert, I had the mango jalapeno sorbet and it was refreshing."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwalBfUDNBRRAB",
+            "text": "Really liked this place the second time around. We ate inside and the decor is gorgeous. Service is really good and quick, and the staff is incredibly nice. Our waiter Mark was great, super friendly. We had the guac and chips and ceviche Frida as an appetizer. Both very good. For entrees, I believe my mom had the Frida salad (technically an appetizer), and my dad got the Mar y Tierra tacos (filet Mignon and shrimp). They shared tuna tostaditas. I got the salmon limeño. To drink, we had a Paloma, red sangria, and the Magdalena. All were good, especially the Magdalena! The salmon I got was just okay (not as flavorful as the other items but definitely not bad) and the mashed potatoes and asparagus it came with were yummy. Overall, very happy with the experience and my parents LOVED it. So glad I got to take them here :)"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSajU2Q0ZBEAE",
+            "text": "Fun happy hour vibes, great music and comfortable seating all around. Tables are tight but great for a date night or drinks after work, especially if you are hanging at the bar. Service was really good, thanks Armando. And the food was so delicious. Favorite was the birria tacos and the pulpo."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4eTVEX2JnEAE",
+            "text": "I recently had lunch with colleagues at Frida and had an amazing time. The ambience is very, what's the word I'm looking for? FLORAL!\n\nFrida has a very cozy outdoor seating area, but we decided to sit inside since it was slightly windy. It's pretty spacious inside and the counter bar is a pretty good size.\n\nThe lunch menu has a little bit of everything but not overwhelming which is a good thing. I had the duck tacos (3 in one order) and they were delicious!!\n\nI definitely want to come back and try their dinner menu and cocktails. 🍸\n\nPro-tip: Start off with the chips and guacamole along with the crispy tuna on tortillas.  🥑"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoOWJDaGJBEAE",
+            "text": "We went for valentines day and honestly a great date. There were countless heart balloons, and the service was topnotch. The atmosphere was so beautiful, festive, and lovely. We were so hungry and devoured the whole meal faster than it was prepared. We loved everything except the lobster in the surf and turf. It wasn't worth it in my opinion. We had ceviche classic, yuka fries, birria tacos, and baja tacos. It was a solid pick of the best. The pricing was very very high for what it is but the food and flavors were so good. Our server was so sweet. He offered to take pictures of us and was super funny. Definitely should have skipped the lobster. It was a wonderful date."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMNC0tZVV3EAE",
+            "text": "The food and drinks was amazing. Every dish and cocktail was so good and had lovely presentation. Our waiter, Andres, was so helpful and kind. The ambiance, including the interior design and live music (we went on a Friday), added even more. Highly recommend."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5OU5TeFR3EAE",
+            "text": "Had a great early dinner here with some amazing tacos and well made cocktails.\n\nA remarkable little Mexican eatery in Midtown East. Tequila and Pisco combinations were great, and the birria tacos were on point.\n\nI highly recommend saving this location as a potential stop next time you're in Manhattan."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNScGR5azBRRRAB",
+            "text": "Went for a late dinner (30 min before closing). The host was super nice and welcoming. The ceviche was not great. The Tigre de leche  (white sauce) wasn’t sour as it supposed to be and the texture of it was different than regular ceviche. The lomo Saltado was good although we thought It was over priced for the amount of meat and quality. Salmon was just ok- Nothing special. They were kind enough to swap the mash potatoes with rice. We most likely won’t go back because for the same price range we’ve found better Peruvian restaurants in the city."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUROdWFQN0JnEAE",
+            "text": "I was really pleasantly surprised with my dinner at Frida. First let me start by saying the space is absolutely adorable with a dark, mysterious sexy theme throughout. We came for restaurant week and were able to get a pre fixe dinner. I started with the muscles which were my personal highlight for the meal. They were perfectly chilled with wonderful sauces. For our mains we got the tuna and the shrimp enchiladas. Both were good and the portions were big. The tres leches was also amazing and very classic."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaOTZ6Z213RRAB",
+            "text": "We had a really nice experience here. Yummy drinks and great food, it was very quiet we were able to have a nice time chatting and enjoying the great food. It did take some extra time to get more chips and salsa is an extra expense. They do also charge a dollar for a to go container. Overall a nice experience"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2a3R5M0p3EAE",
+            "text": "the food was unflavorful and service was pretty slow / they messed up orders like 3 times lol (drink, entree, coffee) we sat in a table downstairs and it was good vibes, a little bit dark. the chairs were too low for the table too"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURWdHJIM0V3EAE",
+            "text": "This is the best place in NYC to have Mexican Peruvian fusion 🙌🏻🙌🏻\nSoooooo much flavor and a unique mix of food to choose from ! The salmon was moist and the steak was juicyyyyyy. Everything we ate was FANTASTIC! Absolutely no complaints at all\nThey have such cute cocktails tooo !! Make sure to order the shots that come on the little airplane it’s super cuteee\nTruly a great time here"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUROeWZmc1h3EAE",
+            "text": "Excellent food and drinks. The Quinoa Chaufa is quite novel and clever. I considered it healthier, but it does lose flavor compared to a traditional fried rice. The chicken was delicious and the guac was fresh and perfect. The lava cake dessert was also excellent with a novel twist. The staff and atmosphere was very nice too."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNncmU2QmhBRRAB",
+            "text": "Food 3/10.\nService 0/10.\n\nI was there with my husband for Valentines Day.\nWe had a reservation for 8:40pm. When we arrived they said our reservation was for 9:40. We complaint and they gave us a table in 5min. (They were mistaken)\n\nI ordered a well done Filet Mignon and it was not even medium well… but rare. Apart from taking 30 min to get to our table. I couldn’t eat it and had to wait for another plate. They brought the “fixed” meal but they just burnt the filet and was still raw in the middle.\n\nOrdered Sweet Plantains and Cotija: Plantains were raw in the middle and extra ripe so they were mushy and weird in the middle.\n\nOrdered a virgin mojito and it took at least 40min to arrive.. to the point that I told them to cancel my drink. (They gave it to me at no cost) my husband got his drink first at a reasonable time.\n\nOrdered a Tres Leches and apart from being late as well they gave me the wrong dessert. After that they took again 20+ min to give me the right one. My husband received his order right.\n\nAfter the whole experience I think the host didn’t like me and put a note or something so they can give me a crappy service just to me, and they absolutely did.\n\nThe waiter even knew I was pregnant and didn’t even care for a second."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURobWZlMFRBEAE",
+            "text": "Just perfect!! The ambiance, decorations, food, drinks... Amazing!! And Jorge was such an awesome server. He gave the best recommendations, was so sweet and personable. We can't wait to return!! What a gem of a place!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNabFB2MVVnEAE",
+            "text": "A solid four stars - the AC was frosting me the whole time so I asked if that could be changed (not sure how the system works) and they then kept turning it off and on throughout dinner. My paloma tasted like syrup but some of the other drinks were good, and my frida salad was 90% mixed greens and a bit disappointing as a dish, 3/5 maybe. The service was nice and the atmosphere was lovely, I also heard they sometimes have live music which is great. DELISH plantains as well."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNScXF5QVBREAE",
+            "text": "Brought my GF who loves Frida (and Mexican food) here for a surprise. It was one of the best restaurants we’ve been to (not just in NYC). Decor was spot on Frida vibes, the food was impeccable and our server was a delight. We also went on a Sunday evening when their was live music and it was the cherry on top! They also know how to make a mean cocktail! Really ticked every box!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQyaGFfOVN3EAE",
+            "text": "We chose Frida Midtown as the spot to celebrate my master’s graduation and we absolutely loved everything about the experience! The food and cocktails are a 10/10, especially the ceviche, the tostadas, the pulpo and the lychee martinis. The…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMybXJhMWZREAE",
+            "text": "My friends and I came for dinner on a Saturday evening and we were seated promptly as we had made reservations beforehand. The back of the restaurant is quieter for a more intimate setting. Downstairs space also has a private dining area that you can reserve for special events.\n\nDrinks are interesting — my friend’s cocktail came with a bubble over the glass that popped. Fun feature for those who like to have special cocktails. Our server was attentive but he forgot to bring us a few items so we asked other servers to help, which was no big deal.\n\nFood was tasty, it is Mexican/Peruvian fusion. I ordered the steak and lobster tacos, which had decently sized meat portions. The lobster was really buttery.  We also had guacamole for the table, which I highly recommend. They will refill your chips for you multiple times, on request.\n\nThe dessert was the star for me. We ordered the chocolate lava cake, Tres leches, and crème brûlée. Highly recommend all three!\n\nAll in all, a fun spot to try for an intimate dinner with a small group of friends or special someone."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEZ0t6MnF3RRAB",
+            "text": "Wow…… danced the salsa with a beautiful dancer…. I’m terrible and she made me feel like a star lol.   Food and service was the best I have ever had. Roberto at the bar was excellent!’\nThe Birria tacos were probably the best I ever had ! I just came back from Guadalajara and Mexico City this last year and Frida was better!! I will always come to visit!! One suggestion offer some easier plates for people who don’t have an expanded palate. My 17 year old son would love regular tacos… lol"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNGa2NYdzZnRRAB",
+            "text": "We were here two weeks ago with my daughters and as a first timer, our impression with the food was an amazing experienced. We had a couple of pictures that I took during lunch time and server was amazing too!"
+        }
+    ],
+    "reviews_count": 76
+}

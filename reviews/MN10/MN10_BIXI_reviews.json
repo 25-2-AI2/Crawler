@@ -1,0 +1,516 @@
+{
+    "name": "BIXI",
+    "place_id": "ChIJr5HCUpf3wokRVRIWsXTKEwU",
+    "grid": "MN10",
+    "address": "2164 Frederick Douglass Blvd, New York, NY 10026, USA",
+    "rating": 4.6,
+    "user_ratings_total": 255,
+    "phone_number": "(917) 409-0570",
+    "reviews": [
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzMVNucHRNMk5XZVZCc04yUXdUVjh4UkU4dGJsRRAB",
+            "text": "I had the best time here"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paVGNYQkVOM0JEWlZCaFpVWktTazl6WDA1cldtYxAB",
+            "text": "Absolutely love this place! Their happy hour is unmatched. The short rib sliders are phenomenal. The music is 10/10"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taeVJuaEZTRGMxVVVWa2RFbFlRWHBLUTB4TWNGRRAB",
+            "text": "Drinks are tasty and staff is super friendly, makes you wana stay and chill with them ! Recommand this place if you are in the neighborhood."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ORGJrRm1WV3RWYTNFd1NYWjVNMDFPY25KdFRVRRAB",
+            "text": "Come for happy hour, stay for Alex! Service is top notch. Make this your neighborhood bar even if you don’t live in the neighborhood. I got there a bit late and the kitchen was closed, just another excuse to come back!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkNFgwOW5PV1JTV2xOdWJsRnJkelpHVUU5WVUxRRAB",
+            "text": "Went here for the first time with my family on Sunday, August 17th. We originally had a reservation for 4:30 and they give you a 15 minute grace period. I called to left them know we would be later than that and they were accommodating and said they will still be able to seat us. We were a table of 4 and arrived at 5pm.\n\nThe vibe is cozy and the decor is cute. I would come back for a date night. The bar is in the front when you enter and then there’s the dining room. There’s also additional seating in the back and there’s only one bathroom.\n\nWe ordered our appetizers from their happy hour menu; they have happy hour everyday from 4-8pm. However, some items aren’t discounted that much- like the 3 pc wings from HH are $9 but regular price is $10. The sweet chili wings were good, but I do think the menu is a bit pricey especially for the quantity that you get.\n\nThe highlight of the meal was the lemon sesame chicken. It was very tasty and cooked to perfection. The rice was so soft and buttery and literally melted in your mouth with each bite. 10/10 definitely would recommend and would get that dish again!\n\nCon\nMy first time here was good. However the only thing I didn’t like was that when we asked for the bill, they had originally charged us a 20% gratuity. BUT, in their menu it states that gratuity is added after 9pm! We were there at 5pm and got the bill around 6:30pm, so we were confused to see that added. It didn’t make sense to us. Our waitress said it was because we were a “large party of 4” but she said she could speak to the manager and get the charge taken off and that’s what she did. I don’t mind being charged gratuity, but if you state that you do it after a certain time, then follow that!"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4anVUS3RRRRAB",
+            "text": "Really enjoyed the whole experience. Definitely recommend."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sYU4zVjZVVTQwVkhSaFJISjFkVWsxT1ZSTGRYYxAB",
+            "text": "The Happy Hour Specialty Cocktaiks are flavorful and delicious!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOd0xYSktURzF6UVVJdFUwVkNSbDgyYkV0bU5WRRAB",
+            "text": "Came here for the first time with friends, the atmosphere is so welcoming, service is amazing and quick. Our server was great and friendly! The drinks were delicious and the food was even better."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aTGFXOWtkV3hwUVhFMmJuQjNhVk5wUm1OUVNYYxAB",
+            "text": "Vibes are immaculate here, especially on a Sunday afternoon!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxQk5Fb3liQzB6UlZJMU5XODNWa0puVEhSeFdsRRAB",
+            "text": "Last night was my first time going there and it was really awesome. The mojito was delicious and service was amazing. I definitely will be going back there."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VORE81cUcxM19fLUNnEAE",
+            "text": "I had a terrible experience at this restaurant. The food was of very poor quality and clearly did not meet basic hygiene standards. To my disgust, I found a long hair in my dish, which was absolutely unacceptable and repulsive. I will definitely not be returning and would not recommend this place to anyone."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VOeWI0S3FHaE8tdGt3RRAB",
+            "text": "they should deactivate their sauced app since they don’t use it anymore"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOcXl0NDI5bnFtZEpnEAE",
+            "text": "Stopped by BIXI for a drink in the afternoon and then ordered from the special menu. Loved everything, the drink, the service, the food AND the bill. Would definitely return."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvOF9Ed2tBRRAB",
+            "text": "While I may not be a taco expert, I do know meat and portions. And this time, they got it right. The meat is seasoned to perfection, balanced beautifully with fresh vegetables on a corn tortilla. And at happy hour prices, this might just be the best taco deal in Harlem."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvOU56X2pnRRAB",
+            "text": "Its great and my new sweet spot. Its cozy so my suggestion is to arrive early before 6pm."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3cHZDdTV3RRAB",
+            "text": "A great casual day and night spot and perfect for happy hour. Loved the Hullabaloo drink and I heard the tacos are really good."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRaTZlV1NREAE",
+            "text": "In love with this place but wanted to initially gatekeep 😂\nOne of the hidden gems in Harlem, great food, great drinks, & amazing service. They also have lovely live music on certain days.\nTry their tacos, baos & sliders, it’s amazing."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRaF9hMElREAE",
+            "text": "The food was out of this world. The short rib on anything was delicious. Had to have 2nd of everything. The drinks were lovely and mixed right. The place is on the smaller side so I definitely recommend a reservation. Will be back to try the rest of the menu."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURneGJDemdBRRAB",
+            "text": "Bixi Harlem is hands down one of my favorite spots in the city! The ambiance is stylish yet welcoming, making it perfect for a night out with friends or a cozy date night. The real star of the show, though, is their lychee martini—easily the best in NYC. It’s perfectly balanced, not too sweet, and always made with fresh ingredients. I love to switch it up and get tequila instead of vodka and it’s a hit every time.\n\nBeyond the cocktails, the service is always top-tier, and the food menu never disappoints. Alex and JB are my usuals but everyone that works there is great. It feels a home away from home. I always grab a seat at the bar but they have a lovely back room and enclosed front/back patio.\n\nLastly their happy hour can’t be beat! $10 lychee martinis (and tons of other food/drink deals) until 8pm ever day!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnb0pIQ2x3RRAB",
+            "text": "The food, the service, the vibe 10/10, BUT Laurin the bartender and her drinks were 10000/10"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnd1Bmc3B3RRAB",
+            "text": "Bixi in Harlem is the spot to be all year around they have some of the best food and great service from the host to the bartenders guys please stop by and ask for Lauren she is the best I love that place cause of her service excellent 10/10"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBMzVmWWt3RRAB",
+            "text": "I had the privilege to perform at the wonderful BIXI Restaurant, Bar, Venue.. The atmosphere was wonderful 🎵🎶 🥂💯 🍽️+E\n\nRecording Artist Singer-Songwriter guitarist Actor - Edwin Vazquez Musica"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnTUNBdGZSURAB",
+            "text": "I love it here! The drinks, food, and service are always good. I love the decor in the back but the bar is also a vibe. They never miss with the music too."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBNm9QN0tREAE",
+            "text": "Really great vibes and service.\nHappy hour drinks were delicious and decently priced.\nThe food was flavourful but presentation/execution needs improvement."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfdDRhWk93EAE",
+            "text": "Solid uptown spot. Great food and drinks and impeccable vibe."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2ZzRLR213RRAB",
+            "text": "The best place to come in Harlem! I’ve went to many places and this is the place I’ve always came back to! The bartenders. Food and atmosphere is unmatched! Great food, Prices and people!!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2ZzR5ZEt3EAE",
+            "text": "Hands down best spot in Harlem, come check it out great food, good drinks and fire vibes . Ask for Alex or Laurin they will take care of you!!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2NnBTUW5nRRAB",
+            "text": "One of my fave quaint little spots in the heart of the west side of Harlem with a fire playlist and cocktails. If Alex is behind the bar you’re in for a treat!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2cXZlLVB3EAE",
+            "text": "Alex is one of the best mixologist in the city. The music and vibes are unmatched. Come here if you only want a good time."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2dk16TS1BRRAB",
+            "text": "This restaurant is a 10/10 the food and the service was great. I highly recommend"
+        },
+        {
+            "date": "수정일: 10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURodlBQNlJBEAE",
+            "text": "It was an amazing experience, the staff was great, and the food was maculate. I definitely recommend, it can get very busy, but it’s a good time no matter when you visit. Lauren is the absolute best. And Alex the manager was very kind."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzLVBUdV93RRAB",
+            "text": "Nice vibes, drinks, and servers."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzbjhlRXhnRRAB",
+            "text": "Fun spot and a good vibe. However, drinks are crazy overpriced. What costs $20 here is $12 at mess hall up the block. Makes no sense, and they put an automatic gratuity. Even when the bartender isn’t welcoming or friendly, I have to tip…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzcU8zWkh3EAE",
+            "text": "Celebrated a family members bday here. It’s a cute and cozy spot, intimate atmosphere. The food was decent. The drinks were also okay. Was not happy at all paying $40 for two drinks because I was in a large group."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYdzgzdjB3RRAB",
+            "text": "I love this place\n\nGood vives\nGood energy\nGood ppl\n\nThe bartender Sara is the best\nHer drinks were the best service I have ever got in a bar\nShe is cool\nAnd very nice\n\nI was here with a friend of mine.\nLauren attendance as server was the best made sure we was good whole time."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuelpqekJnEAE",
+            "text": "Good food service and hospitality a must visit."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIcE9HV0JREAE",
+            "text": "What an adorable bar/restaurant. Vibes are emasculate. Drinks are delicious and strong enough. In the summer they had love music on Thursdays which was a nice touch. This might be my new favorite spot in Harlem 🩷"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIaktXU0pREAE",
+            "text": "A friend and I stumbled across this place on a Friday.  We were so glad we did.  We sat at the bar. The drinks, service, and vibes were great.  Elijah, the bartender, was great. I will take that trip from Brooklyn and return."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3OS0zSldBEAE",
+            "text": "Great service and atmosphere.\nDecently priced cocktails"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiZ09EZk1REAE",
+            "text": "Great place to enjoy a couple of drinks while listening to some good music."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUdl82bVlnEAE",
+            "text": "Perfect spot for drinks and small/ medium plates with friends. We went on a Tuesday night, and it had a good weeknight vibe with music that was just loud enough to keep things upbeat without drowning out the conversation."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUMmRYZndnRRAB",
+            "text": "A little gem in the wall"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqMXMtUHl3RRAB",
+            "text": "Went for Dinner Last For My Anniversary And me And My Husband Was Immediately Sick from Consuming The Sliders and Tacos I've been calling this Establishment all Day i Need to know who i need to speak with because i hadd to miss work and Today and Take Care me and My husband.  My Anniversary Dinner was Ruined"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqN3ZHV3JBRRAB",
+            "text": "Everything here is AMAZING! Service, environment. energy is the best in Harlem!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREcXBDc2hBRRAB",
+            "text": "The service here is exceptional! Alex, Liam, Sarah and Elijah are so friendly. They all make you feel at home.  The atmosphere is very inviting."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREcW9DT3VRRRAB",
+            "text": "Alex is an AMAZING bartender. His drinks are amazing. He’s so polite and helpful and always has a smile. Bixi is our neighborhood favorite."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREeXZfVnBnRRAB",
+            "text": "The Bartenders are Amazing! Alex, Sarah and Liam are so Amazing and they make you feel at home."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEMXFTUzZnRRAB",
+            "text": "Alex was a phenomenal bartender, very attentive and accommodating! Great music and vibes! Happy hour food was also great! Would recommend."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEbk1iNVZ3EAE",
+            "text": "nice atmosphere, great service, solid cocktails"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEMUlLVjB3RRAB",
+            "text": "The food is very good and the staff is extremely friendly and attractive. I went here for a private event. The space was very relaxing and had a good vibe."
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLdWYtdVR3EAE",
+            "text": "This is one of my favourite places in Harlem to enjoy expertly curated cocktails and food bursting with flavor. The staff is absolutely impeccable. They are so kind and caring with their hospitality. The cocktail I had was called “Stiletto” and the name definitely suits it well."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUROaWEzQTF3RRAB",
+            "text": "The atmosphere is really good in here. I always come for the music ands drinks, not so much the food of I want to be honest. I’ve had the short rib tacos (really good), pork belly tacos (it was just a pork taco) no crunchy piece of skin and it was seasoned at all. The Brussels sprout as a side was reallllly good!!! The should drop that the pork belly in the oil like they do the Brussel sprout!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwNW9Da19BRRAB",
+            "text": "6/22/23: Nice little spot for a quick bite, good drink and idle chatter. The fried chicken was surprisingly good 8/10, yam fried w/ ginger sauce 5/10, and roast duck spring rolls 6.5/10. Drinks solid 7/10. Recommend for a quick spot with friends or first date casual meet up."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1LU9Dc0xnEAE",
+            "text": "It’s a whole vibe! Restaurant week menu was great with the shrimp roll and the mango salad apps… that peanut sauce is everything! As far as dinner, the cod was the best filet o fish over rice I’ve ever had… the lo mein tho, chef was heavy…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5cktxajFRRRAB",
+            "text": "Seriously, tandoori chicken is soooooooooooooooooooooo small for  14 dollars. Oh my god the salad is like 10 dollars and just lettuce with one slice of avocado, and with someone else hair in the salad. This place is really bad. Honestly, I wouldn't even give 1 star!!!! do not waste your money on here."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1MFAzZmxnRRAB",
+            "text": "Great Food and Drinks that will not break the budget here in Harlem!!💕💯\nI love the All day Happy Hour On Monday and Tuesdays, as well as Saturday and Sundays from 2 to 5pm. The staff is amazing and courteous!! Jojo, Kwame, Keke, Lauryn and Maurico!! Great staff!!…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaenBfcVBBEAE",
+            "text": "The drinks and atmosphere match. Excellent place just to relax have a drink and a small bite.  Absolutely gorgeous atmosphere with a mature relaxing vibe. No entrée are served here. Just drinks and small bites."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUROX1BuV3NRRRAB",
+            "text": "Nice and cozy place, good drinks and good food. Had our holiday work party here and service was excellent and attentive."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkX2ZHdzdBRRAB",
+            "text": "I learn about this place because of the NY Restaurant week. We loved it. Food and drinks were delicious."
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5b2JDYnVnRRAB",
+            "text": "Had the 5 Spice Baby Back Ribs and it was absolutely mouthwatering. A sizable portion that is reasonably price. Great food and drinks coupled with great service, with the ambiance and decor to match. I think Bixi has become one of my favorite go-to places in Harlem. I will definitely go back again and again."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNweXF6YWN3EAE",
+            "text": "Great ambiance in the restaurant. Lovely staff. Food can use a bit more hot spice punch. But overall nice place to hangout have some drinks"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNTaUoyZ25nRRAB",
+            "text": "I’ve been waiting for this place to open as soon as I saw the sign go up and it did not disappoint. The short rib wantons were a savory-crispy dream. We also got the crab corn cake and bahn mi - both great. Do yourself a flavor-favor and check this new Harlem joint out. Excited for there soon to come brunch menu."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtMTcyWEtREAE",
+            "text": "The cocktails were delicious. Maurice was a lovely bartender. Also got to speak with the owners, Mark and Suzanna who were super friendly. The level of hospitality is ridiculous."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLaHNLa2pBRRAB",
+            "text": "Bixi is a sweet find! Excellent cocktails, sexy cool vibe and fantastic plates of South Asian flavors. Wonderfully executed I must add. From the super friendly and knowledgeable Service to the just right spicy cocktail to the sublime coconut rice.A welcoming, new restaurant in Harlem.\nI recommend\n:Pale Rider cocktail, Short rib wontons, steam vegetable pot stickers  tandoori chicken, shaved hanger steak. tempura bananas with chocolate sauce and rum whipped cream!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR5b2REUm9BRRAB",
+            "text": "Beautiful environment, Jo the waitress was extremely welcoming and the owner Kwame made the place feel comfortable. Will be my main spot for 2021. Mocktails and food are very tasty as well"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5MUpfOUZBEAE",
+            "text": "I must say it was quite an experience. Something I’ve never seen in my 53 years of life. If I could leave NO STARS I would. My daughter and I purchased tickets for an event on 2/27/24 (which included a complimentary drink). We arrive and they seat us in the back. We were impressed with the ambiance and the music. The host was personable. Took our drink and food order. We ordered a few small plates to share because everything sounded so good. While waiting we noticed that the tables were sticky, unstable and the top of the material on the stools were nasty and broken. But that’s not the worse of it. The server brings what looked like was our order. We had ordered some wings, Bao buns, and pork belly fried rice. We received 3 wings, a small bowl of plain fried rice and 3 tacos. We were a little confused but proceeded to grab a wing and check the tacos. The server comes back, states that he had brought the incorrect order and that now had the correct order. He drops off 2 wings on our plate. Takes the bowl that had half of the fried rice, and takes the tacos and puts down the BAO buns. This is where it gets crazy…He takes my fork and motions that he’s going to take some of the fried rice to fill up the half full bowl of plain fried rice to give to the correct customer. I was just shocked. I literally asked him what are you doing? I had to say it again before it dawned on him that maybe he should stop. He then proceeded to take the tacos to the other customer. I have never encountered something like this. I will never ever go back there again. I do not recommend this place to anyone. I was disgusted."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQyazd6S1R3EAE",
+            "text": "Fun dive bar in Harlem. DJ was fantastic playing the best old school hits.\nThis place made me really enjoy Harlem as a whole."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4bjk3S0hnEAE",
+            "text": "I had the late night food from the late night menu. Short rib fried wontons barley had meat in them but a lot of air. The wings could have been crispy and it would have tasted better and not so greasy. The fried duck pieces were good but oily inside. Perhaps I should come try the day time menu but idk. But good vibes at the bar. I felt safe and heard. The cocktails are great. I recommend their Margarita."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLcTh2UUNnEAE",
+            "text": "From the moment I walked in I knew I was in a special place. The staff is unbelievably friendly and helpful with the menu especially somebody with food sensitivities like myself. The cocktails are intriguing and delicious. The portions are…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwa2Ryb0ZBEAE",
+            "text": "They're pretty solid.  I've only tried the tacos but it's good enough that it's worth the trip. The happy hour makes all the prices reasonable so keep that in mind when you will in.  cheaper price quality food... 4 🌟 every time."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURacklyQVR3EAE",
+            "text": "Cool spot but the bartender took long and overcharged me for my drink. It says $8 for wine on the menu but I paid $14 plus tip. Also, my legs were super cramped at the bar, not a lot of room for more then 2 people."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNScmRMMWNBEAE",
+            "text": "Great atmosphere. Above average food. We had the avocado & greens salad, yam tempura, and duck spring roll as starters.  The first two were delightful; the third was ok.  Our main was the peanut udon noodles with shrimp.  Delicious!…"
+        }
+    ],
+    "reviews_count": 72
+}

@@ -1,0 +1,642 @@
+{
+    "name": "Bocca di Bacco",
+    "place_id": "ChIJd2UWxVlYwokRwL_sWzE0rVg",
+    "grid": "MN4",
+    "address": "836 9th Ave, New York, NY 10019, USA",
+    "rating": 4.4,
+    "user_ratings_total": 1813,
+    "phone_number": "(212) 265-8828",
+    "reviews": [
+        {
+            "date": "2일 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wd2JtSmFlbVZIVFVveVZYUTJkR3BQYzA1c1ZWRRAB",
+            "text": "Un restaurante muy lindo, una decoración cálida! La comida deliciosa, la atención la mejoraría un poco pero fuera de todo eso, la comida tenía buena porción, rápida entrega! Los cocteles estaban Deliciosos y con bonito emplatado!"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwT2FsSlpiRWhuVW1aU1ZubE5aR042VjNGV2RXYxAB",
+            "text": "A very good place for a weekday lunch.\n\nThey offer a nice menu at $25 (from 12:00 to 4:00 PM), which includes a starter, a main course, and a dessert. I had tomatoes as a starter — very fresh and juicy — followed by carbonara, which was excellent. For dessert, I had tiramisu; the flavor was good, though the coffee taste was a bit too strong for me.\n\nThe waitresses were a bit too intense at times, but overall the service was fine.\n\nI recommend it!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twd1JuRjBTbFJJZEVkNE1qWnJUM1ozVDNWakxVRRAB",
+            "text": "Food was absolutely outstanding. The staff were accommodating and very friendly. The lighting was a little too dark but the atmosphere was otherwise cosy and comfortable. I will be returning at the first opportunity I get!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKZlNGSTBXVU5VV2pkR1kwSXRRV3RvTTFkYU4xRRAB",
+            "text": "Beautiful Italian restaurant, food was amazing and great atmosphere Staff were fab"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205WGRqTndWV2sxZDFSbFMySm9OVTUyUlc1Wk0xRRAB",
+            "text": "We had such a wonderful experience after our show! The atmosphere was cozy and welcoming, but what truly made the night special was David, our waiter. He treated us with so much kindness and attention, making us feel completely at home. Every detail was perfect — from his recommendations to the timing of the service. As a couple, it was one of the best dining experiences we’ve had. Thank you, David, for making our night unforgettable!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pRNE5YUTBXRVZoUVdSVVoyczFjSGhyUjI1b2FuYxAB",
+            "text": "Lovely food and service! Our server David was fantastic and very attentive, and the quality of the food was superb."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoRFNVVkRSbXhYYVV4allWcEdSVlp1WlVnM1kwRRAB",
+            "text": "A great time at this establishment.\nSalvatore was a blast and the food was great. Table side Tiramisu was fun!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzNGFHTllhbGRET1RacVFXNU1ORlo1Tmxod2VsRRAB",
+            "text": "Everything delicious including cocktails. Our server David was great - order the tiramisu made tableside!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Oek0yZGFVelJrYlRSeWFHc3lRalZ1U0cxeFlXYxAB",
+            "text": "wonderful service and delicious food!! thank you G for making our night special!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ZMVJqbE5lRzFEVG5KM1RVVlNOV1IwYW5OT2NtYxAB",
+            "text": "Great food and customer service!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKRU9XOXpRbkJTZGxaSFRXeFhTRXhPZWpOdlNHYxAB",
+            "text": "Had a wonderful time! David was very kind and attentive. Looking forward to coming back to visit again."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4dFRVVXpTalpqU214Wk9IRndUbmQzWW1WaWVsRRAB",
+            "text": "Our server Giovanni was excellent and personable, highly recommend this locale"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KMFZISjNZbE4zWWtreldVeFBjVzFNZEVkcVgxRRAB",
+            "text": "Outstanding food!!  Service was kind. Served my wife and I after Knicks game and they took care of us! Thanks."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkaFRuVjFhVWxSYjB0c1ozZGlSWFZwZEc5b1UyYxAB",
+            "text": "David was awesome and the food was delicious. 10/10"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ZeE0wRklSekIxY2tkemVUZHNaRTlEV2pSQ1ZIYxAB",
+            "text": "10/10 recommend! I came across this place when looking for some good Italian food after walking the High Line and it did NOT disappoint. The food was delicious and the service was amazing. Definitely a nice lowkey spot to bring a date or a friend."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkd09GcHllR0UwUjBwS1VHNVpjME5wTFMxd1QyYxAB",
+            "text": "Amazing night here! David served Us and we had the greatest time and food. 10/10 recommended"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214WFNUbHpWRXBSWW5sdWFFSlVZWFpFTVZoZmJFRRAB",
+            "text": "David is a gem. He was very attentive to our table, He was also very personable."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oelUxRTVkME5MYkZNMmVqbE9OMEl5UldsYU9WRRAB",
+            "text": "10/10 Request David as your server"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoTmFVOWllR3haYVU5VVlqUjNNM042Wm1salNuYxAB",
+            "text": "Loved it!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCUFYydDRTV1ZSTVdzMWNWaHRVRzl3Y1hSV2FHYxAB",
+            "text": "Delicious food and very good service. Would definitely recommend."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paelVrWjJORXBKTmxoNFl6QjZSa2sxYlRoaU1rRRAB",
+            "text": "The service was EXCELLENT! This was my first time ever eating at this restaurant and I loved it. The food was so good, I ordered the spaghetti carbonara 10/10! It was also my birthday and they served me a cute cake and sang happy birthday to me. After we ate they gave us a free mango prosecco drink. The staff were very nice and served us like queens. This place was also very aesthetically pleasing and fancy."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aV1kyZ3hPVXRFU0ZKS1NtaHRXVnByYjNGcWNrRRAB",
+            "text": "Salvatore and G were amazing hosts! We had such an amazing time celebrating our friends engagement here!! Highly recommend."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kclIySk5VbHB2UkRneGVWVm1VVkZpYTAxTlVYYxAB",
+            "text": "This restaurant is one of my all time favorites! The staff, atmosphere and most importantly the food is all amazing. Salvatore was so attentive and helpful tonight!"
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tseVRYbGZRbTFKUlRGQldFRXlTVVJ2VWpCTFpYYxAB",
+            "text": "It was my first time eating here, and I definitely recommend the branzino. The staff was top tier, especially the hostess Christina. She was kind, charming, and just the best. 10/10 service because of her"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWRllWZFZYMmRzVGs1TFdUTnZaV2cwVFhObFJHYxAB",
+            "text": "Great food ❤️"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkc1R6bExOVUZ2TkhKVVh6aFFXWEJmWWxaUGFuYxAB",
+            "text": "Food was good and David was a great server!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psV2NERkJialZPYjBsbGFFWTJObUkzYkhkTFVWRRAB",
+            "text": "Our waiter David made this an amazing meal in a neighborhood gem!!! Zucchini fritters were very yum and the red sauce complimented it perfectly. Pasta was a hit - the pesto was fab and the lasagna was a great mix of flavors and very filling! Can’t wait to come back!!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kQ1RVUjVlSGRCVXpRMFUzQjJaR05XT1RkaE9YYxAB",
+            "text": "Food was great and my waiter David was a pleasure."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21vMVZWTm1iemR6WldWTVduVnFWM2hUZEZCbVlWRRAB",
+            "text": "We had a delightful dinner and will return frequently! Christina the hostess greeted us warmly and Salvatore our server was very informative with the specials and making sure we had everything we needed¡ we had the pear salad and steak flutes and both were outstanding; truly a wonderful experience."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WRVdGbEZPRzFNTVdNeGVscDBaWFpGTVdoNFYxRRAB",
+            "text": "Great service and mad nice atmosphere."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKbmJtMXZOMVZ1ZEV0T01ucEtSelp2ZUZOclgwRRAB",
+            "text": "Soul crushing corporate slop. Move on."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ObmFFaExiWGwzT1dOMFZ6STJialJRVDFGQlVuYxAB",
+            "text": "Salvadore was our waiter and he was amazing. Amazing hospitality and very helpful and kind. The food was 10/10 and the desserts were amazing. Definitely recommend."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wWWJGbzRNMVkyTlU1ck5FMWxabkV0WXpKVmNGRRAB",
+            "text": "Salvatore was amazing! He has great customer service and is very attentive, everything was 10/10 ! He definitely deserves a raise my friends and I had a great time."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsMVQzaE1WMUZuWDNkdlVtbHVSa3hZZEVsZldFRRAB",
+            "text": "Great atmosphere and ambience.\nWe had a great time enjoying our food and excellent drinks. Great service from our waiter Salvatore."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCQk4weFJTaTFOVDFVNVMwUkhOSGhhTW0xWFZYYxAB",
+            "text": "Excellent food, excellent service. Steps away from Broadway."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kaldscHBOa0V4YmpaNlZYVjRaSGRQV1daSFdYYxAB",
+            "text": "Amazing experience with David as our server! Highly recommend."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZeVJXVnViWFZIWmtNMFF6RTBTSFV0UlVGV1ZXYxAB",
+            "text": "Had amazing time for my birthday.  David our server was so attentive and really made the night amazing.  Would 100 percent recommend for any special event"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201QldFVnJPR0ZwTW5GeWExWlhhemN0TkhOSFlVRRAB",
+            "text": "David was so considerate and we have a really good experience!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWVVEwMDVPR3RUTWpOSWEzVm9ZbUl6TWxwT1NGRRAB",
+            "text": "Salvador was awesome!  Excellent service with a handsome smile!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsMk5sUllNVTFyZFdKcmJuaEJYMUpJWTNsQlIyYxAB",
+            "text": "David was an amazing server, food was terrific.  Perfect meal before a show"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25velEyaDJiVGhxTUZGTVkwVnNVVGxMVFVrMWMwRRAB",
+            "text": "Great food great wine and great service for a good night for any event\nLook for Simon as your waiter great service experience"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sWFZsUXhkVTkzUXpSVWRrdzBaRmh6VkZJMFgxRRAB",
+            "text": "The service and food was incredible, one of our favorites in the city. The drinks were so good, and the food was perfect. Very cute date night spot with very friendly waiters!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xONVExOVVSblJNZDIxUGNYcFlkMjF0YW01TGJsRRAB",
+            "text": "The drinks were delicious and service was great!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aNFlsbDNjREJLUlRkdlFsRnVlblZJVUc0NFNWRRAB",
+            "text": "David was great! Nice vibe, cool low lighting, and great food!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oMWVYVk9aM2Q2ZEdsc04yNW9NMGhqUXpkVk9VRRAB",
+            "text": "David was the best server for my family and I! All of the food was 10/10"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1VFNsWlhWM0Y0TVZSYVNFZENUMnczUTFwME0zYxAB",
+            "text": "Delicioso, buen servicio muy acogedor el lugar."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSc1VIUlNNMEYzVjBKQ1ZtRlNVR3BwTjFwc1kyYxAB",
+            "text": "Salvatore was excellent waiter and great food..thank you"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKaFJsZzBiVEZxTUhaTGRuRXRiRnBmWjJ4MVNuYxAB",
+            "text": "We love this location of Bocca di Bacco. Foodnis always excellent, and service impeccable. The Fusilli Norcia is a family favorite and the seasonal dessert Il Mandarino was incredible! Salvatore took generous care of our family. We will return again and again."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ORE1USnZTVVpzWmxwVFNUVnRPV2hLVG0xSFRIYxAB",
+            "text": "We’ve caught quite a good deal here. 25$ for the 3 course lunch. Portions, however, are not so big. But everything tastes great."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OdVZ6TkVhVWxDUVVkWlNXVlVVMmxrZUhWMlkyYxAB",
+            "text": "A lovely restaurant and great food. It was a little quiet the night we called in after a Broadway Show"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNvd2UtMGlBRRAB",
+            "text": "브로드웨이에서 뮤지컬을 보고 늦게 저녁을 먹으려 갔습니다. 메뉴 구성이나 기타 서비스는 매우 좋았습니다. 인테리어도 예뻤습니다. 하지만 에피타이져로 주는 빵과 파스타가 매우 짜서 다른 음식의 맛을 거의 느끼지 못했습니다.  그 외에 lamb chop, wine and dessert는 매우 맛있었습니다."
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNJeXRTYW53RRAB",
+            "text": "게살크랩이 정말 훌륭했다 뇨끼는 느끼했다 양도많고맛있다 게살크랩 먹으러 또 가고싶다"
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnNzgzaElnEAE",
+            "text": "마시서요!!!다맛나용"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xScFozVkNiM2xTTkZWMlJ6bHdVbkkwY25oTVgyYxAB",
+            "text": "Came here while my family were visiting and we loved every single dish and the service was wonderful. Everybody was very kind and attentive. We fell in love with the spaghetti meatball so ordered another one before we left! Would come back again."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VNYWpuS0gyOE5iRk9REAE",
+            "text": "Met friends & friends of friends after ages over here in May 2025.\nVery nice place to hangout with friends & family but it’s a nightmare if you’re driving here on a Friday evening.\nBest to walk or get taxi.\nPerhaps I didn’t order right food…. Salad and  eggplant something…. I did t relish it that much.\nService is amazing and so is the atmosphere."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkRE1FUjZaRGgyVUhWeFZ5MTZWRkZxVUhsQ1YyYxAB",
+            "text": "I had the best time with my friends. Our server was Salvatore. He read us the specials, gave us recommendations and he was very charismatic and provided amazing customer service."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205Q1dVeERRVUo1TVMxbFNtcFhkVFZ1UjB4b2JIYxAB",
+            "text": "Bocca di Bacco is one of the best Italian restaurants in the city, probably the best if I'm being honest. We had the rigatoni alla vodka and the special: a lamb ragu pappardelle, both of which were amazing and great portion sizes and a solid price. The service was fantastic, especially given we were celebrating a birthday, but even on normal days everyone is extremely friendly and attentive, and in general service is fast. I'd highly recommend the rigatoni alla vodka, spaghetti carbonara, taglierini negro, or the rigatoni alla norma, as these 4 dishes are our personal favorites. Definitely give this place a visit, you won't regret it!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5WVkwY3piSHA0U2taR1RHSm5RalpXU2s5aVNrRRAB",
+            "text": "Really awesome food. Had pollo parmigiano (organic chicken, served with spaghetti pomodoro) and Mushroom Rissoto."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aRFNrWjJYMDFpUkdKb1ZVWlNNMHB6VGxaT2VFRRAB",
+            "text": "Very good experience, the food was so delicious and tasty and the service also very good. Salvatore was our server and he made sure our experience at this restaurant was great."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSNGJsTmtlbGMyVG1GTmVUZHlWMmx2YlZkR2JYYxAB",
+            "text": "Great quality food. It’s very tasty. Especially recommend for brunch. They have gender neutral bathrooms. The place is very aesthetically pleasing. No parking however."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGVGFreEpVWGhNVWxWUVRYRmhhRU5JYW1ST2IyYxAB",
+            "text": "Fantastic spot! The food was delicious, and the service and atmosphere were spot on. We stopped by for an early dinner after a show, and it couldn’t have been more ideal. The music and lighting were perfectly balanced, creating the right vibe. The pasta and appetizers were top-notch, and the wine selection offered great value for NYC prices. Waitstaff were incredibly nice."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQOE5LY0p3EAE",
+            "text": "I needed some place to dine in for a quick dinner until we wait for our daughters show at the aileys. I didn't have high expectations as there was no long wait time on Sunday night. Pleasantly surprised with the attentive service and great foods. I also appreciated they offer FREE filtered water which is very hard to find. Our dinner special of lobster and shrimp pasta was amazing. My parents are very picky when it comes to outside foods and we were all pleased. Would love to visit again for our next show."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oRWREZEtWbUZ1WlMxNU5HbHFSbVJWUjFKRE9WRRAB",
+            "text": "Went with a friend for Restaurant Week.\nWe had the dinner.\nReally good. Generous portions.\nWill definitely go back.\nHighly recommended!"
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aWlVqUTRVMU5GVGxOblZFdDNibGxLUXpkVVIyYxAB",
+            "text": "Grande esperienza con cucina italiana. Abbiamo cenato ieri sera. Famiglia italiana di 4 persone. Ampia scelta, ottima cucina, servizio molto curato. Per qualità di cibo e ambiente il prezzo è più che ragionevole. Un ringraziamento a Davide e il suo staff. Se possibile, ci torneremo di sicuro."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQODltMGFREAE",
+            "text": "Amazing decor and food. Stumbled on this restaurant while trying to decide on a place to eat, and moody decor and clean feel really drew us in.\n\nThe food was amazing. The squid ink pasta with crabmeat had large chunks of crab, and is a must try.\n\nOur server was very friendly and suggested drinks. They hit the spot and were quite strong (not a complaint 🤣)\n\nHighly recommend this spot if you’re in the area, the squid ink pasta might even be worth going out of your way for!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMdC1mZURnEAE",
+            "text": "UPDATE - 8/4/24\nConveniently located in Hell’s Kitchen, some of us had an amazing experience a few weeks ago and decided to do a repeat performance for brunch today at this popular neighborhood establishment off of 9th Avenue. Reservations were easily made via Open Tables. My partner, our friends and I were greeted warmly by the staff upon arrival at Bocca di Bacco and led to a table for 9 in the back, whose interior is quite dark and the AC could have been a bit stronger. Not the deepest menu, but some solid options with enough for even a picky eater to find something they will want. We decided on the Cheeseburger, Omelet, Classic Benedict, Avocado Benedict, Fried Chicken & Belgian Waffles, Side of Bacon, and Side of Sausage from the weekend brunch. A basket full of petite muffins started our meal. Everything was perfectly prepared with fresh ingredients and brought out at the same time. All throughout our meal, we never felt rushed nor had to ask for extra water; it was always brought promptly by the staff. They were accommodating, and our server was Mynor. The portions were reasonable. Price-wise, it wasn’t cheap but was worth it. We continue to recommend this place.\n————————-\nLocated near Columbus Circle and Central Park in Hell’s Kitchen, this establishment is owned by brothers Enrico and Robert in collaboration with chef Kristen Sollenne. With three locations down 9th Avenue, it is a favorite spot for celebrities, tourists, and native New Yorkers alike. On the surface, Bocca di Bacco, translated “mouth of the wine god,” doesn’t look much different than any of those places. However, they are known for their exquisite Italian fare, intimate ambiance, incomparable hospitality, and robust wine selection. Reservation was easily made via Open Table around 12:15pm for Sunday lunch. So, my partner, our friends and I were seated right away as first-timers at this very tastefully decorated, cozy, and modern vibe where the tables were closed together. The interior is quite dark; one gets used to it after a while unless you opt for a table close to the front, which we did. Their menu was an extensive offering of small plates, fresh pastas, and tasty full-sized entrees with some vegetarian options. We decided on brunch and ordered Avocado Benedict, Fried Chicken and Belgian Waffles, Frittata Primavera, Rigatoni alla Vodka, and side of Truffle Fries. A basket full of petite muffins started our meal. The food was very fresh and well seasoned. The portions were perfect. It didn't put too much hurt on the wallet. The service was very good, not rushed, and our server was Carlos. One doesn’t have to go to Little Italy for a homemade pasta meal, and we can recommend this place."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZb2ZYRi1RRRAB",
+            "text": "Pretty good Italian spot with well-priced, hearty dishes. Portions are large, the service is good, and there’s plenty of seating. Solid choice for a casual night out."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNObGVIa0tREAE",
+            "text": "On a price-value curve, I give this place five stars. Brought a group here and everyone enjoyed the food. Food. The service was friendly and responsive. The table agreed the lasagna is the best dish on the menu. The other things we had included the squid ink pasta, calamari, and tiramisu.\n\nI would definitely come back here."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaa1RsVkpVMjlLVW5aWmEwcElRVGRMU1RocE5GRRAB",
+            "text": "Really good food, veggie options, fish was great, and tiramisu made in front of me!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEX2V2SWt3RRAB",
+            "text": "The atmosphere in here is very modern, chic Italian. Tables are a bit close together but it’s still an intimate dining experience. The food was very good, everything from the calamari to the homemade pasta to the delicious deserts. The service wasn’t horrible, but wasn’t great for the price point. Our waiter was a bit rude, but other wait staff who filled our drinks were attentive and friendly so not sure if our waiter was just having a bad day or what. Overall great experience!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQxdjZtT2F3EAE",
+            "text": "Nice atmosphere,  courteous,  attentive staff, great Italian food.  We cane on a weekday night and did not need reservations.  It's a little dark in the restaurant but you get used to it after a while.   The chicken Parmigiana,  Caesar Salad,  calamari,  and beef short ribs were all very good,  as were the profiteroles for dessert."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21RM01TMHRVUzB4UlhOeWNtTmxMVXhXUlhOeFRuYxAB",
+            "text": "I went last week Saturday and I don’t normally post reviews, but I felt as if I had to this time.\n\nThe food was great and I’d definitely come here again, but what really stood out was the service. I had the pleasure of meeting Christina recently and was immediately struck by how warm and engaging she is. She has this easy charm that makes you feel instantly comfortable, and she carries herself with the kind of confidence and attentiveness that’s rare to find. She's the kind of person who makes conversation feel effortless, genuine, friendly, and always tuned in to the energy of the room. It’s clear she’d make an incredible server. Not just because of her personality, but because she knows how to read people and respond in a way that feels personal and thoughtful. Any restaurant would be lucky to have her on the floor."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPS0F6TG40eXZ2U19RRRAB",
+            "text": "Wonderful atmosphere and the food was devine! We were a large group and we tried lots of appetizers and they were all fabulous. The salmon was excellent for dinner."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQeXJ5czBRRRAB",
+            "text": "Our first time here & it was a joy! Beautiful ambiance, delicious dishes, & the service was exceptional! We had the short ribs & chicken parm — recommend both! The Mt. Etna white wine was delicious. We both said, “We should have ordered the bottle!” Massive thank you & praise to our waiter, Giovanni! Friendly, hospitable, as well as above & beyond. As an Italian-American, it was beautiful to use & hear the Italian language in the restaurant. It makes it feel like an authentic experience! Can’t wait to come back for dinner & brunch. Pro tip: get the espresso martini! Grazie mille! ❤️❤️"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2bjVpd0ZnEAE",
+            "text": "We went as a family of four to the Chelsea restaurant. Really pretty inside, and quite large dining area. We were the first diners but as more people arrived they were all seated right around us which was odd, as there was so much space. I don't mind hearing others conversations but they were so loud and so close it just ruined what was a really nice ambience. That aside, the food was good without being excellent. Starters were huge and a main meal in themselves. There must have been 20 Calamari and  6 large meatballs as an example. No complaints from me there! The main meals needed more flavour as it was a little on the bland side. The Lasagne and Carbonara were OK, but definitely had better, so a little disappointed. The pizza was probably the best meal of the group. Cost was $250 which included a $50 bottle of wine. Overall it was good but not one I would book again."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwNGFDX2d3RRAB",
+            "text": "This place seemed to be always crowded every time we passed by it. Not for nothing… our 1st visit here was 5 star from start to finish.\n\nSuper friendly & professional staff clicking in a team effort. At least 4 different people approached our table to make sure everything was fine, offer drinks, Parmesan cheese or to chit chat to find out if we had any requests.\n\nThe food… culinary artistry at its finest. Best Moscow Mules I have ever had. Everything was clearly fresh & perfectly prepared to order. I look forward to returning to try other items on the menu.\n\n( My wife’s Calamari rating was an 8)  out of 10"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxX3NqMW9RRRAB",
+            "text": "Great stop before a show and plenty to choose from, with attentive staff and service. We started with the mushroom fontina bruschetta and the Caesar salad. The salmon over figs was amazing and the lamb chops were some of the best I have ever had. We finished with espresso and the profiteroles."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNWZ0phOWh3RRAB",
+            "text": "I have been here 3 times and always get the Cacio e Pepe because its so good. Hard to get anything else when it hits every time! The Rigatoni vodka is also really good and drinks are amazing too. The inside is lively on a Saturday night. It did take us a while to get our food since it was pretty busy. Keep in mind if you have a reservation, they will only seat you if your whole party is present!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214QmFXZ3dhbFJwVTNoNWJUVmZRVWRSYUdoeWMzYxAB",
+            "text": "We were a walk in for lunch and we were greeted wonderfully. Food and service were both amazing. Get the Pesto Gnocchi! Great overall experience."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNac2QtVWVBEAE",
+            "text": "Staff were knowledgeable, the decor was well done and the food was good damn phenomenal. The pasta was fresh, the appetizers fresh and the portions were enormous. Even the cocktails were well done. The meal was honestly underpriced and I intend to go back some day."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKalNFdzBWV016V1UxR2RTMVNVRlZKYUUxdFFrRRAB",
+            "text": "I stopped by on a random Tuesday night and was absolutely blown away—not just by the delicious food, but by the incredible service. Salvatore, our server, was truly exceptional. Attentive, professional, and warm, he made the entire experience feel elevated from start to finish. It's rare to come across someone who genuinely enhances your dining experience the way he did. Top-of-the-line service that deserves to be recognized. Highly recommend this spot—and if you get Salvatore, you're in for a treat!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNabWFUSUZREAE",
+            "text": "Had a blast at Bocca. The ambiance is beautiful, attentive service and great portions. The calamari was super fresh and the Ahi tuna tartare was out of this world. The lamb chops was seasoned well and the pasta carbonara, I couldn’t get enough. The table side tiramisu was beautifully presented and very unique to other tiramisu I had in the past. Great spot for birthday, date night and/group get together."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2bVA3bEt3EAE",
+            "text": "This place has a nice appearance on the inside. However it’s pretty dark inside so it makes taking photos of the restaurant quite hard. Also the music is pretty loud so it makes it hard to hear what someone is saying even from across the table. I got my order wrong simply because it was too loud for my server to hear my order. The food for my meal was still good. I also ordered the espresso martini and the Verry Berry. Both were vodka based but be wary of the Very Berry. I couldn’t taste the alcohol so I didn’t notice the impact until I stood up."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2OS1XSmVBEAE",
+            "text": "I had an incredible experience at this restaurant, celebrating our engagement that had just happened, and Fernando and Jesus made it unforgettable! Their customer service was exceptional—friendly, attentive, and truly made us feel special. The food was outstanding, exceeding all expectations. They went above and beyond to make our celebration even more memorable. I can’t recommend this place enough! If I could give more than five stars, I absolutely would. Thank you, Fernando and Jesus, for making our experience amazing!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210VmRrNXBVbkZSTUUxNFJFbFRiRGxzVVVRMFptYxAB",
+            "text": "It was just okay, good food and good cocktails and good service, and the pricing reflects this as well. If you need a good quick Italian meal without thinking too much about it: go here. It’s good across the board, but don’t come expecting fine dining or a standout meal. More of a place to have a meal while focusing on catching up with friends and family"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQU01zc21laU9QMHhBRRAB",
+            "text": "I recently had an incredible experience at this restaurant that took me straight back to Italy with every bite! The flavors are almost identical to the authentic Italian dishes I enjoyed during my travels. And let me tell you about Sal, our server—he's an absolute gem! So friendly and attentive, he really made our dining experience unforgettable. Highly recommend this place for anyone craving delicious Italian food!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmbjh6dmlRRRAB",
+            "text": "Delicious food and there were no troubles customizing the dishes. Lots of options and vast flavors. The drinks were yummy as well, but the best surprise was a spectacular dessert at the end!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQcXV6aFhnEAE",
+            "text": "This was my first time dining at this establishment and it was lovely! The atmosphere is cozy as soon as you enter and the service was amazing. Giovanni was a complete gentleman and he was so fun to speak with. Eduardo was great in making sure that my sister and I were okay. The food and drinks were high quality and nothing was left on the table. I’m definitely coming here again to have brunch."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUcTU3OFZREAE",
+            "text": "We came here looking for some good Italian food while out exploring the city and it didn't disappoint.  Service was great, atmosphere was great, and food was excellent.  Portions are on the larger size which was great but we left stuffed. We started with the Mediterranean salad which was fresh and very tasty. My husband got the steak and frites. Steak was cooked perfect and had good flavor. The fries were unexpectedly delicious.  Crisp but not fried out and just the right amount of salt. I got the chicken Parmigiano. Very good. Everything you would want and expect. Delicious and huge serving. We also got a 1/2 order of the cacio e pepe. So good!! We left very full and very satisfied.  Thank you!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQZ2ZEWFdREAE",
+            "text": "We came for a couple drinks and appetizers around 5pm on a Tuesday.  The wine selections were fine - both red and d white.  We ordered some appetizers: calamari (which as fine), arancini ball, and bread.  It may have been an office evening at the bar, but the few items we had were ok.  I think we will need to visit another time and have a complete dinner experience"
+        }
+    ],
+    "reviews_count": 90
+}

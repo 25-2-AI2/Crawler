@@ -1,0 +1,551 @@
+{
+    "name": "Le Jardin Bistro NYC",
+    "place_id": "ChIJeRjfjoxZwokRNLbxJPsZE-k",
+    "grid": "MN3",
+    "address": "95 Delancey St First Floor, New York, NY 10002, USA",
+    "rating": 4.7,
+    "user_ratings_total": 241,
+    "phone_number": "(332) 296-1576",
+    "reviews": [
+        {
+            "date": "9시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SRVRIbFNjV3hyTTJ0RkxVZzJNblphYjNod2NGRRAB",
+            "text": "You'll understand why people keep coming back after one visit. The feeling here is welcoming. Client care at this restaurant stands out. The menu has high prices, but special offerings cost less. This restaurant has a central location and we'll return."
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKd2NHNXRNa05FY2pKRVJITmFXRFk0T1VaVVptYxAB",
+            "text": "9/17~ A little gem with a lot of sparkle in Chelsea, NY. Cozy French restaurant, gorgeous bar set-up and friendly server (Liz). We ordered the duck entree and the steak/fries. The Margret De Canard = duck entree was flavorful laid on savor sauce and a perfect side of tasty potato gratin. The Steak Frites = succulent shell steak topped with a dab of herb butter and thin crispy savory side fries. The cockatails had the perfect punch without compromising the flavor essence of the drink. Loved the food, vibe and will be stopping by for Brunch!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCclluWk9ZMUZuWDNwbldHRmxTbDloZFdoTlQxRRAB",
+            "text": "Wonderful experience! Romantic and charming vibe, delicious food and drinks, welcoming hospitality. Highly recommend!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xVlZVbGhkbGhEYTNsUFpEY3dXbE5EVWtGNmVHYxAB",
+            "text": "Great service and phenomenal food"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxUVQxTmlTRXRtWDE5dU1uRllNVWR0ZWpKVFpsRRAB",
+            "text": "Great place for a big dinner with fantastic food!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214allXNWxiVmw1ZEdsVmVHRkhSM0ZVVFhSbFVVRRAB",
+            "text": "Le Jardin was kind enough to book our Sunday reservation the night before, at 10pm. They were kinder still to give us the last brunch time slot, at 2:30pm. Thank you!\n\nThe food was phenomenal. I ordered the steak and eggs and my wife ordered the Ouefs Royal. Both meals were generously portioned and tasty! Don’t sleep on the steak and eggs’ salsa verde, which is more like a pesto sauce—I ended up wiping the plate clean of the sauce with the table bread to enjoy it all. We bought the Groupon, which allowed for a free cocktail each—we ordered two French 79s—so good!\n\nGroupon or not, we always tip well—on the pre-discounted price—and we’re happy to. The service was phenomenal and the ambiance transported us back to Paris, which I haven’t seen in years. Thanks Le Jardin! We’ll be back!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WMWR6QmhhMWRIYWxsUGVsOXFXRVpGVmxaR01XYxAB",
+            "text": "Appetizer salad, au gratin potatoes, hanger steak.. burger with Greuyer chesse .. price was fair"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xJeWJUUjNSVlpLVm1WTlkzQXlYelpxYjFZMWRXYxAB",
+            "text": "The food was very good (escargot, oysters and lamb).  The service was outstanding in every way possible. Highly recommend"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwaE4xTlBNRTQwT1ZaVGFWbHdhMHBJYWtGd1NIYxAB",
+            "text": "We love the restaurant.  My daughter loved her steak frites, but the standout was the chocolate souffle, which unadvertised had a caramel sauce and a large dollop of vanilla bean ice cream on top. Me, I wanted the lavender cocktail, which is heavenly, but I was told it is seasonal.  We will return in the Fall, which is near."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pjeFZWWm5RelZPV2pSTVExQmxTR05sT1VrdFZWRRAB",
+            "text": "I read the critical reviews and expected the worst, but was pleasantly surprised. These employees show kindness while offering solutions. Their food shows attention to both taste and presentation. Le Jardin Bistro NYC sits in a place where people naturally go. I would definitely come back here again :)"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twRVNIcHZRbGhXZEZkUExXZENZbXB6WlY5amQwRRAB",
+            "text": "Excellent option, great food and the service was impecable"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toNVZXeG9TVTF1UjFsVVJFeHFaa1p3TUhrMGVIYxAB",
+            "text": "This spot has amazing food, atmosphere and service. Le jardín is a great spot for family, friends, or a date night. I had the Gnocchi and my friend had the burger and both were fantastic. We finished it off with the caramel soufflé which was delicious. Our server Liz was the absolute sweetest, most wonderful bartender!!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paZlRqSm9kRkpNWDFORVp6bFdSemw0WVhOSlozYxAB",
+            "text": "Le Jardin is great vibes with amazing food and drinks. My bartender Liz was phenomenal and can craft any drink you want. Get the dessert… it’s the best"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwblp6UktVWFYxWjA5QlkyUm5aVWhyYWpoVlFtYxAB",
+            "text": "Excelente experiencia en este restaurante francés.\nDesde el momento en que llegamos, nos sentimos bienvenidos. El servicio fue impecable: el personal fue amable, atento y siempre dispuesto a explicar el menú y recomendar opciones. La comida fue simplemente espectacular, cada plato estaba preparado con gran cuidado y lleno de sabor.\nEl ambiente es precioso, con chandeliers elegantes y una iluminación cálida que crean un espacio acogedor y romántico, perfecto para una cena especial. Los tragos también fueron buenísimos, bien preparados y con una presentación elegante.\nSin duda es un lugar al que vale la pena volver una y otra vez. Lo recomiendo a cualquiera que quiera disfrutar de una noche inolvidable con excelente comida, servicio de primera y un ambiente encantador."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoemJWOHRRMFZhTkhkbVNHWjNOVEZWYlRCdVpFRRAB",
+            "text": "This restaurant demands immediate visit. The team showed consistent friendliness. This restaurant consistently delivers. This restaurant meets all our family's needs. This restaurant has the formula figured out."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5YWIzaHhXRTkzUVZoUk9WZzJjVXB6TTBScWRFRRAB",
+            "text": "Very good service, friendly. The cocktails the appropriate spritz are amazing. Ordered the royal english muffin hollandaise salmon Very good. Very impressed. The atmosphere elegant with multiple chandeliers.located close to transportation on delancey. Will be back.."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GTmFWRlBaRXRJVWxaVFJYTmxVME5xT1VKWFYyYxAB",
+            "text": "This place clearly knows what people truly enjoy eating. I wasn't expecting such an attractive dining area. The staff attention to guests feels distinctively personal. Nothing could be improved. Experience what this restaurant offers – it's quality."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCYVdsZzNPWEZxY25aNWNWZE9NbXRtVEZRMmNIYxAB",
+            "text": "Good food good service, love it"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210SFlYbExlQzEwYUdSRlRVZDRXa1JMVG5oS2FrRRAB",
+            "text": "Jack helped us and had great customer service! 🙏⭐️"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25JdFltMUVlSFl0TWtKSVQxVkpRbG90VUdwWlIzYxAB",
+            "text": "Amazing place! We were welcoming by Jack, very polite and made amazing the first impression! Delicious food! Great drinks! Chic environment!\nMust go!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGeFlqQXhVMmN3UlY5WlgyWndUVkJuU3pkRFVsRRAB",
+            "text": "Amazing resraurant week fixed price 3 course dinner for $45😁. French onion happy, hangar steak with peppercorn sauce plus creme brulee were all seemingly full portions! And extremely well prepared and authentic French.\nWould absolutely eat here again, especially during rest week😉\nFive stars all round!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OVVVGVkdkVFF3TWxWQk9YVk5MVmxxVkdjeWRYYxAB",
+            "text": "Incredible from every aspect: service, food, hospitality, surroundings, and neighborhood. A must!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WeWRUbHNhRVJ2TjFoSVJWZHNWbTB6Y1c0MlpVRRAB",
+            "text": "THE DESSERT IS SO GOOD!!! literally the highlight of my dinner. the steak and salmon was really good. the fries and mashed potatoes were perfect. 10/10 will come again !!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsWlJFcFdWSEJWWTFObFpHZDVaa290TkdKekxWRRAB",
+            "text": "We came to this restaurant for my birthday, and my sister even brought a cake so we could celebrate after dinner. She gave it to the hostess to keep in the fridge, and at the end of the meal we politely asked if they could bring it out with candles and cut it for us.\n\nInstead, the server simply dropped the cake on the table in its package, with no candles, no plates, and not even a knife to cut it. I was honestly shocked for a birthday dinner, I expected at least a small effort to help us celebrate. It felt careless and dismissive, and it really took away from what should have been a special evening.\n\nAll we wanted was a simple gesture to make the night feel like a birthday, but the service made it feel like the staff didn’t care at all. It was one of the worst birthday dining experiences I’ve ever had."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CcmIxZEJhMTlQYTAxSlJTMTFOVFZUYzFoUVkxRRAB",
+            "text": "A bit inconsistent. Went for dinner one night, food was fantastic. Went for brunch the next week, food was good, but not fantastic, and way too salty. Disappointing. Also, great, friendly service at dinner. Brunch service was pompous, bordering on rude."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvMVdHdHNYelJoVUhaaU5rZE1MWEY2U0RWNllrRRAB",
+            "text": "Disappointed in most of the food. Most was very salty. Had to request condiments 3 times before receiving and by then food was cold. Escargot was very good. Cocktail was good. French fries were amazing."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOcVMxQnJhamRtU2pSSWNXdHBTVFJWVURGQmQyYxAB",
+            "text": "We have eaten here several times always a good meal and wonderful staff."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oS1oxTkdSV2hKT0VaVVVERXdhWFpQTWxSRk4yYxAB",
+            "text": "Such a bad experience. I sat at the bar on Saturday night with my friend and when I asked for a cocktail menu the bartender they don’t have one. So I got up and asked the host it they have a cocktail menu she said go and ask the bartender.…"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWNVoyRTFjMVkzUWxSTVFXSkpPR2RWVVZSQldWRRAB",
+            "text": "Went with my wife for her birthday. Was looking forward, because of good reviews. But food didn't our expectations. One of the appetizers, we had salad, and it had only two small pieces of cheese."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0SVRXZEJiMW93U0ZoTFNuWldOM2g2TUhKaWFVRRAB",
+            "text": "We had high hopes considering we have been big fans of Chez Napoleon for over 25 years.  The menu is very traditional including boiullabasse, which they ran out unfortunately.  We did not try the onion soup but am sure it was delicious.  However, the pate was rather hard and the coq au vin was not cooked long enuf to the point where the chicken was hard and not falling of the bone…but then again some folks may like it that way. Am sure will give them a second try soon."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sU2JUQmFWakJqZVhWMk5uRmhUamhRVGtST2NtYxAB",
+            "text": "Nice French restaurant. Their Bouillaise is the most authentic one I have ever had in the US."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKSVVFdEljRXRaT0hCSkxXa3pla0Z2Ulc1bmFsRRAB",
+            "text": "Escargot was very good. Duck breast was very overcooked and had to be redone. Also ordered the Soft Shell Crabs but they initially brought me the Soft Shell Burger. Also had to send back and get the correct entree. New duck was cooked better but the potato was the best thing on the plate. Soft Shell crabs were very salty. More salt on them than on the French fries. The staff were professional, very nice, and ended up taking 15% off our bill."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWeFRrUTJlVlZFY0VaV1kwZGtZamxtUWw4eVNsRRAB",
+            "text": "Supere nice to environment"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kaVkwWlVTR1kwT0RNeE1FcHRUVjgyVlc4dE5GRRAB",
+            "text": "My first time and I am a big fan. Great ambiance, food and service.  Will be back again and again!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPYXJyOVNfc19QcG13RRAB",
+            "text": "Love the vibe, the service and the food. Everything was fantastic."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNZVFzNkRUdFlEUDF3RRAB",
+            "text": "The escargots are tasty!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLZXF2LVNIZ3FpdmJ3EAE",
+            "text": "Drinks are amazing, the food is also good. More on the expensive side but nyc average."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKWDVodi04eFltdGpRRRAB",
+            "text": "It was a great . The service was a little bit long but overall we enjoyed it."
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNNi15dFdocjkzM1p3EAE",
+            "text": "Muy buena comida"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJRF9zOExheG9fS1ZBEAE",
+            "text": "Great staff awesome food."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNblQ1NnFEaHRURVh3EAE",
+            "text": "PERFECTION!  There are no other words to describe my experience dining at this restaurant.\n\nI joined my friend’s parents on Saturday night, and they said it was the best meal they’ve had in NYC. Our server, Gulaz (hope I’m spelling that right), was a gem—warm, attentive, and full of great recommendations. The rack of lamb, steak frites, and caramel soufflé are a must!\n\nOfficially added to my list of favorites 🥂"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJS3oxcURCbTVIdkRBEAE",
+            "text": "The cocktails and cheese board were both really good, and our waitress was super kind. But we left feeling disappointed. Not sure if it was the manager or owner, but they went up to every single table to say hello, give suggestions on what drinks and foods to order, and chat, except ours. We couldn’t help but feel ignored, and it seemed like maybe it was because we used a Groupon. We were excited to try the place, but being left out like that made us feel unwelcome."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQQ0ZpSlNRbi0zV21RRRAB",
+            "text": "Unexpected find and what a delight! Excellent salmon in a tarragon sauce, a light and knowledgeable hand making this dish, definitely not your usual fare, a more refined culinary experience.  Server was lovely and caring and manager very clued-in to great client service.  Can't wait to tell others to go and to return myself!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKMklqT2lhd3Rldmt3RRAB",
+            "text": "We had a lovely meal. Our sever was a pro - confident, friendly, and on top of everything. The steak frites were as good as advertised. For a moment, it felt like we were back in Paris! 🇫🇷"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZX083ZlJREAE",
+            "text": "Very good."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZak9xcVFREAE",
+            "text": "Had an amazing time with my wife. The food was excellent, and the drinks were amazing. Can't wait to try out the rooftop! See you guys in a couple of weeks!!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZcU9QcXhRRRAB",
+            "text": "The place was amazing! We used a Groupon and they were fantastic. The food was excellent and the service was top notch."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvNXJPNFlBEAE",
+            "text": "Le Jardin is my new favorite spot every time I'm in Manhattan. I've been back a few times with friends, and I swear it gets better every time. Jonathon and the staff are lovely. I highly recommend the Coq au Vin and the foie gras!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvM0o2RTdBRRAB",
+            "text": "I really liked this place, all was great, food, décor, friendly stuff. I also had drinks before dinner at their rooftop bar and it was also a very nice experience. The place had a very nice atmosphere and cocktails were very tasty"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvc08zR3FBRRAB",
+            "text": "Thank you Johnathan! for the wonderful food and atmosphere. Maureen and I had a awesome 😎Can't wait to see you guys again!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3LWNyWFB3EAE",
+            "text": "Love everything about this restaurant. My husband bought a Groupon ( didn’t know they were still around) . We figured reviews were great so give it a try. Close proximity to pier 11 ferry . Booked a 5:30 dinner so we coujd make the ferry home. Walked 2 blocks to water street and took a 10 minute bus ride . The restaurant has nice ambiance . Waiters were attentive and helpful but not overbearing . Didn’t treat you differently cause you had a groupon . Ordered the pate which came with a nice salad and I had the onion soup.  Both were plentiful and very good. Soup was not greasy as some onion soups can be. Bread on the table was delicious as well . Coctails were creative. Loved the melon one with basil. My salmon was cooked perfectly with generous olive flavored mashed potatoes and green beans. Husband had the coq au vin. He loved his as well . Dessert was a frozen caramel soufflé . Portions were generous for every dish. The manager went out of his way to make sure you enjoyed your meal. I was highly impressed and would come again without the Groupon.  But I have up say this Groupon was a great value. Great dinner experience.. it’s 7:20 and we are back on the ferry home."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnazhQWlZBEAE",
+            "text": "We had a wonderful dinner at Le Jardin Bistro on the Lower East Side.\n\nFor appetizers, we had the country-style pate and the endive salad with apples, walnuts & Roquefort.\n\nFor our main course, we both had the duck breast with roasted carrots & string beans, and a potato gratin.\n\nFor dessert, we shared a caramel soufflé with ice cream.\n\nThe restaurant is beautiful, they have a very interesting cocktail menu (we had their take on a Boulevardier), the food is fantastic, and the service, amazing (make sure you get Iron as your waiter; he is the king of servers).\n\nWe will definitely be going back!\n\nAs an aside, being partially disabled, I really appreciated the elevator to the ladies room!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQaHFXWVp3EAE",
+            "text": "This is truly a hidden gem of French cuisine. Authentic French dining experience with exceptional Food and good vibe. The salmon and duck breast were both perfectly cooked and tasted really good.\nSpecial thanks to our amazing waiter Serge for his outstanding Service.❤️👏🏻👍🏻 Perfect memory for our 9th anniversary.👩🏻‍❤️‍👨🏻 2024.11.24"
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRdkpHRW13RRAB",
+            "text": "The place was really good , the atmosphere was great , music volume was good , the  service was amazing ,  I had order a salad I didn't like it and the waiter and the manager was nice to change it for me . But other the food and the drinks was amazing . Gulnaz was our waiter for the night she gave us an amazing service, I thank you , the manager Jonathan and waiter Gulnaz was really helpful and nice  the staff was really professional . Love the place 10/10 for me and my husband .  Now must order the espresso drink omg is the best .   Thank you for this great experience  at this restaurant"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIcTVxbjBnRRAB",
+            "text": "The food was excellent 9/10. I got a medium steak, it was prepared perfectly. Our server was knowledgeable and checked in regularly and appropriately. The space itself is very beautiful, I came with a few friends but I would definitely come here again for a nice cute date or another outing with family. Overall I had a really great experience. The drinks are nice and strong too. I had a few ;)"
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRazkyalFREAE",
+            "text": "The number provided can never be able to reached but I have a voucher requiring me booking via phone. How I can do that if my phone call can never be answered? I kept\ncalling like 2 hours each time just get cut.\n\n— feel happy for owner responsible reply. I’ll reserve one star here to see if I’d like to rate it to five after the dinner. But, let me try to email them to reserve first :-)\n\n— we have had a great night and enjoyed our dinner with friends and families! The atmosphere was perfect there and food has a great portion and tasty."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2MHBYdjlBRRAB",
+            "text": "The escargot was absolutely delightful, and the crème brûlée was perfectly crisp and creamy – a wonderful way to end the meal. The main dishes arrived a bit too soon, overlapping with the appetizer, which felt slightly rushed. In general, the staff were friendly, and Melina provided excellent service. The ambiance was charming for a French dining experience in NYC!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfeTdUNldnEAE",
+            "text": "If you bought the Groupon voucher, it would be worth it. Unless a bit overpriced.\nAll the menus i ordered, onion soup, tuna tartare, rack of lamb, duck breast, came out bland and okay- flavors. Also, the bread was served cold. The servers were kind, but somehow, I felt they were checking our table too often."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmMy1pbkFREAE",
+            "text": "I had the most incredible dining experience at LE JARDIN BISTRO NYC! From start to finish, everything was flawless. The cocktails were exquisitely crafted, bursting with unique and delicious flavors. The appetizers were beautifully presented and absolutely mouthwatering, setting the stage perfectly for the main course. Speaking of which, the entrées were divine—each bite was a testament to the chef's artistry and attention to detail.\n\nWhat truly elevated the evening, however, was the phenomenal service provided by Michael. His attentiveness, warmth, and genuine care made us feel incredibly valued. He ensured every aspect of our experience was perfect, going above and beyond to make the night unforgettable.\n\nIf you're looking for a French restaurant that excels in every way, look no further. I can't wait to return!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuLVpIdkhnEAE",
+            "text": "Amazing food at a new french bistro in LES. I was there with bunch of my friends and stuff from company and I cant tell how happy I was with the staff and food. Staff was super polite and attentive. Food and drinks were supper delicious and to our liking. I was there before when it was an American style restaurant and I definitely will be back. Definitely check them out."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2MGNEWk5REAE",
+            "text": "Amazing food and service! The best duck breast I have ever had! They completely changed my view of duck as a protein. Their food is delicious as well as their fabulous coffee based drinks. Highly recommend!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYaW92dGRBEAE",
+            "text": "The food was exquisite. Very flavorful, excellent presentation.\nMagret de canard and Carre d'agnead were tender and full of flavor.\nI recommend medium for both. With Escargots to start.\n\nThe cocktails were perfect.\n\nStaff was very friendly and helpful with suggestions.very engaging."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfa1llNzJ3RRAB",
+            "text": "Almost everything about our dinner here was perfect. Atmosphere, staff, music, cocktails were all amazing! We had great experiences with the tuna tartare, onion soup (perfect), lamb (incredible), and crème brûlée (with fruit toppings!).\n\nHowever please be advised to skip the steak tartare which should honestly just be removed from the menu altogether. It is clearly an outlier in quality, and tastes more like a raw burger patty than steak tartare. I really don’t know how else to describe it, and gaslit me into wondering whether I had ever really liked steak tartare at all."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIcThxTklBEAE",
+            "text": "I’m pretty familiar with most restaurants in this neighborhood. I was delighted to find that this strip had a new restaurant to try. I started off with their margarita. Really good. Really strong. Exactly what a Marg should be. Next was the Steak and Frites. I got mine medium well and the steak was cooked to the perfect temperature. Really well seasoned. The garlic butter was an excellent touch to it as well. fries were crispy and was a great portion. Definitely would comeback again for the steak. Lastly  I had  the creme brûlée as a dessert. It was nice, crispy on top and creamy at the bottom. Accompanying fruits were also super fresh.\n\nThe decor and ambiance is very lowkey and intimate. Definitely perfect for small groups. Our server was great and very attentive. I don’t think I can find any complaints. Would recommend to my friends for sure!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzM29tOF93RRAB",
+            "text": "Our waiter Michael was fantastic. Very attentive, explained the Menu and answered any questions. The food was delicious. The Manager John also came by our table to check that everything was perfect at our table. A great dining experience."
+        },
+        {
+            "date": "수정일: 10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQZ1lXRFVBEAE",
+            "text": "We ordered the escargot bland in flavor but the foie gras was delicious. Food was tasty steak was mediocre but the lamb was great. Up and coming restaurant so there’s lot of potential. Pretty busy for a Sunday night. Service definitely had some delays but I would definitely come back."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzbEw2SFZBEAE",
+            "text": "I took my partner here for his birthday dinner and we loved the entire experience!\n\nThe staff, I think, is what stands out the most regarding our first visit. The hostess was very accommodating and although we had been late to our reservation due to a train delay, she honored it and sat us immediately. Our server, Nico, was extremely friendly, attentive, and informative. Even when our candle went out at our table, it was promptly replaced. If given the choice of other options, I feel the staff here made the evening stand out!\n\nThe atmosphere was classy and modern. I loved the look of the bar, and the gentle lighting and small size of the restaurant made it feel like a very romantic and intimate space. I enjoyed that it was not too loud for conversation and the music was complimentary to the situation, not overwhelming.\n\nIn terms of food, I was overall very happy. I had a salad, the salmon, and the caramel souffle. My partner had a salad, the steak, and the lava cake. All of it was extremely good and cooked well. The portion sizes were generous and felt like good value for the money you were paying. Even the condiments were clearly fresh and I would not be surprised if they were made in-house. The cocktails all used high quality liquor and the skill of the bartenders was very evident. My partner was very excited by the quality of the vesper in particular. My only qualm for any of the food was that it was a bit over salted for my taste.\n\nAll told, I highly recommend this restaurant and we are already planning the next time we will visit!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzMlktd0dnEAE",
+            "text": "The experience here was wonderful! It was my birthday and we had escargot, pâté, and roasted duck breast to name a few! Our server Michael has wonderful energy and really made the night! Thanks so much for a wonderful start to my birthday weekend"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuMF92OVZBEAE",
+            "text": "First date with a cutie girl, love the vibe romantic and the manager comes here talk to me introduced us everything on the plate! Strongly recommended for sure! Love the food authentic French cuisine!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzM2JQRDlRRRAB",
+            "text": "Food was delicious, great drinks, great atmosphere. Tried this place with a Groupon promotion that was designed as a 3 course dinner… and let me tell you this place did not disappoint.. I will be returning and recommending others.\n\n10/10"
+        },
+        {
+            "date": "11달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQeHFHaEVnEAE",
+            "text": "Une expérience mémorable!! Dès notre arrivée, l'hôtesse était très aimable. Nicole, notre serveuse a été d'une aide précieuse pour l'explication des plats et du vin. Jonathan, le gérant est venu faire jasette avec nous et nous a même offert un digestif à base de café. Nous avons demandé un espresso allongé/lungo, ce que Nicole ne connaissait pas mais, s'est empressée de trouver qqun pour l'exécuter à la perfection. Notre repas: tartare de thon et foie gras au torchon en entrée, steak frite et carré d'agneau en plat principaux et pour dessert, soufflé au caramel. Tout était merveilleusement bien présenté et délicieux. Je recommande chaudement ce restaurant. J'y retournerai assurément lorsque je serai à NYC❣️"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3MmJycVp3EAE",
+            "text": "Food, drinks, decor, and staff (especially Marc, Leo, and Nixon) were great. All meat was cooked to perfection. The burger, steak tartare, frisée salad, rack of lamb, fries, sauces, and Last Word were all perfect. Everyone at the restaurant was fun, kind, and accommodating starting with security at the front. Everyone was knowledgeable about the menu and able to provide helpful suggestions. The gin selection at the bar was great, and they had Green Chartreuse at the ready. Can’t wait to go back with more friends and family in tote."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzdGQtVmhnRRAB",
+            "text": "Food delicious. Atmosphere was amazing. The owner even came and checked on us multiple times. Drinks were also on point! Will return!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3cnVITWR3EAE",
+            "text": "Best servers in town. Awesome burger and duck. Really liked the cocktail selection too. High recommendation."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIcVB6ckRBEAE",
+            "text": "Cute little French spot on Delancey St. Food and drinks were great, service was even better. Shout out to Marc, Leo, and Nixon for making our time there extra special!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYcWZpQXF3RRAB",
+            "text": "Tonight was such a fabulous night for my best friend and I 🫶🏾!\n\nI must say I completely loved Nico.\nShe was the best.\nShe gave  great service, patience with taking our order and she stay people centered!\n\nPlease give NICO a shot out!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3OUpHTHNRRRAB",
+            "text": "Coming from a French-American who loves French cuisine, PLEASE do not be fooled by these reviews. After seeing the near-5 star ratings and looking into the menu, I decided this would be a nice spot to take my girlfriend for our anniversary.\n\nI deeply regret it. The tuna tartare was bland, did not taste fresh, and was served with crackers from the corner store while the pâté, which didn't come with bread, was only okay. The sole satisfactory appetizer we ordered was the frisée.\n\nThe real disappointment was our main. We split the burger, and it went wrong in every way. They served it while I was in the bathroom. We had to ask twice for plates and utensils. It was cold, the gruyère was not melted, and the caramelized onions were soggy.\n\nWe tried to find our waiter, who had previously been over-monitoring us, to ask for the check, but she was nowhere to be found.\n\nWon't be back. Don't go."
+        }
+    ],
+    "reviews_count": 77
+}

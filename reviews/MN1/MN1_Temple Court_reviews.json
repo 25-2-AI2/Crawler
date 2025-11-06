@@ -1,0 +1,600 @@
+{
+    "name": "Temple Court",
+    "place_id": "ChIJPQzEeBhawokR79Mo5NOT5Vw",
+    "grid": "MN1",
+    "address": "5 Beekman St, New York, NY 10038, USA",
+    "rating": 4.5,
+    "user_ratings_total": 1324,
+    "phone_number": "(917) 728-4685",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214a1RsTkNSSEIwUTJ4eVVHaDJhM2xNWVZKYVdsRRAB",
+            "text": "The chicken liver pate was absolutely incredible, a must have if you’re stopped in for a light bite. The he cocktail menu is varied and well curated, and the views are stellar, of course. Great spot for an early after-work bite before heading home."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kVVgxTjFSV3BOTTBzdFNtOXRMVkU0ZVVSTGNuYxAB",
+            "text": "Visiting NY for the weekend we had lunch here at the bar. Oysters are one of my favorites and I will order them whenever I see them on the menu. The East Coast oysters (Long Island) at this place are by far my favorite I have ever had!!! Still thinking about them days later. Burger and Eggs benedict were fantastic and the Old Fashioned drinks were also top notch. The ambiance was beautiful with live music. A great place to take a break and reset before heading back out to continue exploring the city. Highly recommend."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poWE16ZFZSMVE1Vm5ST1VuUkRRMVY1TkVZd1lXYxAB",
+            "text": "I visited the Temple Court on a Sunday evening  after attending the NYCWFF in the area. I got a seat at the bar and I didn’t need to wait. I ordered an Aperol Spritz and a Negroni and they were both delicious! Elegant vibe, it’s a perfect spot for a date night."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0NWFGWkphMHByUjFGRVRWVkxPRzlrYkZwdWJWRRAB",
+            "text": "Great food and beautiful restaurant. Will definitely come back again."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5alJqZFBMV2ROTlZaTVEwdFRVamRxUTJKbk9WRRAB",
+            "text": "11 out of 10! Thanks Jo for having us!\nGreat Service and Food from another star!\n\nAbsolutely my cup of tea…\nAwesome chef and location!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SNU9XTkRaWFZ4ZW5BMGVUVTNTMU5pU0dOdVpWRRAB",
+            "text": "We had a grand evening here! We’ll definitely be back."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205blZqQmZSMHBrYjE5aU5FbGtaRFpxTkVwcU5WRRAB",
+            "text": "The ambiance and mature crowd is on oar with the awe inspiring architecture."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxaFUyVm1UalJWV1RkcFkyNDBWMVpLWldkUGMxRRAB",
+            "text": "Fancyyyy"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zd2VtNDRTazFPUkZsMlFrVk1MVWcyY0VSMmEwRRAB",
+            "text": "Affordable, tasty, and fresh coffee served quickly. I enjoyed the cozy environment and comfortable seating. Will definitely come back again for another cup."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214bVdIbFNabXRwVERObWVGUXhMVk5ZTmtSZlEwRRAB",
+            "text": "It was a beautiful space that was cozy and elegant. There was love music and I really enjoyed it while we had brunch. The food was delicious."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxcGFUSmxSVkJDUlhSNlJrNXdRbVUxVjAxUWJFRRAB",
+            "text": "Very nice place, would totally go again"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VNGJqaFNXbWxrTlRaNFdsVjNWMDB6UTFoM1RuYxAB",
+            "text": "Beautiful with nice atmosphere"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OWWIzSmtXRnBoYmtZemFsUmtNMFl4ZUhCa2JIYxAB",
+            "text": "Location, wine, steak, service were all great. Very cool vibe and space, with the bar and hotel attached."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toVGF6SlRkRnBOVkhWWGNHSkJTemh1WTBOamFHYxAB",
+            "text": "Had a great time celebrating a special occasion!\nThe service was amazing, they even personalized a postcard with a written note for our anniversary!\nThank you 🙏🏽"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKblREUkxaV1EyVG1oNWFrWTJjVU5YT1VSME1GRRAB",
+            "text": "Dining at Temple Court was an unforgettable experience from start to finish. The restaurant is housed in a beautifully restored historical building, and the ambiance perfectly blends classic elegance with modern sophistication. The high ceilings, tasteful decor, and chic lighting create an atmosphere that’s both grand and intimate – the perfect setting for a special night out.\n\nWe started with the tuna crudo, which was fresh and vibrant, served with a light, citrus dressing that was a great start to the meal. The roasted bone marrow was the next course, and it was absolutely rich and indulgent, served with a perfectly balanced parsley salad and crispy toast – a dish I’ll definitely come back for.\n\nFor the main course, I had the slow-roasted duck breast, and it was perfection. The duck was tender, succulent, and complemented beautifully with a rich, slightly sweet sauce. My partner had the roast halibut, which was perfectly cooked and accompanied by a delicate vegetable medley that enhanced the fish without overpowering it.\n\nThe wine list is extensive, with great recommendations from the sommelier, and the service was impeccable. Our server was attentive, knowledgeable, and friendly, ensuring that our meal was seamless from start to finish.\n\nIf you're looking for refined, expertly crafted cuisine in a beautiful setting, Temple Court is a must-visit. It’s the kind of place where every dish feels like a celebration, and the whole experience is something to remember."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poalNWcHNSRUpYTm5wMWVFZE1iMmt3WmtGSlJWRRAB",
+            "text": "Worth the Wait… If You Have the Patience\n\nTemple Court is the spot everyone tells you to check out, and honestly, they’re not wrong. Located inside the Beekman Hotel, It’s a total NYC staple with jaw-dropping architecture and atmosphere. Walking in feels like stepping into a movie set—grand, bustling, and packed with a true melting pot of diners: tourists, after-work locals, and people who just look like they belong on the scene.\n\nTHE WAIT\nI came without a reservation (rookie move, I know) and, not surprisingly, had a long wait for a table. It’s NYC, so you roll with it, but bring a good attitude (and maybe a snack in your bag) because it’s gonna be a while.\n\nTHE BAR\nThe bar is a show in itself. Imagine bartenders furiously shaking craft cocktails while you’re basically auditioning for their attention. You’ll need to make strong eye contact, wave a little, and maybe channel your inner peacock to stand out. Honestly, it felt a lot like trying to attract a mate in the wild—tough work, but worth it once you land that perfectly mixed drink.\n\nTHE FOOD\nOnce seated, the food took a bit to arrive, but when it did? Totally worth the wait. Beautifully plated and full of flavor. Drinks were solid, too—creative and well-balanced.\n\nBOTTOM LINE\nGo for the atmosphere and the NYC experience. Expect a wait, bring your patience, and enjoy the show—both at the bar and on the plate."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214eWFXNVBRMk5xT0ZCT1lsbE5jekJ3Y1ZaTVVsRRAB",
+            "text": "We enjoyed restaurant week,each and every item from menu was prepared with perfection and service was carefully and professionally we enjoyed and thank you"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxUlgwODNOMk40VUdKNVkzbHVPR2h2YTFaMk5rRRAB",
+            "text": "It was a group of five work colleagues. Sound level was good and the round table allowed us to talk with each other. Apps were great as were the entrees. The salmon was the best I’d had in a while. The side portions were surprisingly small. We got two and it was not enough for five people. Note that each dish did come with some elements on the plate. Desserts were good too. Drinks were well made, creative but not too fussy. We were very well attended by the staff throughout the meal. The bathroom was a bit of a hike to get to."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5QlVVUXRSR3RLV1hvM1oxZHFVMko2U1ZsaVYxRRAB",
+            "text": "Temple Court at The Beekman is a true New York dining treasure. We started with the Mushroom à la Grecque and Burrata, both beautifully balanced and flavorful. For mains, the Roasted Salmon was crisp and delicate, while the Braised Lamb Shoulder was rich, tender, and deeply satisfying—both paired wonderfully with a Michele Perillo Taurasi 2010. Dessert was a perfect duet of Panna Cotta and Almond Financier, elevated further by a glass of H&H 15 Year Old Madeira. Attentive service and the stunning Beekman setting made the evening unforgettable."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pRdGIzRjBhWGxKYVdSb2VHWlVNRFJUY0dRMGJuYxAB",
+            "text": "Only came for drinks; amazing!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aS1VUTnlObUpVVEU5NmRuVldORzQxVVZGSFNsRRAB",
+            "text": "Excellent experience in an elegant spot.\nVery good food and awesome service (Thanks to Dimitri for taking good care of us).\nPerfect spot for dates, anniversaries or just good vibes\nMuch love from Italy ❤️"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSUVEySXRhSE01VW1JelYzRnFjemx4U2xGWWRrRRAB",
+            "text": "This place is exquisite, from the food to the service everything is out of this world and Johnathan one of the bartender is super nice and makes amazing cocktails. Definitely coming back"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psS2IySTJkMjVRZEdSS1NYTjJiV3BaY2xoaFJYYxAB",
+            "text": "We had our one year anniversary here, we had a great time!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pnM04wSnBVM2hZVUZZeldqSjJkbkowV21WNldFRRAB",
+            "text": "I’ve dined at the Tapestry Room inside the Bleecker Hotel a few times, and it continues to impress me overall.\n\nOn past visits, I’ve really enjoyed the prime grilled hanger steak—tender, flavorful, and beautifully prepared. I’ve also ordered the roasted red pepper dip (a small plate), which was delicious and perfect to start with, and paired it all with a bottle of Tasne Riocour champagne. For dessert, I highly recommend the almond financier, which is just right.\n\nOn my most recent visit, I didn’t have a reservation but was seated in less than 10 minutes, which I appreciated. This time, I tried the ravioli, which wasn’t quite to my taste. I mentiomed it casually to my server Laura, who was attentive and gracious. She passed along my feedback to the manager, Ryan, who personally came by to apologize. That thoughtful gesture showed real hospitality. To my surprise, they offered dessert on the house, which made the evening feel special. I stayed for a few more glasses of Cava, and Jesus, another server, also checked in kindly and made sure I had everything I needed throughout dinner. I also had a visit from a representative from the wine team who explained different options to me.\n\nThe drink menu is extensive and excellent, my dessert was wonderful, and the ambience is one of my favorite parts of this restaurant—the dim lights, the music, the chic yet cozy vibe, and the architectural details create a warm, sophisticated setting.\n\nEven though not every dish hits for me, the outstanding service from Ryan, Laura, and Jesus more than makes up for it. Their care and professionalism are the reason I’ll keep coming back."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSdWNWQlVhVmxPTUdadUxXVmpjMHByZFZKZk9GRRAB",
+            "text": "Felt rushed."
+        },
+        {
+            "date": "2달 전",
+            "language": "zh",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210dlNrSmFWSFp3Y25WRGRXWjJZM2xOT0dkWFdtYxAB",
+            "text": "好吃的 菜的做法很有趣 整体都很好"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205VGFTMU9WelJsTlV0bGQwSkhXVVI2Y2pCeFEzYxAB",
+            "text": "great food but questionable customer service\nMy friends and I grabbed dinner after visiting NYC for a day. After dinner, we went up to the hotel floor to take some pictures as many others did. My friend brought her camera so naturally she tried to use it. A male waiter came up to us and straight up asked \"do you have a permit?\" We were very confused since we didn't know what the heck he's talking about. He went on to say that professional photography is not allowed there without a permit. I tried to explain that we were just taking pictures for recreational purpose, but the guy seemed very offended and said \"I am being polite not for you to talk back at me.\" Like why so passive aggressive and just assumed that we were intentionally taking advantage of the restaurant/hotel? Can't you just explain and ask for understanding? I understand that the restaurant might be frustrated by some people actually taking advantage, but customers shouldn't be assumed bad intention and be greeted by aggression at the get go."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGRlJtNXpWMUYzTWtKWU1qUmtVMlF5ZUhOVVUxRRAB",
+            "text": "We were here for the Beekman hotel, but we were surprised that the food were excellent here.   It was the restaurant week, and we got to sample the varieties from cold dishes to desserts.   In general, the food was well prepared, especially the roasted Cod and grilled Hanger steak.  Very disappointed at the tuna Crudo due to fish quality, hrs to chew!   The service was a little untrained in the restaurant area, but they were very nice people.   The broken couch and sagging seating made me downgrade the atmosphere.   The place was beautiful by default!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kdWQxOXJabEU1WDFadmEydG9RbEo2ZEhKQk9GRRAB",
+            "text": "The service and food were great. This was actually the best lamb I’ve had. The restaurant is a bit on the pricier side unless you go during NYC restaurant week. Also, recommend making a reservation!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaM1VHUnJjR1ZJUVd0Vk9XUTVkbmhQWDNZdGJHYxAB",
+            "text": "Nice"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214a1IwaENUWGhJZFd0bk1tMWtTbWxHU2t4cmJuYxAB",
+            "text": "Three course meal, party of 5. Late to seat us and we arrived early as requested. Waitress rarely checked on us. Bench seat looked like it was poached from a college frat house. Cod was undercooked and RAW inside, my guest couldn’t finish it. The chicken was dry, the salmon was underwhelming. The restaurant comped our sodas and gave us a desert we didn’t ask for, when at minimum they should’ve comped the one meal, especially since it was not edible. Two teen boys with iron guts and no ingredient sensitivities developed stomach issues right after the desert. Guest services never responded to my email detailing our experience. All around the food and deserts were very pedestrian and unimaginative. Im not hard to please but our dining experience was a huge letdown from start to finish. The best part of the meal, no exaggeration, were the dinner rolls. The only thing I’d recommend about temple court is to not go there."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taMlgzUTJjRVJ1TWpaV1NWYzBabEZDV21Sb1lVRRAB",
+            "text": "Visiting Temple Court is a family tradition, especially during Restaurant Week. This time I went alone, and I'm happy I did so because the experience was unlike any other in the worst way. I arrived at 1:30 PM, plenty of time to spare before the dinning area gets swapped out for dinner. And yet, I had to constantly ask for silverware with my courses. The dishes themselves felt exhausted, as the staff. The worst part was dessert. Not only did the Tres Leches Cake come with a sauce that resembled cat vomit (as a proud cat lady I'm an expert), the plate itself was covered in smudges. I couldn't get out fast enough. Whatever changes Temple Court is going through, are not changes for the better."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNMFYwbFNVVE0xV1d0WlZsZzNjazkyTkU4M1VYYxAB",
+            "text": "Stunning decor and really tender fish dishes!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKU04yWTVhV0ZuTWxSdVQwZDJVREJXTUZOQlFVRRAB",
+            "text": "Really great ambience for Sunday brunch. Some families or couples. Tranquil setting with live music. Cool decor. The food was great. Not a very large menu selection."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1d2NHVjViVkl5T0Zab00xRk5TREJNVUdWSVlYYxAB",
+            "text": "Good fine dining experience."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOTlZFdG1lWHA1TUc1WVJXOTZlRjlOWlZka1gyYxAB",
+            "text": "If you want a great beautiful setting, very NY, this is a good option downtown. Service is great but the food options are limited and the food is not what you'd expect, I would not recommend eating there. Just do drinks."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KcE1qWk5jVFZ2YldGbFlXa3RjMkZ6Y25Wc1RWRRAB",
+            "text": "It was an incredible experience,  everything was in place with decor, service 💯 exelent. Best Coffee everything, Great atmosphere,  Jhonattan was our bartender he made us feel so comfortable."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pjM2JtTTBMVE13YzBZd04yVnVjR294UW1NdGJrRRAB",
+            "text": "We stayed in the hotel and had only breakfast. This restaurant gets five star just for being beautiful. The building is absolutely gorgeous."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214RFEzQkVTSGxvYkc5bFUwaGhORGN0UXpoMVUzYxAB",
+            "text": "Wonderful experience staying at The Beekman and eating at this restaurant multiple times. My father and I thoroughly enjoyed the hospitality. Food was great."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKck5XSjBWbTVHVm1zMmRrRkhTVGhZTTB4TlJXYxAB",
+            "text": "The place is really beautiful and the food is average. But, for real, the servers are the worst I've seen in a while.\n\nFirst, the food came and we were without napkins and knives/forks.\n\nThen we asked for a bottle of champagne, and we had to ask for all the refills for 20 minutes, because they did not leave the bottle on our table.\n\nFor a check of more than $250 for two (without tip), that's not tolerable."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWQlRWQmlWalJ2ZUVoUmNsQk9NVU5JYlZOeWVtYxAB",
+            "text": "Soooooo, let me begin by saying I'm a \"Foody\" \"Foody\" anyone whose read my stuff knows... Soooooo, let's start I wander in here for lunch after a rough day about 1:20pm or so. It was dark as ever on a beautiful day that fine! 👍 But, I sat down and ALMOST FELL the chairs in there are so WORN the furniture police needs to come immediately the chairs don't place you at the height of your food IF YOUR NOT AT THE BAR OR THE CURVED BOOTH TYPE SEATING. The FOOD WAS HORRIBLE I ordered the salmon my 7 year olds portion of salmon is larger then that the broccoli was literally raw & oily like THEY WANTED TO SEEM LIKE THE COOKED IT. There is NO BREAD, BRUSCHETTA, OLIVES, freak it cheese SOMETHING in this economy you need to pamper your customers I had to PAY for chips ALL OVER PARIS, MAINE, JERSEY they throw chips & pre dinner apps like mentioned above on ur table NOT HERE! The staff is NICE!  BUT, UNFORTUNATELY your not there to purchase OR EAT THE STAFF! SO NICE STAFF IS NICE BUT IM HERE CAUSE I. HUNGRY I REALLY ONLY CARE ABOUT THE CHEF. In this instance he FAILED SALMON OVER COOKED WHEN I ASKED FOR MEDUIM WELL  no salt & pepper on table since COVID everywhere pretty much but ask your guest would you like salt & pepper on your table. It's easy if yes bring it if no then fine . There were no specials my table rocked from side to side. My Martine was the size of a 25 cent juice. The menu is SUPER LIMITED 1/2 DOZEN OYSTER $23 then they walk by and ask are you ok NO!! But I came here ordered a drink & app I'm uncomfortably in NEVER AGAIN!!! UNDERSTAND!!! NEVER!!! SO, WHOMEVER IS READY THIS I LIKE YOU I LOVE YOU!! DONT DO IT & I WANT YIU TO HAVE A GOOD TIME IT'S JUST NOT HERE.... PROMISE UNLESS YOU LIVE AROUND THE CORNER FROM THERE TGEN I GET IT!\n\nBAD PLACE!!!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsb2VqZFdXVzVNVWs1RU5tTk1PVlpJVHpWTE9YYxAB",
+            "text": "Always stunning, always classy"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paQldUZGlZVWR5VjNOU2RFUjNkbkV4ZW5kaWVWRRAB",
+            "text": "Fantastic place for breakfast.  The room is really cool, great food and service"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4SU9XSk5kMnMyU1c5UVpIYzRZME0yVlROSlZXYxAB",
+            "text": "Great food in a beautiful building but portions are a bit on the smaller side. Weekend jazz brunch is a favorite NYC activity."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNTFlsb0hYbV9HV2lnRRAB",
+            "text": "The best bartenders in the world!!! The best food.  Stunning atmosphere.  Beyond!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VOMnRfLVdjOE5PZENREAE",
+            "text": "The Food was the worst I ate in NYC!\nAll the dishes were bad.\nOnly atmosphere\nThat’s it."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKV0ozYW5QalBTZUVnEAE",
+            "text": "I had breakfast here, and it was amazing! The food was delicious, and the ambiance is just lovely. It's such a great spot for drinks or dinner—highly recommend it!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQejFtWlhlazRYZmp3RRAB",
+            "text": "Every bite lives up to the hype. Atmosphere, food, and service is exceptional"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VLQzVzY2JleHVtMFpnEAE",
+            "text": "Beautiful ambiance and stunning architecture throughout the restaurant! Service was quick and friendly. We ordered the sea bass, steak, lamb shank, and octopus. The bass and steak were delicious (a bit on the smaller side, but expected). The octopus was a little tough and the lamb shank was extremely salty - a real letdown considering the price. Overall, still a solid spot for a special occasion, would just order differently next time!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKWFNydW5wbDlLNkZBEAE",
+            "text": "Special experience on a special day"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPNG9UU05nEAE",
+            "text": "비크만 호텔에 있는 바. 앉아서 올려다보면 호텔 가운데 뚫린 통로가 보여 인테리어가 정말 독특했던 기억이에요. 가격은 조금 있지만 직원분들도 친절하고 분위기가 정말 좋았습니다."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3c09ManV3RRAB",
+            "text": "Absolutely beautiful atrium. The food was just averaged and takes a long time to come (we had the Beekman breakfast there), but remember you are not going there for the food. You are paying for the amazing atmosphere. It would probably be a nicer place to go get a drink in the evening and chill out rather than a breakfast place."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3bHJtX1JREAE",
+            "text": "Our last dinner after 4 weeks in the US in June 2023, and we couldn’t have picked a better venue. We still regularly bring up the wagyu dish, desserts, and the atmosphere. The couple sitting next to us -both well into their 90’s- celebrating their 2nd anniversary, made it an unforgettable evening!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBMGVQTW9nRRAB",
+            "text": "My waiter Jeff was excellent and really made the experience for me. He answered my questions thoughtfully and made perfection recommendations. They bring you out a little taste of soup to start and a roll with butter. The roll was salted on top, I thought it was a nice touch. I started out with the Chestnut Angolotti with truffle. It was amazing. For dinner, I had the halibut. It was cooked to perfection, soft, and melted like butter in your mouth. I also like that they have Saratoga still and sparkling water, this is one of my favorite waters. I highly recommend this restaurant and will definitely be back. It is definitely one of my new favorites."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURieks3S2tnRRAB",
+            "text": "Came for restaurant week dinner and was the best choice ever! the dining room is tucked inside the beautiful bar area connected to Beeckman hotel. Sets the tone for a celebratory night, stained glass walls, high ceiling, candles, comfy sofas… course started with gazpacho followed by an appetizer, main was pork chop with cabbage and fig compote, topped it off with a pistachio chocolate tart and peanut butter cake. everything was perfect! The staff were very attentive and kind.  highly recommend!!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnaVBuNWxRRRAB",
+            "text": "Had an amazing meal at Temple Court! The place has a royal vibe, and Gabriel made the experience even better with his great service. The burger was seriously delicious—juicy, flavorful, and super filling. On the pricier side but worth it. Definitely a spot worth checking out!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQd2Fxay1RRRAB",
+            "text": "The breakfast food is excellent. (We only ate breakfast, as we were staying in the adjacent hotel.) Everything else is, well sufficient. It’s the kind of restaurant where the servers won’t notice you unless you hail them as you would a taxi cab. Even then, the servers might not stop at your table, for they’re too busy with other matters. Had the service (and price $$) met the quality and taste of the food, this place would receive five stars."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfb29LSkdREAE",
+            "text": "Amazing people with amazing smiles. The ladies who assisted us with the drinks and dessert are the BEST!!\nAmazing food\nThank you for the amazing experience!\n(Especially loved the tea cream brûlée and wagyu with truffle!!)"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6MHB1UElREAE",
+            "text": "Food taste AND presentation were so good! What made it even better was the entertainment! Brunch was so fun!!\n\nCatching up with friends, eating delicious food, having some laughs (and singing along) while seated at the Atrium is something I would want to do all over again!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBNmF1V2F3EAE",
+            "text": "Fancy restaurants with dishes that look like art pieces! The highlight was the scollops, their wagyu steak and their salmon sashimi. Their cocktails were also delicious. If you have space after your meal, I would recommend going over to their bar/lounge for a few cocktails. The decor inside gave vintage/old money luxury vibes."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNOMmJqQklBEAE",
+            "text": "A very unique place, first you visit their lounge filled with great vibe, good music and decorated place. Then getting into the fine dining restaurant amazing decor, lighting and table set.\nThe food was very delicious, flavorful, the fish was absolutely amazing.\nService was polite, and personal."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURiajgzS1JREAE",
+            "text": "Best thing about this place is definitely the ambiance. Would come back just cause everything looks amazing! The ricotta agnolottis were stunning, the salmon was just ok and the duck was very good. Chocolate pistachio tart for dessert killed, but the pavlova didn’t. Overall very pleasant dining experience, great wine and cocktail selection too. Shout out to the amazing servers!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUaGFQZjZ3RRAB",
+            "text": "I spent FAR too much time researching fine dining options for our wedding anniversary. We really love to do tasting menus, but between the investment and the decor/vibe, I just couldn't find the perfect restaurant to go this year. I finally found Temple Court when I searched something like, \"most romantic fine dining NYC.\" And look at that, loved seeing that Temple Court was not only much more my vibe, but they had a menu that looked worth the cost and that the founder was the founder of Gramercy Tavern (which we love), Craft, etc.\n\nCan I tell you what a perfect anniversary date Temple Court created for us? This restaurant is SO our vibe! I adore the old world, romantic feel of it so it was perfect for our wedding anniversary dinner. Manny (Emanuel (sp?)) was a lovely, attentive, kind server. And the table they gave us was perfect with an L-shaped (velvet, if memory serves) bench so we could sit closer than across the table from each other.\n\nWe loved everything we ate or drank (and we tried everything of each others'):\n\nCOCKTAILS:\nI had JESSICA PRESSLER (Select Aperitivo, subbed apricot Liqueur instead of fruit punch liqueur, Vanilla, Lemon, Sparkling Wine) and my husband had PABLO NERUDA (Cimarron Blanco Tequila, Catedreal de mi Padre Espadin Mezcal, Dolin Dry Vermouth, Pomegranate, Habanero, Lime)\n\n1st COURSE: I had CHILLED MAINE LOBSTER - Asparagus, Black Truffle Vinaigrette & Crispy Soft-Boiled Egg), husband had GRILLED QUAIL - Porcini, Asparagus & Black Garlic. They were very different from each other -- the lobster very bright and summery, Quail the opposite. I loved both, but the quail wins if I had to pick. Chef's kiss.\n\nENTREE:\nI had: ROASTED ROHAN DUCK BREAST - Confit Leg, Rhubarb, Ramps & Sea Island Red Peas (paired with LANGHE NEBBIOLO, Broccardo, Il GioPi, 2020, Piedmont, Italy) -- the very first taste I got a bit too much rhubarb/sweet and thought, \"Oh no, what have I done,\" but was so relieved and delighted when I continued eating and got the bean mixture with the rhubarb and then it was perfectly balanced and delicious. There was a bit more fat on the duck than I'd prefer, but that's what you get with duck and it was really, really good.\n\nHusband had: STUFFED RABBIT LOIN - Asparagus, Sugar Snap Peas & Farro Verde (paired with PINOT NOIR, Holloran, 2022, Willamette Valley, OR). He also added the sauteed greens w/ garlic & lemon. I liked the duck a lot better than the rabbit, but my husband was very happy with his. He called his \"subtle\" in a way he liked.\n\nDESSERT:\nI had the LEMON MERINGUE PIE - Meyer Lemon Curd & Mandarin Mint Sorbet & my husband got PINEAPPLE UPSIDE DOWN CAKE - Pineapple Ginger Caramel & French Vanilla Ice Cream (I liked mine better) -- we had a macchiato with dessert, also delicious.\n\nThey wished us a happy anniversary multiple times and when we first arrived brought a Happy Anniversary card out signed by the whole staff.\n\nI thought the bathrooms were pretty, although the latch on one of the stalls was broken and another almost wouldn't work.\n\nIf you go, be sure to walk through the bar and look up through the atrium/multiple floors of hotel rooms.\n\nWe enjoyed walking through the hotel lobby (love the velvet armchairs) and seeing the model of the hotel.\n\nIf you're interested, ask the host/ess to give you a pamphlet that tells the history of the Beekman Hotel. Reading this, we learned that it has a cool literary and theater history -- Edgar Allan Poe lived at the Beekman Hotel and this building used to also house a theater in which Hamlet got its first NYC production. No wonder this felt like a fortuitous fit for us, given our family of writers, actors, creative types.\n\nWe're Temple Court's newest fans!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBbHVhd2p3RRAB",
+            "text": "I stayed at this hotel last week and dined at their restaurant last Friday. While the food and cocktails seemed decent at the time, two days later, 12 people from our group experienced severe vomiting and diarrhea. Shortly after, the organizer of our retreat was contacted by the New York City Department of Health, as it appears many other people also fell ill after eating at the restaurant. This raises serious concerns about food safety and hygiene practices at this establishment. While the hotel itself was fine, I would strongly advise caution when dining here. I hope the management takes immediate steps to address this issue and prevent it from happening again."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1azYyV3FRRRAB",
+            "text": "Highly recommended. As a fan of Tom Colicchio, as expected, the food and flavors are fantastic and memorable! Bonus: visit during restaurant week with a broad menu to satisfy all cravings. As the first to be seated for dinner, we enjoyed professional and attentive service. The ambiance and dining room is unique, upscale and spacious. I enjoyed the octopus, pork chop w peaches and the lemon tart. Oh and the bread roll was very tasty too. Such an enjoyable experience. Make a reservation and enjoy!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURibGZPZ1dREAE",
+            "text": "Resturant week dinner in a raining Tuesday night. The whole dining experience is very unique. Excellent dishes and service attentive. I think I’m gonna get the chef’s new book coming up, recommend to everyone."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoa2N2d2xnRRAB",
+            "text": "We got an early reservation Friday evening. By 7ish, the dining room and the bar area were packed. Service is top notch. Plenty of help to provide service as anticipated and needed. The entrees are pretty good. Appetizers though pricey are fantastic. Good portion size to share and delicious in taste. Usually restaurants will serve the usual common place desserts that are too sweet or meh. Not here. Save room for the dessert. The ginger ice cream was my favorite."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDMEotUnlBRRAB",
+            "text": "Right now, the rooftop of the Beekman hotel makes for a beautiful venue above the NY downtown streets. Service is excellent, and the menu is divine.  Can't wait until we come back for more!\n\nUpdate: returned a couple of years later and ate inside Temple Court. It is a top notch establishment, where the staff anticipate your needs and are attentive. We enjoyed the caviar and steak and fish. Desserts were also delicious!"
+        },
+        {
+            "date": "9달 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfcE5XQ1h3EAE",
+            "text": "位於湯普森飯店一樓，氛圍非常好，飯店早餐也是在這個餐廳，選擇還蠻多的但都蠻基礎的，口味不錯。"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR0d2Y2ZEhREAE",
+            "text": "In the Beekman Hotel next to the hotel bar, which includes a fantastic mezzanine. The staff were attentive to every detail (ensuring the table was stable, replacing a blunt knife, topping up my wine glass). The chef's name is on the menu, and deservedly so. The staff are well turned out and not too stand-offish. One gave me a double thumbs up when asking if the meal was ok. This is a restaurant to celebrate a special event, a treat. I felt looked after during my meal here.\n\nAs with most US restaurants, there was no obvious place to hang your coat. Most guests draped them on the back of their chair or laid them on the bench beside them."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJNi1uZWRREAE",
+            "text": "Great service and the atmosphere is so enjoyable. We loved our afternoon snacking experience."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWNTlHTjBnRRAB",
+            "text": "Wonderful food, gorgeous location worth lingering in with good company. Lovely jazz brunch on Sunday (occasion visited)\n\nService staff seemed to be a bit over stretched for the number of guests in the main and adjacent  rooms. My strong sense is that outside of Sunday brunch, a typically busy and chaotic meal period, is that the service would be much better.\n\nAll in the historic Beakman Hotel which is worth a gander."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPbV9hYzV3RRAB",
+            "text": "Delicious food in a beautiful and stylish place. The breakfast is so yummy, I recommend ordering a house made pastry, the croissant is so buttery and comes with butter and marmalade.\nAt night the bar has great cocktail options.\nI was tempted to remove 1 star because the service is slow, we had to chase the servers to take our order or give us the check, but the food makes up for that.\nRecommended!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNWOUlQeVJnEAE",
+            "text": "I've been here for dinner a few times before. But this visit was unplanned. I was showing the area to a friend visiting from Rome. We happened to pass by the place on our way to the Brooklyn Bridge. I decided to stop by for a cappuccino.\n\nOur visit was outstanding, marked by a delightful atmosphere, impeccable service, and a delicious cappuccino. Securing a table on a calm Tuesday brunch time was effortless, and we received a warm welcome from Andrea, our friendly host. I highly appreciate the warm hospitality even if we were only having coffee (some places like this require more than just ordering a beverage).\n\nThe interior design is akin to a masterpiece. Eagerly anticipating my next visit... which is in a few days - for dinner with other friends!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURoZ1B2ZUpREAE",
+            "text": "Curated dishes, wonderful atmosphere and attention to detail. This is what our experience was like for dinner at Temple Court. The use of spices and preparation just made each dish special. From the Lobster salad, crab fondue, perfectly roasted chicken, the best roasted cauliflower and carrots to desserts, all are a must! The decor was picture worthy and the seating was very comfortable."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoeWVpZjlnRRAB",
+            "text": "My boyfriend and I came here for Valentine's Day last night. We had a 9PM reservation and they sat us right away. Our seats weren't ideal, they put us extremely close to the table next to us. Every time they needed to get up they would physically have to move our table to get through. We sat side by side in a corner booth and my side of the couch had been worn out so I was extremely low; I folded up my jacket and sat on it to give me a boost. It also happened to be our anniversary so the waiter gave us a card with staff signatures that said Happy Anniversary, very thoughtful. They also gave each table one long stem red rose, which I kept!\n\nDinner began with an amuse-bouche of Oysters; we also got bread/butter and started off with two glasses of Chardonnay. Oysters are not my thing but my bf ate both of them and he said they were great. The menu was pre-fixed so we got to have a 4 course dinner for $175.00. There were 3 choices for the first 3 courses and 2 options for dessert.\n\nFor our first course we started with the Big Eye Tuna Tartare and Ossetra Caviar. The tuna had great flavor, it had apples and a sort of citrus taste. I just wish they served it with rice crackers or something instead of nothing. The caviar was fresh, the presentation was also very nice but I wish they used something other than the potato chips. The chips were very salty and so was the caviar itself, so there was a lot of salty flavor happening.\nFor our second course we both had the chestnut agnolotti with black truffle and Brussel sprouts and WOW. SOOOO GOOD. Wish there was more on the plate so we both could have eaten another round.\n\nFor our main course we had the Wagyu Sirloin and the Diver Scallops. My steak was cooked medium, super soft, and had great flavor. Loved the creamed spinach on the bottom, the sauce and the wood mushrooms on top. The scallops were also very good, especially combined with the cabbage and black truffle vinaigrette.\n\nFor dessert we got the Baked Alaska and the Mille-feuille. The baked Alaska was great; it was chocolate cake with passionfruit caramel & banana ice cream. The mille-feuille had blood orange and vanilla ice cream wasn't my favorite. Over the two the baked Alaska was definitely better.\n\nIn the end, it was a great dinner experience. The atmosphere was very nice, I loved the decor/vibe of the bar/dining area. We didn't really see much of our waiter only in the beginning to take our order and just once/twice to refill our water. Our favorites were the agnolotti, wagyu sirloin, and the scallops. If we ever come back that would be my order!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJdVlxMVlnEAE",
+            "text": "👍👍👍 Totally worth it\n\nFood is great. Service is great. Vibe is great. Everything feels so elegant. It’s obviously a bit pricey, but they make it worthwhile!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnMGNmd19RRRAB",
+            "text": "Food is amazingly delicious, and the staff are very accommodating and attentive. Plus the ambiance you feel the real New York"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLaVB5LS1BRRAB",
+            "text": "I had my birthday dinner here tonight and the staff made everything feel much more special. By graciously offering to take pictures for  us  and letting us take our time and enjoy our night out. The food was spectacular. I would like to mention both choices of scallop tartare and lobster on the pre-fixe was absolutely delightful."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR0OEsyR0hREAE",
+            "text": "Perfect 3-course restaurant week menu - sumptuous selections, well related and presented gourmet dishes, extremely reasonable pricing ($60).\n\nService was impeccable.\n\nAmbience is always impressive - the temple."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDZzlyU3l3RRAB",
+            "text": "My wife and I had an excellent dinner on the rooftop here. The setting is beautiful, our wait staff was helpful and attentive. The offering on the roof is a three course prefix menu. My wife is a vegetarian and the more then happy to…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKcTlTMnJRRRAB",
+            "text": "We stopped by for a few cocktails. We didn't book a table in advance, so we set in the bar.\n\nI can't say anything about the food, since we didn't really try anything, we just ordered tartare and onion dip. Tartar was gorgeous. I highly recommend it.\n\nAs for cocktails:  6pm in Osaka it’s the main highlight of the night. Penicillin and Beckman Vesper were also very good. Все что мы пробовали, было на очень высоком уровне.\n\nWell, it is impossible not to say about the chic interior of the restaurant and hotel.\nThe ambience and the architecture are unique! The building wasn't one of the landmarks of 19th-century Manhattan for nothing.\n\nDefinitely will be back to try their food."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCbWRPYmdnRRAB",
+            "text": "I was looking forward to experiencing Temple Court for quiet some time but was very disappointed. This restaurant and food is overrated. Ambiance was fantastic. Very Chic!! The bar area much nicer than the dining area. However, the food was below mediocre. Our table ordered duck, salmon, cod, scallops.  Fish was very dry. No flavor in itself. Roasted cauliflower was good but sautéed greens and potatoes were way below average. I wouldn’t have it even if it was free. The wait staff kept on mixing tap water in our sparkling !!! They kept on forgetting the order. We had to remind them on multiple missing items. They brought out dessert with no coffee until we reminded them again. The dessert however did taste good. We ordered pineapple upside down cake, sorbet and chocolate caramel tart.  I would recommend those. Overall. Skip this place.  Not worth it."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVOWJxanV3RRAB",
+            "text": "We were there for our anniversary and I want to thank the staff for making it special. We got a special menu that was signed by Tom and the staff! The food was also amazing. The octopus was cooked perfectly, the steak was unbelievable, the scallops were cooked evenly, and the pork belly melted in my mouth. The food was well seasoned but not over seasoned. It was a memorable experience overall. The watermelon sorbet with jalapeno peppers and sea salt doesn't sound like it should work and it was interesting. It was my fav but it was still an explosion in my mouth. Please try the food here for a culinary adventure. Also don't forget to check out the atrium. It's pretty cool."
+        }
+    ],
+    "reviews_count": 84
+}

@@ -1,0 +1,537 @@
+{
+    "name": "Taco Express Mexican Grill",
+    "place_id": "ChIJMQ31OAD1wokR7J9JJd7hdTU",
+    "grid": "BX1",
+    "address": "232 Willis Ave, Bronx, NY 10454, USA",
+    "rating": 4.9,
+    "user_ratings_total": 111,
+    "phone_number": "(347) 431-3645",
+    "reviews": [
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSaWFHaDFabmg0U0VSbFZESlJSMGxrTUdJNWRuYxAB",
+            "text": "Good food. Amazing service. Mr singh is amazing person who served me good food."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tadWJHeEJXR1J2ZW10aGVtSjBPVGRKYlV4cGRuYxAB",
+            "text": "Very kind customer service food looks very appealing and appetizing"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGYU1GQmFOMVpTUVVveGNVaEZWREJOV2pkQmFuYxAB",
+            "text": "The people working behind the counter were incredibly friendly and helpful, this was definitely one of the best steak burrito bowls I've ever had"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKVFVFSXlWekoxUWtndFIyaGFaV2gyUVVwVWNGRRAB",
+            "text": "My taco cam with uncooked fajita veggies inside, since when is that a thing."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poRFREVkVOMUJ0YzJZMVpDMDVkVFZCU1VOS1ZVRRAB",
+            "text": "food was fresh and great quality, Staff was very friendly,  Are was clean and great service,  10/10 def coming back"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZMWVHWXpNVTFKVW1GV2NVMTFjRUZYZWpkYVRWRRAB",
+            "text": "Very good food is excellent"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sTk1EQTRUamxuVmpBeVZXVk9Ra051WmxSZlpGRRAB",
+            "text": "I like everything."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ST2NreG9kRTh4YlVKSVgzQmpOM2RrU2sxVFFXYxAB",
+            "text": "I love this place , great customer service and great food most of all! Will be coming back !🫶🏽🫶🏽 sunny was very helpful and kind to me great employees"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxRFMxY3RZMk4zTkV0WVowNVRZVloyUzE5c01sRRAB",
+            "text": "They’re phenomenal!!!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ob2JIRTJTRTFVWW5wMmRUaEZhVVZ1UzI1VVVsRRAB",
+            "text": "I got a burrito and it was amazing, the staff were super nice and professional"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxcWMzRnFMVFEwUlZNMGVGbG5iSFF3ZVhNMU5uYxAB",
+            "text": "Very good place,very good service Mr Sing and Mr Sunny was very nice coustomer severvice was very kind.The food was very good they gave us samples to try to our liking.best of the best I recommend.service like this you haven't seen in years.🔥🔥🔥"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOWmMxVktTMmczWjA1UGRGaERlSE5QUjJWc1ZWRRAB",
+            "text": "Feels like home"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wdk5HZEdSRUpaVGxOZmEyZDVRVVp0YW1aRmNVRRAB",
+            "text": "Sanu was really welcoming and enhanced whole my experience. The place was clean and had a nice, casual atmosphere. I would definitely recommend it to anyone looking for good tacos at a reasonable price."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25obU1WRldVbUZJV0VSeGVpMXNSVXc0VkMxRFJsRRAB",
+            "text": "Warm atmosphere and rich, satisfying flavors. The attention to detail was evident in every dish. This place is special."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5aWIwNUVaek0xZEhsZkxTMTJjRzVRYWtGMmExRRAB",
+            "text": "The Grilled Chicken Burrito Bowl was absolutely stupendous and delicious from top to bottom. Along with that, the service was smoothly precise and attentive throughout the entire food assembly and ordering process. Finally, the atmosphere and the environment was tremendously clean and welcoming. The neighborhood has something great with this restaurant and it has made such a great first impression on me after one meal. It is absolutely better than Chipotle and probably many other similar restaurant concepts alike. Definitely will be back soon enough. I highly recommend giving this place a chance and more."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tJd1JVbG9jRE01TkZwU2NsWldlVmhEWmpSQmFVRRAB",
+            "text": "Wonderful service!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sbVNqZExhVGxJV0RCbmFEVk1VSEJVVXkxWlIxRRAB",
+            "text": "Good food"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsMVZscHlWa3BOTW5JNFFrSTVhMVU1ZVV4aE1tYxAB",
+            "text": "Nice place"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSalZqRk1OVE0wVWtGV1gwSktTRFo1WjA1bVluYxAB",
+            "text": "Love this place food is the best ! Will keep coming back ! Friendly customer service 🥰\nNice & clean"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wbE5rbFRlRjh3UVdJeWF6VkZkMlJDUWkxRFZYYxAB",
+            "text": "amazing so good yummy 😋 😛😛"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OWFpYaGFZa0ppUkVwMFdYQkdXbkJQTkZsUlpXYxAB",
+            "text": "They are so nice!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210NGRsOVpWRVpQV1VaWFkyRm1jVE5oVnpWM04xRRAB",
+            "text": "Steak was so good"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsaVRtZHNha2MxYkRrelIwZ3pWMGxtYlRWQllsRRAB",
+            "text": "Very friendly and great tasting food."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xodFlrUjBiVGR2ZDNwbmNYaExRbnB3WDJ4YVowRRAB",
+            "text": "Great experience"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201TU0zWktUM0JXUlZaUGVta3dNVzl2U1hsYWVFRRAB",
+            "text": "Great great great service! Delicious food!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2prelNtNUpiVGhOU2paZldFZDRNM0pKUmxwaGJXYxAB",
+            "text": "Amazing service , the food was good"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KMU5EaFJPV3h4ZURFelRHZFNVbVYzZVRsWGRGRRAB",
+            "text": "Love it"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWVVRUaEphMFZ2VDNveFFXOUphV2w2UTJzd01YYxAB",
+            "text": "Friendly staff, love their food really fast"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kcUxXSjBiRTlaZEcxU2RHVk1VV3g0YzFoamJtYxAB",
+            "text": "I loved it here! Their food is so fresh and delicious. Please come and stop by asap!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tRNFJWWXhVWGRvT1c1RWNITnJWbEJ5YUROdGRVRRAB",
+            "text": "Food is always fresh and employees are super kind"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1Uk9FVTRXRFZFT1dKRmVGVjNVMVF6U0hFMGRsRRAB",
+            "text": "Food is delicious"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOSU1IRkVVM3BKUkdGeU1YTnNTVXg1YVVGRlJuYxAB",
+            "text": "Better than chipotle, amazing customer service , friendly , food taste so fresh and amazing love it"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zMFowTnNNalZ0TWxGalRrWkxTalJ4VmxoVVNXYxAB",
+            "text": "For my first time here they were very kind and clean. They made me feel welcomed and the food is delicious"
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKQ2QyWnFZemxIWVdkQmFEVlZSRlZYWjIxemFHYxAB",
+            "text": ". food is rlly good"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4dFJraEpWelJYVlhabk9YVlpkRFpZY2tGcmNFRRAB",
+            "text": "Sunny was very friendly and I really did appreciate the service he gave me"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGV01ETmhiMHhCTkhkdE0yVlhWVU5CU0Vrd1NWRRAB",
+            "text": "Sunny and Singh, were very hospitable. Saw them when they first opened and was curious. When inside and I was very surprised. The food is really good, and decent for the price. They make their own homemade custom sauces. I like to keep it simple. Will be coming back for most of my lunches. Really enjoyed the bowls. They just opened but they deserve a raise. No real place to sit, but still great quality food for a quick bite"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Gb2FUWnJRalYwVFd4ZmJuSnBPRE5xV21GSWJtYxAB",
+            "text": "Sunny was AMAZING! This was my first time here and he made it very special. I will be coming back.\nThe food is also FRESHH and delicious!!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVNFNrbDNlWFJQZERKdlkxUkphME5QYkdJdE1tYxAB",
+            "text": "Very good quality and great customer service"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taRmJsQlVSRzE2TUU4MmVuUlZlVEJ0WTA5ak9XYxAB",
+            "text": "Best thing to opeeen!!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1MlFtdHJNbEJQYzNoeFdYRnZTbkpMVVU5aldrRRAB",
+            "text": "Good Service"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSWFZsZDVObUZmYUZKQlJHeE9UbTgzT1ZNdFpHYxAB",
+            "text": "Great!!!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSaFl6UkRVblJFWTFodlMxQlZiWFJVVDJwWWVWRRAB",
+            "text": "Amazing service!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGbFpEQkxNbEZsVUVRMldqaGhRbXhLUVRKd1MyYxAB",
+            "text": "Delicious food great presentation and wonderful customer service by Sunny and Mr. Singh 😊 🌮🥗"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wbWNWVXhWRWt6VWpKd01IUlZhSGx5YVdSaldIYxAB",
+            "text": "Amazing choices different options great services"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsRkxWRkVSVkV6Y2sxVFl6RnVWelpKV1U5Nk1YYxAB",
+            "text": "Great food. Better than chipotle"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKMWVEVjZlbkpVTkRaU2Jrb3dRVTh6V1hZMlVrRRAB",
+            "text": "The food is really good and so are the employees."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WME5ISTFlWFI0Vm5wYWFFaFNablpIUVhKS05uYxAB",
+            "text": "Good service"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210c2VWSktNV3RMY0c5blVrbGFaWFZ0VkRKbVoyYxAB",
+            "text": "Best hospitality"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kSVZXa3dWM0I2VjE5elVFcDBPSEJ5TkZaU00zYxAB",
+            "text": "Guys ya have to try this place 🤯"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwa2IyRkxWSGxGVDJKYU5UUTFOVWxvWm1sdmVVRRAB",
+            "text": "Better then chipotle"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ZMVFXRTBlVXhNZW1VeGNuVlJYMk4zWVRRM2EzYxAB",
+            "text": "I got the Honey Chipotle chicken burrito bowl and it was so good!!!! The servers were very nice and I received my food fast and fresh. 10/10"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wVmFXNU5ka05FUjJoUGVGQkpOMDg0YVdkR1pGRRAB",
+            "text": "This is a newly opened spot, opened just a few days ago. This is my first time ordering food from here. The place was clean, the service was fast, and the gentlemen at the counter were very nice and professional. Most importantly the food was fresh and delicious, the prices were reasonable, and the servings are generous. I ordered the chicken burrito bowl for $9.99+ tax. Yes, I recommend this spot."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214RFdVTlZaRXBUZWpCbVFWaG1WRzloY1dWNldtYxAB",
+            "text": "Best spot fresh good 200 times better than Chipotle. The service great nice people's and he not stingy gave me Xtra food great people's I differently recommend this spot I'm differently coming back"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210d1VISnhRVnBwTjA4elp6Rm9PVmRyY1hSUExWRRAB",
+            "text": "Mr.sing was very helpful. Food amazing. Team was great 😊"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paclgxRjBVSFJZYURaMmRFRklhM0UyTVMxdldIYxAB",
+            "text": "I would highly recommend this location. It very clean and the workers were friendly and professional. Today was my first time trying Taco Express and I got the loaded fries. I would highly recommend the loaded fries and they a good amount of food for reasonable price. 10/10 would recommend for others to try."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1TFkxRXRYMDh0UVdGR1VFMTBTMlo0TUdzMFMwRRAB",
+            "text": "The workers are sweet and very friendly! they put a lot of love into making sure you are satisfied please come to this one you won’t  regret and will keep coming!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxUFZVOTNXVEJqWWxSSVQzWjVTbG94U21RME9VRRAB",
+            "text": "We had a great experience in this location. Very, very friendly people, super clean and very good taco. I greatly recommend this location of Taco Express Mexican Grill."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxelVsTTNZbVJwYUVOaE5tWnNOSGxDZUVKaFpYYxAB",
+            "text": "Great food I come here every Tuesday maybe even some more days. Sunny is great."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KcmJXeHdWVEJRYzNSSlFuRjZVM1ZZU1MxMFJWRRAB",
+            "text": "I ordered a honey chipotle chicken burrito and it was delicious. A clean establishment and great customer service."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSck9USkxkVTlTVTFKM1VrOVNZbXBTZUdSZlJuYxAB",
+            "text": "All stars for Taco Express Willis Ave Bronx NY. The food was great, the price very very reasonable and the staff extremely friendly. If you ever pass by on Willis Ave get the best taco’s and enjoy!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21rNFEwMXNOREJxVVZGSVgydHJVV0pXYVVKTVpHYxAB",
+            "text": "Excellent service!! They were friendly and patient answering questions with a smile. The food was delicious!! Can’t wait to go back!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0WWFVbHdWakJTZEhkNFZGVjJOWEZOU0c0NGEwRRAB",
+            "text": "A very welcoming staff. The quality of the food is fantastic and filling. You get your money's worth here."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pnelRqVXRhVTlxUzNWcWJUUnBWMHhaTVdsWVdsRRAB",
+            "text": "Better than a Chipotle quesadilla was too good here"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzMmRqRnhNVGgwY2t0aGNYRTVlR2xDTFROWVZWRRAB",
+            "text": "It’s been my great experience"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paaWNISlZTVFl0Y1dZeFgxbFBMVlZGTFdkTVFWRRAB",
+            "text": "Very polite people and very nice food"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214cVUzVk5SWGt6U0hGS2MzQjJNa3gxZUZoVmMyYxAB",
+            "text": "Highly recommend, Shop just recently opened and today I decided to stop by and try it, it’s worth it especially the “Loaded Fries”, really really good🙏"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5RU1YVlFaRzFHVjJwaGNrazVWVEJwYVVkNWVGRRAB",
+            "text": "The service was immaculate and very friendly. The food taste amazing and it was well worth the price."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wM1NXVmxiVWRRYWpaWFJrVjZhRXhKU1daR1QwRRAB",
+            "text": "Great place excellent food comfort customer service fresh veggies I’m coming back every day"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxeVJGRkpRWEJNVVdrMVNVaFRha3RsV0d4YWFsRRAB",
+            "text": "10/10 better than chipotle t"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wTFJXWkdUWFJ6V1VwVmNteHdPR1ZtV1MweE5rRRAB",
+            "text": "Amazing, 10/10 food and they’re so nice and clean and i love it"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210dWNHSmpSMEZNTUcxcFdqZEZYek40TWpsbGFsRRAB",
+            "text": "I was already waiting for this place to open and they did not disappoint. Got a loyal customer already."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2trMVluWjFaRXREUm05eGRVOTJhVkptVm14UmQwRRAB",
+            "text": "Best quick stop for tacos in the bronx"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zNVYydHJObE5NYzNOMFFsa3daMDFNVVVORmFIYxAB",
+            "text": "Amazing customer service !! Mr. Sin & sunny & robin needs a promotion 🤩"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkSWFUVjJkSGQxVVRSUFRrcDRTbmhhWjFoNmVGRRAB",
+            "text": "They’re all amazing at they’re job amazing customer service 10/10"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OalFtcHBkVXhQZW04MlQzUldTMk5oYmpVeFkxRRAB",
+            "text": "Best taco express everrrr!!!! Customer service is also amazing !"
+        }
+    ],
+    "reviews_count": 75
+}

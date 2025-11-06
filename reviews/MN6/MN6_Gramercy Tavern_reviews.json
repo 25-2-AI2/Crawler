@@ -1,0 +1,677 @@
+{
+    "name": "Gramercy Tavern",
+    "place_id": "ChIJvSQIgqFZwokRFYQbJdzceSs",
+    "grid": "MN6",
+    "address": "42 E 20th St, New York, NY 10003, USA",
+    "rating": 4.6,
+    "user_ratings_total": 4654,
+    "phone_number": "(212) 477-0777",
+    "reviews": [
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOUlkyUjBTbVp5YUVReVdXUkpUMmRsVlV0emJuYxAB",
+            "text": "Good decor but the tables are crowded enough to hear what the next one is talking about. Service was slow, food was ok but did not justify the price point."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkVVRHSmxORVI2UW5CWVdIZFVlVVJtT1ZGSmVsRRAB",
+            "text": "This place is INSANELY good! I heard great things about it and my expectations were blown out of the water. The food was amazing, the prices were very reasonable for what we got, and the team there is amazing. Mary Beth was the main one helping us out and she was incredible! One of the best hospitality professionals I have ever interacted with. She made the meal so fun and took such great care of us.\n\nI wish I could more adequately describe how amazing this place is but you need to go there. You won’t regret it!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkM1gyUm9YemxMZDA1Vk9HTkZWVTU2UmpKR1JWRRAB",
+            "text": "What a night! Gramercy Tavern totally crushed it. The set menu in the dining room was next-level delicious. Their Halloween game..omg. The staff went all out with amazing costumes, spooky-fun decor, and even a trick-or-treat spread. The mini cupcakes were perfect! A+ vibes, incredible food, and the kind of service that makes you want to come back again and again. Highly recommend!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoRWJuQmxVVTVFUkZBMVVtRm9hRWcxWlZkck9GRRAB",
+            "text": "Suppose to be dining room for seasonal tasting menu, but was rather noisy. Food and people great."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKZmExcE9WVXhQWlMxUmRWQjBaMGxWTTFjME5VRRAB",
+            "text": "Wonderful experience.  Everything was great"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GZlVrMTJaME55ZG0xSGMxVkdXVFI0YjJWSlNYYxAB",
+            "text": "A top 3 burger in NYC plus tremendous cocktails. We recommend arriving early and sitting at the bar, a classic New York experience that never gets old."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NelZGOTJSMFowYzBSd1VESm5hVnBrWWtkc1FtYxAB",
+            "text": "Two stars because the tomato soup would have been good if it had been hot and not lukewarm; the strazzopreti was irredeemable.\nWe were left alone for 30 minutes outside in the cold waiting for someone to bring the check.\nIt was cold outside; there were no heaters of any kind and just one blanket for our table."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxSFRrb3haVWRFTnpad1VraG1OMlZQUTJwZlRVRRAB",
+            "text": "Gramercy Tavern lives up to its reputation with impeccable service."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOWlpHTlJSVXBTUlVWUlgxYzFhVEV0UzNKUlpVRRAB",
+            "text": "The food is fantastic, the service is on point, and Asher, the manager, truly stands out. If you’re looking to have a great time and enjoy arguably the best burger in the city, this is the place to go."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WT05uSndaRE55UWtKUE5XUllNbVZUWlRReWNtYxAB",
+            "text": "Great meal, the flavors were so delish, wonderful sommelier was on the money.\n\nFall vibes decor"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsbGRXd3lURUl4Y1VoblZ6SnlVa0Y2TkdnNFkzYxAB",
+            "text": "The presentation was top-tier and the flavors had depth you can tell the chefs take pride in their craft. But for the name and reputation, the service didn’t carry the same excellence as the food. A few missed details took away from what could’ve been a flawless experience.\nThe atmosphere was classy and comfortable, the kind that makes you slow down and appreciate the moment. Still, consistency separates good from great.\nLouie K’s Up even fine dining gets held to the standard of truth. 💯🔥"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvNE5rSmhUa3BCTm5seFRISmpWRkpaTTJkbFZIYxAB",
+            "text": "A NYC institution that has earned its Michelin star for many years. Hospitality always on point. Delicious food options regardless of your dietary needs. The burger is worth the hype, all the seasonal veggie dishes are excellent and their pastry team always delivers with many tasty options."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCSlZHOXVlaTFwWVdWRFp6RXhjazVMY1ZreVlVRRAB",
+            "text": "Very expensive for extremely average food and slow service."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sS2JtdzNMVFowT1VwdFUxVnpSRTlNUVdSbk9HYxAB",
+            "text": "I love coming here with friends and co workers. The waiters are nice and get the our order right everytime. They also have no problems suggesting their best dishes, when you are unable to decide yourself.  So helpful"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WdU1XdGZhVEZtTFhWcWVYWTRXVGxzYUdWV2VHYxAB",
+            "text": "I’ve been wanting to try Gramercy Tavern for a while, and it didn’t disappoint. The space is beautiful—big but warm, with a great vibe that makes it feel both lively and welcoming. Service throughout was friendly, personable, and exactly what you’d expect from a restaurant of this caliber. I went with the tasting menu, which was excellent and very seasonal. Each course came with two options, and there were some tough choices to make. The meal started strong with an amuse-bouche of oysters that were outstanding and set high expectations for the rest of the night. The beets I had as a starter were delicious and perfectly in season, and the hay-smoked gnocchi was another standout—rich, earthy, and full of flavor. The lamb was also excellent, though my portion had a bit more bone than I would’ve liked. Dessert brought things full circle with a hazelnut tart in a Concord grape sauce that was both seasonal and beautifully balanced. Overall, an outstanding dinner and a place I’d happily return to!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCeldEWmpUa1pVVXpscVpFZHZibWxTUWpOd1MwRRAB",
+            "text": "One of the best burgers in NYC - velvety and perfectly cooked and seasoned. Chips and pickles are not a great match though - deserved proper fries and some good veggies. The smoked onion dip is very good.\n\nWe loved the service too - hitting the right balance between being attentive while not feeling intrusive. Made the celebration of our anniversary feel really special."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZdFkxaG1hVmhxVDFwSFJGUnRMVWw1ZEZkME9WRRAB",
+            "text": "Had a wonderful lunch at the Tavern at Gramercy Tavern. The atmosphere is warm, lively, and perfectly balanced between casual and elegant — exactly what you’d hope for in a New York classic. Every dish felt thoughtful and seasonal, with flavors that were both comforting and refined. The service was friendly and attentive without being overbearing. It’s the kind of place that makes you appreciate how good dining in the city can be — relaxed, polished, and genuinely welcoming. Highly recommend."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGT09YUlZRamxyVkVwV1puQmtjVVpTYTFWdVMyYxAB",
+            "text": "Went to the Gramercy Tavern on 10/20 for the tasting menu to celebrate my wife's birthday. We sat down and were greeted by a birthday card. Then a complimentary glass of champagne. We then discussed wine with the Sommelier Alvaro Mondaca. He was very knowledgeable  and gracious. The tasting menu was delicious and each course was interesting with complex blends of flavors.\nThe service was outstanding and on point. During our meal we recalled a meal we had a long time ago and couldn't remember what wine we had. We asked Alvaro by describing the food and where the wine might have come from. He returned a couple of minutes later with the right answer! He was brilliant and to top it off as we completed our meal he presented us with a small tasting of the wine!! Very classy. All in all Gramercy Tavern and the food and service made for a great birthday celebration! Thank you all."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sVVltTTNWR0ZrU25KTk0ybzFkekZ1U2pWbFdIYxAB",
+            "text": "We recently ate in the tavern area of the Gramercy Tavern for a birthday/anniversary trip to New York, and I couldn't recommend it more! Don't debate it - just make a reservation and treat yourself to a fabulous experience!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pabGJXNTNXRGhKVkhKUkxXeEpPRE0yZG5SSVoxRRAB",
+            "text": "We went for our anniversary dinner. Every single person working there was so nice, so friendly, so professional. The food was as good as it gets. The energy in the room was buzzing. We couldn't have had a better experience and we will be back next year for our anniversary!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xVGMzTkVTVFZ1TjJsNFVrSnJSRGhOWXkxdmMzYxAB",
+            "text": "Delicious food and good conversations!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GNU1GaEpjMXBvUkRsRk4xQnVlWGQ2VVhweVMwRRAB",
+            "text": "Great atmosphere, get the tavern burger!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21vMWJHaGlkelp6VUZGNlJ6SjRZVTV6YjBaU09WRRAB",
+            "text": "⭐️⭐️⭐️⭐️⭐️\nBy far the best restaurant in New York! The food, atmosphere, and staff — especially Emery — deserve only two words: pure perfection! The sommelier was not only incredibly knowledgeable but also hilarious, adding even more to the amazing dining experience. Can’t wait to come back!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psYWRqWkpObU5rTmtSWVNtVmlhRWxOYlZSTU9IYxAB",
+            "text": "What more can be said of this place, just go. Concord grape sundae was incredible."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214UGNVZG9TVWhpYkhjMFpHcDRSamhJYzNKbU5FRRAB",
+            "text": "Good food, great atmosphere and great staff.  Will be returning."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSdWJIQkxNR2haV0VkV1lqWklRME5GUTJWQ00xRRAB",
+            "text": "One of my favorite places in the city 🥹"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21adWJUQlRibGsyVVcweGJHZzVhSFpRWkVsclVuYxAB",
+            "text": "A classic institution that lives up to the hype."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OMWNUVjNSREJEY3pSZmRWTkRabXg2TW1WTlRFRRAB",
+            "text": "We are always impressed with the quality, the service and the atmosphere here. We chose to have our anniversary celebration  in the back room and it was lovely."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SYWJVSm5OVTltWlVOTU5uSlVVRTVuU1ROTFpFRRAB",
+            "text": "Gramercy Tavern remains one of New York City’s most beloved dining institutions, combining timeless elegance with genuine warmth. The menu celebrates seasonal American cuisine, offering beautifully balanced dishes that highlight peak ingredients and impeccable technique."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FM1IxWm1TR2htT0d0a00wUjNjMkZGVERWeU5FRRAB",
+            "text": "They have the best food around"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oZk4zZE9Zemt6TTFsTmExVnFTWE5sVVdGM1dXYxAB",
+            "text": "Amazing place. Great ambience and excellent food for a fair price. Burger is the best, nothing fancy, just a simple burger done really well, with a great meat. Staff is very friendly. Highly recommend it for special occasions."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21NNWVFaHROSEEyWTB0YWIzRjNUWEozVVRkYWRsRRAB",
+            "text": "Excellent"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGTFVHZERUWGhEZG5aNVFUUlFiM3B1YWxaaVpVRRAB",
+            "text": "5/5 on the service, atmosphere, vibe. Nice spot, busy location!\n\nI really wanted to LOVE the food - but it was average at the tavern on a Thursday afternoon in October.\n\nThe focaccia with summer squash was beautiful to look at, flavor was average - lacked salt. Flavor was bland.\n\nWe ordered the oysters - good flavor profile, but lacking salt + acid.\n\nI tried the infamous burger - it was lacking on \"char\" (the maillard effect) and salt. It was a good, average burger. The chips that came with it were tasty.\n\nMy partner got the Brick Pressed Chicken and it was not crispy, the flavors were mediocre."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kdVRVTmFjWG95Y1ZGYWFGUkVVVTV2YjBkRWNGRRAB",
+            "text": "One of the best dining experiences we’ve had! Matthew (I think - so sorry if I’m mis-remembering their name) was truly the best server we’ve had and made this such a lovely night!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOTFFrRllNbkJJWm5sQ2RUbE5Wa1ZWWVdORE1GRRAB",
+            "text": "@thecurvybarbii"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWUlYwOUJSbkJ3WjFjd1dubzFWVkU1WVVsbWNtYxAB",
+            "text": "Fantastic wine and spectacular dishes"
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNem90X202dGNtbWFnEAE",
+            "text": "Gramercy Tavern is one of the truly great New York restaurants and an absolute must-experience for any New Yorker or visitor. It’s been around forever and the food, service and atmosphere has always been impeccable. Go with the seasonally changing prix fixe, it’s always amazing. The bar is also great and the burger is famous!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwUFRVc3hRVEpEWmxSUk9IWkdXbUpCU2xsRlJGRRAB",
+            "text": "Very good burger"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5NE1GbDVPR1ZKUW1SWVlXcFRNRkpXTjFsMmVVRRAB",
+            "text": "The aesthetic of the restaurant was in full fall bloom providing a lovely environment. Our servers were attentive and wonderful. The food was delicious! My friends and I will be returning in the near future. Huge shout out to Sous Chef Sami!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFMlNGcGhjbFJKYkV4dmVUUjNUUzFLVjNOTVZHYxAB",
+            "text": "We had dinner at Gramercy Tavern tonight, and it was a wonderful experience from start to finish. The atmosphere felt warm, cozy, and perfectly balanced between casual and elegant. Their wine list is outstanding—one of the most diverse and carefully curated we’ve seen in a while. We ordered a Barolo, and it completely blew us away with its depth and richness. The food was equally fantastic: I had the meatballs, and my wife had the chicken—both dishes were perfectly cooked and full of flavor. Everything tasted fresh, seasonal, and thoughtfully prepared. The service was professional yet friendly, adding to the relaxed, authentic vibe of the place. The interior design felt timeless and intimate, like a hidden gem in the middle of the city. It’s the kind of restaurant where you instantly feel at home but still treated to something special. We’ll definitely be going back soon—Gramercy Tavern truly lives up to its reputation."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xS05qVmZabGczTXpVNE0weGlOSFp2VVZsd1kyYxAB",
+            "text": "We recently dined at Gramercy Tavern, and it was an unforgettable experience from start to finish. The space is beautiful - elegant but inviting - with thoughtful details that make it feel both special and comfortable. The service was flawless: warm, attentive, and professional without ever feeling stiff. Our server was genuinely kind and guided us through the menu with such knowledge and care. The food was outstanding. Every dish was perfectly balanced, beautifully presented, and full of flavour - refined but never pretentious. Standouts for us were the tomato salad, beef carpaccio, and the pork shoulder, but honestly, everything we tried was exceptional. The wine pairings were thoughtful and elevated the meal even more. What really stood out was the hospitality. We were celebrating a special occasion and were surprised with a lovely glass of champagne, which made the evening feel even more memorable. Little touches like that show why this restaurant has such a legendary reputation. Gramercy Tavern deserves every accolade it has received. It’s a perfect choice for a celebration or any time you want to enjoy exquisite food, beautiful ambiance, and truly world-class service."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOdlZVZERhSFpEUVVwclVEZzBXbnBZV1haelZXYxAB",
+            "text": "Came here for a business meeting. The food was okay, nothing I would remember."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCalVqaEVWRUozTXpsa2FESjVMVTF6YzNKcGVWRRAB",
+            "text": "Excellent!"
+        },
+        {
+            "date": "수정일: 4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOblJ4T3ZYOVpiTTVRRRAB",
+            "text": "This still is and always will be my first stop whenever visiting New York City. This is the town. I grew up in and Gramercy Tavern has never disappointed. Classy, delicious and reliable. Every detail, from the presentation of the dishes to the timing of the service, showed a commitment to excellence, and I would not hesitate to recommend this restaurant to anyone seeking a truly enjoyable meal. There are few experiences that can top a truly exceptional restaurant meal. Gramercy delivers consistently."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WQmVEUlVSbWh6WTNkaFNXTlFUMHRGZDNaTVZrRRAB",
+            "text": "Phenomenal lunch & experience. Loved the seasonal items. And Caleb is the best!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210NWNrRTFVV3hzTFdReFZVVXdhMGhaVERZMlVWRRAB",
+            "text": "Fulfilled every expectation. We had a special event where we wore Victorian wigs and were welcomed as though we were aristocrats from another era — but something tells me every guest gets treated the same way, wig, or no wig."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wUWJUQnBUa3RZY1hSSldscFZUVEEwY25CMVlWRRAB",
+            "text": "Bar staff is AWESOME!! 5 ⭐️ Waitstaff ignorant, rude and unapologetic. 1⭐️. Overall expertise \"ah, so sorry that happened to you.\" 2⭐️"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xQ1ZWbE9WVGxvZEdSbU55MVJZbTVsYlU1U1YxRRAB",
+            "text": "A lovely NY institution that lives up to the hype. Lovely food, lovely staff and just an all around fun atmosphere. I've been in the fine dining twice for dinner (once during the holidays with carolers) and once for lunch in the tavern. Both dining experiences were marvelous. Love this place. Always a crowd pleaser."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGeFlXbE1NRlJmZFdoQ05XZzNiM3BNTkRGdGNuYxAB",
+            "text": "10/10"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xR2JHczVNRmxPWTNGd1h6aGtXa0YwTjNKYVUyYxAB",
+            "text": "We had lunch at Gramercy Tavern on Sunday with a group of four, seated in the Tavern area rather than the formal dining room. The cocktails were a fantastic start—absolutely 5 out of 5. The staff was warm and attentive, and the atmosphere was lively and welcoming.\n\nThe flatbread was excellent, one of the highlights of the meal. But overall, I was hoping for a bit more from the rest of the food. We tried the burger, pork shoulder, swordfish, tomato salad, and liver mousse. While some dishes were fine, the burger and pork shoulder in particular were disappointing and just didn’t hit the mark. The salad and mousse also felt a little ordinary.\n\nFor a place with such a strong reputation—and at this price point—I expected the dishes to shine more. Still, the service and vibe were wonderful, which made the experience enjoyable overall.\n\nIf I had to rate it: 5 stars for service and ambiance, but about 3 stars for the food, so overall a solid 3 stars."
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoZ3BPR3pRRRAB",
+            "text": "레스토랑위크에 가서 코스요리 먹었습니다. 서버분이 굉장히 친절했고요 음식 맛도 좋았습니다 생화꽃병도 테이블 위에 놓여져 있어서 인테리어도 너무 좋았습니다 엄청 아늑한 분위기에요. 다이닝룸이랑 아닌 공간이랑 따로 분리되어 있는 것 같았는데 저는 다이닝룸으로 예약했습니다. 음식 맛은 굉장히 좋아요 저는 사과랑 양배추-닭요리-배 소르베로 시켜 먹었는데 이렇게 먹으니까 딱 배부르고 좋더라고요 닭고기도 굉장히 부드럽고 간이 맞아서 맛있게 잘 먹었어요 삶은 채소가 곁들여나오는데 미국 여행 중 채소를 못 먹어서 불만이었던 니즈가 충족돼서 좋았어요"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUROLWN2Mm93RRAB",
+            "text": "레스토랑 위크 런치 먹었어요~ 양도 많고 특히 옥돔요리랑 새우파스타 맛있었어요! 물론 여기도 친절한 서버분들 덕분에 즐거운 시간 보냈어요~"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlXzd5ZVpnEAE",
+            "text": "전체적으로 음식이 괜찮았지만 그중에서도 햄버거랑 roasted oyster가 가장 맛있었고 디저트는 pumpkin sundae가 가장 맛있었음 뉴욕 레스토랑계의 안방마님,터줏대감의 식당이라서 한번쯤은 추천드립니다."
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNNMDdXZGxRRRAB",
+            "text": "평일점심 코스먹었는데 서비스도 너무 좋고\n스타터부터 디저트까지 너무 맛있게 잘먹었습니다.\n노팁레스토랑인데 서빙도 훌륭했어요+_+"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoaW95aGdBRRAB",
+            "text": "특별한 재료와 정성스러운 스타일링"
+        },
+        {
+            "date": "4년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpajlhQ21nRRAB",
+            "text": "맛있었어요"
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBMmNiWUZREAE",
+            "text": "여유가 된다면 꼭 가보길 추천"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwSVowRm9VV3hDVUZSd1pXZzNRalI2TUcwMmIyYxAB",
+            "text": "Phenomenal meal. Credit to our server, Emmry, who was friendly, helpful, and made our meal that much better. We were celebrating a birthday and received complimentary champagne which was such a nice touch.\n\nThe food was exquisite, everything tasted fresh and was cooked to perfection. Highlights were the tomato salad, beef carpaccio, and the pork shoulder. The burger was amazing and unfortunately may be worth its price. I do wish they were served with proper fries.\n\nThis restaurant definitely deserves its flowers and its legendary status."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOZlJuRmxlbGN3YW1Ga2NXSjZTMGt4VW1WUFowRRAB",
+            "text": "We recently celebrated our wedding and reception in the private dinning room at Gramercy Tavern. The room, with its antique furniture, vegetable-themed wall décor, a serene landscape painting, and beamed ceiling, created the most enchanting setting. The in-house florist, Roberta created breathtaking arrangements that made the room feel like a fairytale. Every dish was presented artful but never ostentatious, offering beauty that flows seamlessly into flavor, and the service team was attentive, professional, and genuinely kind. Special thanks to Alison in the team who answered all my questions and requests with sincere smile. We are truly grateful to their event coordinator, Anasua, for her attentive and seamless guidance throughout our planning. Everything exceeded our expectations!! We couldn't have chosen a more perfect place to celebrate such a special day."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWdGFtRjVUM1IzWkRGMU0weERhWFJHTTFVelpVRRAB",
+            "text": "One of my favorite restaurants in NYC. The service was warm but professional. The food was perfect. The wine pairings were to my very picky specs. The atmosphere was quiet and the tables were spaced far from each other as not to be cramped.\nI’ve been to most of the Michelin starred restaurants in NYC and this I put up there with Per Se, 11 Madison, Eric Ripert’s place and Masa. Love it."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sb2RtSkNkVzlhVjBVMlptSm5iMmcxVDNacU9VRRAB",
+            "text": "Tried and true classic for a reason. Tasting menu during restaurant week was exceptional value. Warm friendly service. Exceptional cuisine. I sat in the “dining room”. Highly recommended. Great for casual upscale lunch or fancy dinner. Tavern side seems to be more walk in friendly vs Dining room which is reservation recommended. The food quality was some of the best, with the tomato salad I had being a season standout at its absolute peak produce window. Simply dressed with nothing missing or needing to be added. Delightful restaurant. Accommodative to vegan menu."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sSldVTndSbmxxTWtNMVkybGlXazVsWkRscmFFRRAB",
+            "text": "Came here to celebrate a birthday in their Private Dining Room and the entire event was lovely. The staff were so sweet and patient with questions about the dishes- not at all pretentious. The food was delicious. The room felt spacious and refined. My friends and I had the best time catching up! I will definitely consider hosting future events here."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toVU9IcGZWVXgxVkZGbWNVSnJUVGRFYTNvMmJIYxAB",
+            "text": "This was one of the most wonderful prefix dinners we’ve had in a long time. The servers, the atmosphere, and food with the wine pairing was pure perfection. Everything we ate was perfectly curated for the season. If you’re a seafood lover it’s worth a try. Highly recommend trying this out. I look forward to seeing their fall/winter menu. Make a reservation."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0Tk5rSlhiMFZWTlhKMVkzUmFhVUZuZFUxSmRIYxAB",
+            "text": "Had a delicious and reasonably priced meal here with excellent service.\n\nCame here for lunch and the beet salad was so refreshing, ordered the fish as well which the kitchen split into two plates for me and my friend to share. The fish itself was tender with great flavors.\n\nWill come back to try their burger one day!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WbWN6STBhVkpGYzNCTmJVdE5aekk0YTJSRlowRRAB",
+            "text": "One of the better fine dining experiences I've had in NYC (18 years here). Took my mom for a celebration meal and we were blown away by the service and food. The summer seasonal menu was so fresh, unique, visually compelling dishes, and left us satisfied but not too full. We asked about Danny Meyer and we got an incredible backstory on Union Square Hospitality Group and the restaurant. We even walked out with the Playbook -- how amazing!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204d1lsWlRZa1owYm1oeFJIaHVkWGhzVmtaUFFXYxAB",
+            "text": "We went for the restaurant week lunch and really impressed with the quality and value of it. The service was impeccable. Food all tasted fresh and delicious, even the bread with the red pepper dipping sauce were amazing too.\nThe main entry was a bit too salty, and portion size is on the smaller side, but we added the seafood platter and ended up really full."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsT1NHaFhVVkUyWkdkVFUyWnpkVU5KYlUxa1ZIYxAB",
+            "text": "We had an incredible lunch experience at The Dining Room at Gramercy Tavern during NYC Restaurant Week. The food was incredible. Every dish was fresh, delicious and beautifully presented. Our experience was truly elevated by Danielle’s (Dani’s) exceptional service. She was knowledgeable, intuitive, and attentive, anticipating every need with thoughtful personal touches. Thanks to her, this became our best dining experience in New York to date."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xc00zWXRhblZ3Ym1oYVJHSnBNamhpVlhGQlRYYxAB",
+            "text": "This place has a consistently high-rated tasting menu so I was eager to try it out. The sommelier recommended a delicious (and affordable) wine that we loved so much, we had a second bottle and took a picture of it for reference. As for the dishes, I loved the seafood and the desserts. Everything was perfectly cooked and we all agreed that we had never had shrimp so tender before. Some plates, like the pasta, were average. Overall, it was a lovely evening and worth it for a special occasion!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kMVMxOXllWFk1UzBWd1NXbG1OV2wxZGxreU5HYxAB",
+            "text": "The inside of the restaurant is absolutely gorgeous. They did a wonderful job with the ambiance, and I loved all the floral displays. I was very excited to come here to try the restaurant week menu. I came for a celebration, which everyone in the staff wished me well so I appreciated that. I really liked the host, but I felt like my waitress wasn’t as attentive in the beginning of my meal. There were several times I needed something but she wasn’t around. Towards the end she was better at checking up. I also read other reviews and realized they did not give me things like the crudité or the red pepper dipping sauce for the bread. I got the restaurant week three course menu. I loved the beef carpaccio. The pork cutlet wasn’t really that memorable so I wouldn’t go for it. And I asked the waitress for her recommendation for dessert and got the apricot tart which I definitely regret because I did not care for how tart/sour it was. So basically only one of the three courses I really enjoyed. I’m not sure I would go back, especially knowing they didn’t even give me the full experience by not offering me the same things they offered others in these reviews."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkVFIzSkRkMjlZWDJOTGRuZzBUWGhZVld0U1NrRRAB",
+            "text": "We had such a fantastic lunch here! Every dish was so delicious that we couldn’t resist ordering dessert. Our wonderful server recommended the grape sundae, which turned out to be like a PB&J in sundae form—creative, nostalgic, and absolutely delightful. It was the kind of dessert that makes you do a happy little food dance. Truly memorable."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGb1prc3lWVXBJYVZSV01qRjVUMFZIT1ZBeVJHYxAB",
+            "text": "The food was excellent. I made a reservation about 3 weeks in advance just to be sure. It's a bit pricey, but it's a great experience and great treat. I ended up doing the wine pairing as well, and they did a good job at complementary flavors"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGRlZFWk1NVlZEVVRBdFFqSXhjM0oyZDFGWFpIYxAB",
+            "text": "What a great experience. The moment we walked in we were welcomed by the hostess. She knew we were from out of town!!! Our table was right in front of a window. The atmosphere was filled with beautiful aromas of perfection being prepared in the kitchen!!! My husband ordered a beautiful pasta dish and I ordered the famous cheeseburger!! Both dishes were delicious!!! We each paired our meal with a glass of wine of which was recommended by our server."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OSVdtVTJhVTFKWWpkV2RXRkljMmgyYjNoblZVRRAB",
+            "text": "The vibes were great and I liked most of the food. For apps, we got the roasted oysters, chicken liver mousse, biscuits, and beef carpaccio. The biscuits were by far my favorite and a must order. For mains, we shared the tavern burger which was very soft and the aioli it came with was delicious. The pork shoulder on the other hand was unflavored but tender, and I would not recommend it. The desserts were great; we got the chocolate pudding cake which was my favorite, ricotta fritters, and basil olive oil cake."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPcjEzNC1vbHZqZEdnEAE",
+            "text": "We made a reservation for a weekday lunch with for our team. We arrived at our reserved time and were taken to our table  within few minutes. The restaurant was so beautiful inside with all the plants, flowers, rustic decor, huge bar, really created a wonderful tavern vibe.\n\nWe started our meal with soft and fluffy bacon cheddar biscuits. There were 4 of them in the plate. Having only one of those didn’t seem enough. For entree I had the Tavern burger. It was made with a thick paddy that had delicious flavor topped with melted cheese. The aioli sauce on the side was so good that it enhanced the taste of the burger. My coworkers loved their pressed chicken and meal ball dishes as well.\n\nAt the end, we ordered a bunch desserts including lemon cake, passion fruit sundae and chocolate cookie. Sundae was my favorite. It was so delicious, incredible flavor of passion fruit and vanilla ice cream. The cookie was little too sweet for me. But the lemon cake was pure quality.\n\nOur server Jasmine was amazing. Did an awesome job throughout the lunch. Rest of the staff were also equally pro, filling water, cleaning plates, folding napkins, they were on top of it all. Everyone was super attentive and fully dedicated to their job. At the end they also brought us a small cake for our office celebration. So kind and thoughtful gesture from them. Overall we had a great team lunch. I was so pleased to see Gramercy delivered above and beyond my expectations."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNS0V0TkdwMGIzSjZRRRAB",
+            "text": "Absolutely lovely, even above expectations. Try the ricotta fritters for desert! Grilled oysters and burger were also great. Good cocktails (flatiron friar) and some excellent wines by the glass (Chapter 24 PN)"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psaE9WbHJabEpETVRORU1YTlNiR3h4VVhwYVZuYxAB",
+            "text": "A, truly, perfect evening.\n\nMama Carolyn, Mike, Jorge, and all the names we couldn’t catch (including the one with the impeccable penmanship!) my partner said the way he felt the whole evening was: “it’s like they already know me.” A heartfelt testament to all of your hospitality. Thank you for making us feel so warm and welcome, for accommodating my special requests and even adding special touches of your own. Not to mention the food, which I wish wasn’t over."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKVExpTXZob3J6MzRBRRAB",
+            "text": "Every time I've been to Gramercy Tavern, it's been an amazing experience. It's definitely a place to go with someone special or to celebrate a special occasion. I was impressed by the décor and atmosphere. I highly recommend the seasonal menu. The service was excellent, and our chef, Michael, did a great job explaining the food when he came over. If you're having dinner with someone, I suggest ordering both options for each course and sharing them. Everything was delicious in my experience. It is a fixed-price experience, and you can pair it with wine if you wish. Finally, it was fairly easy to make a reservation. If you have the opportunity, you should definitely check it out!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sNVlUZHdhMGh4U1VGSFRIaDFTak5XZERCRGQwRRAB",
+            "text": "Awesome experience but for the money it is ok. We celebrated my daughter’s 21st birthday and had a lovely time together. The service was great. But 500+ for 2 people should be a more wow in terms of the food."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sweFkyUXRRbEZuZDFRek5ucHlkRTlxUTFSUk5IYxAB",
+            "text": "The interior is gorgeous and the service is top-notch. We went for 3-course summer restaurant week menu and the food was overall good but not very consistent in terms of tastiness. The highlights were the pre-meal sweet potato bread with red pepper dip, the sweet corn lumache (appetizer) and golden tilefish (main). The lowlights were the snowdance farm chicken (main) and peach tart (dessert) — the chicken didn’t feel like one a Michelin one star restaurant would offer; it’s bit dry and feels like something an ordinary person could make at home, and the peach tart wasn’t a cake as we imagined but instead a cooked peach that tasted weird."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205TWJFaERWMTlJZFdwU1VVTldNRXN3Y1haclpIYxAB",
+            "text": "Fabulous place for a casual yet sophisticated dinner. The menu isn’t too big… just enough choices that there’s likely to be something for everyone. The food is outstanding. The service friendly. The outdoor seats are the place to be on a cool summer evening"
+        },
+        {
+            "date": "3달 전",
+            "language": "zh-Hant",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKVVVGbFBWWGhvWm1Ob1ZtMWFVMGx1TWxKYVgyYxAB",
+            "text": "夏季餐廳週的第一站，我們選在這家紐約經典名店，他們只有中午才提供餐廳週$60特別菜單。\n味道驚艷、氣氛溫馨、裝潢典雅、服務周到，非常推薦！"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psaVZ6WmFWazU0ZFVjMVJUYzBRVXhEY21aUldYYxAB",
+            "text": "We visited during Gramercy Tavern during Restaurant Week, which made it a more approachable way to try the menu, but I’m not sure I’d recommend it outside of that promotion, especially if you’re ordering à la carte.\n\nThe food was solid and well-executed, but nothing really wowed. It felt like a very safe, polished version of seasonal American cuisine — satisfying, but not particularly memorable. That said, the setting does elevate the overall experience. The restaurant is split into two spaces: the more formal dining room, which serves a tasting menu, and the bar room, where you can order à la carte in a more relaxed but still elegant environment.\n\nService was gracious and professional, but very slow. We ended up waiting quite a bit between each course — nearly 1.5 hours for just three dishes, which felt unnecessarily drawn out, especially for a lunch seating.\n\nAll in all, Gramercy Tavern is worth a visit for the atmosphere alone, and it’s a solid choice during Restaurant Week. Just temper your expectations a bit when it comes to pacing and flavor fireworks."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNV05vb09WcmU2eklnEAE",
+            "text": "We came without a reservation and were able to get seats at the bar after a 45-minute wait. I definitely recommend booking ahead! The dishes were delicious, the salad was super fresh, and the cookie dessert was more like a real cake—amazing. I’d recommend visiting at least for the authentic American diner atmosphere!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4eFNXdHVZMWg0TUZobFExWlJVekJmYWkxelRIYxAB",
+            "text": "Absolutely delicious meal for Restaurant Week on Monday for lunch. From beginning to end, you are well taken care of. Dishes and service are impeccable. Refined, tasty, creative. A great yummy and classy experience."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25nMWVrUjNVMHhpVWxnM1NsRlFkMjlQZWtSdmRVRRAB",
+            "text": "We enjoyed everything about our dinner, from start to finish. The food snd cocktails were great. The service was friendly, and also personal, with kind gestures to celebrate our honeymoon. Highly recommend."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WaldsaFdOR0ZSWlVka1FVTkVNakozYUV4WFJrRRAB",
+            "text": "Everything is top notch here and the Tavern is more laid than the dining room if you’re looking for a more casual experience. From the food to the drinks, service and decor they all  always meet or exceed my expectations, so I recommend everything on the menu(s). You can never go wrong with the Tavern Burger."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KMmFGVlFZVmh4TWtOM1VWQlllbnBOTjBWRWNGRRAB",
+            "text": "I've been wanting to come to Gramercy Tavern for a while and it truly did not disappoint! There are some places you can go to for special occasions where it can feel like any other day, but our server Miguel and the entire staff made our anniversary dinner feel truly special. Not only was the food amazing, but the staff also had such a thoughtful eye to detail and really took care of us throughout the evening. Thank you for a wonderful experience <3"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OWlJrWlZhVVpQYTIwMWJUTXlkblV3VUd4VVNsRRAB",
+            "text": "This has been on our lists for now a long time and finally made it. Reservation is definitely recommended as it was quite busy\n\nFood : We went with our friends so we tried quite a few things! To start off the meal we tried a salad, everything under the sun and beef carpaccio. Both were great and the flavours were delicate but quite fresh. The bread which came along with the carpaccio was soo good. For mains I tried the charred Broccoli and shared the pasta with a friend. The broccoli was yum and the flavourful though the pasta was a little too tart.\n\nService : Quite sweet and knowledgeable staff! They knew the dishes and menu very well and could explain each and every component of the dish\n\nAmbience : Very beautiful and elegant interiors. Definitely a place to come for special events and meals"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJVzJuNUhGcFpDYjd3RRAB",
+            "text": "🌟 Unforgettable Evening at Gramercy Tavern\n\nLast Sunday evening, my friends and I dined at Gramercy Tavern, choosing the Seasonal Menu—and it was truly an unforgettable experience. From the moment we arrived, the staff’s warmth, kindness, and attentiveness made us feel genuinely welcomed and cared for. Every dish was full of flavor, with beautifully handcrafted sauces that tied everything together. The Citrus-Cured Char, Sweet Pea Agnolotti, Golden Tilefish, Lamb, and Sweet Potato Bread were all fantastic.\nWhat truly stood out was the dessert: The Strawberry Sorbet with Ginger Foam Ice Cream was incredibly creative and refreshing. The Strawberry Pistachio Cheesecake, Caramelized Banana Tart, and mini cream-filled donuts had smooth, creamy fillings and were absolutely divine.\nThis evening wasn’t just a dinner—it was a celebration of love, friendship, and new beginnings. My dear friends celebrated my birthday and a new chapter for my husband and me. To experience all of that in such a beautiful setting made the night truly unforgettable.🧡\nAs we left, we were even given chocolate chip cookies and coffee cake—a thoughtful touch that stayed with us.\nWithout a doubt, Gramercy Tavern will remain my favorite restaurant in NYC—a place where every meal feels like a gift.👍😊"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSc05rcGZMVmhNYmtkVFdrOXhaMGRKV0hReVNVRRAB",
+            "text": "I visited during Restaurant Week and was hoping to try items from the regular menu. However, only the special Restaurant Week menu was available at the time, which was a bit disappointing. That said, the service was excellent−attentive, professional, and welcoming−which made the overall experience enjoyable."
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210cWJrWkZjRzAyVGtGS2JGTnhXVEV5YlhSa01IYxAB",
+            "text": "TLDR: Service / ambiance & decor were phenomenal, and meal had some great highs but was a bit inconsistent. Overall really enjoyed myself, and left stuffed / satiated, but would probably go elsewhere next time given the price point. That said, if you’re a vegetarian, this place is a MUST - the veg options were fire.\n\nDrink:\n- Flatiron Friar: strong and herby\n- Alpine Daiquiri: super cool and refreshing\n\nApps:\n- Cheese Plate: this was actually quite good (as a non-cheese loving heathen). Goat cheese went well with the jam and crackers, and the second cheese tasted the best individually (you know we tried everything Ratatouille style 👨🏾‍🍳)\n\nSeasonal Menu:\n- Crudité: Nice palette cleanser / refresher\n- Fluke: Really fresh and flavorful, solid start\n- Gnocchi: Great sauce and bites, was a fantastic portion\n- Sweet Pea Agnolotti (v): My sis got this and it was crazyyyy\n- Sweet Potato Roll: Really good! Lighter and fluffier than regular dinner rolls, enjoyed!\n- Golden Tilefish: Did not like this, fish and shrimp were really bland and fishy-tasting for me\n- Elysian Field Lamb: So good! Great recovery from prior course, and honestly by this point, I was about to explode\n- Carolina Gold Rice (v): My sis loved this\n- Apricot Tart: way way way too sour, the apricot was straight up inedible lol\n- Chocolate Meringue Pie: def better than apricot tart, but again, berries were WAY too sour"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VPci00T3pBNEx6bjVnRRAB",
+            "text": "This is solely a review for the prix fixe in the dining room.\n\nUnderwhelming food could not be covered up by excellent service and drinks. As it was my buddy and me, we ended up with almost every dish.\n\nThe cheese platter is a must-get, the shaved cheese was really good as was the meat. I also really like the cinnamon cookie.\n\nThe citrus cured char had great pop from the lemon and the roe, and a pea sauce that was tasty.\n\nThe sweet potato was really boring, nothing remotely special.\n\nThe dumplings were really bland, with chewy dough and meat on the inside that was missing seasoning. Same for the broth.\n\nThe agnolotti was nice but it was the same pea sauce on the citrus cured char so that was a downer.\n\nThe tilefish and red shrimp were really good, with a broth/sauce that was seafoody and spiced really well, fantastic dish.\n\nThe roasted asparagus was really boring and had the same pea sauce a third time. The pave was respectable but did fall apart a little more easily than expected.\n\nThe lamb was very good, high quality and rendered well.\n\nThe sirloin was one of the worst dishes -- along with the dumplings -- due to the same boredom. The meat wasn't really tasty or meaty, and I like rare steak. Avoid.\n\nNeither dessert was worth mentioning, just a bit of sugar. Oh actually the sorbet on the cheesecake was nice, but the rest I wouldn't order.\n\nOverall, I do not recommend, this was a really disappointing meal and especially for a Friday night. I now need to go re-test the bar to see if the burger is still good."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJcTR4OFdwZzVxT1h3EAE",
+            "text": "Perfect in every way! The bartenders truly elevated the experience. Stopped in for lunch and ate gooood!! Chicken liver mousse was a treat and the burger was delicious. A big fat, juicy burger is hard to find nowadays with the smash burger being the trend. So good and so worth it. Fantastic spot!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkZmJXdDJibW8xYldzNVoyMWhXRVp3YzBGRlNVRRAB",
+            "text": "This place must be riding its historic fame for so long that traffic and revenue are just falling from the sky and any incentive to innovate or impress is discouraged. Well tourists are still coming. Why bother? I felt like walking into a Texas ranch when I saw the silk flowers, oversized furniture and exposed beams on the ceiling. Ok so I thought this would be a hearty American meal with good portions. No! It’s actually a French tasting menu with five courses at $175. Let’s just say the level of refinement and sophistication is not there. The only thing French about it is the portion: tiny little serving built up on coarse rustic plates. Odd. Overpriced. Primitive. Service was the only thing that was memorable. For food, you have plenty of options in the big Apple!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvdmZLS2hnRRAB",
+            "text": "We had a very important business lunch.\nThe staff was wonderful.\nOne of the staff members noticed that we were both Capricorns born on the same day.\nThe food was great.\nThe atmosphere was warm and inviting."
+        }
+    ],
+    "reviews_count": 95
+}

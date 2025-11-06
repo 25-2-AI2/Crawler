@@ -1,0 +1,628 @@
+{
+    "name": "Cafe Mogador",
+    "place_id": "ChIJK48-E51ZwokRvAA-v6fx9y0",
+    "grid": "MN3",
+    "address": "101 St Marks Pl, New York, NY 10009, USA",
+    "rating": 4.5,
+    "user_ratings_total": 2941,
+    "phone_number": "(212) 677-2226",
+    "reviews": [
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCaFpuaGlVVGx0T0VscGMxQklOWG93TTNScU5WRRAB",
+            "text": "Great food, music and value for money."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OSE9FSnJiM1J0YVVzMlZGQnNZVlk1VW5OWWRVRRAB",
+            "text": "Each moment of my time here held something unexpectedly good. The restaurant nails the environment. I've tried most of what they offer. All team members are genuinely pleasant. I look forward to returning."
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sSU5HUjRZVmRCZEdkWWFtaFpjSEpxWjA5dmMwRRAB",
+            "text": "Meh. It's just not what it used to be. Merguez had no flavor, food was bland and packed seasoning, service was bland. Feels like everyone is just phoning it in."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xrNGQxQmZYMlU1Y2w5VVprYzBhWE5WTWw5aUxWRRAB",
+            "text": "I had big expectations, but the food was just fine. However, the service and staff were super professional and very nice. The atmosphere was typical to East Village - good vibes!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwVmEwRkNZV3hMVjBJdE1WWmlaV05STW1OMlJXYxAB",
+            "text": "I ordered the Morrocan breakfast. The food was delicious. The service was excellent. I highly recommend it!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wWVJqWlBaR2hGZVRRd01FaENhMjkzZVVsaFJVRRAB",
+            "text": "went here for lunch & dinner. both were great with different super amazing menus.\nthe dinner atmosphere is perfect, the light, the noice, the music"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsd2FrSkVNMlI1WTJKbldFTjBablpXWm1Kc2VYYxAB",
+            "text": "Great food and atmosphere! I highly recommend it!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSUGJ6RTRUalppWldkcU1FSjVjRmM1WDJRM1FXYxAB",
+            "text": "Friendly service, tasty food, and thick yummy Turkish coffee!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oNFZUQm5jblF0ZW1aUFgxZHpkWGh4WW1KcGNIYxAB",
+            "text": "Great food and ambiance"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214dVEwWnlSVTE1YUVSQlRqWkllbHBXZDJJdFRXYxAB",
+            "text": "Food is bad ismail"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSUk0xRklNakJYUVZKbVFVeFlNMWt4WjJKbk5VRRAB",
+            "text": "Cozy restaurant!\nJust wandering and walked in and was surprisingly good!\nWe had sauté camalaries with beans, parsley sardines and lamb shrank couscous...all delicious!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFMFEwUjVRbG93TWpaR09HRXRObFpJVjBGZmNGRRAB",
+            "text": "Food was delicious and service was fabulous yet several times when I have been I hear a loud gong being banged which is very sensitive to my ears causing ringing for a decent amount of time! I love the place, just wondering where this loud rucus is coming from…"
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VKMlk0UHljX1BxTktnEAE",
+            "text": "I’ve been coming here since I was a kid, have loved it forever. The Malawach now comes with only one hard boiled egg…$20 for a single flatbread and one egg is really sad to see. I know eggs are expensive but is this the place to save your margin? Shrinkflation has hit the village 😩"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZNWJrVjZaSG90UzBkaGFHWkZUVEUwWlVaTVoyYxAB",
+            "text": "Wonderful and cozy Café. Great food!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OYWMwTmhNVXBKTUZKdk1WRjVaMVpZZG1NNGVtYxAB",
+            "text": "Delicious food!!!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21RMFJteE1VWFZhYUVNdGNsSXhhR056ZVV0NE4xRRAB",
+            "text": "Nothing insane\nService was unfriendly"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOQlZWZGxUR05PUlVGcllUTm1hbTVSUjFaSU5YYxAB",
+            "text": "Warm and inviting, a welcome break of pace from working in midtown this week. The Middle Eastern Breakfast was perfect, delicious espresso, thoughtful service. I will be back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aUk1Ia3pXV1ZpTVV3eFNGVjBRMlZ2U21aMFNGRRAB",
+            "text": "I highly recommend anyone in the area to check this place out! Their food is so good, the atmosphere was amazing. A great meal to catch up with a good friend. 10/10 would recommend (and already planning to come back again!)"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poT0xWWXhWazl4VTNaSU1XeHlXbEJaWTJsbWJIYxAB",
+            "text": "How to even begin? I only have wonderful things to say about Café Mogador, despite an unexpected and rather dramatic mishap during my visit.\n\nI was visiting New York City from South Carolina, just a few hours into what was meant to be a four-day trip with one of my best friends to see our favorite band. Our very first sit-down meal was here, and I had only managed about four bites when I started to feel unwell. I excused myself to walk to the restroom, but before I knew what was happening, I fainted and collapsed, proceeding to smash my face into a wall.\n\nWhen I came to, the restaurant staff were taking excellent care of me. They were extraordinarily kind and attentive, moving me to a comfortable position, helping me stay calm, tending to my injury, and making sure I received proper care from the paramedics when they arrived. They didn’t charge us for our food and even asked us to call if we needed anything. All preconceived notions I had as a \"southern hospitality\" southerner about the people of New York were banished by their kindness. Their compassion meant the world to me in a moment that could have been far more frightening and embarrassing.\n\nAs for the food: those few bites were absolutely delicious, and I wish I’d been able to enjoy the whole meal! Thank you again for not making us pay. Though I left New York the next day with a black eye, a split eyebrow, ripped out eyelashes, and a concussion (and without doing any of the things I’d planned to do on this trip), my lunch at Café Mogador will remain an unforgettable experience. Thank you to the staff for your kindness and care. I hope I didn't traumatize you."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WTE1uTnNVRVI0YlRSamVtbEJaREk0TTJSVmFrRRAB",
+            "text": "Don't pass this place up. The breakfast was so delightful. Thank you for the good food and the good service."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwWmRuTlRZbEpOUVdGRE1VWnNSMEp5WVVOUlUzYxAB",
+            "text": "Food is awesome! Everything was good.\nThe chicken kebab was chicken breast, and the best I ever had and I have grown up with chicken kebab 😀\nBaklava also was great."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Sb2JtTmhOVmRqWVVKVlNIbE5OazV2VmtaMmIxRRAB",
+            "text": "Solid breakfast spot! Recommend the Moroccan eggs (with merguez) and the halloumi eggs. The atmosphere and way the restaurant is situated can be a little loud and hard to hear conversation but still an enjoyable meal."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1TGEyUXhZVlI0YUhKQmJqWjRXSFF3T0Vkdk9VRRAB",
+            "text": "Lovely place on a great street buzzing with life. I had lamb tangine and Bastilla. I loved this latter! Highly recommended"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paQmFrZHFWelZTYmpGTFVFbDJTa3d4YlcxYVZrRRAB",
+            "text": "I ordered catering for my sister’s Moroccan themed bridal henna party and it was a total hit. Everything was packaged perfectly.  Don’t skip the lamb tagine or the beets!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxYWVYUmtNRloyUmxSaFdrc3hVV3N4VXkxVGNtYxAB",
+            "text": "Food was great!! I got breakfast. The iced tea  was a little underwhelming. Serve was phenomenal—a complete delight!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aelZuSmFkVTFHWlUxZk5rcHBkUzFYVjJSaU4xRRAB",
+            "text": "This restaurant does not serve halal Moroccan food as it says on Google maps and it needs to be removed from Google maps that they serve halal food. It's doing disservice to the customers."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xJMVgySkJWRFJNVjFORlVUZHFWV0ZYVlRnMUxVRRAB",
+            "text": "Really good food in a great location. Highly recommend the traditional tagines"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOcU16SjNXRTlHVkUxemEyOU5lVmwxVFdKMmMwRRAB",
+            "text": "Ordered falafel with tahini, french fries and arabic salad. Long time customer will never order from this place ever again. NO TAHINI!!! Ever eat a falafel without any topping??? Salad was about 3/4 filled in the container. French fries were a also a meager portion. All for $32. BYE!!!!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOSUxWWjZjbkZOUjFSUlFqSTBTRE5CTW5CRWFrRRAB",
+            "text": "Chicken tagine with lemon is unreal. Excellent flavors."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFemEzcFJjSGw0UkRJeGIxWjFNRTVmWTJSZk0yYxAB",
+            "text": "Nice and cozy"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwMFlXdFFhVEpCUVdocWF6TnhNV2hrWVZWdGNtYxAB",
+            "text": "Great kitchen."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xQ2JYUTBZVXc1WTAxcWRITTRTbWgyWm5aUmEyYxAB",
+            "text": "Oh my god! First time I review before I even finish my food 🙈 I ordered a merguez platter and this is absolutely yum! Been looking for a Moroccan restaurant forever and just found my new favorite restaurant ❤️❤️ total yum ! I’d post photos but I almost finished lol"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oMWJFUlRSMnB6V25sMFgxQkNiWEZFVERkMmNGRRAB",
+            "text": "I really enjoyed being there and taste their Moroccan couscous that was so tasty , the tajine too ( specially the sauce and the chicken was cooked well )\nI liked the vibe and the drinks it was very refreshing\nIf something to improve is to separate the men to the women restroom and improve the taste of the pastilla = the chef should put more almond to mix the flavour between salty and sweet)"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paNE5YQktSVk5rUlVkRGQzVmZVM0p5YVdweFRFRRAB",
+            "text": "This place is the bees knees. I had the Moroccan Eggs Benedict my first visit and craved to eat them so much again I came back for a second time. However I’d missed brunch time and they were longer on the menu for dinner, so I ordered the Salmon Tagine instead — also delicious!\n\nAs for the service: I can’t eat lactose so I asked if the tagine dish had any. The waitress said there was butter in the couscous — she offered to serve it with rice instead, but I said it was okay and that I’d order it as is anyway. She must’ve been kind enough to mention it to the chef, because they brought both couscous and rice to the table for me as an option. I actually ended up enjoying the tagine BETTER with the rice. So delicious. I think this kind of thoughtfulness makes for great service! :)"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKdGRsQTRWV1JTVEU5cWFERnhUalpGWmxGamMwRRAB",
+            "text": "✨ Dinner at Café Mogador last night did not disappoint. Drinks were smooth, food was on point, and the whole place had that cozy, late-night vibe I love.\n\nThe kebab was the star, super flavorful, unique, and honestly right up my alley (maybe I’m biased, but I’d order it again in a heartbeat). Wrapped things up with a raspberry sorbet that was light, refreshing, and the perfect finish.\n\nService was chill, not too in-your-face, which I liked, though I had to wave for attention a couple times. Nothing major, just the pace of the night.\n\nIf you’re after authentic flavors + great energy, Mogador is definitely worth a visit. 🌿🍷🍢"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxUU9UbFZXR2xWYWxOTmEwMTVXVE56VkY5dVpHYxAB",
+            "text": "Nice food and coffee!! Great atmosphere!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGSmRXdzNjRXRrVkhkamJGOHdYMVJPUzBSSE5sRRAB",
+            "text": "Service is not good."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkMWFrRm5UWGh1U0ZsSFZITmFNbEZZVDBoak1HYxAB",
+            "text": "Lovely place to sit and chat. We tried Hummus with Pita, Halloumi sticks, one of the breakfast platters, and two main dishes. The vegetarian options are a bit limited in the main course section but overall the food is good & vegetarians can make it work with multiple orders of appetizers/small bites. There are two unisex restrooms which are very tight space wise. Outside seating available as well."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210VlN6VkJUazluTWw5YVZVUTJVV05IVFVSTVVWRRAB",
+            "text": "Rude waitress, and the drinks were nothing special."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaT1FYUndWazFrTUdsYVNuTm5ZblpvV0ZkUVoxRRAB",
+            "text": "Good food"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kdVFXUTRVWGREY25WWU0wcGlPRlJJVkdzMlduYxAB",
+            "text": "⸻\n\nThe food is okay—nothing spectacular—but the takeout portions are shockingly small. I ordered a plate of hummus, and it came in the tiniest container, barely half an inch deep, with just one pita bread. Not very generous at all. The matbucha salad could also use some improvement. For the price, the portions feel almost insulting.\n\n⸻"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pobk9XbE9hV1IxYm5CU1NuazNRemM0Wm5WRUxXYxAB",
+            "text": "Tagine had little flavor The lamb meat was good but not cooked with the sauce which the point of tagine. Only two spoons of sauce !!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKUVIwdDVhSGxTV1ZSVVNHWXhTRFZ1Ym1wbE1GRRAB",
+            "text": "Good food"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21obGFVTkJOVTVNTFhSTmNrMTZiVkpzTFVaYWJVRRAB",
+            "text": "I reserved a 3 PM on a Sunday. It was still brunch time so options were limited, so I ordered halloumi eggs. They were delicious. The service was good. I think dinner might be a 5 star. I especially liked that they served a little salad on the plate to add some brightness to the plate."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oRE9VcEdWREpTV0ZGU2JuUm5lUzF1ZWxwRVRrRRAB",
+            "text": "The best lamb shank I’ve ever had!!! So juicy, tender, and flavorful. don’t know how to better describe it but I emptied the whole bowl and already wanted to come back for this before heading out."
+        },
+        {
+            "date": "2달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkaFVrNTJPWE42WkVwNE5UVTJPREZmZDBrMlJrRRAB",
+            "text": "Agréable découverte dans le quartier de east village.\nNos plats étaient délicieux vraiment un sans faute pour cette cuisine orientale et très originale.\nJe recommande +++ et reviendrai sûrement si je suis de retour a New York.\nD’ailleurs le quartier est super sympa et très animé."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wU01uZFhTakZaWW5nek5qaHlibVp4VW1oVmRFRRAB",
+            "text": "Moroccan brunch with legendary eggs."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWMWMwVlpPRFpqUVdoMldUVmtaMjlLUmtwelgyYxAB",
+            "text": "Over the course of a 2 hour dinner, not one server ever came to our table to clear our plates. We finished with all of our appetizer plates on the table and had no room for entree plates when they came out.\n\nWhen we realized halfway through dinner that they were not coming to serve us, we had to start clearing plates ourselves and just placed them on the table behind us. That’s how bad the service was. And on top of that, they preemptively charged us 20% for gratuity that we never experienced. It was a truly laughable dining experience.\n\nWe literally had to stand up and go look for the servers on two different occasions to get their attention. And when we did get the attention of one of them, the server was dismissive and rude. Terrible experience that’s not worth the food."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poRU0xRldVV3RpZGt0ZmNWQm1NV1ZFTUhWblIzYxAB",
+            "text": "Cafe Mogador offers a taste of Morocco in a stylish setting. From the delectable tagines to the fresh salads and legendary brunch, every dish is an adventure. The atmosphere is warm and inviting, making it a memorable East Village dining experience. Been going here for the last 40 years."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsU2NYaHFURFJNZHpCeFlYTnlSV0kyTFZkcFFWRRAB",
+            "text": "The plates were super small, for the breakfast and the prices were ridiculously expensive. A tourist trap!!!\nStay away."
+        },
+        {
+            "date": "4년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM2aGREb25RRRAB",
+            "text": "아는 사람이 여기서 보자해 갔는데 모든 메뉴가 맛있었다. 숙소에서 멀어 자주 가진 못하지만 너무 맛있고 좋은 바이브를 가진 곳이였다. Lamb Tagine이 너무 맛있어 곧 갈것이닷!"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNUdjludFJ3EAE",
+            "text": "여성고객층이 많은것같고 음식맛과 서비스 모두 훌룡했습니다.\n양고기만 먹어봤지만 양고기가 겁나게 맛있습니다."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKRFU5T3ZncDRPR2FREAE",
+            "text": "LOVED THE FOOD. First time in a Moroccan restaurant. It was delicious. The pita bread was so tasty. The eggs are cooked to perfection. The chicken is so tender and the spicy sauce on the side is perfect with it. Get the country breakfast and the other one. OMG and the orange juice so fresh and hydrating. Good experience and excellent to the point service 🫓🥘🍽️"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvM082dHdnRRAB",
+            "text": "Real cute but unfortunately so deeply mediocre. Trader Joe’s hummus tastes more authentic, the Bastilla tasted soooooo dry, somehow flavour lacking across every dish and the service, on a Monday night, was limited. With dishes this dry, would have loved more water.\n\nReally tough to have such a cute awesome atmosphere demolished by below standards food. Also, pricy for what it’s worth! Halloumi was the best part, but the volume was tiny.\n\nOverall, disappointment, not worth it in the sea of great food!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKX3I5LWptaklPODFBRRAB",
+            "text": "What we ordered:\nChicken Tagine with couscous\nRoasted eggplant\nTurkish espresso martini\nMoroccan Mint Julep\nThe quality of food is so very fresh here. I recommend everything we ordered, the chicken is so tender. The staff is lovely.\nThe only thing we didn’t love the tahini sauce on the eggplant otherwise the eggplant was so good & the pita that came with it was perhaps some of the best we ever had!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJVGxvc1BBcy1qM3dRRRAB",
+            "text": "Amazing and fresh Moroccan dishes!! The bastilla was incredible— would definitely have again! My friends enjoyed other traditional dishes with veggies and couscous and loved those as well. The decor is also super cute and a great vibe overall!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSUMzeTdOchAB",
+            "text": "This is a nice restaurant for a delicious brunch. It was my first time at a Moroccan restaurant, and I had a great experience with really tasty dishes. We ordered the Moroccan Benedict and Malawach, and both were delicious. The Malawach was something I don’t usually have for breakfast, but if you like spicy food, I’d recommend trying it with the Moroccan sausage on the side. The service was great, and the atmosphere was very pleasant."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGVVRsQjFObnBTVEdKUlp6Y3dTbFpCTWtVd2QwRRAB",
+            "text": "exceptional food, service, vibes ! bartender made me an awesome mocktail while waiting for my table by the bar. the sausage is the best I've had so far, so flavorful."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VPMnF4SmpibUpmRnNRRRAB",
+            "text": "Not worth your money and time. Serves overpriced bar food disguised as Mediterranean cuisine. The harissa honey wings are tiny for $16 (there were 6-8 pieces of drums and wings, most likely frozen) and the cheese jalapeño “naan”  looks like something a college student made. Tight space and staff kept knocking over a bag I had hung over the chair"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CMUxVbzNjVzluTkdoR1RVeDBNbFJNVGpaS09VRRAB",
+            "text": "I ordered coscus with lamb chank.It was great but it is not as the traditional Moroccan dish.The harrisa also was different but overall it is very good and the vibe is an amazing .\nThey have outdoor tables as well"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCa05tNDBSakkyZUV0ZlMwRmpRa2xOY0hWaE9WRRAB",
+            "text": "Cute spot, tons of seating and easy to get a table. That said the food was a letdown, the chicken tagine was so underwhelming."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRcGQtUkhREAE",
+            "text": "I think this place is pretty good! There was a tremendous amount of hype to go to this place so I was excited to check it out.\n\nFood:\nWent there during there brunch this past Sunday. I ordered the country breakfast with baba ganoush as an appetizer. The baba ganoush was pretty out of this world! I really enjoyed it. Extremely flavorful and smooth texture. I honestly wanted to order more. The country breakfast was good but a bit underwhelming. It didn’t have a tremendous amount of flavor and if the labne wasnt part of the meal then it was pretty dry and basic. But the labne helped the plate consistency overall. My partner ordered the Moroccan Benedict (sorry forgot to take a picture,) but that plate was much better and extremely flavorful. I would recommend ordering that over the country breakfast. But if you want more simplicity or if you’re watching that calorie intake (summer body goals, am I right? ;-) then I say order the country breakfast. But it won’t be memorable.\nService:\nThe service was very friendly and attentive. Nothing bad to say.\n\nAtmosphere:\nIt was ok. I think it was fine. It didn’t give date night vibes but a good place for the family and/or friends. The chairs wasn’t the most comfortable but I’m not taking points away for that. Overall, it’s a nice, it just felt a bit crowded but nothing that should bother you too much.\n\nOverall:\n4/5 stars. I had a good time there. I think the food was good. If I come back I will try their dinner menu next time. I think it’s worth going to and exploring their menu and variety of plates. I had a plate that wasn’t something to scream at but there are others that are worth that.\n\nPlease and enjoy and leave a review of your time there!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJS1RyZHV6bjhQN3VRRRAB",
+            "text": "An east village classic - cafe mogador is a great spot for people watching and gossiping about others lol.\n\nFood is delicious as usual and gives good portions for what it’s worth.\n\nAll the meals they serve (brunch, lunch, dinner) are delicious and flavored perfectly to their Moroccan style of cooking."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmNDh6YXZBRRAB",
+            "text": "Love going here for brunch. Staff is always so attentive and friendly. Whenever I come here, I usually order the Middle Eastern breakfast. It is light and delicious. We also ordered the eggplant and tahini. It’s so tasty. Been to both locations (in Williamsburg and East Village) and neither ever disappoints. One of my favorite spots to take family and friends who are looking for something good to eat."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2ekxEVUZBEAE",
+            "text": "went for brunch in east village and there was surprisingly no wait but the seating is tight. i got the moroccan eggs benedict and it was p good. nothing life changing but solid. the hummus is very smooth"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyLTdtZzVRRRAB",
+            "text": "Always busy here it seems but well worth getting a table inside or outside if you wish.\n\nSome wonderfully tasty options, with good size portions. So busy though that my table of four guests all felt guilty to sit there afterwards to enjoy the moment, as the queue was building up outside!\n\nVeggie and gluten free options, always good to discover!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYdnZ5Yk9nEAE",
+            "text": "A small cozy place. As often happens in New York, it's old and shabby, with scratches on the mirrors and its own smell, decorated in a mismatched way—just the way it turned out. The staff is very young and friendly. At one point, the waiter suggested clearing all the plates, even though we had just barely touched our food. The pita bread with hummus could have been served hot; that would have made it tastier. Instead, it was cold and already stuck together. The hummus seemed a bit watery, lacking in flavor. The Greek salad was ordinary—neither particularly good nor bad. The baba ganoush was decent, but it lacked the characteristic smokiness of the dish. The Moroccan iced tea without sugar was okay. The bill wasn’t too high. I probably won’t recommend it to my friends, and for next time, I’ll choose something else."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvamRlQUdnEAE",
+            "text": "Been coming here for years. I have yet to find a place that makes better falafels than this restaurant. Chicken is tender and so flavorful. Big portions."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnNjdHelJREAE",
+            "text": "A highly recommended place. Everything we ordered was really good. I plan to return myself some other time so I'm happy to suggest this place to anyone.\n\nWe had the Lamb Couscous, Mixed Grill, Chicken Kebab and Lamb Morrocan Tagines for entrees. All amazing options. For starters we shared Tabouli, Hummus and Falafels, all really amazing choices."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYbnFDWU13EAE",
+            "text": "we were in the mood for Moroccan food and online reviews said this place was good so we made a reservation to check it out.\n\noverall the place is good with good service, decent portion and decent flavors.  we started off with the greek salad and the hummus and then got the halloumi skewer and chicken tangine.  the hummus was served with pita but it was actually frozen naan and they were not good.  the hummus was decent\n\nthe couscous plate was a decent portion and had good veggies - the chicken was a bit bland and could’ve used some more flavor.  the halloumi was decent but it was definitely not a veggie skewer that accompanied\n\noverall - decent food and good portion size but flavor is a bit lacking"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3ckk3b1dREAE",
+            "text": "Absolutely lives up to the hype! Oh baby the food was delicious! Highlights were the vegetable curry (was on specials menu so not sure how often it’s available) and the baba ganoush. Can’t wait to come back and try more!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvMVRqWk5hbkJSWjJKclNuSjBUVm80Umw5SFoxRRAB",
+            "text": "Bailie was so helpful with suggestions and amazing all around!! What a gem, we had a great time :) and the food was amazing!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfd2N1blRBEAE",
+            "text": "I hadn't been to Mogador in a few years, but I was happy to see my old haunt is still as fantastic as ever. It's always busy, so be ready to put your name down and wander the area as you wait, but don't worry, it's worth the wait.\n\nBrunch is definitely their strong suit, and shouldn't be missed. Perfectly cooked eggs, deep, flavorful sauce, seasoned to perfection.\n\nThe mezze options are so delicious and cheap enough to try a few.\n\nGreat place for vegetarians as well!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pjeVVXdHNNWEpzVmt4ZlppMWFVWGRITVZsV2FXYxAB",
+            "text": "Can’t believe Cafe Mogador is still going strong. Found it by chance walking NYC about 10 years ago, and the food was unforgettable. Just came across this old photo and it brought back some great memories!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuaDhxcHpnRRAB",
+            "text": "Reasonable wait on a Friday night for a table of two (approx 20 mins), so definitely try to grab a seat even if you don’t have a reservation. The food was made fresh, we especially enjoyed the bastilla! Staff was efficient and great atmosphere, super cozy with plenty of seating."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEOVpmdnJBRRAB",
+            "text": "I briefly humiliated myself in front of our beautiful waitress by mistaking their window for a door, but recovered flawlessly and had an excellent meal. Whoever designed this space is damn good at their job, the interior is spacious yet cozy with a good homey feel. Great environment. Staff were awesome, everyone around us was dressed fabulously and having dramatically intellectual conversations. I got their Sabich sandwich, which was a new food for me, and now a new favorite. My father got the chicken kebab, as I don't eat chicken I can't confirm but he said it was excellent and he was a big fan of their fries and spicy ketchup. We had a great time here, highly recommend."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyb2NfSVVREAE",
+            "text": "It’s a Moroccan restaurant located in East Village with good brunch options. I visited this place on a Sunday and there were plenty of sitting options. There are both in door and out door sitting options.\n\nPeople working there were very friendly and the service was fast. I can recommend egg Benedict which tasted really good."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOajUwWWU4MXRtMlZnEAE",
+            "text": "Even though it wasn't my type of food, I really liked it.\nNice staff, cute place."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoOC1xNjRRRRAB",
+            "text": "Incredible place, love it!!!\nVery cozy, down town vibes with many seating options including patio and bar.\nIt's one floor, street level.\nThe menu is Moroccan / middle eastern inspired. I ordered a variety of traditional dishes that all went well to my satisfaction.\nThe Tagine (with couscous) and topped with traditional lemon sauce and olive is something you must try if you want to explore ethnic food, so delicious.\nFriendly staff, excellent service.\nNO online reservation, walk in only, we waited 45 minutes for a table."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDd0tudWR3EAE",
+            "text": "This is one of my favorite nyc places!\nThere hummus platter / mixed platter is really great. All fresh and tasty. I often times go for the veggie couscous (ask for extra soup there) good coffee,…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR4dE43VUJREAE",
+            "text": "It was a hot spring day, one of those ones that makes you realize summer is on the horizon.\nI was fresh off the west side highway basketball courts, shooting about 27% from the field and 13% from 3 in 4 pick-up games. Shooters keep shooting though I will never surrender.\n\nI walked all the way to Cafe Mogador, as I felt I needed a healthy and nutritious meal after such a fantastic performance.\nI pulled the trigger on the Merguez Sausage, and it was honestly phenomenal. I find that most restaurants neglect dressing cabbage properly, but this cabbage was dressed to the nines. It was flavorful and not neglected. The sausage and rice were fantastic as well.\nHowever, I felt it was a pretty light portion for $24 which is the reason for knocking a star off. But I get it. Inflation and minimum wage on the rise are tough for these businesses so no hate. Just tough for me to consistently spend $24 on a light meal when my pockets are on featherweight. I just need to raise my income it's really a me problem."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUeS1QdmpnRRAB",
+            "text": "Café Mogador is a crowd fav in the city for Moroccan food and offers exquisite traditional dishes and comfort food. The tagines are not to be missed, in particular the lamb and fish tagines are so savory and tender. Highly recommend getting a couple if you have a group, each is great for sharing between 2-3 people. The jalapeño cheese naan oozes with cheese and is great for spreads. Humus and babaghanoush are super fresh, also loved the halloumi starter, like fried cheese served with grilled tomatoes and pita. My friends and I also loved the bastilla, which was a pastry with savory chicken inside. Their brunch menu looked really great for daytime. Definitely make a reservation beforehand and bring people with you to order lots of options!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLYVc3TnJac2VPYWNBEAE",
+            "text": "The tagines were just amazing!! Chicken was so tender and lamb was also delicious"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKa1liTy1nRRAB",
+            "text": "Great, casual option for some delicious Middle Eastern food in the neighborhood.  Prices are good and food comes out quickly.  The breakfast menu is served until late in the day, offering a bit more variety in the afternoon than you might find elsewhere."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3cWJqMGNBEAE",
+            "text": "We went to Mogador at this location -101 St Marks Pl twice during out stay in New York – Highly recommended if you are craving for Mediterranean food.\nRecommend the Hummus and the Falafel in appetizer and in the main dish recommend the Chicken Kabob and the Kefta Kabob. It comes with the Pita which was soft and fresh\nThe Kefta Kabob had a lot of flavors and the rice that comes with it was very flavorful\nAlso recommend the Chocolate Mouse in dessert. One recommendation -Book ahead of time as we had to wait for at least 30 mts for getting seated.\nThere is option for seating outside which was nice\nI did saw an issue with the size of the table for two persons. Since me and my daughter went the second day – The table was not enough to place two plates and the appetizer as they were delivered back-to-back"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqMzV6QlJBEAE",
+            "text": "Nice place for brunch, good service and atmosphere. Not the most extraordinary food you will ever eat, but worth the visit. We loved their hummus. And their pita was AMAZING!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmOG9UYVdBEAE",
+            "text": "Had the Morrocan Eggs with Spicy Mergeuz as well as Morrocan Mint Tea for a late breakfast. While I wished they served a little more bread it was quite tasty.\n\nThe interior of the restaurant made me think of the movie \"Casablanca \" and as I went to the restroom to conclude my business a poster of the movie was right there. Apparently they were thinking what I was thinking."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201cFNEVkVSVkptYjA5SWJqTkRlV3N5VUhSTlVFRRAB",
+            "text": "Phenomenal! So flavorful and great service. Try the specials!"
+        }
+    ],
+    "reviews_count": 88
+}

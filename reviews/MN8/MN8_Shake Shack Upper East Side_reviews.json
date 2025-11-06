@@ -1,0 +1,593 @@
+{
+    "name": "Shake Shack Upper East Side",
+    "place_id": "ChIJE1mdlLxYwokRhrdJXmG9Y_8",
+    "grid": "MN8",
+    "address": "154 East 86th St, New York, NY 10028, USA",
+    "rating": 4.3,
+    "user_ratings_total": 5106,
+    "phone_number": "(646) 237-5035",
+    "reviews": [
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkbGNFbEhaMWxITVV0c1NVazJXV2N0UVRkVmNVRRAB",
+            "text": "I placed a mobile pickup order around 4:51 PM and then went shopping next door. I arrived at the Upper East Side location around 6:11 PM, but my order was not ready. The female staff member at the pickup station was friendly and promptly notified the kitchen, but what happened afterward was concerning.\n\nA tall male staff member — who appeared to be in a managerial role — approached me and said they would only remake my order if I left a positive review. He also claimed that Shake Shack discards mobile orders if not picked up within a certain time window, which contradicts my past experience. When I declined to write a review on the spot, he took photos of my order confirmation and went to check the system. He later returned, said my order had never appeared, and manually entered it. I finally received my food around 6:30 PM.\n\nI usually receive a text notification when my order is ready, which did not happen this time. Technical issues can occur, but it is inappropriate for any staff member to pressure a customer for a positive review — especially when the order was missing in the first place. That’s why I’m here leaving this review."
+        },
+        {
+            "date": "1주 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tadVVXRTNVRFl0VFVkdFZIbHFkMm80U1ZselNVRRAB",
+            "text": "De très bons smash burgers 🍔 dans cette chaine de restauration rapide"
+        },
+        {
+            "date": "1주 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SMFUwSkRVMFpSWTNaaFVHNTFSMVZUYUVKMUxXYxAB",
+            "text": "C'est pas mauvais pour de la malbouffe.\nPetit coin public accolé très pratique pour manger"
+        },
+        {
+            "date": "1주 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paNk0ycHhWVFptZDI5QlJHNW1UbEpuUkhGbmVWRRAB",
+            "text": "Les meilleurs burger des Etats Unis, a quand l'ouverture en France"
+        },
+        {
+            "date": "1주 전",
+            "language": "fr",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xONE0yVmtiMjAwY1RSbmNHRlFZWGhLYjBkS05WRRAB",
+            "text": "Bien, bon burger"
+        },
+        {
+            "date": "수정일: 4주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRNVBHVXZ3RRAB",
+            "text": "You have 15 people working in the kitchen, and my food took like 25 min to be served, in the past has hair on my fries 😞…"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNMU5WcEhMWHBSVUVwSFgyeFFTMjAxTkhVMk5rRRAB",
+            "text": "Food was okay. They got my order wrong TWICE. First time they gave me two completely different burgers then when I told them about it they threw them out in front of me and made new burgers but still got it wrong because I asked for no bacon and they put bacon."
+        },
+        {
+            "date": "1달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaRFQxcG1ObVkyYVRZdE5WaG9WekI0U1VOTGIxRRAB",
+            "text": "Tutto molto buono"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSUU5uTktXbFZaT1ZFMmFrNW5SMk5MT1VSbmJYYxAB",
+            "text": "Nice"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kRVREUnNMVlJDWjNwWFRpMUVaRk5qVkVwaWNrRRAB",
+            "text": "Very good better than I remember!  Clean and friendly"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sMmFVVjZjbXBaYW1WalUyNXBYekZLZEc5aWVVRRAB",
+            "text": "One of the best burgers in my life! 5 stars!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oU1YxRkVUVlZUZEVZeVVIUjFPRlZwYm5sRVVVRRAB",
+            "text": "Shake Shack is my favorite burger spot in New York. Everything tastes fresh and delicious, from the burgers to the fries, and the service is consistently good. A great place to enjoy a quality meal every time."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210SVZTMVJXVXhFYzBsU1pXNXFTMXBvUjFOQk5YYxAB",
+            "text": "I liked the place and the food"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWTmJsaEdTV2t3TkY5TFZVNDJUbGs1T0d0MFRYYxAB",
+            "text": "Las mejores hamburguesas de New Yok"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOSFYwMUhaV1pJTm1jNU1XWnNjWHBZYUVvelFWRRAB",
+            "text": "Burger and fries always a hit"
+        },
+        {
+            "date": "2달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGRlVuRTNNbWx2WDFaZlQxbFpTV0ppZVZoQmVsRRAB",
+            "text": "Fast food avec peu de choix et des burgers assez petit, mais très très bons. Attente un peu longue, mais ça valait le coup !"
+        },
+        {
+            "date": "2달 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KNFluRXhTMGR5WW5Sd1EyOXRjRWRvVUVWcFdrRRAB",
+            "text": "Buonissimo"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWRWQxQkRiazFQTW10RVNGZFhVSFpFZDJ4b2NuYxAB",
+            "text": "I would have enjoyed the avocado bacon burger more if the avocado was sliced instead of a chunk between the roll. Two of my friends had the same burger, one had sliced avocado and the other was a chunk like mine. Wouldn't make sense to just have some pre-sliced?"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KNFFVRnlMVlJMY214eFpFUnlNazF2YTBGWWRrRRAB",
+            "text": "Pretty busy, but they are reasonably fast during the dinner rush. Seating in the front as well as rear of restaurant. Addition, there's an outdoor area for seating as well. The restaurant is located in the \"basement\" as it requires one to walk down a flight of stairs. Those that require ADA accommodation may have trouble getting down to the restaurant."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKM00yWTJZMWhFZHpWNWRIQlBaMDFzV21wdmNuYxAB",
+            "text": "Both lack of customer service and incompetence of employees steering me away.  If you're picking up order from this location, always remember to check the content, open the box to see the items match what you ordered.  I ordered Buy 1 + 1 burger. with fries but had some hiccup at ordering on UberEat. Manager was kind enough to help rectify the issue during my pick-up; the employees were busy chit-chatting with each other and handed me wrong items. Due to packaging, I couldn't tell and didn't suspect anything until I got home and realized instead of the +1 burger, I was handed small fries and another order of fries in a square burger box. When I went back to the store , the employees there was non-apologetic and told me if I wanted to cancel/return the order, he could do that. While I understand mistakes do happen during rush hours, error here was clearly caused by employee inattentiveness at work.  Instead of acknowledging mistake and apologize,  I the customer was made to feel I was the one at fault. Happy to take my business elsewhere and vote with my dollar.  If there's negative star/rating for customer service, that's what this location deserves."
+        },
+        {
+            "date": "2달 전",
+            "language": "id",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ORVMzVnlhbHB4VjJSVGNVeFNla0pVYVRSWlVuYxAB",
+            "text": "Nahh"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twU04zQXpPWFZGTFhGaU1FZFRiM0V4TjFONVIzYxAB",
+            "text": "Nice and huge restaurant with only 2 smalls bathrooms.."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWa1lUTTRTR1UzWlVZNVJrOUZibVJ5Vm14S0xWRRAB",
+            "text": "Ordering here is impossible. It’s so so slow because people can’t use the self service. Awful."
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oTE9YWmxjRmRZZUVrMlNIWktXWGR2VFVweloyYxAB",
+            "text": "Lo mejor las patatas, las hamburguesas como las del McDonald's.\nMuy bien atendidos y buenos precios"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214WVFqQk5TWEpvVVdKMFJ5MWFTbk5pT1cxNk4wRRAB",
+            "text": "Good, affordable burger, made fast."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKUlJUZFNPRlJRWjBGdU9WQkRTbmcyT1RoZk5rRRAB",
+            "text": "I listed my name and my number for a pretty basic order. When the server brought me my food, he told me in a very catty tone that they'd been calling my name inside. Except he wasn't calling my name, because it's Cassie, not Sisi. Also, I had a number they could've used. And they forgot my ranch. Don't need much from this place, but it's really not my fault if you can't read a name right."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRejhlbTVnRRAB",
+            "text": "Best burgers in New York"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kWVJteE5ZV0ZMYlZwWlNHUTNjblpaTlhsQlFWRRAB",
+            "text": "Shack Shack Burger has a thick patty. The chocolate shake is delicious."
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5aWNFdHlYMGRsZVZCRWJuUnJkVmRHYjBWSlNXYxAB",
+            "text": "Muy ricas las hamburguesa"
+        },
+        {
+            "date": "3달 전",
+            "language": "fr",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kTFUwTTNURVY2ZERsVmJUZElYME5IYmkxa1JsRRAB",
+            "text": "Très bon mais Très cher pour un fast foods"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0UVoyUk5hekJEY2xWV09WaGpYemxqU1VKVk9VRRAB",
+            "text": "Thank you for always having my online pick up order ready. There is extra seating outside if the restaurant is too crowded."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pnMFNVcG5NMVZvUWxvNVVESlhhWGRDVkZCRVVVRRAB",
+            "text": "They have Dubai chocolate shakes which are amazing. The food of course is always consistent and love the delivery to table service. Pricy but worth it because of the staff, environment, and experience."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25adFVFcElOMlZ4WWtwcFRrbFlOVlE0UkhSdFIwRRAB",
+            "text": "Normally pretty good but today they were just terrible- waited 20 mins for my pickup order and then when I asked they gave me attitude. Everyone just standing around in the back. Go to McDonalds at this point lol"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGVVNqSmFVRzFYUlcxV2NFZGhXSE40YzJOV1ZGRRAB",
+            "text": "Can’t say enough good about here. It’s Sunday 7/12 in the afternoon- this staff is exceptional in every way. Their smiling is infectious and the food is outstanding. Best damn burger I’ve had in a while, real perfection of a classic burger. Those cooks on the grill are phenomenal. Well done this team should be celebrated, they all take this seriously and clearly strive for perfection. Raises/bonuses are in order! Will be back asap."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201eVJXMUdWVkpUVFd4UVgwMUhRVVJDZGtSak5uYxAB",
+            "text": "Lovely place with great staff!\nI tried their ‘Shroom Burger and Mango Lemonade—both were delicious. The burger had fresh buns, a juicy, cheesy patty, and overall amazing flavor. I was really impressed by the quality of their vegetarian options, which makes me curious how good the non-veg must be! The Mango Lemonade was refreshing—slightly on the sour side, but still enjoyable. Definitely recommend giving this place a try at least once!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toelpYVkNMV2x5VW5BemRGbHNPWEJvVFhOM2VGRRAB",
+            "text": "Nothing like a burger and shake after 20k step day"
+        },
+        {
+            "date": "4달 전",
+            "language": "it",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZeVlVMVVia1JpYW04MWNtdE1XVnBLTW1oalpYYxAB",
+            "text": "Situato nella zona est di Central Park, è comodo andarci magari dopo la visita al Met o al Guggenheim Museum. Se siete amanti dei fast food è super consigliato,e questa sede credo sia il migliore di tutta New York (considerando che ce ne sono molte nella grande mela).\nIl panino è succoso e non è piccolo come gli altri fast food, le patatine sono fresche e crottanti ma la cosa piú buona sono i MilkShake… quello al gusto Oreo è devastante!!!\nLa pulizia del locale è buona, il servizio è nella media anche se siamo andati alle 15.30 circa quindi non in momento di caos. I bagni sono abbastanza puliti e muniti di carta igienica e sapone per lavare le mani.\nMolto consigliato."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KNWNrWjVRakJtVVhSUk5GOXpSMUpyY0dZM2NIYxAB",
+            "text": "Limited seating inside.  More outside, under shade.  I like that they have staff that monitor for non customers trying to sit on limited inside tables and kindly ask them to leave."
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJN3ZPNllnEAE",
+            "text": "I absolutely love this place. It's great for a quick bite with a few dietary options for vegetarians or desserts. I ordered ahead for pickup and ended up dining up. The tables are clean and the service is quick."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsMWJUZEtTMTkyYmsxSFV5MDVabXBMVlRONlYxRRAB",
+            "text": "🤤"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKblM2WTZ4a3E3LXd3RRAB",
+            "text": "Nice staffs"
+        },
+        {
+            "date": "4달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJRDFuYzNydE1mNWZREAE",
+            "text": "Toujours d'aussi bons burgers\nA essayer sans mesure"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURacHVTRzh3RRAB",
+            "text": "친절하고 맛있습니다!! 한국 쉑쉑보다 맛있어요, 특히 머쉬룸 버거는 버섯의 풍미가 정말 다릅니다. 자리까지 버거도 갖다주시고 좋았습니다!!"
+        },
+        {
+            "date": "3년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1M19hZ3pRRRAB",
+            "text": "MET 관람 끝나고 오후 5시반쯤 들렸어요. 사람이 그렇게 많지는 않습니다. 위치상 관광객들이 득실거리는 곳은 아닌 것 같습니다. 더워서 밖에서 먹지 않고 안에서 먹었어요. 테이블 잡기가 쉽지는 않네요. 들어가자마자 자리부터 맡아야 할 듯요. 맛 좋습니다. 육즙 흐르는 부드러움. 아이들이 쉐이크 좋아하네요."
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZLU1ERTFRRRAB",
+            "text": "맛있게 먹었습니다. 확실히 뭔가 한국 쉐이크쉑이랑은 뭔가 맛이 달라요. 스모키쉨은 맥도날드 더블 쿼파치 좋아하시는 분들은 정말 좋아하실 거에요"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNVMWF1eXlBRRAB",
+            "text": "햄버거 맛은 보통 셱셱이지만 테이크아웃해서 바로 앞 공원에 앉아서 먹으면 미국인이 된 기분을 만끽할 수 있습니다."
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBOUtpVnBBRRAB",
+            "text": "많은 사람들로 정신없고 바닥은 더럽고. 엄청난 칼로리 폭탄이지만 맛은 괜찮네요."
+        },
+        {
+            "date": "8년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3NXQ3d2VBEAE",
+            "text": "처음 먹어본 쉑쉑버거. 가격이 비쌋지만 맛은 좋았어요.  한번씩 먹어보기를 건합니다."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURycUplMEl3EAE",
+            "text": "뉴욕의 섹쉑이 궁금해서~~^^\n짜지많고 맛있게 먹었어요\n쉑버거에 아보카도추가해서 먹었는데~~~\n아보카도의 흔적을 찾기가 어렵네요 1.99추가가 무색하네요"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURVNlA2YWRnEAE",
+            "text": "깔끔하고 앉을 자리도 충분하고 맛도 좋고 It' good."
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNzLUp1MHhRRRAB",
+            "text": "한국에서도 먹을 수 있지만, MET 보러 온 김에 한 10분 정도 걸어서 방문했다. 1시 정도에 도착했는데도 줄이 엄청 길었다. 야외 좌석이 있어서 다른 쉐이크 쉑에 비해서는 먹고 가기 편하지만, 겨울이라서 아무래도 나가서 먹긴 힘들 것 같았다. 버거 맛 자체는 아주 좋았다. 직원들도 친절했지만, 포화 상태인 매장 내부는 전쟁터를 방불케한다. 쉐이크는 처음 먹어봤는데, 꾸덕꾸덕하니 괜찮았다. 설레임 밀크쉐이크 맛에 설탕을 더 넣어서 응축한 맛이었다."
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBeFB1YXJRRRAB",
+            "text": "건강하지 않을것 같지만 맛있습니다.\n뉴욕에 오면 꼭 먹어봐야합니다!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtcTR5UXZ3RRAB",
+            "text": "음식을 주문했습니다.\n제 뒤에 사람들이 다 음식을 받고있는데 제꺼는 아직도 안나오네요. 체크플리즈 했습니다.\n미안하단 소리도없이 웃으며 주더라고요. 두번다시는 미국에서 쉑쉑은 안갈겁니다."
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVMnVqVzd3RRAB",
+            "text": "생각보다 밀크쉐이크가 맛있어요"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURrdDl5YzRBRRAB",
+            "text": "이 매장 사람은 좀 많지만 햄버거는 다른 쉑쉑버거에 비해 맛있었습니다."
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzcy1QLWNREAE",
+            "text": "사람많고 정신없지만 직원들이 정말 친절하고 맛도 너무 좋아요"
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNNFp5djJnRRAB",
+            "text": "머스륨버거는 한국에서는 맛을 못내는것 같아요 ᆢ 현지에서 먹어야 맛있는듯 ᆢ"
+        },
+        {
+            "date": "9년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBd3Etb0h3EAE",
+            "text": "뉴욕 여행을 가시거든 꼭 가봐야할 곳\n안가면 후회합니다\n\n캘리포니아에 인앤아웃이 있다면\n뉴욕에는 쉐이크쉑!!!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ1LUlLQlhREAE",
+            "text": "감자가 넘 맛나요. 그 외엔 전체적으로무난한 곳."
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwb3B1eTl3RRAB",
+            "text": "언제나 즐기며 먹을 수 있는 곳입니다."
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURBNy1iUWxRRRAB",
+            "text": "가장 맛있었던 쉑쉑 지점!  꼭 추천함 슈룸 버거"
+        },
+        {
+            "date": "8년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRdjhhelVBEAE",
+            "text": "렉싱턴가에 있는건 줄이 길지 않아서 좋았어요"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwN003LWl3RRAB",
+            "text": "버그내용물도좋지만 빵맛 또한 일품이다"
+        },
+        {
+            "date": "8년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBekxYcVRnEAE",
+            "text": "여기 감자튀김이 맜있어요~"
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnaXVLNVVREAE",
+            "text": "감자튀김이 맛있었어요"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNvLVAtamVREAE",
+            "text": "패티가 살아움직이는 듯한 느낌"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNJcFl1OVR3EAE",
+            "text": "맛있당 빵이 맛있다"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURZcnFEM3VnRRAB",
+            "text": "진짜 DJMT ㅠ"
+        },
+        {
+            "date": "7년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURReU16SGVBEAE",
+            "text": "복잡"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVZ1kzUzhRRRAB",
+            "text": "사람이 많음"
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwd2RYTTVnRRAB",
+            "text": "무조건 추천!!"
+        },
+        {
+            "date": "6년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNvbVpleTV3RRAB",
+            "text": "기대 보단....."
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKal8zcnEzeThqRVpREAE",
+            "text": "Visita obligada si voy a US, no puedo no ir a disfrutar una rica hamburguesa de SS!\nDe otro planeta la Avocado Bacon Burger, la combinación de la palta y el bacon crocante es un placer para el paladar. Las papas fritas\nAl lugar se accede por escaleras hacia abajo.\nLa atención bastante ágil aún con mucha gente."
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYeHIyQjVBRRAB",
+            "text": "I got the seasonal truffle burger and a smoke shack with French fries and a peach and cream shake. Everything was very good. I enjoyed the burgers, the patty was nice and juicy. They also have a generous amount of cheese. It definitely passed my string test. The flavor was nice. I also really enjoyed their shake. It got real peach chunks in it and that was just wonderful. I also didn’t know that they had people bringing the food in a tray to you in the restaurant, and that was very nice.\n\nEdit 1, I tried the ‘Shroom and the black truffle’Shroom burgers for the first time, and both were delicious!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNucV92SzJRRRAB",
+            "text": "We had an amazing experience at Shake Shack! The place has plenty of seating, the environment is super clean, and the staff are incredibly attentive and quick with everything. Everyone was so friendly, which made the experience even better.\n\nWe ordered a mix of things — a chicken burger, a regular burger, fries, a milkshake, and their lemonade sweet tea combo — and everything was absolutely delicious. The fries were especially great, and the condiment station was well-stocked and spotless. The overall vibe was just friendly and welcoming.\n\nOne tip: if you need to use the washroom, make sure to keep your receipt. Overall, this Shake Shack gets a solid 5 stars for great food and fantastic service!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURON2NfZ3BnRRAB",
+            "text": "Shake shack serves a solid smash burger. The smoke shack and the shack burger are both good choices. If you’re looking for more flavor, get the smoke shack. Otherwise, the shack burger is your classic BLT cheeseburger. The cookies n cream shake is delicious! Fries are average. This location has tons of seating, both indoor and outdoor. Fast service!"
+        },
+        {
+            "date": "1년 전",
+            "language": "it",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqdmZDSGJ3EAE",
+            "text": "Un buon fastfood. Il cibo non è male. Hamburger di medie dimensioni. Qualità superiore rispetto ad altri fastfood più rinomati. Il servizio è stato discreto. Il locale però pulito ed accogliente."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2d1BEUVFBEAE",
+            "text": "The burger and the milkshake were both tasty—nothing extraordinary, but definitely satisfying and nothing to complain about. The flavors were simple yet enjoyable. The store itself was also spacious and clean, providing a comfortable environment to eat in. Overall, it was a solid experience, and I would happily visit again for a casual meal."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSaDd5a1JBEAE",
+            "text": "Hands down one of the best chicken burgers ever. You taste quality food despite the small size and big price. Fries are real potatoes, super yummy. Staff are friendly. Very crowded in the evenings."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoNzY2bjRnRRAB",
+            "text": "Perfect place for a hot cheeseburger and chicken sandwich. Friendly staff and fast service makes Shake Shack an amazing place to grab a quick bite. Smash burgers were flavorful and piping hot with melty cheese. The chicken sandwich was also blistering hot in a good way and the sauce and pickles were the best combination for this sandwich. There's some seating indoors and a bit of an outdoor area for seating as well. Hot cheeseburgers in the winter never tasted better!"
+        },
+        {
+            "date": "1년 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIXzl5ZXNBRRAB",
+            "text": "The SmashBurger was so good! La carne era veramente tenera e il ragazzo che ci ha preso l’ordine molto gentile. Posto carino con da sedere fuori."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQbWNQWFl3EAE",
+            "text": "Really good burger, we had double truffle and it was really good 8/10\nstaff was very polite and kind. def recommend. fries could be better but they are okay."
+        },
+        {
+            "date": "3년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlOGJ5eFJnEAE",
+            "text": "Necesitan probarlas. Si vienen a Nueva York y quieren una hamburguesa emblemática, aquí la tienen.\n\nPersonalmente recomiendo la Smoke Shack. Si comen mucho, pídanla ya sea con papas o con doble carne y una bebida. Una sola hamburguesa no te va a satisfacer.\n\nPero el sabor es perfecto. Vale cada dólar."
+        }
+    ],
+    "reviews_count": 83
+}

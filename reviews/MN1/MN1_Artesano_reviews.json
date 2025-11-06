@@ -1,0 +1,600 @@
+{
+    "name": "Artesano",
+    "place_id": "ChIJv3vgwFZbwokRwP07bRgRYdM",
+    "grid": "MN1",
+    "address": "90 Chambers St Unit A, New York, NY 10007, USA",
+    "rating": 4.6,
+    "user_ratings_total": 897,
+    "phone_number": "(212) 372-0297",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twYVV6bFBXbGREUmt4cWVXRjJOVmt6YTI1VldtYxAB",
+            "text": "Viajé desde lejos con mucha ilusión de conocer el restaurante, ya que admiro el trabajo de Rodrigo Fernandini. Lamentablemente, la experiencia fue decepcionante desde el inicio. Al llegar, la anfitriona fue poco atenta, incluso con una actitud déspota, algo que me sorprendió en un lugar de este nivel.\n\nDecidí dejarlo pasar porque quería disfrutar de la comida, pero fue lo que más me decepcionó. Las porciones son pequeñas y esperaba que el sabor lo compensara, pero no fue así. El ceviche tenía un toque de kion demasiado fuerte, el lomo saltado no fue agradable, y los chicanos de maracuyá carecían de sabor.\n\nMe sorprende y entristece tener esta experiencia en un restaurante del que esperaba tanto. Ojalá puedan mejorar, porque la propuesta merece estar a la altura del chef que la respalda."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ZM2NURnJjbmt4VTBSRWJrNWpaWGd4T0ZGM1ozYxAB",
+            "text": "Top Peruvian experience in NYC. Ceviche, pulpo and risotto were all top notch. Highly recommend this culinary hotspot."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pnNGFWVTViRGd3VEZwSGF6Um1hakJqTkdwTWMyYxAB",
+            "text": "Came here for a Halloween mixology event — such a fun experience! Deborah & Sebastian were incredible, and the owner Roman made sure we were always taken care of. Food was delicious, drinks were amazing, and the energy was perfect. Highly recommend!"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4UllVaDVOalZMYVdGQk1FaEJhVEExVW1GQlVFRRAB",
+            "text": "A little pricey, but the good it’s worth it ! Everything has a great flavor !"
+        },
+        {
+            "date": "6일 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xdFdUTnNhVlUwWVVsNFRUWkpWRTAwY0V0RVdXYxAB",
+            "text": "Viaje desde Miami a NY junto a mi esposa por una fecha importante, ella ilusionada con conocer el restaurant de Rodrigo, llegamos aproximadamente 3 de la tarde, después de caminar un largo tiempo, llegamos y nos trajeron una carta super reducida que solo tenía a lo mucho 10 opciones de platos, queríamos probar algo de pescado pero no solo tenían ceviche, fue una desilusión."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWUlRXSlZYM1JsZFhSMFVrTmhNMFJPT1hOVFlVRRAB",
+            "text": "Today I had the best time at this place. Traditional Peruvian food on point, unique flavors, and an excellent service either ag the bar or the tables. The cocktails and the dessert are to die for."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wUFFuVXpiRVpoVWtGelVtSk9ORzlsWm1wek5uYxAB",
+            "text": "It’s my third time driving to Artesano from Westchester County. This time we went to the Sunday brunch. Their fusion of Sushi with a Peruvian ceviche touch was amazing! We loved the Lomo Saltado! I had Pisco Sour and my wife Sangria, both great. I’m telling my friends about Artesano."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aWlQxVjFiMGxEZWtscVNUQktXbEp1VnpaclRrRRAB",
+            "text": "Love the entire experience,  food and staff are amazing"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZeU4xbDBTWE0xUTBOM1dtdERTMnN3VkdoNGQzYxAB",
+            "text": "Everyone needs to experience the food and ambient in this restaurant 😀"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSelpVdEJiR2wwTFZOdmRWSnllbVIyV0RkWFQwRRAB",
+            "text": "Like a 22yo newlywed dispensing martial advice, Artesano has all the right elements but isn't quite ready for primetime yet.\n\nOur dinner started off well. We were seated quickly and enjoyed the cozy, quiet, beautifully decorated ambience.\n\nThe first few courses were stellar: The Artesano Ceviche was everything a classic mixto should be and had plenty of seafood variety, tiger's milk, choclo and sweet potato. The Pulpo al Olivo arrived nicely chewy with a unique accompaniment of tapioca crisps.\n\nThe entrees were where the inexperience started to show. I will say that our Branzino a La Parrilla was perfectly cooked, but the accompanying aji panca marinade seemed like overkill and was largely unnecessary when you already have a sauced and grilled fish that well done. The spring salad was nice, though, and not too tart.\n\nThe Mushroom Chifero was a huge disappointment. I was hoping for some true Peruvian-Chinese innovation (a la modern chifa), but this was mostly just large-grained sticky rice with roasted maitake mushrooms that were ruined by a completely unnecessary sweet and tart tamarind sauce. It felt like, in the interest of being creative and unique, they decided to throw in a fruit sauce to stir things up--but what is the point of serving a fried rice dish with fried garlic, scallions and mushrooms if you're just going to drown it in tamarind?\n\nI didn't want to order this but was convinced to get aside dish of Truffle Yuca Fries. They were fine, but the truffle flavor was weak and they really needed the accompanying huancaina sauce to import any flavor. I get that yuca is a pretty flavorless starch vegetable, which is why I didn't really want to pay $18 (yes, $18) for this side dish.\n\nAfter the entrees, the service team dropped the ball harder than Aaron Rodgers last month in Dublin. We waited at least 20 min, but no one came to clear our plates, check on us or ask if we wanted dessert. By this time, the restaurant had filled up and the vibe had turned distinctly clubby: my geriatric ears could hardly hear anything over the thunderous bass of DJ Whats-His-Face and MC Who-Knows-That.\n\nWhen we finally flagged down a server, ordered dessert and finished it, well....it wasn't worth the hassle. I forget the name of the dessert, but it was Choclo something and featured corn sponge cake, corn mousse, chulpi praline, and mango gel. The sponge cake had perfect texture but barely any corn flavor. The corn mousse was lovely, but the mango gel overwhelmed it and felt unnecessary.\n\nWhen we paid and left, no one acknowledged us or thanked us. Guess they couldn't hear us through the pulsating beats. All in all, a tepid finish to a promising start."
+        },
+        {
+            "date": "2주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ka1Z6Tk1lakpZZFhSTVFrNTVXbGxSYWtGSFZsRRAB",
+            "text": "I had the best experience in Artesano!! El ceviche super delicioso! Mi mamá es peruana y le encantó. Sofía, our waitress, was super attentive and kind. She took care of us. I also recommend the chaufa, pan con chicharrón and causa de pulpo!! The pisco de tres leches was 10/10. Spectacular experience!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wbVVVMTJjbU5CZWtKbVJqVXRhRkpVTWpORVJHYxAB",
+            "text": "Fantastic ceviche"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aU2JVeG1VRU5yU25SeGNsZ3hURXhRVVhRNVluYxAB",
+            "text": "All is delicious"
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GWGNtcHBaVlpEWm5GUFJsUm5TamxRT0ZCTE0xRRAB",
+            "text": "Viajar desde tan lejos y comer en semejante porquería de restaurante. Me sentí robada, que comida tan mala, soy peruana y de verdad es un insulto a nuestra cultura gastronómica. Un restaurante absurdamente caro, el más caro que visite en NY y la peor experiencia."
+        },
+        {
+            "date": "4주 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT213eGNIcHdTbWM0TmtKSWRsbzFhRUZwYW5rMWVXYxAB",
+            "text": "Lugar pequeño, sin música, oscuro,  baños sucios, parece un lugar barato, pero es demasiado caro, ojo, no costoso, caro, porque lo costoso vale. Los pisco sour perversos. Amo la comida peruana y no entiendo como puede un chef peruano considerar que esos tragos de cantina son de buena categoría.  Fue mi decepción en NY, gasté 400 dólares y sentí que me robaron. Lo único aceptable fue el servicio y lo único de buen sabor fue la adición de arroz con lomo salteado, eso fue lo único bueno. Por favor eso es un restaurante caza turistas, supravalorado, vayan a Misión Ceviche que es muchísimo mejor, por lo menos gastas, pero quedas a gusto."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pseVoxcDJUMEZTTW5KUFFWcDRWalpDWm1OblUzYxAB",
+            "text": "Phenomenal tasting menu and our server Isaiah was super friendly and professional! I am not vegan myself but I was impressed at how elaborate the vegan alternative dishes were. A little bit on the pricier side but very worth it. Would recommend!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOaWFXMVFTbE5ZZGxaQ2F6TklTME5mWlVKMFVrRRAB",
+            "text": "this review is exclusively on the private dinning room experience that I had hosted an event for.\n\nwhile I think the food was decent, the service was quite retarded, hence the two stars; examples:\n- service was very slow for the tasting manual , we had a group of 10 people and there was no designated server for the room\n- one of the main servers came in and told us hey im off work now and my co-workers would take over, the service got even worse and slower\n- I was trying to light candles for the cake and they did not have a proper lighter; I had to use a regular lighter (for cigarettes) and almost burnt my finger\n- now the most ridiculous part, apparently the restaurant was supposed to close at 00:00 but it seems we were the last customers so at 23:30 they started to send unsolicited checks and messages and basically wanting us to leave; and one of the male servers even started to change his clothes and took off/on his socks right outside of the private dinning room where I could see him doing so through the glass door, are you kidding me? I had a video clip recording the scene as I thought it was ridiculous. I won't post in the review but I do want the restaurant to know that this is out of line, even by NYC standards.\n\nwith the minimum spending etc. + 20% tips for the room,  that meal costed +300$ in tips alone.\n\nArtesano, you need to do better.\n\nthis is exactly the reason why nowadays im cutting my spending in NYC restaurants, just not worth it. may just save up $ and spend in Europe and Asia, so much better and worthy.\n\nthis could be just an individual/outlier experience for me; that's fine; so FYI for those who are considering private dining room experiences in NYC (not too many options), be aware and manage your expectations."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOa1ZFcERaVTF5WjJ4elpUQm1ORTlUWDBWNlZYYxAB",
+            "text": "Second and last time I will visit Artesano. We were welcomed by the lovely Chef David, had a lovely table, amazing food and then were abruptly kicked out by some young girl dressed in black right when we had ordered a bottle of champagne and asked for the dessert menu. We were never told \"we had been there  2 hours  already and to give up a table,\" two hours had in fact not elapse.  We consumed over $550 worth of food and beverages to celebrate my in-laws 42nd wedding anniversary. My partner and I had enjoyed the tasting menu last September and were looking forward to reliving this experience with his parents. It was so embarrassing and frustrating.\nFor such a prestigious establishment, invest in communicating to your guests the time expectation specially if they are consuming and celebrating, not surprising them less than 2 hours into the service.  Never again."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkc1F6azFXa1JrUkZGZlZpMW1VRFpIU0haek5VRRAB",
+            "text": "Terrible experience! I took my family there on Sep 19 to celebrate my parents anniversary. I've been to Artesano three times including this one. All three have been for special occasion celebration. First two were impeccable experiences. This one was started out great until we were on the main course. I asked for a bottle of champagne to toast my parents. I couple of minutes later some girl shows up telling us that we had used up our time at the table and she blatantly \"kick us out\" of the table and telling us if we could move to the bar when were just served the main course. Mind you, we were spending money on this table and were about to spend even more on wine, drinks and dessert. We asked for the check and left to have dessert at a different establishment. Not to mention we were guests of the chef. Will not be coming back."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201NFowUklMVEp2VjBadWVIRk1abXQ1V1ZCMmNtYxAB",
+            "text": "The best food in the world ❤️"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SUGJVOWFXVVpNWTBoV2VEZFJaV2MzYkVOT2FuYxAB",
+            "text": "El postre tres leche, tiene mas pisco qué un Pisco Sours. La comida regular, esperaba algo mejor."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21abVlYRlJObVYxZVhsNk4yRnNOMkZ1VG1oUUxWRRAB",
+            "text": "Amazing food ."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OSWRFRXlYMGt4VDI1dlNGQnFhMjAzWnpkT1MwRRAB",
+            "text": "My bf and I wanted one last good meal in NYC before heading to the airport, and Artesano Peruvian Cuisine in Tribeca delivered. I’ve had this spot bookmarked for a while, and I’m so glad we squeezed it in before our flight. It’s just a short walk from our hotel and ended up being the perfect send-off meal.\n\nThe space is stylish, modern, and slightly upscale without feeling stuffy. From the moment we walked in, every staff member greeted us with genuine warmth and friendliness. We were actually the first ones at the door right when they opened at 11am, so we went with their brunch menu.\n\nWe ordered:\n\nCeviche Mixto – Clean, bright, and super fresh with beautiful plating. A strong example of modern, elevated Peruvian ceviche.\nPork Belly Sliders – My bf’s choice. He really enjoyed them but mentioned they were more of a sandwich than true sliders, so the menu description could use a tweak.\nFish Sandwich – The fish was fresh, firm yet flaky, and cooked perfectly. Every bite was on point.\n\nArtesano is where Peruvian tradition meets modern fine dining. If you love Peruvian flavors and appreciate thoughtful presentation in a stylish setting, this is a must-visit in Tribeca."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WUk9XTktUMEpRVFZCM1FsOTRkRzVSVUV4NFgxRRAB",
+            "text": "Al buscar lugares de comida peruana. Sale de opcion este lugar. Pero su carta(opciónes de platillos)Es muy limitado,escaso en cuanto a la gastronomía peruana. Creo que no hace honor al nombre entonces."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjd0xXZHhabFZsUlZKS1JqTnJlblZmWjAxRVdXYxAB",
+            "text": "I came here earlier this year to celebrate my birthday. The food was absolutely delicious. We have the ceviche, Lomo and a few other items on their menu.The service was definitely a huge let down. The day prior to my reservation I received a phone call from the restaurant to confirm my reservation. In addition to that I was offered a like a birthday add on for an additional cost to have the menu customized with my name along with a few other things (I don’t remember since this was back in March) and I agreed since I don’t mind splurging on these type of things when it’s a special occasion. When we arrived at the restaurant the service was slow and it felt like our waitress was ignoring us. Also when we ordered our food there was some sort of confusion when we requested that the ceviche come out before the rest of the food but the ceviche came out at the same time as my sister and her fiancé’s food and my boyfriend and i’s food came out wayyyy later to the point where my guest were already done eating when we started to eat ours. Food overall was great, the establishment is nice and clean but they need to improve their customer service."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xob2RHczJTbVF3WDNob00wMWxaMDk1TjFVd1RuYxAB",
+            "text": "Lo mejor de lo m horario, amazing 🇵🇪♥️"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGalRVWlZiRTB5Y1VzeGFVSkxkM1ZTVVRoR1dFRRAB",
+            "text": "Hosted 12 people for dinner here on a weds night.  The entire experience was really great, and they are able to pull it off for large parties."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25rdE1HdE5ha051ZGtwVVVHZzJhR05DV1RnMWNtYxAB",
+            "text": "Visited Artesano on a solo dining experience. The hosts lacked hospitality, no greeting and little warmth, but my server was excellent and turned the service around. The Nikkei Tuna Tartare was fresh and delicious, and the Potato dessert was creative and unforgettable. Unfortunately, the Lomo Saltado was disappointing: tender beef but missing the authentic Peruvian flavors, feeling more like an American style stir fry. Overall, memorable in parts but uneven in execution."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JMVgxZDFZVlZxWVhod1ptUkRValZ5U2taM1ltYxAB",
+            "text": "Uno de mis nuevos lugares favoritos, la atención es increíble, la comida a cargo del chef César nos dejó sin palabras, definitivamente un lugar al que volveré siempre."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGVlpYUjVNMDgyUkVsaFgxTjNTM05wU1ZCemVXYxAB",
+            "text": "Slow service and overpriced fishy ceviche. I won't be back."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pselRqUmxiRmRNZUVocmMxWm9ja0ZwZVhaV1ptYxAB",
+            "text": "My friend and I had a great lunch at this restaurant and absolutely loved the food. The ambiance was charming, and we were especially impressed by the beautiful plates and dishes the food was served on. We'd never seen anything like them before. My friend also pointed out the unique wooden coffee spoons—a first for both of us! It's the little details that make a place special. We'll definitely be back for another meal soon."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xScFptMUxkRkoxVW1GSGRsQnJSRk5mTWpsR1ZuYxAB",
+            "text": "The lunch menu was very limited and did not match the one online, so that was a bit of a let down. The lomo saltado, however, was on point. $14 for a chicha morada, purple corn drink, was a bit excessive, though. I went there for dinner a year ago and it was a far better experience. Not feeling really motivated to go back now."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GSmRWYzJlSE5HUVU5eGF6ZzNiMWxSYWxkalNYYxAB",
+            "text": "Una fantástica experiencia gastronómica de la cocina peruana moderna. Platos refinados y presentación impecable. El postre Pachamama, que evoca a la Madre Tierra, es simplemente exquisito. El servicio fue excelente. Cabe destacar a maître Marisa por su amabilidad, por su conovimiento y explicaciones sobre los platos, demostrando una gran profesionalidad. Muy recomendable."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0WGRGTnRjVGx6TjFjMmMwTmxZazQxVjJ4VlJWRRAB",
+            "text": "Hace dos años fue la primera vez que vine a este hermoso lugar, me veo en la necesidad de mostrar mi queja porque casi muy seguido voy allá y no espero ver la decadencia de este sitio. En primer lugar la comida siempre es fantástica, el servicio, las bebidas, todo. Todo era excelente hasta el último cambio de menú, cambio de la calidad de las cartas, se ve como una hoja blanca con letras, nada de especial. La comida, aún permanecen muchos platos desde hace tiempo y son fantásticos, los sabores se mantienen. En los platos fuertes se nota una decadencia de sazón y términos, un lomo saltado sin gusto, un pescado seco y sabor a quemado, una carapulcra muy viscosa y seca, por último, un arroz verde con mariscos sin vida, 0 tonalidad en el plato. Poca variedad de postres, quitaron el mejor postre a mi parecer (emoliente) y para finalizar, las casi 15 veces que he ido, jamás me añadieron el tip en mi cheque, siempre hemos dejado más del 20% porque solíamos disfrutar en cada visita, me parece una falta de clase hacer este tipo de cosas y en lugar como este, me mataron con mi última visita."
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCaFFtVTVXbFZyYVhGQlJuUktXV2R6Um1WemIxRRAB",
+            "text": "La comida exquisita delicioso , el ambiente muy bueno cálido"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WQmIydzNPVGRTUjA1QlVHaFNRVE4zZFhWUWFHYxAB",
+            "text": "A Peruvian friend invited me here, saying it’s the most authentic Peruvian food in the city, and it truly was incredible! The atmosphere was great, and the staff couldn’t have been friendlier. They asked about our experience with Peruvian food, whether we’d been there before, and even surprised us with a free tasting plate on the house. Each dish was served with a thoughtful description, which made the whole experience feel special. The food itself was absolutely delicious and full of flavor. So far, this is the best Peruvian food I’ve had in Manhattan. Highly recommend!"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tabGEyYzBTMmRGTFVSWlVYTllVa3BwTkhoNlNGRRAB",
+            "text": "Good, but not real Peruvian food."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoYWRtYzJNRlJUYW0xT1F6a3pNV1ZaWDA1Q1RsRRAB",
+            "text": "We had reservations for dinner and let me tell you, everything was to perfection. Every dish was made with hand crafted beautiful art, the drinks delicious and the dessert was to die for. Staff very friendly and highly knowledgeable about each dish and explained everything into detail about the culture of Peru. We had an exceptional experience and would most definitely recommend this restaurant."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WME5GTjRVRFJ4ZG5oQ1FUUjVMVWRTZW10U2JuYxAB",
+            "text": "Husband was in the mood for ceviche on a warm summer night and this hit the spot for him. He got 3 different seafood cold dishes and really enjoyed (crispy rice as his fav). I had the mushrooms and truffle fries, both enjoyable but menu more limited for me. Place was packed, even for an early reservation and many were turned away without, hoping to snag a seat at the bar so reservations are a must on weekends. Most guests were speaking Spanish!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swelNXcGhSRk01VFhRMk1tTk1kRjlHU1dsMFlYYxAB",
+            "text": "The service was not great. The food was okay but overpriced."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSYWFIUjFhakZ4ZDJNNU4yOTZXRU4xV21SNWMyYxAB",
+            "text": "I wanted to give your restaurant another chance after my mother’s disappointing visit last time, but unfortunately my experience today was not any better. After traveling two hours with my family, we were not greeted properly and were simply told to wait an hour and a half, with no alternatives offered. It left us with no option but to leave.\n\nI truly value the times we were treated well before, especially by Rodrigo, which is why I gave it another try. But after two attempts, it feels disheartening that hospitality and care for returning guests were missing. I hope this feedback helps improve the experience for future families."
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xreVpqRnRiVXhEYVc1VFNtOU5iRWxmVlZkdWEwRRAB",
+            "text": "Viajé desde Washington DC con muchas expectativas, pero lamentablemente la experiencia fue decepcionante. La comida no cumplió con la calidad esperada y la atención al cliente dejó mucho que desear."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkZlpsWm9WMFpTYVd4WlVITjBSRXRMTjFsQmRrRRAB",
+            "text": "Thank you so much Marisa you hospitality. The food was amazing. I’d give it 10 stars if I could."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25nNVZtUnVUMTkyVGxObGJ6STVkWFpxVXpSb09FRRAB",
+            "text": "Great for IG photos, terrible food. I really wanted to like this place, but it was a huge letdown. We spent $200 on five small dishes and left disappointed. I don’t mind paying for quality, but the food was extremely below average.\n\nThe signature risotto was literally raw—crunchy rice at a high-end restaurant is inexcusable.\n\nTried two of their three ceviches. Flavor was okay, but the fish tasted off and sour.\n\nThe seafood dish was the only silver lining, but even that was basically a bowl of rice with a $50 price tag.\n\nMy cocktail was bland and forgettable.\n\nTo be fair, the service was good and friendly, but unfortunately that couldn’t make up for the poor food and overpriced menu. Save your money—don’t come here."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poblpVMTZhMVI2VW5CTFlVdFVZblF4WW1ObVFWRRAB",
+            "text": "Artesano is an excellent restaurant! Delicious! Renzo gave us a 5 star service! Would definitely go back very soon!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aMlMxRk5URXR6WVMxcWMyWnVla1Z1VVVsSlRWRRAB",
+            "text": "Artesano is a good restaurant and Renso was a great server! So nice and kind."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205WFZVMTJPVWs0VFdkVlMyZzJSRE0zTlRCUE1XYxAB",
+            "text": "I had the opportunity to visit this restaurant and I want to say thank you  the staff who served us and provide their best to make us feel at home. If I could give 10 stars, I would. But I'll give 5 with all the pleasure and affection for the service received. I can say that the food was phenomenal, the service was very good. Our waiter should have done better, but I understand they were busy that day, and we received attention from other workers. The drinks were what disappointed me the most. I could give them a score of 7.5 out of 10. For dessert, i asked for bring a sorprise write something, since it was the reason we decided to go out to celebrate. The presentation of what I ordered was absolutely beautiful and well-organized. Magical. I definitely hope to return soon. Thanks to the entire Artesano Restaurant team.👍"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paYVZXTnRjMkZSVGpsRE4wSnlOa2d0Tm1WRWJIYxAB",
+            "text": "Amazing Peruvian food at Artesano! Renzo was our waiter and he was outstanding. The service, the flavors, everything was top notch. Don’t miss the ceviche and anticuchos!”"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swMFMwMXJOVUZsZURFMmNUZG9kelEyZURSRlExRRAB",
+            "text": "We celebrated a special night at Artesano and Renzo made it even better. The tasting menu showed us flavors from all over Peru. Truly unforgettable!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Fd1ozaHJSRGRyVFhsSU4wRXlWWGxuUVc0NWNHYxAB",
+            "text": "Fantastic dinner at Artesano. Renzo was very attentive and made us feel welcome from the start. The food was fresh, flavorful, and beautifully presented."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0VmFUUXpNRUUzZVhSTlZITkZSVjl0YjFaMVgyYxAB",
+            "text": "Seating was really fast. We reserve with a day in advance. The only problem was that the ac went down, but still, food was amazing. Our table was shaking the server noticed but didn't do much about it. We were tasting a lot of plates. My wife and I felt left over since we didn't order everything at the same time. But food and drinks make this place an experience\nWill be back for sure"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKVWJrTm5SVEZoVkVSUFEyczNlbWx1V1UxdWRIYxAB",
+            "text": "We had the most incredible dinner tonight. The space is beautiful- great lighting (date night dream), open kitchen, ambient noise and good background music without being too loud to talk.\nThe dishes were a good mix of creatively plated classics and fun Peruvian spin offs- equally as surprising as they were approachable crowd-pleasers.\nService was formal but friendly. Everyone was extremely knowledgeable, and as excited about the food as we were.\nThank you to the Artesano team for an amazing and memorable evening.\nA special thank you to Chef Daniel for going above and beyond to make sure we had a good time- your attention to detail did not go unnoticed. All our love."
+        },
+        {
+            "date": "3달 전",
+            "language": "ja",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFMGFtcFJZelozYWxSM1ZXeFdUbkJXYzB4UVJWRRAB",
+            "text": "平日の昼間に訪問しました。席は2割程度が埋まっていました。\nペルー人の友達に選んでもらったお店だけあってとても美味しかったです。店内の雰囲気も良かったです。\n\n私の好きなチチャモラーダも、ロモサルタードも、セビーチェ、カウサもとても美味しかった。でもお値段やや高めの設定かと思いました。\n\nサービスも良くゆっくり過ごす事ができました。ペルー旅行を思い出す事ができ、またペルーに遊びに行きたくなりました。"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KalpFZzJNVWhrWVUxUlpEVk5ia1ZLUzFocVRHYxAB",
+            "text": "I’ve been following Chef Rodrigo Fernandini’s drool-worthy posts on Facebook and Instagram, so I had to know…does he have a restaurant in the U.S.? To my surprise and delight, he does, and it’s right in NYC! Naturally, we went for lunch at Artesano, and it was everything I hoped for. The flavors were right on point.\n\nThe menu struck a perfect balance, just enough options to excite, without overwhelming. For starters, we had the pulpo causa, and it was so good we ordered a second. We also tried the ceviche, which was just okay for me, but my husband loved it.\n\nFor our main dishes, he went with the arroz chaufa with beef, and I had the pan con chicharrón sandwich. That sandwich was mouthwatering, perfectly crafted and full of flavor. I also ordered a chicha pisco cocktail, and wow… the flavors were just perfect!\n\nWe arrived just before a large group, so we got to enjoy the calm and cozy vibe. The decor was stylish and welcoming, though I personally think a few more real plants could brighten things up even more. Bonus: the bathroom was clean!\n\nOverall, it was a great experience. We’ll definitely be back. As Chef Fernandini says—Buenazo!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VPdml3N3lXb3YzZ0tREAE",
+            "text": "Service and ambience were very good but that’s where the good ended. Food is overpriced, not just in actual cost but for what you actually get.  Portions were subpar, taste and quality the same.  Ceviche…the fish was good quality but tasteless, you can tell it wasn’t marinated and just plated with the rest of the ingredients.\nLomo saltado….not sure what they were trying to do here but tasted like all ingredients were cooked separately then plated together, this dish is supposed to be a medley of flavors of it’s ingredients cooked together.  They used halved cherry tomatoes and green onions. Where are the real tomatoes and the red onion?!! The sauce tasted good but was very watery, none of it stayed on the food as I picked it up. Steak was good and perfectly cooked but pieces were too large…it was like eating a few small steaks that had to be removed from the dish and cut.  Seems they are more focused on platting and presentation than actual taste and textures."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkQ05IcHBhMDl4VGkxaFMxWTRSV1JMTVZsVE5rRRAB",
+            "text": "This is a charming, cozy restaurant—not tiny, but not too large either. The atmosphere was welcoming, and the service was excellent. Our server was incredibly helpful and attentive, especially when it came to accommodating my wife’s gluten-free needs. He took the time to go over the menu with her and explain which dishes could be modified, which we really appreciated.\n\nEveryone was friendly, except for one female staff member—possibly a supervisor or host—who came across a bit dry and seemed like she didn’t really want to be bothered when we asked a question.\n\nThe food was absolutely delicious, although the portions weren’t huge. Still, the quality and flavor made it totally worth it. I highly recommend visiting if you’re in the area, this food was BUENAZOO!!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvcGJqV3p3RRAB",
+            "text": "I had a wonderful experience at Artesano. As a Peruvian living quite some time in the US, I’m always excited to try our cuisine and how is presented outside of Peru. I was quite impressed with the food, not only the delicious taste but the presentation was so creative and the service outstanding. I can say Artesano is now added to one of my favorite places to visit; all foodies alike must try it!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VLcnI5YjdKNC1UX2xRRRAB",
+            "text": "I came here to celebrate a friend's birthday, and we opted for the tasting menu. It was absolutely worth it, and I appreciated how accommodating they were of her shellfish allergy, thoughtfully substituting some of the dishes. The ceviche was a standout--fresh, with a flavorful sauce that really impressed me. However, the lomo saltado fell a bit short of expectations. Despite that, I'd definitely return to explore more of the à la carte offerings."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQckhnYTNZNWM2U3Z3RRAB",
+            "text": "From the appetizers, main, to dessert every single dish was good! Service was great with explaining each dish and attentive care. I am not familiar with Peruvian but Artesano was great! Maybe they are the artisans of food."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvbGVUdzBRRRAB",
+            "text": "From the moment I stepped into this restaurant, I knew I was in for something special. The atmosphere was vibrant yet cozy—perfect for an authentic culinary escape. The staff were incredibly sweet and attentive, making the whole experience feel personal and welcoming.\n\nI started with the chicha morada, and it was truly a standout. Rich, flavorful, and clearly homemade—it had that comforting, nostalgic touch that only real craftsmanship brings. Next came the causa de pulpo, and it was super savory with a perfect balance of textures and taste. The octopus was tender and flavorful, layered beautifully over that classic causa base.\n\nBut the highlight? The ceviche tradicional. Phenomenal. Incredibly fresh, bursting with citrus and just the right kick of spice—it was the kind of dish that makes you close your eyes just to savor it longer.\n\nThis place is a gem. Every dish was executed with care and passion. Highly recommend coming here—you’ll leave full, happy, and already planning your next visit."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsMlJuUjRWbWhsVWtreVYzVmZaMDlvVTJ4WFozYxAB",
+            "text": "Second time that my wife and I have been here. Today, we were lucky enough to come while Chef Rodrigo was in the kitchen. We had the Trip to Peru menu. From the drinks to the food you will not be disappointed. Buenazo!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3a096YWhRRRAB",
+            "text": "This was my second time at Artesano, the first time, the server was excellent. My second time was on Saturday 8th at 3pm. We did not know the name of the server, he only took the order once and he absolutely disappeared, he never asked if…"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0bFNFczBSVkZwUmt0aFZ6a3hUMU4yV2pKMmRFRRAB",
+            "text": "This Peruvian spot in NYC is an absolute must-try! Every dish, from the appetizers to the entrees and desserts, was mouth-watering and beautifully presented. A truly unforgettable dining experience! The staff was very welcoming and knowledgeable. We cannot wait to go back!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBMjZDSFpnEAE",
+            "text": "Atmosphere was nice. There is a semi open kitchen but pretty quiet. The drinks and food we had ordered was pretty good. Peruvian? Not quite sure since I’ve never had Peruvian. Seems like there’s some Asian influences in there?? Duck was quite fatty and hard to chew on. Other than that. Nothing to complain about."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNudmZmRGhnRRAB",
+            "text": "Absolutely incredible!\nWe picked this restaurant b/c we had appointments scheduled in the area. Cased the menu all week. Sat at the bar and was greeted by Rob. He made our experience next level!!!! Food was Amazing… Rob’s service was on Point! True, authentic Peruvian cuisine delivered with 5- Star dining experience."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNndHZpbW1BRRAB",
+            "text": "I went with a group of four for a late Valentine’s Day. We arrived around 5 pm thinking we would skip the busy rush. Everything was great food met our expectation and hype. Service was good attentive and very knowledgeable.  The one thing and I know you have no control is I would of loved to have seen the head chef as I’m a super big fan and was hoping since it was a valentines weekend that he would be there but I wasn’t able to meet him .  But everything aside everything was as expected"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIcjlqRVl3EAE",
+            "text": "One of the best experiences we had while in New York. The food was exceptional and authentic - what a treat! Especially the pork belly was smoky and sweet all at the same time. Definitely order a pisco sour with passion fruit! Wow. And the ambience was so fun and full of good vibes. 😎"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQNHBhSGx3RRAB",
+            "text": "Amazing new restaurant in Tribeca! The food is so fresh and unique! So full of flavor! Simply delicious!\nCocktails are high level! I had a dirty martini and it was perfectly made.\nThe service is great as well.\nGreat music and vibes!\nCan’t wait to come back!\nThank you!!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzNk1pdkRBEAE",
+            "text": "I’ve been dining at Artesano since a month after it opened. I’ve been at least 5 times so far, and each experience is more satisfying than the last. From the service to the ambiance to the taste and visuals of the dishes, everything is immaculate. I do wish they would keep the gnocchi on the menu year round as the potatoes in Peru must be made of angel wings. It’s the lightest, most pillowy, melt in your mouth gnocchi I’ve ever had; I’ve only had one other to date that even comes close. I have yet to try anything there that was not beyond my expectations, and last night was no different. The duck dish that I ordered was perfect, the tuna and beef tartare were impeccable and my friend’s beef stir fry dish was amazing. We were both celebrating our birthdays, and whatever creamy, chocolaty dessert they brought out for us was divine! I also love the purple corn juice and the IPA I had last night was tasty as well.\n\nI recommend Artesano for anyone looking for a fine dining experience with stellar Peruvian food. Peru has been a bucket list destination for me a long time as I’m dying to see the rainbow mountains in person, and Artesano has heightened my desire to visit."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSa1VuZHBVVjk0VVRGa1VtRnlVelZ4YTFGeloyYxAB",
+            "text": "The food was incredibly fresh, the service was top-notch, and the drinks were bursting with flavor. I highly recommend the ceviche for anyone who loves fresh seafood. Will definitely be back"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNncXRUbnp3RRAB",
+            "text": "What an amazing dining experience! Everything from the cocktails (definitely recommend the passion fruit pisco sour) to each dish was amazing! We opted for the tasting menu, which was phenomenal. Our server, Kevin, was great! One of the best parts of the dinner was the storytelling behind each dish. Kevin was very knowledgeable and friendly. The food was exceptional, each dish had a unique flavor. The ceviches we tried, artesano ceviche and octopus ceviche tasted amazing and so fresh. All staff were very friendly and attentive. We can’t wait to go back and enjoy the a la carte menu."
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wUlYySjFWbXhmVWpoTFgzSm9ZVkl5VW05eVdYYxAB",
+            "text": "La comida es exquisita. El mejor restaurante de comida peruana de la ciudad. Super recomendado el lomo saltado !! Todos los platos son asombrosos."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2NmN1alpBEAE",
+            "text": "I had the pleasure to visit at Artesano, and it was an unforgettable experience!\n\nTo start, I enjoyed the Artesano Ceviche, which was hands down one of the best ceviches I’ve had in a long time—fresh, perfectly balanced, and full of flavor. Then came the Pork Belly Slider, which was delicious, and for dessert, they served a spectacular ice cream that was the perfect sweet ending.\n\nTheir brunch prix fixe menu is an absolute must-try.\n\nNow, let’s talk about the cocktails, my favorite part! I had a Buenazo, which was incredibly tasty, but the real surprise was a lychee pisco served in the most charming teapot 🫖—such a creative and delightful touch!\n\nHighly recommended for anyone looking for an exceptional meal, amazing drinks, and a cozy atmosphere. Artesano is 100% worth the visit!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBa2NDN2JREAE",
+            "text": "An Unforgettable Dining Experience at Artesano\n\nArtesano is an absolute gem! My girlfriend and I celebrated Valentine’s Day early with their Chef’s Counter experience, and it was nothing short of incredible. From the moment we walked in, the ambiance set the perfect date night mood—warm, intimate, and stylish.\n\nThe tasting menu was a culinary journey through the best of Peruvian cuisine, with each dish more impressive than the last. The grilled octopus and scallops were standout favorites—the seafood was incredibly fresh, cooked to perfection, and bursting with flavor. Every course was thoughtfully prepared, making the experience feel truly special.\n\nThe drinks were just as exceptional, perfectly complementing the meal and elevating the entire experience. The mixology here is on another level!\n\nIf you’re looking for an unforgettable night out with exquisite food, creative cocktails, and a romantic atmosphere, Artesano is the place to be. We’ll definitely be coming back, cant wait to try the brunch menu experience."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqc09XYlRnEAE",
+            "text": "Went here for my 6 year anniversary and man do these people make you feel special. From the drinks to the food to the service everything was an experience. The owners are constantly walking around making sure everyone is happy and content. The servers were very friendly and observant. Watching the chefs cook in the kitchen was also an experience. So much love and concentration that goes in a plate of food. Would definitely recommend. It is on the pricier side but it’s definitely worth it."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkeVptbExZMWh4VTFnelRsOTVNMkZXUm00NE5WRRAB",
+            "text": "Unbelievably disappointing experience for brunch. We have dined here several times, brunch and dinner, and have never had such an awful experience at any restaurant until now.\n\nComing to Artesano is the highlight of every trip to the city we take as we live hours away. We came for brunch as we were attending an event that afternoon, something we made staff aware of, as we waited over an hour and a half for our entrees. We repeatedly asked to leave and were reassured the food was just \"5 minutes away\". I was given the incorrect drink, told the correct drink was coming and that it would be taken care of, and then after 40 minutes told they \"ran out\". The incorrect drink still appeared on the original bill, which shouldn't have taken multiple reminders. The restaurant was painfully understaffed, which I am very understanding of, but tables seated well after us were served their food long before we were. When the food finally arrived, it just was not worth the wait or stress. We were really looking forward to the experience and instead left disappointed and frustrated. Not a suitable experience at any restaurant, especially not this one.\n\nI’m giving 2 stars only because of the many great past experiences I’ve had here. I sincerely hope this was a rare off day, but this visit turned a restaurant I loved into one I now feel hesitant to return to, and that’s a shame."
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBbFphYnVnRRAB",
+            "text": "The ambiance is a perfect blend of modern elegance and Peruvian warmth.\nThe star of the night was the octopus cevicheincredibly tender, with just the right balance of citrus, spice, and freshness. It was hands-down one of the best ceviches I’ve ever had. The duck breast was another standout, perfectly cooked to a juicy medium-rare and served with rich, bold flavors that highlighted the depth of Peruvian cuisine.\n\nBeyond the food, the cocktail program is top-tier. Every drink was artfully crafted, with unique flavors that complemented the dishes beautifully. The service was impeccable attentive without being intrusive. They are very knowledgeable, and genuinely passionate about the food and culture."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnNW9fNVR3EAE",
+            "text": "Amazing Peruvian restaurant. By far the best Peruvian food I’ve had in the city. They have traditional dishes like lomo saltado, ceviche (both of which were amazing) but also some more unusual/fusion dishes which were very good (chicharron sliders, sushi with steak). I’m not a big French toast fan but the French toast here was amazing. Cheesecake was deconstructed and with passion fruit, also amazing. Every drink we had was outstanding. It’s not a very big but they make very good use of the space. It’s also beautifully designed!!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUc0liOUlBEAE",
+            "text": "We saw a few friends post and rave about this restaurant so we gave it a try. Every single drink, every single dish, every single bite was phenomenal. If you like ceviche I highly recommend you give this place a try. I don’t want to make this into an essay but I will say go for the Chef’s tasting menu. Portions are generous and outstanding. Cocktails are very well thought out and balanced; we did not have anything that was over sweet or bitter. 10/10 overall in food, service, and atmosphere."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKa2VVVndNekpQZVRsb1RrZFFXRVpFWmtoWExYYxAB",
+            "text": "Sebastian was awesome! I'm vegan and he made sure I had a good selection of food. The rice was SO delicious and the yucca fries so crispy and fluffy"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6aU5xSG1BRRAB",
+            "text": "I cannot give them enough praise, the chef’s menu is insanely good and abundant. The ceviche and lomo saltado were fantastic as expected, but we were blown away by the scallop tiradito and the octopus. Chef Cesar is a master, and service by Roxana and Kevin was excellent. Fair warnings: the chef’s table seating is somewhat cramped, and we didn’t love the pisco sour. However, the tea party, chicha sour and chilcano were beautiful. All things considered, our evening was incredibly memorable and we can’t wait to come back."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEcU9lRzVRRRAB",
+            "text": "Tonight we dined at Artesano Peruvian restaurant and had an incredible experience. The food was absolutely amazing, with each dish bursting with flavor and authenticity. Our server, Angel, provided exceptional service, making our meal even more enjoyable. From start to finish, every aspect of our visit was delightful. Artesano Peruvian restaurant truly exceeded my expectations, and I can't wait to return for another unforgettable dining experience."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUNk9LamhnRRAB",
+            "text": "I enjoyed a wonderful dinner at Artesano with my friends. The service staff were amazingly friendly, helpful, and accommodating.\n\nThe ceviche dishes featured fresh and bright fish with amazing taste and tangy flavors.\n\nThe pulpo was the most tender and flavorful octupus i’ve ever had.\n\nThe standout dish for me l was the dessert, “Peruvian Gems”. I want to return just to get this dish.\n\nOverall i’d highly recommend this place. Don’t go in expecting to save money, it’s a high end restaurant in Manhattan, so splurge a little and treat yourself."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMcFpQcHVBRRAB",
+            "text": "I had high expectations, but I left disappointed.\n\n📌 Food\nThe menu boasts a good selection, but every dish we tried lacked some taste. While they clearly focused on the visual presentation, the flavors fell short.\n\n◼︎Ceviche: it was good but far from memorable. It lacked sufficient sauce and a harmonious blend of flavors.\n◼︎ Scallops: I do not recommend them. The \"Manhattan style\" foam made them look sophisticated, but the taste was underwhelming. The scallops were dry and lacked some salt and taste.\n◼︎ Octopus: A standout dish! It was delicious and worth ordering.\n\nWe chose the seabass with cauliflower for the main course, which was a mistake. The seabass was mediocre -- it did not taste anyhow, and the cauliflower was almost raw and difficult to cut. However, the puree underneath the cauliflower was tasty.\n\nTheir Tres Leches are the 'one and only' must-try at this place! It was delicious and unforgettable, ranking as the second-best I've ever had.\n\n📌 Service\nThe service was subpar. Our server merely took and delivered orders without engaging with us or providing recommendations. The pacing between the dishes was sluggish, with more than 25 minutes between ceviche and appetizers, and then 20 more min between appetizers and main courses.\n\n📌 Ambience\nThe restaurant features an open kitchen, which is a nice touch, but the overall space is small, with tables that are closely positioned. I expected a more luxurious setting but found it reminiscent of a tourist spot one might overlook. Additionally, the bar lacked a better, more stylish appeal.\n\n📌 Overall Experience\nI would not recommend it or go back just because it did not really resonate with me. The price did not match the quality offered, either in food, service, or ambiance. I was very disappointed, especially since this restaurant was at the top of my list."
+        }
+    ],
+    "reviews_count": 84
+}

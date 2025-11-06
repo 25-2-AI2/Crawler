@@ -1,0 +1,614 @@
+{
+    "name": "Barking Dog Hell’s Kitchen",
+    "place_id": "ChIJbdoPbEZZwokREBWq_EVLfOI",
+    "grid": "MN4",
+    "address": "329 W 49th St, New York, NY 10019, USA",
+    "rating": 4.6,
+    "user_ratings_total": 1939,
+    "phone_number": "(646) 755-8009",
+    "reviews": [
+        {
+            "date": "4시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xQ2IxOVZhM1V5TkhaRFN6TlliM0JmVURORExXYxAB",
+            "text": "Dog friendly restaurant. The food was good."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201S2FGaE5hV1ZYYkVOSGRFcG1lVUZOWlV0RFNVRRAB",
+            "text": "Really enjoyed this place. Fun atmosphere pre theatre"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCdFZVZ3lYMXBVWldRNU9EUnRTbU0yV1RsQ2JsRRAB",
+            "text": "Mid"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4d2MweHVXRlZaVURaaGNqRlVOMFJJTm5CRFdYYxAB",
+            "text": "The Mac & Cheese was absolutely spectacular!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200eE1qWXlabmRaT1hCdWJEbG9NbFU0T0VaNFFWRRAB",
+            "text": "Beautiful, great food and happy hour on drinks until 10"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aeVVUVkliVzlpUkdaVGJYbFRPREZWY1RkV2MxRRAB",
+            "text": "Lugar acogedor por el parque que tiene al lado.\nUn clásico del buen brunch, buen ambiente y excelente atención. Muy recomendable."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SblNXMXpkVWRJT1RVMExWSlhTRWxrWWpGbGNFRRAB",
+            "text": "I found this restaurant worth recommending. The employees were both efficient and helpful. Their menu offered only ordinary fare. We left Barking Dog Hell’s Kitchen completely satisfied! This restaurant earned five stars through consistent quality."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0bk0xUkxiSEUwUkU5bFIzcDZMVVZrYWtSTFZXYxAB",
+            "text": "I’ve been coming to the Barking Dog for several years. It’s my go to lunch spot in Hells Kitchen! The food is delicious and the service is consistently good, friendly and timely. And nice outdoor seating."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kWmJsSmtka3BUT0c5eVF6TmZla2R1ZVU5aFQzYxAB",
+            "text": "The atmosphere and service is warm and friendly for both my pet and myself. The staff is attentive, respectful and efficient. The general manager is always a welcoming source of positive energy. I highly recommend it to all"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGWFJWSkdVRkpFVkdSWVJFMWtXVGd4VkRoS2VGRRAB",
+            "text": "Perfect!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwdFYxTmlhamM0WVhGVGFIbDVaazlKWjNoUlNWRRAB",
+            "text": "My dog and I went and they made her birthday so Amazing the whole staff is welcoming and just full of life will be back again"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGVVZEWk1VV281UWpKdWNGOTVlVEZWYkV0cFNGRRAB",
+            "text": "Samuel was great!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GSGNHaFVhR2RNUmtaWmREVk5TSEpyTUhOUlJHYxAB",
+            "text": "Awesome place to chill out with friends, bring your dog, and enjoy good food and drinks. The staff is absolutely amazing: very courteous, diligent, and super welcomed our dog! The service is fast, not only not having to wait much for food/drinks, but them always staying on top to remind you of the different menu schedules when needed, this way you do not miss happy or yappy hour, brunch, etc.  The drinks are spiked and yum! Will certainly be coming back soon!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21seFFXUlpTbVp1VkdwTVkzUk1WSGxDVkhnNGVWRRAB",
+            "text": "Friendly atmosphere-! Lots of choices- gracious service"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wWFUzaEhkRTlWUm1wRlJFRkNNVTVWWVhwbE9VRRAB",
+            "text": "The food was fine but can't say that about the service. I was asked if I wanted still or sparkling water and I said still was fine but didn't know it cost $8. At the end, the waiter didn't show/give me the itemized receipt, pointed to my total and just said 'this is your total'. I was hosting someone and just pressed some tip in a rush. I saw the credit card charge and it just didn't feel right. I had to call twice to get the itemized receipt and I feel I was fleeced. There was a 3% credit card surcharge as well that no one told me about. Never going here again."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWbGRERjVRVFl0Um1sMU5rVnpaek5yTlhWRGRWRRAB",
+            "text": "Lovely food with a great vibe. We were outside as the weather was lovely on a Saturday evening. However the service was slow but they did pre-warn us as they were so busy."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsTFRUZG5VVmxIUzJ4dFRtVlFaaTFpVVRGRFdVRRAB",
+            "text": "If you want a great breakfast and efficient service in the city... This is the place to go. You are greeted with smiles and a warm welcome. I was so impressed with how smooth everything ran. We got our food fast but not too fast. Everything was delicious. Although it gets very busy there you won't feel rushed."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sV0xXcDFOVUo0YkdkcFZWZ3pRa1paWnpWTWQyYxAB",
+            "text": "went for breakfast, service was slow, pancakes cold and hard , overall mid and expensive"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCa2JtZFZOR1pMZDBSNVRUaHZjQzB4VEdKUWJFRRAB",
+            "text": "The breakfast we had (omelletes) was soooo good. I really enjoyed visitig this place."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xdVlrSXdhakZWTVRWME4yaHVVSFV4WDNGWGVIYxAB",
+            "text": "Awesome experience!! Come here!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sT1YxcENTbnB0T1hOWGQyWmZWVTUzWlRCeE5uYxAB",
+            "text": "Wr had such a fab time at the barking dog. The staff was so pleasant and kind. The chef came out to check on his new future we ordered and the owner brought out a b day cake as a surprise for my mom's b day! Fust place that felt like hom in NYC. Ty!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SclFucHpXR2ROUzBONFNDMVRORzlQT1RCb1NFRRAB",
+            "text": "Good restaurant. The food is pretty average. As are the drinks. Wish I had brought my dog."
+        },
+        {
+            "date": "1달 전",
+            "language": "pl",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCVlNrRjJNVlIzZUZSQmNFSXpVV2wxVDJsdlpWRRAB",
+            "text": "Miłe miejsce w centrum cisza i spokojnie, dobra kuchnia i piesek mile widziany 🐕🇺"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOeU1WRmlhVTVuTm1sSVpIaFdNRmRuYzBFMU5sRRAB",
+            "text": "Agradable lugar al aire libre en una linda plaza de Hell’s Kitchen.  Buena cerveza y ambiente.  La actitud del personal debe mejorar, poco amigables  y parece que no tienen buena acritud para atender.  Sin embargo regresaré."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCR2FtTk9ZMFo1Vm05dkxVdFpVWGszWWtac1MzYxAB",
+            "text": "Came for dinner with my k9 dog and was beyond satisfied. The burger and sweet potato fries were delicious. The drinks were half price because I brought my dog. The staff Denis and Lucy gave us great welcoming customer service and treated my dog amazing . I will definitely come back . Atmosphere was beautiful and comfortable for my dog and I ."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25VMlYyZHphMjU1WkdwcFNsTlpkRU0yTFRKUWExRRAB",
+            "text": "Most amazing experience ever here the staff really knows how to treat their guest and most of all they treat the pets amazingly and so nice the staff Dennis and Lucy and the general manager Lucy they went above and beyond for me and my girlfriend and our dog !!!!! If I could give them more then 5 stars I would"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kTmQybDFTRWhIY1c5SE1XWTBjbUZMWWpVMFVFRRAB",
+            "text": "We brought one of our dogs there and had a wonderful time. The food (salmon Benedict and French toast) was far better than we expected for a place that had kind of a tourist trap vibe based on the location. Chris was a great server and everything was quick and correct. Loved the doggy menu too! We will definitely come back."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oa1FWZHZSakpaT0d4VFFXZG5kblZtU1RsV1MzYxAB",
+            "text": "Food was decent and we loved the atmosphere and pup menu, but were charged an extra 3% on our bill for a credit card without any notice (even when we signed the bill and added the tip). Food also took quite a long time to come."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ReVFWcHpVM2xTTmtSeFNIUnFRM2xLTWtOV1lYYxAB",
+            "text": "Wow, as a dog owner, this place was top notch above and beyond. Our server Chris was fantastic. He made our dog (and us) feel like royalty the entire time. Beautifully peaceful location in a courtyard. The food and drinks were delicious. The puppo menu was a wonderful touch. We will be back as often as we can!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GT1dIZEtlVGw0UjFGMk1UZFZRVU16T1ZCU1JYYxAB",
+            "text": "We had a lovely lunch with Daisy today , delicious and everyone was friendly to our pet."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25rMWJrOHhUakZrYUhaUlZGSXhVVm94UjJSZk5HYxAB",
+            "text": "Wonderful service and ambience!  The brunch was great and we came over from the other side of town and well worth it.  Highly recommend the steak salad.  Lucy is the best host!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsYU1EQnVTSEpqUmpSb2NHaDNaV1ZsYVZObWVrRRAB",
+            "text": "Best brunch in nyc , gobbled it up . Lucy was very nice. SO YUMMY."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205RFRWcFhRMHhLY1dwa1dIWktaMHhWTmpaVFYzYxAB",
+            "text": "Had a wonderful brunch at the Barking Dog. Lucy was amazing and very nice. Would totally recommend to anybody in the nyc area"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WRWF6azJhVUpJT1hBd04yWmtZVjlIV25CTVlVRRAB",
+            "text": "Absolute 10/10. My family and I just arrived in NYC and this was a perfect kick off to our vacation! The staff was incredible from beginning to end, super attentive and friendly. We asked our waiter Denis for recommendations and my dad loved the lamb burger he suggested. Great vibes, delicious food and outside seating! Bring your pups too and get 50% alcoholic beverages!  Thanks again Denis!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kdlN6TnRiVjlaV0dGTmNTMTRiVWxpUmtaVFZGRRAB",
+            "text": "It really is 5 stars! The ambience is probably my highest favorite! I'm so glad we got up and left that little dark diner and came to find NYC atmosphere! Not only that the food is amazing for real, especially, Dennis is amazing as a waiter, had great recommendations a wonderful personality, and provided excellent service! It's a dog, friendly patio too.So if you've got pups make sure you get here for the pup friendly menu!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twb1VXVk1TWFZuY1VSNlJEUTVOMUZ3V0dGNlZGRRAB",
+            "text": "Cute atmosphere. The service was very slow while the dining room was less than full.\nFairly average diner food. Omelette was good. The side salad and fried potatoes were very average. French toast with side of fruit that consisted of the typical melon and grapes was underwhelming.\nFried chicken sandwich was generous with two pieces of chicken breast."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xJMFNqRnZUMWQ0VVVsTmJIVjNWbTVzYTNOS2FXYxAB",
+            "text": "Came here for an event and loved the space and doggies"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaQlFUWXhXVGhZV0VKNGRsOUxVMlZ6UzNaTVIyYxAB",
+            "text": "Perfect midtown outdoor heavenly dining experience!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCR1dGYzJibVpuVlROc1JUQkdSbFJNTVdwUU5sRRAB",
+            "text": "All a great time w/ Lucy and her bunch. Good food and  a fun fun time! Thank You."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aR2VIbHZVWGxOTjBaemFYRkdUVnBPYm5WTmFVRRAB",
+            "text": "Lucy the General Manager was Amazing!! All of the staff was great and the food was soooo good!! (It slapped #iykyk)"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21VMlpYWklRalZ3TldsNldFczVNR0Z0YmtvNVYxRRAB",
+            "text": "Dennis and the manager are the best, will definitely be coming back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5ZlpuVnZkR2RNVFc1cGFETlFhM1JCWDFwSWFYYxAB",
+            "text": "IT WAS AMAZING!!!!! DenNIS WAS THE BEST EVER!!!!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Kd09EQmFNa05WWmpoUldIUjVjRGhxYWxGUE1tYxAB",
+            "text": "The staff were rude, the service was very slow, and the food quality was disappointing."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSVlNFazNORk5LWkVwcGFtcEdjVEZRUm5GQlozYxAB",
+            "text": "Amazing service, food and súper DOG FRIENDLY they treated my dog my royalty 🫅!  I wish I lived in NY to come here more often!…"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2prMFpVeHpiRUZwWTBac09FeGpjbFpaVlhRMFgyYxAB",
+            "text": "Loved it! Our server, Chris was outstanding! I will be back for sure"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsWU1qVk9NaTF1Y1V4Wk5uQjFOelZhVG5OclpFRRAB",
+            "text": "Tried to grab a quick bite with some out of town friends. It took 45 minutes to get our coffees! Another 30 minutes for food. Waiter was very rude. Plus 8 dollars for a bottle of tap water!!! Who charges for  tap water??? Will never go again or recommend."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkNlFVdG1PRE0yZDJzeVRHWkxVMFZMZVhOQk0wRRAB",
+            "text": "At a time when I feel many restaurants in Manhattan become about tricking customers, this place is such a fresh sense of old-school care for customers. Well-maintained environment, delicious ingredients, and never rush you to enjoy your food. The general manager Lucy and our server today Dennis esp checked my food allergy and communicated with the kitchen and recommended to me to replace a dish. For frequent customers they remember their fav dishes too. Very impressive and friendly. Thank you!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0V2JtOW9NRlUyT1ZRNVVXRnVOamszVkdoSlkzYxAB",
+            "text": "Had a wonderful time, meeting, family and friends on their beautiful patio! Everything was fantastic! Very Pet friendly too🐶"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjMk9ERktZMFV4VTJKVE9XMXNlREpTTVZoQ1JVRRAB",
+            "text": "We had the most amazing time six guests Lucy the manager was beyond incredible customer relations, graciousness and service. Outstanding Esteban was our waiter. He gave us a moment until our friends arrived, but it was all handled in such a professional and guest friendly way bravo to the entire staff"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSS05ETmxURTlEVkhoTU4yNVNXa2hqUm1OWFVFRRAB",
+            "text": "Great outdoors patio, with well organized check in - you can wait sitting at the fountain in the courtyard. Coffee and food was great, and no pressure to vacate quickly."
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuNXRPRlNREAE",
+            "text": "친절한 서비스, 맛있는 음식과 좋은 분위기.\n고구마 튀김을 꼭 시도해보세요."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwaVdXa3RkMmx2TlRaWlNtcHFZbFYxTURCWVQzYxAB",
+            "text": "I cannot hype this place up enough. Delicious food, superb customer service with grisly staff and dog friendly. They treated my dog and me so well. Brought him a. Bowl of water, his meal and dessert. Food and drinks were delicious. I had the artichoke dip with chips, warm and flavorful. I had the beet and asparagus salad. Molten lava cake a la mode for dessert. I highly recommend for anyone with a dog to visit. Unforgettable experience for my pup and me. If you don’t have a dog, I still highly recommend it as the customer services is fabulous and the food is so tasty."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kZlZVTnphREJyZFZsb2VXbG5WVTFLWkRZeWJHYxAB",
+            "text": "We didn’t have a reservation for lunch but Chris helped us out and placed us at a nice table outside by the fountain. They brought water for our dog immediately and gave her several treats. Both the chicken wrap and the friend burger were delicious. I’m surprise of how inexpensive it is for that it’s at a prime location. We got the grilled chicken meal and the whipped cream from the pup menu for our pup but she didn’t eat any of it because she was tired and a bit anxious but mostly she is very picky. We had the signature cocktails, and they were good, only suggestion is to put them in nicer looking cocktail glass. Highly recommend this place for any dog owners."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paTVoyUjJkWFpIWjB4cmRFNXdPVmg2YjNsbU4wRRAB",
+            "text": "Super awesome place with a beautiful outdoor space in a shared public park with nice landscaping. 5 stars across the board - food and drinks were great with reasonable prices and portions. Super attentive service from not just our server, but 2 other staff who checked with us."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SNlptVjFTMGhFYzB0TFpscHpNeTE2VWtwVk5YYxAB",
+            "text": "Great cafe with a delightful outdoor seating area. Food was fresh and delicious. The shakshuka was the star of the show, very flavorful and rich. Can't wait to come back. Everyone (especially the manager, Lucy) was friendly and courteous."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VMMjN2NG40anFDcVVBEAE",
+            "text": "Great spot for outdoor brunch, and it’s pet-friendly too. The food was excellent, but the drinks were a bit underwhelming—orange juice wasn’t freshly squeezed and the coffee was just okay. That said, service was quick and efficient"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GdlVrSnFXbUZOTm5WTk9YcENaM2h6TkdndFdrRRAB",
+            "text": "I absolutely LOVE this place. Since I’m only in NYC for two months out of the year (July and August) it’s important that I make every single moment —-every meal, every sunny summer afternoon and even the overcast muggy heat wave afternoon— count. So it’s important to have a space where people are warm and friendly and the vegetarian options are available. Since breakfast is my favorite meal and I’m health conscious, I’m incredibly picky about where I go. So Barking Dog is my go-to. It’s in a courtyard with trees and a fountain with Manhattans iconic skyscrapers around the edges. Best to make reservations on busy holiday weekends but if you plan ahead they will try and find you a table. It’s also in the heart of the theater district Brunch before a matinee or late night cocktails after a play or musical. Did I mention it’s in the heart of New York’s theatre district and has an outdoor wrap around patio as well as an indoor bar and restaurant with walls of windows? Barking Dog is a Hell’s Kitchen, Manhattan theater district gem!!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1TVZITmFja2RHZEROcVpHWjJZa2hQVFZOcFlXYxAB",
+            "text": "The food and coffee were actually really good and I loved how it’s so dog friendly!! However, the service is kinda slow around peak brunch hours and we had to pay prior to getting our food so we can get where we needed to go omg time, that’s the only reason it’s 4/5 stars for me.  If you bring your dog, you get 50% off cocktails which is amazing. Both outdoor and indoor seating and very much a wholesome vibe. I can see myself coming here again for sure."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsSlRrVXRiemN5YkhZME1WZDFWVnBqU3pORVpYYxAB",
+            "text": "An amazing experience that was in a part of New York City hidden away from all the chaos and noise. Beautiful place to sit and chat for a while while having a nice brunch/breakfast or even a lunch or dinner if you’d like. The service was great and everything was efficient and the servers made sure we were taken care of. I would recommend this place if you’re looking for a nice calm brunch in the big apple"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQbnQ0S25COElIbnF3RRAB",
+            "text": "Great spot to bring your pup- they have a dog menu!! My dog devoured his entree and he’s a picky one!\n\nTheir food was spot on, high quality, flavorful. Service was amazing and quick. DEF order the lemon chicken soup!! Their fish and chips were to die for- light and crispy battered fish, delicious tartar sauce.. ask for extra! My partner got the chicken sandwich- SUPER moist and flavorful, well seasoned, he ate every last bite!\n\nHighly recommend. Can’t wait to come back again!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRbkp1bkhBEAE",
+            "text": "Our waiter Dennis is great! We got a pitcher of a bloody Mary and it was delicious! I asked for extra olives and lemons, and they accommodated us! I would’ve placed a lot of pictures of the dishes, but we were so hungry. We devoured it and it was so delicious. My friend had the frittata in a frying pan and I also got the avocado toast with salmon With poached eggs on top. Delicious! Dog friendly, great atmosphere I would recommend getting a reservation!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tndE5GZERlbEJPTTJzeU1GVXdWazFTTkZaemVXYxAB",
+            "text": "My dog and I had a wonderful brunch here. They treat dogs like kings - he loved the treats, attention, hamburger bowl and berries with whipped crème. The human food is also good! If you’re looking for a place to bring a dog of any size, this is it."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2swMWMzZzRPVFZOVTBkaVIwb3dhREJ0U0hsQk5WRRAB",
+            "text": "We have a new puppy (6 months old). Discovered this spot - great food, amazing drinks (love the Yappy Hour special), and they gave our puppy a free dessert on her visit. Highly recommend!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0SlQxQm9UVE5UVkc4NGNtRmFhRnByZFdSR2NrRRAB",
+            "text": "Very busy for Sunday brunch but got seated right away! The food was delicious, especially the shakshuka. Lucy, the GM, was very friendly and welcoming. Will come back again!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2dHZXMTJ3RRAB",
+            "text": "We were in New York City for a long weekend and stopped by the Barking Dog for brunch on our last day. We are very pleasantly surprised to not have to wait too long to sit at one of their tables in the outdoor extension that was covered in glass. There weren’t heaters, but there was plenty of ambient heat from inside so that the temperature was not an issue. Our server was very friendly and efficient. They have a good drink selection and their brunch menu was fantastic. We got one of their omelettes, eggs Benedict, and their French toast and all of it was fantastic. I would highly recommend this restaurant to anybody that is in the area and wants a casual place to get some good food!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKV3BtdmVTMWNpVHp3RRAB",
+            "text": "If you’re in the city and need a place to stop with your dog, this is it. They have a pup menu for food and also specials for “yappy” hour. Friendly and helpful staff. Drinks were refreshing and the food was very good too."
+        },
+        {
+            "date": "5달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNWDU0dUR3N2VhTzhnRRAB",
+            "text": "Nous avons trouvé cet endroit par hasard le dernier jour ne notre voyage, qq heures avant le décollage et nous n’avons pas été déçu. Dennis nous a servi avec le sourire et les plats étaient vraiment délicieux ! Adresse à retenir 👍🏼"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURva18zN2x3RRAB",
+            "text": "Great cafe!  Food was good enjoyed the plaza to have a meal, service or maybe the kitchen was a little slow.  It was a busy day but not every table was full.  However, loved our brunch!!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnNXVxeE93EAE",
+            "text": "Wow!!! What a delightful experience. We stumbled upon this GEM because our original choice was MOBBED! However, as soon as we approached we knew we had made a MUCH BETTER choice! Its a small spot that serves brunch until 4p which was perfect for us. As soon as you walk in they are ready with smiling faces and focused on one mission: making your day great! Lucy, the GM is FABULOUS! She makes you feel right at home and like you are the most valuable patron/visitor.\nIt was clean and the service is efficient! The servers are all super kind and the music was sooooo much fun today (Gypsy Kings).\nThis was our 2nd time in but we will be back!\nPS: Did I mention that there were the CUTEST pups hanging out in the covered patio area?!?  We are a dog family so we were IN HEAVEN!!! 10 Out of 10!!\nIf you are looking for a quaint, fun, clean space to have GREAT FOOD, look no further than The Barking Dog Restaurant -Hell’s Kitchen"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VONmN5X2VFOTZUZ3lBRRAB",
+            "text": "My dog, Taki, had the best birthday meal and treatment here! He enjoyed every single bite from dinner to his dessert! Would highly recommend taking your pup here to treat themselves.\n\nLove being able to eat at a restaurant and share the experience with my fur baby. Both the food and atmosphere was great!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJMk1tOHd3RRAB",
+            "text": "My fiance and I came with our golden retriever Orion and had a good time. Dennis made us feel so welcome here with treats and nice conversation. We also met the bartender whose name is also Orion! My dog definitely enjoyed the hamburger bowl and the whipped cream. I had the short rib and it was so soft and flavorful. My fiance had the steak frites and enjoyed that as well. Will definitely be back!!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2XzRyM3NnRRAB",
+            "text": "I visited this restaurant for lunch with my Golden Retriever, Birdie. True to its reputation as one of the most dog-friendly places in Manhattan, the care and attention toward pets were evident from start to finish. They even have a well-prepared menu for dogs.\n\nThe food was as good as expected, and while the prices seemed a bit on the higher side, the friendly service and thoughtful accommodations for pet owners made it well worth it."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRczlqYUZBEAE",
+            "text": "We had a wonderful evening at the heated covered front porch area of Barking Dog!. Great food, great cocktails and great service (thank you Denis)! Very dog friendly! Our 3 doggies loved the chicken rice from the dog menu! Bring your dog and get signature cocktails 50’% off (love the pawsome)!  Also really nice outside seating area. Will come back soon!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEZ3JmS3B3RRAB",
+            "text": "This is a nice place with great service and delicious brunch. The hostess greeted us from the first moment and she offered a table on the sidewalk. The server was kind and smiley. After he placed our order he checked on us several times to see how we were doing. We didn’t order any coffees along with our brunch because it just happened to have had it a few minutes earlier. Another lady noticed that and she comes to us with a big smile and kindness to offer us -even- coffee for free. So nice of her!\nBut we were good at that moment.\nOur plates were delicious. I ordered the avocado toast and my friends did the frittata and the lamb burgers. At the end we shared a plate of pancakes. Everything was delicious! The service was top notch and the environment cool. Oh! The sidewalk is also dog friendly. Good job guys."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURveGFYTVhnEAE",
+            "text": "Me and my best friend came here and we had a delicious lunch. Ambience is all right. I mean it’s a little small if you want to eat indoors but if you wanna eat outdoors, there’s a lot more space surface was good and food was good as well."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2eXJDMHl3RRAB",
+            "text": "I went here with my wife and 6 year old daughter on a rainy Wednesday night — good reviews and menu and not far from our hotel so we decided to check it out. I’m sure glad we did. We were greeted warmly and seated by a woman who seemed to be the manager or owner. Our waiter and server were both very friendly and attentive and our cocktails and food were delivered quickly. And they made sure to make our daughter feel right at home. Our guacamole and chips appetizer was tasty and fresh and our Baja Tacos meal was on point. It was cold and raining during our visit but looked like it would be a great spot for outdoor dining as it was in a quieter off-street courtyard."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRLUliUzJBRRAB",
+            "text": "Amazing place for dog parents! They are SO dog friendly, which is a huge place anywhere. But the best part was the 4-10 yapper hour, which gives you 50% off of signature cocktails. The drinks were fantastic and we will def be back!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWb05IZHNjRGROZEVadU5IRnVPR3MzU1dvNWRGRRAB",
+            "text": "Stopped in for a cocktail on a beautiful summer evening. Indoor and outdoor seating available. Attentive and friendly staff. The manager-Lucy-stopped to have a chat and made me feel so welcome. The bartender-Onie (I think that’s how you would spell it!) made me a wonderful spicy ginger margarita. So good I had to have another! I also had the pleasure of meeting one of the servers-Esteban-who was also kind and welcoming. Highly recommend!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURMM1lLLVhREAE",
+            "text": "Manager Lucy ruined our meal. I ordered the Bird and Waffle - the chicken breast was overdone (edible but borderline rubbery) and the waffle was very dry. I said I couldn’t eat it and the server offered to replace it with the same or different dish, which came right away.\n\nAs I was starting to enjoy the Chorizo frittata, the manager Lucy interrupted me and asked what was wrong with the dish I sent back.\n\nBefore I could mention the dry waffle, she interrupted me again and said, “Let me tell you something chicken.” She proceeded to lecture me about how the chicken breast was a tougher part of the chicken, as if I had never eaten one before.\n\nBy this time, my partner and I both lost our appetite. I paid the check in full, boxed the food, and left. This was the most unpleasant dining experience I’ve had in 12 years.\n\nThe mozzarella frittata, chorizo frittata, home fries, and sweet potato fries were good. Wait staff was nice. Our dog didn’t like the food."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwaFpPTVdBEAE",
+            "text": "Soooo yummy! I got the salmon omelette and it was delicious! The atmosphere was great with lots of natural lighting and indoor and outdoor seating too! The staff was super friendly and attentive too! Obviously since it’s New York City, the price was pretty high, about 30 dollars for the omelette but I thought it was personally worth the splurge!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJOUtQX01nEAE",
+            "text": "This place was so yummy it knocked my socks off (literly)!! i got the bird and waffles. I ate it all! my children, ben and creg, LOVED IT TOO! they cried (figuratively) when we had to head out to get home. i WILL be back."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKZXNyc2V1bzU3WUtBEAE",
+            "text": "Good food, good staff great environment! My dog Benedetto loved this place and we are definitely coming back many more times the food is incredible and the staff is so friendly"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvMnVPN2ZBEAE",
+            "text": "A quaint space which offers indoor and outdoor experiences with complimentary wifi and electrical outlets (inside) to charge phone. Patient waiting staff and quality of food to the pricing is excellent!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnbHY3NmdBRRAB",
+            "text": "Came here last minute for brunch, it was amazing!! Definitely recommend, the food is so good & Lucy, rakolda, Kristy, Sammy, Carlitos and Humberto were the best!! The whole staff goes above and beyond. I will 100% be coming back!! They serve the best to humans and pets."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURuaDlqbnd3RRAB",
+            "text": "Went to brunch here and it was perfection! They are SO dog friendly and our server even made sure to welcome our dog to the restaurant. The outdoor seating is spacious and the food was so delicious. I got the steak and eggs and my boyfriend got the challah French toast. They also had a dog menu and my pup got the chicken and rice and the pup dessert (whip cream). We will definitely come back, thank you barking dog for the hospitality not just with us but also with our dog!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ORlNEQnRRVXhQV0cxWGNWWm9OMnN5V0ZKUlptYxAB",
+            "text": "I love love love this restaurant. Staff is phenomenal and attentive. Lucy the manager is a gem.    Everyone here made this a wonderful birthday dinner for my sister.  All our food was fantastic, cooked as we asked. Very considerate of a food allergy we have.  Please come here.  I know I will be coming back on my next Theatre visit since there were soo many items on the menu I haven't had yet.  Thank you for a lovely memory and great tasting food"
+        }
+    ],
+    "reviews_count": 86
+}
