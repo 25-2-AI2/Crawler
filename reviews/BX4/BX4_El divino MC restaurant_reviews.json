@@ -1,0 +1,19 @@
+{
+    "name": "El divino MC restaurant",
+    "place_id": "ChIJd6qawLv1wokRVs1q6sRWVqA",
+    "grid": "BX4",
+    "address": "1416 Ogden Ave, Bronx, NY 10452, USA",
+    "rating": 5,
+    "user_ratings_total": 2,
+    "phone_number": "(917) 473-7465",
+    "reviews": [
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwbWF6OXpnRRAB",
+            "text": "Superb service delicious food. Freshly made lunch everyday and I got my best roasted pork ever! So many options and kids friendly. Definitely recommend for everyone who looking for comfort meals."
+        }
+    ],
+    "reviews_count": 1
+}

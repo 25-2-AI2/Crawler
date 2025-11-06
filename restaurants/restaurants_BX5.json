@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Antonio's Trattoria",
+        "address": "2370 Belmont Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJi0UhO4f0wokR_jzG9KlaPQA",
+        "rating": 4.6,
+        "user_ratings_total": 1556,
+        "phone_number": "(718) 733-6630"
+    },
+    {
+        "name": "Mt Hope Family Diner",
+        "address": "1511 Mt Hope Ave, Rochester, NY 14620, USA",
+        "place_id": "ChIJW7dXhM201okRuuvx6xAOcv8",
+        "rating": 4.4,
+        "user_ratings_total": 1804,
+        "phone_number": "(585) 256-1939"
+    },
+    {
+        "name": "Zero Otto Nove",
+        "address": "2357 Arthur Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJ4aiyUYf0wokRl3irR6IrNfM",
+        "rating": 4.5,
+        "user_ratings_total": 1496,
+        "phone_number": "(718) 220-1027"
+    },
+    {
+        "name": "Hudson Garden Grill",
+        "address": "2900 Southern Blvd, Bronx, NY 10458, USA",
+        "place_id": "ChIJPWq5XnzzwokRAO4-vaQKngg",
+        "rating": 4.2,
+        "user_ratings_total": 675,
+        "phone_number": "(347) 919-5241"
+    },
+    {
+        "name": "Frankie's Restaurant Arthur Avenue",
+        "address": "2376 Arthur Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJz1p0aiz1wokRJpQXMS3d3IE",
+        "rating": 4.7,
+        "user_ratings_total": 321,
+        "phone_number": "(347) 270-1452"
+    },
+    {
+        "name": "IHOP",
+        "address": "410 E 189th St, Bronx, NY 10458, USA",
+        "place_id": "ChIJx7NyTQD1wokRA2mk70imS-c",
+        "rating": 4.3,
+        "user_ratings_total": 89,
+        "phone_number": "(718) 295-4467"
+    },
+    {
+        "name": "Clinton Hall",
+        "address": "601 E 189th St, Bronx, NY 10458, USA",
+        "place_id": "ChIJBbjPq4H0wokRYUVlZKLFPHI",
+        "rating": 4.4,
+        "user_ratings_total": 493,
+        "phone_number": "(718) 220-6400"
+    },
+    {
+        "name": "Bottoms Up Restaurant and Pub",
+        "address": "1965 NY-284, Slate Hill, NY 10973, USA",
+        "place_id": "ChIJs33BVzwxw4kR9GefxqGFSYU",
+        "rating": 4.6,
+        "user_ratings_total": 585,
+        "phone_number": "(845) 355-2886"
+    },
+    {
+        "name": "North Star Cafe - Fordham",
+        "address": "387 E Fordham Rd, Bronx, NY 10458, USA",
+        "place_id": "ChIJlY3lXoDzwokR256yNqa2x6c",
+        "rating": 4.1,
+        "user_ratings_total": 615,
+        "phone_number": "(718) 295-8801"
+    },
+    {
+        "name": "Pasquale's Rigoletto",
+        "address": "2311 Arthur Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJydy7i330wokRgSBbs9mCM4o",
+        "rating": 4.3,
+        "user_ratings_total": 625,
+        "phone_number": "(718) 365-6644"
+    },
+    {
+        "name": "Tino's Delicatessen",
+        "address": "2410 Arthur Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJGcIwxID0wokRGUI5xZYQt_M",
+        "rating": 4.5,
+        "user_ratings_total": 458,
+        "phone_number": "(718) 733-9879"
+    },
+    {
+        "name": "San Gennaro",
+        "address": "2329 Arthur Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJ00nj9H30wokR8izVYd3dAzY",
+        "rating": 4.4,
+        "user_ratings_total": 434,
+        "phone_number": "(718) 562-0129"
+    },
+    {
+        "name": "Oak & Reed",
+        "address": "45-53 North St Unit 1, Middletown, NY 10940, USA",
+        "place_id": "ChIJsXVnCvYzw4kRqfQyt6vgyiw",
+        "rating": 4.6,
+        "user_ratings_total": 696,
+        "phone_number": "(845) 775-4200"
+    },
+    {
+        "name": "Just Jollof Kitchen",
+        "address": "39 W Main St, Middletown, NY 10940, USA",
+        "place_id": "ChIJFxhXHAAzw4kRVp1tl4MYfL0",
+        "rating": 4.7,
+        "user_ratings_total": 52,
+        "phone_number": "(845) 775-3075"
+    },
+    {
+        "name": "TOSCANE ITALIAN RESTAURANT",
+        "address": "2920 US-6 # 3, Slate Hill, NY 10973, USA",
+        "place_id": "ChIJKwsxQAAxw4kRDP-oQ4gtq6A",
+        "rating": 5,
+        "user_ratings_total": 18,
+        "phone_number": "(845) 697-5095"
+    },
+    {
+        "name": "Mario's of Arthur Avenue",
+        "address": "2342 Arthur Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJSVkYXIf0wokReeN2qJg8Nwc",
+        "rating": 4.4,
+        "user_ratings_total": 1008,
+        "phone_number": "(718) 584-1188"
+    },
+    {
+        "name": "188 Bakery Cuchifritos",
+        "address": "158 E 188th St, Bronx, NY 10468, USA",
+        "place_id": "ChIJpxMVh4fzwokREgfgMcNN-x8",
+        "rating": 4.3,
+        "user_ratings_total": 1089,
+        "phone_number": "(718) 367-4500"
+    },
+    {
+        "name": "EL Patron Sports Bar & Grill",
+        "address": "130 Dolson Ave, Middletown, NY 10940, USA",
+        "place_id": "ChIJASODscUzw4kRoGEn3i8gFr8",
+        "rating": 5,
+        "user_ratings_total": 39,
+        "phone_number": "(845) 213-6171"
+    },
+    {
+        "name": "DeStefano's Olde Erie",
+        "address": "7 W Main St, Middletown, NY 10940, USA",
+        "place_id": "ChIJ2z2dcGIyw4kRykyfkZXxPVQ",
+        "rating": 4.5,
+        "user_ratings_total": 791,
+        "phone_number": "(845) 344-3743"
+    },
+    {
+        "name": "NY Makgeolli Brewery & Pub",
+        "address": "159 3rd St, Godeffroy, NY 12729, USA",
+        "place_id": "ChIJ_0nt5YxLw4kRnkzms0pMbBU",
+        "rating": 4.7,
+        "user_ratings_total": 52,
+        "phone_number": "(845) 866-4588"
+    },
+    {
+        "name": "Parrilla Latina",
+        "address": "2501 Webster Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJu-kkhoDzwokRNQqGYF1EN6o",
+        "rating": 4,
+        "user_ratings_total": 686,
+        "phone_number": "(718) 329-3000"
+    },
+    {
+        "name": "HolyDog",
+        "address": "44 W Main St, Middletown, NY 10940, USA",
+        "place_id": "ChIJ0eJBC2Iyw4kRPF8OjIFQapA",
+        "rating": 4.9,
+        "user_ratings_total": 830,
+        "phone_number": "(845) 649-7495"
+    },
+    {
+        "name": "Corky’s Diner",
+        "address": "2537 Grand Concourse, Bronx, NY 10468, USA",
+        "place_id": "ChIJszkw2obzwokR1vHpM5NdZLM",
+        "rating": 4.4,
+        "user_ratings_total": 733,
+        "phone_number": "(718) 933-2484"
+    },
+    {
+        "name": "Karied's Quesadillas & Burgers",
+        "address": "634 E 183rd St, Bronx, NY 10458, USA",
+        "place_id": "ChIJtz1rdof0wokRYXxx7Kcfw7U",
+        "rating": 4.8,
+        "user_ratings_total": 88,
+        "phone_number": "(718) 295-5335"
+    },
+    {
+        "name": "IKARO STEAKHOUSE",
+        "address": "9 King St, Middletown, NY 10940, USA",
+        "place_id": "ChIJp52n0okyw4kREddwuE5Nuj0",
+        "rating": 4.3,
+        "user_ratings_total": 230,
+        "phone_number": "(845) 775-3045"
+    },
+    {
+        "name": "Westtown Fare Restaurant & Bar",
+        "address": "795 NY-284, Westtown, NY 10998, USA",
+        "place_id": "ChIJQc0ebdE5w4kR5emkZnj0Vms",
+        "rating": 4.6,
+        "user_ratings_total": 206,
+        "phone_number": "(845) 683-1299"
+    },
+    {
+        "name": "House of Birria Tacos & Cantina",
+        "address": "125 Dolson Ave suite 29, Middletown, NY 10940, USA",
+        "place_id": "ChIJ2y_Q9A4zw4kRTRBGjM9nuVQ",
+        "rating": 4.4,
+        "user_ratings_total": 253,
+        "phone_number": "(845) 843-9125"
+    },
+    {
+        "name": "Seoul Sizzle",
+        "address": "101 Monhagen Ave, Middletown, NY 10940, USA",
+        "place_id": "ChIJTZWHu3Ezw4kR7QnD818-IT8",
+        "rating": 4.7,
+        "user_ratings_total": 267,
+        "phone_number": "(845) 281-0104"
+    },
+    {
+        "name": "Pugsley Pizza",
+        "address": "590 E 191st St, Bronx, NY 10458, USA",
+        "place_id": "ChIJ_9Abw4H0wokR54WowS3eOzI",
+        "rating": 4.6,
+        "user_ratings_total": 666,
+        "phone_number": "(718) 365-0327"
+    },
+    {
+        "name": "Milo's Restaurant",
+        "address": "90 North St, Middletown, NY 10940, USA",
+        "place_id": "ChIJvxG38Zozw4kR800mkrXNYOg",
+        "rating": 4.3,
+        "user_ratings_total": 88,
+        "phone_number": "(845) 342-0025"
+    },
+    {
+        "name": "Ridgebury Gourmet",
+        "address": "677 Ridgebury Rd, Slate Hill, NY 10973, USA",
+        "place_id": "ChIJHZPmHAoxw4kR0zCQcFZxNAk",
+        "rating": 4.8,
+        "user_ratings_total": 90,
+        "phone_number": "(845) 355-6755"
+    },
+    {
+        "name": "La Cocina de Rosa",
+        "address": "228 Dolson Ave, Middletown, NY 10940, USA",
+        "place_id": "ChIJQRi2bHYzw4kRE6M4qfyRv5A",
+        "rating": 4.8,
+        "user_ratings_total": 51,
+        "phone_number": "(845) 784-0514"
+    },
+    {
+        "name": "Tapped",
+        "address": "22 Henry St Unit #2, Middletown, NY 10940, USA",
+        "place_id": "ChIJ84qR6Ikyw4kRR8zmvzJLQfI",
+        "rating": 4.4,
+        "user_ratings_total": 514,
+        "phone_number": "(845) 775-4216"
+    },
+    {
+        "name": "Chianti Cow Restaurant",
+        "address": "1483 US-6, Port Jervis, NY 12771, USA",
+        "place_id": "ChIJ-YjR9cI3w4kR4qq2xuC6KIc",
+        "rating": 4.4,
+        "user_ratings_total": 275,
+        "phone_number": "(845) 856-7740"
+    },
+    {
+        "name": "MIX N MAC - MAC & Cheese",
+        "address": "280 NY-211, Middletown, NY 10940, USA",
+        "place_id": "ChIJSStNmWQtw4kRRIHiTlLlZ7c",
+        "rating": 4.6,
+        "user_ratings_total": 951,
+        "phone_number": "(845) 381-5536"
+    },
+    {
+        "name": "Roberto's",
+        "address": "603 Crescent Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJpb3wZof0wokREXE6p8y04O8",
+        "rating": 4.6,
+        "user_ratings_total": 530,
+        "phone_number": "(718) 733-9503"
+    },
+    {
+        "name": "The Windham Local Public House",
+        "address": "5410 NY-23, Windham, NY 12496, USA",
+        "place_id": "ChIJgf2Qz4RM3IkRS0oJIbq2vaw",
+        "rating": 4.4,
+        "user_ratings_total": 356,
+        "phone_number": "(518) 750-8300"
+    },
+    {
+        "name": "Dosa Grill Middletown",
+        "address": "265 NY-211, Middletown, NY 10940, USA",
+        "place_id": "ChIJ90wAAlAtw4kR5yGwpw_NNEM",
+        "rating": 4.9,
+        "user_ratings_total": 61,
+        "phone_number": "(845) 479-1117"
+    },
+    {
+        "name": "The Hotel Chelsea",
+        "address": "222 W 23 St, New York, NY 10011, USA",
+        "place_id": "ChIJZ2_TLytZwokR03K2GtOG9h8",
+        "rating": 4.7,
+        "user_ratings_total": 550,
+        "phone_number": "(212) 483-1010"
+    },
+    {
+        "name": "Lo Nuestro Mexican Bistro",
+        "address": "180 Monhagen Ave, Middletown, NY 10940, USA",
+        "place_id": "ChIJlbMUTQQzw4kRs-DsGTmvDbk",
+        "rating": 4.8,
+        "user_ratings_total": 48,
+        "phone_number": "(845) 239-4053"
+    },
+    {
+        "name": "Webster Cafe & Diner",
+        "address": "2873 Webster Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJ80PDmnnzwokRvxpeGoTaQ74",
+        "rating": 4.2,
+        "user_ratings_total": 686,
+        "phone_number": "(718) 733-9634"
+    },
+    {
+        "name": "Piccolo Cucina e Vino",
+        "address": "17 North St, Middletown, NY 10940, USA",
+        "place_id": "ChIJwTkfL4gyw4kRXIDAWvm88nk",
+        "rating": 4.7,
+        "user_ratings_total": 473,
+        "phone_number": "(845) 343-2233"
+    },
+    {
+        "name": "STATE Grill and Bar",
+        "address": "21 W 33rd St, New York, NY 10118, USA",
+        "place_id": "ChIJnamuralZwokRgonYXbtLjdA",
+        "rating": 4.5,
+        "user_ratings_total": 556,
+        "phone_number": "(212) 216-9693"
+    },
+    {
+        "name": "The Sugarhouse at Finding Home Farms",
+        "address": "140 Eatontown Rd, Middletown, NY 10940, USA",
+        "place_id": "ChIJKxfkCFU2w4kRmch-eXBg0Mc",
+        "rating": 4.8,
+        "user_ratings_total": 411,
+        "phone_number": "(845) 355-4335"
+    },
+    {
+        "name": "Barn Joo 35",
+        "address": "34 W 35th St, New York, NY 10001, USA",
+        "place_id": "ChIJfzDanalZwokReBUChuK5tmI",
+        "rating": 4.4,
+        "user_ratings_total": 1649,
+        "phone_number": "(212) 564-4430"
+    },
+    {
+        "name": "McDonald's",
+        "address": "2630 Jerome Ave, Bronx, NY 10468, USA",
+        "place_id": "ChIJRTVyMIjzwokRRAm--TXcIjs",
+        "rating": 3.6,
+        "user_ratings_total": 1636,
+        "phone_number": "(718) 220-1982"
+    },
+    {
+        "name": "Twin Tails",
+        "address": "10 Columbus Cir 3rd Floor, New York, NY 10019, USA",
+        "place_id": "ChIJbxASGTNZwokR9eIMYL28EQE",
+        "rating": 4.4,
+        "user_ratings_total": 199,
+        "phone_number": "(212) 970-8828"
+    },
+    {
+        "name": "Equilibrium Brewery- Taproom and Bonfire Restaurant",
+        "address": "4 South St, Middletown, NY 10940, USA",
+        "place_id": "ChIJKV4hjk8zw4kReJUMS9kmsaY",
+        "rating": 4.5,
+        "user_ratings_total": 701,
+        "phone_number": "(845) 956-0211"
+    },
+    {
+        "name": "ONEWAY Cafe and Pizza",
+        "address": "11 Mulberry St, Middletown, NY 10940, USA",
+        "place_id": "ChIJO4l4RUYzw4kRFFozugPh5jM",
+        "rating": 4.8,
+        "user_ratings_total": 42,
+        "phone_number": "(845) 239-4171"
+    },
+    {
+        "name": "Texas Roadhouse",
+        "address": "390 NY-211, Middletown, NY 10940, USA",
+        "place_id": "ChIJtdm0p-Yyw4kRGexgFAoTRWQ",
+        "rating": 4.5,
+        "user_ratings_total": 3407,
+        "phone_number": "(845) 343-7427"
+    }
+]

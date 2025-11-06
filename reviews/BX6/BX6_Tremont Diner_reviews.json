@@ -1,0 +1,558 @@
+{
+    "name": "Tremont Diner",
+    "place_id": "ChIJkcEUNEyLwokRp_rC5sYe1A4",
+    "grid": "BX6",
+    "address": "3007 E Tremont Ave, Bronx, NY 10461, USA",
+    "rating": 4.3,
+    "user_ratings_total": 2022,
+    "phone_number": "(718) 824-3250",
+    "reviews": [
+        {
+            "date": "수정일: 3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDcWNpVHV3RRAB",
+            "text": "Delicious western omelet. Good priced too"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xac2FuQnpXbkF3T0dweVQwNVdWRFJhY21obVRVRRAB",
+            "text": "Where's the heat? No heat in the diner, antiquated fixtures and to expensive for lousy food. Sorry this one I'll leave for the locals to figure out."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4MmVqUkRhMmhxZWpGTk5UbHBZakZKY3pSR05FRRAB",
+            "text": "Great food and prices. Lots of selections. Whether you want a snack or are super hungry,  Tremont Diner is the joint!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OMmNqTlFaR1pxUVc5R2Ewb3hibXRrYVV0b1RIYxAB",
+            "text": "Went out to eat after a long day with my wife, ate food arrived pretty quick but our dinner got ruined with fumes coming from the vent, it smelled like a horrible fire. Men were working on the roof. On top of that my bill came up to $56 bucks for a cheese burger and some wings… terrible experience. Not what it used to be."
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtb2RMS2V3EAE",
+            "text": "Kinda small, but love it. The best waffles in the Bronx in my opinion. Plenty of free lot parking across the street"
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURScTRDTFRnEAE",
+            "text": "I used to frequent this establishment when I was younger, and the food was always excellent. Even though I don't eat here as much, the food tastes the exact same way it did back when I used to eat here."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Wd2VEUklVMk4yWm1oWVNqZFNia3h4YkdwTmMwRRAB",
+            "text": "Good food and service"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WUGJuUjBWbmRYWVRaa2NFUnZiM2t5UzNORFQyYxAB",
+            "text": "Best Diner in Bronx"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Kc1VXbHNWM3BwVkZoRk5HOXJjRW81ZVZOV1prRRAB",
+            "text": "I came here with my 2 kids to eat for the first time and it will be my last. I get turned off really quick when I get taken advantage of. I was in a rush to catch my cab and didn't realize I was overpriced for my food. No way I paid $58 dollars for breakfast for 3. My meal was just around $12 dollars for 2 eggs with sausage and comes with homefries and toast. My son had 3 pancakes with 2 eggs and ham. My daughter had 3 pancakes with just strawberries thrown on top... they had an orange juice and apple juice, while i had water.... there's no way are meals added to that much plus I had tipped the waitress too... PLEASE WATCH YOUR RECEIPTS CAREFULLY and calculate what you buy or you will be taken advantage of like i did.."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25STFlXMVpiazE2ZUVwM2FIUTBiRmQ2UTBWcmNXYxAB",
+            "text": "Great breakfast and coffee."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twWVJVVlRRVmhzVjJ4cmFFUm9jWGRJYURKdWRIYxAB",
+            "text": "It's clean.  Friendly staff.  They have a large menu to choose from.  The day I was here, service was good.  The parking lot is across the street from the diner.  I really have no complaints.  Enjoy."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZd09UWnNhRnBtVmxSQlJFSlNXbWxXVXkxSFVrRRAB",
+            "text": "Amazing diner, very friendly staff, incredible atmosphere. Highly recommend!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oR1JGRjZlRFZHVEhSelVGSXdTRFYyZEZwNFgzYxAB",
+            "text": "Great place for Breakfast ,and or a lite dinner.  Located at the far end (East) of Tremont Ave. Old school Diner."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ob2QwcEljVzFQZUZabGVXMURjakp1UVhkV1dWRRAB",
+            "text": "The food here is very good I would say classic dinner food made well I found it to be very enjoyable.  The service was good the waiter was attentive and ensure everything was to our liking would definitely be back and suggest you hold give it a try."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21weWRqSjJhVVJ1VW5abWJHNWhSMFpJZDFaWmEzYxAB",
+            "text": "Enjoyed everything"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkSGVWbENOSGQxZVdScU5tcFNaRlphVURoNFZFRRAB",
+            "text": "Good and service was great love this diner."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCbFRsUmtXR28zWW01aFgwUmhaVE5PUzFwVU9GRRAB",
+            "text": "A staple of the Bronx"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5RmMwbEdRemhYVEhoVGRERklYMTk2UldGdE4wRRAB",
+            "text": "Food is pretty mediocre - got chicken alfredo and the chicken was hard. Also pretty sure the kids mac and cheese was just microwaveable kraft. It's also very very cold there, making your food get extremely cold as well. It's edible, but not very appetizing. Waiters are very nice, but everything is so back and forth and all over the place."
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNReG9lZ1ZBEAE",
+            "text": "Good food, prices are decent, standard diner menu."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2treWJGWmpjekJsVkZOT1JVaFpTV3haVG1SclVuYxAB",
+            "text": "The employees here were the nicest, attentive and accommodating employees that I've ever had the pleasure to be served by. The food was good and it was my birthday so they brought me cake and sang me happy birthday along with my family the with me. It was a very good experience and I would most definitely go back here to eat."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sdFdrUm5abGxUVFdrMFpYWm1TVTVvTFRKeE5WRRAB",
+            "text": "First impressions are lasting impressions, as much as I hate using this cliche there is some truth behind it. The food here is expensive and sub-par. Tasteless and not worth the price. This diner needs updating. There are better places out there to eat."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGSFpEVllVVXhUWlVKUk9XSkRjemRuVVVaUGNrRRAB",
+            "text": "Great food, quick and delicious. Great place to stop while on the road."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kSWRVYzNVM1F5WTI5emMzTlhXVlJUUTBrM2MxRRAB",
+            "text": "Great"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ocGEzVlFOVUZHY0dSZmRGUnVZVEJUWTNka2FtYxAB",
+            "text": "The best breakfast served fast & cooked to perfection.  I can see myself as a regular diner here."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCTlVWZFpiRUZOYVhBemQzQkNiV3Q1Y2paR1NsRRAB",
+            "text": "Good was delicious and service was great."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CU01XRkhRVTFUVm5OQllXSmlaVkJPVDJWQmFIYxAB",
+            "text": "The food was delicious and the servant was amazing"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20weVJsWkNXR1ZqY21sM2FXWjBVREJxT1dWalVtYxAB",
+            "text": "Nice place"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOLUhsS0hjbzZ5dHNRRRAB",
+            "text": "Well I like in Fishkill ny and\nAnytime I go to the Bronx and I'm and that area I stop there to eat I like the food and the staff"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZOGR2OU1BEAE",
+            "text": "Classic dinner with above average food. Everything was perfect"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvcDZqSTVRRRAB",
+            "text": "Great dinner! Great service! Great breakfast!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvMGNXVmR3EAE",
+            "text": "Great looking and clean diner."
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxenFqcUJREAE",
+            "text": "East Tremont Diner is a true neighborhood gem! The food is always fresh, delicious, and served with a smile. Whether you’re in the mood for a classic breakfast, a hearty burger, or just a good cup of coffee, this place delivers every time. The staff is friendly and welcoming, and the atmosphere has that perfect old-school diner charm. Prices are reasonable, portions are generous, and you can always count on a relaxed, comfortable dining experience. Highly recommend stopping by if you’re in the area!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJd2ZUZ2hnRRAB",
+            "text": "Tremount diner is always good had a burgur and french fries a load for me and mine i enjoy coming to this place"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJenF5UGl3RRAB",
+            "text": "Old school diner . Great food and service"
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUb3IyUm5nRRAB",
+            "text": "Amazing staff. Love them all ❤️"
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRLXU2Wk1REAE",
+            "text": "Great local diner with parking. Highly recommend."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3MExmQ2hnRRAB",
+            "text": "Cozy place to eat in the afternoon. The breakfast was also great."
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRcUx1cDZnRRAB",
+            "text": "Fabulous 👌"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3dE0zR1h3EAE",
+            "text": "My server never bothered to come back to the table to see if we needed anything, when it was time to leave another server had to call them."
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3MlltNHJ3RRAB",
+            "text": "It is a stand alone building, that has a parking lot across the street. This diner is always fast and efficient, despite the crowds on the weekends.  Food is cooked exactly as you want it and the staff are a well oiled machine. The wait staff are experienced and friendly. Great desserts case. It's a typical diner, so don't expect fanciness. Always a great breakfast!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRczRiMVRBEAE",
+            "text": "This diner is one of my favorites! I live near by, and it is so convenient to walk there because of how close it is! After I arrived there, the staff were friendly, service was quick, and I got seated pretty fast.\n\nI ordered the food, also came out fast. The food was also very good! The service was very good and the food wasn’t too pricey. The environment and atmosphere was also nice. It was cold, but the waiter lowered it a bit. Totally recommend coming here! I come here a lot!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRbWZiS3hRRRAB",
+            "text": "Food and services are good. The prices are downright ridiculous. Coffee and breakfast prices are astronomically over priced. I would go here more if not for the prices"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnak12RVZnEAE",
+            "text": "Went with my wife and kids after baseball practice and upon entry the staff are very friendly. We ordered our food waited what I felt was a normal period of time and we were not disappointed. It’s decent tasting food with great diner experience. Would go back again."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNndGNmc0V3EAE",
+            "text": "Service was good and quick, and the food was great!"
+        },
+        {
+            "date": "수정일: 8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURvcDQ2LS13RRAB",
+            "text": "Good food"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBc04zTkNBEAE",
+            "text": "Burger was ok but make sure you ask for extra napkins to soak up the grease"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfcGE2dnZBRRAB",
+            "text": "I absolutely love coming to this establishment"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfaGFtcVRBEAE",
+            "text": "🔥"
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtbjlyYmxBRRAB",
+            "text": "Oldie but goody"
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2M0wtZmZBEAE",
+            "text": "Diners of all kinds are pretty generic, but this diner i believe stands out because of the generous portions, great atmosphere, and fair prices, definitely recommended for B/L/D or any meal in between."
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2LUtLeXlRRRAB",
+            "text": "Restaurant Review: Tremont Diner\n\nTremont Diner offers a pleasant dining experience that leans on the strength of its generous portion sizes and above-average food quality. For anyone looking for a good meal that offers solid value for the money, this spot is worth considering.\n\nDuring my visit, I faced some initial hiccups with placing my order. There was a bit of back and forth to align what I wanted with their menu offerings, but the staff worked through it, and eventually, I got something close to my original request. Patience was key here, as I did have to wait a bit longer than I anticipated for my meal to arrive.\n\nOnce the food made it to the table, I was pleasantly surprised. The portions were impressive, ensuring you get your money’s worth, and the flavors exceeded my expectations for a diner. It may not be haute cuisine, but it’s a satisfying meal that hits the spot.\n\nIn summary, while the ordering process and wait time could use some improvement, the good food and sizable portions make Tremont Diner a solid choice, especially if you have a hearty appetite."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwZ01tX2Z3EAE",
+            "text": "My mom loves this place!!! But I'm not even going to front, this place is mad chill. I really like coming here, and there food is pretty awesome. I hear there's new owners, but the place is still great."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBNjVIazlnRRAB",
+            "text": "This diner has to be one of the best in the Bronx! I come here often on the weekends and order the typical three egg omelette. My favorite is the spinach and feta and I would also highly recommend mushrooms and cheese. Its great for a late…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNobzRyM3l3RRAB",
+            "text": "I came here for the first time with my friend. We love to eat and take food very seriously. We LOVED it / the menu here. Not only was the staff very nice , they did not pressure us into ordering , eating or leaving. My friend and I were catching up so we had no rush . We were there for 3 hours and did not feel it. It felt good to be checked up on by staff while still feeling no pressure to hurry up , order , eat and get out. The food was delicious, they served the food in a timely manner . I had french toast , I test it everywhere I go and this one gets a 10. The strawberries on top were fresh , the sausage was a perfect size not too thick but not too thin with no fat dripping at all. The portion was great. It was delicious. My friend's food also looked amazing and she scraped the plate. Eggs with bacon , home fries and toast. I will be going there and slowly trying other things on the menu.The place is also super clean which is a must for me. It is worth coming here for a nice big breakfast ."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMaVlhX2t3RRAB",
+            "text": "With parking across the street, you can get here very easily. The wait staff was quick and polite. The food? DAMM, IT WAS GOOD. I ordered the Belgium waffles with ice cream, and let me tell you. I needed that recipe yesterday. The waffles are thick and fluffy. The ice cream was some French vanilla delight. The atmosphere feels like a diner from another time. Go here and get those waffles."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSUQ1aVA4SRAB",
+            "text": "The food was great and delicious. The service was also great definitely recommend for good food."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNheDRiVDFRRRAB",
+            "text": "Breakfast all day? Tremont East Diner got you!\n\nThe best place to start and end your day is at this dinner. Service is also speedy and efficient. The servers are fantastic, cordial and the best!\n\nYou wont get wrong on choosing to eat at this place. This is your place to be for Breakfast, Lunch or Dinner."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwczRDelpnEAE",
+            "text": "Sucks to say I will never order from this diner ever again. I ordered from Grubhub and I’m pretty picky with my diners so being that I saw good reviews I figured a burger can’t be cooked wrong..well hopefully not. Pro is that the food came on time but then there were way more cons! First the bacon cheese burger tasted bland and the waffles fries tasted bland as well. The cheeseburger tasted blah and the fries were soggy and I had asked for well done! The vegetables were soggy too! Smallest pickle slice I’ve have ever been served and the coleslaw even tasted off. Definitely wouldn’t wanna go here in person even if it was to try another dish!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM4M1lQQnhRRRAB",
+            "text": "They have outdoor seating available due to COVID! It’s usually set up by 9AM even though I think they open at 7AM for takeout. Their service is great and their food is even better. I see myself coming back to try many things on the menu."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPMjZHZjNnRRAB",
+            "text": "Food was ok.  I really don't have much to say. I had the pot roast.  It was fall apart too much that I need a spoon instead of a fork."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYODdESVlREAE",
+            "text": "Everything from the service to the food was A1. Really enjoyed the cinnamon apple pancakes and the strawberry cheesecake that’s made in house. Lots of parking available"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlN2NDSk5REAE",
+            "text": "I came again to treat my dad and hubby. And they enjoyed themselves, Maggie was our waitress and was a pleasure she was funny and caring. Made my dads day and the food was AMAZING!! I will always recommend this Diner to anyone who visits The Bronx. ❤"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNNczQtQWd3RRAB",
+            "text": "Food is great and they are the fastest diner I have ever been to.  The service is usually amazing and attentive. My only bad experience is with one server who gave me only one coffee refill and never came back.  Other than that, they have the most efficient servers who remember your name and order.  Prices are reasonable.  Best of all, they have a huge parking lot and are always decorated beautifully for every occasion with flowers, balloons, and other festive items making the place even more welcoming.  Great spot!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtd2NucUNBEAE",
+            "text": "My husband ordered 2 chicken Caesar’s salads they add the dressing without asking so it’s melted under the HOT CHICKEN they put on top! The salad is wilted I should have just order cooked lettuce and when I called the guy picked up and told…"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBeDRpNTZBRRAB",
+            "text": "This place is an institution should get landmark status been serving our community for years never had a bad experience food always good and the attention from the staff at any time is always great if you are ever on Tremont please come by have lunch dinner or even breakfast best money you will ever spend classics diner style"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKb043WVV3EAE",
+            "text": "The Tremont diner is a great place it’s very comfy and the people that work there are very nice/ the food as well is very good I would go a lot for breakfast (the coffee as well is like the best I had in a diner I like there coffee a lot) but I would recommend to come here for sure 👍🏼."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMNGZMZnR3RRAB",
+            "text": "Another iconic Bronx diner down the drain. Used to love this place. Ate breakfast, lunch, and dinner here many times with my dad growing up. Last couple times I wasn't impressed but hard to give up a place that was mostly good experiences in the past. 3 lg soups are almost 30 dollars and they come with hair in it. Another not a big issue but as I was leaving I asked if there were spoons in the bag. There wasn't. So stupid to complain about but I was bringing them to my wife in the hospital so couldn't just grab a spoon from my kitchen."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1OEl6TjV3RRAB",
+            "text": "Maryann, our server, is an excellent waitress and a very sweet person. She checked several times to make sure we had everything we needed and she was very pleasant. The food as usual is perfection. I have been coming to this diner since the early 90s and nothing has changed. This is going to be my diner of choice from now on since I don't live far."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURud1piMWpRRRAB",
+            "text": "This dinner has been in business for many years, so they know what they are doing. Food and service is always excellent. Very fast, delicious and attentive. Always a good experience"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNabUo2Q2dBRRAB",
+            "text": "Great diner like many in NYC but conveniently located and given the neighborhood, they do a good job of keeping it well run and staffed; service is top notch.  They even have a parking lot across the street combined with fairly suitable outdoor dining.   Feels roomier than it looks!  Breakfast items here are good, always fresh and coming out the door frequently for delivery.  Been here many times and never had a bad experience."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmeHVlVXpBRRAB",
+            "text": "The servers were really nice, it's a nice and calm atmosphere. The food was great as well as their soup. Would definitely come back!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHX19XOEdnEAE",
+            "text": "Me and the hubby had the day off and decided to grab some breakfast. The service was great and no complains about the food."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUcmNqOHR3RRAB",
+            "text": "I’ve been in that Diner many times years ago. In the 1980’s. My cousin worked there as well. Everything was good, but I was surprised there was hash browns and no home fries with the breakfast. The food was very good. We left New York in 1988, we do revisit once in a while, no matter how much of a change there is for me. I’ll never forget my roots. I grew up just outside Little Italy, Arthur Ave. Fordham section"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1aUlpdU1REAE",
+            "text": "Decent diner. Standard food. Husband enjoyed the egg white omelette option.  I found my cheese omelette to be dry and tasteless. Home fries were dry and cold. Service was good and very quick.  I won't be back as for the price I want to enjoy my meal."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURVODl6VGZBEAE",
+            "text": "Great food.\nGreat pie\nGreat people and service."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwM0lMM0RBEAE",
+            "text": "Amazing they serve great breakfast"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwM2ZudHhBRRAB",
+            "text": "One of the best spots for a Burger Deluxe and a nice big parking lot is always a plus."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNuenBUZXVnRRAB",
+            "text": "If you want a small NYC diner atmosphere with flavorful chicken noodle soup, come here! And if you love cheesecake, THIS IS THE SPOT. The creaminess of their not-too-sweet homemade strawberry cheesecake is unparalleled! Our attentive waitress is the reason we tried it- ohh soo goood! PS: No pics to share. We devoured everything before we thought to take any :)"
+        }
+    ],
+    "reviews_count": 78
+}

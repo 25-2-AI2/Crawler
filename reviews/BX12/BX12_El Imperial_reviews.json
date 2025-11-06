@@ -1,0 +1,502 @@
+{
+    "name": "El Imperial",
+    "place_id": "ChIJMQmwu1vzwokRuhoePxhbUf4",
+    "grid": "BX12",
+    "address": "2456 Williamsbridge Rd, Bronx, NY 10469, USA",
+    "rating": 4.3,
+    "user_ratings_total": 276,
+    "phone_number": "(347) 843-0770",
+    "reviews": [
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210bWNVdE5hVkpxVWtKSWFrVk9XVnBEUjBkbVlVRRAB",
+            "text": "I placed am order through Uber eats for my husband who is in Jacobi medical center emergency room, the order was incomplete I paid $26 for a dinner of chicken with rice Beans plantains they sent chicken & plantains  I tried to explain to 2 of the ladies that work there whom gave me nothing but attitude she kept running her mouth saying that's how the order came in on there end. I tried to explain to her OBVIOUSLY THERE IS A MISTAKE I did not pay $26 for chicken & plantains she continued to argue back at the end of the conversation she stated she will send the rice and beans and never sent it after explaining to her that my husband was not well and starving he was left with no dinner!!!  this is unexceptable!!  The worst restaurant I have ever come across!!"
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsUlNGTXpka3N5VmsxaU5uQldkMUZmWWtSbFIxRRAB",
+            "text": "Tuve una excelente experiencia en Imperial. La comida estuvo deliciosa: el moro y el pollo guisado estaban en su punto, bien sazonados y con ese sabor auténtico que uno busca. El servicio fue lo que más me encantó: las chicas que atienden son muy amables y atentas. Les pedí permiso para usar el baño y no solo me dijeron que sí, sino que con mucha cortesía me buscaron la llave y me facilitaron todo.\n\nAdemás, los precios son muy justos para la calidad de la comida que ofrecen. Se nota que trabajan con cariño y respeto por el cliente.\n\nGracias a todo el equipo de Imperial. Que Dios los bendiga y que sigan creciendo. Se lo merecen. ¡Volveré pronto!"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURod0xxcS1BRRAB",
+            "text": "Food is always delicious. Portions are perfect. The ladies are friendly n professional. Very nice\natmosphere."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJMTQzZjVnRRAB",
+            "text": "My father buys from you Manuel Santana he likes your food. Thank you!!??"
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsOWJfMFp3EAE",
+            "text": "A neighborhood treasure. When I was designated the breakfast door dasher for my shift at work, I spent many mornings watching them clean the store. Before any meals were prepared, they'd wash dust and mop. It's a well managed and maintained establishment. The food is consistently fresh and good. If fried plantains or yucca is what you desire and they don't have any prepared. The chef in the back will prepare it for you (hand cut, not that stuff from the bag). The staff understand that all you got is 30 minutes for your lunch break so you gotta get in and out and their coffee is the best of all the Caridads in the area ..."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHNm9MZml3RRAB",
+            "text": "Accogliente professionale e molto igienico, soprattutto si mangia molto bene"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNiak9MazhnRRAB",
+            "text": "Great variety of food at a busy location. Staff is friendly."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMbWVLUEN3EAE",
+            "text": "La atención es muy mala. Las personas que lo administran, quieren golpear a los clientes. La comida está bien. Pero las meseras no tienen una buena atención al cliente. Me lleve la peor experiencia en mi vida"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6eWZqZVdBEAE",
+            "text": "la comida es buenisima la recomiendo tienen un pica pollo buenisimo el mejor que he comido las atenciones son las mejores me siento como en casa ."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5dE5EZ1VnEAE",
+            "text": "Muy buenas comidas hispanas, servicio normal ambiente normal"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkM3RqSjV3RRAB",
+            "text": "La comida es excelente y el servicio muy bueno 🙏❤️"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR0OE1fNG9nRRAB",
+            "text": "El mejor de la zona, buen servicio,  el mejor mangu con tres golpes."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQxOXRPcXVBRRAB",
+            "text": "The best mango milkshake I never have super good the way I told her the girl to make it he make it exactly the way I like it"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWcTlDWXJRRRAB",
+            "text": "Excelente"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBcU5LcUF3EAE",
+            "text": "Amazing"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGaHNlMHlBRRAB",
+            "text": "Todo ecxelente el personal amable y servicial la comida riquísima y el precio bastante modico"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1a3ZhOUpnEAE",
+            "text": "I love this place! When i am too tired for dinner this is one of the places my S/O go to in order to pick up food that tastes sooo good, it tastes literally home cooked. It’s a home away from home. One of the best Hispanic and Dominican places i have every received food from, seconds to my S/O’s mother’s cooking…but that’s the love of a mother for you and to say it tastes home cooked, please take it as a compliment. I love ordering some extra to take some with me to work too so it feel like food i eat at home but at work, so i really feel like i am on break. This place is amazing!"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwdmRTVTZBRRAB",
+            "text": "This place used to be good, but now you get less food for more money, and it doesn't taste as good as it used to."
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwaGN5T3FRRRAB",
+            "text": "My restaurant dominicano preferido en el Bronx tengo más de 4 años comiendo ahí . Y siempre que tengo actividades familiares compro mi comida ahí, yo soy muy especial para comer y me gusta el buen el sabor y aquí siempre la comida sabe buena"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKamFfMjh3RRAB",
+            "text": "The food is very good and the service is excellent"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKdzdMRlZ3EAE",
+            "text": "Best Spanish food and the price was awesome"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4dW9xMHJRRRAB",
+            "text": "The best mofongo ever!!! I’m not from PR nor DR, but I’ve tried quite a few places mofongo and this one was the best.\nDefinitely recommended and I will try more dishes soon. Thank you !!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4bXNQeHZnRRAB",
+            "text": "Great food anytime I’m in the bronx this is my go too spot for good tasty Dominican food."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSdTQzeHJnRRAB",
+            "text": "I always love Spanish food especially good Spanish food. Their food is always delicious every time I have come here for lunch"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSNktYM2dnRRAB",
+            "text": "I order here before but this time got me highly upset, like this server don’t have common sense or because I am black she don’t care about hygiene. She literally. Crawl on the floor fraternizing with another customer than perceive to handle my food afterward without washing her hand. I came home and throw my meat away cause like I am pregnant and I am not going to eat that and I am already having a bad day to argue with her. She should know better"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSNk9DUjlnRRAB",
+            "text": "Hands down the best dominican food I've ever tasted in the US; only in DR have I had food this good. God bless them."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSbm9xWGR3EAE",
+            "text": "The food is always good and hot.\nDelicious food and great combinations. Love the mofongo."
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCaHBqQlN3EAE",
+            "text": "Comida malisima y vende comida de un dias pasado es lo peor que es comido en lo ultimos años"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCc3RMU2hBRRAB",
+            "text": "The best way to order from here is in person. On the phone is very poor. They don’t listen you would have thought you was making a long distance call the way they answer the phone. The food is okay sometimes it can be very salty. Overall not bad but I give it two stars b/c when ordering food for delivery the majority of the time there’s something wrong or missing. That’s b/c they don’t listen when you call."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQtenNXVXh3RRAB",
+            "text": "That is not DOMINICAN CAKE NOR DOMINICAN KIPPE... ZERO STAR\nI place an order through DOORDASH App and when I was looking for Tostones and came across the DOMINICAN CAKE  AND A KIPPE on their restaurant; I was very happy to find Dominican Cake and a beef kippe\nI even called the restaurant to ask if they have Dominican Cake before I place the order a( lady picked up the phone very nicely and I asked her if they have Guava cake and she said no only pineapple and Guava tres leches only, I said OK thank you). I processed it with my order on DOORDASH; say what? Food came poorly unpacked and I found POUNDCAKE WITH PINEAPPLE JAM OR JELLY on top AND A CHEESE KIPPE REALLY? NEVER AGAIN NOR I WILL RECOMMEND IT. ZERO STARS IF I COULD.."
+        },
+        {
+            "date": "3년 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlMF9MQ1JnEAE",
+            "text": "Muy mala,comida y el servicio pesimo,no lo recomiendo."
+        },
+        {
+            "date": "3년 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlMDl5bkZBEAE",
+            "text": "Muy mala comida pedí una 🍔 hamburguesa y mi pedido salió con la carne bien quemada y no me quisieron mandar otra cuando pague 43 dólares de hamburguesas y me salieron quemadas la carne estaba dura y negra"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ4OC15TnJBRRAB",
+            "text": "If your Asian person don't go to this place they will over charged and racist to you. They will gave you nasty food."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNld01DX1l3EAE",
+            "text": "Fish was good"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1am9TcUh3EAE",
+            "text": "Delicious food."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1d18yNmNBEAE",
+            "text": "the prices of the food are very expensive, how are you going to make a chicken chicharon with tostones worth $21, the order"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPajZXOGlBRRAB",
+            "text": "Food is great . Nice staff 👍\nVery kind on the phone for the orders.."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQyaFBmQmZBEAE",
+            "text": "The best food"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnOWRfNVpBEAE",
+            "text": "Best chicken ever"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURzbnRHejhRRRAB",
+            "text": "Food sucks always the same food. High prices food is very salty . DO NOT WASTE UR MONEY...."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXbTdMbW5BRRAB",
+            "text": "Great D. R. food, and the lady who takes the phone orders is a sweetheart.  Moist, fresh rice and beans and I LOVE the chicken.  Great local place."
+        },
+        {
+            "date": "3년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXanR6N3lRRRAB",
+            "text": "Comida Buena.🇪🇨✅🇺🇸…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXemFHQ0lREAE",
+            "text": "Amazing D.R. cuisine; very friendly and helpful staff. Definitely recommend to anyone looking to satisfy their \"sabor latino\" cravings. 👍"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXcU1UY093EAE",
+            "text": "Super tasty"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNXd05pQVhREAE",
+            "text": "I have been ordering for this restaurant for a while. I have ordered from this restaurant for years. The food has always been great.\nUnder the new management they have kept the same quality.\n\nRudelis is my to go girl, every time i call i asked for her, nonetheless everyone there is always super nice and friendly.\n\nReal authentic dominican food...the beans are always to die for, the pernil, the chicken...everything is always so good.\nFor some of my business events we had cater from them.\nThey really care about their quality and even with the inflation, their portions are still the same."
+        },
+        {
+            "date": "3년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURtcnNuM2hnRRAB",
+            "text": "Pa comida es muy buena y la persona que recibe las órdenes una excelente atención ❤️"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNOHFtX2xnRRAB",
+            "text": "Its been 3 or more times I have order from them and they have forgotten  to send me my order I have call back and ask them what’s going on they told me they had forgotten  to put in the order  is not like am asking for free food am paying…"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnamRtOFRnEAE",
+            "text": "Authentic Latin cuisine at its best in the Bronx. I've been to this restaurant on multiple occasions and I have not had a negative experience. The staff is welcoming and attentive. Their prices are more than reasonable. Looking forward to my next visit."
+        },
+        {
+            "date": "4년 전",
+            "language": "es",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNxbnI2WUdBEAE",
+            "text": "La comida es bastante  buena, pero el arroz parece ser de muy baja calidad, pues sabe a saco de hilo. Deben usar arroz de mejor calidad. Aparte de eso, las chuletas son riquisimas, el servicio al ciente es muy afable y atento. Las entregas son rapidas y muy bien empacadas."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3b0ltRUlREAE",
+            "text": "Small, no frills Dominican restaurant. Food is so delicious and affordable. The lady that owns the place is so friendly and warm; always so attentive to everyone. Waitresses are very sweet and always on top of things."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLMGJ6aldBEAE",
+            "text": "Really good Dominican style Spanish food. Nice portions of rice, chicken lunch menu specials and tasty beans.  Friendly ladies serving behind the counter."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5aXF1V3VnRRAB",
+            "text": "Fresh and super flavor filled food. I've actually bypass the larger, more popular Spanish food spot which is closer to my home to come here. Their food is simply better. Their pernil in particular is far better seasoned as 1 example."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNpbjhESl9nRRAB",
+            "text": "I paid $40 for an order of 2 rices, small container of beans, and a order of chicken. the chicken had too much coloring and very salty! waste of $40. Not to mention, I ordered a ginger ale and they sent me a 7up- it is so frustrating when you pay for something and get something else."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNVMExDbm5RRRAB",
+            "text": "I ordered the roast pork lunch special, very good food and it was take out.  Was a ten dollar min for using card to pay.  The server and staff was friendly good price as well."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNNLWEyaFdREAE",
+            "text": "The food is good the chicken is better than most restaurant even El Valle. The service is really good and they try to be understanding. They just keep delivering to my old address although I tell them to change my address."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURDaWRYU2VBEAE",
+            "text": "Very good food. Affordable and delicious.  Love coming here w my son. Great customer service.  Highly recommend this place.…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJNWRXbVd3EAE",
+            "text": "I come here about twice a week due to me working down the block.  The best meals that they have are the chicken chunks with the bones, fried fish and the mangu for breakfast.  Trust me you won't be disappointed!"
+        },
+        {
+            "date": "9년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnbmI2NlNREAE",
+            "text": "Grade (A) Dominican food. I live in Orange County New York but  when i visit my friends and family, I always make a pit stop at this place. The food is awesome and always fresh. one of the best dominican restaurant in the bronx when it comes to service and dominican cuisine!!!!!!!!"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN3dnZxc05BEAE",
+            "text": "Normally call this place for Mangu in the morning. Although it is very tasty, they run out at around 11 and do not make any more for the rest of the day. Unfortunate because I wake up in the afternoon sometimes craving Mangu. Delivery starts after 10AM"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNc2ZuN1BnEAE",
+            "text": "Service was awesome, the Chicharon de pollo was delicious, and the rest of the food seems to be amazing as well. Seems like a popular spot to order food from as well with all the deliveries going out while I was there."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM2bXM2QzB3RRAB",
+            "text": "Food is excellent Place might look ghetto but it’s the food that matters ! Staff is nice and they call me Papi and mi amor"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRdUtMVjZnRRAB",
+            "text": "Great food, fast delivery. I wish they were on GrubHub or Seamless though, never the less it's our go to restaurant when we're craving Latin food."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURVZ0lIQk9nEAE",
+            "text": "Ordered a simple breakfast for delivery omlette with swiss cheese beacon toast w/ large coffee w/ extra sugar well food came cold coffee had no sugar when I specifically told her three times and told her to repeat it to me three times bad bad bad rep.8/10/19"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURhcW9fdkRnEAE",
+            "text": "Great local Dominican 🇩🇴 Food and a go to take out spot. The food is made fresh and the staff is very kind and accommodating."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnelpqR2tBRRAB",
+            "text": "Food is okay. Very skimpy on proteins but will give you 3 servings of rice with your meal."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM0bnJtWXJnRRAB",
+            "text": "Food is really good and the staff is friendly."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNpdXNLREd3EAE",
+            "text": "the food here is always good I like to order meatballs white rice and red bean is so delicious only bad part is the service lol"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNDd3NMMkJBEAE",
+            "text": "1st time ordering here. Try to order keep me on the phone over 5min never took my order. She was back and foward on the phone and talking to everybody except me. No thanks bad service on phone it going to be a bad experience."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnOVA2Z293RRAB",
+            "text": "Most of the times their food is good. But today the yellow plantains was not cooked well it was soggy. They slacking..."
+        },
+        {
+            "date": "9년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRazRfOE1BEAE",
+            "text": "The best food. Feels like home made and the carisma of the employees are fantastic. Buena comida hecha como en casa. La atención de los empeados  es la mejor."
+        }
+    ],
+    "reviews_count": 70
+}

@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Bedford Cafe",
+        "address": "1 Bedford Park Blvd, Bronx, NY 10468, USA",
+        "place_id": "ChIJU4H-KHbzwokRxvdlQH8O_o8",
+        "rating": 4.1,
+        "user_ratings_total": 1464,
+        "phone_number": "(718) 365-3446"
+    },
+    {
+        "name": "Antonio's Trattoria",
+        "address": "2370 Belmont Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJi0UhO4f0wokR_jzG9KlaPQA",
+        "rating": 4.6,
+        "user_ratings_total": 1556,
+        "phone_number": "(718) 733-6630"
+    },
+    {
+        "name": "Enzo's of Arthur Avenue",
+        "address": "2339 Arthur Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJK-WbWIf0wokRWPsJsVTeOfQ",
+        "rating": 4.4,
+        "user_ratings_total": 1854,
+        "phone_number": "(718) 733-4455"
+    },
+    {
+        "name": "La Casa De Frida",
+        "address": "307 E 204th St, Bronx, NY 10467, USA",
+        "place_id": "ChIJyXC4ourzwokRIBqDwStRlJ0",
+        "rating": 4.2,
+        "user_ratings_total": 198,
+        "phone_number": "(347) 202-7126"
+    },
+    {
+        "name": "Bedford Gardens",
+        "address": "172 Bedford Ave, Brooklyn, NY 11249, USA",
+        "place_id": "ChIJqdEJl-pZwokRBDhYkP_ocL0",
+        "rating": 4.8,
+        "user_ratings_total": 312,
+        "phone_number": "(347) 844-9008"
+    },
+    {
+        "name": "Amazing Chicken & Gyro",
+        "address": "3496 Jerome Ave, Bronx, NY 10467, USA",
+        "place_id": "ChIJY6Vd1KTzwokR2a4vXEAYXRQ",
+        "rating": 4.9,
+        "user_ratings_total": 360,
+        "phone_number": "(718) 708-6790"
+    },
+    {
+        "name": "Bedford Pizza",
+        "address": "380 Bedford Park Blvd, Bronx, NY 10458, USA",
+        "place_id": "ChIJqY-ilnnzwokR745O4UzYWuA",
+        "rating": 4.3,
+        "user_ratings_total": 295,
+        "phone_number": "(917) 801-0770"
+    },
+    {
+        "name": "Zero Otto Nove",
+        "address": "2357 Arthur Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJ4aiyUYf0wokRl3irR6IrNfM",
+        "rating": 4.5,
+        "user_ratings_total": 1496,
+        "phone_number": "(718) 220-1027"
+    },
+    {
+        "name": "Halal Bros Grill Bronx",
+        "address": "3476 Jerome Ave, Bronx, NY 10467, USA",
+        "place_id": "ChIJJef2E07zwokREfiXqeskUuY",
+        "rating": 4.7,
+        "user_ratings_total": 877,
+        "phone_number": "(718) 676-4648"
+    },
+    {
+        "name": "Taco Express Mexican Grill",
+        "address": "3403 Jerome Ave, Bronx, NY 10467, USA",
+        "place_id": "ChIJoQRJFwDzwokRLsTgt4yHif4",
+        "rating": 4.8,
+        "user_ratings_total": 864,
+        "phone_number": "(929) 600-5030"
+    },
+    {
+        "name": "Mosholu Cafe & Deli",
+        "address": "3441 Jerome Ave, Bronx, NY 10467, USA",
+        "place_id": "ChIJKcZlSPDzwokR1rhyj_hb46U",
+        "rating": 4.4,
+        "user_ratings_total": 86,
+        "phone_number": "(718) 708-6250"
+    },
+    {
+        "name": "Love & Soul Food",
+        "address": "4 E Gun Hill Rd, Bronx, NY 10469, USA",
+        "place_id": "ChIJEUUWIQDzwokR0-AKLc3M12Y",
+        "rating": 4.1,
+        "user_ratings_total": 31,
+        "phone_number": "(347) 202-4900"
+    },
+    {
+        "name": "Rocco's Pizzeria",
+        "address": "397 Bedford Park Blvd Ste 2414, Bronx, NY 10458, USA",
+        "place_id": "ChIJvyxGjnnzwokRw5W56GcWzMg",
+        "rating": 4,
+        "user_ratings_total": 182,
+        "phone_number": "(718) 295-6793"
+    },
+    {
+        "name": "LNE Bar & Restaurant",
+        "address": "390 E 204th St #1, Bronx, NY 10467, USA",
+        "place_id": "ChIJCT9SKG7zwokRt_-xnno2CPQ",
+        "rating": 3.6,
+        "user_ratings_total": 535,
+        "phone_number": "(718) 653-0788"
+    },
+    {
+        "name": "Wai Kang",
+        "address": "39 Bedford Park Blvd, Bronx, NY 10468, USA",
+        "place_id": "ChIJZ0L8LXbzwokR4KEm8nWR2oI",
+        "rating": 4,
+        "user_ratings_total": 176,
+        "phone_number": "(718) 933-2797"
+    },
+    {
+        "name": "Bedford Deli",
+        "address": "26 Bedford Park Blvd, Bronx, NY 10468, USA",
+        "place_id": "ChIJBxdJIf_zwokRIKcSOS7mIU0",
+        "rating": 4.2,
+        "user_ratings_total": 41,
+        "phone_number": "(347) 963-4593"
+    },
+    {
+        "name": "Made In The Bronx",
+        "address": "3700 Jerome Ave, Bronx, NY 10467, USA",
+        "place_id": "ChIJj0S1Ce7zwokRf3foCzjLkcI",
+        "rating": 4.2,
+        "user_ratings_total": 5,
+        "phone_number": null
+    },
+    {
+        "name": "Jerome Pizza Pasta",
+        "address": "21 Bedford Park Blvd, Bronx, NY 10468, USA",
+        "place_id": "ChIJjRnBJ3bzwokRl7iHX8BgrZI",
+        "rating": 4.2,
+        "user_ratings_total": 534,
+        "phone_number": "(718) 933-3455"
+    },
+    {
+        "name": "Ace Shawarma & Burgers",
+        "address": "3455 Jerome Ave, Bronx, NY 10467, USA",
+        "place_id": "ChIJ0yLqb4_zwokRHNWMD34JRTE",
+        "rating": 4.9,
+        "user_ratings_total": 326,
+        "phone_number": "(929) 632-6081"
+    },
+    {
+        "name": "Luncheon Fountain",
+        "address": "331 E Gun Hill Rd, Bronx, NY 10467, USA",
+        "place_id": "ChIJLVFSFhPzwokRsg3tEyWz_zA",
+        "rating": 4,
+        "user_ratings_total": 8,
+        "phone_number": "(917) 664-8350"
+    },
+    {
+        "name": "Enzo's Of Williamsbridge",
+        "address": "1998 Williamsbridge Rd, Bronx, NY 10461, USA",
+        "place_id": "ChIJm0wf5qf0wokR8wUD2sL-fIA",
+        "rating": 4.5,
+        "user_ratings_total": 755,
+        "phone_number": "(718) 409-3828"
+    },
+    {
+        "name": "Teriyaki One Japanese Grill (Teriyaki & Sushi)",
+        "address": "6 E 208th St, Bronx, NY 10467, USA",
+        "place_id": "ChIJadpzTADzwokR9gv81TDCrrE",
+        "rating": 4.7,
+        "user_ratings_total": 174,
+        "phone_number": "(929) 448-5669"
+    },
+    {
+        "name": "TACO INN",
+        "address": "9 E 208th St, Bronx, NY 10467, USA",
+        "place_id": "ChIJiy1RH6rzwokRAxYnHK86OuM",
+        "rating": 4.3,
+        "user_ratings_total": 39,
+        "phone_number": "(917) 693-0121"
+    },
+    {
+        "name": "Marconi’s Pizzeria&Restaurant",
+        "address": "181 E Gun Hill Rd, Bronx, NY 10467, USA",
+        "place_id": "ChIJFxAlVtvzwokR7OucYUHe-Mc",
+        "rating": 4.3,
+        "user_ratings_total": 98,
+        "phone_number": "(718) 798-4970"
+    },
+    {
+        "name": "AAA CARIDAD",
+        "address": "3108 Webster Ave, Bronx, NY 10467, USA",
+        "place_id": "ChIJXSDX9lTzwokRMbfj8f2_SUw",
+        "rating": 4.1,
+        "user_ratings_total": 27,
+        "phone_number": "(718) 654-2694"
+    },
+    {
+        "name": "Mar Y Tierra",
+        "address": "3236 Bainbridge Ave, Bronx, NY 10467, USA",
+        "place_id": "ChIJveGV-3LzwokRFKhvU6GVDGk",
+        "rating": 3.9,
+        "user_ratings_total": 345,
+        "phone_number": "(718) 655-7764"
+    },
+    {
+        "name": "Rancho Tulcingo Restaurant",
+        "address": "3127 Hull Ave, Bronx, NY 10467, USA",
+        "place_id": "ChIJ9W3WLOzzwokR0emMwfRaBSg",
+        "rating": 4.4,
+        "user_ratings_total": 58,
+        "phone_number": "(718) 872-7634"
+    },
+    {
+        "name": "Emilio's of Morris Park",
+        "address": "1051 Morris Park Ave, Bronx, NY 10461, USA",
+        "place_id": "ChIJOwc5k6X0wokRuoqLo5MLonE",
+        "rating": 4.3,
+        "user_ratings_total": 1288,
+        "phone_number": "(718) 822-6758"
+    },
+    {
+        "name": "Estrellita Poblana",
+        "address": "374 E 204th St, Bronx, NY 10467, USA",
+        "place_id": "ChIJc1TvGsvzwokR6H57xI-VdHM",
+        "rating": 4.2,
+        "user_ratings_total": 144,
+        "phone_number": "(718) 684-8801"
+    },
+    {
+        "name": "Halal Gyro King Deli",
+        "address": "319 E 204th St, Bronx, NY 10467, USA",
+        "place_id": "ChIJgw8-ueXzwokRsq0fXV28p1M",
+        "rating": 4.5,
+        "user_ratings_total": 39,
+        "phone_number": "(347) 202-4554"
+    },
+    {
+        "name": "The Bedford",
+        "address": "110 Bedford Ave, Brooklyn, NY 11249, USA",
+        "place_id": "ChIJC9ZN6VxZwokRQD2Rzzd5DlQ",
+        "rating": 4.3,
+        "user_ratings_total": 1163,
+        "phone_number": "(718) 302-1002"
+    },
+    {
+        "name": "Popeyes Louisiana Kitchen",
+        "address": "309 E 204th St, Bronx, NY 10467, USA",
+        "place_id": "ChIJdzWpayPzwokRGNdi4IMB3V0",
+        "rating": 4,
+        "user_ratings_total": 154,
+        "phone_number": "(347) 427-2180"
+    },
+    {
+        "name": "Tasty Picks",
+        "address": "89 E Gun Hill Rd, Bronx, NY 10467, USA",
+        "place_id": "ChIJ43sxsA3zwokRHYNyrGp3uuk",
+        "rating": 4.1,
+        "user_ratings_total": 476,
+        "phone_number": "(718) 231-2230"
+    },
+    {
+        "name": "Nicky's Coffee Shop Inc",
+        "address": "3140 Bainbridge Ave, Bronx, NY 10467, USA",
+        "place_id": "ChIJ70QHSHLzwokR1mSyuGTx30w",
+        "rating": 4.4,
+        "user_ratings_total": 591,
+        "phone_number": "(718) 231-9516"
+    },
+    {
+        "name": "Tasty Caribbean Plus Buffet",
+        "address": "131 E Gun Hill Rd, Bronx, NY 10467, USA",
+        "place_id": "ChIJ96Batw3zwokRTvSgjomHbg4",
+        "rating": 4.3,
+        "user_ratings_total": 238,
+        "phone_number": "(718) 708-7979"
+    },
+    {
+        "name": "Los Munchies Jerome Ave",
+        "address": "3421 Jerome Ave, Bronx, NY 10467, USA",
+        "place_id": "ChIJDboLFQDzwokRhrB0FSeT-qI",
+        "rating": 4,
+        "user_ratings_total": 120,
+        "phone_number": "(718) 881-5500"
+    },
+    {
+        "name": "Pinas Locas Quetzaly",
+        "address": "3500 Jerome Ave, Bronx, NY 10467, USA",
+        "place_id": "ChIJqwFRkp_zwokRa6MXpNJwhRE",
+        "rating": 4.1,
+        "user_ratings_total": 83,
+        "phone_number": "(646) 221-5007"
+    },
+    {
+        "name": "La Madrina",
+        "address": "334 E Gun Hill Rd, Bronx, NY 10467, USA",
+        "place_id": "ChIJJXDDMSbzwokRVYTUiHzZlgM",
+        "rating": 4.1,
+        "user_ratings_total": 9,
+        "phone_number": "(718) 515-9848"
+    },
+    {
+        "name": "McDonald's",
+        "address": "300 E 204th St, Bronx, NY 10467, USA",
+        "place_id": "ChIJO8w-jXHzwokRwFLAhHnunxM",
+        "rating": 3.9,
+        "user_ratings_total": 1438,
+        "phone_number": "(718) 653-1387"
+    },
+    {
+        "name": "Georgie's Pizza and Restaurant",
+        "address": "3167 Bainbridge Ave, Bronx, NY 10467, USA",
+        "place_id": "ChIJ0clEGjPzwokRFLj4GgrGzuM",
+        "rating": 4.2,
+        "user_ratings_total": 67,
+        "phone_number": "(347) 202-9901"
+    },
+    {
+        "name": "North Star Cafe - Fordham",
+        "address": "387 E Fordham Rd, Bronx, NY 10458, USA",
+        "place_id": "ChIJlY3lXoDzwokR256yNqa2x6c",
+        "rating": 4.1,
+        "user_ratings_total": 615,
+        "phone_number": "(718) 295-8801"
+    },
+    {
+        "name": "Patsy's Pizzeria Morris Park",
+        "address": "980 Morris Park Ave, Bronx, NY 10462, USA",
+        "place_id": "ChIJG1dgAqX0wokRqPwXSi-lqIw",
+        "rating": 4.2,
+        "user_ratings_total": 502,
+        "phone_number": "(718) 676-2527"
+    },
+    {
+        "name": "Tex’s Chicken & Burgers",
+        "address": "277 E 206th St, Bronx, NY 10467, USA",
+        "place_id": "ChIJM70Hx-_zwokR4bhtoRQnEHs",
+        "rating": 4.4,
+        "user_ratings_total": 284,
+        "phone_number": "(718) 708-4737"
+    },
+    {
+        "name": "Lona's Pizza",
+        "address": "373 E 204th St, Bronx, NY 10467, USA",
+        "place_id": "ChIJde1IJm7zwokR8DRz3hfpZqY",
+        "rating": 4.7,
+        "user_ratings_total": 88,
+        "phone_number": "(718) 655-6600"
+    },
+    {
+        "name": "Bronx NY Pizza",
+        "address": "3414 Jerome Ave, Bronx, NY 10467, USA",
+        "place_id": "ChIJY4ZpggzzwokRCka37np-Jzs",
+        "rating": 4.4,
+        "user_ratings_total": 110,
+        "phone_number": null
+    },
+    {
+        "name": "Estrella Mileni",
+        "address": "352 E Gun Hill Rd, Bronx, NY 10467, USA",
+        "place_id": "ChIJIzIcQBPzwokR8L90zP-9qsc",
+        "rating": 3.8,
+        "user_ratings_total": 42,
+        "phone_number": "(347) 346-7363"
+    },
+    {
+        "name": "Mayas Pizza",
+        "address": "292 E 204th St, Bronx, NY 10467, USA",
+        "place_id": "ChIJ6Z_exnTzwokRJ_dqOlqtk_Y",
+        "rating": 4.4,
+        "user_ratings_total": 28,
+        "phone_number": "(347) 202-7040"
+    },
+    {
+        "name": "Yummie",
+        "address": "376 E Gun Hill Rd, Bronx, NY 10467, USA",
+        "place_id": "ChIJNy0QXRPzwokRn0XtLNaij-s",
+        "rating": 4,
+        "user_ratings_total": 4,
+        "phone_number": "(347) 641-8033"
+    },
+    {
+        "name": "Aman Halal Pakistani Restaurant And Catering",
+        "address": "3594 Jerome Ave, Bronx, NY 10467, USA",
+        "place_id": "ChIJG7t9Tw7zwokRJr1MzMGVSY8",
+        "rating": 4.2,
+        "user_ratings_total": 400,
+        "phone_number": "(718) 708-5853"
+    },
+    {
+        "name": "The Bedford Stone Street",
+        "address": "55 Stone St, New York, NY 10004, USA",
+        "place_id": "ChIJk08ILuVbwokRKBW-ON446RQ",
+        "rating": 4.6,
+        "user_ratings_total": 60,
+        "phone_number": "(646) 346-6366"
+    }
+]

@@ -1,0 +1,642 @@
+{
+    "name": "Red Lobster",
+    "place_id": "ChIJsX0Z-7iMwokRMHlruP2Ileo",
+    "grid": "BX10",
+    "address": "2090 Bartow Ave BAY PLAZA SHOPPING CENTER, Bronx, NY 10475, USA",
+    "rating": 3.9,
+    "user_ratings_total": 3515,
+    "phone_number": "(718) 671-4223",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFMFZucGFkRXBJVlVGaVdVWkdTVE0wZVRoWk1XYxAB",
+            "text": "Catherine was efficient, punctual, and personable. Much appreciated."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aNGNraHdSRlp2VldGM1VYUnJTQzFEWmxGU1RYYxAB",
+            "text": "Everything was great"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s0eGNWUTRXbGMwT1hFM00zcFFWbWhOV1VaSU9WRRAB",
+            "text": "Kassandra was amazing had a bad drink she got me a new one. Food was amazing everything hot & fresh. She was super friendly and consistent"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWSU5FVnRhV3hHTVhaUVJXaEJSemxKVG5vM2FtYxAB",
+            "text": "Catherine was attentive, funny, and informative. Great Service! Keep being great, the bottom is full."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210T1RWOVpjVTVQYW01Sk1EUk5ibFJTVURoV1kxRRAB",
+            "text": "Seafood boil excellent. I enjoyed it very much together with my wife. I will sea food again with Red Lobster over and again."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oVmJVaE5jMkpJTTJKM05ITkJSM0ZLV1U5VFQxRRAB",
+            "text": "Sy’niya offered great customer service and had a lovely personality. Definitely enjoyed having her as a server as well as the food."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xJNVlsWnZhMWMxTTNwZlRVWnliekpQUkdWM01FRRAB",
+            "text": "Katherine was a great hostess/waiter. She was very attentive and friendly."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205V09WcFNORlZMTFhaNmVFUmpWM1l5TW5oUlkwRRAB",
+            "text": "Catherine was very polite and attentive. Would definitely request her as my server again !"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkU2RuazJPVUYzU1U5NWQwMWhlVmw1YW5nMVVIYxAB",
+            "text": "Catherine was an amazing waitress. She was very friendly, professional, and honest. She was a great representation of the company and their values."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGQ2QzcGxOWE00WVRKT1ZGbE1kemRUYjFGV1psRRAB",
+            "text": "I will wait at Catherine went over and beyond during our  time  here. She is truly the best."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkeWIzUk5VV0l0UzNJeVoyMHhMVmRYVEdGbWVWRRAB",
+            "text": "Catherine was so sweet and very attentive she checked in often and provided fast service"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2trMVFWOHlkRWxZYVVSdldrbFBaVGRTUWxSVmRrRRAB",
+            "text": "Our waiter Jason was great. He made sure we were well taken care of."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KSGRYSkJTV1ozY2tObFpVbFRhSFZ5ZGsxbFdVRRAB",
+            "text": "The shrimp scampi linguine could’ve been more tasty. No salt"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOM04xSnBTRk4yVlUwemMwSnJWREJYYkZONk5VRRAB",
+            "text": "We wait for 2 hours after seating before the meal came out, all the dishes was delivered to the table barely warm. The server forget water for the table including the utensils for the crab boil. We didn't enjoy our meal. The experience was not a good one."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKM09GZElMVEk0VFd4dmJGTnZPR2szZUhGU2QxRRAB",
+            "text": "First time here in this neighborhood.  We arrived around 12, noontime. We were seated immediately.  No wait time.\nThe atmosphere was cozy. I enjoyed the music they were playing. Our waitress, Angela was efficient,  and the food was good. The restaurant was clean, including the bathrooms.  We will be back, and I highly recommend."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkeVpXcG9lbGhuU3pKNFNuTmxWa05hZVdKNVZWRRAB",
+            "text": "Carene was Extremely professional\nDrinks and food was great"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsaVdEbENXVlp6ZG1STlJtSTRhVlZaYm1Gc2VGRRAB",
+            "text": "Catherine was absolutely an amazing waiter/host very helpful in explaining what’s on the menu as well as making sure we got our food in time"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5dlpWVXpXSFo2YzNwdmFEZEhPVWRFU1VWbVMwRRAB",
+            "text": "Thank you Cathrine!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SS1UyazRNVnBEZVdGamVURXhVRjl3TTNCWWJYYxAB",
+            "text": "Very nice outing with great food to boot. Carene was very attentive and took care of all our requests."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wMmNtTk1RVXhtZFdRelZVWnZNakphVWxWaGJVRRAB",
+            "text": "Carene is the best server. She is very attentive and gives great recommendations!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poTk9GOXlWV1ZJVkRsWVlWWklPR3RHYzJVelNYYxAB",
+            "text": "Great customer service from Jason"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsYVNsUkVNVlpyWVhWTWJVNXFWVWxaWWtSV1RsRRAB",
+            "text": "Angie was a a great server!!"
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3OTltOGpBRRAB",
+            "text": "Food was great as always!\nOur waiter Carene was quick, efficient and very friendly! She was also very knowledgeable about the menu"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ocWMxaEljbTVVYjFCR1dIQkxWa1p6V2poQ1QwRRAB",
+            "text": "Alyssa has excellent customer service skills and was an absolute pleasure to be served by."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKcWFVMVNkRWRzWm0xT2JtbEZhbll3T0d4WE1tYxAB",
+            "text": "Celebrated my mom’s birthday and had an amazing time! The food was great and our server Katherine was so nice. Will definitely come back"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxcFFXNUtSamxRTmtOS1VYRm1WamQ1ZG5wS2QwRRAB",
+            "text": "My experience was a pleasant one!\nMy waiter was Jason! He was very professional. He made sure my order came in a timely fashion. The food was cooked just right. I only wish I remembered to take me fresh made bread."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFelluUlBSalZ3WWpZMFZYQXRNMVZVU1ZSQ1JYYxAB",
+            "text": "Krystal P (Kryssy) was great!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0eGFVSndTMUpoVFZNeE5WaGhUR1JZVEZnM00xRRAB",
+            "text": "Driana was extremely lovely. She took great care of me, was extremely nice to me, and did everything she could to make sure I was satisfied. She did an excellent job. Give her a raise ;) lol she’s awesome. I had a great time."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4d1JrMWZjelpCTmtOVlRrVkNlRUYwUmtsbFZHYxAB",
+            "text": "Our server Alyssa went above and beyond to make our meal and time here special. She was warm, professional, and very attentive without being overbearing. It’s clear she takes pride in providing great service. The food was great but the service made the experience unforgettable. Highly recommend asking for her if you visit!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3MFFtZDVlRGN3UVV0UVVtWXdWRE5FZUhsaFdtYxAB",
+            "text": "Made my birthday feel amazing"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SS1EwMW9TV2QyUjBwamFVeHZaVFJUYlZwU1pGRRAB",
+            "text": "Daunjae and Susan was EXCELLENT!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKdGEzZ3daV3RFU21jd1luUTRMVVYwZDNFeWRsRRAB",
+            "text": "Carherine, our server was great\nFood was good too\n\nWill go back"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204MFZVVkNZMk5wVmxacU9HMHpjR0pYUW1JdGVHYxAB",
+            "text": "Our server Carene was excellent, she was patient and caring."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5YVFqRnRUVGRPV1hsU09IQTBOREI0U1c5S1pIYxAB",
+            "text": "Very good.😃"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKYVJqaGhXR1UyWmt0dmMwdG9OaTFrUnpKdGMzYxAB",
+            "text": "The food and service was awesome 👌 Krystal R  was attentive"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xac00zbGFlRFozYVVWaGJrVnRhV2xhZDFkcmVIYxAB",
+            "text": "Carene was very helpful to me and my guest and was very caring. I would recommend her anytime as well as this establishment."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aemFsUkhORFUzV1c1aWNYUTJMV041WlVsWE9YYxAB",
+            "text": "Great customer service!!!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkME1qVkVTblI1VEdWdE5qaHZhWEZzUlY5MVEyYxAB",
+            "text": "Food was good and the waiter was pleasant"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tjd1RISlJSSFZsVm5SSWN6RnpSamQ2ZWxNemVVRRAB",
+            "text": "Krystalr~sweet person, the best"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0RFltTkpkV2xSU1VvdGNrVm9NbWRhWkhWTVEyYxAB",
+            "text": "Krystalr sweet person"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paNk5tWk1ZazVGYnpocVRESXpXVkYxTnpSbWJXYxAB",
+            "text": "The hospitality from our server Krystal R. Was amazing.  Would 100% go back!"
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwTWEzUnNOalZRYzJSc00wOVlNRkF0VG05dU1XYxAB",
+            "text": "Red Lobster always hits and I don’t eat seafood so I go for drinks, steak and those famous biscuits. Carene was our server for this visit and is a great server and just so personable. Carene is definitely a model server makes the visit complete with her efficient and professionalism and welcoming aura. So Drinks, Food, Ambiance and Amazing Service with Carene 5 stars across the board. You can’t go wrong and I will always come back."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psWlp6VjNaR3R5VGxjNWR6WkZkRlpTWmsweE1YYxAB",
+            "text": "Catherine excellent service nothing but gold stars she is one of the best employees that's established have"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wVlRuSkxNRFZhTjBWWWNVSkphbkZCVVVSU2FFRRAB",
+            "text": "My daughter and I came for dinner. The food was great and the service even better. Our server Carene was attentive, welcoming and just delightful. We’ll definitely be back."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kd01VTnFkalEzVlRkdVEySTNSbTAzWm05MlFVRRAB",
+            "text": "Krystal R was amazing"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1R2JIaDNlVWRwWW05UVZtVjFMV2QzT1hkVmVuYxAB",
+            "text": "Evelyn and her staff were amazing. Diane are waitress was outstanding. We will be back. The food was amazing. Every one needs to come here 😊"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kcVFtSmZNVlZCUjJsNlEzSnJaSGxVVUhWb01XYxAB",
+            "text": "The Barcardi Crab Legs Delicious. Service Great. The blue rubber band around the crab legs could of been left out but the food was great. 3rd or 4th time there and never disappoints. Try the Guava Margarita...yummy."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGeWRHcFRRVTkwZG1WTFpETXlla0pqUlhOSlMyYxAB",
+            "text": "Went there today with my kids they sat us right under the AC vent i I asked the manager Fabian if he can lower it and he was very rude and unprofessional and told me that I can get up and move to another table then what do I expect if I’m sitting under the vent so my food got cold couldn’t even eat the whole thing cu it was so cold Where they sat at.. When I was walking out the restaurant, he was rude again, asking if I needed his bosses name since I wasn’t happy.. Fabian the Manager is one a very unprofessional and rude person"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OZlUyeDZORkV3UTJSUFFuaG9TazFPWkY5aFRuYxAB",
+            "text": "Catherine was amazing she got everything right and was amazing with her service"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ZdGJVWmlaM1J5TjFOcmRYSkpaSFpaV0RaamNsRRAB",
+            "text": "I usually have a good experience when I come here, but today the food was disgusting like there was no effort. my friend and I went when it's not usually busy and our wait time for the food was more than 30 minutes. I had to ask for them to bring out the appetizer. It looked like they just warmed it up in the microwave. My mashed potatoes was hard and look old. The salmon was not fresh. It looks like it was sitting there. The manager did take the order off the bill, but she looked like she did not want to interact at all."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214Uk5FRnVNR05DVUdWWU1rOUpPVUpKV0hSa01sRRAB",
+            "text": "Sunday Morning before the church crowd they opened at 12pm. We was seated immediately. 2 dialysis friends enjoyed a seafood delicious meal. The classic biscuits are a classic taste. Lucas hasn't had lobster in 6 years. We were both introduced to Red Lobster New boiling bag Lobster Crab leg buttery meal. Red  Lobster in the North Bronx a win for the Caribbean community. The glass of water was refreshing and ice cold. For me and my 5 million food reviews fresh water is the top of my list.  And the manager coming to check on our table a welcoming greeting and conversation added to our meal."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taNGVVaERhMlZIVTI5blQwWlBTWEpoTFRSWWVFRRAB",
+            "text": "When I arrived around 5:30 there was more than enough parking ✔️. We were greeted and we were all seated within seconds,  it also helped that the place at that time was not packed. The food was good better than average, the atmosphere was great because it was not crowded. I enjoyed myself I actually have no complaints."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KYWRYVXlRVVZ0TVdoZlNXb3pVbkpPVWtkeGVXYxAB",
+            "text": "I took my friend for her birthday. Our Waiter name was kryssy ❣️ she was very nice and attentive. Kept checking on us and making sure everything was good at the table"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCTlkxQTRhRXgzYVhsbmFWWjNUMmhvVVVsUlpVRRAB",
+            "text": "ordered a combination of lobster, shrimp, and salmon — and every dish exceeded expectations.\nThe lobster was perfectly cooked, tender, and rich in flavor. The shrimp were juicy with just the right amount of seasoning, and the salmon was beautifully seared, flaky, and full of flavor. Each dish was well-prepared, fresh, and clearly made with quality ingredients.\nThe service was friendly and efficient — staff were attentive without being overbearing. The atmosphere was relaxed and inviting, ideal for both casual dinners and special occasions.\nPricing was fair for the quality of the seafood, and I felt like I got great value for what I paid. If you’re a seafood lover, this place is definitely worth a visit.\n\nTo top it off, I had a Piña Colada, and it was absolutely delicious — smooth, creamy, and refreshing, with just the right balance of coconut and pineapple.\nFatou was our server she was absolutely amazing 👏."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOck5reENWVE5SU201cmVVOW1lWGxGWkhaNmEyYxAB",
+            "text": "Alyssa is truly the best bartender! She’s friendly, professional, and always makes you feel welcome the moment you sit down. Her drinks are spot on every single time—balanced, creative, and made with real skill. What really sets her apart is her personality; she knows how to make everyone feel comfortable and keep the vibe fun and relaxed. Whether it’s recommending something new or crafting your favorite drink perfectly, Alyssa always delivers. She goes above and beyond, and you can tell she genuinely enjoys what she does. If you’re lucky enough to have her as your bartender, you’re guaranteed a great experience!"
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205UVF6ZENURlExUkdWTE5qaHJlRGRJT1ZKdmIxRRAB",
+            "text": "Alyssa was absolutely amazing! She was friendly, attentive, and made sure everything at our table was perfect. She checked in at just the right times without being overbearing and had such a warm, positive attitude that really made the experience enjoyable. The service was quick, our drinks were always refilled, and she went above and beyond to make us feel welcome. Definitely one of the best servers I’ve had. Alyssa deserves all the praise!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204NWNGbEVibmRZWm1KeGIzQlZhbnAxTlRCTVFuYxAB",
+            "text": "I had the pleasure of being served by Susan during my recent visit to Red Lobster, and I can't say enough great things about her! From the moment we were seated, Susan made us feel incredibly welcome with her warm smile and friendly attitude.\nShe was attentive without being overbearing, always checking in at just the right moments and making sure our drinks were full and our meals were perfect. She knew the menu inside and out, gave great recommendations, and even accommodated a couple of special requests with zero hesitation.\nWhat stood out most was her genuine care for our experience — she went above and beyond to ensure we were comfortable and happy, and she did it all with such grace and professionalism.\nSusan truly elevated our dining experience, and it's clear that she takes pride in what she does. She’s a shining example of excellent customer service, and Red Lobster is lucky to have her!\nWe’ll definitely be back — and we’ll be asking for Susan!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5TGFIcEJjUzF2U3kxQ1dtMUhUVmxKY0c5NmVrRRAB",
+            "text": "Food:\nThe seafood was fresh, flavorful, and perfectly cooked. The cheddar bay biscuits lived up to the hype—warm, buttery, and addicting! I ordered the Ultimate Feast, and every part of it was delicious—the lobster tail was tender, the crab legs cracked easily with sweet meat inside, and the shrimp were seasoned just right. Even the sides, like the creamy mashed potatoes and fresh broccoli, felt like they were prepared with care.\n\nService:\nThe service was outstanding. Our server was friendly, attentive, and knowledgeable about the menu. Drinks were refilled quickly, extra biscuits arrived without even having to ask, and everything came out at just the right time. They made us feel genuinely welcome, not rushed.\n\nEnvironment:\nThe atmosphere was relaxed but lively. The restaurant was clean, the lighting was warm, and the nautical décor gave it that cozy seaside vibe. It felt like a place where you could enjoy a casual dinner with family or even celebrate something special.\n\nOverall, Red Lobster delivered on all fronts—great food, excellent service, and a comfortable environment. I’ll definitely be coming back for another round of lobster, shrimp, and those legendary biscuits!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aUFZVRnlURk5wZEhGRVV6Rm9jSHBOWkRKcGFWRRAB",
+            "text": "Red Lobster seems to have gotten a facelift recently! I found that food tastes pretty good and the plating/presentation is more thoughtful, the drinks are just ok, but the service we received today was the best part! Major shout out to RUSHANE who was attentive, quick, professional and made our entire experience so comfortable and enjoyable. He listened earnestly to our feedback and made concerted efforts to ensure that we were well taken care of and left with smiling faces. He represents the RL brand very well.  If this is the new standard of service, we will certainly be coming in more often!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGSGEwaGlYMGx4ZWt4UlgxOWlPVmR5TFVsak5rRRAB",
+            "text": "Randy is hands down the best host! From the moment I arrived, he made sure everything was smooth and stress-free. He’s welcoming, attentive, and goes above and beyond to make sure his guests feel comfortable. You can tell he truly cares about creating a great experience. The space was clean, well-prepared, and had all the little details that made it feel special. Communication with Randy was excellent—quick, clear, and always helpful. I couldn’t have asked for a better host, and I’ll definitely be back."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWVlFtTnlYelJJTWpaUGNIZFlkRTQyZDA5M1QwRRAB",
+            "text": "Took my son and Aunt to lunch. We literally walked in and had service within 10 minutes. We ordered the drinks and enjoy a peaceful atmosphere. Our server was very knowledgeable and patient. The food was delicious. The greeter had a voice that gave me the shivers though....not in a bad way. His voice is like Barry White and DMX combined, smooth and a touch gravelly....we definitely plan to go back.  The restaurant was clean and smelled heavenly."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWTFVsbDZOSE5sYVZocU0zRlFSRjlUZVRaSVdWRRAB",
+            "text": "I had a really good experience here. My server was Jalynn and she did very well. She was very polite, easy going, precise, and brought my food on time. She made sure I had everything that I needed and that I was enjoying my food. She was a great server. She also recommended certain dishes which I really appreciate."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURieG96VjRBRRAB",
+            "text": "I came here with my mother to celebrate our time off from work. Our server, Gina G was rude. The place was empty and the other staff seemed disinterested in working there. My mom and I were gracious and polite to our server but her demeanor and affect was dry and rude. Towards the end of our experience there, I felt like Gina along with other staff members were trying to mock and make fun of me and that ultimately cost them a tip."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRXzR6aS1BRRAB",
+            "text": "My waitress Angie was on point. She gave us detailed recommendations, was swift and pleasurable. The food was great. Will be coming back."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214VkxXeGFjbEphVG1RNVVIQlJRVUY0YkZZdGIxRRAB",
+            "text": "Went to celebrate my grandmothers birthday and I was very disappointed with the service! As soon as we walked in the restaurant had a musty odor but because my grandmother really wanted to go we just stayed. Our waitress was nice but gave very poor service. She left us for extended periods of time, accommodated tables that came after us, serve the food without utensils and didn’t come back for another 20 minutes. Then when it was time for the staff to sing happy birthday she didn’t remove any of the dirty trays from the table. They wished another table happy birthday that was next to us and barely acknowledged my grandmother. This service was just awful and I wouldn’t recommend it"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSNWNxMkRBEAE",
+            "text": "Took long to be attended to even though the restaurant was not busy. Multiple employees looked but kept walking by until a manager and host finally came to seat me. Miss communication caused my service to be more delayed than usual after being seated in an area that was assigned to a loaded waiters area. Another server, Ami, was nice and attentive enough to jump in get my food service going after explaining that the current waiter was busy with multiple tables. She was very nice and polite and took care of my food orders and drinks right away. The food was made fresh and efficiently. The food was really good and enjoyable."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kWk9FWm9ORzE0UkVOb1JFUjJhRlJGYzFsZlFuYxAB",
+            "text": "This is the last time that I will ever be going to this Red Lobsters Location. I was having a mommy & son day everything was going good. Our server Q was good I do not have any complaints about him. After receiving our food we barely started eating and a roach started crawling across our table. This is disgusting. This is the first restaurant that I’ve ever experienced this and would not wish this to happen to anyone. Yes the manager offered for us to not pay the bill and to replace our food making it to go. I received my food and after leaving noticed that the food was not all that I ordered to my specifications. At least if you are offering to replace the food and for the restaurant to not have a “bad look” then make sure that the food is to perfection with every order detail correct. I half didn’t even want the food because if the table that we’re eating at has a roach imagine the kitchen. Also, they advised that they fumigate the restaurant twice a week. The food wasn’t even good (this is coming from a costumer that has gone to various locations and have never had a problem for 15+ years). Red lobsters please do better."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNzb05lZUNnEAE",
+            "text": "It was a great experience,  worth every penny spent. I went there with my husband and daughter to celebrate her birthday... food was great, they sang happy birthday to her and she thoroughly enjoyed herself.  It definitely did not…"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GS1ZXRkNSM1ZuVURSR2RqbEhTVXRGYVVzMmIxRRAB",
+            "text": "The food at this Red Lobster was amazing! I was a little hesitant to visit, but I was so surprised at how well everything went. Our server was great—they were organized, detailed, and had some fantastic recommendations for both drinks and food.\nThe cheddar biscuits were on another level, my steak was cooked to perfection, and the lobster was buttery with a great texture. I would have rated this five stars, but the AC went out halfway through dinner, making things a little uncomfortable."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGU1puaHBPSEZ0UW0xMU5FaGpWbWRwTlVGcFIzYxAB",
+            "text": "The food was fresh and delicious, and our server Driana went above and beyond to make sure we had everything we needed. Super friendly, attentive, and made the whole meal even better. Highly recommend her as a server."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Ka1FrNVpOV3N3U0ZoMGJEWkhiRms1VGpObldYYxAB",
+            "text": "Our server, Fatou, was absolutely wonderful! She was so charismatic and engaging, which made our meal even more enjoyable. Her positive energy and attentiveness truly elevated our dining experience. We’ll definitely be coming back!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twTlFWQmpORlJ0VlVSVlh6SjBWVjluWlZOV2FXYxAB",
+            "text": "We arrived and were seated immediately, but it did take a while before waiter came to table. Ordered drinks and that took forever. Our waitress Angie apologized, but that was not her fault.\nFood was ok and our waitress, Angie, did stop by to make sure all was good. It was my sister’s birthday, I mentioned to Angie. We ordered a slice of Lemonlime pie and the staff stopped by and sang Happy Birthday. Angie was friendly and polite, hope she’s there when I go back on another day."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2a3VfZ1lnEAE",
+            "text": "⭐️⭐️ Great Lunch Experience at Red Lobster Bay Plaza⭐️⭐️\n\nHad a great time at Red Lobster in Bay Plaza during lunch! The restaurant was clean and quiet, which made for a nice atmosphere.\n\nThe food was pretty good—I had the Cajun Chicken Alfredo (not pictured), but the standout for me was the Grand Patrón Margarita. That drink was on point!\n\nOur server, Rushane, made the experience even better. He gave us top-notch customer service, handling our large party of 15 with ease and a smile. He was super patient, especially with some older folks in our group, and made sure everyone was taken care of.\n\nOverall, an excellent experience! I’d definitely recommend coming back here. 👍"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURReWFYZE9nEAE",
+            "text": "Food was amazing! Amber was amazing, food was fast, bread was flowing. And the attention to each customer was unbelievable.\nFor a night with a popular special, she did amazing."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREaGN2akhnEAE",
+            "text": "My 2nd time to this red lobster.\nFriendly staff like to take your order\nThey are nice!\nI ordered 3 shrimp my way it was so good\nMy mom had shrimp 2 ways\nBooth are delicious.\nMy first time that i was here i order 2 lobster tail but 1 was a bit dry,"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aSmEwcGtNM0pNWWpjelNYZzFiRzFDYTFWMVVsRRAB",
+            "text": "Had a wonderful experience at Bronx Red Lobster! The managers and my server took amazing care of me, making sure everything was perfect. The food was absolutely delicious, and the service was top-notch. Definitely coming back!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXNmZYUXZ3RRAB",
+            "text": "The wait for a table was 40 minutes and then the wait for our meal was 1 hour and then the order came back wrong, my date asked for fries and got mash potatoes instead-he had to eat his salmon and shrimps with only one side-he paid for his entire meal but it was not complete...it's a shame the waitress said she would get fries but never went back to get it....we just left unsatisfied because the food also arrived semi-warm as well...like the plate was sitting there abandoned by waitress and when she finally got to our plates it was not a hot plate! The salmon was cooked well and food tasted great but the service needs to change"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205RGQyUnJXV2t4ZHpONk1XMVhOWGhpY25OVlNIYxAB",
+            "text": "I haven’t been to Red Lobster in a long time because something always seemed to go wrong, so I was a little nervous about coming today. But I’m glad I did! The food was very fresh, and the service was excellent. The only issue was that it was a bit cold sitting under the AC, but overall it was a great experience"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0TVduVlRibVJmTjNjemNEQkRRak4yVVdnek9VRRAB",
+            "text": "Catherine is such an amazing, beautiful, kind- hearted, patient, loving and caring soul!  I came to this location to eat with my family and I have 2 kids. Man, she was super kind and patient with my kids. They left  mess and at no moment did she ever give us the vibe that she was annoyed. COME & SEE CATHERINE IN THIS LOCATION!!! 💜🙏⭐️"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfOTZ5WC1nRRAB",
+            "text": "We had the sweetest waitress. She was amazing! (I think her name was Angie). The food was so good! I couldn’t eat it all. My only issue was with the lobster Mac snd cheese. The lobster smelled very fishy. The tails were delicious.  Overall delicious ! Thank you to the chef. 😊"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2todU9IY3dkRFp3TnpKdGNWTTJTakZvTlVaNWMxRRAB",
+            "text": "Alissa (sp) was an amazing bartender/ server, , I don’t usually go to chain restaurants for bars, I looked at the ratings before I came and was hesitant but I was lucky coming to this red lobster, she was super attentive and made sure I had what i needed without being pushy! She deserves recognition, thank you to her!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kblJscFpWekZ2Vm1aME9VbFJXWEpmYTB4WlFrRRAB",
+            "text": "This location has great customer service and is  clean space. Has a grade of an A from the health department. I recommend it. I have been going there since the late 90’s early 2000’s.  I did notice the portions has gotten bigger with the price. So it evens out. Food and drinks are great."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfNHNpRnBBRRAB",
+            "text": "I'm going to start off by saying this is my first and last time ever coming here we came on a Sunday around 7:30 a party of 12 our server was excellent she has nothing to do with this post but everything else is horrible the place was practically empty we order not even 15 minutes in and it took us 30 to 40 minutes to get our food and that's including appetizers not to mention that the drinks came in 20 minutes that's ridiculous so why did the food come out raw a after waiting this long for a table with mostly chicken tenders because of the children and who got the world chicken the children they comped the meal which is duly noted like I told the kitchen manager when he left they have to do better because it could have been way worse"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GSmJWUkhUakI1ZG1zNGFrdHFjVFl0ZEVOdllWRRAB",
+            "text": "I haven't been there in years went there to celebrate my wife's birthday and had some good friends with us. The food was great and the drinks everyone had was on point, we will be coming back very soon keep up the great job Red Lobster."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pjNFNHTjZla2N6U0VoV1JFdzBiWGxDUTJnMFJrRRAB",
+            "text": "10/10, the environment is lovely and welcoming. Employees are amazing and very respectful. The food is wonderful and came out within a great timeframe. Did not disappoint and I definitely will be returning."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOMWJrTTFWblIxZGpoTU9HZzNORmRYWmpGNmNYYxAB",
+            "text": "The decor truly needs a upgrade. Old looking and just doesn't bring out good energy. The female bartender had her head down at the bar suggesting she was tired. It was 2:00pm when I arrived on 7/5/2025. The asparagus was dry and old looking at the tips. The crab top potato's was mushy and had no taste, no flavor. The Margarita  Strawberry drink I ordered was full of sugar and had to be returned to the waiter. The waiter Rushare L was courteous during our dining."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSQ1ZWUmZhRFZrWm5OcVFUZzVaMGREYjAxVE5GRRAB",
+            "text": "My family and I dined there in June of this year. We were extremely pleased with the service. Our waitress Krystal was very pleasant, professional, and Polite. Our food was also delicious and came out in a timely manner. I made reservations online and we walked right in with no wait. Thanks to the new CEO. Red Lobster 🦞 has definitely improved!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOeWNUbFhUWFZEWTA5bWVsZG9ORkkzWlhaVWRuYxAB",
+            "text": "Service was great. always a good time coming to Bronx location. Staff is always welcoming, friendly and takes good care of my family and I. Food tasted delicious. Will definitely be back."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaanJxSHJRRRAB",
+            "text": "Red 🦞  .All you can eat shrimp. Usually I love it. Today was ok. The service wasn't great.  We finished the first round and had to wait for the server to come back to the table.  The drinks were awesome .  The food was good...The atmosphere was nice and cozy."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaME4yeFpNemxXVUVwdlRGTkpTbmxpYzNWWmJFRRAB",
+            "text": "My friends and I visited the restaurant earlier today and had a great time.  The service started out ok and all of a sudden it got bad. Additionally, I ordered some crab legs to go because my friends meal of crab legs were great (they shared with me)..however when I got home and was putting away the order, I noticed that what I brought home was nothing like what was served in the restaurant!!  The clusters are both so tiny, I'm sure it would never be served in house!! One of the clusters looks to be so old, the shell is gray/black.  Shameful..\nShame on me for trusting and not checking before I left the restaurant.  Definitely not pleased about that."
+        }
+    ],
+    "reviews_count": 90
+}

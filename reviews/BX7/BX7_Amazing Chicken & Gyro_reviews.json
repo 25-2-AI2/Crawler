@@ -1,0 +1,509 @@
+{
+    "name": "Amazing Chicken & Gyro",
+    "place_id": "ChIJY6Vd1KTzwokR2a4vXEAYXRQ",
+    "grid": "BX7",
+    "address": "3496 Jerome Ave, Bronx, NY 10467, USA",
+    "rating": 4.9,
+    "user_ratings_total": 360,
+    "phone_number": "(718) 708-6790",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kUGFWRlZkV1k0YlhsME1WSTFUalZ1ZVU0MGJWRRAB",
+            "text": "Good Food, best prize."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tOdFRUQTVTRWhrUmpOdGVIaERPRzVoVEVadE5FRRAB",
+            "text": "Good food, good prize"
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ZMFlraERhazlpV1dsc1ZEQTNaR3BEWjA5a2EyYxAB",
+            "text": "Tasty food, good service, responsable prize."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201a2FuWTVRMkZuZEZWb1FuQnpXRzVEUldRM1NVRRAB",
+            "text": "Best halal food. Good prize"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Kd1NtUlBkM1EwWkRGc1YzVnlMWEpXTXpobVRFRRAB",
+            "text": "Best food all the tiens."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wMlFqQklWbWh0U21oelRXOHhiRzVzTjNoTGEwRRAB",
+            "text": "The chicken gyro and kebab are amazing!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0TmIySndObEJoTkVoTFpFNVVRakJKT1dKaGRFRRAB",
+            "text": "Best halal food. Love the service"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25nd1ptOHdVa1pVVUZSUGJIaE9RbG8wYTBkc1IxRRAB",
+            "text": "The sandwiches such as the chopped cheese, lamb cheesesteak, and gyro was good. The tostones need seasoning with pink sauce, curly was well seasoning and delicious. The turkey bacon double cheeseburger was good. The pizza roll is terrible it is crap wrapped in egg roll shell. I rather get some real pizza rolls in a pizzeria than eating that garbage again. The service was okay however, when I tell the Muslim brother that rum raisin ice cream is haram because of the rum he acted all nonchalant about it. This is a halal restaurant no alcohol in all forms should not be allowed. Astaghfirullah to brother. The atmosphere was small people coming in and out there is no room to dine and enjoy the food so I glad I ordered to go."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWMVMyRXpjbTFvTURCeFQweHhXSE42TW1aS2QyYxAB",
+            "text": "the best , very friendly"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKWmJqaE9OV2syWjFSRk56UnJTekZmU1ZsYU1XYxAB",
+            "text": "The food is very good.  And the customer service is great."
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ObVN6VmtUVTgzV1haa1dtOXNZakpoVG14VFNWRRAB",
+            "text": "Best halal spot."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoeFpsZG9kMUJJWTFkWmJrSmZUMHh1ZVRSeWVGRRAB",
+            "text": "10/10 gotta try out if you on Ghill shi tuff"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkcVZHOHdhek5CUm1adU0xaHNjMFJNWTA1dVYxRRAB",
+            "text": "First the food is amazing and always fresh, the workers are very sweet and always give a positive attitude."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Kdk1qVktkVWhEWXpRdE5UWjVVR1l5U25CVmEyYxAB",
+            "text": "Definitely not a 4.9 star place. Chicken over rice i ordered was not fresh. No salt, no seasoning, absolutely no taste. Plus not fresh. I will never ever come here.\nWaste of money. I don’t know how people in the reviews are saying ‘best chicken over rice’ maybe they haven’t tasted what a real chicken over rice in their lives."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SVmJ6WTFVbmhLVUdwS1drZEZNRk5uYWpOSGVuYxAB",
+            "text": "Always order on uber eats their food is so good and fresh really my fave spot to eat from"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkU1JVWnlYekJMZWpCTWFIUXRUMGRtY0VoSlpsRRAB",
+            "text": "Food prices cheap, service is quick, spacious."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsbExYUnhPR3RCVUhKQlpWWlRPSE5CYmtweWRrRRAB",
+            "text": "It has been 7 years….i m always visiting this wonderful place on and  off but past one year this is my favorite place..being an halal eater … it’s tough to find 100% halal food…the clean and affordable chicken ..flavorful seasoned rice and the sweet treats too…..the staff is always make the food according to customer s demand …. …and yess the best  higenic food and halal…I m loving it❤️"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OTFpscHhaSE55U1ZCdlNVVnlhblZXVVVOQ1RFRRAB",
+            "text": "I'm from far out east in Long Island NY, I mention this cause I was amazed on how good the food was based on what I ordered (lemon pepper wings, a plate with rice n chicken) n prices are great too. The gentleman who assisted was pleasant. The place looked very clean too."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2podVQxcExiR3BaTTNSVU5VOUdVbTFHVWtac1lYYxAB",
+            "text": "Good food"
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURybUlfelBBEAE",
+            "text": "Delicious food, breakfast launch or dinner give it try & you won’t regret it. great customer service and the workers are always polite and the most importantly the place is clean\n\nSulayman✌🏿"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMQ0lyZGpDNzlTVDZ3RRAB",
+            "text": "Great value for the money"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPXzZ3STJRNTczUGFnEAE",
+            "text": "Delicious food and great service"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvbFluVkl3EAE",
+            "text": "Great food Ricky sas great"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvMFpQM1VREAE",
+            "text": "Very good good food especially chicken kebab tast good"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvN3B1TWdBRRAB",
+            "text": "This review is not meant to disparage the quality of this establishment and their staff.  The uber eats listings need to be more descriptive. I regularly have ordered chicken breast in their “mixed chicken” option for 4.99 and did an add on piece for 1.99, only to find my order was upcharged 3 dollars because I wanted specifically breasts. The uber eats listing does not let you specify chicken or list individual prices of each piece, and only lets you type it via description. Amazing food, we have been a long time customer,  this review is so their online listings can more accurately reflect their prices.\n\nUpdate: received order and i did not get what I even requested and agreed to over the phone in order to drop the charge. Instead of 1 breast and 2 wings I received 1 thigh and 2 wings.\n\nFurther update. This order was actually correct and i apologize for my error in what i saw. I should have checked more thoroughly. I thought it was a thigh. 🙏🏽"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJeGRIQnJBRRAB",
+            "text": "Best chicken great service  good food I recommend to all"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJa3FLcUpBEAE",
+            "text": "Needed need a quick bite"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3LTdLLWtRRRAB",
+            "text": "I mean the prices are good but the food quality its not good. Its not made in a helathy way plus the taste is the dullest i have ever tasted."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3dHJUTTl3RRAB",
+            "text": "Best chicken over rice I’ve had in a min!!! Sad to say it tops halal guys and Adele’s they been slacking the past few years. But this spot hands down too official. Food is delicious, fresh and the prices is definitely valid!!!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRMTQ3VnNRRRAB",
+            "text": "The guy was extremely rude, unprofessional, and even dangerous. He attempted to hit me just because I asked about my order twice and didn’t say ‘Hi’ to him.\n\nMy question to the owner: Does your employee have the right to attempt to hit a customer?\n\nI don’t know his background, but it seems like he thinks he can hit anyone without following the law"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnLVB6dGtBRRAB",
+            "text": "Great midnight snack location"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBaXQ2YlBnEAE",
+            "text": "This is the best place to eat. I love the mix over rice it's so well done and the size is amazing. This place always makes my day after a long day of work. The service is amazing. They are all friendly. I highly recommend this place"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBMTlxVWtRRRAB",
+            "text": "Very nice people very good food and very affordable prices"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfc3JtczJRRRAB",
+            "text": "Quick and easy ordering with friendly staff. The food was good and the price was right. Other customers can ruin the atmosphere, though. But that’s not on the restaurant or its staff."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfbElUVVNnEAE",
+            "text": "God bless you!!!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQM0ttZ0x3EAE",
+            "text": "My guy at the counter always cool food is good priced fair I'll make a special trip to come here if I want this type of food"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzaXJUaE1BEAE",
+            "text": "If it's Arabic food pls don't call it gyro.call it doner kebab whatever you want."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYek9YWkVREAE",
+            "text": "Very good food and clean !"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYeU0zMGRBEAE",
+            "text": "Beautiful place."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYa3RPNzBRRRAB",
+            "text": "Sunny paji great"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYa3FqNk1BEAE",
+            "text": "This is the best halal restaurant"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYMkpPVzh3RRAB",
+            "text": "Fantastic place, good customer service!\n\nKeep up the good work Harsh! Night shift!\n\nThe morning shift also staffs are excellent, especially dep"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURuMDZLZjlRRRAB",
+            "text": "If you want your halal food made quickly and with quality come here. You can get any platter over rice for 10 dollars with a canned soda and fries included. They have a big selection with fair prices and the employees are respectful / hard working. Only thing I didn’t like was that the fries are skinnier than pictured on the menu but man was that chicken over rice so good"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNuLTQ2WEhnEAE",
+            "text": "The food was excellent and well proportioned."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIazk2RGtnRRAB",
+            "text": "Good food"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIc2VHQXB3RRAB",
+            "text": "Very nice"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIMGVEaENnEAE",
+            "text": "Amazing is truly amazingggggggg 😌🤌❤️"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURIMGVDMjlBRRAB",
+            "text": "Best place around the area with great taste."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIM1pfVkpBEAE",
+            "text": "Been coming here since it first opened. Great food, great service. Their food is prepared hot, and they do so promptly. They have a wider selection of food compared to other fast food places in the area, too. I'm a regular here, and I'd recommend it."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIbmRlcFZBEAE",
+            "text": "I dont give bad review usually but the fried chicken was stinks , it was old probably, I dont like wasting food , so I did ate yesterday but now my stomach hurt. Try to have some better quality food. Im not coming back . Sorry I just went there just because rating was good ."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQxby1pOHNRRRAB",
+            "text": "The food in Amazing Chicken & Gyro is a great price and tastes great especially for the price. They are fully halal which is amazing and allows for everyone to enjoy along with the full range of a menu catering to everyone. I would recommend especially the chicken wings with mango habanero and the Gyro Salad with white sauce!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNabzRLTk9BEAE",
+            "text": "I had a wonderful experience with this amazing Restaurant today had Chicken over Rice it tasted delicious and crispy and the most important and beautiful part is that the front desk guy is very good person I loved being here and continue to be….."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUROcmRYc3hnRRAB",
+            "text": "Empty plate says it all! Residents of Norwood and Jerome, this is a gem! Great customer service, great food, great price. From the cook on the fries to the flavor of the gyro, everything was spot on. Please check this place out!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ1a1luOVZ3EAE",
+            "text": "My son and I order the French fries with 2 piece chicken. The fries were crispy just how I like it and the chicken was crispy with a lot of flavor. I also had the milkshake. This was Amazing 🤩."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURabUxUdC1BRRAB",
+            "text": "Delicious food, clean establishment, great service, options for days."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQxcHBULUZnEAE",
+            "text": "Excellent service with an extensive list of food options. 10/10 recommend for a quick quality bite!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsOHRicm5RRRAB",
+            "text": "Best Halal chicken over rice Platter ever I had. Good food reasonable price, best service. 100% recommended Halal over rice."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQxODV5bXpBRRAB",
+            "text": "They have very friendly servers! Tasty food and great service! Always happy to order from here"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxbXZXSTJ3RRAB",
+            "text": "Burger is Amazing. Fresh good, clean place, staff is friendly. Good place to eat."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ1bnRuVmFBEAE",
+            "text": "Amazing Rice and salad. I love that place. Definitely recommend"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIbkppMjNnRRAB",
+            "text": "The food was good, staff was great especially the over night shift, they accommodate whatever you want they’ll make it. Been there a few times tried different things didn’t disappoint"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREM2RMb3pRRRAB",
+            "text": "This is my go to place when it comes to Halal food. I believe they have the best halal food and service in the area, and I strongly recommend it. My favorite plate is the amazing plater which is a combination of rice, salad, fried, pita bread, lamb and chicken for about 14 bucks. They make the portion of each plater worth the amount spend. And, you can tell they care about customers experience by the way they take care of the line during busy times all in maintaining a top notch quality service. Going there is refreshing as it is always guaranteed that you will be served fresh food."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUemZ1Tl9nRRAB",
+            "text": "Food is very good and always fresh. Service is always on point since they are always attentive and try to get your order as soon as possible. The atmosphere is average, like any food place."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN0a09fTjhnRRAB",
+            "text": "I absolutely love Amazing Chicken & Gyro! The platters, featuring a delightful combination of succulent chicken and savory lamb over rice, are consistently delicious. The flavors are perfectly balanced, and the generous portions leave me satisfied every time. The quality of ingredients and the friendly service make it a go-to spot for a hearty and flavorful meal. Highly recommended!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNadGRpZW9BRRAB",
+            "text": "I'm too lazy to put review otherwise but I had a great experience at this place. Love the food and especially the guy at front was very nice and helpful with lovely smile. If you are looking for a place to eat must recommended where you…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNOZ2JxM0hnEAE",
+            "text": "Amazing place, and really respectful workers that give you best experience and the food enlightens you to another realm. The food where it takes you back to the memories with your childhood. The workers intrigues me with their social ability to speak to anyone it’s like getting a 2 in 1 food service and therapy service"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyeEllTTdnRRAB",
+            "text": "Just ordered on Uber eats they have a buy one get one free promotion for chicken and waffles. I ordered tenders with waffles and I was not credited for two orders. Buy one get one free so I had to cancel it so I can get my buy one get one free from Uber. When I went to cancel and they kept $27.60 letting me re-order any food. I would not order from here if I was any of y’all in I don’t answer the phones."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5dXVuZDNRRRAB",
+            "text": "Very fresh food every time i go there. I’ve gone at least 5-6 times already. Each time i go everything is freshly made unlike other kennedys or fried chicken spots."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN6bnRPN2FBEAE",
+            "text": "Always good food and great service. I come here at least twice a week."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNWeUlLZHJnRRAB",
+            "text": "Great experience. The food is the best chicken spot food I’ve had. Another plus is that I can sit down and eat in a clean environment. 5 Stars for sure."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNadGZ6X2xRRRAB",
+            "text": "I must say have wide variety of food and I love the food. Quality and quantity is worth of every penny. I will highly recommend this place. Especially I love their Gyro and Loaded fries."
+        }
+    ],
+    "reviews_count": 71
+}

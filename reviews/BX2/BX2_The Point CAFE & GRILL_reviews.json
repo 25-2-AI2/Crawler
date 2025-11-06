@@ -1,0 +1,47 @@
+{
+    "name": "The Point CAFE & GRILL",
+    "place_id": "ChIJa-aUfA_1wokRMXZGiz3bU-E",
+    "grid": "BX2",
+    "address": "402 Hunts Point Ave, Bronx, NY 10474, USA",
+    "rating": 2.8,
+    "user_ratings_total": 6,
+    "phone_number": "(718) 589-7777",
+    "reviews": [
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oWFZrODNjRGRYY0Vwb2NXcHdZMUp0ZURkTFRGRRAB",
+            "text": "Please don’t ever come here. I ordered a bacon, egg and cheese a New York Staple This is gotta be the worst bacon, egg, and cheese sandwich I have ever had. It looks like a half of one egg a strip of bacon Between two slices of bread, shaking my head"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBdk42OWRREAE",
+            "text": "Good coffee, Good food.  I thought everything was very reasonably priced.  Owner seemed like a good guy."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYLWJQSi1nRRAB",
+            "text": "M-f I get a sausage egg and cheese on a raisin bagel with avocado."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNscUxqUGhnRRAB",
+            "text": "Fast in the morning it’s by warehouses so makes sense, good food and cheap. If you keep it simple. In the cold morning how can you go wrong with a tea and egg sandwich"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKaE51VDBRRRAB",
+            "text": "$17.75 for a Philly cheese steak with a bottle of soda....straight robbery."
+        }
+    ],
+    "reviews_count": 5
+}

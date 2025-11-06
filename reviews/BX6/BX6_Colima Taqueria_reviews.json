@@ -1,0 +1,684 @@
+{
+    "name": "Colima Taqueria",
+    "place_id": "ChIJlxxWZpL1wokRG65nNL_mfoQ",
+    "grid": "BX6",
+    "address": "608 E 187th St, Bronx, NY 10458, USA",
+    "rating": 4.7,
+    "user_ratings_total": 1322,
+    "phone_number": "(929) 614-7002",
+    "reviews": [
+        {
+            "date": "3시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paWU1YaG1ZakpxZGtjd1kyeHJUMVZYV21KUWExRRAB",
+            "text": "Soooo fire"
+        },
+        {
+            "date": "수정일: 4시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kamRVMVhOMHBIVWt0b1VuQXRRbEZmVmtFNVVFRRAB",
+            "text": "it is deliciius"
+        },
+        {
+            "date": "5시간 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkd1NtNVJTbkZvYUV0VGIzSk5kREJPYTFVM1pIYxAB",
+            "text": "Great food and even better service"
+        },
+        {
+            "date": "8시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FMldrcGtkMHRYZEhWVmNWWldURUZOYjJkemFrRRAB",
+            "text": "Love it , very chilled great atmosphere. Food was great also the drinks . Definitely coming back.  Recommend"
+        },
+        {
+            "date": "8시간 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSV1UySmxOSGRoUjBnMmVrZG1jMDR6WVRSd2IyYxAB",
+            "text": "Before I stepped in the place I smell the food and the burrito was soo good it was a good sizes and everything"
+        },
+        {
+            "date": "8시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25vMmMwWnhWSGx1ZDB4TVJGWjFWa0ZmZUY5SVRWRRAB",
+            "text": "When i came inside they immediately took my order and i received it the time i expected"
+        },
+        {
+            "date": "8시간 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OdFdURkVkWFE1Um5CTFNWZHFXVE5yY3pkbVYxRRAB",
+            "text": "The place was a very nice experience. The food did not take too long to come. Everything is decently priced. If you come on taco Tuesday the tacos are sold as a discount!! I will be coming back again another time!"
+        },
+        {
+            "date": "10시간 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSbWVWVnFUbkpUVm5OWGEybHJiVk5xYTJKT1FrRRAB",
+            "text": "Amazing place, amazing food, all around good vibes!"
+        },
+        {
+            "date": "23시간 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxRFYwcEdlazQxZW5OMk4waE1PV2QxVDJvMGIxRRAB",
+            "text": "Ordené for to go y esos tacos aun sin estar acabados de hacer estaban riquísimos"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WdFVrcHJUa2R4ZVZSeU0wWnZlWFJaVG5nMVZXYxAB",
+            "text": "The best taco in the bx"
+        },
+        {
+            "date": "수정일: 1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KVGJUY3hNWGxzWjJGNU5VcGFZMHRwU21zM1JXYxAB",
+            "text": "So my friends & I have been coming here since this place opened & never had a problem\nThis is now one of our go to spots\nThe waiter JUAN is amazing."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zd1EwMHdMVU00VEdSSE0weEtkRmRCYW0xWllsRRAB",
+            "text": "I came here with my wife, and everything was excellent, good service from Juan"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxUWJuZ3lOVzQyYTI1cWRUUjViek5oV1ZJdE9YYxAB",
+            "text": "Always pleased when I visit. The.service is top notch and the barría tacos are my daughters absolute favorite."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sQlZIUlNXWEJ6ZWtZeFYyRmxka0p2ZEV0V1kyYxAB",
+            "text": "The food was really good, the restaurant is very nice and cute. Everything was good.\nWould come back."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poYWQwNTJkVEkxTUhZek5DMWFha1l6YkdSS01VRRAB",
+            "text": "Great atmosphere, service,& food! Will come again!!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KelFVVk5aREpETlhwMFlVc3dWVEZKUVRKNGNWRRAB",
+            "text": "The chicken tinga and birria tacos were delicious! We will be coming back!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poc2NtUlJTakJrTWtWa1JVdEJYMlJvYzFvNVVVRRAB",
+            "text": "Surf n turf tacos was 10/10! And Juan was great! I will be back again☺️"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214T1pTMVVYMDl3VjJGdVVscG5ia2w0VkhwalpGRRAB",
+            "text": "stopped by this little spot and it did not disappoint! I had the steak tacos, guac and chips, and some really good margaritas — everything was fresh and flavorful. My friend got the birria ramen, and I tried it… so good! The service was friendly and quick, and even though the place is small and lowkey, that’s totally my vibe. The food and drinks were amazing, and the atmosphere was super chill and welcoming. Definitely recommend!"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NNGFXYzVUMko0VmtSTVkxbDJiV2N5UmtSUVkwRRAB",
+            "text": "The food is always good here as well as the drinks. Happy hour is also very good this place is amazing!"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KemQxRjZjVVJEV2xkVVpGaDVMVk14WnpWR2MyYxAB",
+            "text": "The quesotacos and guacamole and chips are delicious! Definitely recommend and I will be coming back!"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Ga1dXUkNWamRMTFdGbE1sSllTMFpFVm5OTlZYYxAB",
+            "text": "The Birria pizza was a 10/10, very big and can feed 3 people."
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SWlptZzBZMjVrV201bFpWbHFVbWRZYURsWVkxRRAB",
+            "text": "Awesome spot! Food is delicious!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOcVMyOXBYMUZKVFhCMFgzTkVXbWxWVURaT2NFRRAB",
+            "text": "great food great vibes"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oS2JUUmpZVGRyZUdoTWNqQnRVekZVWVVaVVoxRRAB",
+            "text": "The best tacos ever......"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xselJraG5WbXROVkVWc1dVNU5VMnRQVmtFM1RFRRAB",
+            "text": "I recommend this Mexican restaurant. The food came out quick and the food tasted delicious."
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kc01YZHNNRXBhT1hvMmN6Tk9NVTFFY2xkRU5rRRAB",
+            "text": "Excelente, el sabor, el servicio todo estuvo de 10 claro que volveré."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WbGFUZEpXSFpNTjBoeVRXTlVaMnBoTm1oTmFrRRAB",
+            "text": "Chill spot. Great food and the people are so so nice."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ac1lsRjRUVk56YTB4Q00wd3RNMlYxWlc5WFdHYxAB",
+            "text": "The ramen is always great"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGM05uUjNNRE13UTFFeU5HaDNiVnB6TjFKdFRHYxAB",
+            "text": "Amazing. Best Mexican in the city."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xORlZXNTVlamw2YUVsUVpHeFBNbUpQZGtoRGNWRRAB",
+            "text": "Food iexcellent and staff super nice!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0UmRIRkZXVFZEZVU0d1pVRkRTbXMyTW0wNFRYYxAB",
+            "text": "10/24/25. Order fajitas. Okay. Party of 5 fajitas were out while my family waited 12 minutes later for enchiladas with no flavor and not a good taste. They served rice/beans and had to given again because the time between each plate was very long. 3 enchiladas were not eatable. Skip this place."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkSVdqZFZhRTh4TTNaRmEyVmtOamg0ZW1WM1NtYxAB",
+            "text": "Love the food tacos are great. Drinks are even better 10 out of 10. Highly recommend."
+        },
+        {
+            "date": "수정일: 1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJMGIySm5RRRAB",
+            "text": "Great service and great food. Love the cashier she’s always super nice and gives great recommendations"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tablNtTXphakV5UlVKWU1FWkRWWFF5YVMxeFNWRRAB",
+            "text": "The flautas mad good"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWNlEzb3dTVU5qWW1sUFNGSjBVa2sxUTJac01GRRAB",
+            "text": "When you step into the restaurant the energy and the vibes are already there.  We got seated quickly and our waiter took our orders fast. Honestly shout out to our waiter, Victor, because not only was he so patience but you could feel and see that he actually liked what he was doing with his positive energy. Even with a full house he was able to handle and manage everyone and their needs. Food came out in less than 12-15 mins and wow the pollo asado was a burst of delicious flavor in my mouth!! Def recommend to my taco lovers out there. Best believe that I will be coming back to this place. 🌮🌮"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wR1YxQkZOMGRzT1VNMFUydEZZWEo0WVhaeVdYYxAB",
+            "text": "I has the surf and turf tacos. It was really good. The seasoning was perfect. I wish I had room for dessert."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsSlNsOVdRblZYWnpaeGEwRXhNV1JLV0RKRVVXYxAB",
+            "text": "Absolutely amazing service! Food came fast and tasted delicious. The birria ramen and surf and turf tacos stole the show!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT204eVlXMXNNMmRwWHkxdWNqQkZWMjQ1ZFVSTVVVRRAB",
+            "text": "Often customer :) good food and great service"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKelRGTmxMVGRvV1ZOS1pWaDNTM0l3WjFST2FYYxAB",
+            "text": "Everything this place makes is so delicious I can’t even believe it even their delivery items are still very good when they arrive to your house really recommend!!!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Sc1QzaG5TMU0xVkdzek4yTTNURGhCT1MxSFYxRRAB",
+            "text": "The server was mamzing and the food was delicious 😋"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KQ2VXdHlVV3BzYlZrMldIUmhlRWh5WVMxa1pVRRAB",
+            "text": "It’s beautiful with their food and vibe. The food takes me all the way to Mexico with all its flavor. 10/10 recommend"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOall6Wk5lbkJZYXpabWFFbHZTemN5UkcxZmFtYxAB",
+            "text": "First time at this location and it was a great experience. We had the Birria pizza and shrimp ceviche. Also margaritas were amazing! They had happy hour all day which was a plus! The staff were also very attentive and friendly. Will definitely come back"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkMGFtcDJSalIwWVU5ZldGRkdSbGMyU0ZKaE5sRRAB",
+            "text": "The food, music and overall atmosphere were amazing🤩🤩🤩…"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSYVgzUTBVMWc0TmpkcVltVjFhV000YTNoeFJrRRAB",
+            "text": "I always get the birria pizza- my favorite spot in the area forsure 10/10"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21seFZFZHNWRnBYTFhOQ1JsSndUSEpoVWtsWWRGRRAB",
+            "text": "Great vibes, great food, great service!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFMGMxaHBZbFppVUdjNFZXNDVjVzQ0Y0U1UWJXYxAB",
+            "text": "The food is delicious and good service"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xNk4zZFpka2RMVkVOTk5URjNRbVJzZFhsVGVGRRAB",
+            "text": "The birra tacos are to die for"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT200eFpVdzVPRmhLZVRsek1HUnZUMFZWTW5jeVUzYxAB",
+            "text": "The food is amazing here , the must try the tacos birria , steak and shrimp and especially the steak rice bowl . Drinks is strong and good , and service is fast"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaV1RWcFJOalJ4TWxwSmRrVlJhMmRCTmpsMGRHYxAB",
+            "text": "Very good food"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1cWJUQlZNMGxqT0RWbllrcFViVmxIWVdwdFkyYxAB",
+            "text": "Surprisingly good. Big portions at a really affordable price."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoM2NrTlhNbGs0Y2taYVkyRXhlbmh6UkhCSU0wRRAB",
+            "text": "Steven was amazing!! The only waiter who constantly made sure we were good and taken care of. He’s a gem in this place and for sure a keeper. The food was amazing! and drinks were 10/10 strong and BIG lol"
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WVU5tdHlUa1ZMYXpaSFoxQmhNMnRETWxkMVZGRRAB",
+            "text": "The atmosphere was bad, and the music was so loud. It felt like I was in a techno club. I ordered a shredded beef burrito, but it came with two pieces of fatty beef in my burrito. I had to clean up the fat and shredded beef myself. No-name restaurants don't have standardized food. It all depends on the mood of the cook. So, hit or miss!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aWmFFdGpOV2x0UVZWc1dHbGFNa2hTWWkxa1IwRRAB",
+            "text": "The food was absolutely delicious. The portions were plentiful, It was all super flavorful and was brought out fairly quickly.\nHowever, I took points off for the service. I came on two occasions and both times, each server seemed rushed or bothered by our requests. It just wasn’t a welcoming feeling. Also, for the atmosphere, the music was pretty loud but the songs were good throwbacks from 2010’s lol.\nOverall, I’m just glad the food good!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBdE5WTnhRbFZaZG5oa1ZEWlZkV3RwUmtaSmFuYxAB",
+            "text": "🌮 Wow, what a HIDDEN GEM in the Bronx! 😍 I stumbled upon Colima Taqueria for lunch, and it was LOVE at first bite! The street tacos are TO DIE FOR—bursting with authentic Mexican flavors 🌯🔥 and made with so much corazón 💖. They even bring two AMAZING homemade hot sauces to the table with your tacos that add the perfect kick! 🌶️😋 Everything’s crafted in-house, and you can taste the passion in every dish! The restaurant is super clean 🧼, the service is TOP-NOTCH 🙌, and our waitress was an absolute STAR ✨—she gave awesome menu suggestions 📋 and really nailed what we were craving. If you’re hungry for traditional Mexican street food, this family-owned spot is a MUST-VISIT! 🚀 I’m already dreaming of my next meal here, and their catering, pickup, and delivery on Uber Eats, Grubhub, and DoorDash make it so easy to enjoy! 🛵🍽️ Highly recommend! 🎉 #TacoHeaven"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOTk9HWkpRVEZ6WkdaVVdHOUNRVmwyU2tkTFdGRRAB",
+            "text": "Chill location in Bronx, near Arthur Ave.\n\nTacos were perfect, frozen margarita were from another league and churros were amazing.\nTo add, service was fast and you always feel like your being served by a relative and not a stranger.\n\nTo add it all, pricing is a great value with respect to quality and service.\n\n100% would come back"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJNm1fcUthbnBPSXpRRRAB",
+            "text": "Had such a great experience here! My husband and I found this place googling nearby places to eat after taking our son to the Bronx zoo. They were so accommodating even with our stroller since my son was asleep. Our server was great. Food came out really quick and tasted AMAZING!! Prices are fair and the music is on point! Good food and music are always a plus!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWSWNqUlVSM2xIUVRKa1RqSjFRWFJCWVZkMlRXYxAB",
+            "text": "been here plenty of time and each time the food is super yummy, birria tacos have so much flavor along with the consume. the virgin pina coladas are also really good and pickup service is really quick and satisfactory."
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPN3RxX19LNGFlU1lBEAE",
+            "text": "Es un excelente lugar para comer y disfrutar de un ambiente agradable y diferente. Mi esposo y yo amamos el sabor y la calidad de los platos. Todo estuvo delicioso. Nuestro camarero fue amable y súper atento."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VNN1F3TXVYb29QMXBBRRAB",
+            "text": "This spot has quickly become one of my go-to places—especially for the birria ramen, which is hands-down my favorite dish on the menu. They always add a generous amount of meat, and I like to customize it by adding cheese and corn. Honestly, I do wish those extras came with it by default, because without them, the noodles and meat can feel a little plain. Still, the broth and the birria itself are incredibly flavorful, and that makes all the difference.\n\nI also tried the surf and turf tacos with cheese, and they were absolutely delicious—packed with flavor and perfectly cooked. The guacamole is another highlight—always fresh-tasting and a great side to any dish.\n\nThe only downside is the seating—it can feel a bit crowded and noisy inside, especially during peak times. But overall, the food quality makes up for it. I’ll definitely keep coming back."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VPZVl3cUgwcmFydHhBRRAB",
+            "text": "Horrible food. Horrible Customer Service.  HIGH PRICES. Chicken fajitas but I couldn't find the chicken, they filled my tray with peppers and onions.  Disgusting flavors, you can see all the oil and grease. There was barely any chicken and the seasoning 🤮. Will NEVER waste my time or money there again, the cashier refused to give me a receipt! I wouldn't even feed that disgusting food to a dog!!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twbFluVmZNamt0VEhOcWVEZFhTVkp6T1Vob1MwRRAB",
+            "text": "Desde que entré me dieron un excelente servicio el ambiente es muy bueno y la comida omg delicious Los trago me encantó la margarita y los churros pídelo por favor que lo van amar!!!!!\n\nEste es mi lugar favorito de Mexicon Food."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5SExYQkthMUZKUjJwYU9UVkhaRVpaU0dwWmRtYxAB",
+            "text": "The food was so amazing and good. You can tell it was fresh made! We loved the food here! Definitely recommend ."
+        },
+        {
+            "date": "수정일: 4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2b3VmanpRRRAB",
+            "text": "I ordered the churro bites and asked for ice cream to be added. I more than once specified I wanted the churro bit sized ones not the long ones. Gave me the long churros and didn’t even add the strawberries on top like in online pictures. Lack of presentation was disappointing for the price.\n\nThe ice cream was frozen cold and I had to wait for it to melt a little before I could eat it. The strawberries were stuck to the bottom of the plastic cup they were in so definitely were sitting in the fridge for too long. The waitress was judgmental. Not worth going at all\n\nUpdate: After the taqueria’s response to my review they asked me to send an email with my situation. I sent a detailed email and never heard back. Very unprofessional and lacks customer service."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLckFnTXFJa0lYQlB3EAE",
+            "text": "Great service and the food was amazing, and very well priced. Everything tasted fresh and had great flavors. 10/10 I had the tostada and birria tacos. 🤤"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzMFNWRmxhRVZaVUdkZlExVjBkbU55YzB0cFRVRRAB",
+            "text": "I ordered Al pastor tacos and as a Mexican person who eat Al pastor tacos and know what an Al pastor taco looks like this is by far the worst tacos I have gotten. The menu says marinated pork well it’s dry no seasoning pale color nothing like an actual al pastor tacos and they forgot to add my pineapple so I basically got a dry pork taco so this is by far the worst experience I have gotten an absolutely abomination to my culture"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xScVVuaFpkbFJUVDJOUE5XRnhPVk14T1ZKRlRrRRAB",
+            "text": "Food is great, we tried the birria burrito and birria quesatacos and they are delicious"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvMHItNFdBEAE",
+            "text": "The workers are kind hearted, the ambience is very nice, the food is delicious and and the prices are amazing! Everything was so good and we will be coming back again! We ordered the queso fundió with chorizo (the chorizo was flavorful and spicy), my birria tacos were so bomb, and the chipotle chicken quesadilla was so good too! The passion fruit margarita was amazing. This place is nothing but great vibes. 10/10 recommend."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYajZfcUNREAE",
+            "text": "so delicious. my friends and i came for the happy hour margs. they did not disappoint! so refreshing.\n\ni got the shrimp rice bowl and it was truly lovely. would recommend. it’s a large serving so you are sure to be satisfied.\nmy friends got the fish tacos and veggie burrito (not on the menu but they accommodate for vegetarians!) and they both were happy.\n\nthe waitress was also so sweet and kind to us! great service.\n\nyummy!\nlove you."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFMWREQTBPRVJrT1ZKWk5HNHlNMUJOTVRsVVRXYxAB",
+            "text": "good pricing for the amount of food you get :) really nice service would come back again!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsdllVNU9Sa052VlZKdWFqTnJSamhUYkVjNGJHYxAB",
+            "text": "The food has been really great the past two times I’ve gone! Great tasting authentic mexican food. Salsas are on point too!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyMkplbm93RRAB",
+            "text": "EVERYTHING WAS AMAZING!!! Our server was awesome. Young guy with curly hair and the bar tender was very nice. (I’m sorry I don’t remember their names) Each item we ordered came out in a timely fashion and everything was on point. There were no complaints about the food AT ALL. The drinks are fire and let me tell you, they aren’t cheap with the liquor. What we ordered barely came to $80. I didn’t get a picture of everything. Once we started eating that was it. Lol I’d make that my regular spot. I’d bring everyone I know. My 5 year old loved it. This would also be a great place to host an intimate event if the restaurant actually did that. 10/10!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvMVlHRXBnRRAB",
+            "text": "I’ve been here 3x already and it never disappoints! The queso tacos are to die for !my kids are super picky eaters and they even love it ! It’s  Real Mexican food! This is my new favorite Mexican spot ! The staff is amazing and the server it very attentive !"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taV1VrTnFUVXd3WmpsNmQydHJZMFl0WTJjMmNsRRAB",
+            "text": "So I just order  1 order of flutas with rice and beans and was charged $15 dollars . Order came with no rice and beans  when in the menu it clearly says it comes with rice and beans can’t believe I was charged $15 dollars for just 4 soggy flutas . Horrible service ."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCNk9ESXRiVGhSYTNSbVVVWlRaRFZoZVZOcVVFRRAB",
+            "text": "Great tacos and elote. The carne asada tacos was the closest to Mexico I've had in NY. The only downside was the ceviche. It was precooked and not as limey as I hoped.\nDrinks were perfect."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25jeVh6ZHZlbFZIWDNKVE9YbERTSHBJYkRJd1NsRRAB",
+            "text": "Tacos were good and fresh\nFrozen margarita is on 10🔥\nMy new taco spot and I will definitely come back"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSRGFHZElOa1JpYzJab2VWZDZlRU5EVEZkb1EyYxAB",
+            "text": "The food at Colima Taquerías was deliciosa! 🌮 Everything was fresh, full of flavor, and served hot. The tacos were authentic, the salsa had the perfect kick, and the portions were just right. The service was friendly and welcoming, which made the whole experience even better. I’ll definitely be coming back—highly recommend!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmdDlmVjl3RRAB",
+            "text": "Exceptional Mexican food with all your classics and many more that you do not find in your typical Mexican restaurant. Great flavor, large portions and very good prices. Very strongly recommend.\n\nOur favorites were the carne asada vampiro (toasted taco, our favorite and only $5), chorizo tacos and esquites. All of them were bursting with flavor and we enjoyed every bite. They also have jarritos ($3), all the classic Mexican drinks (alcoholic and non-alcoholic), desserts, appetizers and main course items.\n\nNext time we will get their Birria ramen as well. They have a great ambience and staff as well."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJMHJpYlJnEAE",
+            "text": "What a great surprise near Fordham University. Loved the authentic Mexican food and super sweet and warm service! We will be back."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OUVdtOTBZMFZuVEZOc04zQTFObXRoWW1wNk1tYxAB",
+            "text": "Cassy was a fantastic server. She was very kind and attentive! Thank you again to her for the wonderful service. Food, atmosphere, and drinks were great as well"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psbVNESnFkMDVPWVc5MlNrbDVkRkp5YVVsVlFtYxAB",
+            "text": "AMAZING! Went on a Sunday afternoon and it was empty. The food was phenomenal and I think this is my new favorite place tamarindo margaritas were beyond amazing! Thank you for everything guys!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfMXVfY0p3EAE",
+            "text": "got the birria tacos ($16 for 3), strawberry lemonade that was about $5, and churro bites with dulce de leche sauce for $7.\n\nthe tacos were incredible, i asked for some sour cream on the side and wow! so good. the consommé was fantastic as well.\n\nstrawberry lemonade was good, no complaints.\n\nthe churro bites were fine, the dulce de leche sauce didn’t taste like anything, kinda sad about that. worth the $7? no.\n\nmy waitress was alright, she was very attentive the only issue is that she comes off as very passive aggressive with the way she talks to the guests. i was seeing how she spoke to others just to make sure she wasn’t being that way only to me. other than that, again, she was fine!\n\ni would highly recommend this place either way,, too bad i live far from this place, otherwise id be here all the time!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OTGFVbGlja3hyVDFBNVJEQlBkaTFaV2sxV1dHYxAB",
+            "text": "Cristina was AMAZING. The music was fire and the food was even better. Great atmosphere with great people. Definitely recommend the quesataco's and a frozen mango margarita during happy hour. We love this place! <3"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWcGMzWnRWRE4yTmw5NU0zQlNWbU5TV1ZrdFRVRRAB",
+            "text": "Beverages , drinks and tacos taste good . A lot of options and great tasting food . I come here all the time"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURveGY2dkZ3EAE",
+            "text": "My family brought us here. it's their favorite Mexican restaurant. it was me and my wife's first time. My wife loved her lychee margarita. I had virgin Pina Colada. the drinks were good. Food was very good too. I ordered Birria tacos and my wife had fajita shrimp tacos. Great portions."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNva3UyNHJBRRAB",
+            "text": "I was in the area to visit NYBG and stopped by this place during happy hour. There’s not a lot of tables so we had to wait awhile to be seated, but it was 100% worth it. The birria tacos, guac and chips were FANTASTIC! The margaritas were also very tasty. I’ve had a lot of tacos, but these were the BEST I’ve ever had."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGdlZsa3hMVzVrYzFCc1NYZGhUemhZV2paNFdtYxAB",
+            "text": "Steven was our server. He was super nice very attentive he kept checking on us making sure everything was good ✨❤️"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Gd0xXTkViMkl6ZDJWblVtWkRZa014VG5wWlgzYxAB",
+            "text": "I just want to start off by saying that as soon as you enter the restaurant, you’re greeted with the most welcoming and patient employees. I’ve been here a couple times and the food & service has always been great. The prices are very reasonable for the amount of food they serve you and i will continue coming here as a happy customer! :)"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURReHQ2X2JnEAE",
+            "text": "I saw the reviews and pictures and it looked good. I ordered it and I thought it was good, not the best but good. The birria taco was good, soft and tender. The beef consommé was lacking flavor. I was really excited to try the surf and turf quesataco but it mainly tasted like cheese, not enough seasoning. I do appreciate the shrimp size, not small like most restaurants but it was 2 instead of 3. Didn’t get the sauces I requested. The chicken tinga tostada was good. Flavored and seasoned. I’ll order again and try something different."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCcFYxY3lSblpoVWxBd1VUQlROMGg1VDNSdFduYxAB",
+            "text": "The tacos were delicious\nThe guac was good\nThe drinks were strong\nThe elote is to die for"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wMmRHUkpZak13YWxJNFF6TnlhWHBQWWpONU4xRRAB",
+            "text": "Went on on a Saturday night — I was already eating before it got close to closing, but I noticed they were still letting people in like 15 mins before. That was cool. Food was actually fresh and hit the spot. Only thing is, service was kinda slow — looked like the waiter was running the whole floor solo.\n\nNow the drinks? Straight syrup. Barely tasted any liquor, so that was a letdown.\n\nOverall, food was solid, vibes were chill, but they need more staff and way better drinks."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxU2J6SjZXSGhKZUcxRFRGUXlkRVUzWm5SR05IYxAB",
+            "text": "very good food very awesome prices and good music"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJeGJQd09BEAE",
+            "text": "Amazing atmosphere,  food was delicious and great service. Awesome place to check out!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0dmNGUkpSVEl5TW1WaWRWUkpjSFl5VlVsb1VXYxAB",
+            "text": "The Birria tacos and esquites were absolutely fire. The waiter is the goat and brought out the food super fast. Everyone in here is nice and amazing. Overall fantastic definitely recommend!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toUFdIWXlVbkZ2VUhkeGJXWnZaMmRxYnpCQlFsRRAB",
+            "text": "Wonderful after work spot, however, we felt rushed for some reason. Waitress kept visiting the table and cleaning up as we were eating. She then came and said \"her shift is coming to an end\" not sure what that had to do with my party....... also noticed that my table was the only table that received this treatment. Frozen drinks were also very syrupy"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3enJLdnZnRRAB",
+            "text": "So I came to dine in and enjoy some tacos , I waited over an hour for them to mess up my order not once not twice but 3 times , I will never go back , my waited was rushing me on top of messing and forgetting to put my order in 😭😭😭 I wanted borrow tacos and they didn’t perform , this is not what I wanted or ordered , worst experience ever"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VLUEI3WjZUNHRXWVFREAE",
+            "text": "Shout out to our waiter🙌🏻 the restaurant had him serving tables, taking everyone’s order and had to sit everyone who walked in today on his own. His team saw him struggling and did not offer to help he even had to clean the tables when people were leaving. Though he struggled due to the lack of help he still smiled at everyone and was not rude unlike the young lady in the register who declined to charge our card. Me and my sister had to get up to pay for our food at the register as the place kept getting busier and the waiter was unable to provide us with a bill at the moment. I felt so bad for him, there was about 7 girls behind the bar just standing there including another man with tattoos who also declined to assist the waiter with the tables. My sister lost her cool in there and spoke up for the worker. I feel like team work is everything I get it people are tired and don’t want to work but customer service is everything. None of the customers who walked in were greeted by any staff aside from the waiter who had to sit them down. The ladies in the register were very passive aggressive and did not want to charge our order they wanted the waiter to do it on top of all the work that he was doing by himself. The food here actually taste very good and I love their frozen drinks I really do hope a higher up could investigate this and train the team on being a team, the importance of helping one another out in order to have a successful business. Remember every customer that walks in is revenue to keep your business open and to keep your jobs. Hope you guys do better🙏🏼🙏🏼🙏🏼"
+        }
+    ],
+    "reviews_count": 96
+}

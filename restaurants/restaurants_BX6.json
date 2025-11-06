@@ -1,0 +1,402 @@
+[
+    {
+        "name": "Fogon Restaurant",
+        "address": "2728 E Tremont Ave, Bronx, NY 10461, USA",
+        "place_id": "ChIJ94XbwHj1wokRqOj8F4QzP0E",
+        "rating": 4.5,
+        "user_ratings_total": 73,
+        "phone_number": "(347) 293-5228"
+    },
+    {
+        "name": "Antonio's Trattoria",
+        "address": "2370 Belmont Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJi0UhO4f0wokR_jzG9KlaPQA",
+        "rating": 4.6,
+        "user_ratings_total": 1556,
+        "phone_number": "(718) 733-6630"
+    },
+    {
+        "name": "Travesias",
+        "address": "3834 E Tremont Ave, Bronx, NY 10465, USA",
+        "place_id": "ChIJB52uuD2LwokRNwneWmZBND8",
+        "rating": 4.3,
+        "user_ratings_total": 1253,
+        "phone_number": "(718) 828-3834"
+    },
+    {
+        "name": "Lena Trattoria",
+        "address": "3470 E Tremont Ave, Bronx, NY 10465, USA",
+        "place_id": "ChIJA4JRKzCLwokRHBTppuJxhpg",
+        "rating": 4.7,
+        "user_ratings_total": 340,
+        "phone_number": "(718) 239-5362"
+    },
+    {
+        "name": "Agua É Coco Bar & Grill",
+        "address": "3132 E Tremont Ave, Bronx, NY 10461, USA",
+        "place_id": "ChIJ36DwDzmLwokRVvhMy4t0N4I",
+        "rating": 4.4,
+        "user_ratings_total": 411,
+        "phone_number": "(347) 293-4604"
+    },
+    {
+        "name": "East Tremont New York Grill Corp",
+        "address": "1057 E Tremont Ave, Bronx, NY 10460, USA",
+        "place_id": "ChIJjTMpGI30wokRK9FPpBIHtXk",
+        "rating": 3.8,
+        "user_ratings_total": 8,
+        "phone_number": "(845) 201-5790"
+    },
+    {
+        "name": "Wicked Wolf Bronx",
+        "address": "4029 E Tremont Ave, Bronx, NY 10465, USA",
+        "place_id": "ChIJ-ZqZEBiLwokR-F0TH-ryllQ",
+        "rating": 4.5,
+        "user_ratings_total": 829,
+        "phone_number": "(718) 829-4400"
+    },
+    {
+        "name": "El Nuevo Bohío",
+        "address": "791 E Tremont Ave, Bronx, NY 10460, USA",
+        "place_id": "ChIJqYkxbYr0wokRiecSneReu8M",
+        "rating": 4.1,
+        "user_ratings_total": 1877,
+        "phone_number": "(718) 299-4218"
+    },
+    {
+        "name": "Tra Di Noi",
+        "address": "622 E 187th St, Bronx, NY 10458, USA",
+        "place_id": "ChIJYYDOMof0wokRvCMy2r_-3S0",
+        "rating": 4.4,
+        "user_ratings_total": 523,
+        "phone_number": "(718) 295-1784"
+    },
+    {
+        "name": "Enzo's of Arthur Avenue",
+        "address": "2339 Arthur Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJK-WbWIf0wokRWPsJsVTeOfQ",
+        "rating": 4.4,
+        "user_ratings_total": 1854,
+        "phone_number": "(718) 733-4455"
+    },
+    {
+        "name": "Zero Otto Nove",
+        "address": "2357 Arthur Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJ4aiyUYf0wokRl3irR6IrNfM",
+        "rating": 4.5,
+        "user_ratings_total": 1496,
+        "phone_number": "(718) 220-1027"
+    },
+    {
+        "name": "Tremont Diner",
+        "address": "3007 E Tremont Ave, Bronx, NY 10461, USA",
+        "place_id": "ChIJkcEUNEyLwokRp_rC5sYe1A4",
+        "rating": 4.3,
+        "user_ratings_total": 2022,
+        "phone_number": "(718) 824-3250"
+    },
+    {
+        "name": "Roy's Pica Pollo",
+        "address": "880 E Tremont Ave, Bronx, NY 10460, USA",
+        "place_id": "ChIJp5qaq4v0wokRJ1a9RJ6cBWQ",
+        "rating": 4,
+        "user_ratings_total": 966,
+        "phone_number": "(917) 471-8937"
+    },
+    {
+        "name": "Dea Burek",
+        "address": "608 Crescent Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJ3YN5iwT1wokRCDSBI5Inl8Q",
+        "rating": 4.7,
+        "user_ratings_total": 96,
+        "phone_number": "(718) 684-7773"
+    },
+    {
+        "name": "Cosmo's",
+        "address": "726 E Tremont Ave, Bronx, NY 10457, USA",
+        "place_id": "ChIJ__R07WH0wokRnLupQgdk_2Q",
+        "rating": 4.4,
+        "user_ratings_total": 422,
+        "phone_number": "(718) 299-1925"
+    },
+    {
+        "name": "UNCHIN CHIN",
+        "address": "2276 Arthur Ave Ste #A, Bronx, NY 10457, USA",
+        "place_id": "ChIJKR_pK6D1wokRu6XFv421arQ",
+        "rating": 5,
+        "user_ratings_total": 50,
+        "phone_number": "(718) 571-9966"
+    },
+    {
+        "name": "Alitalia",
+        "address": "1138 E Tremont Ave, Bronx, NY 10460, USA",
+        "place_id": "ChIJ_9UCvJL0wokRM2uuw4UjE1k",
+        "rating": 4,
+        "user_ratings_total": 144,
+        "phone_number": "(718) 597-5250"
+    },
+    {
+        "name": "Bronx Food Co",
+        "address": "2368 Hoffman St, Bronx, NY 10458, USA",
+        "place_id": "ChIJXaBsc8r1wokRLswbj6YAB_0",
+        "rating": 4.6,
+        "user_ratings_total": 359,
+        "phone_number": null
+    },
+    {
+        "name": "Dynasty Taste",
+        "address": "539A E Tremont Ave, Bronx, NY 10457, USA",
+        "place_id": "ChIJEdy4BGT0wokR_08oqI36hvU",
+        "rating": 4.1,
+        "user_ratings_total": 135,
+        "phone_number": "(718) 299-1335"
+    },
+    {
+        "name": "No Fork",
+        "address": "612 Crescent Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJc8-u6Z71wokRJDg65stJl9s",
+        "rating": 4.8,
+        "user_ratings_total": 264,
+        "phone_number": "(347) 654-5807"
+    },
+    {
+        "name": "Çka Ka Qëllu",
+        "address": "2321 Hughes Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJddi0Qof0wokRQGSTDJMZzHc",
+        "rating": 4.8,
+        "user_ratings_total": 1343,
+        "phone_number": "(718) 933-6194"
+    },
+    {
+        "name": "Dominick's",
+        "address": "2335 Arthur Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJn1_QWIf0wokROm8gWiL2oOU",
+        "rating": 4.5,
+        "user_ratings_total": 952,
+        "phone_number": "(718) 733-2807"
+    },
+    {
+        "name": "Piattini Café Bar Osteria",
+        "address": "2363 Arthur Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJZ9ARhUP1wokR2hKIuOCz6wc",
+        "rating": 4.7,
+        "user_ratings_total": 121,
+        "phone_number": null
+    },
+    {
+        "name": "Boca Restaurant and Lounge",
+        "address": "2458 Webster Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJg5bf80H1wokRMwgQ2R824U8",
+        "rating": 4.1,
+        "user_ratings_total": 1207,
+        "phone_number": "(917) 688-1031"
+    },
+    {
+        "name": "Moise's Restaurant",
+        "address": "2389 Arthur Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJT0vls4D0wokRxULTGO2eD9Y",
+        "rating": 4.4,
+        "user_ratings_total": 604,
+        "phone_number": "(718) 220-5735"
+    },
+    {
+        "name": "Yopcity restaurant",
+        "address": "2324 Arthur Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJyfhM1If1wokRu402B8Yc0UM",
+        "rating": 4.5,
+        "user_ratings_total": 310,
+        "phone_number": "(631) 561-2518"
+    },
+    {
+        "name": "San Gennaro",
+        "address": "2329 Arthur Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJ00nj9H30wokR8izVYd3dAzY",
+        "rating": 4.4,
+        "user_ratings_total": 434,
+        "phone_number": "(718) 562-0129"
+    },
+    {
+        "name": "Mario's of Arthur Avenue",
+        "address": "2342 Arthur Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJSVkYXIf0wokReeN2qJg8Nwc",
+        "rating": 4.4,
+        "user_ratings_total": 1008,
+        "phone_number": "(718) 584-1188"
+    },
+    {
+        "name": "Frankie's Restaurant Arthur Avenue",
+        "address": "2376 Arthur Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJz1p0aiz1wokRJpQXMS3d3IE",
+        "rating": 4.7,
+        "user_ratings_total": 321,
+        "phone_number": "(347) 270-1452"
+    },
+    {
+        "name": "Cakor",
+        "address": "632 E 186th St, Bronx, NY 10458, USA",
+        "place_id": "ChIJGQJYOYf0wokRPbD2_I3lDbI",
+        "rating": 4.5,
+        "user_ratings_total": 304,
+        "phone_number": "(718) 733-2300"
+    },
+    {
+        "name": "Emilia's",
+        "address": "2331 Arthur Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJJ1pvX4f0wokRLOiByaI26OE",
+        "rating": 4.6,
+        "user_ratings_total": 654,
+        "phone_number": "(718) 367-5915"
+    },
+    {
+        "name": "Bronx Little Italy",
+        "address": "2396 Arthur Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJ7c01Q4f0wokRbfvyxJSi1Ac",
+        "rating": 4.6,
+        "user_ratings_total": 922,
+        "phone_number": "(718) 294-8259"
+    },
+    {
+        "name": "El Lider",
+        "address": "4535 Park Ave, Bronx, NY 10457, USA",
+        "place_id": "ChIJc27h_nv0wokRtjDYBUEN6Sk",
+        "rating": 4.3,
+        "user_ratings_total": 404,
+        "phone_number": "(718) 220-2923"
+    },
+    {
+        "name": "Pasquale's Rigoletto",
+        "address": "2311 Arthur Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJydy7i330wokRgSBbs9mCM4o",
+        "rating": 4.3,
+        "user_ratings_total": 625,
+        "phone_number": "(718) 365-6644"
+    },
+    {
+        "name": "10:02",
+        "address": "806 E Tremont Ave, Bronx, NY 10460, USA",
+        "place_id": "ChIJdweiGcD1wokRsqzfs5UzUwI",
+        "rating": 4,
+        "user_ratings_total": 68,
+        "phone_number": "(917) 410-4488"
+    },
+    {
+        "name": "Roberto's",
+        "address": "603 Crescent Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJpb3wZof0wokREXE6p8y04O8",
+        "rating": 4.6,
+        "user_ratings_total": 530,
+        "phone_number": "(718) 733-9503"
+    },
+    {
+        "name": "Aqua Bar and Grill",
+        "address": "2241 Washington Ave, Bronx, NY 10457, USA",
+        "place_id": "ChIJK_KQ10j1wokRWcn0FUVAAXY",
+        "rating": 4.2,
+        "user_ratings_total": 211,
+        "phone_number": "(718) 450-8898"
+    },
+    {
+        "name": "Clinton Hall",
+        "address": "601 E 189th St, Bronx, NY 10458, USA",
+        "place_id": "ChIJBbjPq4H0wokRYUVlZKLFPHI",
+        "rating": 4.4,
+        "user_ratings_total": 493,
+        "phone_number": "(718) 220-6400"
+    },
+    {
+        "name": "ARTHUR AVENUE",
+        "address": "E 187th St, Bronx, NY 14058, USA",
+        "place_id": "ChIJPTJ-zIb0wokRCT3sIrwKaEY",
+        "rating": 4.7,
+        "user_ratings_total": 11,
+        "phone_number": "(844) 693-6844"
+    },
+    {
+        "name": "Ann & Tony’s Restaurant",
+        "address": "2407 Arthur Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJf5gfuYD0wokRpIa9duwFG5k",
+        "rating": 4.3,
+        "user_ratings_total": 412,
+        "phone_number": "(718) 933-1469"
+    },
+    {
+        "name": "Fiesta Lounge and Restaurant",
+        "address": "4640 Third Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJsxetRX70wokRcmWCG7z-2c0",
+        "rating": 4.2,
+        "user_ratings_total": 227,
+        "phone_number": "(347) 591-0415"
+    },
+    {
+        "name": "Casa del Mar Seafood Restaurant",
+        "address": "1779 Webster Ave, Bronx, NY 10457, USA",
+        "place_id": "ChIJ4ZRMX2j0wokRH0R2KBd-Kbo",
+        "rating": 4.1,
+        "user_ratings_total": 1124,
+        "phone_number": "(917) 473-6670"
+    },
+    {
+        "name": "Dawny Jeans Diner & Miniture Golf",
+        "address": "5429 NY-19, Belmont, NY 14813, USA",
+        "place_id": "ChIJnSG4cKIZ0okRuOAnqgj7WhI",
+        "rating": 4.7,
+        "user_ratings_total": 188,
+        "phone_number": "(585) 268-8086"
+    },
+    {
+        "name": "Gurra Cafe",
+        "address": "2325 Arthur Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJc4bSin30wokRrZ4-Ad7oIoA",
+        "rating": 4.7,
+        "user_ratings_total": 146,
+        "phone_number": "(718) 220-4254"
+    },
+    {
+        "name": "Howl At The Moon Grill & Bar",
+        "address": "585 E 189th St, Bronx, NY 10458, USA",
+        "place_id": "ChIJ_6qUU4D0wokRwtRcwGWm7i0",
+        "rating": 4.2,
+        "user_ratings_total": 332,
+        "phone_number": "(718) 561-7694"
+    },
+    {
+        "name": "Ajo y Orégano",
+        "address": "621 Crescent Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJU8OwcMP1wokRqVprhOTXg6E",
+        "rating": 4.4,
+        "user_ratings_total": 2151,
+        "phone_number": "(347) 918-9638"
+    },
+    {
+        "name": "Michaelangelo's Restaurant of Arthur Ave",
+        "address": "2477 Arthur Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJCdXhVYD0wokRdg-4W4T1QCs",
+        "rating": 4.3,
+        "user_ratings_total": 766,
+        "phone_number": "(718) 220-8455"
+    },
+    {
+        "name": "Teuta Qebaptore",
+        "address": "603 E 186th St, Arthur Ave, Bronx, NY 10458, USA",
+        "place_id": "ChIJM9uITof0wokRL0rsO9MppkA",
+        "rating": 4.6,
+        "user_ratings_total": 163,
+        "phone_number": "(646) 402-0405"
+    },
+    {
+        "name": "Colima Taqueria",
+        "address": "608 E 187th St, Bronx, NY 10458, USA",
+        "place_id": "ChIJlxxWZpL1wokRG65nNL_mfoQ",
+        "rating": 4.7,
+        "user_ratings_total": 1322,
+        "phone_number": "(929) 614-7002"
+    },
+    {
+        "name": "Ajo y Oregano",
+        "address": "1556 White Plains Rd, Bronx, NY 10462, USA",
+        "place_id": "ChIJz_zvS770wokR2G-DXoskJP0",
+        "rating": 4.2,
+        "user_ratings_total": 2836,
+        "phone_number": "(347) 657-1201"
+    }
+]

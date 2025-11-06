@@ -1,0 +1,523 @@
+{
+    "name": "House of Birria Tacos & Cantina",
+    "place_id": "ChIJ2y_Q9A4zw4kRTRBGjM9nuVQ",
+    "grid": "BX5",
+    "address": "125 Dolson Ave suite 29, Middletown, NY 10940, USA",
+    "rating": 4.4,
+    "user_ratings_total": 253,
+    "phone_number": "(845) 843-9125",
+    "reviews": [
+        {
+            "date": "1일 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oUFdWRjVjRFl0YXpWWGFuUnhhVk50UjJkdVVWRRAB",
+            "text": "Me dieron unos tacos mordidos por otra persona y el guacamole podrido. Un asco!"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201WFZqTkxTemRyYlVKU05EZHRRa3AyTUVoMFRVRRAB",
+            "text": "Food was amazing. Not overpriced. The service they give is like great the treat you like family. Bartenders rock. Great atmosphere always. Go and enjoy:) they won't disappoint. Music is always on point just like the food too."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zMGIzVjBhVFZwY0hWbWJIUkhlSGMzZGxOMWVWRRAB",
+            "text": "First time in the area decide to try out this Mexican  restaurant.  I ordered the  birria tacos and the flautas rolls. My food was mid the meat was chewy and had no flavor yuck waste $"
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPMHNXQ3pBRRAB",
+            "text": "Delicious food! So glad I discovered this place"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FeWJIUjVMV0pGVjNaUVYxSkxNR0pUT0U5U01uYxAB",
+            "text": "To the Management of House of Birria,\n\nI recently visited your Middletown, NY location while driving back to New Jersey from a fishing trip and wanted to share my appreciation for an exceptional experience.\n\nYour staff's politeness, clarity, and respectful demeanor were impressive. Even though I ordered takeout, they graciously allowed me to dine in and provided excellent service.\n\nThe food was truly outstanding. Both the Quesabirria Tacos and the Consommé were fresh, high-quality, and scored a 9/10. I initially planned to eat only a couple of tacos, but they were so delicious and satisfying that I ate all five. I felt great afterward and thoroughly enjoyed the rest of my drive and evening.\n\nThank you to everyone at House of Birria in Middletown, NY, for such a wonderful meal and experience."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsd01sbGpkMXBRWmpaemNHbG9Sak5IWm5OblJIYxAB",
+            "text": "Upon entrance, there was an awful odor that made our stomach’s sick and that should’ve been our first red flag to leave however, we still gave them a chance. The food was not good. We had Birria tacos, which had absolutely no flavor. The Ramen was literally so chewy and it tasted like dirty water. The street corn was literally lukewarm yet had grill marks of black char but room temperature and the fry nachos was literally just fake cheese from a can anyways the service was OK except when we explained to the server, the Ramen was not good in like the most flavor of everything we had. She seemed confused and just said OK she took it personally.Definitely wish I did not have to pay for anything, but we did and will not be back"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sM2QwNUNTWGxRTmpWWWJXMVdNMUJuZUZsdVZtYxAB",
+            "text": "Food is authentic. You add the spices to your liking. We had a great time eating birtia takos and steak tacos."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSS09HcENTRmc0UmpGVk9IbHBRVlpyYjNCdlRHYxAB",
+            "text": "I don’t trust Mexican food in NY. But this place was a surprise! It’s like a solid SoCal type place. The combo with cheese and consommé was the star. Steak and pork are better than chicken. Their guacamole was excellent!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KRmNWVk9WRXB4YkZjdFNVbFRiSE5OWm0xaWVrRRAB",
+            "text": "Decent food. The Birria tacs are the best items on the menu.  Great service and atmosphere"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sa1FUQXhUek5FVUU4eGRYUTJVelptTFZodmVGRRAB",
+            "text": "The Quesabirria Tacos are my absolute favorite along with their Consome!!! Ellie is an AMAZING with those Margarita Flights, highly recommend!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Zd1YzQjFiV2RXUmt4bFdXaHlaMFkxVjA5cVgwRRAB",
+            "text": "Great food, drinks and staff. Highly recommended 👍🏼"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOek9FaHdjelpEYldZelRtdHVVVkZVUkMxQ09HYxAB",
+            "text": "Great food,  staff was awesome!"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25seWFFNHpaMmQ0YkdsTmQwZDFjSGxZU0RkeVpuYxAB",
+            "text": "Probé las Cali fríes y me enamoré! Lo más delicioso y los tacos de birria que cosa hermosa 😍😍😍"
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmNktlVUlREAE",
+            "text": "Just ordered for lunch.  These beans gotta be straight out the can.  No flavor at all\n\nUpdated: They blocked me on Instagram because I said it smells like bathroom and sewage in there, which it does.\nFood not even that great or flavorful.\nCall a plumber."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKc2VXdE9ObHAzVURVM1JXNVVURkJyVFVFM1dYYxAB",
+            "text": "I had a great experience at the House of Birria. The food was awesome, Maria our host was as amazing as can be and overall a nice pleasnt atmosphere. Steak tacos were well made, made quickly and throughly and had all this within a great and reasonable time. Also quite affordable too. Recommend for sure! God bless"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21reFNrTTNiMGMxUVVReU9EbEtUeTFRWkhvNGIzYxAB",
+            "text": "Really enjoyed my Califlour and shrimp tacos.  The service was great especially my bar tender Caitlyn.  She gave us great suggestions and made us feel welcomed!  Definitely coming back to see her."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205Q1VISkJjRjh0VVVwbVVVdGFRa2x4UVUxcVlYYxAB",
+            "text": "This place is fire 😭 food is so good! Excellent and flavorful! The birria is off the chain! Lizbeth was very sweet and attentive! Definitely coming back!!!!!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oUVduRk1TMm8yZURSS2RtVmZZbkIzY2tKSWEyYxAB",
+            "text": "Lizbeth provided the best service, answered all of our questions, brought out everything we needed, and truly made our experience remarkable.\n\nThe food was SO GOOD! My friend and I ordered the sampler dinner platter, which had everything that you would ever want at a Mexican restaurant on it. Everything was BOMB!\n\nI will be coming back and will recommend it to all of my friends and family!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKUGMzUm9hSEZNVjBsQ1NVODRkWEpDZUZoTGQzYxAB",
+            "text": "Great Service! Barrage Tacos are Delicious!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kTVNHczBPRlpXVFRVNWR6WllhR1pKYkdGRExYYxAB",
+            "text": "Absolutely, love, and highly recommend.\nFood and drinks are on point.. bartender and waitress very friendly."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5RVJUVmtiRE5zY1VGS04yaE1UMWt5ZDJJd2MwRRAB",
+            "text": "My first time there was for their Love Island finale watch party, I got their Cali Fries which were so good. Gabby was my table's server, she was so sweet and attentive despite the chaos. Definitely coming back!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4RVFrVlpUblZXTWxKNFNVUXpWaTFwZW5GWlNGRRAB",
+            "text": "I have been here a couple of times now and every time is a great experience. The food is timely, piping hot(i hate cold food), and extremely flavorful. Gabby was my server and she was very attentive and kind with every single one of my request!! The restaurant was a whole vibe from the food to the atmosphere."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3eFNVVkdWR2RoYVRCRmEwWnpNVjgyYjNWcWIxRRAB",
+            "text": "House of Birria was incredible! Delicious food, great atmosphere and awesome service. Gabby was such an amazing waitress and the next time we come we’ll definitely ask for her again! Looking forward to the next time we come🙏🏾"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xUlUybGhNbFozWmt4d1gyNVJaRTlIZDB0MVVGRRAB",
+            "text": "The birria was amazeing"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GdlkwaFpSM2hzVGxGWldIRnZTbXB3VUVwcVNFRRAB",
+            "text": "Vanessa and Maria are great !! Customer service was amazing drinks were amazing !"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkNGJsTlpiSE5qYTBOWmFrMHRjMkptVUhGV2EzYxAB",
+            "text": "The food is AMAZING!! It is definitely a hidden gem! Service was fast and consistent!   It is absolutely beautiful inside!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoR0xWRkRiRnBPTm1KdmRWVmlaVFl3UmxWMk4wRRAB",
+            "text": "Came in on Friday with some friends to watch the Love Island at the bar; Had a great time, was definitely busy but that’s expected for a love island watch party at a bar. With that being said, I still received great service in a timely manner. Ask for Maria! She’s the best :)"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWblRERmtkamN3TTJwZmVuazJOSE0wU0U1eU5XYxAB",
+            "text": "If you're planning to come here for the bottomless brunch—be warned: don't close out your tab early, or you'll lose access to your drinks. I arrived at 12:08 and expected, like the menu states, 120 minutes of bottomless. At 1:19, we closed our check thinking we had until 2:08 to enjoy our drinks. When I asked for another one, I was told bottomless ends the moment you close out—something the waiter never mentioned.\n\nWhat’s worse? The “waiter” turned out to be the manager, and still failed to communicate this extremely important detail. If I had known, I absolutely would’ve waited to close out. Instead, I paid for bottomless and was cut off with nearly 45 minutes left. Feels like I was robbed, honestly. For a place promoting bottomless brunch, this policy—and the lack of transparency —is incredibly disappointing\n\nTo respond to the restaurant: Dear House of Birria Team,\n\nThank you for your detailed response regarding our recent visit. I’d like to respectfully address a few key points and clarify our side of the experience.\n\nBottomless Drinks Policy\nYes, two members of our party did opt for the bottomless drinks. At one point, we did request another round before completely finishing our current drinks—something that, we now understand, you enforce. However, this was not clearly stated on your menu or explained to us at the time. Additionally, we were told directly by your manager that she was unable to process another drink order because \"adding more drinks messes up the system.\" This was the only reason we were given for the delay or denial of our next round—not because the current drinks weren't finished. This contradicts what you’re now stating and is important to note.\nAccess to the Full 120 Minutes\nWe understand the bottomless drinks are for 120 minutes, which we fully paid for. However, the issue is not whether we were allowed to stay for the full time—it’s that we were not served another drink during that period, even after asking. If service had continued as promised, I would have received my next drink within that window, but I did not. Simply allowing us to remain seated doesn’t fulfill the terms of the offer if drinks are not provided.\nMenu Clarity\nYour menu simply states \"120 minutes of bottomless drinks.\" There is no mention of the “one drink at a time” rule, no-shared drinks policy, or that a new drink can’t be ordered until the current one is completely finished. We understand and respect house policies, but these need to be clearly communicated either in writing or verbally before or during service—not after the fact.\nLastly, regarding the tone or demeanor of our party, we were surprised to hear this characterization. Any tension noted may have been a result of the confusion and frustration caused by the inconsistent information we were receiving during our visit. Our intention was never to create a negative environment but simply to enjoy a service we paid for under the terms as we understood them.\n\nWe appreciate your willingness to engage in this conversation, and we hope this feedback helps improve the clarity and consistency of your promotions moving forward.\n\nSincerely,\nKaylee"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wUlpqVlFNRXAzVDBKZlQybFFWR0Z0VEVGUFpVRRAB",
+            "text": "I ordered on Uber eats unfortunately the lid to my consume was not secure and spilled all over the bag and my food I was hungry so I ate it anyways but I didn’t get to dip my tacos in the best part of birria tacos 🥲 next time I’d just come into the restaurant instead of ordering because uber eats didn’t refund me ."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMdkxrWm5aMllPUGtBRRAB",
+            "text": "Hidden Gem great prices great food and great service will be back"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJWDQzY2llN2ZLS0NREAE",
+            "text": "I usually come here all the time never had an issue so I took my sister to try them the other day . We asked for birria tacos with the cheese on them, they came out with no cheese. I politely ask the waitress if we can add cheese they send…"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJel9vcTZUOWZXV0NnEAE",
+            "text": "Wish I lived closer. But then again, glad I don’t. Authentic amazing food and service. Simply amazing. 🤤 😋"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOUy1vUDZrNGNLOS13RRAB",
+            "text": "The food was amazing both times I ordered.\nAlan one of the owners and his staff are absolutely great too."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VQUHE0T3FHekt1VXN3RRAB",
+            "text": "The food here is good but the service is definitely lacking. This was my second time dining here and the service experience was the same as the first. I’m not sure if they are just short staffed but expect a decent wait time if you are dining in.\n10 minutes after my food was served I still did not have my drink (which was ordered before my food) or napkins and silverware.\nI had to ask about my drink when the waitress came back to check on me. I think it was forgotten .\nWith that being said, my waitress was very nice and I truly did enjoy my interaction with her."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZb3JqWE9REAE",
+            "text": "I placed an order via UberEats and this is what I received, I had to throw it out . Extremely disappointed."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvdVphV2V3EAE",
+            "text": "HOW did I not find them sooner?. absolutely enjoyable. margaritaville ... I WILL be back."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvbUtPZ1hBEAE",
+            "text": "I'm from Texas and I give this spot a gold star. Absolutely equal to the quality and flavor of birria we can get within a mile of Mexico. 10/10 Keep it up, never change."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJNTZhMTZnRRAB",
+            "text": "The food is good, a little pricey but is nothing crazy. We sat down and the server came ask us what we wanted to drink. We told her and it took about 20 minutes just to bring 2 drinks out. We was ready to order and told her what we wanted and she never wrote it down and we was impressed. We thought she had good memory, we was wrong when the order came. She gave my girlfriend 3 street tacos instead or birria tacos and never brought my nachos. Also instead of bringing a soda can to the kids it should be soda in a cup or bring a cup with ice and the can. Food was good but for the services and price I wouldn’t go back.\n\nThe server was a short girl pregnant(4/11/25) with glasses."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJNVl5M3dRRRAB",
+            "text": "The food here is one of the best in all of Middletown!! You get a delicious home cooked meal, coupled with great service and wonderful entertainment!! They also work around your dietary choices! 👍 I got the California Burrito and LOVED IT! 🔥🔥🔥🤤"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJcHI2WUNBEAE",
+            "text": "So this was my first time visiting this place and I can  say that I'll be going back! The environment is pretty relaxed. They have good ambient music playing where you can have a conversation and enjoy the music.  The staff is very friendly and offered good recommendations on the food.  The drinks are quite interesting, they look good and taste great! The appetizers were, for me, a slam dunk! The guac is quite delicious, perhaps one of the best around along with the other items like the queso fundido with chorizo! So these guys are apparently like California Mexican style, which I hadn't had before.  They absolutely blew me away with the birra burger, which is just insanely filling and packed with incredible flavor! Overall, this place is a must try!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3bEk2TFl3EAE",
+            "text": "Great atmosphere food and drinks"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3OE9uV2lnRRAB",
+            "text": "Amazing food, and amazing service. We will definitely be back! 😊"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3MHBXSm5BRRAB",
+            "text": "Decided to try this place out with my best friend and we got severe food poisoning from a simple rice and beans dish. Don’t go here it’s not worth it."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUN3dk1lV1VnEAE",
+            "text": "First and last time eating from here, I ordered a Birria Pizza to go with a 10$ side order of OLD hard rice and Beans. I got food poisoning 10 minutes after eating and couldn’t sleep the whole night.  All I had was 2 slices of the birria pizza and old rice with beans. I wish I can get my $35 back"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3ako3WGl3RRAB",
+            "text": "Girlfriend got food poisoning from this place first time trying their food. Will never come here again"
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURObDl2NEhBEAE",
+            "text": "I called 40 minutes ago to pick up an order and I have been told to wait an additional 20 minutes and no one has even bothered to take my order at the bar while I am sitting here waiting..... Not cool."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnamFTU1dREAE",
+            "text": "This restaurant is known for authentically made Mexican food, especially birrias. But they also have tacos, burritos, flautas, elote and other things. They have a happy hour drink/food menu until 6pm.\n\nGood vibes and atmosphere inside with bachata and Spanish music playing.\nThey have lots of seating and booths including long tables for big groups.\nOur server was sweet and provided efficient service. She helped me find something to eat off the menu that I could make vegetarian by substituting mushrooms in the burrito.\n\nThey don't have a website, follow them on IG."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnN2V5eXhnRRAB",
+            "text": "I've been wanting to try this place for a long time and finally got around to it. And it was worth the wait! Beyond impressed and already thinking about what we can order the next time! Don't walk...RUN as fast as possible!"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnbHNlaU5BEAE",
+            "text": "Flavorful but prices and serving sizes do not match.  Ordered a taco, nachos, and the Birria Ramen.  The taco was the only appropriate -priced item, but for a \"street taco\" I was surprised it was served with only one shell (most traditional places double-shell).  The nachos, for $7, had less tortilla chips than the $3 plate at the famous Mexican fast food chain, and even without the guacamole the fast food giant would add.\n\nBut most disappointing to me was the ramen, a signature in-house dish for this restaurant.  For a $9 soup offering, I was expecting something sizable.  Instead, I got the noodles from a 50¢ packet of supermarket ramen wedged into a small pint container, covered with a little bit of flavorful broth, and topped with about half as much meat as was in the $3.50 taco.\n\nThe flavor was exceptional.  The value was non-existent."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnMHZMalZBEAE",
+            "text": "We went yesterday for Valentines day,  everything was amazing.  We were so in shock with what we paid because we got so much food. Food and drinks delicious. Service we got from McKaela was perfect! Thank you for your service!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURfcHJ1RFl3EAE",
+            "text": "I Had an amazing experience at the house of Birria restaurant! From the moment I walked in, the vibe was great with some fantastic music setting the tone. The customer service was top-notch—super friendly and attentive. The food was incredible, especially the green sauce, which was absolutely delicious! My margarita was perfectly made, too. I also loved the atmosphere, it was lively but comfortable. And the best part? There was plenty of parking right out front, which made everything even easier. Especially on a cold day. I Highly recommend! I even brought back left overs and my son enjoyed it even warmed up."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwbDdEZW5BRRAB",
+            "text": "From the moment I stepped into the vibrant, culturally rich atmosphere of the house of Birria location, I was captivated. The warmth of the place is not just in the decor, but also in the authentic Mexican culinary experience it offers.\n\nThe star of the show, without a doubt, is the Birria. Rich, savory, and brimming with flavors that transport you straight to the heart of Mexico.\n\nThe staff adds to the overall experience with their friendly demeanor and prompt service special thanks to Diana and Alan.\n\nDespite being a new location, they seem to have nailed the delicate balance of swift service and quality food. The team ensures that you are well taken care of and your Birria cravings are satisfied to the fullest.\n\nThe house of  Birria location is a gastronomic gem, serving up authentic Mexican cuisine in a vibrant, welcoming environment. An absolute must-visit for all food lovers. I can't wait to return and recommend it wholeheartedly to anyone seeking a memorable dining experience."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEbGJ1anRBRRAB",
+            "text": "House of Birria Tacos & Cantina or House of yuuuum as I call it the food & service were both great. My family and I had the Birria pizza , elote corn , & Birria nachos. All were flavorful and delicious. The beef consume was rich and not oily. And the tres leches was sweet and not watered down. On top of that the service was friendly and quick. We really had a good time. Definitely recommend."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYNXBTUENBEAE",
+            "text": "We got the birria pizza and it was really good. It had so much flavor. The corn dip was also yummy. The salsas were ok. Not spicy at all in my opinion."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaMjZPdzBRRRAB",
+            "text": "So let me start off by saying that the customer service was fantastic! They were very friendly and attentive even if you’re just ordering for pick up. Now for the food, I ordered the birria street tacos and they were super juicy and delicious. I am upset though because I didn’t realize you had to buy the consome separately. Maybe I didn’t read the menu right but I just wish it would’ve been said. Most places have the consome added to the tacos so just make sure to ask for it. Regardless they were still delicious! I also got the spicy birria noodles. Definitely could’ve used some more soup in there but nevertheless still good. I would 100% recommend coming here especially because they don’t charge you an arm and a leg for these tacos."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSek1yS1R3EAE",
+            "text": "The best Birria tacos in the tri-state, have gotten better!  Delicious!  They have moved to a permanent location.  Roomy and tastefully decorated next to the Shoprite.  Try the birria tacos, birria quesadilla, and the birria cheese tacos, or tortas.  The coconut agua fresca was superb.  New location came with an expanded menu.  Worth the drive."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYMU5MRjR3RRAB",
+            "text": "Friendly staff and the foods were great! Quesabirria tacos were delicious. Came with the drink because it was lunch time!  Staff was attentive and friendly! Will come back."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqaXY2bDNRRRAB",
+            "text": "Food was fantastic. The Birra tacos were the best I've ever had. The consume was delicious. The fries were even better."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM5ajViTTNnRRAB",
+            "text": "Waitress was attentive. I would suggest not putting water on the table before, selling or offering a drink to purchase. I would have purchased a drink. The food was just okay. I didn’t like that you need to pay for the dipping sauce for the birria taco. $4 for sauce, no sauce comes with tacos no salsa no sour cream nothing."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYdWEtYW93RRAB",
+            "text": "Food was delicious and reasonably priced! Birria ramen was on point as well as the tacos and birria tacos"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKeHZfaUxBEAE",
+            "text": "Excellent birria tacos- not quite as good as some places you will find down in the city but a really great taco place for the area. Would recommend the quesabirria over the regular street tacos and would recommend getting a side of consome either way.\nIf you are hungry, I think you would need at least three tacos as they are a little on the smaller side in terms of the filling in each taco.\nAlso, be ready to eat in your car or take it somewhere else.\nLimeade was amazing."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaelp1UFRnEAE",
+            "text": "Had an impromptu birthday gathering. Lupe was wonderful. The food was banging! Would definitely recommend the birria pie. Such a nice place with good music playing and lovely decor throughout. Loved everything!!! Will definitely be going back!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURMaXIyNGhnRRAB",
+            "text": "Been looking to try this place ever since it opened but since I don’t live in Middletown anymore it was tough. Found an excuse to come back and man was the food delicious! If you are looking for some great tacos, look no further and come here!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNwMzlQVVpREAE",
+            "text": "Amazing food and the Birria Sauce was delicious! The service was amazing and their bathroom is CLEAN! The server recommended the California Fries, Mexican Street Corn. We also got queso birria tacos, spicy ramen and it was all delicious."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPbGJ1bk5BEAE",
+            "text": "Absolutely worth the hype! I got the street tacos and my husband had a beef quesadilla. With drinks we spent less than $25 total, which is a great price for the amazing flavor and friendly service. We cannot wait to go back!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXallUVV93RRAB",
+            "text": "THE BIRRIA TACOS WT THE SOUP FOR DIPPING ARE AMAZING! I come 2 times a week. They are good people and the service is fast. They are in a food truck for now but it won't be too long. Bad part..... They are closed by like 4. That hurts heart."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNseXNmOHRnRRAB",
+            "text": "Hands down one of the best birria I’ve had (and I make a damn good one)! Affordable and good service"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtczg2YlBREAE",
+            "text": "Amazing! Food was excellent! Truly a gem in Middletown. I remember when this was a good truck and to see how they have completely upgraded is amazing. Waitress was excellent, decor was aesthetically pleasing and the food was delicious!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzMFpqYjdBRRAB",
+            "text": "Everything was delicious! The street corn was a nice side to add to the tacos."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2ek82SE93EAE",
+            "text": "I went to this spot based off a random recommendation from my brother. When we walked in we were warmly greeted and the service provided was very friendly.\nThe prices are very reasonable and once we got what we ordered we were both blown away by how amazing the quality of the food was. I got the California burrito and my brother got the birria tacos combo and 10/10 I would come again and would recommend to anyone in or around the area."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfc3M3ek9REAE",
+            "text": "Why give your hard earned dollars to a corporation like chipotle when you can give them to a small business that is serving up freshly made authentic goodness? We came in for our first time yesterday and were blown away. Better then the Birria tacos I’ve tried down in Miami and on par with the Mexican food I’ve had in Mexico. If I’m ever in the area I will be back! And for those reading this review; House of Birria and Angelita’s in goshen are as authentic as it gets in the area. Support both."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURONzVLNjVnRRAB",
+            "text": "My husband, daughter and I ate here yesterday after hearing good reviews.  The service was very good.  The drinks (we had margaritas) were great.\nThe food was amazingly good.  This will definitely be a weekly stop for us. PLUS the prices are very reasonable!!\nIf you haven't tried House of Birria, you have no idea what you're  missing! Try it today!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURObGV1VGRBEAE",
+            "text": "Probably some of the best tacos I've ever had. Very speedy service. Highley reccomend."
+        }
+    ],
+    "reviews_count": 73
+}

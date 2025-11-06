@@ -1,0 +1,26 @@
+{
+    "name": "Healthy Life Restaurant",
+    "place_id": "ChIJCVa6HwD1wokRYHWNajcVGTI",
+    "grid": "BX4",
+    "address": "1231 Edward L Grant Hwy, Bronx, NY 10452, USA",
+    "rating": 5,
+    "user_ratings_total": 2,
+    "phone_number": null,
+    "reviews": [
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pndGJEWXROM1JNZEZCNmFqTmZRa3N0V1hsRlkyYxAB",
+            "text": "Tuna wrap is incredible.."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OU2VYbGZRbk5LVEVsQmMzTkVlSEp4VlVkNVZFRRAB",
+            "text": "Inside of icon gym.  Great juices  and also bowls."
+        }
+    ],
+    "reviews_count": 2
+}

@@ -1,0 +1,40 @@
+{
+    "name": "Pa’Comer",
+    "place_id": "ChIJebvki9H1wokR-M6LMAgo9ig",
+    "grid": "BX4",
+    "address": "104 E 165th St, Bronx, NY 10452, USA",
+    "rating": 4.8,
+    "user_ratings_total": 4,
+    "phone_number": "(347) 467-5381",
+    "reviews": [
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBMldFbDVNMUJUVURCRU5sSmhWbmhNVUd4bGJIYxAB",
+            "text": "New administration! Mexican and Dominican food excellent !"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKQ01HWlFaVlZSZG14a1ZsaHRiR05pVmxSM2FHYxAB",
+            "text": "Food was excellent"
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oQldteHBSRkl3YTJKeWNYTmFNR3cxUzFoaFRsRRAB",
+            "text": "Compre una quesadilla allí y estaba riquísimo"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnTUR3Z3FWaBAB",
+            "text": "yum !!"
+        }
+    ],
+    "reviews_count": 4
+}

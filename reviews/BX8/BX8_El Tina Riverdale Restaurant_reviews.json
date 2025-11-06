@@ -1,0 +1,516 @@
+{
+    "name": "El Tina Riverdale Restaurant",
+    "place_id": "ChIJFSJMpZXzwokRYhszYGGRysM",
+    "grid": "BX8",
+    "address": "308 W 231st St, Bronx, NY 10463, USA",
+    "rating": 4.6,
+    "user_ratings_total": 490,
+    "phone_number": "(718) 684-6228",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3M01WTTVTVWxWV21kVlZYVmpkamh0TldGaGRHYxAB",
+            "text": "Excelente"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xM1lVSm9ZV1ZpT1c5M09XMWpNVUpMUVVOTlJXYxAB",
+            "text": "My family and I dine in and order delivery here quite often. The food and service are always excellent."
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210b1QyZHZWSEJwZDI1ZlkwVjFOemxtU0ZsTE5XYxAB",
+            "text": "Karina Me atendió y ella fue 🙌🏼🙌🏼"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SNmJuTkNhRVpsUkhOa1ZsQkpZa2RNUlMwME0wRRAB",
+            "text": "Great place! Sweet mofongo was really good!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCUVVXbHRURzAxUVRGMmNsTldORmQwUjBSM1VrRRAB",
+            "text": "Great food! Great Service!!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oclVXbG5jMnhSV1haQlJURTFVRWxxZFhKNFpVRRAB",
+            "text": "Really friendly staff"
+        },
+        {
+            "date": "1주 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21relZtbzFhMjl0WjJsVFRYaEJibFJ4Y1U5SVkzYxAB",
+            "text": "Sabes que es decepcionante que ruedes de tan lejos para comer en ese sitio y te traten tan mal además de que el interés fue todo pendiente en puro lujo y protocolo en ves de estar pendiente que uno quede bien satisfecho… Te sirven más cuando es para llevar que cuando es para comer ahí y te sirven como si estuvieras a dieta. Hago uber te tratan como si estorbaras fui a comer y me trataron como si yo fui a pedir fiao…. Quieren batirse una como que si están atendiendo en la casa blanca porque te cobran hasta por respirar. Si le pides que te pongan un poquito de cualquier vaina te cobran hasta por a ver respondido… Salí decepcionado. No como más nunca ahí por más que la comida sea buena iba a comer no  a hacer dietas.. 25$ tres tonterías que ni en los bufet"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2prME9IaE1kbkJQZFZwM1JqTmtWRGQ0VW5acWVGRRAB",
+            "text": "They took forever to drop my food off the chicken didn’t have no sauce chicken hard I’m over it never again"
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201MWJGZHpWRmRvVmtaSE9GZE1lSEpHTmxOQ1YyYxAB",
+            "text": "El servicio es fantastico cada ves que voy gracias por el servicio y buena comdia ."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5ZlYxTnBZWEF6VUZoemJIRlRZMHRXVmpkUVRHYxAB",
+            "text": "Best food,\nMy wife and I always come here for food,\n\nGreat environment, food is great, price is amazing and staff very nice and quick"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVek9XeEhlVEl5UzFWRlpXZHRUemxoV1VoWGVGRRAB",
+            "text": "Best Dominican breakfast hands down"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wMGQzb3lNMEk0VkY5WFZGUldZWHBOWmxaR1NYYxAB",
+            "text": "El Tina Riverdale was a wonderful spot for a calm family lunch. My family and I had the pleasure of being served by Carina, who was absolutely fantastic—attentive, friendly, and made us feel welcome. They provided a high chair for our baby and went out of their way to accommodate us. The service was excellent, the Spanish food was delicious, and Carina even surprised us with a complimentary jello, which was such a sweet touch. The only thing missing was a changing table in the bathroom, but overall it was still a great, family-friendly experience that we’d happily return to!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21ocGQxTTRaRkZ2UWtvMk1DMTNiMHhGUTBSRmIzYxAB",
+            "text": "The food was amazing.\nShout out to Tina.\nPrices are amazing!!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFd09HczBUVmRhVmpWalRFSlRNREo1YXpnMWJGRRAB",
+            "text": "We came all the way from CT. The food was delicious and Karina was very sweet, she provided a great experience here. We’ll be coming again as a family :)"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paSFNEVTRUMHR5VERaeFEzRnlRMjR6U0MxRFVHYxAB",
+            "text": "Nice service"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tRd2FHVnFkSFJLYWxoNGJXVXlWME5QZEdkSFJIYxAB",
+            "text": "Muy rico todo excelente servicio 🙏🏻🥰"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKRk5qTkRSbmhmVGxaelIwODNNWEZ4VW5CRGQwRRAB",
+            "text": "Food was amazing! And Karina was the best server ever!!!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21kNFZrcHNiRzV1UTJJelMyOTZkVmxKWmpkVU0zYxAB",
+            "text": "Great tasty food plus A+ service!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xocFQyaDZkV2RLYnkwMWJGaHpPSFJwUkdoRFFYYxAB",
+            "text": "Delicious food and fast delivery."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20xMFlVeHBaVXBQYW5WS2JWRmZRMmRpVmxreE0xRRAB",
+            "text": "Mejor Mondogo en el bronx. La mesera Karina da un servicio fenomenal. muy amable y servicial."
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xvM2VHUTRjM2xuVXpCWFlXWnJWbW95U1RWdmQxRRAB",
+            "text": "Karina is the absolute best.  Super sweet attentive and every time we visit the restaurant she greets us with love and remembers our likes.  Karina es espectacular cada vez que vamos no Trata con mucho amor y atencion.  La comida es buenisima tambien pero mas agradable cuando te Tratan con tanto cariño.  Se a convertido en nuestro lugar favorite para comida dominicana!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGSE5EazFUa1pTZUZoSVpIWTBUazVzTkY5bGFGRRAB",
+            "text": "I’ve been a regular at Tina’s for some time now and they do have tasty food but their customer service can be crap.\n\nI encountered a server with a rude and nasty attitude enough to make me want  to walk out and leave my order (I didn’t).\n\nBut, I have vowed to walk out of the restaurant if this particular lady is the only server there next time."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wS05ERldjMXBLZVZsbFdtMUhhbEJ0Y1hWT2VIYxAB",
+            "text": "Good food"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xoR1JXdzNVSFV4UTAxV015MXlWRTVCY0U5UVptYxAB",
+            "text": "Carina fue una mesera increíble . La comida estaba buena y la pasamos súper bien."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pZMVluQXpiVlpqYUdKaWRTMXNUa0YzWmw5WldYYxAB",
+            "text": "Nice service nice food nice  prices nice music"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sVU5IUnJWVUZVYTAwNWVFVmxNVjlmT0dZMmMzYxAB",
+            "text": "Grata experiencia anoche"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsdVNYSkJaWEZsVEhSYVRVSnlNREl5U0cxbFNXYxAB",
+            "text": "Great service and food. The waitress, Karina, was really attentive and welcoming. The natural juices and piña colada were amazing. I would totally recommend coming here."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNMVIyWnhiV2wwVFc1MWRuWmxTbGd6YTBOR01IYxAB",
+            "text": "Our first time excellent services and food 10 out of 10"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFMGVrRlRkbm95Tm1Gd2JpMXFhbkl6YzJoQ09FRRAB",
+            "text": "Karina was our waitress, she give us excellent service 10 out of 10"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNMGMyOHlOMDFWZDJwYWRHbFFZVkZpVEdaeVRWRRAB",
+            "text": "Buen lugar y la mesera Karina la mejor en atención nuestro lugar favorito para mí y mi familia para ir a comer todos los domingos"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxemRHcGxZa1ZwWkc5R1lUVXlZMEkxZFdVeVdWRRAB",
+            "text": "Este restaurante tiene excelente servicio y comida y también la servidora Karina es muy atenta y amable y humilde.💝"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkUVNXWlNXa296YW1SUlFtTTVSRlJIUmtOcE0wRRAB",
+            "text": "Lunch on a Wednesday afternoon with a party of four (colleagues and manager) we all ventured for Dominican food in hopes of fulfillment for a good foodie experience. Food calls for people merged together from all cultures, ages and backgrounds coalesce to formed a unified setting for a healthy processed workplace environment. 'Cause as humans we live to eat and food is certainly a motivator. During the passage of my Sisyphean Task, I glanced a takeout menu that was floating in my workplace environment and was lured for a try as I was enticed by this business name. Delivery is available for a minimum order of $10.00. Unbeknownst to me, I did not know I cook well to own a Dominican restaurant as it bears my name! Oh! Next door there is a corresponding a juice bar with the same name... TINA. This business is accessible walking distance via MTA NYC Transit 1 train at 231st Street station in Kingsbridge, Bronx.\n\nEgregiously poor customer service! Price is excessively high which I am willing to pay but accompanied with good quality food as caveat. Their service does NOT align the food quality. The women behind the open buffet counter do not respond to customers' inquiries as I browsed the many hot food options and saw meat, \"what is that? what type of meat is that?\" for a dismissive tonal reluctant irascible response \"It's meat! MEAT!!\" Insolent! My colleague intervened: \"she is asking what type of meat is that.\" All my colleagues and manager decided to attain the Dominican Mondongo, tripe stew soup which was good. We patiently waited for warm Casabe al ajillo bread with garlic to be served which we had to request with persistence as it is not accompanied for inclusion. I always have a predilection for garlic bread. There are a lot of staff behind the buffet hot food bar and cash register counter all actively hustling working speaking Spanish which many were very abruptly dismissive for my request of the standard sales receipt to be printed. Being busy with a lot of work does not give one the prerogative to be rude, irascible, dismissive, curt in a boorish wayward behavioral manner to your customers who are spending our hard-earn money giving it to your business! If you don't speak Spanish as a patron, good luck to be serviced properly with dignity for inclusion.\n\nLinguini pasta with chicken, small $9.00\nThe linguini was average pasta and the chicken embedded was also average. I do not taste their food to be described as \"delicious.\" I honestly could not consume a medium size plate as their attitude for poor customer service made me very despondent and intensely dispirited. Subsequently, I lost my appetite and food as desideratum was no longer enticing."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSQmEzVkdTMk16VmxONFoxcFBWMDlvUmtKbWVuYxAB",
+            "text": "Great place for a quick bite...Food is good and great prices."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21saFVWZEtRMUIxWmtaRWQwVlRRMHBEYkVFNE1uYxAB",
+            "text": "The food is fantastic! I have been trying their various dishes and each has been delicious and authentic. The delivery service is excellent."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4M0xUSlNOM1ZOVW0xNVFuaHBaRUUwT0VSaFkyYxAB",
+            "text": "Great food great service I love their breakfast 3 golpe. I usually get chicharron with white rice and beans for dinner, my son loves it! I got a mofongo and it was really good. Love this spot. Great atmosphere and amazing fresh juices."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25RMFpIQlJkelp6TTJKcmFtRmFiMHROUzBWSVoxRRAB",
+            "text": "Out of all of the hundreds of Dominican restaurants in the Bronx, this one stands out as the best 👌…"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxek5XaERUR0ZwYmxOeU15MXBOakF0UVRSQ1ZYYxAB",
+            "text": "I ordered delivery from their website. No third party delivery service and it felt GREAT! I just paid for my food and gave a tip to the delivery person. I am so grateful that El Tina’s still does this.\n\nWe ordered the oxtail. It was delicious! So meaty and full of flavor. We also ordered the pernil which was very tasty and tostones with garlic sauce.\n\nThe food came piping hot and quickly. I cannot wait to order from Tina’s again.\n\nThank you for being such a great place in Riverdale."
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Ga1gwbzNPR053ZWpaR1NYbGpMWGhFWHpNeGRHYxAB",
+            "text": "Muy deliciosa la comida 😋…"
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CaGF6bGlYelpvYlRCMFFraFpNbGxYT0VseVowRRAB",
+            "text": "Excelente y buena comida"
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wUFdVVk5ObUZ6UkZKVFluSkZRVGgxWDJsclNWRRAB",
+            "text": "Buenas atención"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21RMkxXNVJablJWUkVwbE1XaEhhM1pLZFdod05GRRAB",
+            "text": "Always tasty.  Always friendly service. Quick and easy."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSNmJEVnlaR1ZQWHpKUmNFczJiSFoyUjFNemRVRRAB",
+            "text": "Very, very tasty, the staff is awesome, thank you"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21obVQzSkNNM1pDZUVkdlVsRjFNa2M1VGpKcVEzYxAB",
+            "text": "This is a really good restaurant. I’m a Dominican and I can tell you right now this food is really great. I highly reccomend them. If you’re in the area, come check it out."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGWVNIb3lWbWxCTkZaUGNGRTRkVzVyUW5sWFkyYxAB",
+            "text": "Wow, que comida mas buena!! 😋\nThis is some of the best dominican food out here. So good! Our waitress was more than great and accommodating. Will be back here again for sure!"
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5MlQyRkNVblZqTkZnNWJuWXlWVkZrV0cxUGVFRRAB",
+            "text": "Muy mal servicio, me hicieron esperar UNA HORA por mi comida. Estoy embarazada y me dejaron con la misma hambre. Perdí mi horario de comer en el trabajo y me quedé sin nada gracias a la mujer que atiende el cel por mentir. A las 6:19 cuando llamé me dijo que el delivery estaba llegando. Yo estoy a 5 minutos de el restaurante en carro. El delivery llegó a las 6:47pm. Le devolví su comida. Gracias por su mal servicio y su mentira. Más nunca ordenó ahí."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWMFMwZG1ibkoxVEhWR1ZEWnZZVmRRVVdOVk9GRRAB",
+            "text": "Their entire menu is delicious. Just order anything you're craving and I'm sure you will enjoy it"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VNTGRxc0x1b1k3T2x3RRAB",
+            "text": "The food is overall okay. The problem is their Oatmeal and Gandules. Their OATMEAL lacks its main ingredient (Oats) it’s just milk basically, as oats are nowhere to be found. The GANDULES, are just a watery salty mess. There are bad, guandules, pretty bad guandules and Tina’s Guandules which are in a category of its own. Obviously they use Canned Guandules and salt."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VOM1AzUEh5Z0p1el9nRRAB",
+            "text": "Food is delicious but night servers(females) and waiters are very rude. Demanded me to move to the side, while I was telling the lady what me and my family wanted to eat, waiter and server rolling eyes and you say thank you and give u ugly looks. Rushing is to decide what to eat. Male waiters\\servers are sweet. I’ve been there in the mornings and usually they treat people good. But this time 👎"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VOM21tYnJfa19hd1l3EAE",
+            "text": "Horrible, i am sick I ordered a large chicken soup it was all water it had no chicken 1 potato and a few badly cut carrots like in a rush and the noodles were stuck together"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMelRvcDI5MjVmMkVBEAE",
+            "text": "Delivery is delicious. So rare now. Thank you!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJel83b0JBEAE",
+            "text": "If you want some amazing Spanish food from this area no need to look any further! This spot is delicious. I ordered take out time and time again from here and I haven’t been disappointed. I highly recommend  El Tina Riverdale Restaurant for some flavorful food and breakfast the mangu tres Golpes is also very good."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJaVl6SXJnRRAB",
+            "text": "Party of 2 walk-in was sat quickly by the bar.\nOur server was very attentive to us the entire time. Sancocho and bread were served complimentary and it was DELICIOUS.\nI ordered the Shrimp Mofongo with the creamy garlic sauce; it was a bit on the drier side but nonetheless very flavorful. It was authentic Dominican Mofongo!\nMy partner ordered the Beef Yaroa with the fries and it tasted similar to Lasagna, amazing.\nWe both ordered the Morir Soñando and drank it in 2 seconds it was so good.\nDefinitely visiting again. The food, hospitality and drinks were great."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3M0ktQkRREAE",
+            "text": "I highly recommend this place, the attention and service were excellent and the food was phenomenal, very good portions."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNEX1puVGVREAE",
+            "text": "Food was hot and delicious. In an ideal world I would have liked a bit more separation between all the people coming in to pick up food vs dining in. I dined in with my family and had a great time, food was fresh.I liked the paintings on the wall. I would go back again."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsMGVtQk9BEAE",
+            "text": "My family and I were visiting the neighborhood and we found Tina’s.  The food is delicious!! The service and atmosphere were great. We were able to enjoy our gathering along with the food. We had chicharrón, the breakfast special, fried cheese, chicken soup, coffee.  We were really happy with the food"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzZ0p5cU5nEAE",
+            "text": "I’m Mexican and I love Dominican food, this is hands down the best Dominican spot in the neighborhood!! I always come here to get a lunch special at the food bar. Today I decided to eat in and it didn’t disappoint!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlbzlMdkhBEAE",
+            "text": "Over priced and very salty food, stay away.\nThe service was horrible!  Deserves! ZERO STARS!!\nDon't believe the 5 star reviews all friends and family.  Their combos are expensive starting at $30-$45, doesn't include 2 liter soda or salad like most restaurants (salad is a choice over a small container of hard Maduros) 3 cans of soda you get less soda, do the math.  Rip off 67 oz VS 36 oz.\n\nThey don't have the pernil combo so we ordered the whole chicken that was very small, dry and very salty. The beans in the rice was hard.  The Maduros were not sweet, hard not ripe.\nTheir large chicken soup at $9 had very little chicken, mostly potatoes and very salty.  The pernil lunch combo was $11 and very little pork and no crispy skin.:-(\nThey are over staffed but none one wants to work. They make you wait even though they have no customers so they can talk to each other and look at their phones.\nThe woman with the glasses is very rude and contending.  She kept ignoring us and pretended not to understand us.  Had to beg for napkins and utensils for the to go order.\n\nCharged us .50 EACH for small sauces on the side and .25 cents EACH for slices of limes!\nNO BUENO!\n\nSkip them and go down three blocks on Broadway where they have tastier, cheaper and friendly choices."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYbTdMdjJnRRAB",
+            "text": "I paid 45$ for Moro and chicken chunks!!! What a scam!! The other items ordered did not come in,  asked for a side of beans and a 2 liter soda and salad. When the order arrived and i noticed the missing items, I spoke to an unwilling to help employee, whom gave me a bunch of excuses as to why the items did not arrive. So I just lost my money, Never ordering from this place again!!!! (AND TO MAKE MATTERS WORSE I FOUND A PIECE OF HAIR IN MY FOOD!!!)"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKeFlIdDZBRRAB",
+            "text": "The sancocho and the seafood soups were out of this world!! They are obviously homemade. My husband and I loved our romantic lunch experience. We both had sangria! We would like to thank the afternoon staff which provided top level service and amazing food and drinks!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNiOE9YZ05REAE",
+            "text": "Great customer service our waitress was attentive\nfood was good (small sancocho)\nI would def come back"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwcUpYTHRRRRAB",
+            "text": "This place has some really good latino food.  The oxtail and beef stew freaking great.  Even the arroz morro and simple white rice so damn good.  I highly  recommend this place. Also the service people are great as well. Top notch"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURabXIycU1nEAE",
+            "text": "We were randomly passing by this restaurant and decided to give it a chance, the menu was extensive, and our waitress, Leidy, recommended the tri-fongo; and it was delicious. Great service. Definitely coming back!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3MklfS3hnRRAB",
+            "text": "My dad and I used to be regulars at this restaurant! I just love their cleanliness and service! The location is also convenient as parking is available and the neighborhood is relatively safe.\n\nIn terms of the food, it used to be delicious! Every plate would come out promptly and fresh; like a home cooked meal! However,  the food has become very salty and highly seasoned. I understand that Dominican food is flavorful, but I think it is too seasoned! ☹️"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJcnJtUk5BEAE",
+            "text": "We loved the food, but I didn't like the automatic surcharge - table of 3 - on a Tuesday night - decent sized bill as we ordered 2 bottles of $45 wine.  I was prepared to give our waitress, a classy woman with short blond hair who took care of us, a much larger CASH tip, but this place slapped a $30 surcharge for ... I don't know what on our bill.   If we were a large party I could understand, but 3 guys after work?  If you are going to determine my propina then that's how it goes.\n\nEverything else was fantastic -  food, service, atmosphere, convenience."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyOXBHU1lBEAE",
+            "text": "The food was delicious. I had the red snapper and my wife the skirt steak. We loved it. I also had a glass\nOf Sangria, to me one of the best that I have ever had."
+        },
+        {
+            "date": "11달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNQc2NmTjJ3RRAB",
+            "text": "Tuve una muy buena experiencia con la familia, éramos 18 personas y nos acomodaron uniendo como 6 mesas para que comieramos todos juntos. Muy buen servicio y muy buena comida. 🔥🔥🔥🔥👍🏾🎉🎉"
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvdG9ldVZ3EAE",
+            "text": "He comido ahí varias veces y la comida siempre me ha gustado. Solo he notado que, cuando ordeno para delivery, el pollo al horno de Roasted Chicken a veces llega seco, como si no fuera fresco y ya estuviera viejo.y la sopa estaba muy grasosa Ojalá puedan revisar eso."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURodnF1NkFnEAE",
+            "text": "Great food!! Fried fish, boneless chicken chunks, salad, chow fan rice, sweet plantains, beans with sweet potatoes, passion fruit juice. Many options! I order all the time, seasoning is good wow!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURONEtHOGZREAE",
+            "text": "Buena comida , excelente servicio al cliente.\nEl lugar comodo y mui limpio poreso meguta comer mucho ahy en Tina. Att Bory Flow"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3emVMSUtnEAE",
+            "text": "I had the Sancocho which it was very tasty, the restaurant was very clean there were some people sitting outside enjoying themselves."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZMGM3eDVRRRAB",
+            "text": "Ordered food for delivery for special occasion, it was delivered on time, and the food was delicious.  They do an amazing job,  will be back for more!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYOU5MMWhnRRAB",
+            "text": "I order delivery most of the time. The food is good most of the time and quick. On several occasions i have placed orders for delivery and staff forgets to place orders. This has happened to me more than once. The first time this happened i called them twice asking for status of my order staff says it was on way but food never arrived after waiting for two hours. Second occasion was the same i placed ordered call for status staff said it was on the way i had to call again a second time and was told my food was not ready after more than 1 hour wait. Hopefully management can fix this issue."
+        }
+    ],
+    "reviews_count": 72
+}

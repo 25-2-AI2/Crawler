@@ -1,0 +1,54 @@
+{
+    "name": "Taiz Spot 2",
+    "place_id": "ChIJM2JUsQv1wokR9XBQIvgSR5g",
+    "grid": "BX11",
+    "address": "655 Morris Park Ave, Bronx, NY 10462, USA",
+    "rating": 4.2,
+    "user_ratings_total": 16,
+    "phone_number": null,
+    "reviews": [
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmNHItNVZ3EAE",
+            "text": "Food is dry and cold was not able to eat the food."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzci1PckhnEAE",
+            "text": "Everytime I order from here they burn the bread."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNWd29EQ05REAE",
+            "text": "Best sandwich spot and juice"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURsMWNHRThBRRAB",
+            "text": "The cleanest juice bar and cafeteria in the area.\nBy far my always go to spot for Mutabag and Cocktails"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ1X0xhSjNBRRAB",
+            "text": "Very good variety of snacks and sweets. Nice spot."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKNGNLSmVBEAE",
+            "text": "GREAT SMOOTHIES"
+        }
+    ],
+    "reviews_count": 6
+}

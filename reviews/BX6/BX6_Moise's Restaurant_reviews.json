@@ -1,0 +1,558 @@
+{
+    "name": "Moise's Restaurant",
+    "place_id": "ChIJT0vls4D0wokRxULTGO2eD9Y",
+    "grid": "BX6",
+    "address": "2389 Arthur Ave, Bronx, NY 10458, USA",
+    "rating": 4.4,
+    "user_ratings_total": 604,
+    "phone_number": "(718) 220-5735",
+    "reviews": [
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGck5FOTZhamhFVW1reFIzUXlNRTlPV2twRVJWRRAB",
+            "text": "Everything was delicious, I really liked it, except that the onion sauce and the fettuccine were too salty for me!"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Oc2FHOWlZa2R4TkRaeWNIbDJWM1EwYUc1c2MxRRAB",
+            "text": "Authentic fresh! The pasta Al dente! The sauces rich and well balanced! Amazing flavoring impeccable ingredients and the real deal! The owner Moises is Hands on this is a rarity in this industry. He’s the chef the bartender the server. This is what is missing from many nyc restaurants. Love is what is the special ingredient in this place. Enjoy! Thank me later!"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GYVYxaGpRVWxGWmt4SmFuQTNiM0pCTW04MFNXYxAB",
+            "text": "From the moment you step into Moises Ristorante on Arthur Avenue, you’re embraced by a genuine Old-World Italian warmth that makes any occasion feel special. The ambiance is cozy yet lively, the kind of place where the host greets you like family and the staff remember your visits. The location in the heart of the Bronx’s Little Italy neighborhood only adds to the charm."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCUFVVOXdWamhyVWpkc04zRm5OVnBUYVhkQ2JGRRAB",
+            "text": "This place is truly incredible, the foood was amazing, the atmosphere was incredible. The service top tier. I will back, especially for their specials."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWdE9YWlpZbHBuVDJwblQxOXFVM3BUVjNONlpWRRAB",
+            "text": "amazing experience, great food and excellent service! will be returning"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25JM1VHRmtlSGs1ZFhsSmRUQjBNa3BIUjBSaGRYYxAB",
+            "text": "Amazing!! Will be back 😁😁"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KNGRtVXllV2g2TjBOVVdWTXdRbnBXUlRFeFEzYxAB",
+            "text": "Our first time and food was and drink were good but service needs lots of improvement. We never had waiter come back at all. We waited a long time to finally ask for the check. Hope the service improves so we can go back but we'll wait a long while. We will give it another try."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tvNE5EVTBlVEl6U0U5bk1Xc3djbFF6Wms1MWVYYxAB",
+            "text": "Amazing Sunday with family we order pasta with meatballs is out other planet definitely I’m coming back"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWdGJrbGhYMlJKV0c1QldGVm1UbTlwTUhaU1QxRRAB",
+            "text": "Moisés is one of a kind! His hospitality and the environment in this place is one a kind. Moises makes drinks like if it’s the last drink in the world. His drinks are A HEAVY HAND!! (IYK IK). If you are lucky enough you will meet this amazing human named Joesph(Joe ) and he is a hidden Jem in Little Italy. This place is a 10/10."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wYVpFaG9NbVZ3T1RoS1QyUlJkSFl4VlhvNWJVRRAB",
+            "text": "Beautiful garden, super great food, amazing drinks. Best spot in the area !!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GdFltODRWRXhSWVZsVFNUbHRZa1o0ZWpsMFVsRRAB",
+            "text": "The food was  delicious. Moises is the place to go. The owner is so accommodating and hospitality. We were even given a complimentary shot after dinner.  Moises is charming and funny. Thank you so much."
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGSlIydzRSRmhyWkVwd2JYSlBlbXM0YkhOamFtYxAB",
+            "text": "Amber was great. Her services was perfect. She made us feel so welcomed and was very professional. Thank you so much! I also want to add that Moise made my family and I feel right at home. The team there went above and beyond."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkTGMwWm1WMGcxT0hOQmRISXlPRVV4UzNSWFYwRRAB",
+            "text": "Love it so much here. service was phenomenal as was the food. will be back"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205bFUxWTNORFl3VjNwRlNHeDNUMGhHVm5GcmIwRRAB",
+            "text": "Excellent service. Friendly and the food was fresh and delicious.   I will be visiting again."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taMFoyRTNURXRGUjNjeGRYWmFaWHBYZFMxb1kzYxAB",
+            "text": "Great food, great wine, great service. Owner is kind and welcoming, wonderful meal."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25salZYZFFOa2ROYzBVNGFGRlhiemd0WWpsWlpFRRAB",
+            "text": "Moises is an excellent host with an incredible pasta!!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT201NGEwWklNVzAyZERaUGFrVmtYMEpSTjB0MWFIYxAB",
+            "text": "Excellent environment for a family celebration"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSTk1uRnZSMk54YkZsclVtWnBhMnM1UkhkRFZrRRAB",
+            "text": "Great food…great drinks. Awesome service. Thank you to our server Amber!!!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poT2RIcEVSM2x6Wkd4M1dXZEVTRTlqUTJSS2FVRRAB",
+            "text": "I love this place!"
+        },
+        {
+            "date": "수정일: 3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvN19QNzdnRRAB",
+            "text": "Such a fun atmosphere and friendly service, also amazing deals"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xob2NFUXdUa3g1UlZKSWR6Sk9jRmQzWjB4aGJYYxAB",
+            "text": "Very friendly staff, delicious food, outdoor seating in front and back, and enjoyable happy hours are worth a visit"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tWTVltbzNMWEY0YzBOalEzUkJYMWxpVDJOc1QwRRAB",
+            "text": "The service was good, very attentive! The drinks were very strong! The food was great and loved the price"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSM2JsOWxjbkZuU0MxSFlsVXhORUYxUkhjMWFWRRAB",
+            "text": "Them drinks is strong and the food is great 10/10 would do it again"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0d1RWWXRiRzU2TkRrMlFsUklTRGxZV1hoVWNHYxAB",
+            "text": "Is a nice place and friendly people"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsVWQxOUxhRzFoWVdaQmMxUXpUR05QU0VNeVJtYxAB",
+            "text": "This restaurant by far is so amazing, the food, service, atmosphere, waiter, location, everything was so freshly made and the margaritas were sooooo good. My waiter was the sweetest most attentive person ever, his name is Moises and turns out he is the owner of the place. If you are ever in New York I would most definitely recommend you stop by because it was by far the most amazing food I've had!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KbmNuazNZMHhPWVU5bGFrZEdZMWhwVlhKMWVtYxAB",
+            "text": "Wish I knew about this place sooner!!! Best service and the food was amazing!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OSmJXSktVRmR4YlRCVFptZEpOa3gwVG5wRWJYYxAB",
+            "text": "Great food and vibes! Definitely plan to go back :)"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOa1QwVnVRMGxNYm5BMExXUlFjalZ4WVVGcmNXYxAB",
+            "text": "Great place, relaxed, wonderful food."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paNFRqaHhOM1pyWVRCckxURlVhMDlJYWkwNVgwRRAB",
+            "text": "This restaurante is hands down the best in the BX! The food is amazing, the service is amazing, the drinks are amazing!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taRk1uY3hiemxVVVc5aWFFZFlPVFZsWlY4eFpsRRAB",
+            "text": "DRINKS are AMAZINGGG 💕💕 10/10 worth it and strongg. food was great i would definitely recommend coming here"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWS1NYa3lTbUZzUmxCSmNtcHFRUzFYZGtST01FRRAB",
+            "text": "Amazing service! A real warm and cozy place with a fun vibe where everyone is very attentive. The drinks are outstanding  definitely try the spicy tamarindo, it’s a must!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NeU9FVTJaVWRsYXpOaWRXOXBkRjlYTm5KcGRWRRAB",
+            "text": "Best service ever , Moises Is the best !!!!\nLove the patio and the drinks are best"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWSVlsbEthM2hPVWxsbFRESldXVk5tU2tGbVRrRRAB",
+            "text": "We were 9 people for lunch, and it was The worst meal I ever had in my entire life!\nI don’t even know how to describe how bad the food was."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SYWFHcFJOSEZ4T0cxamFURjVWMDFqVEZkT2NsRRAB",
+            "text": "BEST SERVICE!! Amazing drinks everyone is so sweet"
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oWlQwSldWalUzTVhWR1VqSlVZV0kyTW14elZrRRAB",
+            "text": "Super delicious!! Super delicioso!!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSNWVtUlBNMDlEWldabFkycGljbUp1ZFhkNFdYYxAB",
+            "text": "Muy rico todo de verdad que si, y lo mejor de todo, buena atención y servicio !!!🙌🙌🙌🙌🙏"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25seWRIQlVkMFU1YkdKMU1WaDJjbFZTVW1VeFpHYxAB",
+            "text": "This is a place very pleasant. Good food, good service, good atmosphere. Its very nice and and backyard is very calm and perfect for a family event. Thank you Moises and staff!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSVmVFNUthazFvWVZrMFdUUXROVXhHUWtOdmFrRRAB",
+            "text": "Moises is very friendly and has excellent customer service. Loved it 😍"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0RVlXeFdUSEp4V1VGNVRESmpjbWxoY0RRdGNWRRAB",
+            "text": "I strongly recommend this restaurant, the service is excellent, the place is very well located and the food was the best 👌🏼 everything was delicious. Thank you so much 😊"
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJTGh4NXlNOTluV2NnEAE",
+            "text": "This place is fantastic! This place is always welcoming and always a great experience. Even though i don't come very frequently with my family, they always remember us. Atmosphere is  nice and not overwhelming, staff is very patient and friendly. Food is always freshly made and beautifully seasoned.\nWould absolutely recommend to others.\n\nUpdate: Had a variety of drinks here the i have to say, the passion fruit margarita with tajin is absolutely to die for! I've had that drink in other places and this place is the best. Extremely delicious and absolutely worth the order"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KMWVFaDZlRVJPY2taUmNFeG5WalExVFZjNVNrRRAB",
+            "text": "Lovely waiter. Friendly management. Food was awful. I had carbonara that tasted like it was made\nWith Lipton onion soup mix. The pancetta—which o think was straight up\nKey foods bacon chopped up—all fat."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsVlFWRkVjV1p0VDFadE1ERnpaMFJUYVZSZmVuYxAB",
+            "text": "Moise's himself came outside invited us in and a spectacular food journey began. The chef also came to check on his delightful dishes. The bolognese was fantastic.  Atmosphere quite pleasing and made for a fantastic visit. Thanks for the hospitality.  10/10"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1MWRIWjFaWHBFZG1waloyVjZNazloVUVFMmFXYxAB",
+            "text": "Took my mom here for her birthday, told the owner but he seemed distracted and didn’t do anything. Was more concern with drink offers and talking about deal for Fordham students which we are not. Ordered Caprise salad (missing balsamic) and grilled  watermelon salads (very little watermelon) nothing really impressive. Table bread was actually pita. Had chicken alfredo and the lasagna both plates close to $30 simple plates. No pictures because they really weren’t that impressive, just overpriced mediocre food. Had a child in the party and the pizza $19 was not ate by her bc it wasn’t child friendly or any good. Doesn’t look like the picture of previous pizza from this place."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205dVZXRlRiRUkwYVU4MFJIRjRRVlpVUnpnME9IYxAB",
+            "text": "I plan to come back.   The staff is friendly.  Did not have to wait for the food.  Enjoyed the music.  The food was filled with flavor.   Best pene al vodka.   Punched with flavor.  Rigatoni  was good also.   I recommend the place"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVNVNFSk5ka3h4WjFGS1VuSjNXa0prV21oQ01sRRAB",
+            "text": "By far the worst chicken parm I’ve ever had in my life."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQVGkzOW56dl8yeElREAE",
+            "text": "I loved everything about the place. Amazing service and food. The owner is very cool."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VLbXpvYmVxMTllSXNBRRAB",
+            "text": "Food was amazing! 10/10 recommendation!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOT2JxNXpPdHFDdzZBRRAB",
+            "text": "Love it!! Food was amazing"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPT1Y0dmpRNm83c1N3EAE",
+            "text": "Amazing service would definitely recommend for hanging out with friends"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xJemNsUnlaRlZOV213d00xUTFUazVsT0ZkSVZsRRAB",
+            "text": "This was a great experience and the service was amazing."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wU1IwbDJXREZsVVVGT2JHOUZjbTlHTUZSSGJXYxAB",
+            "text": "Beautiful atmosphere and good service. Food wasn’t anything crazy . Really expensive wouldn’t say it was worth it at all . The only thing I actually enjoyed was the free bread and sauce"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNfbHVfMkxnEAE",
+            "text": "Moise is a warm and friendly host. I ordered the lunch special. The pasta soup was well seasoned and had nice tomato flavour. The ambience was good too."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmNGR6M0tREAE",
+            "text": "Moise’s is one of those places you never forget.\nIt’s run and served by the very owners who make you feel good and proud for choosing them.\nPizza is very good, pasta is terrific and ambient is adequate for families and couples."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvaGIyTnlRRRAB",
+            "text": "Richard shared his favorites meals and drinks. We all had something different and enjoyed every bit of it. The sangria was strong and perfect along with every bite of pasta."
+        },
+        {
+            "date": "10달 전",
+            "language": "fr",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmNTVuMWJBEAE",
+            "text": "Restaurant Italien dans une décoration et une ambiance authentique en plein little italy dans le Bronx .... Certain diront que c'est le vrai quartier italien à NYC et non celui de Manhattan :)... En tout cas le quartier du Bronx ne se limite pas à une rue comme celui plus au sud à Manhattan...\nSuperbe accueil de la part du propriétaire qui a plein d'histoire à raconter, c'est très plaisant. Les pizzas sont correctes et le service est rapide.... Le prix est très raisonnable aussi.\n\nA tester si vous allez à Little Italy dans le Bronx."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2dC16eHBnRRAB",
+            "text": "New place my partner and I tried. We ordered the penne al vodka and fettuccine Alfredo and we loved it! We would definitely come back again. Definitely a get place if you want to get amazing pasta!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmOXR2OGxBRRAB",
+            "text": "Should've kept walking when the owner came out to us to come in, hands clapping and very animated. Ordered the Clams Oregonata for appetizer and chicken franchaise and it came with spaghetti, but I wanted marinara sauce instead of the franchaise sauce on my spaghetti.  The owner, Moises, immediately scolded me saying NO, that I must have it with the franchaise sauce to which I answered UH, NO SIR, I want the marinara Sauce.  He then shook our hands and stormed off to the kitchen. The clams came out and immediately, I knew, these were frozen, and they were burned. The clam was old, the butter oil was old, the breading was old, really disgusting. Then the other young man named Angel came to us, and apologized profusely, asked if I wanted another appetizer to which I declined. The chicken had ZERO flavor, and the marinara sauce was simply tomatoe sauce. We asked for the check, and they just went back to the table they were sitting at to continue discussing menu options for another establishment!  Once again we asked for the check, to which again, he\nClaps his hands together and jumps up, really bizarre. STAY AWAY!"
+        },
+        {
+            "date": "수정일: 8년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBOTZ5VXpRRRAB",
+            "text": "An okay Italian place, huge patio. Food was average. The cleanliness in this restaurant could improve tenfold! The sangria glasses were so dirty and full of fingerprints we thought they came straight from another table! The pitcher had so…"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvaGNPdUdREAE",
+            "text": "Food was amazing and service was incredible. Richard our server was so great. Will definitely coming back."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoN0lQdl9nRRAB",
+            "text": "We had a delicious lunch here, while visiting Arthur Avenue. The staff was very friendly and the food was delicious. They have a lovely garden seating area in the back. I had a Gorgonzola and pear pizza. It was awesome!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKLW9hNm93RRAB",
+            "text": "This place was amazing!! Sat out back on the quaint little patio that they have.. Food was delicious, the lasagna melted in your mouth!! The marinara sauce(or whatever it was called) they serve with the bread was incredible and was sopped up by the 2 of us in a matter of minutes..the waiter was super efficient and nice even though they were short staffed.. he was attentive and you would not have know they were short staffed except that he told us apologetically... DEFINITLEY  going back!!!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ4LTd5akF3EAE",
+            "text": "My boyfriend and I just went here yesterday and it was a phenomenal experience. The outdoor patio is beautiful and nicely spaced apart; on a quiet day it's peaceful and intimate. Our waiter George made the dining experience superb with his…"
+        },
+        {
+            "date": "수정일: 7년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRcnYzU1VREAE",
+            "text": "This is the worst food Italian food I’ve ever had. Do not go here. Go anywhere else on the street. We saw them bring out the frozen bags of ravioli, which wasn't was served hard. They put sliced cheese on my gnocchi, the gnocchi was tough…"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvaGEyQnZRRRAB",
+            "text": "Moises has the best pasta in the area. Today, i did the linguine with clams, and it was excellent. Richard was the nicest waiter and was very attentive.\nPlease come here if you want quality food"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKeUpXNnhnRRAB",
+            "text": "Had drinks and appetizers here and the food was super delicious and fresh with obviously high quality ingredients. Amazing service and you can tell the staff know what they are talking about when it comes to wine and food. The ambiance was incredible as well with a lovely courtyard in the back that feels secluded, something rare to find in the city."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURndy11NVZBEAE",
+            "text": "I recently had the pleasure of dining at Moises, an Italian gem in the neighborhood, and I must say, it was a wonderful experience with my boyfriend. I visited on a slow night, so it was quieter than usual, but the ambiance was still inviting and warm. The wine selection was spot-on, with choices that suited my taste perfectly.\n\nThe owner really made the night special – he was incredibly friendly and attentive, which gave the place a homey feel. Even though it was quiet when I arrived, I could tell his energy would remain the same even on busier nights. Since it was a slower evening, he was generous enough to offer us something on the house, which was a lovely and unexpected gesture.\n\nThis was my first time visiting, even though I live in the area, and it definitely didn’t disappoint. I can’t wait to return, especially to enjoy the patio when the weather’s nice. It’s definitely a spot worth checking out, and I’m already looking forward to my next visit! English and Spanish is welcome! Also love their wine selection!"
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLZ1A3UFRBEAE",
+            "text": "Attentive service, affordable, good selection, fresh, homemade pasta and a smaller intimate setting without the crowds. Choice of backyard covered patio, sidewalk or indoor seating.  The homemade limoncello was amazing."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCLXB2YWZnEAE",
+            "text": "I’m a fan of Italian cuisine and this place is just a small piece of Italy in the Bronx. The food is really tasty, their signature coffee is fantastic and 5+ star service. George was our waiter and he gave us the best service. Really nice person to talk to. My boyfriend and I loved this restaurant and are definitely coming back."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvOTZUQW9BRRAB",
+            "text": "Have to share my experience at this Establishment! FOOD was  we had The Mussels\ntequila  delicious Drinks are fenominal\nStaff on point and professional\nRichard prepared US a Mezcal drink that was just amazing that Tajin and tamarind absolutely delicious\nDefinitely returning soon 😌\nAnd most importantly have to say Thank you so much for allowing my fur baby to be  with us while we were eating  that was definitely the best part"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNva3VIbHJnRRAB",
+            "text": "Disappointing experience overall:\n* prices higher than any restaurant we went to in Manhattan - 175$ for 2 adults and 3 kids, no appetizers or deserts, just a drink and a pizza/pasta per person!\n* 29$ \"side dish\" added to the bill, after questioning turned out it was an automatic service fee that nobody informed about up front, hidden like that on the bill\n* despite the prices the food food was mediocre: pizza margherita with almost no cheese on it, dry dough; pasta portions small\n+ the waiter was polite\n\nNo reason to go there for food, stay in Manhattan for better, nicer, bigger & cheaper"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURndzhlMkVREAE",
+            "text": "A great spottt! I don’t usually venture to the Bronx, but decided to check it out for dinner with my girlfriend since it's near her place. Moises set the perfect vibe, laid-back, not too crowded. Our server, was super chill and made the experience even better. He was super friendly, kept things lively, and even surprised us with something on the house. The pasta was great, and the whole evening was a great. Will definitely return hopefully the patio will be open next time."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3bm95MXVBRRAB",
+            "text": "Took my family to Moises italian restaurant. We wanted pizza for the kids; however, they only sold personal size pizzas at 18.00 a pop.  I ended up ordering chicken parm dinners for everyone.  I asked for garlic rolls and was told that they dont make garlic rolls. The dinners arrived and I thought it was a joke.  The chicken was more fit for a sandwich.  The portion of the pasta was so small.  I thought we ordered from the kids menu!! The sauce tasted like water down ketchup.  We asked three times for garlic powder.  The waiter finally returned with some kind of melted garlic butter and then charged me for a side dish.  I made him take it off the check. I walked by the kitchen and saw the cook using his bare hands to pick up cooked pasta from the prep area and put it into a container. So this is a so called Italian restaurant that does not make real pizzas, has no garlic rolls, plays spanish music and has to bribe people to leave a good Google review to receive a 5% discount.  Please do not waste your time or money on this DINER.  This is no italian restaurant and should not be in operation in the little italy area. The photos online looked NOTHING like the food I received!!!!!"
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURpaVlpdzdRRRAB",
+            "text": "What a cute place. I really enjoyed the food here. I had the margarita personal pizza. It was so good and fresh. They treated us very well and were very hospitable. I would definite recommend this restaurant. It makes eating out during a pandemic delightful."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM4bHJLcElREAE",
+            "text": "This restaurant made up for my bad experience in Bronx Little Italy yesterday. The outdoor patio out back is private, cool and elegant, the service and food are impeccable, discreet and respectful, and the ambiance meets the expectations of…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaODdiRF9BRRAB",
+            "text": "Went to diner here and sat in the patio. Food was delicious and service was great. The server was knowledgeable of the specials. The food came out on time and was cooked to perfection."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBM19hcTV3RRAB",
+            "text": "Expected a different experience and was highly disappointed. Food was decent but the place looks dirty and unsanitary, service was horrendous not once did our serve came to us to ask how was everything. I had to ask for a change of plates…"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZNHR2cDdnRRAB",
+            "text": "Came here after work for drinks and pizza!! The pizza was delicious, the margaritas are made with love. Richard, our host/waiter was amazing. Definitely coming back again."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3cm9qMU1BEAE",
+            "text": "We should have known from the cheep chairs and the Spanish music playing that this would be below expectations to say the least. The place was almost empty (another blatant red flag) we saw the menus and noticed that many classic Italian staples were missing from the menu such as full sized pizzas, garlic bread, and cannolis. The water was room temperature tap water and when asked for ice it had sludge in it. We ordered chicken Parmesans and when the food finally came out the portion size was for a kid, the cheese was microwaved and the sauce tasted like ketchup. This was by far my worst restaurant experience ever and a total waste of time and money. Please go literally anywhere else."
+        }
+    ],
+    "reviews_count": 78
+}

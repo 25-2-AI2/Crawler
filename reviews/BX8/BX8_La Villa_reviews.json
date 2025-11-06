@@ -1,0 +1,439 @@
+{
+    "name": "La Villa",
+    "place_id": "ChIJ56YS_yjzwokRAPQyD9tjFmY",
+    "grid": "BX8",
+    "address": "240 W 231st St, Bronx, NY 10463, USA",
+    "rating": 4.5,
+    "user_ratings_total": 123,
+    "phone_number": "(718) 758-4790",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21RMlUxZHJkV2RLZFVRMmVYQkRaR05mV0haRVpFRRAB",
+            "text": "I went to eat here on Saturday and was pleased by the food and service by my server, Nancy. Throughout our meal, we kept getting interrupted by other servers, which gave off the vibe that we were being rushed. Being asked occasionally is okay and definitely more welcoming compared to being asked every 2 minutes. The restaurant is great and so was the service provided by Nancy, but this issue should be resolved between all staff."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taWU5YSm5aMVkzV1dweGFtUlJRalYwUjJsYWVXYxAB",
+            "text": "A gem, food is insanely delicious, fresh and clean. Vibes are immaculate."
+        },
+        {
+            "date": "4주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSSU9FdGxNMDh3TkZOUU5HRnRiR2xIUkhCM05uYxAB",
+            "text": "Muy bonito y agradable lugar, muchas gracias a la mesera de lentes qué párese enojada q nos dio un muy buen servicio y excelente atención.\nSe nota cuando les gusta hacer su trabajo"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSbGQwOTFhbDk1ZVhaSUxWTTNhV3BrUTJsVllVRRAB",
+            "text": "My experience overall was great, the service was immaculate. The servers checked up on me almost every 5-10 minutes, I enjoyed that. The owner made sure I had a great time. My favorite spot in RIVERDALE BRONX! 🙏🏼💯"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKNFpqaEJNa1E1ZEZSU09VSnNVMVJqYzJ4NU9WRRAB",
+            "text": "Muy buen servicio, buena comida, buen ambiente. La comida super rica. Hay un happy hour espectacular de Lunes a Jueves. 100% RECOMENDADO!!!!! 🤤😋👌"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25KUWVqa3dWRGxhVW1sV05XeFhkMU0xVDNsT05WRRAB",
+            "text": "La primera vez y todo chevere regresare pronto recomido mucho los tacos de pescado"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pGNE0zVlRhSFZYU0ZvMldtRnNhR1JqZFVoUlpVRRAB",
+            "text": "Muy buena la sopa de res todo esta al 100 💯"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKSlpuQmZNbUZoY1daRlZEQnhjRWRZZEZwMmIwRRAB",
+            "text": "Soy colombiano y la primera vez que entro en este lugar hermoso que ya avía escuchado mucho sobre él y está chévere todo 100 al 100"
+        },
+        {
+            "date": "1달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aV1NGaHNlbUZxTWpKTU9YcExNVUptUW1KVFRtYxAB",
+            "text": "Este restaurant me lo recomendo una amiga y ya hace varios meseses comemos ahí, y de vez en cuando pedimos delivery. Muy buena comida y ambiente. Lo recomiendo 😋"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxRlJFTmZXRlEwV25WT1NIZExlbmhUUkhsaFJtYxAB",
+            "text": "I have ordered delivery from here 3 times so far (both online and by phone), and the food is really tasty and fresh. Delivery has been quick. Portions are generous, and sauce is given on the side, so I can put on just the amount I want. I would definitely order from here again."
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xZdGJrcFBPV1pVVnkxaFdHWXpibE5vUTNWVFIzYxAB",
+            "text": "Me encantó la comida, regreso otra vez con toda la familia"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Fd1pYaFJkMjFZZVU5SWNqbFFjRmRvVWxkZk1sRRAB",
+            "text": "They handled everything with ease and expertise."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvX0pQZHVBRRAB",
+            "text": "The prices, the food, the service, all great. I will say, the drinks were more sweet, than strong, but other than that 👌🏾. We ordered queso with jalapeños, which actually comes as a fondue with tortillas. It was soooo good. We ordered a three meat place that came with rice and beans, a steak burrito, al pastor taco, and quesadilla between the four of us. Everyone enjoyed their meals. They were big enough and tasted good."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3M2RtNWhRRRAB",
+            "text": "I was there on Monday, and at the entrance to the bar, there was a group of very loud drunks with the music so loud it was impossible to hear my friends' conversations. It was a very unpleasant experience and disrespectful to all the customers when it's supposed to be a family atmosphere. I really hope the managers of this establishment do something about it and prioritize their customers, not just their friends."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3aV9HOTRRRRAB",
+            "text": "Good ambience and service. If you enjoy karaoke this is this place to go during the weekend"
+        },
+        {
+            "date": "8달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURnb09EcGxBRRAB",
+            "text": "La comida es muy buena al igual que el servicio, hoy pedí una pechuga de pollo en salsa chipotle con camarones y champiñones, un lugar muy agradable, recomendado."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnaXN1RzBRRRAB",
+            "text": "We been meaning to come here for a long time, knowing people who've come from another restaurant- and WOW! I'm so glad we did!! My drink was amazing!!! We had guacamole with chips, Jalapeño poppers to start and our entrees were, Salmon a Chipotle & Pollo ala Mexicana. Our food came fast, hot, and tasted perfect! Oh and we didn't know that Fridays are karaoke night!' Soo the music was great with very talented performers! Our waitress Syndy Maine  was friendly, thoughtful and professional, which makes us really want to come back again and again! And btw we've tried many Mexican restaurants and know great Mexican food- so if I say come here, it's because I highly recommend!!"
+        },
+        {
+            "date": "수정일: 9달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2ZzdMN19nRRAB",
+            "text": "Excelente comida tuve la oportunidad de probar su parrillada con sus ricas salsas, el ambiente familiar y para los anochecer en el Bronx, fines de semana de karaoke ❤️"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmNUp1c0N3EAE",
+            "text": "Amazing restaurant with kind and friendly attentive staff. Food & drink were delicious, and the energy was great. Will definitely come back. No mames wey!"
+        },
+        {
+            "date": "수정일: 10달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3bnZhS01nEAE",
+            "text": "Nice looking restaurant quick service. First mexican restaurant Ive been in that doesn’t do free chips and salsa. Edit I did ask for some and they said there was a cost for chips and salsa"
+        },
+        {
+            "date": "11달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQbzRuU1dBEAE",
+            "text": "La comida malísima 🤮"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzN0p5YUZBEAE",
+            "text": "Ordene 3 servicios de flauta y me la enviaron quemada y la carne tenía un mal sabor cuando aprove. Es la segunda vez que ordenó, la primera vez hace 8 meses unos tacos de pescado y sabían con un mal sabor. La calidad de la comida es mal y no respetan el valor del dinero de los demás pague 53.00 dólares y un también un guacamole en un vaso por 10 dólares ni siquiera en un envase regular. Que decepción y perdida se mi dinero./     I ordered three order. Mexican flautas services and they sent it burned to me and the meat had a bad taste when it tastes. It's the second time he ordered, the first time 8 months ago, some fish tacos and tasted with a bad taste. The quality of food is bad and they do not respect the value of the money of the other pays $53.00 and a guacamole in a glass for 10 dollars not even in a desired package. What a disappointment and lost my money."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYMTZpTHpnRRAB",
+            "text": "Muy bueno para pasar un rato de ambiente familiar 😊"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURiaWJyTGVBEAE",
+            "text": "Muy buen lugar para no extrañar a México estando en USA. La comida es excelente y el ambiente también es increíble. El servicio es muy bueno y te hacen sentir como en casa, una excelente opción que no te puedes perder."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURieHFiYWdRRRAB",
+            "text": "Muy bueno todo las meseras muy buena presentación con su vestimenta ambiente familiar"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURiMnZEOGFnEAE",
+            "text": "Excelente"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiaW9mSnFnRRAB",
+            "text": "Excelente lugar! Comida riquísima y en muy buenas porciones, no te quedarás con hambre. El sazón es buenísimo y cada platillo tiene el auténtico toque mexicano! El servicio es cálido y muy rápido. Sin duda un lugar que debes visitar si estás en NY! 10/10 😜👍\n\nPd: Las quesabirrias son una  delicia 😋"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyazZfYjd3RRAB",
+            "text": "Delicious, large portions, fast service, good music"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyd3BIeWpnRRAB",
+            "text": "Service: 5\nAtmosphere: 5\nFood: 1 .\nShockingly bland flavorless chicken fajitas, steak was also completely flavorless. & the guac was a 1.5/5. Coconut mojito was gross. It’s a shame because the service and atmosphere was wonderful"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyeXRyeFJBEAE",
+            "text": "Muy buen ambiente regreso mañana de nuevo el karaoke muy bien"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyeXVxVS1RRRAB",
+            "text": "Excelente servicio y rapidez de las meseras"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMMWRXT21BRRAB",
+            "text": "So tasty margarita 🔥"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUcWFUd0N3EAE",
+            "text": "Had fun with the Kareoke and food was good"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUMnZUcjVnRRAB",
+            "text": "Primera vez q fuimos pero las bebidas y comida excellent..el servicio no fue tan bueno debido q habia mucha gente..lo demas la pasamos super"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqMVptQWl3RRAB",
+            "text": "Very good drinks and service"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqd2YtYmN3EAE",
+            "text": "Buena comida, buena música y buen trato."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURkM3Q2S2tRRRAB",
+            "text": "Lo recomiendo  buena comida  buen servicio"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkMDdtS0xBEAE",
+            "text": "Es muy bonito y amable"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxN3VpNER3EAE",
+            "text": "Solo para pagar esperamos un rato."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWcjc3QjRRRRAB",
+            "text": "Increíble experiencia con la comida las bebidas 🍸 y la atención 100 💯 recomendado."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURSbV96Y1NBEAE",
+            "text": "Good food, very affordable prices and amazing service, so glad you have drinks again cause your margaritas are amazing!"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURWeU1DN3h3RRAB",
+            "text": "El lugar es bonito, la comida uff muy rica y la atención fue muy buena!"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsbG9PN0JREAE",
+            "text": "La comida excelente. Lo malo es que no tenían bebidas diet ni cervezas. El flan es de los mejores que he comido en mi vida."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURGa0tXUEh3EAE",
+            "text": "Delivery guy is very unprofessional and rude.\nI will never order from this place. Food is not all that to take the unprofessional behavior from staff."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNCMU1TSFVREAE",
+            "text": "Always the best authentic Mexicano food. Delicious 😋.  Service is always great as well."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwcmZ1Wnd3RRAB",
+            "text": "Was in the area visiting and stopped by on a Friday early afternoon for lunch. We were greeted warmly and sat down immediately. The young lady tending to us was very nice. We all enjoyed our meals: order of al pastor tacos, chicken quesadilla, and steak burrito. They also give complimentary tortilla chips with salsa. The salsa is good - a little on the sweeter side but so good. If ever in the area again, I will definitely come again!"
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwbWZtRjhnRRAB",
+            "text": "Excelente servicio y buena comida!"
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwZ1pEUmxBRRAB",
+            "text": "Los cocineros son muy rápidos execrllente trabajo chichos nos vemos pronto"
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwanRIajVRRRAB",
+            "text": "A mi Esposa le encanta la comida de este lugar todo excellent 👌 lavilla 240w231st"
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwbS12UnV3RRAB",
+            "text": "Muy mal servicio la mesera le pedí la cuenta y duro media hora para dármela y el lugar sin aire acondicionado 😡😡…"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURKNE5PZmdRRRAB",
+            "text": "Came for lunch on a Saturday and had a delightful time! Such a cheerful interior, and very clean too. Our waitress was so sweet, and we ordered nachos and birria tacos - the birria and consomme were spot on and absolutely delicious. We can’t wait to be back!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURlMDdiY0lBEAE",
+            "text": "I ordered from this place because of its great reviews, i got a steak quesadilla no onions or guacamole and sour cream with a lemonade, and it comes with rice and beans. When the food got here my drink and sour cream were missing. I tasted the rice and beans, and they were over cooked. The quesadilla was good , when I had called back to tell them what they forgot they said they would send it back when they did there was something weird in my drink I don’t know what it was, but I’m disgusted. When I called to tell the lady the issue she didn’t offer no type of refund. I understand we’re human and sometimes mistakes happen , but I did not enjoy ordering from this place."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURobHZqYi13RRAB",
+            "text": "Came here twice and we all enjoyed the food. Fresh and delicious. Friendly service and clean."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSeVlIbGtnRRAB",
+            "text": "We love this place so much we had to bring are friends so the could try it for themselves"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4dGEycDVBRRAB",
+            "text": "Really enjoyed my salad taco! It came in a fried tortilla bowl, and the masa was so tasty!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoanBUM1ZBEAE",
+            "text": "First time I ordered here. I ordered food for take out. I had steak tacos and chicken nachos. It was good. I loved the green salsa it comes with. I will definitely come back to try the dine in service and the drinks as well."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURSMnVfejdnRRAB",
+            "text": "The food was served on a timely matter, and the service was outstanding\nThe waiter Daniela  was excellent and was very knowledgeable about all items in the menu,\nI really recommend this place if you want to taste authentic Mexican food."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlak1QQ2hnRRAB",
+            "text": "If you want Authentic Mexican food this is the place to come . Recently reopened , good service but lacks efficiency . The food was delicious !!!!!!  recommend the Chilaquiles ! 👌…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURldHRidTNBRRAB",
+            "text": "The tacos de birria and chilaquiles were mad good 😋 Definitely would come back for the food and service received"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCbTdEOG1RRRAB",
+            "text": "The food was simply wow!\nReal Mexican taste!\nWe love it a lot!"
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNoM3V6V1ZBEAE",
+            "text": "Muy buena comida mi novia le encantó estaremos de regresos q rapidez de servicio nos encantó"
+        }
+    ],
+    "reviews_count": 61
+}

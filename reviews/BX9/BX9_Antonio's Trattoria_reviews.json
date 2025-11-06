@@ -1,0 +1,586 @@
+{
+    "name": "Antonio's Trattoria",
+    "place_id": "ChIJi0UhO4f0wokR_jzG9KlaPQA",
+    "grid": "BX9",
+    "address": "2370 Belmont Ave, Bronx, NY 10458, USA",
+    "rating": 4.6,
+    "user_ratings_total": 1556,
+    "phone_number": "(718) 733-6630",
+    "reviews": [
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s4MGFGVkxZVUpwTFdaSlNtMTNOakJPZFhaMloyYxAB",
+            "text": "Excellent food and atmosphere. The staff were so kind and funny 🙏🏽 thank you for my lovely experience."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xBdGNIZFhhM1Z5YTBKdWJuWnBSRVpJYlVvdFIxRRAB",
+            "text": "The best Italian food in Arthur Avenue. Their meatballs are soft and seasoned to perfection , and their tortellini soup to die for."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sTkxVOVdSbTVJUlhOWlozbExhbWhoU1VSeVkzYxAB",
+            "text": "I ate here after walking around the zoo, and it was worth the wait. Delicious arancini. Lasagna was very good, although different than what I’m used to. It didn’t have multiple layers of noodles, but the meat and ricotta and sauce was perfect. Enjoyed a glass of wine and the fresh bread and the atmosphere. The service is very friendly and energetic. I’m glad I found this restaurant."
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCUFgxQXlORmsyVW5wM1RuaEdUakJGVjJFNFExRRAB",
+            "text": "Very classy place and the staff had great service!"
+        },
+        {
+            "date": "1주 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SUVpFdEdXRTlwZFhGVlgyeHhRbUZ0TFd4d1VYYxAB",
+            "text": "Arrivé par hasard après une balade au jardin botanique, on s'est régalé! Un super service. Portion généreuse et prix très correct. Je recommande vivement.\nMerci pour votre accueil ✨️"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xSVU1GUlVZMGd5UVVreGExbzJaVWN3UmtkRk4yYxAB",
+            "text": "Food was amazing! Staff was friendly and helpful. Definitely a great place to eat when visiting Little Italy."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21abU1sWkxZMHBzZDNOd1ZWUm1SR1JFY1VoVGMzYxAB",
+            "text": "Fantastic experience. I made a reservation for 14 of us - easy! Called to reconfirm a week prior - confirmed, easy! The staff was incredibly friendly, accommodating, and just all around super! We had a blast for my husband's 40th celebration and couldn't recommend more!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pRNE1IWXpiRVJJU1doeWFsaGtXazV4YXpacU4zYxAB",
+            "text": "Good Place to Go"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WZlkzZENPRFpLYW01aFRYWktZVFZGYlRsb1JIYxAB",
+            "text": "The food was subpar. Maybe they had their third string team in the kitchen but it was nowhere near the 4.6 rating it currently has.  The mozzarella caprese and straciatella apps were good but unremarkable. The chocolate cake was the best course of the meal. I sent back the chicken quattro formaggio entree- the ingredients were conceptually amazing but did not come together. The gravy was equivalent to a jarred sauce. I next ordered gluten free penne with broccoli rabe. The broccoli rabe was fresh but the garlic-olive oil sauce was watery and the penne was Barilla gluten free quality (falls apart.) The service was friendly but doesn't seem like anyone is showing them the ropes. The cost of the meal is not proportional to the presentation and quality."
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGNVRsWlVNSGRIV0dSRldqbFdNbXBzUVV4emVWRRAB",
+            "text": "Great services"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wTWJtWm5hVnBHVmxCaVpVdDNOMFJhVWtOelpVRRAB",
+            "text": "Old school NYC Italian.  Great atmosphere, food and service. Everything was delightful."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKVFFWZGpNbk5vTVc5dVREUldYMlYyVG5kNWNtYxAB",
+            "text": "Great food. Old school feel. Staff was friendly + accommodating."
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN5cVlpYlFnEAE",
+            "text": "Great service and the food is excellent 👌"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oQk9HNVBNM1JxUjFSeGFFbEdVbUZWZFc5V1VrRRAB",
+            "text": "Friendly servers. Made us feel welcoming for godmother’s birthday"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkU2FHNW9NRlZFY1RkMWIyOVFOSFk1ZVhORmExRRAB",
+            "text": "True italian,  the flavors are rich, the prices are good, the service was amazing.  Will go back for sure!"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNNejdMX29nRRAB",
+            "text": "Very good, but not as great as reviews suggest. Owner is warm and inviting, as others say. And servers work hard to accommodate your needs. But the food is more American than Italian. Carbonara made with prosciutto instead of guanciale?!? Would make a Roman gasp! The chicken sorrento was very salty and I could barely taste the eggplant; my friend’s chicken scarpa swam in a red sauce (since when?!); rigatoni Norma was nice but a bit lackluster. On the up side, the wine and Nutella calzone I shared were excellent. The cannoli are from Artuso, which are fab (but it’s down the block so just buy them there along with some sfogliatelle — you won’t be sorry). I would go back to try the pizza and homemade pasta, especially because their fresh mozzarella is from Casa (THE best). That fare might win me over to this place. But this first experience was a bit more hype than heavenly Italian."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wcVVrbHZXVWN4Y0dseFgzazJOR295YmxoWmVIYxAB",
+            "text": "My friends and I have been coming to Antonio’s for years!!! It’s our regular dinner spot - we catch up, have great drinks, and honestly the food is always great!!! I hate go to places once and it’s great and the second time it’s horrible - not Antonio’s!!!\nIt’s a must for Bronxites and visitors !!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tORVIwTjNNR2xhWlY5c1lrUk5jMWhQTTFwV1ZXYxAB",
+            "text": "Love their food !!    Service always friendly and pasta so fresh !!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xjMVZ6ZE5ZbGRrU2paTU1qZFVOams0VWw4elpsRRAB",
+            "text": "Ordered shrimp scampi and asked for it with just garlic and oil/no butter, and got six tiny popcorn size shrimp covered in cream. No garlic, parsley, just cream. That was not scampi. Marinara is cloyingly sweet and pasta overcooked. Also ordered a salad with Gorgonzola cheese and there was no cheese in it. Restaurant smells strongly of mold and Fabuloso or some other kind of scent to cover it up."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3emNGWlVNMkZDTTNoSloyOUtSMGRDVUd4UmFsRRAB",
+            "text": "AMAZING! Everytime we visit family, this is our new place to visit. Service was exceptional and food was out of this world. Thank you for having us and we cant wait to be back!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WclowWnFkamRCY0VwUU5YcFdiSHBMVVRWV1UzYxAB",
+            "text": "Wonderful service, fantastic food!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWVU1IZENjR3haV0ZCSWRqUTFRbWw0WlRVd1NVRRAB",
+            "text": "One of the best places in the Bronx."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVMldrVnRNekkxZURONlIyaEZaalpIYVhOTU5FRRAB",
+            "text": "I had the special fresh pasta with short ribs, absolutely delicious. The pasta was very light. Excellent glass of Chianti."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tab1R6ZzVUbG93TjBSblVqQlhOSGwyZW0xRVkyYxAB",
+            "text": "Loved it, great food, excellent pizza too"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214MmNVRlRiR3BNU2s5Vk5TMTJWV05ZZFVkWVVGRRAB",
+            "text": "It’s fine. No frills. Solid if not top notch Italian mainstays. Prices high for the area. Friendly staff."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOVFoxb1gxblA2dlZnEAE",
+            "text": "A great, relaxing place to eat delicious Italian food. The service is top notch. Highly recommend!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKcVJXVmtiRWN4T0UweVZrZFBOalZSYUc5RGVVRRAB",
+            "text": "OMG THE DESERTS ARE GREAT !!!! Service was great they kept checking up on us to see if we needed anything definitely would recommend 🥰🥰 as you can see food was great 🥰🥰"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSdFgyWjNlbFJ1WDJoTE1VdFlSMWQxU25OcVRXYxAB",
+            "text": "Class Italian cuisine. Just discovered this great place. Food is excellent plus the service staff were extremely friendly. I will be back."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKZVZyTUNtbHVpaVdnEAE",
+            "text": "Great food here! Everything was fresh. The drinks were also good. I would recommend checking it out!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQSDU1Tks2NDdTNDlBRRAB",
+            "text": "It was VERY VERY GOOD. I had chicken parm … succulent tasty hearty. I didn’t eat the pasta, I was too full. The broccoli was really good too—firm and tasty. The cheesy bread 🤩 I asked for A scoop of gelato but got a nice portion, which I happily ate. The cannoli was okay— a lil too much cream. It was dimly lit which complemented the old school music so the vibes were nostalgic. Most importantly the staff was accommodating and genuinely nice. #Fonz I’d return … sooner than later! You should too. Google was right! 😉"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VKV080ZlhmajV1SnNnRRAB",
+            "text": "Fantastic food and nice environment and service. Can’t wait to go again"
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQX0N4YzYxMXFhb2tRRRAB",
+            "text": "Muy deliciosa la comida, recomendable 👍"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQLTJ6ODJLNWN5amZnEAE",
+            "text": "We went there on Mother's Day and the food, service and friendliness were excellent. The fresh bread and olive oil were so delicious. The mediterranean salad was very tasty and the lasagna was served hot and fresh. All the waiters and staff were very helpful and made good recommendations. We will be coming back again for another meal."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJeTFfUHp5aUxidzRRRRAB",
+            "text": "Good evening. May the peace and blessings be upon all. Today, I took my wife to this italian restaurant and ordered a lasagna special. It was super delicious 😋 we both enjoyed it 😋 I recommend anyone to the italian style restaurant. Peace, love, and prosperity"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZNXEtejF3RRAB",
+            "text": "Chicken Francese was so soft and flavorful, it made me cry. Short rib met expectations. House Merlot was robust. Red sangria received mixed reviews.  Staff was attentive and accommodating. Plenty of fresh crusty bread while you wait. Make sure you have dessert, especially tartufo. Children are welcome."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZM09DdEFnEAE",
+            "text": "It's a wonderful place to go and eat"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZd05ySW9nRRAB",
+            "text": "Food was amazing. Highly recommend the garlic knots parm style and Chicken Parm Ala Vodka! However, I do wish they gave more pasta with the dishes. Finished the pasta in a few scoops, seemed smaller than a kids order."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNvMEo2ZDdBRRAB",
+            "text": "The food was very good and the service was too."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJZ2NpbTdnRRAB",
+            "text": "We got Caesar salad, vodka sauce chicken parm, lasagna, a pizza. Everything was genuinely delicious"
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURRN09xblRBEAE",
+            "text": "Great place to have authentic Italian food in the Bronx however the prices have gone up. Their sales tax it’s about 15% per plate way too much. 6/10"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJXzcyVk9REAE",
+            "text": "Food was good, but service poor. Didn't even bring 2 of our drinks.... served bottled beer only, and in the bottle. Come on people... at least a frosted glass to add a little class. Dissappointed."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJMjVxUEh3EAE",
+            "text": "Naming that my low rating is probably because of the meal I chose and also was delivered versus in restaurant - so take this review with that in mind. I paid $39 for the shrimp scampi. There were 7 shrimp- listed on the menu as colossal - very much a reach. Yes, I looked up the size categories of shrimp and these size just in between medium and large. Which, market price would run you about $8 for 7 shrimp this size. Clearly the shrimp is what is making me the most upset- because the last thing I will say is THEY WERE OVERCOOKED. Also very small side portion of spaghetti and some spinach. Picture added for sadness. Very underwhelmed and DEFINITELY not worth $39. If the taste of the meal redeemed it maybe a different story, but can’t even stand out that. I spent nearly $100 on this order and all of the food was mid. I can say, I will never get food from here again."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJN3Z1Zzl3RRAB",
+            "text": "I rarely give 5 stars, but the food was amazing, service was attentive, prices are reasonable, and the atmosphere was warm.\n\nThe bread was fresh and very soft. The sausage Rotini Rugantini was creamy and heavenly. Chicken pharm pizza was absolutely delicious. Fried calamari was crispy. Tiramisu was light and not too sweet (which can be shared with 2-3 people).\n\nRestrooms are clean. Wait time for seats were reasonable. Relaxed family environment. Credit cards accepted. Parking may be difficult.\n\nThe food was amazing! I would come back."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3eDdTUmNnEAE",
+            "text": "Come with your appetite!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3dFpIUzVRRRAB",
+            "text": "We had a good  time and the food was great you want good  Italian  food that's  the place to go"
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIMXR1ZVN3EAE",
+            "text": "One of the best meals I ever had, bar none!  Staff was very attentive without being pushy.\nCan't wait to go again!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRNk9ya293RRAB",
+            "text": "Best food"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRN1BHcmdBRRAB",
+            "text": "The food was great! I was with 6 friends and everyone enjoyed the appetizers and their meals!"
+        },
+        {
+            "date": "8달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnbXFiNGFBEAE",
+            "text": "Mi prometido me trajo acá para celebrar nuestro compromiso en julio de 2024. Amamos la pizza y la lasagna. Todos los empleados fueron amables y la atmósfera fue maravillosa. Definitivamente volveremos."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnb09qTERnEAE",
+            "text": "Food here is excellent. Service is excellent. Very good food."
+        },
+        {
+            "date": "수정일: 7년 전",
+            "language": "ko",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNnbk1hZW13RRAB",
+            "text": "Good taste, warm atmosphere, reasonable price. Fine restaurant near the Bronx zoo. 브롱스 동물원 근처 식사하기 좋은 음식점입니다. 걸어서 8분 정도 거리."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYOG9QTmhRRRAB",
+            "text": "Antonio’s is exceptional! Everything we ordered was so delicious and full of flavor. Hands down, best chicken parm I have ever had! The staff was also so friendly and attentive. Make sure you do not skip dessert! They did a great birthday celebration as well. Thank you to Antonio’s for making our dinner so special!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNydGVyVERREAE",
+            "text": "Eh. After a long day of orchid-traipsing at the botanical garden, I'm glad we veered off the main Arthur Ave stretch to Antonio's because they were able to seat our tired feet right away--but I wouldn't rush back. Our lunch was a mixed bag.\n\nThe good:\n\n- Baked Clams Oreganata: Delicious and generously portioned\n\n- Arancini di Riso: Crisp and savory, but four wasn't really enough (we got 24 clams for the Oreganata, for reference)\n\nThe eh:\n\n- Baked Ziti Sorrentino: Creamy and rich and large, but lacking in seasoning.\n\n- Veal Parmigiana: The veal cutlet itself was very savory and well done, but it came with the same weird spaghetti.\n\nThe not great:\n\n- Spaghetti with Meatballs: The sauce was weirdly lumpy and didn't mix well with the noodles, and the meatballs, though big, were dry and overcooked.\n\n- Frutti di Mare: It had loads of seafood, but again, the tomato sauce was off.\n\nService was fine, but there are nicer, friendlier spots on AA. Ditto the decor, which isn't bad, but kinda dark and depressing compared to some of the fake frescos you'll see on AA."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmcXZuU1VREAE",
+            "text": "Antonio’s Trattoria is a nice spot for an Italian dinner. The menu has a decent selection from antipasti and salads to pastas, entrees, and pizzas. The dessert menu also has a good selection. Some vegetarian options depending on specific selections. A couple gluten free items noted on the menu. Pizzas offer gluten free crusts and we were told they bake them on a separate aluminum pan to limit cross contamination. Also told the use the same water to cook all pasta, each order in its own basket, sort of like how you would use a fryer. Service very attentive and effective. Worth a visit. Well suited for tables of ~10 as needed."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNUbWZmYnNRRRAB",
+            "text": "This place was so good, I had it in my bookmarks for a while and have NO IDEA why I hadn’t been there before.\n\nIt was Saturday and we came with no reservation. I called beforehand to ask if they required reservations and he said we could come, as soon as we walked in the server recognized my voice, which was pretty great, and he sat us at a table next to the windows that he had gotten ready for us when I called.\n\nEvery person that came to our table was incredibly friendly and with such a sweet vibe.\n\nWe shared eggplant parmigiana for appetizer, and let me tell you, IT WAS THE BEST I HAVE HAD!!! We devoured it as soon as they brought, the delicious smell had us going crazy!! My and my mom LOVED IT!!!\n\nFor entree my mom chose Alfredo Fettuccini with chicken and I chose Spaghetti Carbonara, they were both delicious and savory but not salty and the pasta was cooked to perfection!!\n\nFor dessert we chose two of their homemade ones: Italian cheesecake and tiramisu. My mom LOVED the Italian cheesecake and we were actually pretty surprised to see it was nothing like American cheesecake, it had more like an actual cake texture and it was not too sweet, which she loved even more!\nMy tiramisu was definitely made in heaven, it was so delicious and soft, you could taste every ingredient but as a perfect combination, nothing was overpowering!!\n\nWe both left desiring to come back soon.\nI have it on my list to come back specially because I want to try one of their tomato sauce pastas, that sauce from the eggplant parmigiana was nothing I had before, so delicious, so fresh, so much flavor!!!! Definitely going back soon!!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIb3N2a1BREAE",
+            "text": "Everything was very good, although service was a little off beat; if I hadn't called someone over, it was like they forgot to take our order for the main course. Antipasto, oso bucco (braised short ribs), arancin and fried calamari were great. Lasagna was ok, some eggplant pasta dish (not parm style) good and spaghetti & meatballs good. Parking was a little difficult and nearly impossible. I'd come here again."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURudjlYai13RRAB",
+            "text": "I’m not going to lie, this place exceeded my expectations. I don’t know what sauce they use on that Penne alla Vodka but geeez!! It was amazinggggg!!! & Also fettuccine Alfredo was really good. The ambiance was really nice and also the service. I had the pleasure of Alex helping us, very helpful. Very friendly staff as well. First time here and I’m definitely coming back. Highly recommended."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURubUlqZGZREAE",
+            "text": "Stopped by on a whim for a quick lunch… I was greeted and seated by Alfonzo… the ambiance and service made me feel as though I was somewhere else not in NYC. I was served by John and enjoyed a glass of their riesling The Seeker and a plate of Chicken Quattro Formaggi, It was very tasty and although I only finished half Im sure the rest will be great for dinner later. All in all I will be returning to try the Filet of Sole! Thank you all for a great experience!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyb2VfXzdBRRAB",
+            "text": "I ordered through Door Dash, and did not like my order at all.\nFor this restaurant to be a traditional Italian place the food was really bad!! The Garlic Knots Parmigiana were not like I expected!! They were really oily and soggy!! The Tiramisu was not the best choice either!! To be traditional Italian it was bad and artificial, and a very strong alcohol flavor!! Did not like my order or recommend the place! My Spaghetti alla Carbonara didnt taste like other traditional dishes I've tried!! The taste was more similar to a Marsala sauce, the bacon was just fat and even the color was closer to a Marsala Linguini!! The Penne alla Vodka (Linguini) was better in taste, but still wasnt good enough! I dont recommend this place if you are looking for a traditional Italian style dish!! Just spent almost $100 on this, Really disappointed!"
+        },
+        {
+            "date": "1년 전",
+            "language": "fr",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNib0lPYUVREAE",
+            "text": "Beau restaurant situé dans le quartier italien du Bronx. Nous avons été accueilli un dimanche sans réservation. L’œuf dans mes pâtes carbonara avait malheureusement cuit en œuf brouillé. La pizza de style new-yorkaise était excellente en contrepartie, à noter que la Large est immense. À distance de marché du Zoo. Bon petit souper en couple ou en famille."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNVOGJtNXJnRRAB",
+            "text": "Loved the whole experience! Delicious food, big portions, and fast service. I had the Calamari to start - the plate was overflowing! Huge serving! Cooked great. For main I had the eggplant parmigiana which I highly recommend - oh my it was good. Accompanied with a few Aperol Spritzs - it was a full Italian affair. Definitely stop in!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhdnUzbmhBRRAB",
+            "text": "Antonio's Trattoria has been on my bucket lists for years and we finally got a chance to try it after our visit to the Bronx Botanical Garden. It's definitely one of the well-known and popular Italian restaurants in the neighborhood.\n\nThe decor is vintage, authentic and wide-spaced with lots of seating. Both indoor & outdoor dining are available currently.\n\nThe options on the menu weren't in a great variety but pretty decent. We had their Short Ribs Toscana ($26) & signature pasta Gnocchi Alla Boscaiola ($19) and both were delicious. The short ribs were so impressive, well-braised and soft."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxbXZLZjJRRRAB",
+            "text": "I never, ever review anything after only one visit to a restaurant because hey, things sometimes happen. That being said, we get here maybe once a year when we visit The Bronx from Connecticut and it's always like coming home.  The atmosphere is warm and welcoming, and the food is consistently outstanding.  Plus they serve Borgatti's ravioli!  And if you've been extra nice, Joe may sing for you too.  Antonio's Trattoria is our favorite restaurant in the whole Bronx!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlaGZudEVREAE",
+            "text": "After a fun day at the Bronx Zoo, my boyfriend and I searched Yelp for the highly rated Italian-American restaurants near Arthur Avenue and agreed on Antonio's. The restaurant is spacious with ample seating, but was almost completely full during Sunday dinner. We were seated next to a large party (of maybe 12-15) that was celebrating a family event, so it was nice to see them accomodate such parties.  They had such an extensive menu it was difficult to decide what to get - between meat, seafood, pizza, pasta, etc. We chose the caesar salad, white clam sauce linguine, Chicken parmesean, and Italian cheesecake. The caesar salad was disappointing for the price - it looked like it had come out of a grocery store pre-made kit with soggy Romaine lettuce. The clam pasta and chicken parmesean were both delicious (chicken parm had juicy, tender, perfectly cooked meat and a generous serving of melted fresh mozarella). We personally didn't like the dessert - it had a chalky/gritty texture that was hard to get over. Overall, it was a great first impression of the Bronx's Little Italy, and would love to come back and explore some more."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNBd05PczdnRRAB",
+            "text": "Hidden gem for sure ! Great food! Calling it authentic seems unnecessary.\nFeels a little like stepping back in time"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNnbU9iUm1nRRAB",
+            "text": "Went here on 6/17/2018 after a day at the Bronx Zoo. It has great reviews so my partner and I decided to check it out for dinner. The place was a bit packed but we were somehow able to get a table without a reservation. The service was excellent and so was the food. Everything came out in reasonable timing and the restaurant had no issues accommodating my vegan diet by adding extra veggies to my pizza and keeping off the cheese. The portion sizes are pretty large so we shared an endive salad. My partner got the steak which was reasonable priced and HUGE!\n\nAfter dinner, we stopped for Limoncello’s (spelling) and Frangelico’a at the bar in the other room. JOHN was bartending and took wonderful care of us. He was very attentive to the whole bar and we have no complaints. There was an older man there that was really funny as well but we did not get his name.\n\nLet me just say that the whole atmosphere was so warm and welcoming. Very family friendly environment and you could tell many of the locals and real Italians frequented. A lot of smiles and laughter from both the staff and guests. Thank you for providing such an exceptional experience! We will most definitely return when we are in the area. :) 5/5"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN5aHNUcTVRRRAB",
+            "text": "Located in the well-known Little Italy of the Bronx. António's Trattoria is surrounded by a multitude of incredible cuisine experiences.\n\nAs we are all aware, the indoor dining room took a breath and makeshift outdoor shelters afflicted the area. Some are better than others, but we all know that in these cold, dry months, a ceiling light with an open door will not keep your lower extremities warm.\n\nHowever, AT had a brilliant and groundbreaking idea. Anchor three transparent yurts with zipped entry doors from floor to ceiling coupled with heat lamps that sit at eye and arrow level - protection from many cruel elements of winter. You are now comfortable for about 59 minutes, giving you ample time to enjoy a crunchy Caesar salad and a large wood-fired margarita pizza.\n\nAs we waited for the cheque, we had a cup of coffee to circulate our blood. In these dark days, it feels like eating under the stars on Mars. This arrangement transformed our dismal day into a place of eclectic restoration.\n\nSo if you feel sad and have a few extra dollars to draw from your inner child - welcome to winter camp! The staff felt like camp instructors watching us every five minutes.\n\nKudos to that institution for finding ways to bring us back."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsaHRqaEZ3EAE",
+            "text": "Chicken Parm💯Authentic Italian in The Bronx. Traditional pasta and pizza. The sauce is perfect. Families celebrating and quite intimate couples enjoying a delicious dinner."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURod01qdDhBRRAB",
+            "text": "Looking for incredible Italian cuisine in Little Italy, Bronx, NYC? Minutes from the Bronx zoo. We really enjoyed our experience here at Antonio's Trattoria. Indoor and outdoor dining with a full bar. Great service, cuisine, and they were able to accommodate dietary restrictions.\n\nI had the beef short ribs, pasta, and red sangria."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLNVlycDBBRRAB",
+            "text": "My other half and I discovered this hidden  gem during one of our detours after having coffee on Arthur Avenue. We diverted from walking towards the car and decided to walk in another direction. At this time during COVID-19 restaurants were still only open for outdoor service. This restaurant caught our attention because they had such  cute private bubbles set up outside that also offered  heating. Before we knew it we were in a bubble under the snow enjoying a romantic evening. Since out first visit we never had a meal that disappointed us, you can expect a relaxing ambiance and personable service. In little to no time we found this bubble becoming our own bubble away from home for future nights out. The restaurant currently doesn't have the bubble, however the indoor dining is beautiful and safe according to COVID-19  dining regulations. I enjoy sitting by the window or the beautiful wine wall that is multifunctional and storing some of the restaurants fine wine. Hopefully next winter we will return to our bubble on a snowy day. What brings us back to the restaurant is the consistently reliable quality service and perfectly made food. We both work hard throughout the week and we enjoy having an evening out where we're being provided an intimate feeling of \"breaking bread\" without having to prepare or serve one another. What we love about this restaurant is that it supports the experience of sharing a meal with a loved one in a friendly inviting atmosphere. If Marco is your server you will also leave there learning something new about Italian trattoria styled dining and plethora of interesting information on food or history. During our last visit he took us on a stroll down history lane  teaching us about the history if the local  neighborhood also known as the \"The little Italy of The Bronx\". The neighborhood itself is very diverse and includes a strong  Italian, Latino and Albanian presence. Another population of people you will observe are clusters of Fordham University students. This is a great restaurant to go to on a visit to your childs school, the zoo and if your local you should add it to you list of \"go to places\" on days you're feeling indecisive."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqcTY3V05BEAE",
+            "text": "We always come here their food is absolutely delicious!\nI recommend frutti Di Mare and raviolis."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURvbU1TV0RBEAE",
+            "text": "The inner atmosphere is nice. Better than the feel it gives on the outside.  We had baked clams (a bit too salty) but do taste freshness. Pizza was excellent. You can ask for half and half (different toppings) even for the small size (12\"). Very thin crust. Complimentary bread was very soft on the inside."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ1NnVlU2xnRRAB",
+            "text": "My ladyfriend and I went to visit Antonio’s just to explore Little Italy. The environment was sophisticated and I enjoyed the Italian spirit in the service and in the food. We ordered a custom pizza while we catches up on trivial events. I loved the zesty flavor in each slice. I would go back for another Italian dish. Thank you Antonio’s!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCbE1ycTJ3RRAB",
+            "text": "Can't say enough about how amazing this place is! We went on a Saturday night at the height of their busiest time. We were very pleased with every aspect of our visit. We would definitely go back! The food was amazing!!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSUNwN1BCcxAB",
+            "text": "Food and service was great screaming kid was not. We were ready to leave after 15 min of parents not controlling their child. It almost ruined our dinner.\nLasagna was fantastic. Brad was nice and fresh too."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNLaTdPTXJBRRAB",
+            "text": "Called to make a reservation for Sat night at around 2pm and managed to get a table for 2. Ordered baked clams, short ribs and pizza. Enjoyed the short ribs the most, liked the thin crust pizza too. Only knew we could do half:half flavours…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM2bUtQSkNREAE",
+            "text": "Lots of love from the staff. Family type environment. Food was delicious. Very layback way of taking orders. Little pricy but worth it. Excellent dishes. Best calamari I've ever had. The capacinno is to die for. Was too stuffed to get dessert although it looked awesome ❤ definitely recommend 👌🏽"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURHbHVIV3RBRRAB",
+            "text": "Looking for authentic Italian food with great service and atmosphere? Definitely make a stop at Antonio's. It is the best food on our vacation so far, far better than the great food in Manhattan.\n\nI ordered their special of Pork Tenderloin stuffed with asparagus, green peppers and tomatoes in wine sauce. I had a chocolate martini to wash it down. For dessert it was tiramisu with coffee, a delicious ending to a fabulous meal. I highly recommend making your way out to Little Italy Bronx next time you're in town, it's well worth the trip."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDdV9TRWtBRRAB",
+            "text": "Omg excellent food. I don't dine in the Bronx but I'll make an exception! I had the penne vodka which was to die for! My friend had the short ribs and I tastes it and it was super tender and moist and perfect. I'd def re visit."
+        },
+        {
+            "date": "6년 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM0eGV1eFlnEAE",
+            "text": "Restaurant italien situé dans l'authentique Little Italy du Bronx. Très belle découverte avec une ambiance new-yorkaise évidente, briques rouges aux murs et endroit familial qui ne fait aucun doute. Les plats sont savoureux, le personnel très agréable et souriant."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5dDh5Zkd3EAE",
+            "text": "TLDR: My fav restaurant by Arthur Avenue in the Bronx but service needs improvement. The prices are a bit higher here but worth it!\n\nThe decor is dark at all hours and it's a big step up to get into the main entrance. Service today was especially not great. Our server disappeared for a long time and we needed to flag down another person to take our order and to get our check (which we needed to ask for twice from 2 people). But if you're not in a rush the food here is my favorite in this area! 😂\n\nMy friend and I ordered a large cup and char pepperoni pizza with added onions. The second server asked if we were sure we wanted large. Please don't judge my eating habits my friend! We also tried the Alfredo pasta and added chicken. It was a little bland and needed salt and pepper. Lasagna is amazing here too. The Aperol spritz was good. The white wine sangria was like 50% sour apples FYI. 1 single women's bathroom and 1 men's bathroom. I never have room for dessert so can't speak to that. Come for the food but bring your patience."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlNTZTTlNREAE",
+            "text": "Dinned in on a Saturday late after with my siblings. The food was good,  we had among other things the eggplant fliorentino, spaghetti and meatballs, pork chop ,calamari, garlic knots with Mozzarella etc. The portion sizes were smaller than expected for the price. Our waiter however left a lot to be desired. We felt rushed although when we arrived inside was very sparse. His table side manners just were very poor. It’s sad because everyone else was very pleasant.  He actually threw our bill on the table ignoring an outstretched hand to receive it. We will not return."
+        }
+    ],
+    "reviews_count": 82
+}

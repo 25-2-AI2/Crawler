@@ -1,0 +1,523 @@
+{
+    "name": "Roberto's",
+    "place_id": "ChIJpb3wZof0wokREXE6p8y04O8",
+    "grid": "BX6",
+    "address": "603 Crescent Ave, Bronx, NY 10458, USA",
+    "rating": 4.6,
+    "user_ratings_total": 530,
+    "phone_number": "(718) 733-9503",
+    "reviews": [
+        {
+            "date": "10시간 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1M2RrMUJOVEZCZHpBelZIbGZPRWh5WjJ4cVVWRRAB",
+            "text": "Loved it!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aTmNGRnNabXRrWkRGQlNXVXpSWGN0ZVRaRlUwRRAB",
+            "text": "Amazing food amazing restaurant , Loni it’s the best , very attentive and professional . Definitely coming back"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21aWGMwRkxXR2R5VEV4TlJHZDFUblEzWTBjeVoyYxAB",
+            "text": "Everyone was very friendly and we were seated right on time for our reservation.  Our waiter was knowledgeable about the menu both food and wines.\n\nMy son and I truly enjoyed the night!\n\nHe got the strip steak special with shishito peppers, pictured below.  His meal was outstanding.  I got a chicken dish that was plenty good, but wasn't blown away by it."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xnek1WUmFPRmxwWkhadE9FMHdMV2hXVWxkT1JFRRAB",
+            "text": "Above and beyond very to raisnable price. The owner setting looking after his customer. One of the old style kind people"
+        },
+        {
+            "date": "1달 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pabVdpMWlSaTA0WTBsdVVuTm5WVTkwZUMxM1dIYxAB",
+            "text": "송아지 오소부코는 리조또만 별로고 맛있습니다.\n파스타는 그냥 그래요\n샐러드는 메뉴에는 없습니다만, 달라고 하면 줍니다.\n17:30 예약하고 17:00 에 방문하니 입장 시켜 주네요."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OeE5VRjVWRlpuZHpSbGJWVnBjblp6UVRGU1ltYxAB",
+            "text": "Very old school charm style that has some signature Italian dishes across categories. I really enjoyed the pastas here, and the pork chop is remarkable. Veal ossobuco is divine. Good wine selection as well. Wait times can be long between courses."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oNmNuVm5abU5IVG1nMVZrTXpWbWxNVUZCQ1pYYxAB",
+            "text": "Been going for over a decade. The best there is"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25keWQyeDFiMmRvYVc1b1dIRjVaak5mZEhScmFGRRAB",
+            "text": "Please don't come here. It's my happy place."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKek5tTkJOMFZTT0Y4eGJGSkRXVGRpVms5dGRGRRAB",
+            "text": "Very good food and service. Place is on the smallish side, so is a bit tightly packed."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT205S2EzcHVla1pCTUU1MVZITk5hR3hwTVhsdk5sRRAB",
+            "text": "Food was good.  Service was very slow.  Restaurant was very loud - hard to talk"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2padVpFUjNlbTB6Y1RWbFUycDVjV2czYkZKdGIyYxAB",
+            "text": "Love it."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Ob1FrSmxZa05IVUdsVmRrRkpVbWhWUXpadWVHYxAB",
+            "text": "Fantastic dining experience! Delicious fresh food and fantastic staff"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VQR0VpSVd4dU1mXzJRRRAB",
+            "text": "It must have been sold. It was absolutely horrendous from the eggplant and no zucchini starter with cold tomato sauce to the gelatinous mess they called sauce on a pork chop that was billed as double cut that was butterflied open with a spicy sauce of fried tough artichokes and over fried potatoes. The special pear ravioli had no pears five anemic discs of flat pasta with tasteless filling. Only the one glass of Pinot noir was good. I have no idea what has happened here but it was the worst meal ever in The Bronx!!!"
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURvc1puazRBRRAB",
+            "text": "EXCELENTE LUGAR!\nBuena comida, buen ambiente & un buen servicio al cliente.\n\nSi tienes pensado ir aquí te digo que no lo dudes porque es un buen restaurante."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNvMklhYk53EAE",
+            "text": "Great food in a wonder setting"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNJejdUR0VBEAE",
+            "text": "Went for a private party. Everything that came out was delicious !   I will definitely be coming back again for dinner."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3azZMZmRREAE",
+            "text": "Date Night or Romantic Evening with your Spouse."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3dm8yNzZ3RRAB",
+            "text": "Really nice place. Had a corporate event for a group of 15. The place is very accommodating, attentive service , good food, nice wine selection"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNRaXJlQ2VREAE",
+            "text": "Delicious food, great Ambiance in the Heart of Little Italy in the Bronx"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNReU51TVFREAE",
+            "text": "Roberto has been one of my all-time favorite, chef Roberto himself comes around greeting his guest if his in ,food is always great the pasta,meat and a very good  wine list make this place one of my favorite  in Arthur ave...let's don't forget about the service always checking on the tables for any minor detail."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNncmMzWWtnRRAB",
+            "text": "Great family celebration. Food was great, service was friendly and efficient. Just a wonderful experience."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNnNnNXSFpBEAE",
+            "text": "It was a great night,  service outstanding 👏 food was delicious, and our server came up with great recommendations.  It's an amazing place located in the bronx( 603 Crescent Ave ) i recommend to you 👌"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNnc3FEM3hRRRAB",
+            "text": "Great service. Food needed more flavor."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURfd2J6SDZnRRAB",
+            "text": "My favorite restaurant in little Italy"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmbGVlWGJnEAE",
+            "text": "Roberto's was an absolute pleasure in every way. From staff to the owner himself (Roberto) not only was the food delicious but I was treated like family.  I recommend for anyone looking for delicious Italian food."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmbHREY1h3EAE",
+            "text": "Great food options and very authentic. The dining space is a bit tight but it only adds to the esthetic. Highly recommend"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2XzhEZ3pnRRAB",
+            "text": "The owner Roberto is a wonderful warm person. And his food is top notch.\nThe real hidden gem are the employees people like Elsa and Lonny help make your night special."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2cl9haVBnEAE",
+            "text": "The food is very good and always consistent. The waiters are very attentive."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2Mi1YYzhRRRAB",
+            "text": "Highly disappointed in our experience here. Save your time and money by going elsewhere.\n\nHospitality: We arrived 30 minutes before our reservation time and they were unable to seat us (fair) but it would be a couple of minutes. Then, when it finally was a reservation time, the hostess rudely told us that we would have to continue to wait and she refused to give us an estimated time. A different front of house staff member assured us that the food would be well worth the wait. After 10 more minutes and one more frustrating interaction with the hostess, we were finally seated. The waiter was nice, and he tried his best to be accommodating. Unfortunately, it took over an hour for the entrees to arrive at our table.\n\nFood: I received absolutely undercooked eggplant in my penne melitzana. Again, the waiter kindly understood the issue and offered to bring me something else. Unfortunately, then I received undercooked spaghetti that was quite chewy. He offered us a dessert and sadly, we were given a dry and underwhelming chocolate volcano cake.\n\nAtmosphere: It's a busy restaurant with tables awkwardly close to each other. Crowding at the entryway was an issue. Not great vibes.   They also play a fairly creepy song at max volume for birthday celebrations.\n\nI don't like leaving negative reviews but I feel like anyone coming here should be prepped."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN2N09xMVZBEAE",
+            "text": "Seems like a good restaurant with classic italian fare. I think we must have come on an off night.\nOne of our appetizers was missing a key ingredient that we were really looking forward to. When we asked a server, he said we were mistaken. He even brought a menu to show us that we were wrong. The menu still listed the ingredient, so did the menu we looked at while waiting at the bar, so does the menu currently on the website. Then he said that the dish used to come with it, but then the chef decided the ingredient was not necessary since it makes the dish look too messy. Sounded like a b.s. answer which I did not appreciate.\nThe seafood appetizer we ordered came out cold and was overly salted, and I love salt. We looked forward to dipping the complimentary bread in the white wine sauce, but it was not enjoyable. Sopping a good bread in a delicious sauce is one of my favorite parts of a good italian meal. There were a fair amount of mussels that never opened up,  (which means they were dead and should not be eaten) which is fine, that happens, it just added insult to injury. It’s not like the portion was heaping and that the closed mussels were not visible on the way from the kitchen or while the server portioned them out. I would not care about picking out some duds if the dish was hot and tasted good. The portion of sliced bread loaf was good but the focaccia style bread was hard and stale.\nThe pasta we ordered was recommended by our server and was indeed the best item we had during our visit. It came to the table in a tin foil pouch. It felt a little gimmicky, more about the show of cutting open the pouch at the table than really adding much to the dish. The server offered fresh parm cheese but forgot to come back with it until we waited and asked again.\nI feel like this restaurant can, and probably does, do better. Maybe we ordered poorly. I prefer to write positive reviews and keep my mouth shut for bad ones, but I felt very disappointed, especially considering that the price point is pretty high and this was a splurge meal for us. I write this with the sincere hope of seeing them improve and continue to thrive."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2Z0ktZ2dnRRAB",
+            "text": "Great pizza and location."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQMXBDRnpnRRAB",
+            "text": "We had a 20 person special occasion dinner and Roberto’s hit it out of the park — the food and wine, service and ambiance — the best. Chef Roberto and Loni made it memorable. Roberto’s reputation is well-deserved."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQcW9QOXlBRRAB",
+            "text": "A top place for a boys' lunch.  Why? Sinple; the delicious pastas, the friendly service, and the Tuscan vino, all at a reasonable price."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQekltU0x3EAE",
+            "text": "My lord this is fantastic Italian food.  Really special. Pastas were fabulous and the artichokes with fava cream, sausage and cacio y Pepe was insanely good."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQeVppakJnEAE",
+            "text": "The food was absolutely delicious and our servers were amazing. The restaurant is very noisy, though, which was unfortunate but the restaurant is so worth the visit!"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzaWZ5cTh3RRAB",
+            "text": "Really tasty and great service"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuNWZXX2NBEAE",
+            "text": "Probably the best restaurant in the neighborhood. Fantastic staff and menu. Fresh and authentic and full of locals."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuaGR2dGZ3EAE",
+            "text": "Very tasty branzink w thinly sliced potato, and my companion had squid ink pasta w class and he requested shrimp, which they were happy to oblige.. It was his first time tryinf squid ink pasta and he liked ot! It's a cute out of the way restaurant and the food was impressive, I will be more than happy to return!! Excellent company, service and I could tell there was care and respect put into the preparation 💯"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURIX19qM2NnEAE",
+            "text": "Amazing food! The tacos are very tasty.  Also had the nachos which were loaded with cheese and meat. Definitely shareable. Sorry no pics for this one, but rest assure this little place is an authentic Mexican gem."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIOVp1QlFREAE",
+            "text": "Absolutely perfect. We had a great experience. Delicious bread and olive oil to start. Caprese salad, followed by a special dish (Mafalda pasta with grilled lamb), drank a classy bottle of Montepulciano. Great service too. Five stars."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3eHVEYXJ3RRAB",
+            "text": "Super yummy pizza"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM3dEw2OXd3RRAB",
+            "text": "Normal average restaurant. Nothing bad or memorable."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURiMk5iSkdnEAE",
+            "text": "Great food , great ambiance. The staff is super friendly and they love what they do . Special thanks to the service staff for always making my family feel welcomed"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURiZ0xfRjVnRRAB",
+            "text": "My husband and I arrive 10 minutes ahead of reservation to enjoy what we thought would be a nice dinner. We check in with the hostess and are asked to wait one minute. The hostess then proceeds to attend to a steady flow of new guests arriving after us. She checks in and seats a party 10 (ok we think, they probably have a special table), then another party of 2 then 4-- has she forgotten about us? It's now been 10 minutes of waiting and its our reservation time. We inquire whether our table is ready as the hostess makes her way back to the front after seating the party of 4. She asks \"what was your name again\", proceeds to attend to and sit another party of 6 that has arrived in the meantime, then finally comes back to us. It's been nearly 20 minutes now, but we're excited to finally be heading to our table. We see a nice small table with 2 seats...the hostess continues right past it, hooks a right and starts leading us downstairs to the basement. We begin to complain, and are told the table is not available to us. We begin to walk out and say this has been a \"1 star\" experience and magically the table becomes available, and we are offered a slew of generic excuses-- we needed to wait for our entire party to arrive before we could be seated (it was only the 2 of us), it was the hostesses first week, etc. This place isn’t as hospitable to people of color. My husband and I felt very uncomfortable after the entire encounter so we left anways- hungry and having wasted our time. We’ve never had this experience before & recommend you don’t waste your money here."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyM3BHMVhREAE",
+            "text": "Bueno."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMdXRPT2NREAE",
+            "text": "Exactly what you would expect from a top Arthur Ave dining experience. Service is excellent, food was delicious and well presented. Wine selection was great. Atmosphere is old school Italian."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR6MzhfQnZnRRAB",
+            "text": "Excellent! Food is great!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqbllmMl93RRAB",
+            "text": "One of the best places to eat when at Arthur Ave."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqdW9XOGZREAE",
+            "text": "One of the best restaurants in the neighborhood."
+        },
+        {
+            "date": "1년 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNqb3Z1Mmp3RRAB",
+            "text": "Il meglio della cucina italiana a Mew York Roberto il titolare super accogliente"
+        },
+        {
+            "date": "2년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM1cnJmZ1VREAE",
+            "text": "이서진의 뉴욕뉴욕"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNWOGR5b1FREAE",
+            "text": "Everything was perfect for the special night dinner. A unique and pleasant dining experience that they bring to the table. 🌙 🍴"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnOXBxU19BRRAB",
+            "text": "Is a kind of expensive restaurant , but is all worthy . I ordered an octopus that was delicious. My boyfriend ordered pasta, he loves pasta. The atmosphere is very cozy and relaxed.\nWe would definitely go back"
+        },
+        {
+            "date": "1년 전",
+            "language": "it",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURENVlQZG93RRAB",
+            "text": "Tutto super da Roberto!! Dall’amichevole accoglienza dei camerieri all’ottima qualità del cibo!! Locale super cute e curato!! Consiglio"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKN2NfcGlnRRAB",
+            "text": "My wife and I relocated to Charleston SC a few years ago so have not been on Arthur Ave in a while. Having grown up in DA BRONX we are familiar with what the Belmont section has to offer. Although the neighborhood has changed ( and not for the Better) Roberto’s stands out as clearly the best restaurant in the area. We started with a grilled tomato stuffed with buratta which we shared. We then ordered 2 pasta entree and a side of Rabe which was excellent and expertly divided table side.  Finally a couple of cappuccino and we each had the Roberto cannoli. We have dined at almost all the restaurants In little Italy Bronx and Roberto remains on top"
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNNcW95WklREAE",
+            "text": "Had the veal shank special. Had to be 24 ounces or more. Delicious. Polenta was good. Spaghetti was not as good as I had hoped, especially for homemade. Service was good. Prices fair. Will definitely return. Great place for dinner after the Bronx Zoo or a visit to Fordham."
+        },
+        {
+            "date": "5년 전",
+            "language": "fr",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNNbi1MY0xnEAE",
+            "text": "Resto italien sympa au cœur de la petite italy du queens. Une ambiance feutrée et haut de gamme qui tranche un peu avec le quartier. Le service est très attentionné. Les pâtes fraiches sont bonnes, cependant la mozza n'a pas atteint mes…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ2a2VQTzhRRRAB",
+            "text": "We enjoyed fantastic service, food, and ambiance on a Wednesday evening in September.  Wine was perfectly paired with each course and the waiters served each of us as though we were royalty.\n\nHighly recommend!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURJdktDZERBEAE",
+            "text": "It was a very extraordinary experience, service excellent  food fisrt class"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwa0xidUx3EAE",
+            "text": "I came here with a group of people for dinner and everything was great. We shared a few appetizers and a few pastas and they were all delicious. I had the pork chop for my main and loved it, everyone else loved their mains as well. The desserts and drinks were also very good. Our server was very friendly and attentive. The prices were good for the quality and portions. I'll definitely be back."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURVdmFHMC1RRRAB",
+            "text": "Awesome place,romantic ambience,delicious and fresh food,great menu,large variety of wines,awesome staff!Thank you so much."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURteGRiMlV3EAE",
+            "text": "ROBERTO’s is one of my favorites from Little Italy in the Bronx. The service is always great. The food is fresh and has an authentic taste to it."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUROd19LY1lBEAE",
+            "text": "Roberto's restaurant in the Bronx is a culinary gem that exceeded all expectations. Our business meeting was elevated to a delightful experience, thanks to the exquisite menu and inviting ambiance.\n\nThe grilled octopus appetizer was a tantalizing start, perfectly cooked and bursting with flavor. The tomahawk steak stole the show – a carnivore's dream, expertly prepared and accompanied by a medley of delectable vegetables and truffle-infused pasta. Each bite was a symphony of tastes that left a lasting impression.\n\nNot only did Roberto's deliver on the gastronomic front, but the timing was impeccable. We managed to beat the crowds, providing us with a quiet space to delve into our business meeting agenda. The attentive staff ensured our experience was seamless, adding to the overall satisfaction of our visit.\n\nRoberto's is not just a restaurant; it's a culinary haven where business meetings seamlessly merge with gastronomic delights. I highly recommend this establishment for anyone seeking an unforgettable dining experience in the Bronx."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPNDRLWlBBEAE",
+            "text": "I went to the restaurant for the nice food pictures, but the food taste better than how it looks. Wonderful experience! Very romantic and warm."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN0ektlOEN3EAE",
+            "text": "Exceptionally satisfied with this place!  We will definitely return✨️"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNscnRQRmtRRRAB",
+            "text": "edit October 2021: I have not been here in a long time, because of covid. The food is as excellent as ever, and the service impecable.\n\nI always leave happy after eating at Roberto's"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkLThhMDF3RRAB",
+            "text": "The absolute best Italian restaurant in all of New York City. It’s not even a debate. The food is perfect. The staff are attentive, knowledgeable and dedicated to serving the best dining experience possible. The atmosphere cozy and vibrant. I will return many times more to enjoy this epic restaurant."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1Mm9hb3N3RRAB",
+            "text": "Delicious Italian restaurant in the Bronx little Italy near Arthur Ave"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ1dU1YRjJnRRAB",
+            "text": "The best homey Italian restaurant I had in nyc"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKMTZlRU9nEAE",
+            "text": "My absolute favorite italian restaurant in NYC.\nEverything about this place is just perfect. Best Italian restaurant in the five boroughs hands down. The food is unique and delicious. Home made pastas are the absolute best. Staff is extremely warming and friendly. Been going here since 2006 and the consistency is by far the best. My number one recommendation for all my friends and family."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURoOGNDZXpRRRAB",
+            "text": "We eat here quite often and the food is always great as are the staff. This review however is specifically about a birthday party we had in the downstairs for my wife’s 50th. Everything was excellent. My wife and all of our guests could not stop complimenting the atmosphere, the food and the staff. Every course was perfectly timed and better than the one before. Erlon - the head waiter - went out of his way to accommodate us and make the evening enjoyable and memorable. I cannot thank them enough."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREenFHcldBEAE",
+            "text": "I wasn't impressed by Robertos. We had a reservation for 6 pm, arrived at 6:05 pm but our table wasn't ready till 6:20!\nThe place was extremely loud, with people having screaming conversations with each other.  The food was just Ok. We had salad, striped bass, and branzino. They all lacked proper seasoning. The servers were nice. Lastly, the bathroom door didn't lock from the inside, and I had to hold it shut with one hand while in there."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM0cnRqV3F3RRAB",
+            "text": "The food was absolutely phenomenal. You can really taste how fresh the ingredients are. The flavors compliment each other so well. They have a great selection of wind and drinks. The service was amazing as well, top notch. The atmosphere is…"
+        }
+    ],
+    "reviews_count": 73
+}

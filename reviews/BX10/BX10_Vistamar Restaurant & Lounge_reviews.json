@@ -1,0 +1,712 @@
+{
+    "name": "Vistamar Restaurant & Lounge",
+    "place_id": "ChIJW7aDKX2MwokR12TIBtjJsos",
+    "grid": "BX10",
+    "address": "565 City Island Ave, Bronx, NY 10464, USA",
+    "rating": 4.8,
+    "user_ratings_total": 9085,
+    "phone_number": "(718) 709-0888",
+    "reviews": [
+        {
+            "date": "8시간 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwMU9VUTNOWEZWU0c5alFsRnBhelJ3YlRoVU1GRRAB",
+            "text": "la comida es deliciosa 😍 no duden en ordenar el \" skirt steak tri-fongo\" es riquisimo no se van arrepentir. igual que las bebidas , los postres , el ambiente y las antenciones de los meseros es un 10/10 un restaurante totalmente agradable para pasar un buen rato. son 10/10 😍😍\n\nThe food is delicious 😍 do not hesitate to order the \"skirt steak tri-fongo\" it is delicious you will not regret it. just like the drinks, the desserts, the atmosphere and the attentions of the waiters is a 10/10 a totally nice restaurant to have a good time. they are 10/10 😍😍"
+        },
+        {
+            "date": "14시간 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sR0xVTnNOVlJtUmxscE9FdFpkRmRMVG5CWlNWRRAB",
+            "text": "Un excelente servicio, la comida es sabrosa y unas atenciones de primera, Gracias a Shorty y Jocelyn por su excelente servicio y amabilidad."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tndE9XWTJaVEk1VkdKVFdIRXlkWEp0UWxsNVNtYxAB",
+            "text": "I had a Wonderful experience and I had the pleasure of being served by karolay who was amazing."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCWVNrOU1SREl3ZEdoSlRGVkdTRzgzWlZZeFVGRRAB",
+            "text": "I just got back from my sister’s birthday celebration, and it was an absolute 10/10 experience! Our server, Karolay, was a sweetheart and provided top-notch service. The customer service was exceptional, and I had a chance to speak with the manager, who was not only friendly but also very helpful. They truly went above and beyond to make the evening special. I would highly recommend this place to anyone looking for great food, excellent service, and a wonderful atmosphere."
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwaldrOWZOMU5KWm5KaGRrOU1SVlpYZG1GTmFWRRAB",
+            "text": "Great place to dine. We had Karolay and she was such a wonderful server"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tSR1ozVXlhV1JSYVVaS1FsSnVNRGMyUldjd1FsRRAB",
+            "text": "Karolay is great server very respectful"
+        },
+        {
+            "date": "1일 전",
+            "language": "hi",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25NeVRXWlJkV2M1Wm1WT1YwUkRkRGhIUzNKUFFtYxAB",
+            "text": "Kavolay"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pFdGVVdGpWbXc0WDFkblRFNW9OazUwZFZKbVVrRRAB",
+            "text": "Karolay"
+        },
+        {
+            "date": "1일 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5WU9WQkRkM3A0TkY4NE1uTmFlakYxVDBaTlYwRRAB",
+            "text": "Came here for my friend's birthday dinner,  the staff was very nice,  atmosphere was beautiful , even saw a live show👌🏽 but the food wasn't good,  i ordered steam mussels in garlic sauce,  when I fight to open the shells,  they were empty almost all of them. Then the meal came and everybody's rice was extremely salt! For the place to be that expensive,  I expected way better food. Very disappointed."
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tacFMyNUpSRUZqYlRkM2FVOTBSVzFJZUdGUlpVRRAB",
+            "text": "Great service food was very good drink on point. Thank you Jonathan"
+        },
+        {
+            "date": "2일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwcmFYTjNSR0pJYlRkTGJVc3dXSFYzTUhOellVRRAB",
+            "text": "Jonathan was excellent y también es muy atento y muy complaciente y amable"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xZMWNFaDBRMUJJU1VzM1NsbExUakJaUmtOaFEyYxAB",
+            "text": "The food was good. I have a great time with my friends, thanks Jonathan  for a great service!!!"
+        },
+        {
+            "date": "수정일: 2일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4akt2SmJnEAE",
+            "text": "Suly  fue nuestra mesera      la pasamos espectacular, la comida las bebidas y la atencion fue de primera fuimos con un grupo bastante grande y ella siempre estuvo pendiente de que todos estuviesemos a gusto."
+        },
+        {
+            "date": "2일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKWU9EWldTVFpXTmt0MGMxVkRYMVZ1Y2tFMk5sRRAB",
+            "text": "Excelente servicio, ambiente y comida Ángel fue nuestro mesero y hizo un excelente trabajo con todo."
+        },
+        {
+            "date": "수정일: 2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNIaE1iVDNRRRAB",
+            "text": "Great atmosphere, food and drinks. Our waitress angel was amazing!!!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25STWRERk1VMHhmUms1RGNITnFTREprWW5CelJXYxAB",
+            "text": "Angel was our waiter, amazing service!!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBemVGVjFNVEEyY0ZKc2N6WTVZV0p5TW5sbVJIYxAB",
+            "text": "Our server Angel was excellent! The vibes were great! Thank you vistamar!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JMFlWVTVXSG95TjNFMmVuQTNaM2hZYldGYVZGRRAB",
+            "text": "I had Angel as a waitress and he is honestly the best. Makes you feel so welcomed. I will definitely be coming back just for him!"
+        },
+        {
+            "date": "2일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaQ1RVRlVlVzEyUkdGaWFYUjJRbXhDVXkwMFdIYxAB",
+            "text": "⭐️⭐️⭐️⭐️⭐️\nUna experiencia excelente en Vistamar – City Island\nEl lugar es hermoso, con una vista al mar espectacular y un ambiente súper agradable. La comida estuvo deliciosa, especialmente los mariscos, muy frescos y bien servidos. Pero lo que realmente hizo la diferencia fue el servicio de Ángel —súper atento, amable y siempre pendiente de cada detalle. Nos hizo sentir como en casa y se aseguró de que todo estuviera perfecto durante toda la noche. Sin duda volvería, ¡gracias a Ángel y al equipo de Vistamar por una experiencia tan bonita!"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sNGMxa3hXR2QwYVZwSGRVMW5jblV0YUZFd2FVRRAB",
+            "text": "Jesse (Yesabel) wonderful and amazing service that she provided in Vistamar to me and my family very well and loving worker with positive energy one of the best !!! 💯🙌🏽"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCek5uSTVWM3BrT1ZwcmMyOHRRalF3T1RGNVkxRRAB",
+            "text": "Jessi was the best waitress there. Very attentive and gave us some good ideas on what to get. Best brunch spot I ever experienced in my opinion. The vibe was amazing. You won’t forget it"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsTVRUaHJRbXRYYVhnNWNHOW9iRlZOU0c1RGVXYxAB",
+            "text": "She is the sweetest soul and the best I love her she really paid attention to our table and made sure we was okay I loved it she’s is the best loved her Jessie 🌸🌸🌸🌸"
+        },
+        {
+            "date": "2일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tnd01ISkRkekIwZDB3eWVFcGphRWxFY3pCNWVsRRAB",
+            "text": "Berfil excelente"
+        },
+        {
+            "date": "수정일: 2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oR2FFTnBRVlZOUTJ0RFNUQXdWa0V4YWtSa2EyYxAB",
+            "text": "Berfil was great for our brunch bday! Good food amazing time with the kids good music! Highly recommend"
+        },
+        {
+            "date": "2일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21waWMxQm5Sa3BFYkVSNGEyNTRaV2RaYjBvMExYYxAB",
+            "text": "Suli is amazing and a great waitress"
+        },
+        {
+            "date": "2일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pnMGN6RjVUR2xwUlRaVlpXcERSV1JLZGkxVU1FRRAB",
+            "text": "Gracias Jessie excelente personalidad, servicial, es una persona muy atenta facilito la estadía en el lugar"
+        },
+        {
+            "date": "3일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkeWJYSnVkR0ZIU21NMVpXTlhjamRKYzNOVlprRRAB",
+            "text": "Berfil nos dio un excelente servicio"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pOQ05XZDFheTEyUTB4T0xVeHFXVmRFZFdoWmRYYxAB",
+            "text": "Ygsell was wonderful she was attentive and made sure everything was ok at all times. She was kind and for polite at all times."
+        },
+        {
+            "date": "수정일: 3일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJMk1HenJ3RRAB",
+            "text": "Manuel, excelente servicio"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkWmVWUlJZekJaVGkxSVZGaDRSRlJ1ZFV3MVowRRAB",
+            "text": "Excellent service. Our servers Joselyn and Shorty were very courteous and attentive, providing high-quality service."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tZMVFsSXpXbFJxT1VwTWRWTkVPSGhvTUdONGNFRRAB",
+            "text": "Berfil service was exceptional and very friendly."
+        },
+        {
+            "date": "수정일: 3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM5aE1POGNnEAE",
+            "text": "Loba lvery excellent  server food was great\nNeed more server like her the host was very excellent  also"
+        },
+        {
+            "date": "3일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GWExWSlZWMDFtUWxneVRYcG9jamhSYkc4NE1IYxAB",
+            "text": "Suli y luis gracias\n\nMuy buen servicio, comida, mimosas todo a tiempo y bien pendiente"
+        },
+        {
+            "date": "3일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toeFFXSmphazluTlV0TVdWWkpNekZHVmxGclFWRRAB",
+            "text": "Chantal muy buen servicio, siempre atenta que lo que uno necesita, brinda su servicio con respeto y amor"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2taRlgzQjZXVTFKYTNkTWJETkVUSFZZWTBaVldHYxAB",
+            "text": "Manuel. Excellent service, very kind and attentive!"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xORWVVMU1kaTE1U25KblMwSXRObXRyTVRocU5YYxAB",
+            "text": "Came for a night out and our server Manuel was amazing. Very attentive and best quality service you can get. I recommend coming here if you have a date night planned."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oVVNtNVplRzl0V0RSaGJtUkNaRnBFVFhSSGNXYxAB",
+            "text": "Miguelo is a 10/10 waiter!!! Wonderful time."
+        },
+        {
+            "date": "4일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tNeE9GcG1hVnBpWVdwSmJHUTBXbHBhVWtJMWVFRRAB",
+            "text": "Miguelo"
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSdVdsRXhjMk0yZFZsb1JHWjFWbkZuVm5KalJGRRAB",
+            "text": "Miguelo was attentive and very friendly."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GYU9IQlJWa2xpYlhscVlURkpTamhTWVU5R1kxRRAB",
+            "text": "Miguelo was attentive and friendly."
+        },
+        {
+            "date": "4일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGV1gyVjJhRzlPZWxsQ1YyMDNlRTFGTUVreWRXYxAB",
+            "text": "Miguelo y Shorty nos brindaron excelente servicio."
+        },
+        {
+            "date": "4일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poa1pqZHZkekJ2U2xsclIzbDFhVGgwUkVKaWNVRRAB",
+            "text": "Miguelo & Shorty provided an excellent service and promptly delivered our great food."
+        },
+        {
+            "date": "4일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5Rk1tVmxaWEpPWDFNMVVrTndWMkl5UlRRelkyYxAB",
+            "text": "Miguelo gracias por tu servicio primera vez aquí y ame el lugar. Ame el happy hour too"
+        },
+        {
+            "date": "4일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWTVYwSmxhREZTUzNSeFgwNXlTRlJVYUMxWFlWRRAB",
+            "text": "Miguelo"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21SbFNrWXRibXgxWXpZM05EVTRjMDlDYkVzMGFIYxAB",
+            "text": "Chantelle was the beat.  Great service, great food, and very friendly."
+        },
+        {
+            "date": "5일 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxWExWUk9jSFZmTWtGWFdEUnhXV0ZGY0RCVVgwRRAB",
+            "text": "Excelente servicio Jocelyn la mejor 🙏🙌🏼🫶🏽"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GMWRrNVFWREZmVWt4MlgxazFWMWh1Wmw5TlMxRRAB",
+            "text": "Don’t know where to begin. Went for a celebration large party. Spent well over $2,500 and when we asked for a song from the DJ it wasn’t possible. If you aren’t Dominican chances are they won’t play a request because you this place doesn’t cater to anyone else. The food was okay with the exception that portions are made for kids! I left there hungry."
+        },
+        {
+            "date": "수정일: 5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKUVlYTlhSbDkzUmxkTFZIQkNWRW93WW5KNmFWRRAB",
+            "text": "Great place to eat and celebrate"
+        },
+        {
+            "date": "5일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pJMGFrSkVMVVpWVkZoNk9GbFlabEp1VFRoMVZWRRAB",
+            "text": "Beautiful establishment! Ideal location with great views and the perfect atmosphere to celebrate your special occasion or dine with your loved ones. There is also outside dining available if the weather permits!The staff is very courteous and attentive.  The food delicious with good portions."
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OdVVFbExhV1ZaV0d0V1MwOHhjR2s0ZDBaMFpuYxAB",
+            "text": "Jonathan was a great host for us , he definitely took care of us I would recommend this spot anytime…"
+        },
+        {
+            "date": "1년 전",
+            "language": "ko",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ5bloyaGFnEAE",
+            "text": "솔직히 음식은 그냥그냥"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGbmNVazJhMUU0ZFdkdmVUVXllVXRyZUdsc2VuYxAB",
+            "text": "We went to this restaurant to celebrate my birthday with my family and my Yorkie boy, and honestly, it was one of the best experiences we’ve had! From the moment we arrived, the staff was super welcoming and kind — they even made my little pup feel included.\n\nThe food was absolutely delicious, every dish was full of flavor and perfectly cooked. The drinks were just as good — fresh, well-balanced, and beautifully presented. The atmosphere was warm and relaxing, perfect for enjoying time with family.\n\nIt’s not easy to find places that combine great service, great food, and such a friendly environment, but this place really nailed it. I totally recommend it to anyone looking for a nice spot to eat and unwind. I’ll definitely be coming back again soon!"
+        },
+        {
+            "date": "수정일: 2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pObFpVTlFRMVZHVVc5UWRuSnVSbTl0YlhGeU4wRRAB",
+            "text": "I went to Vistamar today with my friends to celebrate my birthday and they make me feel special. My waitress Jocelyn and Luis did a great job. Her services was amazing! Thank you again! Highly recommend, I will be back for sure!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wNmQwaHlYM0pWUXpoVU5rOVBWVGxUZG1oaFVWRRAB",
+            "text": "So much fun celebrating my Moms bday. Suli made sure it was a memorable experience! Can't wait to come back. Beautiful just beautiful. Loved the good food!!!!"
+        },
+        {
+            "date": "3주 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kM1FWZFJXbWRtYkdwMFEzWnRjWEoxY0RJMWRHYxAB",
+            "text": "Soy Española/Dominicana siempre veía publicaciones de este restaurante lo cual decía que cuando visitara NYC iba a ir a comer allí,Resulta que así a sido hace unas semanas en mi vista a Estados Unidos reservé para un brunch en vuestro local,Que coincidió con el cumple de mi sobrina que está embarazada,Desde el primer momento la atención fue excelente la recepcionista súper amable nada más entrar,Nos atendió jocelin quien estaba atenta de nosotras pero la guinda del pastel fue la atención de la brilli,A la cual le comenté que si era posible que con el postre se le cantará cumpleaños a mi sobrina de sorpresa y encantada 🤩 aceptó y organizó todo además de estar también súper pendiente de nosotras,La comida estuvo buena,Después del brunch nos quedamos un poco más tomando algunos cócteles además de una picadera,Este lugar está a la altura de los lugares de Europa que son restaurantes con show,Pero al estilo Dominicano con esa alegría,Calor y sabor que nos caracteriza,Gracias a todo el equipo por las atenciones.En mi siguiente visita a Estados Unidos volveré x q me super encantó."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VQX1AtY3lackpQS0N3EAE",
+            "text": "We had an amazing time at this restaurant! The atmosphere was warm and relaxing, perfect for a special evening out. The food exceeded our expectations—fresh ingredients, rich flavors, and beautifully plated. Our server was truly outstanding, her name was Jazmin she was so lovely, gracious, and genuinely attentive without being overbearing. They made us feel like valued guests and added a personal touch that made our night unforgettable. Highly recommended—we’ll definitely be back soon! You better ask for Jazmin to be your server!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkM1pVbzBTMnRSV1hjemFWZzFZV05UVUU5bE4yYxAB",
+            "text": "I started off with the garlic mussels. Then I had the arugula salad. Main entree was mash with salmon and to end it I had the raspberry lemon drop cheesecake. Everything I had was amazing. Even the bread the mussels came with were a tiny bit crispy to dip in the garlic sauce. Only thing I wish I had come sooner to try out the vanilla creme brûlée but unfortunately the kitchen was close by the time I try to order desert. I sat outside with a nice view of the water, boat and they had music playing ! I would definitely come back to this spot and recommend it"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNVGJ3NU9ocUppSlhnEAE",
+            "text": "I recently celebrated here for a special occasion. I had a wonderful experience from beginning to end. The food came out fast. It was delicious and everyone was very helpful and kind. Even the employees I ran into in the bathroom were all very welcoming and kind. 10/10 . Special thanks to DETHELIN & OSIRIS !! they made our experience memorable. Excellent service from the two of them. Highly recommend."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ocmFGaGhWRlpZTlRKYU1scFhWbU4xWlVJMFRWRRAB",
+            "text": "It’s a lovely place, and the food is delicious. We had the best time, served by the best staff. Sully was our server (she is such lovely person) and made us feel very welcomed. Highly appreciated and recommended! 😊"
+        },
+        {
+            "date": "6일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkSk9IcDBNWFU0ZFZFMU5rbDVSRFF3TVVobVVYYxAB",
+            "text": "Chantal was a wonderful waitress very attentive and kind. Amazing recommendations from her as well. Really enjoy coming here!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wdldqSm9Oa0ZGTTNKV2FUVkxOekZWZG1KTVkzYxAB",
+            "text": "Ygsell was an amazing server. She was attentive to all our needs, and made celebrating my birthday special. The venue was beautiful and we really enjoyed our time. Definitely plan to return! Espectacular! Love love love"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VOeWxnTlMzbmVESVZ3EAE",
+            "text": "The atmosphere was very wonderful! Very party-like and celebrant towards the evening! It’s worth the money and the trip!  The service is good, only a 30 minute wait. The waiters are very friendly and understanding. The food is top tier"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pSNldsQnhXbFpXY2tWSmVWaGZXR0UyTkZkVVVIYxAB",
+            "text": "Vistamar is fantastic. We came to celebrate my sisters 32nd birthday and had a wonderful time. The atmosphere is very hip and trendy, and there are many photographable/Insta-gramable  locations within. I wanted to take a picture of everything in the bathroom. Thank you very much to our server, Isa(bella?)! She has such charming energy. Isa took her time to explain the menu, checked on us frequently, and very mindful to specify our food restrictions to the chef. Thank you to the team for singing, which made my sisters birthday dinner extra special. Also the food was very good!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aRlNVa3piRU5oYW10eWRFdERXbUZDVTNWaFNYYxAB",
+            "text": "Excellent spot for a great night out. The food was great, only downside was my stake was over cooked but the taste was on point. After dinner you can enjoy The city island view driving around or just taking a walking."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SRVNsUkZObnBvVEU5TE1qWkxhQzFrWjNCYWVrRRAB",
+            "text": "Great ambience, Food was Amazing, Red snapper + shrimps and seafood trifongo was to die for! The service from Gelsica was 10/10, friendly and she was always making sure we were doing good, food came out fast! We loved it!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kUmJHZFBielJPVkVKdk9GQktPRzFJYmxOYWJVRRAB",
+            "text": "I decided to try something different on City Island and ended up at Vistamar. The restaurant offers a lovely dockside view, and I sat in the outdoor area to enjoy the beautiful weather. Our server, Míguelo, was friendly and made some recommendations while we ordered appetizers.\nThe fried calamari was a highlight—crispy and perfectly fried. However, the lobster mac and cheese fell flat. It was bland, and I couldn’t find a single piece of lobster in the dish. It seems like nowadays, you can make lobster stock, mix it with cheese and cream, and call it a day—but if you're charging $22 for mac and cheese, you should at least add a piece or two of actual lobster and a pinch of salt and pepper for some flavor!\nI also made the mistake of ordering the trifongo, a mixture of sweet plantains, yuca, and regular plantains. While the concept was great, it really lacked seasoning. A little salt and pepper would have gone a long way. But the real disappointment came when I ordered it with skirt steak, and they served it chopped up into small pieces. I wish I had known to specify that I wanted the steak left whole. To make matters worse, the sauce on the steak was overly sweet.\nOverall, Míguelo provided excellent service, but there’s a strange management practice here. It seems like they require servers to ask guests to leave a Google review before leaving, so we were handed a QR code to do so right at the table.\nOn the bright side, the wine selection was great, and I truly enjoyed my glass. Unfortunately, with the food being underwhelming, I don't think I'll be returning. For the price, it just wasn’t worth it."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0bGJHaDBOWFl6WkRaelpTMHRRV3Q2YVVFME9YYxAB",
+            "text": "A little hidden gem in city Island. I was able to watch the sunset and someone jet ski in by the wharfs. The food was Spanish inspired with seafood steak and tropical drinks and regular drinks.The lychee martini was nice. We ordered the red snapper Fried… the tostones could have been more crispy. Love the decor inside and the ambiance. Valet parking as well."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkbE1sUlpPVmhTYXpkSmVucGZiVVJRVUVoQ1FVRRAB",
+            "text": "Jocelyn and Bally were amazing servers!! They made sure our mimosas were full, and our food was delivered in a timely manner!!  Very professional and friendly. We will definitely be coming back!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4RFEwUk1ORU5LVWtGcFdFMWlRMk5UUkdkeWJuYxAB",
+            "text": "This place is the place to be, I went there with my family it was my Moms Birthday. The food was excellent and the server MÍGUELO was excellent. I would recommend this place to all my friends and family."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xseGNURm9ORmhzYUdoQ2FGSlFkakJSVDI5TFVrRRAB",
+            "text": "Miguelo was great he is one of the best waiters I’ve had there. Friendly, fast and kind! He took good care of us. Me and 4 ladies we had a great time food was flowing drinks were flowing a great Friday night"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1M05HUTRVR1F6T0RoaVVETkNVRFptTkZwSk5HYxAB",
+            "text": "I came here fora friends birthday brunch with a group of girls and I wasn’t disappointed. It has a cute esthetic. The food and service was decent. My favorite was the mangu. My only complaint is that I asked for prosecco alone without orange juice & I was told I couldn’t do that & could only have it with juice because it’s premade. I settled for a the lychee martini & it was on the sweeter side. There was even entertainment and Disney characters came out towards the end. It was definitely an experience."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kweFZIUnNjVXhYUm1ka2FGbG9hMmRKTFVad2VVRRAB",
+            "text": "First time in City Island. The food and drinks were amazing. The atmosphere was meh. The music was very loud outside and the tables had obstructed views of the water with all the planters. Also didn’t realize it was a hookah lounge. Just think there are better options for $200 meals in NYC by the water."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkV1VFdEdhV0ZYWVVweVFqazNZazVwZUVNNGIwRRAB",
+            "text": "Amazing experience from start to finish!! Berfil our incredible waitress was on point and both the food and experience were top notch! Great hospitality, great ambiance and dance spotlights. This is a dope Saturday night experience regardless of who you come with."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twVWFuRXdRVTF2WXpGWWNVNVhTbXRvTWtsaVRGRRAB",
+            "text": "I came here for happy hour and the menu is fully stacked. So many options for people to enjoy. I look forward to coming here for dinner and other events. It’s so close to Orchard Beach too, amazing service as well 👏🏼"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VNX0UwYUNFbGJpSU5nEAE",
+            "text": "Went there for a Birthday Celebration for my niece. She reserved a room for about 50 people. The service and the food was very good. The only problem was the parking they didn’t have enough spaces for all the cars. They claimed that a a “ reserved” party they only allowed 10 parking spaces, because most of the spaces are for their dining guest, so most of our guests had to park off the property."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMVEowWlN2N1p5RXdnRRAB",
+            "text": "Vistamar is a vibrant seafood restaurant with a delightful Latin American flair, offering a memorable dining experience on City Island. I visited for brunch and was thoroughly impressed by the freshness and generous size of the lobster, which was both delicious and perfectly prepared. The picturesque waterfront setting, especially on a beautiful day, added to the restaurant’s charm. Vistamar truly offers a unique and refreshing escape from the hustle of Midtown Manhattan, making it a must-visit destination for anyone looking to enjoy excellent seafood in a lively, scenic atmosphere."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNveVotVEtnEAE",
+            "text": "Outstanding service and birthday shenanigans.  The dish that I received, presentation was awesome! In my opinion, it did not taste fresh, but maybe warmed over. Again, great service and great deserts! Leche martini was great! Amazing atmosphere and Instagram-able photo ops. My friend said steak was good, just too small."
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tnNVUzcFJjVE10YmtGRVRUWTJTSE4yUkZOVFJsRRAB",
+            "text": "I've been to this establishment several times. I love it and will continue to come to Vistamar. Today in particular, my group and I were celebrating my brother's birthday. The seafood was exquisite. I enjoyed a seafood dish for my main course. My mother ordered the seafood paella, which tasted and looked incredible. Our server, Jonathan, was very attentive to our needs and desires. Just remember: if you want delicious food, you have to wait.\n\nHe estado en este establecimiento varias veces. Me encanta y seguiré viniendo a Vistamar. Hoy en particular, mi grupo y yo estábamos celebrando el cumpleaños de mi hermano. El marisco estaba exquisito. Disfruté de un plato de marisco como plato principal. Mi madre pidió la paella de marisco, que tenía un sabor y una pinta increíbles. Nuestro camarero, Jonathan, estuvo muy atento a nuestras necesidades y deseos. Eso sí, recuerda: si quieres comida deliciosa, tienes que esperar."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPbkdsYlNCaHZqdENREAE",
+            "text": "You come to this place for one thing- party, drinks, and party. They are a loud and energitic crew manning all of the tables at once. The food is hot and delicious. The drinks are expertly made. The music is LOUD at times but still enjoyable. A perfect spot for a Hispanic get-together with everyone. Pricey but worth it. They even had dancers come out and perform during the afternoon Weekend times. Tables are difficult to get, so come prepared. They have parking but it's valet only. Park on the street if you can."
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "es",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3OXRYUktREAE",
+            "text": "The restaurant is located in a beautiful spot with stunning views of the water, which creates a lovely atmosphere. The staff were friendly and welcoming, making us feel comfortable from the start. Unfortunately, the food was a major disappointment—cheap, poor in quality, and lacking in flavor. Despite the great location and service, the food brings down the overall experience. Not recommended.\n\nEl restaurante está ubicado en un lugar hermoso, con vistas impresionantes al agua que crean un ambiente encantador. El personal fue amable y acogedor, y nos hizo sentir cómodos desde el principio. Lamentablemente, la comida fue una gran decepción: barata, de mala calidad y sin sabor. A pesar de la excelente ubicación y atención, la comida arruina la experiencia en general. No lo recomiendo."
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poTFZTMVNTVzQwZUd4M00xOU9NR1pFTTBkSk5tYxAB",
+            "text": "The service tonight was amazing! Manuel was a great server and we had an amazing birthday celebration for my mother. Would definitely recommend coming here on the weekends!"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t3NVRHWXlhazVPTWpSWWJVRndNMUZxUkU5RFFuYxAB",
+            "text": "I had an amazing experience at Vista Mar thanks to our waitress, Jazmin! She was so friendly, attentive, and made sure everything was perfect from start to finish. She checked in often without being overbearing, gave great menu recommendations, and made us feel so welcome. The food and view were great, but Jazmin’s excellent service really made the night special. Highly recommend asking for her if you visit!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOSmVVeE5TR0ZLVG1oUlltTlFVamd0UjJSblNtYxAB",
+            "text": "Our server Míguelo was very attentive, kind and awesome! We had a great time for my mom’s birthday. Delicious food as well! This is my second time here - will come back again for another celebration for sure :)"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25ab2JrZFRSR3RWTjFjNWNFeEROVkZoUmkxaVFYYxAB",
+            "text": "Giselle was very professional and patient.. she has a pleasant and welcoming smile from the moment we sat at our table. Kudos vistamar for such pleasant wait staff"
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2clpmSzJnRRAB",
+            "text": "I celebrated my birthday at Vistamar, and it was an unforgettable experience! The atmosphere was lively, with a DJ playing a fantastic variety of Spanish music that kept the party going. They even featured a winter-themed performance with fun winter characters. The service was outstanding—Berfil and Juanita went above and beyond to make the night special.\n\nThe food was flavorful and beautifully presented (10/10 on presentation!), though I found the seafood in my stew slightly overcooked. The skirt steak was cooked perfectly, and the drinks were exceptional. The decor was stunning, and the energy was vibrant, although the temperature inside was a little cold. Overall, they made my birthday feel special. I will return."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChRDSUhNMG9nS0VMaTMxYnFrby14eRAB",
+            "text": "It was Saturday night and the restaurant was full. That might explain the very long wait time for the food.  We got a table for two outside and the view and atmosphere were a lovely I got elichy cocktail which was also very good. The food was so so but still a nice place for the atmosphere and view."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OaGJVVndPRFJDTTA5aFJUbFVlbXBLVUhCMlNXYxAB",
+            "text": "My family celebrated my Mom’s 80th Birthday on 9/24/25 and when I say we had an amazingly “AWESOME” time! Our waiter assigned to us “Jonathan” was “FANTASTIC” from the time we entered until the time we left. He was attentive and communicated with me on every aspect of how I wanted things to go! I so appreciate him for making this an unforgettable night for my mom! Another server “Sebastian” also helped and he was great too! The food was “DELICIOUS” everyone was pleased with their meals and the ambiance and atmosphere was stunning!! We’ll definitely be back!! Much Love & Appreciation, Kimara Atterberry🫶🏽🫶🏽🫶🏽"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oWVpqRjJSMmhxYzNoUmRXa3RNRUZhZEc5bVUxRRAB",
+            "text": "The restaurant has a good theme and employees are fun and engaging. The drinks are good, it would have been great if they offered frozen drinks.\n\nThe food was amazing we had the \"Vistamar Mariscada\" A large 2lbs lobster with seafood mixed, topped with corn and small potatoes cuts served for two people.\n\nOur experience was odd, they did not add sufficient potatoes, we found four tiny slices under the lobster lol.\n\nThe waitress pulled the cheff out. They validated that there was no potatoes but corn, they quickly redeemed themselves and brought the potatoes on the side.\n\nWe were pleased with our waitress, and the attention of the staff.\n\nIf I can improve the dish, for what is worth you can accompany it with small round colored potatoes, topped with pink salt, pepper and garlic, some old bay lemon season finally some extra virgin olive oil.\n\nMake the meal feel perfectly for two since the dish starts at $100+."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VKR3V3ZmVmX1lPZWVBEAE",
+            "text": "Miguelo was an amazing server!! Exceptional service, beautiful Oceanside views, delicious food, and amazing vibes. An absolutely must in City Island!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2paQmJpMWhRa1ZTUzIxc1dWZ3hNR05DV1hKelpYYxAB",
+            "text": "Ygsell excellent service , very friendly and knowledgeable with the the food on the menu . Meet our expectations and make us feel we want to come back soon."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZa1lyeFdREAE",
+            "text": "My family and I had an amazing experience here. We tried the sushi boat for 4-5 people. It was delicious with different variations options. Our waiter Kevin was friendly and attentive. Definitely will be coming again!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21VeVYxZGFUVXd4TnpOdFlVSnVaR0ZEV1VsTUxYYxAB",
+            "text": "From the moment we sat down at Vista Mar in City Island, we felt welcomed and taken care of. Our waiter went above and beyond — friendly, attentive, and genuinely passionate about what he does. He recommended the perfect drinks (and they were 🔥), checked in on us without being overbearing, and made the whole evening feel special.\n\nThis wasn’t just dinner — it was an experience. Truly one of the best waiters we’ve ever had. 10/10 service, highly recommend! 🌟🍹🍽️ Jonathan was great!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kYVozRm1aalZSZFRGbVpsVjZNM2R6U21aRVVHYxAB",
+            "text": "Had the absolute best time for my mom’s 80th birthday celebration. Vistamar showed out. Jonathan and the other servers were beyond excellent!! My mom and our family and friends had the absolute best time.  We definitely recommend and will be back. Love love love everything about this place. The staff, the atmosphere, everyone and everything were so nice and accommodating. Thank you VistaMar, you did an outstanding job for a party of 31."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPREFzZXE3MDZmRWlnRRAB",
+            "text": "Came for my niece’s graduation and had a wonderful time. The staff (Edgar&Jocelyn) were on point, efficient, and friendly. Can’t wait to come again!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20wMVFsUjVkbFpWYkhSSGQxTnhWVE5pYXpoWk1FRRAB",
+            "text": "I highly reccomend Vistamar to everyone. The vibes were so lively. They even had brazilian dancers dancing throughout the restaurant. Angel was the best server we couldve had for the night, attentive and top notch. The food was delicious and well seasoned too."
+        },
+        {
+            "date": "수정일: 6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRdkxIM3BnRRAB",
+            "text": "Vistamar on City Island in the Bronx is a vibrant Latin seafood restaurant with beautiful waterfront views. The menu features flavorful dishes like ceviche, paella, and grilled fish, along with classic Latin sides and strong cocktails. While the prices are on the higher side, the experience is truly memorable — with live performers, a fantastic DJ, and staff who sing happy birthday for anyone who requests it. I celebrated my birthday here and had a great time! Valet parking is available, and our server, Ygsell, was attentive and made the evening even better. Overall, it’s an excellent spot for special occasions and a fun night out."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OYWMydGlUMFZMUTJJM04ySnFjVlphY0ZSb1VsRRAB",
+            "text": "Isabel was amazing. Best server ever, definitely visit vistamar in city island 🏝️. I will recommend this place to everyone I know."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwNFIxRnZlVTFZYjJremVrOXdRV1ZVYUUxSGRYYxAB",
+            "text": "It was my mom’s birthday and this restaurant made my mom’s birthday a loving and the vibe was upbeat. Jocelyn gave my family Amazing customer service, good great presentation and excellent communication skills."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25odWFFVlFjREJqVFMxaFZ6STNkbFpvZDFCamNHYxAB",
+            "text": "I had such a great experience at Vistamar! . The atmosphere was warm and welcoming, and the staff were attentive without being overbearing, especially Dethelin and Luis! Both were amazing.  My meal was delicious!  Everything came out quickly and was presented beautifully. I’ll definitely be coming back and recommending this spot to friends and family!”I love this place!\n\n⸻\n\nWant me to make you a"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwYU1Ea3hURVJQVDNKTFRtSTVNVGh2ZVZVMFVrRRAB",
+            "text": "Angel Our Waiter…Him alone very welcoming. Very personable.\n\nThe food was great, the birthday cake ! OMG so good !\n\nThe drink in the LV purse? very cute!"
+        }
+    ],
+    "reviews_count": 100
+}

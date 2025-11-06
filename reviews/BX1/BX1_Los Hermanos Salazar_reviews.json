@@ -1,0 +1,495 @@
+{
+    "name": "Los Hermanos Salazar",
+    "place_id": "ChIJtZHvtM71wokRT5f1uD3HwAg",
+    "grid": "BX1",
+    "address": "645 Courtlandt Ave, Bronx, NY 10451, USA",
+    "rating": 4.2,
+    "user_ratings_total": 250,
+    "phone_number": "(917) 471-8320",
+    "reviews": [
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sblZGbE9jbEY1YmxjelVtMXdUR3BqYjFOTmNIYxAB",
+            "text": "Authentic food, and delicious"
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkb1JIVllTekZrU25kNWEwcGpOazlsUzFsSmJFRRAB",
+            "text": "Muy buena la comida y lo preparan rapido"
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VKS1pqOUx1aGZTb2FREAE",
+            "text": "Soy unas de la patrona regulares. El guacamole, me encanta!!! No mucho lugares que saben como hacerlo bueno. 🤤"
+        },
+        {
+            "date": "수정일: 5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURQaHBXVUVnEAE",
+            "text": "Great and reliable service..They have the best Mexican food around."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMZTB5WnlZb1lQY1RnEAE",
+            "text": "Fantastic tacos and Fantastic food all around. Great and fantastic service"
+        },
+        {
+            "date": "6달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJOC0tMmh3RRAB",
+            "text": "Primera ves y última ves que pido un delivery de aquí porque pedí una pechuga empanizada ,y nada que ver con lo que es !!!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNROTU2OThnRRAB",
+            "text": "Delicious Mexican food in this authentic gem of a restaurant. The area is a bit sketchy but that's how you know there's good food. Everything I've tasted has been delicious and authentic, from the nachos and the GAC, to the tacos, handmade tortillas and tamales, to their horchata. Truly a treat to have. The atmosphere is hole in the wall dive bar vibes. The staff are friendly and attentive. Portions are generous."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURBdnFfbWFBEAE",
+            "text": "The worst experience I’ve had in any restaurant and honestly the first time I’ve ever been racially profiled. I am a darker Hispanic man ( PR & Cuban) & I came in the other day with my wife to pick up some dinner ( steak tacos & enchiladas etc) and the food total came out to about $50 or so. I was then surprised to hear that I had to give my STATE ID along with my card in order to pay, keep in mind I had not ordered any alcohol nor was the total over $100. My wife is Hispanic so she understands Spanish fluently and overheard the ladies at the counter whispering about me saying “ I needed to be watched “ and was followed by constant weird stares. I’ve never heard of having to provide ID for $50 worth of food. The people at the counter even asked for my ID again to “verify my name” and such on. I am beyond disgusted with that treatment and will never step foot into that establishment again. If you are a person of color I warn you that you will be treated with the same courtesy as I did."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURBanFmODhRRRAB",
+            "text": "very great customer services"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmc2RyZXZnRRAB",
+            "text": "I ordered quesadilla take out when I arrive at home I found tacos on my order the taco don’t taste good"
+        },
+        {
+            "date": "11달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNQd3BPcWN3EAE",
+            "text": "Me agrada el lugar"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ3cjVhczhRRRAB",
+            "text": "I fiand a cucaracha on my yarao I swear"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM3eDZHZlFREAE",
+            "text": "Muy caro"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNid05yV1pnEAE",
+            "text": "Nachos are amazing"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMMF9xTzB3RRAB",
+            "text": "Acabo de ordenar unas cemitas y están todas duras y la carne muy seca . Cero calidad .. también ordene unos tacos de carnita y para empezar la tortilla no es de tamaño estándar es pequeña.. poca carne y muy dura también.. horrible la comida 👎"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNMcW82Zy13RRAB",
+            "text": "Muy buena atención de la mesera, excelente muy buen trabajo, todos en familia vinimos a comer y una mesera con lentes, nos atendió de lo mejor, excelente trabajo se siente como en casa...😌muy recomendable..."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR6MU1Ha2R3EAE",
+            "text": "Excellent service\nDelicious foods\nI like this place very much"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUbnJYMER3EAE",
+            "text": "Me dio gusto pasar por ahí comer buena atención también"
+        },
+        {
+            "date": "1년 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqdTRyb0pBEAE",
+            "text": "Très bon service. J’y suis allé deux fois pour emporter et la serveuse m’a bien conseillé! Un vrai régal. Merci"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREbHBIck1REAE",
+            "text": "Went in to try out new Tacos. 10/10 Tacos."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMxaGZiZzJBRRAB",
+            "text": "Delicious! Service didn’t take too long with the food, music was great, though it is in a sketchy part of the BX, it’s worth the trip. Parking wasn’t too bad."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsN3I2T1RREAE",
+            "text": "Lindo lugar pero se tardan mucho con la comida y así no se puede"
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNsMnNMUXhRRRAB",
+            "text": "Ambience teanquilo Para comer"
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaeEp5TzF3RRAB",
+            "text": "Muy bueno 👌 el servicio y la comida"
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwc2NfT2tnRRAB",
+            "text": "La comida es bien buena. Me encantan los nachos dr steak y los tacos de pollo .Recomendado"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURwcXNydHBRRRAB",
+            "text": "Amazing Food! Decent wait time and amazing customer service, amazing staff. Would 10/10 Recommend."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURKOXAzbVhREAE",
+            "text": "I came here a while ago with a friend the food was ok it wasn’t the greatest but we were hungry. The atmosphere is a little uncomfortable because of the sketchy area. The service was kind of long as well."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNKbzlxMWdBRRAB",
+            "text": "The most unprofessional, rude and nastiest attitudes from receptionist on the phones. My SIL called to complain about incorrect order and they blocked her and my brother’s number. I attempted to make an order over the phone as usual with my card payment, rude waitress told me to wait and call back. I tried to explain if their machine is down, i can pay cash. She hung up the phone. I tried calling , she answered the phone and hung up. Tried calling 3 more times after and keep getting my calls forwarded AFTER giving my card info. Now i have to cancel my card. So rude!!!! Nastiest attitude. Get new workers that are happy to take calls. And for future references, lower the radio you have blasting like a club. Yall have nasty attitude when we ask to repeat what yall say because the music is so loud. Do yall want to be a club or a restaurant?"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXNTV6THFnRRAB",
+            "text": "The owner is very rude and he have no class when he talks to the customers not recommended"
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCMTdyc0t3EAE",
+            "text": "Los tacos de tripa excelente 👌 y un lugar super tranquilo para tomarte una cervecita y relajarte."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCLWNMRDlnRRAB",
+            "text": "My absolute favorite tacos, best flavor & amazing prices. Service is always prompt and done with a smile, & I’ve never been dissatisfied with my tacos. I bring all my friends here, they love the tacos too 🫶🏽"
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURCNGViSVFnEAE",
+            "text": "Excelente atención , excepto que el ceviche creo no esta hecho de salsa natural"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNCd09UTHJBRRAB",
+            "text": "The owner and also the girls/ladies taking your orders are very polite. I've been coming here for about 6 yrs... Family Restaurant and great music ❤"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtaG9Tb053EAE",
+            "text": "I ordered for delivery and got the tacos dorados with rice and beans, it was amazing finished everything and the horchata was good too. Definitely recommend"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQtMnJXblRBEAE",
+            "text": "Never opens on time there’s always something wrong with my order and they charge me twice for a order not worth your hard earn money"
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMtbDl5MzBBRRAB",
+            "text": "Un lugar muy acogedor para compartir con amigos y familiares y la comida muy buena"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNHMk9DWmRBEAE",
+            "text": "Amazing food !  They are the most authentic ! Tacos Al Pastor unbeatable in the community! In fact went to taco alley in Tijuana Mexico they did not deliver like Hermanos Salazar!  Like I said unbeatable ."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1azZQV3dBRRAB",
+            "text": "Food ain’t good or tasteful at all. Waitress had a attitude when i asked her about portions. Horrible experience i would 0 stars if i could."
+        },
+        {
+            "date": "3년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1X3BYczFRRRAB",
+            "text": "Lo recomiendo muy buen servicio las meseras muy amables la comida muy buena y Brenda"
+        },
+        {
+            "date": "수정일: 3년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXbTdhNmNBEAE",
+            "text": "Deliciosa comida mexicana...excelente servicio!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPcWVpMmtRRRAB",
+            "text": "This spot has some absurd options for tacos. You can get a steak taco only on soft tortilla, they don't allow you to get it on a hard shell. I decided instead to get a chicken taco which the waitress said you can get on hard shell however,…"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPdjRXU0hnEAE",
+            "text": "Food aint good"
+        },
+        {
+            "date": "3년 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNPaV9uRzZBRRAB",
+            "text": "No cojen el\nTeléfono"
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURROXRYRzh3RRAB",
+            "text": "Food was not bad at all but it's not to die for neither.Services was express that shocked me but i would had love waiting a little long for a tasty food!! Their Sauce (guacamole) is to die for it has all the right flavor you taste on a real guacamole."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBOTdMYkpREAE",
+            "text": "!Perfecto! It's been hard finding truly awesome Mexican. I find one and it goes out of business. Or it becomes too popular and Americanized. Los Hermanos Salazar is great. It's a pretty small place and the food prep is a bit slow, but worth the wait. Also, ciento, no inhaled (sorry, no English) - either speak Spanish or do your best to point in the translated menu.\n\nWe had six tacos of lengua (beef tongue), tripa (tripe), al pastor (spicy pork with pineapple), and barbacoa (bbq goat). All were excellent, although they needed the cheese for salt. Plenty of filling and toppings with radish on the side. We ordered a large side of arroz y frijoles (rice and beans), and while it was huge, we cleaned house. Honestly, one of the best we've had. Very simple but executed with perfection.\n\nFinally, my favorite, a cemita con mixto de lengua y cabeza (a large sandwich with beef tongue and head). Filled a plenty with chipotle, avocado, lettuce, tomato, mayo and more. I had it without cheese. The bread was awesome. The sandwich was huge and awesome. I'm still full.\n\nThis is worth a Bronx trip. For a family of four hungry eaters, the meal as described plus a few seltzer and a generous tip was $54. Wow."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChRDSUhNMG9nS0VJQ0FnSUM4eWVoahAB",
+            "text": "First time trying this place and they did not disappoint. The tostadas and tacos were very delicious. The tacos were stuffed, other taco places are cheap on the toppings but not them. The salsas were perfectly spicy too. They weren't…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUM2MGFxb2R3EAE",
+            "text": "The Al Pastor tacos were well seasoned, spicy and delicious."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNndHVMaWV3EAE",
+            "text": "I ordered from here today. The food was cold..Seems like it sat in the restaurant for a while before they sent it. The nachos were soggy, steak was dry. It had too much sour cream and onions, which I requested them not to put in the food.…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURTX295V3hnRRAB",
+            "text": "Amazing place. The food never disappoints. Good and humble people. Service is always great. Tacos are on point, but then again, any dish they make is delicious."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURxeU1uRUdREAE",
+            "text": "I also ordered takeout from here and the food is always good same thing as fresh when I get it the service is nice the people who take my order are very nice I'm very helpful and they always get what I want just right I really enjoy the services"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNRMmYtMWZREAE",
+            "text": "Happened upon this gem by accident. Food and service was great! Some of the best tacos I've ever had. True, authentic tacos."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURZOXBXZFFnEAE",
+            "text": "Love the food....everything I have tasted in there so far is really good"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQyNnBuMTZBRRAB",
+            "text": "The food is amazing but i did have issue with the deleivery guy he was very disrepectfull to me i had the same issue 2 times with the same GUY"
+        },
+        {
+            "date": "수정일: 4년 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNJcXUzRnBnRRAB",
+            "text": "Es recomendable la comida pero hoy estuvo un poco mal las enchiladas de mole el mole estuvo rico pero la tortilla estaba con tostada y Eren enchiladas no tostadas pero el Servicio estuvo bien"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNXOXF2a2pBRRAB",
+            "text": "Food is AMAZING!\nReal, authentic Mexican food! As long as you're fully vaccinated you can dine in, which is great!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURTMGRQWllnEAE",
+            "text": "This is a small little family own restaurant that has a nice Mexican feel with amazing staff and service. Very good food"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNRNzY3Q253RRAB",
+            "text": "I love the food here, the food is great, everything is just served great."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN3bElfeTdRRRAB",
+            "text": "Food and service was great! Some of the best tacos I've ever had. True, authentic tacos."
+        },
+        {
+            "date": "수정일: 7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRbnZDRmZnEAE",
+            "text": "I loveeeeeeeddddddddd everything about this place , fast service , amazing food , and the price is amazing i really recommend everyone to come to this place. The nachos and guacamoles and the juice of thamarindo are 😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍😍❤❤❤❤❤❤ favorite place so far.…"
+        },
+        {
+            "date": "4년 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURhbE5QSVBBEAE",
+            "text": "Mala experiencia las meseras tardan en atenderte la comida es delo más pésimo y su servicio de barra es de lo peor tienen rocola pero nunca funciona es un lugar de los peores que eh visitado no lo recomiendo"
+        },
+        {
+            "date": "5년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNNbTlmTmtRRRAB",
+            "text": "Recomiendo mucho este lugar la comida es muy rica y la gente es muy amable me gusta ir con la familia y pasar un buen tiempo...."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMwMG9MMFpBEAE",
+            "text": "They always mess up my online orders w something missing. Overpriced & amount of food served is always changing w less and less for same price"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNHME1IY3h3RRAB",
+            "text": "There is no other place like this... I am currently living in Florida, and cannot find good Mexican dishes. This is my one and only Mexican spot."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN5eXFILWVBEAE",
+            "text": "Really love the food it’s so tasty worth the price the tacos even the nachos, the quesadillas"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMyd1pEX1NnEAE",
+            "text": "The food here is amazing.\nVery fast for ordering and pickup.\nQuality food"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNLd1lQT0JREAE",
+            "text": "Fun spot to go with friends and family\nCold beer and some delicious mexican food!\nFriendly staff and the owner is awesome"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhenF1M1J3EAE",
+            "text": "The food here is amazing, maybe one of the best tacos I've had."
+        },
+        {
+            "date": "8년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRbTVyNElBEAE",
+            "text": "love the food and quick delivery  and was my first time ordering here well please...thanks was amazing"
+        },
+        {
+            "date": "9년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnLXJPWS13RRAB",
+            "text": "Me encanta un lugar precioso y la Gente es muy amable y buena...... Ni que se diga de la comida es deliciosa......👌👌👏😌…"
+        }
+    ],
+    "reviews_count": 69
+}

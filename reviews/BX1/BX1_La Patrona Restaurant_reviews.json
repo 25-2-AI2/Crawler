@@ -4,16 +4,9 @@
     "grid": "BX1",
     "address": "558 Southern Blvd, Bronx, NY 10455, USA",
     "rating": 4.4,
-    "user_ratings_total": 361,
+    "user_ratings_total": 360,
     "phone_number": "(347) 270-5545",
     "reviews": [
-        {
-            "date": "7시간 전",
-            "language": "es",
-            "rating": 5,
-            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xVMlRtWndSMDFKV0dGamJUTkhXVFl0ZFZCMWRVRRAB",
-            "text": "i got the chicken burrito and it bussssss!!! mi restaurante mexicana favorito! siempre voy a volver."
-        },
         {
             "date": "2주 전",
             "language": "es",
@@ -449,6 +442,13 @@
             "text": "THE BEST MEXICAN FOOD  IN THE BRONX. TELL THEM MANNY ORTIZ SEND U YOU GONNA GET A FREE TOSTADA"
         },
         {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURTMHFDU0ZBEAE",
+            "text": "Fish bowls are awesome. Food is awesome. Vibes are awesome. They have great social distance seating too. Packed on the weekends so be ready for about a 15 min wait"
+        },
+        {
             "date": "2년 전",
             "language": "es",
             "rating": 5,
@@ -484,13 +484,6 @@
             "text": "We love La Patrona Restaurant . I have family in New York and every time we visit we have to stop by and get some delicious food. The service is great and they also offer delivery through delivery apps.  My favorite dish is probably the…"
         },
         {
-            "date": "4년 전",
-            "language": "en",
-            "rating": 5,
-            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURTMHFDU0ZBEAE",
-            "text": "Fish bowls are awesome. Food is awesome. Vibes are awesome. They have great social distance seating too. Packed on the weekends so be ready for about a 15 min wait"
-        },
-        {
             "date": "3년 전",
             "language": "en",
             "rating": 5,
@@ -505,5 +498,5 @@
             "text": "Rally good  Mexican restaurant, I love it  best food in the bronx"
         }
     ],
-    "reviews_count": 71
+    "reviews_count": 70
 }

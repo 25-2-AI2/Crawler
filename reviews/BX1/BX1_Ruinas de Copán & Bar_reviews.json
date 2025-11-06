@@ -452,6 +452,13 @@
             "date": "5년 전",
             "language": "es",
             "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDcGFfVG1RRRAB",
+            "text": "Este restaurant es horrible. Comida basuraaaa y cara son ladrones."
+        },
+        {
+            "date": "5년 전",
+            "language": "es",
+            "rating": 1,
             "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNNd1lPMFRBEAE",
             "text": "Horrible la comida no está buena y las pupusas sin sabor, cobran caro y este lugar no sirve"
         },
@@ -461,13 +468,6 @@
             "rating": 3,
             "review_id": "ChZDSUhNMG9nS0VJQ0FnSURvME1fNFlBEAE",
             "text": "I went for lunch and didnt get fresh white rice... ehhh it could be worse."
-        },
-        {
-            "date": "5년 전",
-            "language": "es",
-            "rating": 1,
-            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURDcGFfVG1RRRAB",
-            "text": "Este restaurant es horrible. Comida basuraaaa y cara son ladrones."
         }
     ],
     "reviews_count": 66
