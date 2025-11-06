@@ -1,0 +1,19 @@
+{
+    "name": "Ariana’s Cucina",
+    "place_id": "ChIJp2LcBwBLwokR4tJkxOW_cvY",
+    "grid": "SI3",
+    "address": "6451 Amboy Rd, Staten Island, NY 10309, USA",
+    "rating": 5,
+    "user_ratings_total": 1,
+    "phone_number": null,
+    "reviews": [
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZdk9UOXFBRRAB",
+            "text": "Looking forward for the new high-end Italian restaurant to come to our neighborhood!"
+        }
+    ],
+    "reviews_count": 1
+}

@@ -1,0 +1,432 @@
+{
+    "name": "Aldo's Ozone Park",
+    "place_id": "ChIJF1JLbYpdwokR95VdW7tKMRQ",
+    "grid": "QN10",
+    "address": "137-01 Cross Bay Blvd, Ozone Park, NY 11417, USA",
+    "rating": 4.2,
+    "user_ratings_total": 705,
+    "phone_number": "(718) 738-0021",
+    "reviews": [
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkR01scERkMUpUTkY4MlNtbGljamxqYUhCRlpIYxAB",
+            "text": "The best food, the best service thank you guys for everything"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tGc1JVaHBZVWh5ZWw5TGFFZDJRa3N4UkhFd1VrRRAB",
+            "text": "Pizza was excellent!👌\nSpinach roll was delicious 😋\nThis is a real Italian restaurant.\nEverything was good.\nMy new pizza joint!"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Nd2RrTnRSMjAxU2twQk9FTTRUamR0WTJSTE5GRRAB",
+            "text": "This restaurant has been awesome for the community.  They allow me to have authentic food at a reasonable price and they are very accommodating.  Their catering is A1 and the fact that they do whatever they can to make whatever authentic Italian dish you may want is a plus.   If you get a chance stop in see the owner who is on premise all the time and try a dish."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4c1VVMXlWalJLU0VkcVJHOUtVVTVxY2paMFUyYxAB",
+            "text": "Great food and wonderful portion sizes, this is an excellent establishment. By far the best part was the service, exceptional waiter, a great time was had by all."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poUGVXRnJTMmxQWlhoemVVTlZSM0YzVUZGMU9XYxAB",
+            "text": "Good pizza!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wcWEwRmxabVE1ZFhoU056ZFlkSGxYUzI5Q04wRRAB",
+            "text": "Great balance of spices and textures. Truly satisfying meal."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5Nk1tVXlaMU5IYmtaVU1GRmtTRjlEUTNCSVJIYxAB",
+            "text": "A real crowd-pleaser. Everyone in our group loved it."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGTFF6aG1kSEZDWkY5eGNIRjNPSFJaTjE5Qk1GRRAB",
+            "text": "We were there for karaoke. Food and the service was great."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oME4wMVBTVXBQYlhwaVJtSmhaakJrYVVFeFZWRRAB",
+            "text": "If you’re looking for truly authentic Italian pizza, this is the spot! The food is always fresh, delicious, and made with so much love. Santino, the manager, goes above and beyond for every guest, he makes everyone feel like family the moment they walk in. Highly recommend this place if you want amazing food and even better service!"
+        },
+        {
+            "date": "수정일: 2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURnMDlMZVZ3EAE",
+            "text": "Yummy food"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tobVRXdGZkRFl5Y0dGeGRXcExlbmxMTWxJMk9WRRAB",
+            "text": "Great customer service and the food is amazing!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kQ1QwdG5VWFZ4WDE4MFJHTndlRFppU3psUGNsRRAB",
+            "text": "Call me old fashioned, but $4.23 for a plain-old slice feels like a bit much. Slice was good though."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25aelQxaERUVnBIVVRRNE5FMHpWVWRUZWpCU1NtYxAB",
+            "text": "Amazing service food and atmosphere. 👍🏾 For me"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kdFpXeHZTamhoWWpkSVoxaDVObEJCWTFkQlFuYxAB",
+            "text": "Food was excellent.  Staff was friendly and accommodating. Been coming here for yrs would definitely recommend."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCeFZFVXRhbUpZTWpGV01rbEJhbTVKUmxaUWFuYxAB",
+            "text": "Rude customer service. Try calling to place an order and they just put you on hold without saying Hello or Please hold."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xORGJubHdPRTVwWVROcFJFOUthV3d5Tkc1SVRYYxAB",
+            "text": "The food is great, we usually order for delivery. It's a bit pricey, but the food is good enough we save for it. The delivery driver getting an attitude about not getting a tip? Could do without. We tip when we can. It's off putting having the food shoved at you. At the end of the day, the customer isn't at fault if you heavily rely on tips over your wage. Customer service over the phone is lovely every time!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQZWhwZTZzclBMTmpnRRAB",
+            "text": "Always good"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJYl9wN19iNTZUcmhBRRAB",
+            "text": "I gave 2 stars because the price is astronomically high! $62 for 1 pepperoni pie 1 chicken roll and 1 pepperoni roll! 🤔 That math is mathing!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VLeWV4clhEci0zTVJBEAE",
+            "text": "Food was delicious"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURJcW9lV3NnRRAB",
+            "text": "By far the best Italian restaurant in Queens with authentic, old school cooking and such fresh ingredients and amazing flavors. Service is fun and welcoming with a homely feel."
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURHd05fNGJnEAE",
+            "text": "Great food 😋and staff"
+        },
+        {
+            "date": "8달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNRM0lDcHJBRRAB",
+            "text": "Buenísima comida y buen servicio al cliente"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURncXRUWVlnEAE",
+            "text": "Everything is excellent beats out Ozone Pizza and New Park by a mile. 😄😄😄"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfMklYcS1BRRAB",
+            "text": "Had a plain slice and a grandma slice for $10. Insane prices and pizza was trash. No sauce and no salt. Tasteless for Howard beach/ozone park. Never again. Counter ppl don’t greet you, no thank you either. Just an ugh experience. Rather go to Romeo’s or Gino’s."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmd2MySHpnRRAB",
+            "text": "𝚆𝚑𝚊𝚝 𝚑𝚊𝚙𝚙𝚎𝚗𝚎𝚍 𝚝𝚘 𝚝𝚑𝚎 𝚙𝚒𝚣𝚣𝚊!!"
+        },
+        {
+            "date": "10달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR2MDhUM0VnEAE",
+            "text": "Excelente 👌!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR2MWJyRnhnRRAB",
+            "text": "Great food and terrific service. One of the few gems left in Ozone Park."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN2Njh6MTF3RRAB",
+            "text": "I miss the original Aldo’s, the pizza is DEFINITELY not the same and the people working aren’t the nicest they greet you most time but just saying “yeah” instead of something more welcoming especially the older guy in front making the pizzas he always looks miserable . Garlic knots are doughy eh i guess it’s alright just not my 1st or second choice Yes"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURQbHRldjdnRRAB",
+            "text": "Since I moved to New York in 2010 this is my favorite place to taste the best pizza in NYC and the amazing rice balls"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzcDlPTElnEAE",
+            "text": "We had my brother’s 65 birthday party at Aldo’s on November 16. I can’t speak highly enough about the whole experience. I live in Florida and Anthony helped me to plan the party. He was so helpful and his staff were amazing. The service was top notch. All of our guests raved about the food and said they would definitely have their next party there. My only complaint is that I don’t get to New York enough to enjoy their delicious food. I highly recommend them."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzM1l2SklREAE",
+            "text": "Food is always good."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQzbGZqS2dRRRAB",
+            "text": "I wasn’t a fan of the pizza. New Park is better"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUMzbzRHdDdnRRAB",
+            "text": "Made a reservation for a party of 15 and everything from beginning to end was great. The staff was very accommodating, the food was delicious. I would definitely bring my family here again."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYdDkzampRRRAB",
+            "text": "the worst service. They are all poorly educated and rude, they don't understand how dangerous an allergy is, they don't care, they could make someone sick or worse."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYdF9YclJREAE",
+            "text": "Pésimo servicio, gente maleducada no atienden bien"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYc3B6TGZBEAE",
+            "text": "You are treated  as you are part of the family"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURuMGJXS2xBRRAB",
+            "text": "Nice and clean pizza spot with chairs and tables to sit but wow the pizza was tasteless the garlic nots were over-dougish also the marinara sauce is watered down.."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNucGREQlBBEAE",
+            "text": "One of my favorite places to eat. The food is always fresh and delicious."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIZ2RHTUpnEAE",
+            "text": "Beers food everything is good there"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNIcXIzLWZBEAE",
+            "text": "The pizza here is okay not too bad, I wish they had a wing option but I guess not. It is very pricey."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN1aElxRXZRRRAB",
+            "text": "It's an okay slice for me, an hour before closing, I think it's better to order whole pie, if it can be consumed. Above 5 slices, it's best to get the whole pie, pretty much costs the same. Wouldn't suggest Jamaican pies, they are like the ones sold across the street at Dollar Tree, the Golden Crust Brand."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4eGNHMnFRRRAB",
+            "text": "This place uses to be really good back in the day. I moved away from the City & haven’t been here for a while. We were very disappointed in all our food. The bread was hard as a rock, the clams looked and tasted old, and the chicken Parm hero was just sad. Not a good experience. Sorry Aldo’s, but we will not be returning."
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4c3FhTC13RRAB",
+            "text": "I love Aldo's Pizza!!\nThey have a nice selection to choose from. One of my favorite is the Druken Sicilian. My wife loves the Veggie Slice. Regular slice are awesome too.\nThey also have Heros and dishes. They do it all. The place is clean, and the service is on point."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqbzQzVzFRRRAB",
+            "text": "Pizza 🍕 is fantastic 😋 very convenient location and most definitely satisfied my pizza cravings, on cheat days 😃"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNKaE5DRU5REAE",
+            "text": "This place has LITERALLY the most underrated Margherita pie in NYC. Everyone is out here ordering the reg pie which I haven’t tried (and never will). The true pie you need to order is the Margherita! I promise you this is the only pie you need in your life. I only order this one. Best I’ve ever had. (My son also loves the bbq chicken, bacon & ranch)\n\nI can’t speak to many other of their food items. But I please order the damn Margherita. I mean just look at it. Perfect sauce, right amount of salt in the dough, beautiful crisp with soft inside.. and HUGE! I would pay for this recipe. Please Aldo write down the recipe. 💜"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhbXBpSGtBRRAB",
+            "text": "Excellent customer service. The food was delicious. Great place to take a family or even for a romantic affordable dinner. The place is eat in and take out."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQyemJxd3BnRRAB",
+            "text": "this place was AMAZING!! the food was fantastic and not expensive at all! my dad said that they were as good as eating in Italy!"
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQ4cWVqWGxRRRAB",
+            "text": "The service was great.. The food was even better ..Good place to bring your family and enjoy a good meal.."
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURwMl9mWFp3EAE",
+            "text": "he probado pedacitos de pizza más ricos y también calzone la verdad no me gustó nada de este lugar y"
+        },
+        {
+            "date": "9년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURRbkt5M1NnEAE",
+            "text": "Great pizza! Delicious,  good sauce! Yummy garlic knots too 👌❤️ fast service even during peak time on a Friday night!…"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGbjVlVjBBRRAB",
+            "text": "A picture is worth a thousand words, this is the ham and American hero I received with my order."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURkLXRMNFdBEAE",
+            "text": "Shine a spotlight on them!\nSo you guys know that I'm very, very hard to please. And for me to have to rate somebody on. This must be big, but let me tell you. This piece of store is highly recommended by myself because the pizza. You really have to sit back and ask yourself.  If it's a gravy or is it a sauce? The consistency of the sauce is just right? It's a smooth flow, and the crust at the end is not too salty like sometimes you have issues with that with certain pizza stores, but let me just tell you. This establishment comes highly recommended and that's just from the cheese slice. I look forward to going back and seeing what else I can explore with my options.  Everything is the right consistency. It actually brought tears to my eyes because it had a certain flow to it. #madewithLOVE You definitely want to give the big ups too. Because it is a job well done, especially for these taste buds."
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwcnVPc3Z3RRAB",
+            "text": "Well usually we order food on Thursday towards the weekend and for what they charge most of the time it's not so great. And when it is good it's really good but as I said that's barely. I just think if you don't like making pizza stuff anymore. Bounce. So decided to get food again for another chance and the pizza taste bad the pizza roll was hard as steel and good bye"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURhOUxxOE1nEAE",
+            "text": "My go\nTo seamless place for pizza ! The grandma and pepperoni pizza are awesome ! And the calamari!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ1dHZ5bGJREAE",
+            "text": "Yesterday I had pleasure to try your place. The pizza was awesome.  The sauce was delicious..\nBut I was over charger for 2 margaritas slices and two cheese slices and can of Pepsi and Fountain juice 29.00 dollars\nLast night . I took menu and specialized slices are $5.00 dollars each and cheese slices are $3.50 each the can soda was $1.50 and the fountain juice I guess $2.50. My total should had been 21.50 instead of $29.00 dollars young man at counter charger me. Never gave me receipt .As I review menu I noticed I was over charger. I am not sure reason 😕.  But that wasnt cool. I am sorry but I won't recommend this place just cause person at counter who over charger on menu prices. Best of luck in future"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNEbTZ2SDJ3RRAB",
+            "text": "Where can I begin with this place?  Since the departure of the old man, this place has been on a downhill trajectory.  The food is average at best, the service is horrible.  Nasty people behind the counter, on the phone and terrible customer service.  They get your order wrong, they keep you waiting when you order ahead an hour and all for food that is forgettable on a good day.  I know most of the guys at work won't even consider this place.  The last time I went there, I ordered two chicken parmigiana on a hero and one done a specific way.  I forgot to order the pie of pizza after having to repeat my order specifics to the girl taking the order.  I waited an hour to show up and told them I forgot to order the pie and I wanted to know if I can just purchase the pie under the counter glass.  A simple response would have sufficed but the large nasty white guy behind the counter sneered out \"no he's going to wait\".  I said to the Spanish guy who spoke little English behind the counter forget it just give me four slices.  I specifically asked him lightly heated and he nodded as though he understood but left my slices in till they were blazing hot and getting tough.  I had to ask him again to remove my slices and asked him for the two heros I ordered an hour earlier over the phone and he said I had to wait.  I again told him it was called in an hour ahead and he said it's not done yet.  It wasn't even too busy yet they took half an hour and I still waited.  After the half hour, I was ready to ask for a refund and asked one last time for the heros and he went to the back and brought them in.  During this whole time the pie behind the counter got cold and not one person bought a slice.  When I got back I realized that the order was done wrong.  If this wasn't Easter Sunday, I'd never have went there.  It served to remind me how terrible customer service is there and the food isn't even very good.  The neighborhood is surrounded by plac s that have better service and better food.  To top it off someone called me two hours later to ask if I was going to bother picking up my heros.  I told this individual how I came in and kept reminding the guy behind the counter three times about my order that was done an hour before my arrival and how they had me wait half an hour for something I hadn't ordered and they were nasty too.  No one at the job even goes there anymore.  I had my buddy ready to go with me for food until he heard they were the only Italian place open and he opted for 7 eleven instead.  He said I'll never go there and I should have taken his lead.  Never again.  A block north and one west, or on the other side of the Belt Parkway has better service and people seem to care about what they make.  Whoever responds to this review, don't bother apologizing for what this place has become; you need to fire your current staff and get people who have people skills and don't hate their job."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNMZ3Y3U0p3EAE",
+            "text": "A great NYC staple. We were seated right away for Father’s day and we ordered Chicken Parmigiana, pasta, shrimp, spinach and wings.  Service was good and food was delicious.\nThanks Aldo’s!"
+        },
+        {
+            "date": "수정일: 2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNBeExHcTNRRRAB",
+            "text": "Food is good and so is the price. The presentation on this Special was awesome too!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxNExDU0NBEAE",
+            "text": "Aldo's is an incredible place to go to. I definitely recommend it, no matter what you are looking for. Aldo's covers all the bases, and checks all the boxes. Talk about an establishment with versatility. Want to grab a delicious pizza pie or slice? Check! Craving a delicious pasta or seafood dish, bread, or salad? Check! Looking to have a catered event that is sure to please with amazing ambiance, delicious food, ample space and quality, courteous service for a reasonable price? Check! Want to grab an afternoon cocktail and meet some classy #1 bartenders who specialize in top-notch concoctions? Check! Want a place with a friendly, honest owner with kind, knowledgeable, and accommodating staff? Check! Aldo's offers this and so much more. I can attest to everything I have raved about because I have experienced it firsthand. Thank you Aldo's for checking off all the boxes, and doing it so effortlessly. You have a lifelong customer in me, and I am sure anyone who makes it a point to try your establishment out and see for themselves will say the same thing. You won't be disappointed. Mark my words."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQ3bmVXNEpREAE",
+            "text": "I miss the days where Aldo would make the first pie every single day without fail.  I would go in and enjoy my slice with a soda and my soul would be totally fulfilled. NOW,  it's just at an all time LOW. Ozone Park used to have the BEST pizza in NYC. Now, we have like no pizza shops anymore. Ever since Aldo sold his restaurant, the new owners changed the recipe and down graded in ingredient quality. It's no secret. The locals who grew up in the neighborhood know.\nMy girlfriend is from out of town and unknowing ordered from Aldos. If I knew I would have told her not to.\nWhen the food came she said it was from Aldos. I was like damn you should have told me! But ok let's give it another shot! So we eat the mozzarella sticks. They were decently cooked but the sauce was obviously frozen sauce or at the very least low quality. Just slightly better than Fridays frozen dipping sauce. So that was a 2/10. Then we eat the pizza. The actual slice was cooked perfectly but there was literally ZERO sauce on the pizza so you couldn't really taste much but the dough and cheese. So that's a 3/10. Then the main event which was Alfredo linguine with grilled chicken. The pasta was not bad but the chicken was definitely frozen chicken. Not fresh at all. It was dry. I was crewing for like 5 mins and it wasn't breaking down. So I just picked all the chicken out and ate the pasta. So I give this a 2/10.\nOverall, I give Aldos a 1/10. I'll never give it another chance UNLESS Aldo comes back and gives them the recipe and they go back to their traditional ways. Incredibley sad to say but your better off just going to Domino's or Papa John's and getting a meal. 💔"
+        }
+    ],
+    "reviews_count": 60
+}

@@ -1,0 +1,425 @@
+{
+    "name": "La Sala",
+    "place_id": "ChIJ72ZlMPxhwokRo_ImQd1WvO4",
+    "grid": "QN8",
+    "address": "116-35 Metropolitan Ave, Richmond Hill, NY 11418, USA",
+    "rating": 4.5,
+    "user_ratings_total": 264,
+    "phone_number": "(718) 487-3990",
+    "reviews": [
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w4dGRYRkplakppYld3M1pXZEZWbkJhTWxOWFVIYxAB",
+            "text": "I stayed one night (this past Friday night) in an AirBnb in Richmond Hill, and got in late.  There weren't many nice restaurants in the neighborhood that were open past 10, so I hiked to La Sala (which turned out to be quite a hike, actually).  It was worth the hike.  I had the tacos and two of the Agave Lover cocktail (a variation on a margarita).  The tacos were absolutely fantastic, served with chips, a chipotle mayo sauce, and three excellent salsas, one of which was something I've never had before -- and it was fantastic.  There was almost more food than I could eat -- lots of meat, enough small tortillas, plenty of sauces. The Agave Lovers were good.  There was a musician playing the guitar and singing.  The vibe was chill, service was attentive, and the food was great.  I'm glad I went there."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT210emFYSjFUVlF3UTJsZlNFRldRbFJ4VVdvNVRXYxAB",
+            "text": "Had a birthday dinner here. The food was delicious and the service was great.  This will definitely become a regular happy hour, dinner and date spot."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKelFsbzNXVWx6Ykdwc1ZXTmFTMHBZTTJWSGNHYxAB",
+            "text": "Tastiest lamb chops and chimichurri sauce! Service was slow but the waitress was also the bartender, so I think it would’ve been faster but she was busy and did a great job considering that. First meal in my new neighborhood and I don’t think I could’ve chosen a better place to make a spectacular impression."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GSlFXRjVRblZXVDFoNVQwTXdOblZvZDNsSmMzYxAB",
+            "text": "Lamb is fantastic!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GcU0ySnVUMjUyUVhJM1dqQTFXa3hxTm1KNmFHYxAB",
+            "text": "Really good food and service!"
+        },
+        {
+            "date": "2달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsYVRsVjRPWEJFUVdGVlRWTjJkbUZSV1VsSE5GRRAB",
+            "text": "Estuve un domingo en la noche. Que lugar más maravilloso. Una sangria deliciosa y comida espectacular. La mesera que me atendió fue Jennifer. Excelente servicio! 1000 de 10!"
+        },
+        {
+            "date": "3달 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SR1pVdENWakV6VEdaV2VUWlhhbk5OTjFjd1YyYxAB",
+            "text": "El lugar me gusto mucho, sin embargo me sente afuera pq la tarde estaba linda, las ventanas abiertas, pero habia personas fumando afuera del rest de al lado, entre los dos negocios y se sentia el olor a cigarrillo. Eso no fue agradable"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t4VVQxaEthemxrZWpaS2NqVXhOMVJrYVdSTVlrRRAB",
+            "text": "Hi guys, just letting you know I had a great experience at this tapas restaurant. It was an enjoyable meal for sure, and the cocktails were great too!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkTVZEQXRObW80U1dwYU0wZzRXa0ZuVFZGVlRYYxAB",
+            "text": "I love this place. I've tried all the dishes, delicious all of them. They have the best sangria"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25GM1NFOVJaWFpNYVhNMGNYZHhkbWgzU1VWcGMzYxAB",
+            "text": "Nice small restaurant."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGWE1UTkxUM0l4ZUhSdk9FVnRXRlpaWm1jM01HYxAB",
+            "text": "Everything was perfect 👌🏾"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25OWmNYUnpkaTB6U1ZaRU5FRmxPVEkwVm1aT05WRRAB",
+            "text": "Went for a quick bite while waiting for my niece to finish dance, nice atmosphere. They offer a happy hour with wine, beer and sangria, I have an issue with them serving Carlos Rossi jug of sangria with no added frills. Also I enjoy fresh made sangria with a little brandy or rum mixed in. We enjoyed the petite empanadas which were really tasty, and fries topped with tajin."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pkS1lqUXdjek5VV2tOVFREbERkbmhpVFhST1JYYxAB",
+            "text": "The service was OK. The bartender was musty. The sangria was poured out of premade It’s not made fresh, Carlo Rossi bottles. His freshly made margarita with Don Julio reposado was the only thing that was OK. The food was okay! It's not a Happy Hour."
+        },
+        {
+            "date": "4달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VOV3RvNDNMeG9MdDVBRRAB",
+            "text": "Mal servicio ni si quiera me atendieron solo me ignoraban"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VNLU5yb3lRbnB6ekZREAE",
+            "text": "Great food and kind service. I love the food at there. If you are not sure which one to choose, please try the stake and truffle fries, taco, paella or lamb chops. They are all very good."
+        },
+        {
+            "date": "5달 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VLV3Nfc2FOc3BISV9nRRAB",
+            "text": "Llegue por el menú pero era mas un bar.\nMuy buena la comida"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VQYmkwZE9nbXRTWXNnRRAB",
+            "text": "Pretty resturant. Service is friendly but bc they are short staffed, it's almost non-existent. Food options were ok. I mainly go here bc of their awesome charcuterie board, which wasn't as impressive as usual on my last visit."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VPaTAzdE9BLTZ1RVZ3EAE",
+            "text": "Nice place, good atmosphere and good food"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZZ2ZpdUR3EAE",
+            "text": "I have to be honest during 12 -3 do not come here they will barely have any food and they will only have one list so basically the will only have the brunch menu I would not recommend you to come here during 12-3"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNZeUlIUlNREAE",
+            "text": "I came here because their instagram drew my attention but it was nothing like Instagram. I ordered the octopus and they gave me four little pieces overcooked expensive for the little bit I had. I came on a Wednesday maybe I picked the wrong day. 🤷‍♀️"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvOXF5eUZ3EAE",
+            "text": "good food, the staff are all attentive. ill highly recommend.\njust the steak are serve cold,"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNJXzhUMXpnRRAB",
+            "text": "We used to loooooove this place. They have the same menu, but all the ingredients have changed. Maybe there is new management or maybe it’s just the economy and people are trying to cut corners?"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUR3eHNfaXZ3RRAB",
+            "text": "The Sangria is delicious they have a variety of flavors.  Guacamole is my favorite. Great place for drinks and small bites."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUR3eVBxWE13EAE",
+            "text": "The best Tapas restaurant I’ve ever dined in Kew Gardens, Queens! Food was amazing, the flavor was on point. Service was great! I would 100 percent recommend to friends and family and will definitely dine again. We were a Party of 4 and everyone enjoyed their meal. I should add that the drinks were as delicious as the food! They do non alcohol mojitos and others, you just have to ask!"
+        },
+        {
+            "date": "수정일: 7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNaaUxYWXBBRRAB",
+            "text": "==========\nUpdate March 2025\nLasala is still my favorite restaurant!\nThere were three of us and we got the salmon, the mussels, and the mac and cheese.\nThe mussels came with chorizo which was very nice. It's in a red liquid as mussels always tend to be with some liquid and nice bread to soak it up.\nThe mac and cheese came with some shredded pork. Again very nice and the salmon was the salmon.\nThey tend to get busy on Saturdays, so it's good to have a reservation. Is they're not real busy at like 5:00 when they open but they will accommodate you. They'll tell you that oh may have to be finished by 7. 2 hours is plenty of time to have a nice meal. And they take very good care of you. Again, my favorite restaurant.\nOne Note:\nIt's a very elegant. Interior in the seating is great. I'm in the outer area which is not part of the main building. It's an add-on. It's nice but it's really unheated which is neither here nor there. It's not as elegant, but the door that lets you in looks like a $79 door from home Depot. They should upgrade the door so it's a little more elegant. Specifically just the door. I would suggest a commercial door with some elegant cast ironish metal grill covering the whole door both sides.\n\n==========\nI can't say anything good about La Sala. The reason LabSala is Way beyond good, think words that begin with f- fabulous, fantastic, and flavorful!\nThe person who leads you on to your journey at La Sala is the fabulous Jesse, that's one of the names she uses. It's the one that all of us can relate to and pronounce.\nI'll add her other name once I figure out how to spell it. Probably within the next week.\nShe remembers when we were there 3 or 4 months ago and my wife was drinking cranberry juice and I was having sangria, blackberry sangria.\nLa Salas sangria is not to be Missed!. Just one glass and you will appreciate it.\nI will be posting their menu which is single page one side, you don't have a lot to choose from, but what you have to choose from is I'll get one of those f words in this case \"Fabulous\"!\nI've posted a photo of the guacamole that they serve, it comes with plantain and the plantain is chips. The dish looks like a facehugger from the alien movies, but wow, I mean just plain Old wow!\nWe also had the tacos and tacos are on a big kind of tray with two little pots of chicken and beef. Then there are the sauces you can put on them in the very soft tacos which were a little heated.\nThe dishes are designed to be shared and sharing makes you communicate near your partners.\nOverall La Sala is or might be. My favorite restaurant is at least in my top tent.\nAgain let me say there is nothing good that I can say about La Sala, cuz good doesn't describe how great they are.\n..\nHey Google, what is this crap that only lets me give five stars. They deserve 10. In all categories!"
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURRbEtTUzJRRRAB",
+            "text": "Pretty place great for a date night clean and staff was very nice"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTURncm9haGlBRRAB",
+            "text": "I came here with my partner on a Sunday night, and we had such a great time!\n\nWe sat at the bar, enjoyed some specialty cocktails and margaritas, and the food was absolutely delicious. The energy in the room was chill and inviting, making for a really nice experience."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBbnR2UlNBEAE",
+            "text": "Absolutely amazing! Visited with my aunt and we both loved every dish that came our, was amazing! Loved the paella! and since my aunt is vegan she ordered the cauliflower steak and was perfect. The ambience is great for a date night or for a birthday! The sangria was great! Highly recomend it!"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfeTZMQ3hRRRAB",
+            "text": "Finally recovering from food poisoning from the salmon.. 10/10 do not recommend\n\nI needed an endoscopy and it was a terrible time"
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfMEktUjVRRRAB",
+            "text": "Be prepared to spend money and leave hungry. Nobody at my table enjoyed their food. The mushroom truffle croquette appetizer was the best food here. I ordered the Hawaiian chicken and for $22 at a so called \"gourmet restaurant\", I thought I would have been served a nice piece of grilled chicken with pieces of ham steak and two pineapple rounds with white rice. What i received instead was four thin slices of hard chicken with cartilage attached, pieces of sliced deli ham, and a few triangles of pineapple swimming in cream based orange sauce. I asked for no cilantro but there was cilantro in the rice.  Another person at the table ordered machu pichu salmon which was served cold with squares of over cooked salmon nestled in a sea of quinoa. Another person ordered the lamb chops which tasted fine but it was served on an uneven metal rack on top of burning wood in a circular box. The lamb was cooked nicely but the potatoes were over done and the sauce for the pita had so much citrus that it overpowered the sauce. It's sad to say that I was eating cashews that I purchased earlier in the day at the table. The server we had was nice but confused as she forgot one person ordered a drink. The food does not come out together.  One woman walks around with a scowl on her face and does not seem to be doing anything for the restaurant. The music had too much bass, and there was a movie on the TV with half-naked men on the screen. I wish I didn't have to spend $60 on basically a drink and appetizer just to cook when I came home because I left hungry."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURmNHVEcWVREAE",
+            "text": "This place is really pretty and pretty big in the inside. The happy hour was good, the happy hour is until 7pm. The monfonguitos with the shrimp are amazing , definitely recommend. The Cubanitos are great as well , will definitely recommend. This place has a nice chilled vibe."
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURmdktDcTV3RRAB",
+            "text": "I took my friend here to dinner for her birthday on 01-03-25. On Friday nights there is live music with intermission for regular music. The ambiance is cute and cozy. Great date spot.\n\nThe menu is broken into 3- sections. We asked the waitress what this meant. She explained it was broken into portion sizes. So Raciones is small, Platillos is medium, and Tablas is full meal size.\n\nWe ordered two items from the\nRaciones and Platillos section. EVERYTHING we ordered was delicious. We had the: guac, croquetas, seared tuna, and mofonguitos.\n\nI told the waitress it was my friend’s birthday. They sang happy birthday ( very lively), gave us tres leches ( amazing!!) and had a birthday sign.\n\nI ordered the lamb chops to go-it SLAPPED aka it was perfect. I don’t know what is in the green sauce but it was soo good.\n\nI can’t speak on the drinks because we ordered wine. You have the option of having either an 6oz or 9oz glass.\n\nThe service and hospitality was great. Bless the chef(s). I will definitely be going back !!!"
+        },
+        {
+            "date": "10달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNmeTd2RF9BRRAB",
+            "text": "My maize tortilla were soaked in oil, no draft beer, service charges automatically added other diners meals ok but"
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMzM3ZxUGJ3EAE",
+            "text": "Excellent service, the food is very rich and the variety of sangrias is the best."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURYaWJ5bGZ3EAE",
+            "text": "Horrible service! We were completely disregarded on our anniversary because there were other tables with more people. After our food was dropped off, they didn't check on us once. We had to wait until we saw someone to receive our check. Food was great but we wouldn't come back!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURYbk1fVXNRRRAB",
+            "text": "This establishment is highly recommended for its exceptional culinary offerings and extensive wine selection. The ambiance is delightful, and they host a variety of weekly events, including brunch and live performances. The staff and management are exceptionally friendly and welcoming."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNYd3J5R0h3EAE",
+            "text": "Suelo siempre ir a este lugar la comida es exquisita, pero tristemente el día de ayer pedí una paella siempre ordenó eso cuando voy a ese lugar y estaba muy rica de la mitad para arriba la otra mitad estaba completamente quemada y que triste ver eso porque un plato tan costoso no debería estar así no me queje igual la pagué no soy del tipo de cliente que te va a devolver la comida pero si deben de tener más en cuenta eso !"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNYMlBPWm93RRAB",
+            "text": "Amazing Cocktails and Great Service!\nOscar is hands down one of the best bartenders I’ve encountered! His cocktails are not only perfectly crafted but also creatively presented, showing his passion for mixology. Whether you’re looking for a classic drink or something new, Oscar always knows how to impress. Beyond his skills behind the bar, he’s friendly, attentive, and makes every guest feel welcome. If you’re searching for top-notch drinks and a great atmosphere, look no further – Oscar is the one to go to! Highly recommended!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURuemJTcVZ3EAE",
+            "text": "Me and my fiancé went here for a date night on Friday. We arrived and it was packed, there was no host or anyone to greet you. Then a busboy told us it would be a 40 minute wait and we said no problem and how we would be notified once our table was ready and he said he didn’t know. There were like 3 total employees with all tables full. It took us about a hour to get our first drink. The guac and chips was disappointing because there was hardly any guac. We ordered the lamb chops which was a mistake because it still had a gamey smell and taste-NEVER AGAIN. I asked for a spicy margarita and received something that tasted like a Long Island iced tea. This place could be a good spot maybe if there were more employees. we had to sit outside and the table was a total of like a foot and a half round table with horrible chairs. I really wanted to like this place but I just can’t. Good area and it’s nice inside I can say that much."
+        },
+        {
+            "date": "1년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURua29qM2hBRRAB",
+            "text": "La comida es espectacular, tienen una excelente fusión dónde predomina la comida mediterránea. La atención fue de primera, en ambos idiomas, si no hablas inglés no será una barrera. Un plato recomendado? Pidan el tiradito de pulpo"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURid3V1cHdBRRAB",
+            "text": "I recently dined at La Sala and had a generally pleasant experience. The food was good but portions were quite limited. The chicken in the tacos was disappointing, though the shrimp was tasty. Guacamole and chips were delicious but in short supply. Despite these issues, the ambience of the restaurant is excellent and definitely worth experiencing."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNGemVQaVZnEAE",
+            "text": "Came here on a Saturday night.\nGreat ambience and atmosphere. Love the interior design. Inside restaurant and or in patio dining available.\n🦋 nice menu with great choices for everyone\n🦋 good lighting & great music playing in background, enough to hear but great to have conversation in.\n🦋we got the  red sangria to try (very sweet )\n🦋salmon Machu pichu was the highlight item! So full of flavor & great size in quantity ‘ quality. So delicious, highly recommend.\n🦋chuleta en Lena was good…but very small in quantity of items for that price. Even the yogurt sauce was very small amount…\n\n🦋 street parking available.\n🦋one coed restroom available.\n🦋 staff were good.\n\nOverall highly recommend"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNtaS1fblF3EAE",
+            "text": "Very cute vibes, attentive waiter who made sure we were always with a water refill. The food was great and I loved their willingness to substitute even better. We got the Mac and cheese and my friend doesn't eat pork, they asked if we…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNOM3VmYjhBRRAB",
+            "text": "A surprising gem in Kew Gardens with a vibrant 'pan latin' menu, innovative cocktails excellent service and festive (but not garish) ambience! They were helpful with familiar items and the cocktails were especially goodm The rationes would please anyone with their varied flavors and we didn't have anything that wasn't delicious! Can't wait to go back\nNote: they don't always serve brunch"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXeXRxY1dREAE",
+            "text": "Excellent tapas & dishes. VERY consistent all around. Service was great. Oscar’s wine suggestions weeds spot on.\n\nI have come back several times for the ceviche roll. It’s delicious and made the same way every time.\n\nThe tres leches dessert 🍮 is also excellent.\n\nChuzo de bistec appetizer is phenomenal and La Sala Mac and cheese is a heavy dish with lots of flavor. The Cubanito sandwich is also very well made. Both croquette options are great, too.\n\nHappy Hour happens Monday thru Friday from 5pm-7pm and has extremely affordable pricing for their quality.\n\nI have been to all the Wine Bars in the Forest Hills, Kew Gardens, Richmond Hill, Rego Park & Glendale areas and this is the BEST Wine Bar in Forest Hills, Kew Gardens and all the immediate areas aside from Manhattan."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMybV9YakpnEAE",
+            "text": "Came on a Sunday evening and was seated in doors right away. The waitress was very sweet. The food was great, no complaints. We ordered the passion fruit and guava sangrias but they both tasted the same lol like white sangria. Unfortunately, me and my friend could barely hear each other because the table of 6 closest to us were scream talking at each other. They were like two tables away us and we could still hear their entire convo. I kept hearing random burst of “shhhhh!” but I wasn’t sure if it was coming from the other tables around them, the bartender or if they were doing it to each other lol it was weird and my ears were not happy. I just wished the waitress or manager told them to lower their voices just a TAD bit out of consideration for the other guests around them. And yes I get it, it’s a restaurant and people will be loud but they were literally screaming at each other the entire time. Nevertheless, their “pour decisions” neon sign is def an eye catcher and the whole ambiance is very calm and inviting. I would def go again."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNSek1uSENBEAE",
+            "text": "An amazing experience overall. The food was great, the place was beautiful. We had great service . The waitress was so attentive and helpful. She recommended us amazing drinks and made sure we felt welcomed. Our food was brought out quickly by the other waiter . The live music was great . Would definitely come back !"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURONHJXRnpnRRAB",
+            "text": "Great vibes, great service, delicious food!! We for brunch and then came back for dinner!! Great great!! Makes you feel like you are home with a great vibe."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNhelBhOWd3RRAB",
+            "text": "I was just going to order Tu Casa (off metro and lefferts) for dinner and call it a night. Instead my coworker invited me to dinner @ La Sala & boy am I glad he did!! It was absolutely amazing. He bragged about the food on the walk to the restaurant and than ordered the same thing he had last time (the steak Mid Rare). We had two pitchers of the blackberry kiwi sangria and I ordered the Paella & I’m pretty particular about my shellfish and rice dishes. This was delicious and the servers provided 3 different but tasty sauces when I asked if they had hot sauce. I hate to describe my servers in this manner but I forgot their names. There was a young, energetic, bubbly latina who wasn’t our specific server but checked on us and was amazing. Our main server was a gentlemen of latin descent who was patient, kind, and informative of the menu. Great job Tu Casa family on creating this turnkey restaurant!! You’ll see a lot more of me!!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1dnFxeFhBEAE",
+            "text": "Sat in the outdoor seating air. Windows open on both sides and above. Food was very good. 3 dishes and 2 beers cost us $80. Pleasant. Will definitely go back."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPNmJmY2NnEAE",
+            "text": "I came to celebrate my friend birthday. Best celebration ever the staff was super friendly. The food was delicious my recommendations are try the ceviche sushi and chuleta ala leña. Love the drinks too 😋…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhck12TVp3EAE",
+            "text": "The atmosphere was very inviting, the sangria we had with dinner was so good and  the food especially the lambchops were heavenly. I highly reccomend. I will be going back there."
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURacVBfb19nRRAB",
+            "text": "Fue mi primera vez en este lugar,  la pasé de maravilla, un ambiente cálido, buena mùsica(live music) el servicio excelnte y el mejor salmón que he probado en muchísimos años... espero volver, especialmente los viernes de música en vivo. super recomendado."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURybUxURUJ3EAE",
+            "text": "Definitely one of the gem in Queens. Food presentation and taste both amazing!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNqMS03cWFnEAE",
+            "text": "The trolly of bottles of wines are magnificent! The lamb chops served on charcoal is a must have and one of the best in the city! And the live music singer is professional with penetrating voice!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURPOHNmQkt3EAE",
+            "text": "Great atmosphere, great food, great service. Will definitely go back and try the rest of the menu."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNSemYtd3JRRRAB",
+            "text": "Went to La Sala on a Sunday night and had a great time! Andrelis was an amazing host who greeted every guest and gave wonderful recommendations. The drinks and food were delicious. I would definitely go back!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNoNHUzRXhBRRAB",
+            "text": "!!!!! Can we have a moment to applaud the chef/ bartender/ ENTIRE staff !!! Service is immaculate. Food is worth a michelin star! Honestly. The wood smoked lamb chops are packed with flavour, evenly cooked, insta worthy, and compliments the house sangria. The NY strip is savory, and cooked to perfection (as ordered), the brussel sprouts are amazingly done, very memorable . The drinks are WORTH IT. The buratta was soooooo good! A great play on savory and sweet with a complimentary balsamic.  The astetic is beautiful, music is on point with the vibe. No complaints what so ever. This is place is a gem!"
+        },
+        {
+            "date": "2년 전",
+            "language": "es",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN4cmFqNlJnEAE",
+            "text": "Excelente lugar para ir , y pasar el rato al lado de esa persona especial, el servicio Perfecto la comida las bebidas las entradas todo delicioso la música todo increíble lo recomiendo al 💯 .…"
+        }
+    ],
+    "reviews_count": 59
+}

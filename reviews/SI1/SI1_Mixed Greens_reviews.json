@@ -1,0 +1,502 @@
+{
+    "name": "Mixed Greens",
+    "place_id": "ChIJoeyRbGxFyoARRwAP3GDeb-4",
+    "grid": "SI1",
+    "address": "661 E St George Blvd suite 1, St. George, UT 84770, USA",
+    "rating": 4.8,
+    "user_ratings_total": 886,
+    "phone_number": "(435) 705-5203",
+    "reviews": [
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xNdFExSnRhakp0UzNrNWQydFdWekZtV2xwNldXYxAB",
+            "text": "So yum, and makes you feel super clean when finished!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2poeFJGOVNiRFZKTFhGdlZ6ZG1OVTFsY2xKZldIYxAB",
+            "text": "Açaí bowl was amazing! So fresh."
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214VlRrOXlTRTF5Vm1nM2FXb3RTR3B6VVVGeVdIYxAB",
+            "text": "The perfect stop on our adventure around town. We knew we wanted something light to eat and it was delicious! I loved the Kale Caesar with chicken!"
+        },
+        {
+            "date": "3일 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oUGFXVlpSRTl5YVZJdGNYUlhhR2RYVm1GM2VYYxAB",
+            "text": "The nicest staff and the most delicious food! We loved the smoothies and salad bowl! YUM"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pabVYwaHdZMjFhT1RjdE9GTlRWbVZWWjNvMk5VRRAB",
+            "text": "Food is great . Atmosphere is great. But the best part is the friendly employee benny. Hes so helpful and super fast"
+        },
+        {
+            "date": "1주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xZelJtUTVUbFJ6VVZOamJ6bFNhR00xTFdvMGQxRRAB",
+            "text": "I always get the dragon bowl superfood bowl it’s absolutely my favorite treat!!!"
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pWblR6bFpZa3hCZVcxb1dqUnZUMGw2TkV4R01VRRAB",
+            "text": "Overpriced. Clean restrooms and tables. Not enough food for what you pay and won’t taste as good because ingredients never actually get cooked together."
+        },
+        {
+            "date": "2주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tKM04wRkxTM3BvV1hacWNYRkVhbGRUYkdjdGRsRRAB",
+            "text": "Amazing food Amazing  staff !! Best place to when u are Hungry and needing something healthy !! I reccomend te Kate ceaser salad with steak and avocado"
+        },
+        {
+            "date": "3주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21zeVZGSmFUR1YyUlZGRFVUaFFRalZmVUdKUVZWRRAB",
+            "text": "So good!!"
+        },
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FNE4yRm9XRWh5YUUweWRWTndiMnBpYlVsRFpIYxAB",
+            "text": "Best healthy restaurant in St. George so far. Vegan options available."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21FNFUzQktPR0prZUcxVVQyOXlSR2N0ZFY5cFluYxAB",
+            "text": "Delicious bowls with fresh ingredients. Super friendly staff and nice clean space"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsblQxVlFPVXRzY2psNlVsZDJVMmxLY2xjdFdGRRAB",
+            "text": "This was soooo delicious and the customer service was impeccable! I would highly recommend!!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xGM1RWVmhZM05zVG5WeWEyc3dURTUzT0RaTWIzYxAB",
+            "text": "Super kind staff and the ahi tuna bowl and acai bowl we got was sooo yum! I got a kale Cesar salad with chicken but they forgot my chicken after we paid extra for💔"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pBNVJIRlRVVWcwU1RKUWF6ZFhRM2hIT0RoSWMwRRAB",
+            "text": "Loved this place!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5UE9UWTJSVXRJVUhWSlQzTlFaVmQ2Ym1wMU9FRRAB",
+            "text": "This place was delicious, healthy, fast, and meet the needs of all four picky members of my family!! Cute cafe atmosphere! And delicious smoothie and açaí bowl options!! Wish they existed where we live!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25kR2EwMHpZVW93WW1GQldUQk5ha3hyWTJsblpWRRAB",
+            "text": "Great for people with a lot of dietary restrictions. I can't really eat out right now and was so happy to eat something yummy out of the house! Coconut Curry Bowl with chicken was so good."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wR05sSXhkbmh0ZURST2R6Tk1hVWhRTWtaUlVXYxAB",
+            "text": "This was a first visit for me from out of town. The restaurant has gorgeous plants, inside and out. They really elevate the atmosphere of the place. When we walked in it smelled so strongly of cleaner and something else that we decided to take our food to go.\n\nThe menu has lots of options, lots of variety for different diets and preferences. It even had some kids menu options, but I don’t think just any kid would be happy eating here. We (three adults) chose a tikka masala bowl, a shrimp avocado salad, and a build-your-own healthy plate. All were fine but nothing to rave about.\n\nI expect to pay a bit extra for fresh and healthy food, but each of our meals felt priced a bit high.\n\nThe service was eager but okay. It wasn’t quick, but I wouldn’t call it slow. Probably not a place to come if you’re in a hurry. The napkins and utensils were behind the counter.\n\nThis restaurant is obviously a labor of love, but it could use a few customer-forward adjustments."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oME9IVlFNblUwUVY5WE1qVjZOM1pvWTNWd2VtYxAB",
+            "text": "so yummy and staff was great!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1WmRYWlhSR2xMWmpaSk9FTnVOVzkzZFdWcGNWRRAB",
+            "text": "I always love coming here!! The environment is so good and the people are so kind!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21rek0ycHFjRlV3TTBWamFFazROVmx1TmpSNlRXYxAB",
+            "text": "Benny was awesome!! The food was soooo good and so healthy!! We will be back often"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21weFRsZzBSVzlaWTBWclpGRjVNMHhMWW5Ka1VrRRAB",
+            "text": "This hidden little gem has the freshest food, great service and their kiwi lemonade was AMAZING. 10/10 would recommend."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25sNVJVWkdjbEZTVDB4dVZXUkJUbXhxT0ZwVWFrRRAB",
+            "text": "Best food in st George i love they Sunset bliss superfood bowl and they shrimp avisado salad they take pride in there food and customer service!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5amVWSlJPRVpqYzE5SVUyNUNka1p6TUVSVVdVRRAB",
+            "text": "In St. George for our anniversary, we were looking for something light and tasty. Mixed Greens hit the spot. For someone with dietary restrictions it was heaven! Great job!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pacldrc3lPWE42U0ZKSGVYSlNPVmRLUlZoRFQzYxAB",
+            "text": "Google says 4.8 but this place is 5 STAR all day long!  Can’t say enough about how good it was…incredible selection, amazing flavors, staff was great!  Wish we had one of these in Florida!!"
+        },
+        {
+            "date": "수정일: 3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkR1NqYzBOMDFKV1RaaldqYzBOMlpLVmxWMlYyYxAB",
+            "text": "Great food I love the basil chicken with steak 😋 always great"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwWU4wTklNa3RsTWtoT1VsaGFNVWRXV2tNelpVRRAB",
+            "text": "The service was AMAZING!! and everyone was so kind. the food was delicious!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21sUlExRXlNR0ZXYVVWd2VGcDJjRkZZYW5Gd1oyYxAB",
+            "text": "Great people, Very kind"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWWWFHdGFhMDFRY0RaYWNtNWtZVE50T0RkVlowRRAB",
+            "text": "I loved the açaí bowls"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tsMVZVcEtkSHBtWjJKcmVHOHpVemM1UzIxNE9XYxAB",
+            "text": "Definitely would recommend coming here!! Ordered the acai bowl and it was exactly what I was wanting!!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21oNWNGSm9hRTVUZHpoSmNEZDNPWFZ5WWtSTFpXYxAB",
+            "text": "Amazing food my dude"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2sxV1MwRjRSR2hDYlVSNWNtZENNVkZXU0VzdFkzYxAB",
+            "text": "I love the food and the people"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKc2EwRkJla3RYY1d4VVF6bG5SM0ZUTVdKcVNXYxAB",
+            "text": "Yummy"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVMWVrNUxUa1JyTTNRMFZrbEhRbDl4UVZGQmNHYxAB",
+            "text": "VERY VERY GOOD FOOD!! DELISCIOUS AND AN REALLY GOOD HEALTHY OPTION. SERVICE WAS FRIENDLY AND WELCOMING AND OVERALL AN 10/10 EXPIERIENCE!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tocU9VRnpUbEpWTm5OV1NVdDRhRUZxWkZjMGFVRRAB",
+            "text": "We had a great time at the restaurant! Fresh and gluten free options - very healthy and delicious. The service was amazing! We ll come again!"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21Vd05WZ3dhRmxHUkRCU01EVndabkJRZDBZMWQxRRAB",
+            "text": "We love this place! Food is delicious, the presentation is beautiful, and the staff is all so friendly and helpful. We drive up from Mesquite just to have lunch here (in case you ever think of expanding 🤞)"
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21KalRrUlFVRzh5Umw5NmJGaHNja2hwUmtkSWNYYxAB",
+            "text": "I come here often because the food is great and normally do is the service but it was a bummer today getting yelled at for not beinging able to hear the girl behind the glass. Neither of us is tall enough to talk over the glass and she gave a bad attitude response to me telling her I couldn't hear her. Geeze, I just couldn't hear you.  To put it nicely, She was very unprofessional."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkQk1XUnVka2hZUWxwUFNrNVpRMmRyTkVRd2RtYxAB",
+            "text": "Are you serious?! I was charged a $8 pickup fee, because I wanted my bowl \"to go.\" Who's brilliant idea was that? I hate when restaurants are nickeling and diming people. First and last time I stopped by."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKSmJDMXpVM2RxWVROdU5sbDFRVWxGVW5ReWMwRRAB",
+            "text": "I had such a lovely experience :) the place was super clean with amazing energy. The service was fast and very polite. Their food was so refreshing :)"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwdU0yRlRlRGhaZEMwMllVbEtibWRNZDFkSk9XYxAB",
+            "text": "A must visit as the menu is fantabulous!"
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURJNGVQX0tnEAE",
+            "text": "I would love to give them 5 stars, but there were a few significant reasons that I am not able to. The staff was not kind. We went twice—the first time we went they were not friendly with anyone who was there and the second time we went they weren’t friendly to us but then they were to someone else. It genuinely seemed like they were not happy to see us and they are not happy to be at work (I understand not loving going to work, but then being blatantly hostile toward customers isn’t ok). The kitchen area didn’t look very clean either. The pots & pans were dirty when we went the first time and when we went the very next morning the same spots were on the pots & pans. Really gross. The food was yummy and I would want to eat it again, especially their nutty protein smoothie (it was so good!). I would go back for that smoothie over and over again."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VNNkoyOWoxeUtiakJREAE",
+            "text": "Mixed Greens puts together excellent build-your-own salads and bowls. Last time I had the mega protein salad with wild rice, lentils, edamame, veggies, and I added tofu —everything was fresh and well-balanced. Unlike places like Cava or Sweetgreen, the protein portion here is actually solid. They also serve smoothies and açaí bowls, and the space is casual but comfortable if you want to sit and eat.\n\nThat said, the place is slow. It might be because the staff take time to chat with customers, which adds a nice personal touch—but it does make the line move slowly."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3MDliY2p3RRAB",
+            "text": "Yum!! While visiting St. George for the first time, we stumbled upon Mixed Greens. Love, love, love me some health food. The staff was very friendly and the lots of tasty options. I got the Basil Chicken bowl and my family got the Bajas. Mine tasted like summer:)"
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURndExLeE9BEAE",
+            "text": "Nice, spacious healthy eatery with a good sized menu and lots to choose from. Staff were very nice and quick with their service. I had the kale chicken Caesar salad and it was fresh and yummy."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvZ3Q2M1RBEAE",
+            "text": "Just in case you’re wondering what $16 of steak looks like—this is it. I only got the mac & cheese because it was the only side available, which they didn’t bother to mention until 10 minutes after starting my order. They completed my steak plate and even began three other customers’ orders (who came in after me) before getting around to the first thing I ordered—a salmon salad—only to tell me then that they were out of salmon. Literally the only thing I actually wanted. Substituted with chicken but got charged for salmon still. The salad was soggy with way too much watery dressing. Rice on the plate was crunchy. Mac & Cheese was gross. I hope this isn’t the norm for them but given the many other reviews like mine it seems to be a pattern. Food was disgusting & ultimately tossed. Such a waste of money & time."
+        },
+        {
+            "date": "7달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUN3dzZYVHdBRRAB",
+            "text": "Wowwwww this company has lost its mind!!! This puny little salad cost me $16. My hands are not big and look at the comparison on my pics. This is salad not a rib eye steak!! These ingredients are the cheapest thing you can buy and this is what you get for that crazy price?!?! Never again I will tell people to avoid getting completely ripped off from this place, what a complete joke. How this place has an 4.8 star baffles me."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTUNBLTZtekZ3EAE",
+            "text": "Absolutely amazing dishes, tasted fresh and better than most healthy places. Prices are reasonable for what they are doing as well. The service and the employees were all great to us. The inside is such a cute little place and it was just absolutely amazing."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNyOG91eDFBRRAB",
+            "text": "-First visit, and I was surprised by the menu. They have options friendly for everyone, gluten-free, dairy free, vegetarian, and vegan.\n-I got a Cesar while my husband got the Cobb salad. Both added chicken with 1 fountain drink totaling around $35. The salads were large enough that we only ate half before asking for a box.\n-Food review: The chicken was delicious! Full of flavor and not dry. The lettuce was crisp and clean. The salads weren't drenched in dressing, which I appreciate.\n- overall, I'm excited to go back and try more of the menu. We didn't even try the bowls or acia bowls."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnTUNZdE1hVjZnRRAB",
+            "text": "Great healthy food. Beautiful presentation. I had the basil chicken bowl and my wife had the Cobb salad. Both were delicious. The nuts and berries açaí bowl was amazing. We will be back."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VMX0l5WkRmdnV5alF3EAE",
+            "text": "Watch out Zupas… the bowls and salads are amazing! The portions are big as well and will keep you full. Great if you’re looking for a light or healthy, or just good on ya meal. Really tasty smoothies as well. You can’t go wrong with what you order. The staff were very kind and is family owned and operated. The music is really nice and everyone feels fancy like they’re in California!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VPM2lpWmk5cW82MGhBRRAB",
+            "text": "I had an amazing experience at Mixed Greens! From the moment I walked in, the customer service was top-notch. The staff was incredibly friendly and made me feel right at home. The food was absolutely outstanding – fresh, flavorful, and perfectly prepared. Every bite was a delight! I will definitely be back and highly recommend this place to anyone looking for a delicious meal and great service. Five stars all the way!"
+        },
+        {
+            "date": "수정일: 1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURXbXJMdHZnRRAB",
+            "text": "This is a delicious little restaurant inside the gas station.  I loved the healthy options and everything was made fresh.\nThey have a full sized like restaurant now and it looks fabulous, same great food!  The Basil chicken bowl is my favorite, lots of great choices."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvOGNDcEpREAE",
+            "text": "On our way from Idaho to visit family and friends in CA, staying across the street at a motel, and came to Mixed Greens for dinner. I’m originally from San Diego, and the owners are, too, which is cool.\n\nThe owner and staff are very nice and friendly. The ambiance is casual, with metal tables and chairs, some bar height. The seating area is quite large, and there is some outdoor seating as well.\n\nMy wife had a salad and I had the spicy teriyaki chicken bowl. Both were very good and healthy. Reasonably priced.\n\nMy one complaint is the strawberry lemonade that I ordered. It was supposed to be 20 oz., but was served in an 8 oz glass half full of ice. After driving all day., I was too tired to say anything. But, I would not order it again, though it was tasty enough.\n\nThe next time we’re in town, we would try Mixed Greens again."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXdmFYV01nEAE",
+            "text": "We are beyond impressed with this charming little gas station-eatery! The staff is incredibly friendly, the meals are delicious, and we will definitely come back for more!\n\nWe ordered the Baja bowl and the Hot Buffalo bowl and loved both! Our only note is the Buffalo Bowl is a very strong flavor all the way through, so if you’re expecting something that tastes light you might want go with a different bowl, but it was still delicious!\n\nVery happy to have found Mixed Greens!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURUaXR5MlFnEAE",
+            "text": "My family and I love mixed greens! The service is incredible and they are so kind. We stopped in today for a celebration and they had something for everyone. The best place to get a fresh heathy meal and quick too. Everything is so delicious and I can’t get enough of the house made lemonades. 10/10 every time!!!"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VOTzR5SW5fOG9YVnNRRRAB",
+            "text": "Good, fresh food bowls, freshly mixed to order. Terrace with seating outside, facing the road."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURtMTRhNEVREAE",
+            "text": "This place is awesome!!! The family ran business is a must go to!!! Healthy but delicious! Good portions! Food is amazing!!!!! Service is great! The son who was was a kid was a pleasure! He was working the register with a smile and great…"
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VONy13c3ZYaHJyQ3BRRRAB",
+            "text": "My partner and I went here several times on a recent trip to St George. It was wonderful to have healthy vegan options. The entire staff was friendly and provided excellent service. Also the turmeric lemonade is incredible."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUR1MklqSEFREAE",
+            "text": "First time coming and we were all in heaven! I got the Tikka Masala bowl that was phenomenal and my sister got a healthy plate with citrus shrimp she loved. We also tried a tropical smoothie and it was super refreshing. Pictures do not give…"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURGbjdxaXRRRRAB",
+            "text": "Hidden little gem in a gas station. We got the coconut curry with chicken, an açaí smoothie and mac and cheese for the kids. It did not disappoint. Definitely will go again and look forward to trying their açaí bowls. Even tried ginger tumeric shot that gave a punch 🤣."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNwcUxpZTJBRRAB",
+            "text": "We tried almost all açaí bowls in St. George while we were here and this was by far the best. A hidden gem inside a gas station. Locally owned. Organic ingredients and way less sugar than others. I loved that they use raw honey! Don’t miss out on this hidden gem!!!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURXeFozcGVREAE",
+            "text": "Google said 1 pm was not busy — I would hate to see busy! This is very popular wonderful place.  Beautiful healthy food! Great staff. You can get vegan, vegetarian or buy the whole steer, ok maybe some steak.  We prefer vegan so this will be a new favorite. Except maybe we’ll try 10 am ha ha."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtejlueklREAE",
+            "text": "Pretty good food, very healthy which was very nice, has very good flavor, I just wish some of it was a bit fresher but I still enjoyed my meal. I got the Mexican food bowl (meat overcooked probably from sitting too long), Indian bowl, and sushi bowl (which was the freshest because it was cold bowl)."
+        },
+        {
+            "date": "6달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURvbUtlY1VBEAE",
+            "text": "Super yummy and everything is SO fresh! Had the coconut curry and a strawberry lemonade and it was so good!"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURPc2ZHZzBRRRAB",
+            "text": "One of the best little restaurants in St. George area. The family writing is awesome. Tons of super healthy options with lots of different ways to customize. Lots of vegan options. I loved the mega protein salad. My wife loved the tikka masala bowl. Highly recommended."
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURpa1BQUmVnEAE",
+            "text": "Truly incredible! Delicious food and with lots of variety, clean tables, friendly and helpful staff! I love the live plants and decor! My twin 3 year olds devoured their whole kids meal bowl! I love that you can make any salad or bowl into a wrap! This will be a new regular place for us to go out to eat!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNkM0luQVhBEAE",
+            "text": "I don't even know where to start. Both bowls came like half full. There were freaking pickles/zucchini in my coconut curry, I guess I should know better than to order curry from a salad place. My friends bowl was just straight up rice with two bites of chicken....how rude! This place is not for you unless you're wanting to pay $12 for a bowl of pickle curry  or just a bowl of rice. Lame."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREay1feXd3RRAB",
+            "text": "Delicious, healthy, great quality food. Service and presentation was top notch. Prices were reasonable for the quality and quantity of food. Definitely will be coming back."
+        },
+        {
+            "date": "5달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VMRFMwNFNidExmZHVBRRAB",
+            "text": "Loved Basil chicken and Thai bowls with blended juice."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURaeHFfbTVnRRAB",
+            "text": "I was greatly impressed with the food selection at this upscale gas station fresh fast food. If you’re looking for a substitute for the typical burger and fried chicken location this is the place. Service was excellent and friendly. Stop by sometime. I had the avocado salmon salad."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUaXFudW53RRAB",
+            "text": "We love the food at mixed greens, great service every time and the lemonades are delicious. Good price and has an option for everyone. We always look forward to coming back!"
+        }
+    ],
+    "reviews_count": 70
+}

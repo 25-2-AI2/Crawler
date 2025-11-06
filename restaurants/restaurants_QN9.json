@@ -1,0 +1,242 @@
+[
+    {
+        "name": "Atlantic Diner",
+        "address": "111-16 Atlantic Ave, South Richmond Hill, NY 11419, USA",
+        "place_id": "ChIJ8RSPC1NnwokROqduH5qlaBs",
+        "rating": 4.2,
+        "user_ratings_total": 3342,
+        "phone_number": "(718) 849-6673"
+    },
+    {
+        "name": "Neir's Tavern",
+        "address": "87-48 78th St, Woodhaven, NY 11421, USA",
+        "place_id": "ChIJj6Zpx-ddwokRm5R41uLVdJI",
+        "rating": 4.7,
+        "user_ratings_total": 1034,
+        "phone_number": "(718) 296-0600"
+    },
+    {
+        "name": "Nals Nest",
+        "address": "125-17 101st Ave, South Richmond Hill, NY 11419, USA",
+        "place_id": "ChIJfcW5GFtnwokRk-J2g76sPtI",
+        "rating": 3.7,
+        "user_ratings_total": 822,
+        "phone_number": "(718) 514-6482"
+    },
+    {
+        "name": "Due Fratelli",
+        "address": "90-10 Jamaica Ave, Jamaica, NY 11421, USA",
+        "place_id": "ChIJ1ePSSCBdwokRkwmtrGE5xSk",
+        "rating": 4.8,
+        "user_ratings_total": 134,
+        "phone_number": "(718) 849-9300"
+    },
+    {
+        "name": "The Classic Diner",
+        "address": "117-33 Myrtle Ave, Richmond Hill, NY 11418, USA",
+        "place_id": "ChIJrwhiFa5gwokRn6R30SU7M2U",
+        "rating": 4.4,
+        "user_ratings_total": 1915,
+        "phone_number": "(718) 847-7500"
+    },
+    {
+        "name": "Heat Caribbean Kitchen & Lounge",
+        "address": "100-05 Atlantic Ave, Richmond Hill, NY 11418, USA",
+        "place_id": "ChIJ7Scsw_hdwokR6mF9tyW_HDQ",
+        "rating": 4.2,
+        "user_ratings_total": 569,
+        "phone_number": "(718) 847-7300"
+    },
+    {
+        "name": "Haven Grill & Sushi - Dushanbe",
+        "address": "63-98 Woodhaven Blvd, Middle Village, NY 11379, USA",
+        "place_id": "ChIJIUbOqtZfwokRV61A1J6EwoY",
+        "rating": 4.8,
+        "user_ratings_total": 121,
+        "phone_number": "(718) 500-3116"
+    },
+    {
+        "name": "Pop’s Cocina & Bar",
+        "address": "85-22 Jamaica Ave, Woodhaven, NY 11421, USA",
+        "place_id": "ChIJIQ4bDeRdwokR_BBhTMGHD7o",
+        "rating": 4.3,
+        "user_ratings_total": 729,
+        "phone_number": "(718) 846-2037"
+    },
+    {
+        "name": "Austin's Ale House",
+        "address": "82-70 Austin St, Kew Gardens, NY 11415, USA",
+        "place_id": "ChIJ9-CAs7xgwokR0dG6ectdSDo",
+        "rating": 4.4,
+        "user_ratings_total": 1484,
+        "phone_number": "(718) 849-3939"
+    },
+    {
+        "name": "Caribbean Cabana",
+        "address": "116-02 Jamaica Ave, Richmond Hill, NY 11418, USA",
+        "place_id": "ChIJrdrd1K1gwokRahAVcFMSqAI",
+        "rating": 4.2,
+        "user_ratings_total": 1301,
+        "phone_number": "(718) 849-0500"
+    },
+    {
+        "name": "Caridad",
+        "address": "90-19 Jamaica Ave, Woodhaven, NY 11421, USA",
+        "place_id": "ChIJbxvhS-NdwokRVDAY6IOlfek",
+        "rating": 4.1,
+        "user_ratings_total": 749,
+        "phone_number": "(718) 847-7575"
+    },
+    {
+        "name": "La Sala",
+        "address": "116-35 Metropolitan Ave, Richmond Hill, NY 11418, USA",
+        "place_id": "ChIJ72ZlMPxhwokRo_ImQd1WvO4",
+        "rating": 4.5,
+        "user_ratings_total": 264,
+        "phone_number": "(718) 487-3990"
+    },
+    {
+        "name": "Bloom Botanical Bistro",
+        "address": "103-19 Metropolitan Ave, Forest Hills, NY 11375, USA",
+        "place_id": "ChIJoawg6htewokRYxBc4hynN70",
+        "rating": 4.1,
+        "user_ratings_total": 230,
+        "phone_number": "(718) 880-2872"
+    },
+    {
+        "name": "La Casa Del Mariachi",
+        "address": "116-03 Metropolitan Ave, Queens, NY 11418, USA",
+        "place_id": "ChIJPXzHFAxhwokR5GndYsGXVUw",
+        "rating": 4.4,
+        "user_ratings_total": 178,
+        "phone_number": "(347) 732-3556"
+    },
+    {
+        "name": "Manor Delicatessen",
+        "address": "94-12 Jamaica Ave, Woodhaven, NY 11421, USA",
+        "place_id": "ChIJ9yam-PxdwokRr1MZwwXccxM",
+        "rating": 4.6,
+        "user_ratings_total": 175,
+        "phone_number": "(718) 849-2836"
+    },
+    {
+        "name": "Tourmaline",
+        "address": "106-17 Metropolitan Ave, Forest Hills, NY 11375, USA",
+        "place_id": "ChIJs51u3sNfwokReADwE3QBrME",
+        "rating": 4.9,
+        "user_ratings_total": 44,
+        "phone_number": "(646) 535-5799"
+    },
+    {
+        "name": "Punjabi Dhaba (Original 2006)",
+        "address": "119-16 101st Ave, South Richmond Hill, NY 11419, USA",
+        "place_id": "ChIJHYl05r5nwokRnVI8bDLjchg",
+        "rating": 4.2,
+        "user_ratings_total": 986,
+        "phone_number": "(718) 487-8002"
+    },
+    {
+        "name": "Pollos Doña Maria Restaurant & Bar",
+        "address": "93-03 Jamaica Ave, Woodhaven, NY 11421, USA",
+        "place_id": "ChIJn6XeWuNdwokRSBB-HoyQQkE",
+        "rating": 4,
+        "user_ratings_total": 1021,
+        "phone_number": "(718) 805-4000"
+    },
+    {
+        "name": "Tropical Restaurant",
+        "address": "88-18 Jamaica Ave, Jamaica, NY 11421, USA",
+        "place_id": "ChIJB43dZONdwokRTnDRnwgRDLo",
+        "rating": 3.8,
+        "user_ratings_total": 1128,
+        "phone_number": "(718) 846-8816"
+    },
+    {
+        "name": "Vincent & Andrea's",
+        "address": "113-17 Jamaica Ave, Richmond Hill, NY 11418, USA",
+        "place_id": "ChIJmTLSEqxgwokRbJbLH7PblKY",
+        "rating": 4.3,
+        "user_ratings_total": 305,
+        "phone_number": "(718) 846-7070"
+    },
+    {
+        "name": "Q Rico No Manches",
+        "address": "79-11 Jamaica Ave, Woodhaven, NY 11421, USA",
+        "place_id": "ChIJG-YC5eRdwokRq2aGm4C-2AA",
+        "rating": 4.8,
+        "user_ratings_total": 525,
+        "phone_number": "(347) 829-3380"
+    },
+    {
+        "name": "UnderGround Lounge",
+        "address": "104-09 123rd St, South Richmond Hill, NY 11419, USA",
+        "place_id": "ChIJ5WvtiElnwokRSbTJpgWtWa8",
+        "rating": 3.6,
+        "user_ratings_total": 113,
+        "phone_number": "(718) 322-4144"
+    },
+    {
+        "name": "Taste of Italy",
+        "address": "84-07 Jamaica Ave, Woodhaven, NY 11421, USA",
+        "place_id": "ChIJa6KnsOZdwokRfxxp61B99JE",
+        "rating": 4.2,
+        "user_ratings_total": 65,
+        "phone_number": "(718) 805-8190"
+    },
+    {
+        "name": "Harbor Breeze",
+        "address": "107-12 101st Ave, Ozone Park, NY 11416, USA",
+        "place_id": "ChIJoYmvjEpnwokRA1tENgpMqKg",
+        "rating": 4.6,
+        "user_ratings_total": 65,
+        "phone_number": "(718) 480-3703"
+    },
+    {
+        "name": "Halal Crisps",
+        "address": "80-12 Jamaica Ave, Jamaica, NY 11421, USA",
+        "place_id": "ChIJ7WN9NgBdwokRYhnrjyTHlbg",
+        "rating": 4.8,
+        "user_ratings_total": 652,
+        "phone_number": "(718) 785-0055"
+    },
+    {
+        "name": "La Cocinita Mexican Restaurant",
+        "address": "112-10 Jamaica Ave, Richmond Hill, NY 11418, USA",
+        "place_id": "ChIJj3K7BUZhwokRV2HpP760ETQ",
+        "rating": 4.5,
+        "user_ratings_total": 159,
+        "phone_number": "(718) 880-2312"
+    },
+    {
+        "name": "Hibiscus",
+        "address": "124-18 101st Ave, South Richmond Hill, NY 11419, USA",
+        "place_id": "ChIJ_bnP4EpnwokRIl7G2y8p6Dw",
+        "rating": 3.7,
+        "user_ratings_total": 1276,
+        "phone_number": "(718) 849-4225"
+    },
+    {
+        "name": "Mikado",
+        "address": "116-09 Metropolitan Ave, Jamaica, NY 11418, USA",
+        "place_id": "ChIJheSe5TxhwokRoHOVTVZt0fo",
+        "rating": 4.7,
+        "user_ratings_total": 386,
+        "phone_number": "(718) 559-0088"
+    },
+    {
+        "name": "Forest Park Pizza",
+        "address": "84-07 Jamaica Ave, Woodhaven, NY 11421, USA",
+        "place_id": "ChIJa6KnsOZdwokRVW2aHyQJsF0",
+        "rating": 4.7,
+        "user_ratings_total": 43,
+        "phone_number": "(718) 805-8190"
+    },
+    {
+        "name": "Nick's Bistro",
+        "address": "104-20 Metropolitan Ave, Flushing, NY 11375, USA",
+        "place_id": "ChIJVeH-jBtewokR9ZsFO83CeQs",
+        "rating": 4.5,
+        "user_ratings_total": 1270,
+        "phone_number": "(718) 544-6425"
+    }
+]

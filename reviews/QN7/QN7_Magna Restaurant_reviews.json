@@ -1,0 +1,425 @@
+{
+    "name": "Magna Restaurant",
+    "place_id": "ChIJT5fPRAVgwokRApCD3ei8UFQ",
+    "grid": "QN7",
+    "address": "35-25 Farrington St, Flushing, NY 11354, USA",
+    "rating": 4.3,
+    "user_ratings_total": 290,
+    "phone_number": "(718) 445-3352",
+    "reviews": [
+        {
+            "date": "4주 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xOTldIWjBXa0ZZZVdkelUyMXVkMDFQY25GbFgzYxAB",
+            "text": "Yummy staff and food."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psc2JHdDJUa1pEWkVwTVEyMDRSekZaUnpGVlQzYxAB",
+            "text": "What an absolute treat Magna restaurant was for us!  Antonio and staff made us feel right at home in their wonderful restaurant.  The food was absolutely amazing including the desserts!  Antonio's passion for Sicily and food extends into all of their dishes.  We were all so pleased! A delight to the palate and you felt like part of the family with the personable and exceptional service.  Thank you Antonio and friends! Rachel, Jerry and family!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21JeWQwdGpOVjl2ZDBSUldYbGpiWEkyYXpsS1RXYxAB",
+            "text": "They finally reopened for DINNER!!!!!! 👏\nThe atmosphere is still warm, cozy, and you can feel the Sicilian Atmosphere. Just went there for a quick drink. Their cocktails are excellent. I tried the bacio blu and bombay crush both are refreshing!\n\nThe staff are friendly and attentive. Look for Antonio when you visit.\n\nI’ve had their food before and really enjoyed it. Excited to come back soon for dinner 🍝"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2prMmNIVkZjV1IyV0daRVJIZ3RXbmhJUVZwUkxVRRAB",
+            "text": "I’m here for the insalata gelato salad. Omg it’s amazing delicious. And the drinks are great too."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tkMGFuUnhNWEZ3ZG1aVWVURkdWVzkzV0cwd1ZGRRAB",
+            "text": "Found Magna by accident. They haven’t been open for dinner for a awhile. I was tired of the Asian cuisine in the area so I decided to try it out. I’m so happy they opened back up because this was the best meal I had so far. Their homemade lasagna was amazing!!!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT20welEwSTNZWGQxY0RWcVlteEpRa0Y2VG1Ock0wRRAB",
+            "text": "insalata gelato is to die for!!! This Homemade gelato with grilled shrimp and mixed greens was so refreshing after a long hot day. It sounds kind of weird but it is a must try!!!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OMFNFZFFZbU53VGkwMlVGTXhUMU5FWmswNVVYYxAB",
+            "text": "Came upon Magna on accident. Hidden on a street full of asian restaurants this little Italian restaurant was heaven. Awesome drinks and good food."
+        },
+        {
+            "date": "5달 전",
+            "language": "fr",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VQclNqS1BLc09XZ2tRRRAB",
+            "text": "Très bon buffet petit déjeuner dans un cadre agréable.\nTrès bon service."
+        },
+        {
+            "date": "8달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnTURnamV2Q0d3EAE",
+            "text": "While on a short trip to the city, I went out for a walk and got hungry.  Looking for a local breakfast place I found this unassuming little spot tucked in the back of a hotel.\n\nThe staff greeted me warmly and I was quickly seated.  They had quite a few food options including a huge breakfast buffet, but I chose the simple and less expensive American Breakfast.\n\nThe coffee was very good.  The food came out quickly and it was tasty. The eggs were prepared as I requested. The staff was attentive and kept my coffee cup full.\n\nThe place is very nice although it does not look like much from the street.  I was pleased with the simple and not too expensive breakfast options."
+        },
+        {
+            "date": "9달 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNfa0xxMF9RRRAB",
+            "text": "The butter was expired"
+        },
+        {
+            "date": "10달 전",
+            "language": "es",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNmbkxxTERnEAE",
+            "text": "Que decepción! Me recomendaron este lugar y jamás volveré! La peor experiencia que hemos experimentado. Ese staff tienen una actitud increíble, especialmente el dueño. Al parecer no quieren clientes. La comida fría y muy poca para su precio."
+        },
+        {
+            "date": "11달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUQzOE83NUpREAE",
+            "text": "Very cute place, very friendly. Food was great"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURueUtEc2d3RRAB",
+            "text": "Great spot to get a nice breakfast if you are staying at the Hotel Indigo in Flushing. Great coffee and good breakfast options as you can see! Reasonable à la carte menu or a buffet option"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNucGNxbTFBRRAB",
+            "text": "I used to love it when I was younger my parents would come here a lot. However I went today and the calamari was hard to chew is was overcooked and also the pasta and the atmosphere was changed a lot from what I remember I wouldn’t recommend this place sadly it was one my childhood restaurant"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNud00taFJREAE",
+            "text": "Great spot for breakfast. The hashbrowns were the highlight, as was the cappuccino. Friendly service in a nice atmosphere."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURyNklfeXJBRRAB",
+            "text": "Great atmosphere and wonderful staff!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNyMXZQTkRnEAE",
+            "text": "The location of this restaurant is off the beaten path with hardly and foot traffic. Luckily, if you are from out of town and want to get some breakfast or dinner without getting wet, the back end of the restaurant is connected directly with Marco LaGuardia Hotels and Suites, which is where the restrooms are located. We had some delicious calamari, entrees, double espresso shot, cappuccino, and the desserts were some of the best we've had outside of Little Italy."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN6azd1NTZRRRAB",
+            "text": "Amazing staff and very authentic Italian dishes…especially their spaghetti alla carbonara.  The owners have always been very kind to me and any company I’ve ever brought. I’m very honestly surprised to see a restaurant like this exist in the middle of flushing, but as a local, you won’t hear any complaints from me.  The fact that people don’t frequent this restaurant enough for them to open regular hours is a crime.  I for one am sick of the monotonous greasy cheap Chinese food that’s everywhere in Flushing.  Every place claims to transport you back to China with their flavors…but if you want to know what Sicily tastes like, this is the spot to go to."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURqd2NEdzB3RRAB",
+            "text": "Beautiful place, chilled and relaxed atmosphere and amasing food!\nFood is less pricy than expected. Couldn't ask for more 😁"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURqNUxLa2NREAE",
+            "text": "As new residents in Flushing, one Friday evening my partner and I decided to explore local eateries in the area and we came across a hidden gem – Magna Italian Restaurant – located on Farrington Street, off Northern Boulevard.  (There is also a large sign on two sides of a building on Northern Boulevard which one cannot miss.)\n\nUpon arrival, we were cordially greeted by Barbara whose family, I believe, has owned the restaurant for many years and launched a successful comeback after overcoming the challenges of the Covid pandemic.  Barbara was extremely kind and immediately made us feel at home.  At that point, we knew we were in the right place as most of the restaurant was full, the guests enjoying their respective meals against the backdrop of a simple but charming room, accompanied by the sounds of good ole Italian favorites like Sinatra, Jerry Vale, and Gianni Morandi.\n\nMagna’s appetizer and main dishes were fresh, heavenly to ingest and appealing to all humanly senses.  The meals were served immediately and gracefully.\n\nWe spent approximately 90 minutes enjoying Magna and towards the end of the evening were engaged speaking with other patrons, sharing food, cooking, and traveling experiences with guests – some who were visiting from out of town.  Magna enjoys a constant flow of guests staying at the many nearly hotels and/or spending a layover from connecting flights leaving from LaGuardia Airport.\n\nWe encourage anyone seeking a delicious, traditional, family-style Italian meal to visit Magna.   The only regret is the restaurant is opened only from Thursday to Sunday.  Parking in the area is ample and neighborhood along Northern Boulevard is walkable and nearby the dynamic Flushing Chinatown (which is just across Northern Boulevard.)\n\nWe will definitely revisit and spread to good word among our friends and new neighbors.\n\nThank you, Magna, Barbara, and Team.\nBest,\nRicardo.\n\nP.S.\nBarbara, I am ready for my next Italian lesson."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUREdXJLMHB3RRAB",
+            "text": "Great restaurant- comfortable atmosphere. Staff very friendly. I stopped in for breakfast - food was excellent"
+        },
+        {
+            "date": "1년 전",
+            "language": "de",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUREeU8zTVpREAE",
+            "text": "Wir waren heute spontan beim Italiener um die Ecke von unserem Hotel. Das Ambiente und die Begrüßung waren authentisch italienisch und wir als große Italienliebhaber haben uns darüber sehr gefreut. Die Einrichtung wirkte liebevoll dekoriert und auch die Musik im Hintergrund war italienisch.\nDie Bedienung (selbst aus Milano stammend, wie sie uns auf Nachfrage erzählte) war sehr herzlich und aufmerksam. Als Vorspeise hatten wir jeweils den Spinatsalat mit Tomaten und fritiertem Bacon und Organic Salat mit roten Zwiebeln. Beide waren frisch zubereitet. Der Bacon zum Spinat war eine sehr tolle Kombi.\nAls Hauptgang hatten wir Spaghetti mit Fleischbällchen und Hähnchen mit Spaghettiund Tomatensauce. Dazu wurde uns der Parmesan frisch auf den Teller gerieben.  Auch dieses Essen war wirklich sehr köstlich. Die Tomatensauce schmeckte auf jeden Fall frisch selbst gemacht.\nEs war einfach zu viel für mich, ich hab es nicht geschafft. Ich wollte ja noch ein Dessert.\nVorher gab es noch ein Limoncello aufs Haus und dazu einen Espresso aus der Siebträger. Sehr gut.\nAls Dessert gab es eine Kugel Vanilleeis und ein phantastisches Tiramisu,dekoriert mit Erdbeeren, Brombeeren und Schlagsahne. Ebenfalls sehr köstlich.\nWir haben uns rundherum wohl gefühlt. Bier gab es typisch italienisches.\nLeider leider und das ist wirklich der einzige Minuspunkt, der Wein (Chianti) hat leider gar nicht geschmeckt. Da hatte ich für ein italienisches Restaurant auf mehr gehofft.\nAnsonsten ein sehr toller Abend in toller Atmosphäre.\n\nAlles Liebe für euch"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNkZ2ZlSWh3RRAB",
+            "text": "This is a hidden gem, a really nice old-school Italian place, nice, warm, friendly staff serving up delicious food. It was our first visit, but they made us feel like we've been there a hundred times. You know that kind of service where they make you feel at home. Whatever you decide to try, I'm sure you'd love it. We're heading back for some Pizza this weekend."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMxN0xfRVNBEAE",
+            "text": "Food was awesome and Barbara provided exemplary service today.  Great job, Magna and Barbara!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNsbHREYVR3EAE",
+            "text": "The breakfast buffet was terrible.  The food was probably purchased from the local stop and shop.  I feel sorry for the staff as they have to do their best with an owner that is cutting every corner imaginable."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM1cWFDM3F3RRAB",
+            "text": "As others have mentioned, the menu is limited. There are very few options for vegetarians, but they do have vegan cheese for pizza. We had a margarita pizza, and the crust was charred on half of the pizza to a point where you could not eat it.\nThe service was great, and the ambiance was welcoming g."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURabzVubVdBEAE",
+            "text": "Breakfast was amazing. Everything tasted fresh and service awesome. It was close to our hotel (Indigo) 4 min walk."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURaanF1b0Z3EAE",
+            "text": "I was excited when I saw their menu as they were the only Italian restaurant in the area. They had a revised menu that was a fraction of the online menu. I ordered the chicken parmesan with spaghetti. The chicken had no flavor, and the spaghetti tasted a bit undercooked. This is a one and done restaurant. It appears they were magnificent back in the day, but have taken a severe step backward."
+        },
+        {
+            "date": "2년 전",
+            "language": "nl",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURacExqd3VRRRAB",
+            "text": "Heel gezellig Italiaans restaurant. Het eten was heel lekker, echter is de kaart sinds kort zeer beperkt. Bediening is heel vriendelijk, ik kreeg zelfs een taartje voor mijn verjaardag! Zeker een aanrader."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaODkzWlpREAE",
+            "text": "The food is quite mediocre."
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNaMXZpZERREAE",
+            "text": "There is nothing Italian in this restaurant except the music they played . Food very simple and tasteless . Very few choices and not really true Italian . I had a ravioli in chicken broth . Tasted like from a supermarket package. Very disappointed!!!\nDon’t waste your time to go there"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR4ckpiSTF3RRAB",
+            "text": "Fantastic first meal for my family in Queens. The staff is kind and has great energy, and the food was all delicious. We had a couple BLTs and the chocolate strawberry pancakes. Everyone left full and happy. Thank you!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUN4bGMzRW53RRAB",
+            "text": "This place had such an amazing vibe for dine in. They had breakfast buffet for $21. We did the menu and the oatmeal and french toast were too good. The staff was very friendly!"
+        },
+        {
+            "date": "2년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURCcGVQZGdRRRAB",
+            "text": "The staff here are the type of people who doesn't have a heart and only has the end of their shift in mind. Will hurry or decline anyone trying to come near closing time. Totally NOT accommodating"
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMtdHBleEFREAE",
+            "text": "Great breakfast. The pancakes were as good as it gets. Excellent and friendly service."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUMta3JDaUN3EAE",
+            "text": "They're very friendly and always greet me with a big smile."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURlcGJmeTh3RRAB",
+            "text": "Great breakfast. When they were open for dinner, great lasagna. Like everywhere else, they can’t get workers so closed after breakfast."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNlX2VtOTdRRRAB",
+            "text": "Place looks like it closed down. Call first."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNlbGMtUFJnEAE",
+            "text": "Best restaurant I been to food is amazing no one better then this Italian restaurant"
+        },
+        {
+            "date": "5년 전",
+            "language": "ko",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURNekt1a0V3EAE",
+            "text": "맛있어요.\n플러싱에 이런식당 찾기힘들고\n사장님이 유럽분이시고\n추천해준음식도 맛있었어요.\n디저트도 좋았어요.\n근데 재촉 좀 안하셨으면 좋겠어요.\n메뉴 이름을 몰라서 검색해보느라 좀 나중에 와달랬는데 1분에 한번씩와서 물어보고 좀 이따 와달라하면 표정 확 구기고\n음식먹고있는데 알바하시는분인지는 와서 계속 접시 치우려고하고.\n실제로 제 남자친구는 한두젓가락 남아있는상탠데 접시 획 가져가서 저희 둘이 이게 뭐지했어요.\n저도 먹고있는데 계속 가져가려하고.\n그냥 계속 재촉하는데 안하셨으면 좋겠어요. 패스트푸드점도 이렇겐 안해요. 저흰 대화도하면서 천천히 밥먹고 싶어서 식당온거지 후다닥 주문 하고 후다닥 먹으려고 온게 아니에요.\n재촉하지 마세요.\n먹다 체하겄네\n근데 맛있어요.\n까르보나라는 짜니까 치즈얹어드시지 마세요.\n가격대는 플러싱치곤 높은편이에요.\n맨하탄 미드타운식당가격이에요.\n근데 맛있어서 또 갈거에요."
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNnX0s3bVlREAE",
+            "text": "Local Italian restaurant that delivered more than expected. Food was good and fast at reasonable portion and prices. Service was lovely and attentive. Must try the calamari - it’s crispy and not too chewy. Pasta was fresh. Well worth a visit."
+        },
+        {
+            "date": "5년 전",
+            "language": "es",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURNcUt5RWl3RRAB",
+            "text": "El personal es super atento, amigable y respetuoso. La comida en general es buena baja en sal y azucar y se siente muy fresca. Particularmente me gustaron las Entradas y los Postres pero los Platos Principales fallaron. El Pollo a la…"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNVMEkyVGx3RRAB",
+            "text": "This is a very talked away quiet Italian restaurant in a hotel in Flushing. The menu here is limited but the food is great and it’s great value. Lunch is $11.99 And includes various soups and salads with your entrée, and the entrée includes…"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNBa1l2TUF3EAE",
+            "text": "I'm in the bridal party for my friend's upcoming wedding and we decided to host her bridal shower at Magna. Originally, they promised us the back nook, so that it was semi private. It didn't work out and they gave us a large table on the side, which worked out. They pretty much let us use half the restaurant, set up a separate table for us to place the cake/cupcakes/guestbook (note - $3 plating fee per person if you bring your own cake), and even helped us hang our decorations (shout out to Fabio!) We decided to order a few dishes and serve it family style. Everything was great. This is what we had:\n\nCaesar Salad (romaine lettuce, croutons, reggiano cheese with classic Caesar dressing)\n\nCalamari Fritti (crisp fried calamari with garlic marinara sauce) - perfectly fried\n\nSfizi all'Italiana (freshly sliced prosciutto, mortadella, capicola, fresh mozzarella, tomatoes, provolone, roasted peppers) - my only complaint was that there was no prosciutto (like the menu had described), but overall not bad.\n\nRigatoni alla Vodka (rigatoni pasta in pink vodka sauce) - this was my fave. I love a good pasta a la vodka.\n\nSpaghetti alla Carbonara (spaghetti with italian bacon, parmesan, and poached eggs) - this was pretty good too but also a bit heavy\n\nRisotto ai Frutti di Mare (risotto served with clams, mussels, calamari, shrimp) - they gave a good amount of seafood\n\nPollo alla parmigiana (breaded chicken breast topped with tomato sauce, mozzarella) - chicken was cooked perfectly\n\nFor drinks, we had asked about bringing our own bottles of wine but then they wanted to charge us a ridiculous corkage fee of $35 per bottle. We ended up just ordering four bottles of wine (for 14 people) for the table, which was the perfect amount. It was also cheaper than paying the corkage fee.\n\nOverall, it was a nice space for a bridal shower (also because no one was really there while our party was going on). However, I'd only recommend it if you have a small group. The restaurant isn't that big."
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNveXVXNDhRRRAB",
+            "text": "I went with my friends and I to Magna for a little birthday lunch and it was pretty darn good! Tucked away in Flushing where you can mostly only find Chinese, Korean or Japanese cuisine, it's refreshing to see an Italian restaurant not too far from downtown Flushing. We got there around noon on a Sunday and the place was empty. We quickly ordered and while it took a while for the food to arrive, it was well worth the wait. There are enough vegetarian options for anyone in you're party and they also have a lunch special (3 courses - appetizer, entree and dessert). The entree portion sizes are huge and the only issue we all had with food itself was that the pasta sause was really sweet. We shared a Tiramisu for dessert and it that to was delicious! All in all, if you're looking for Italian food in Flushing, definitely check out this place!"
+        },
+        {
+            "date": "6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNvb3VyWG9RRRAB",
+            "text": "We had a 4 hour NYC layover we took cab (no train from la guardia).  Went to the only Italian restaurante in China Town,  Magna.  It was a great find.  Our waiter Fabio was truly Itslian.  He was from the lake como and Cicely area.  The whole family seemed to be at the restaurant tonight.  Food qas great. We had Vitello alla Bolognese, Veal scaloppini with prosciutto and fontina cheese served in a white wine sauce and a special includomg chicken stuffes with mushrooma and fontina with a marsala sauce.  We had to.get the chocolate torte with some vanilla ice cream and fresh strawberries and blueberries."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 1,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNteHNXZDlRRRAB",
+            "text": "WARNING! DO NOT GO\nPOOR SERVICE, FROZEN FOOD, OVERPRICED, FORCED 25% TIP.\n\nIn a Cold Sunday night I went for dinner; my bread was served cold, and fried calamari came with can tomato metal taste sauce. My waiter did not know how to open a bottle of wine.\n\nNevertheless; I decided to stay and went for steak and my friend order risotto. Well my steak arrived cold and overcooked,I could feel pieces of ice in my palate; I was starving which I did not have time to complain about it. Then my friend’s risotto arrived in a meager monkey dish piled up and overcooking the bottom portion.\n\nTo top it all off we ordered an apple pie Alamode, wich they ran out and had to fetch from Macdonalds; finally our microwaved apple pie came after a good 20 minutes; by then we had lost our appetite and ask for the bill. Shockingly there was a $25 force on the bill. 20% totaling $164.96\n\nI paid them and instead of complaining I wrote this review for Pple not to come here."
+        },
+        {
+            "date": "수정일: 6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUM0cU9tMWhnRRAB",
+            "text": "Fabio was great.. Thanks Fabio for making our first visit memorable.  Food excellent. Can't say enough about this true hidden gem. Pasta is home made.  They had this fresh made tri- colored spaghetti. The desserts were generous. As well, the meals size was generous.  Shrimp very fresh."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNDOFpxM3lRRRAB",
+            "text": "It's a bit out of the way in Flushing, but man the quality is well above my expectations!\n\nCertainly a bit more expensive than the 2 dollar fried rice right in the heart of Flushing, but if you're in the mood for some proper al dente pasta with great tasting ingredients,  this is the place to be.\n\nHonestly I frequent a joint in Little Italy, and the quality of food here blows that place out of the water.\n\nI'll be coming here more often now I know the parking situation."
+        },
+        {
+            "date": "수정일: 6년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURneUl5RHVnRRAB",
+            "text": "A really good Italian restaurant IMHO. Linguini with clam sauce - excellent. Grilled shrimp and calamari over arugula - superb. Nice wine selection. I can hardly wait to try the chocolate suoffle. Delicious limoncello. Good service. Will go back soon."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwcGR6RWh3RRAB",
+            "text": "Delicious, quiet, polite and fast service. Always had fresh cold water, refilled bread and had check on the table fast! Definitely reccomend for anyone seeking tasty, fresh Italian with great specials."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNPZ3BMQU5BEAE",
+            "text": "We made a reservation for party of 6 at 6:30\nAnd we were there right on time, and they told us there is a wait time of 25 to 30 minutes. That was kinda ok so we were called to the table at 7:10 and nobody showed up to give water or anything for another 30 minutes. So finally after calling the waiter few times they came to take orders. Two of our guests ordered salmon dish, which after 25 tp 30 more minutes someone showed up at the table stating they ran out of salmon and can do white fish ( totaly different dish). At last our food was served arround 8:30\nFood is ok service is horrible."
+        },
+        {
+            "date": "5년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUQwX3JURnl3RRAB",
+            "text": "Great Italian and original food. Everything was cooked fast and it was delicious. Go for it and support fine dining."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUR1OUt5aTNBRRAB",
+            "text": "I had a wonderful experience! Ambience was great, the food was fantastic and the staff was friendly and efficient! I was just stopping through but would definitely recommend this restaurant!"
+        },
+        {
+            "date": "수정일: 7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURnajQtR3ZRRRAB",
+            "text": "This is my second weekend in the city and 4th time eating here. Everything that I had has been nothing but incredible. I grew up in an Italian household and everything I had has reminded me of the great food my grandmother made. The staff…"
+        },
+        {
+            "date": "7년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURRMzdYeHVBRRAB",
+            "text": "Very good Italian food in the Flushing Main street area👍👍 Service and food is good.…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURLNnVYU1JnEAE",
+            "text": "Fantastic food,  great service and the most amazing Afogatto dessert and delicious apple pie."
+        },
+        {
+            "date": "13년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURBcm9lWVlnEAE",
+            "text": "My sister had her med school grad after party here and it was great. The price was reasonable, the food was great, the servers were polite and the owner/manager Danny was there the whole night to make sure every need of ours was met. The…"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUNhbFlXTU9nEAE",
+            "text": "Great meal, great service, great atmosphere! Fabio was our server and was fantastic! Solid wine list as well. Food was delicious! Classic Italian choices. Nicely plated and properly cooked! Prices are reasonable! Overall, a wonderful dining experience! Highly recommend! Buon Appetito!!"
+        }
+    ],
+    "reviews_count": 59
+}

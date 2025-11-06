@@ -1,0 +1,397 @@
+{
+    "name": "The Pool House",
+    "place_id": "ChIJu63lbl9pwokRsWFTaF4-DI0",
+    "grid": "QN14",
+    "address": "108-10 Rockaway Beach Dr, Rockaway Park, NY 11694, USA",
+    "rating": 4.8,
+    "user_ratings_total": 181,
+    "phone_number": "(718) 474-1216",
+    "reviews": [
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2toWU9IRlhTRkpRWmtGTFdXRXhWbE4zWTFwcFdrRRAB",
+            "text": "One word: GO! I went in celebration of my birthday, which was the day before, and I truly enjoyed myself despite the rain. The pool and sauna are intimate, but lovely and very comfortable no matter the weather. The surrounding grounds are well maintained, and the restaurant is very nice. The food is alright, but the service is positively stellar. The entire staff was AMAZING and went above and beyond to make sure I was happy, and I have to extend a special thank you to Amelia and the manager. Lastly, I'd be remiss to not mention that the lounge/house/electronic music is PERFECTLY SUITED. I am already in the process of planning a return trip. I can't wait!"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wRWJsRnFTM0JQZWxBMVlsbE5RMDF4Tm1aTWRtYxAB",
+            "text": "I've been 3 times this year using the pool day pass. Food is delicious, drinks can be a hit or miss, some much better than others. Reasonable prices and the service is always great. They have outdoor showers to wash off and a bathroom you can use to change if having dinner or going to their roof top bar. I personally prefer the winter set up and menu but either summer or winter are both enjoyable."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkTlFtTkRTVVY0WjFSU2NWTnhNVmRhZEVadVZtYxAB",
+            "text": "Shawn was great! We also really liked\nOur server Alice. It’s our second time there. Alexis at the front desk was super professional\nAnd solved problems quickly and politely. We will\nDefinitely be back."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwbldWVkZiM1ZHTkU5T1FYRm5hRmc0VGxWbGNsRRAB",
+            "text": "We had an amazing couple of days at The Rockaway Hotel! Thomas and Sean and the entire staff at the pool made us feel so welcome. The atmosphere was fun and relaxing at the same time. Delicious food and yummy cocktails poolside added to this unique experience."
+        },
+        {
+            "date": "수정일: 1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25FelQyOXNNVGR3YjJWUGJFOHpaRnBtVDI5WGVFRRAB",
+            "text": "This place is a gem. It makes you feel like you are in a resort far away, yet still provides local Rockaway character.  Excellent burgers and raw bar, with great cocktails."
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21vd2VISXpRWFJxVURocU5EZDJZMUptWXpCQmNXYxAB",
+            "text": "Tyler is the most lovable way that I’ve ever met and Sean is the most gracious man I’ve ever met"
+        },
+        {
+            "date": "1달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OQmN6Uk9jMFpsTkdNdGNFSk1kMGR3V2tWdFRsRRAB",
+            "text": "Amazing experience… staff was incredible and was there when needed."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xaNmEyVTJNbHBRYXpOVk5XNVdTbkptUlVOUmJrRRAB",
+            "text": "Nice summer vibe, great good and excellent service."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SU1pEWXpWVWx6UzBsM04zbE1SMDloTVVSamFtYxAB",
+            "text": "I had awesome time celebrating my cousins birthday party. Host was professional and provided excellent service. Highly recommended"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2t0RWRXRjFaMlJJVW5CUlpWTm1NaTF0U2t0V2RrRRAB",
+            "text": "Best hotel ever!! 10 stars- luxury NYC experience"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21abU1IWkNVVzl1TFdsaGJrdHhURk51U0RkR2NVRRAB",
+            "text": "Amelia was the best server. We had a fabulous time with great vibes and attentive service. 10/10 pool vibes"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21OcGJtbzBZVTFDV0V3dGJIWk5PSGhxUkZCRk5XYxAB",
+            "text": "Service was amazing"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT214MFFVeFpkblUxZWtoeGRHMXlaamhYTjBsV1JXYxAB",
+            "text": "Anytime I come to the rockaway hotel it feels like a piece of home. The hospitality is unmatched, the food is just what you need and the drinks are always flowing. Such an amazing escape and oasis they’ve created and I feel lucky to have a little piece of it."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SUE0ybE1NVTV1Wkc0NE0yVmpZbE5uZG1WbFNGRRAB",
+            "text": "Food was great! Great location, great views! You feel like your away at a resort! Highly recommend!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWM1FXWk1PSEU1WnpCcWNFSmhiM0pNVjBKU1VsRRAB",
+            "text": "My friends and I had the loveliest day!  The food was incredible,  and Tom the GM and all the staff took the best care of us!  My first but definitely not last time!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25nek5IbGFTMkZ1UVdwcE9GQnhUWFF5VlRJNWRHYxAB",
+            "text": "On Monday 8/25 my family and I spent a day renting a cabana. We had a wonderful time! Our waiter Andrew was excellent and we did not want for anything ! The food was perfect for poolside bites! We do this a few times a year because it is so perfect for a great day! And close to home!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tReGIxZHVUMnBZTFVab2NUSnVUSEpRY1Vrd2MyYxAB",
+            "text": "I will be back before the year is out. I love you  all very much! I will see you soon.!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s5RGRsTjZlWGhsVURBNU4wcEpXbnBQY1c5UlYzYxAB",
+            "text": "Amelia is excellent! Sean the manager is great as well. Frank is an awesome and attentive bartender. Lovely first experience."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25Cck0yeE1URjlRUVRKSmRsUm9ORE15YkhSWGFVRRAB",
+            "text": "Your manager Sean was exceptional. Our server Amelia went over and beyond for me and my group. We booked a cabana for 8!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKRWNYaDFVazFUWDFJNE5WVndMV3N3UnpWME9HYxAB",
+            "text": "Shawn and Emeila were great! We had a Cabana in the corner and they treated us so well - almost like family. My first time at the hotel and definitely will be back because if the experience."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsQlRrMDFUVGxrTWpCVFh5MXVSa3BpV0ZKVGJsRRAB",
+            "text": "absolutely phenomenal experience. servers are sharp. bartenders are exquisite. the manager, sean, is wonderful. i most likely drank 26 blackberry spritzes in a 6 hour span during my stay at the poolhouse… WORTH IT"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tVMmRVTkxVR05WUjNoeGRYRjFTbTlWVTNCb2NYYxAB",
+            "text": "Had the best time ever by the pool! Food and drinks were both amazing. Nancy and Sean were so kind and took great care of us. Couldn’t recommend enough! Buddha bowl was 10/10"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tFM1JtUXhXVUZrVVVOcVJGcHFNMHBDV0RKTE9XYxAB",
+            "text": "Great spot !"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWQldIUnZiVnAwWW1sVWNHTklOVkpqZUdONE9FRRAB",
+            "text": "Extremely beautiful spot!! Fab staff, yummy food and the basil frozen cocktail is to die for"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kwemNGUjZZakkyYWtkeWRubFliemx5TjBSbVZFRRAB",
+            "text": "Massively we had a wonderful time dope view and atmosphere  … Definitely will go back"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xCbmMyNW1VRFkxVlRSaU0wNHpRbTlTWjIxV2RsRRAB",
+            "text": "Walked in and felt immediately at home. Waiter was super lovely and so was Glen. Was able to sit by the pool and enjoy some drinks. Had a lovely afternoon with delicious food and lots of sunshine!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25wUmNUWlViRWsyUVZneVQzRmtORWhhUkhrNFEwRRAB",
+            "text": "Third year here for our annual cabana day and always the best experience !"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21wdWRHSklXWGN0ZDB0SFVucFNZMUJsUjNsV2FsRRAB",
+            "text": "Best place for a girls day. Food and drinks are amazing"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2psNGFWZzRXak5zUm1GSllrWjFjVVp6UWpaNFZIYxAB",
+            "text": "Spent the day by the pool at The Rockaway Hotel, it was the perfect summer day. A total gem in NYC, you can’t go wrong for R&R and a good time! A cabana rental is absolutely the move and the vibes/service were excellent - Glen took care of us every step of the way and couldn’t have been nicer. Hoping for a few more perfect weather days because we will definitely be back!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xFemNXTk5lbWhIWXpkSFVFeHhVVUZCUzJNelpFRRAB",
+            "text": "I love staying at the pool with my family. It was so much fun and so beautiful. The workers were very helpful and kind."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25CdVZIQkNjRlZ2Ym0xZmJqVmtNemxaVldsbWExRRAB",
+            "text": "Poolside service was beyond amazing. And the crispy chicken sandwich is to die for!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25oZk1IUnpiamQ0ZDNoblNFOVpjMGQ1TUhZMmJXYxAB",
+            "text": "Thomas was the best server! So attentive and funny, gave us an incredible experience! We love the shark bite and tuna crispy rice! Such a good suggestion from our fabulous waiter!! Not hard on the eyes either!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 4,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tzelZXeEtiRE13TUVSV1pYSnFWa2RhWTBSVlVIYxAB",
+            "text": "We came to watch the waves from Hurrican Erin and stopped in for lunch. Very nice, beachy vibe & decor with a bar alongside the hotel's pool. Service was quic=k and attentive despite the lunch rush (a couple of corporate events, it appeared). The Garden Margarita was a tasty, \"healthy\" alternative to a standard margarita; the frozen mojito was a nice drink option too.  The grilled chicken sandwich was very tender and juicy, with a delicious slaw on top. The Beach Hot Dog was served with kimchi slaw, but the dog (a Pat LaFrieda dog, no less) was sadly a bit mealy. Perhaps a little more time on the grill was needed. Overall, a decent meal in a beautiful beachy setting a block from Rockaway Beach."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2s1TVkyeFBTSGhtT0hsU1RrVlpTbXRXV2xsRFdsRRAB",
+            "text": "Great food, great atmosphere, great service. Highly recommend trying the tuna poke bowl."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2tONmJsZHVXRVprYTNGRlQwZFRUR2hYY1dkaFprRRAB",
+            "text": "Excellent dynamic delicious offerings, attentive service, and great dining atmosphere."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xWME5IRkpObVJSTlc1cWNsTnlOVTFaZWtzNFJsRRAB",
+            "text": "Jenna, the bar tender at the pool house was outstanding, very knowledgeable with the drinks and awesome personality."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25SUldGcGhUMjB5WDFCbU4ycENkWGRsY21SWmRVRRAB",
+            "text": "Jenna is the most amazing ambassador for this establishment!  Went above and beyond to make us feel welcome and gave us a great tour of property!   Felt like family!!!  This place is awesome!!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkemNtdEdibGhYVURaRmFYaENYMmxzWjNsVVUwRRAB",
+            "text": "Service, wine, food, and design execution were all top notch. If you’re traveling from out of town, or just need a perfect ‘staycation’ spot, Rockaway Hotel is one of your best options to have an amazing time!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xwSFpHOUZXa2hVUTNWMFluazJWRzAxUmtwUU5YYxAB",
+            "text": "Stylish and Cozy pool side bar restaurant  where has a DJ for weekend. My go-to hotel for weekend escape, relax  beach vibe with nice music."
+        },
+        {
+            "date": "3달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pKbldsUm5MVnBGVkROeFVFWXhTSGsyUVhOWFNuYxAB",
+            "text": "I had THE BEST day here! We were treated like family with amazing service. This place has it all -  delicious food and fabulous drinks, incredible pool side areas to lounge, and a fantastic crew providing a dream of an experience. Sean, Julianna, Sophie, Isabella, Rob, & Dom are THE BEST!! The internal hotel staff were lovely as well!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2kxMlQzWXhYMlJ0YmtKbVNIRkhPWFJpTWxSTmJtYxAB",
+            "text": "I celebrated my early birthday today with friends at the Rockaway Hotel Pool House, and it was nothing short of fabulous! From start to finish, the experience was smooth, luxurious, and so much fun - exactly the vibe I was looking for.\n\nA huge thank you to Alina, the Guest Services Manager, who went above and beyond to help coordinate and arrange our private cabana. She made the booking process seamless and ensured every detail was taken care of so we could simply show up and enjoy ourselves.\n\nOur server, Diana, was phenomenal - attentive, kind, and on point with every request. She kept the energy light and the drinks flowing, and truly made us feel taken care of.\n\nThe poolside atmosphere was vibrant yet relaxing, the space beautifully designed, and the food and cocktails were delicious. It was the perfect setting to kick off Cancer season and toast to another trip around the sun 💕🌊☀️\n\nThank you to the Rockaway Hotel team for making this day feel so special - I’ll definitely be back!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pCbFgwZFFOakIyVW5CVk5WWlVTa2xvVlZaUFNuYxAB",
+            "text": "I am a Rockaway local and have been coming to this place since they opened. Unfortunately the food is not the same anymore. I was very disappointed with what they call avocado toast for 14$ which essentially is soggy piece of bread of bread and half of avocado on it, literally nothing else. It tasted bland. Period. Not to mention i waited for it for 35 mins!!! It’s truly said what happed to the Rockaway Hotel restaurants. I include the comparison picture of the avocado toast at Cafe Lift for the same price."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xkV1JsazRUR2RtTW10NVIxcG1VMnhUUzJwYWVuYxAB",
+            "text": "Who knew you could feel like you're away at a resort in NYC ?! At Rockaways POOL HOUSE you most certainly can! From tasty plates to delicious drinks including the frozen Watermelon Basil Margarita, you really can't go wrong. The staff, host and bartenders really make you feel welcomed to name a few including Riley, Megan, Danielle, Connor, Maddy, Ryan, Rob etc. Definitely a MUST to visit and vibe out!"
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSURidFBHbERnEAE",
+            "text": "The Pool House at the Rockaway Hotel is truly a gem! From the moment you step in, you are greeted by stunning decorations that create a vibrant and inviting atmosphere. The beautiful aesthetic is complemented perfectly by a great selection of music that enhances the overall experience, making it a delightful spot to relax or celebrate!\n\nOur day didn’t start as smoothly as we had hoped. Upon arrival, we encountered a bit of a hiccup when one of our chairs was taken due to their first-come, first-serve policy. However, my birthday celebration got better thanks to the incredible service we received from Mr. Tom. He went above and beyond to ensure we felt welcomed and cared for. His undivided attention and thoughtfulness transformed our experience into something truly special.\n\nThe food and drinks were fantastic, easily deserving a solid 10/10. Each bite was a delight, and the refreshing cocktails perfectly complemented the sunny day by the pool.\n\nDespite a rocky start, The Pool House turned into an excellent outing thanks to the beautiful ambiance, fantastic food, and outstanding service from Mr. Tom. I can’t wait to return for another day of relaxation and enjoyment!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xsU1NqZFljM05TU25vM1FWcHBUbWR0ZEZaclkzYxAB",
+            "text": "I had such a wonderful experience at The Pool House! My friends and I were invited to one of their cabanas, and it truly made the day feel special. The atmosphere was relaxed yet elegant, and the cabana setup was perfect for hanging out comfortably as a group.\n\nThe service was absolutely amazing — attentive without being overbearing, and the staff made sure we had everything we needed the entire time. From the drinks to the food, everything came out quickly, fresh, and delicious."
+        },
+        {
+            "date": "1년 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSURUcmVteV9nRRAB",
+            "text": "If you're looking for a perfect spot to unwind after a day at the beach, look no further than the Pool House Bar & Restaurant. Nestled right by the poolside, this gem offers a delightful combination of great food, refreshing cocktails, and a vibrant atmosphere.\n\nThe food selection is nothing short of impressive. Whether you're in the mood for light snacks or a hearty meal, the menu has something for everyone. Each dish is crafted with care, showcasing fresh ingredients and bold flavors that leave you wanting more.\n\nThe cocktail menu is equally enticing. From classic margaritas to inventive tropical mixes, each drink is expertly prepared and beautifully presented. Sipping a cool cocktail by the pool, with the sun setting in the background, is an experience you won't soon forget.\n\nThe seating area near the pool is both comfortable and picturesque. With a gentle breeze and the sound of water lapping nearby, it's the perfect setting to relax and enjoy your meal. The music playing in the background adds to the lively yet laid-back vibe, making it an ideal spot to unwind.\n\nWhat truly sets this place apart is the service. The host and staff are incredibly friendly and attentive, ensuring that every guest feels welcome and well taken care of. Their warm hospitality adds a personal touch that makes your visit even more enjoyable.\n\nIn summary, the Pool House Restaurant is a fantastic choice for anyone looking to relax and indulge after a beach day. With its delicious food, exquisite cocktails, and excellent service, it's a must-visit spot for both locals and tourists alike."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21WcVdIVnpPRXh4ZG1aalREQjNNRkpHWVdsVlJrRRAB",
+            "text": "This place is....fine. In the strongest sense of the word. The food is what you expect. It's proximity to the pool is nice if you wanna grab a quick bite. But holy cow the service leaves something to be desired. Ask for anything: syrup for your dry pancakes, an extra napkin, the check, you're credit card back after trying to pay your check, and it takes a minimum 25 minutes. We were one of three tables in the entire restaurant."
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 2,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT25WT01GQnRiV3RtUVhZeGVFSkNMV28wYzFsWFRVRRAB",
+            "text": "Took around 15 minutes to even be seen by anyone despite sitting in the middle of the patio seen by several workers. Also waited about 10 minutes for water to be returned until the busboy brought it after asking again. Food was fine but $20 for a burger and still hungry is annoying. The only person who really helped was a busboy who was great."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT21GWVl6ZHBZazUzV21Gck1GUXhXbTlTYVdOaU9YYxAB",
+            "text": "Glen!!! We came for spa services, Stephanie made me so  comfortable and I had the best experience. Then we came to the pool house and Glen was soooo helpful and ended up booking us a room. We love it here!!! Will come ever summer."
+        },
+        {
+            "date": "3년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChZDSUhNMG9nS0VJQ0FnSUN1N091ZUR3EAE",
+            "text": "I wish I could love it. Because the service was great and the food not terrible. But the DJ played so loud that we couldn't read or talk. It's clearly catered to a party audience, which we didn't expect. We came for a relaxing weekend to wind down from work. That didn't happen. Also many of the orders come in single use plastic cups or with plastic silverware. Which doesn't feel classy and shouldn't happen at all at a beach hotel."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2twNk5EVjNYMmxGWmxwVlYxUnZkR3hrWkRSVVdGRRAB",
+            "text": "Emilia was an amazing server. She was kind and very intelligent. She was very attentive, especially with my food allergies. I will be coming back and I hope she is my server at my next visit. Thank you Emilia!!!!!!!!!!"
+        },
+        {
+            "date": "4년 전",
+            "language": "en",
+            "rating": 3,
+            "review_id": "ChdDSUhNMG9nS0VJQ0FnSUNxMWVDQ25RRRAB",
+            "text": "The Pool House is located in the lobby of the Rockaway Hotel which is the only one of its kind in the Rockaways.\n\nI like what they are doing, but it’s quite obvious they don’t have a professional chef and plating has not been fully thought out.  I had the eggs on toast - it wasn’t even worth taking a picture of.  What looks like 4 scrambled eggs on a slice of toast with a handful of bacon served in a shallow salad bowl.  Seriously, this kind of plating will turn off your customers.   My son had the Açaí Bowl - this was perfectly served however the only Açaí Berry was the flavor in the yogurt.  My son called it a yogurt parfait. This place is lacking creativity in its brunch department.\n\nNow for the good stuff - There is valet parking offered however we found street parking and didn’t need to take advantage of the valet.   Both of the maître d’s were perfect at what they do - pleasant, extended friendly gestures and work to get us a table that was pleasing for our called in reservation.  The Pool House has a beautiful, full stocked, open-air bar.  The music for Sunday brunch was on point, a bit of Caribbean flare which works well with the beachy atmosphere.  Our waiter was not warm and friendly but we have a number of employees, which includes an older gentleman who stopped at our table to make sure that everything was ok.\n\nWhy would I return, if one may ask.  It’s simple - I wouldn’t mind trying dishes from their lunch and dinner menu and I would definitely like to take advantage of the bar and enjoying that beachy atmosphere.  When someone decides to create something this nice for the public to enjoy, it’s the public’s responsibility to support and keep it alive.  That’s an obligation I impose on myself, hoping they will improve as the summer season 2021 ages.\n\nSadly I can not give this restaurant a 4 star because of the quality and plating of the food I received.  Good luck to the owners and I shall be back."
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2w5b00xTnhMWFI0VTNaNFgxWlNaMjlKT1U1aE0yYxAB",
+            "text": "I came to the Pool House at The Rockaway Hotel to meet some friends in cabana and loved it. The hotel & pool are beautiful and the service was excellent! Thank you Glen for the accommodations! We will be back very soon!"
+        },
+        {
+            "date": "4달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2pac1oyZzVVRzFhVlZWV1oweGhUWE5rUTNsM1IwRRAB",
+            "text": "Randy and Pat were awesome! Thanks for a great time and recommending so many things on the menu. Def coming here again!"
+        },
+        {
+            "date": "2달 전",
+            "language": "en",
+            "rating": 5,
+            "review_id": "Ci9DQUlRQUNvZENodHljRjlvT2xKeVJXRnBWbVk0WVdKbVJGazBMVmw2VDNBdGVsRRAB",
+            "text": "Had a great time at the pool house!! All staff were friendly and accommodating. Good vibes. Definitely recommend!"
+        }
+    ],
+    "reviews_count": 55
+}
