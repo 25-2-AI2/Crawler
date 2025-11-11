@@ -46,7 +46,8 @@ import time
 import json
 import csv
 from datetime import datetime
-import config  # tier 설정 가져오기
+import config
+from config import TIER_RESTAURANT_COUNT, RESTAURANTS_DIR, REVIEWS_DIR, GRID_TIER_CSV, GRID_INFO_TXT, LOG_DIR
 
 
 class GridBasedPipelineRunner:
@@ -92,7 +93,7 @@ class GridBasedPipelineRunner:
             return self.args.max_restaurants
 
         tier = self.tier_dict.get(grid_code, "MID")
-        return config.TIER_RESTAURANT_COUNT.get(tier.upper(), self.args.max_restaurants)
+        return TIER_RESTAURANT_COUNT.get(tier.upper(), self.args.max_restaurants)
 
     def print_header(self, title):
         """섹션 헤더 출력"""
@@ -365,7 +366,7 @@ class GridBasedPipelineRunner:
         print(f"  처리할 그리드: {len(districts_to_process)}개 (전체 {len(districts)}개 중 {start_idx}~{end_idx-1})")
         if self.args.use_tier_based_restaurants:
             # config에서 tier 설정을 동적으로 가져와서 표시
-            tier_info = ", ".join([f"{tier}:{count}" for tier, count in config.TIER_RESTAURANT_COUNT.items()])
+            tier_info = ", ".join([f"{tier}:{count}" for tier, count in TIER_RESTAURANT_COUNT.items()])
             print(f"  레스토랑 수집 모드: Tier 기반 자동 조정 ({tier_info})")
             print(f"  Tier 파일: {self.args.tier_file}")
         else:
@@ -391,10 +392,9 @@ class GridBasedPipelineRunner:
         self.print_summary(results, elapsed_time)
 
         # 로그 파일 저장
-        log_dir = 'log'
-        os.makedirs(log_dir, exist_ok=True)
+        os.makedirs(LOG_DIR, exist_ok=True)
         now_time_str = self.start_time.strftime('%Y%m%d_%H%M%S')
-        log_file = os.path.join(log_dir, f'pipeline_log_{now_time_str}.json')
+        log_file = os.path.join(LOG_DIR, f'pipeline_log_{now_time_str}.json')
 
         log_data = {
             'timestamp': self.start_time.strftime('%Y-%m-%d %H:%M:%S'),
@@ -414,7 +414,7 @@ class GridBasedPipelineRunner:
 
 def main():
     # config에서 tier 정보 가져오기
-    tier_info_text = ", ".join([f"{tier}:{count}개" for tier, count in config.TIER_RESTAURANT_COUNT.items()])
+    tier_info_text = ", ".join([f"{tier}:{count}개" for tier, count in TIER_RESTAURANT_COUNT.items()])
 
     parser = argparse.ArgumentParser(
         description='Google Maps 그리드 기반 식당 정보 및 리뷰 수집 파이프라인',
@@ -449,7 +449,7 @@ def main():
     )
 
     # Grid 파일 관련
-    parser.add_argument('--grid_file', type=str, default='gridInfo.txt',
+    parser.add_argument('--grid_file', type=str, default=str(GRID_INFO_TXT),
                         help='Grid 정보 파일 경로 (기본값: gridInfo.txt)')
     parser.add_argument('--start_from', type=int, default=0,
                         help='시작할 그리드 인덱스 (팀원별 작업 분할용, 기본값: 0)')
@@ -461,12 +461,12 @@ def main():
                         help='그리드당 최대 레스토랑 수 (기본값: 30, tier 모드가 아닐 때 사용)')
 
     # config에서 tier 설정 가져오기
-    tier_info_str = ", ".join([f"{tier}:{count}" for tier, count in config.TIER_RESTAURANT_COUNT.items()])
+    tier_info_str = ", ".join([f"{tier}:{count}" for tier, count in TIER_RESTAURANT_COUNT.items()])
     parser.add_argument('--use_tier_based_restaurants', action='store_true',
                         help=f'grid_tier.csv 기반으로 tier에 따라 식당 개수 자동 조정 ({tier_info_str})')
-    parser.add_argument('--tier_file', type=str, default='grid_tier.csv',
+    parser.add_argument('--tier_file', type=str, default=str(GRID_TIER_CSV),
                         help='Tier 정보 CSV 파일 경로 (기본값: grid_tier.csv)')
-    parser.add_argument('--restaurants_dir', type=str, default='restaurants',
+    parser.add_argument('--restaurants_dir', type=str, default=str(RESTAURANTS_DIR),
                         help='레스토랑 정보 출력 디렉토리 (기본값: restaurants)')
 
     # 리뷰 수집 관련
@@ -474,7 +474,7 @@ def main():
                         help='레스토랑당 최대 리뷰 수 (기본값: 제한 없음)')
     parser.add_argument('--headless', action='store_true',
                         help='백그라운드에서 크롤링 (브라우저 창 숨김)')
-    parser.add_argument('--reviews_dir', type=str, default='reviews',
+    parser.add_argument('--reviews_dir', type=str, default=str(REVIEWS_DIR),
                         help='리뷰 출력 디렉토리 (기본값: reviews)')
     parser.add_argument('--parallel_reviews', action='store_true',
                         help='리뷰 수집 시 병렬 처리 활성화 (더 빠르지만 리소스 사용 많음)')

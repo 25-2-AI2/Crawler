@@ -49,25 +49,40 @@ Crawler/
 ├── main.py                           # 그리드 기반 전체 파이프라인 (메인 스크립트)
 ├── getRestaurantsInfo.py             # 식당 정보 수집 유틸리티
 ├── getReviews.py                     # 리뷰 수집 유틸리티
+├── getReviews_optimized.py           # 리뷰 수집 최적화 버전 (권장)
 ├── config.py                         # API 키 및 Tier별 수집 개수 설정
 ├── requirements.txt                  # 필수 패키지 목록
 ├── .env                              # 환경 변수 (API 키 저장)
 ├── gridInfo.txt                      # 뉴욕시 59개 그리드 정보 (입력)
 ├── grid_tier.csv                     # 그리드별 Tier 정보 (HOT/MID/RES) (입력)
-├── check_tier_mapping.py             # Tier 매칭 확인 스크립트 (유틸리티)
+│
+├── docs/                             # 문서
+│   ├── README_OPTIMIZATION.md        # 크롤링 최적화 가이드
+│   └── README_PARQUET.md             # Parquet 변환 가이드
+│
+├── scripts/                          # 데이터 처리 스크립트
+│   ├── convert_reviews_to_parquet.py # JSON → Parquet 변환
+│   └── analyze_parquet_reviews.py    # Parquet 데이터 분석
+│
+├── utils/                            # 유틸리티
+│   └── check_tier_mapping.py         # Tier 매칭 확인 스크립트
 │
 ├── restaurants/                      # 그리드별 레스토랑 정보 (출력)
 │   ├── restaurants_MN1.json          # 맨해튼 1지구 레스토랑 정보
 │   ├── restaurants_MN2.json          # 맨해튼 2지구 레스토랑 정보
 │   ├── restaurants_BX1.json          # 브롱스 1지구 레스토랑 정보
-│   ├── ...                           # (총 59개 파일)
-│   └── pipeline_log.json             # 전체 실행 로그
+│   └── ...                           # (총 59개 파일)
 │
-└── reviews/                          # 레스토랑별 리뷰 정보 (출력)
-    ├── MN1_Gramercy Tavern_reviews.json
-    ├── MN1_The Smith_reviews.json
-    ├── MN2_Balthazar_reviews.json
-    └── ...                           # (레스토랑 개수만큼 파일 생성)
+├── reviews/                          # 레스토랑별 리뷰 정보 (출력)
+│   ├── MN1_Gramercy Tavern_reviews.json
+│   ├── MN1_The Smith_reviews.json
+│   ├── MN2_Balthazar_reviews.json
+│   └── ...                           # (레스토랑 개수만큼 파일 생성)
+│
+└── parquet_data/                     # Parquet 형식 데이터 (출력)
+    ├── restaurants.parquet           # 레스토랑 정보
+    ├── reviews.parquet               # 모든 리뷰 데이터
+    └── ...                           # (샘플 CSV 파일들)
 ```
 
 ## 설치
@@ -283,12 +298,12 @@ python getReviews.py --input restaurants/restaurants_BX1.json --output_dir revie
 
 ## 유틸리티
 
-### Tier 매칭 확인 (check_tier_mapping.py)
+### Tier 매칭 확인 (utils/check_tier_mapping.py)
 
 grid_tier.csv와 gridInfo.txt의 매칭 상태를 확인하는 유틸리티:
 
 ```bash
-python check_tier_mapping.py
+python utils/check_tier_mapping.py
 ```
 
 이 스크립트는:
@@ -319,6 +334,34 @@ BX2      RES    25         롱우드, 헌츠 포인트 (Longwood, Hunts Point)
 
 예상 총 식당 수집 개수: 3240개
 ```
+
+### Parquet 변환 (scripts/convert_reviews_to_parquet.py)
+
+수집한 JSON 리뷰 데이터를 효율적인 Parquet 형식으로 변환:
+
+```bash
+cd scripts
+python convert_reviews_to_parquet.py
+```
+
+- JSON 대비 70-90% 용량 절감
+- 빠른 쿼리 성능
+- Pandas, DuckDB, BigQuery 등과 호환
+- 자세한 내용은 `docs/README_PARQUET.md` 참조
+
+### Parquet 데이터 분석 (scripts/analyze_parquet_reviews.py)
+
+변환된 Parquet 데이터를 분석:
+
+```bash
+cd scripts
+python analyze_parquet_reviews.py
+```
+
+- 기본 통계 분석
+- Grid별 분석
+- 한국어 리뷰 분석
+- 레스토랑 검색 기능
 
 ## 파일 형식
 

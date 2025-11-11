@@ -8,10 +8,10 @@ fetch_restaurants.py
 import time
 import argparse
 import requests
-import config  # 사용자가 올려둔 config.py에서 API_KEY를 읽습니다. :contentReference[oaicite:1]{index=1}
+import config
+from config import API_KEY, TIER_RESTAURANT_COUNT, GRID_TIER_CSV, GRID_INFO_TXT, RESTAURANTS_DIR
 from typing import List, Dict, Optional
 
-API_KEY = config.API_KEY
 if not API_KEY:
     raise RuntimeError("API_KEY가 설정되어 있지 않습니다. 환경변수 GOOGLE_MAPS_API_KEY를 확인하세요.")
 
@@ -111,7 +111,7 @@ import json
 import csv
 import os
 
-def load_tier_info(csv_path: str = "grid_tier.csv") -> Dict[str, str]:
+def load_tier_info(csv_path: str = GRID_TIER_CSV) -> Dict[str, str]:
     """
     grid_tier.csv 파일을 읽어서 {code: tier} 딕셔너리 반환
     예: {"MN1": "HOT", "MN2": "HOT", ...}
@@ -135,9 +135,9 @@ def get_max_results_by_tier(tier: str) -> int:
     tier에 따라 가져올 식당 개수 반환
     config.py의 TIER_RESTAURANT_COUNT 사용
     """
-    return config.TIER_RESTAURANT_COUNT.get(tier.upper(), 50)  # 기본값 50
+    return TIER_RESTAURANT_COUNT.get(tier.upper(), 50)  # 기본값 50
 
-def parse_grid_info(txt_path: str = "gridInfo.txt") -> List[Dict[str, str]]:
+def parse_grid_info(txt_path: str = GRID_INFO_TXT) -> List[Dict[str, str]]:
     """
     gridInfo.txt 파일을 읽어서 grid 정보를 파싱
     반환: [{"code": "MN1", "name": "트라이베카, 금융 지구"}, ...]
@@ -194,10 +194,7 @@ def main():
             max_results = get_max_results_by_tier(tier)
 
             query = f"restaurants in {name}, New York"
-            output_file = f"restaurants/restaurants_{code}.json"
-
-            # restaurants 폴더 생성
-            os.makedirs("restaurants", exist_ok=True)
+            output_file = RESTAURANTS_DIR / f"restaurants_{code}.json"
 
             print(f"\n{'='*60}")
             print(f"처리 중: {code} - {name}")
